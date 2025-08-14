@@ -1,0 +1,45 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 101,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 101 (100)\\par }{\\qc\\b\\i O espelho dos príncipes\\par }{\\qc\\i De Davi. Salmo.\\par } Vou cantar o amor e o direito, \\par a ti, Iahweh, eu quero tocar; \\par",
+      "reference": "Sl 101:1"
+    },
+    "2": {
+      "text": "vou andar na integridade: \\par quando virás a mim? \\par Andarei de coração íntegro \\par dentro da minha casa; \\par",
+      "reference": "Sl 101:2"
+    },
+    "3": {
+      "text": "não porei uma coisa vil \\par diante dos meus olhos. \\par Odeio a ação dos apóstatas: \\par ela não me atrairá; \\par",
+      "reference": "Sl 101:3"
+    },
+    "4": {
+      "text": "longe de mim o coração pervertido, \\par eu ignoro o perverso. \\par",
+      "reference": "Sl 101:4"
+    },
+    "5": {
+      "text": "Quem calunia seu próximo em segredo \\par eu o farei calar; \\par olhar altivo e coração orgulhoso \\par eu não suportarei. \\par",
+      "reference": "Sl 101:5"
+    },
+    "6": {
+      "text": "Meus olhos estão nos leais da terra, \\par para que habitem comigo; \\par quem anda no caminho dos íntegros, \\par este será o meu ministro. \\par",
+      "reference": "Sl 101:6"
+    },
+    "7": {
+      "text": "Em minha casa não habitará \\par quem pratica fraudes; \\par o que fala mentiras não permanecerá \\par diante dos meus olhos. \\par",
+      "reference": "Sl 101:7"
+    },
+    "8": {
+      "text": "A cada manhã eu farei calar \\par todos os ímpios da terra, \\par para extirpar da cidade de Iahweh \\par todos os malfeitores. \\par",
+      "reference": "Sl 101:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

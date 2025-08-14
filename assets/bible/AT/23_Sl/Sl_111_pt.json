@@ -1,0 +1,53 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 111,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 111 (110)\\par }{\\qc\\b\\i Elogio das obras divinas\\par }Aleluia! \\par",
+      "reference": "Sl 111:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Alef\\par } Celebro a Iahweh de todo o coração \\par \\par {\\qc\\b\\i Bet\\par } na intimidade dos retos e no conselho. \\par \\par {\\qc\\b\\i Guimel\\par }Grandes são as obras de Iahweh, \\par",
+      "reference": "Sl 111:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Dalet\\par } dignas de estudo para quem as ama. \\par \\par {\\qc\\b\\i Hê\\par }Sua obra é esplendor e majestade, \\par",
+      "reference": "Sl 111:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Waw\\par } e sua justiça permanece para sempre. \\par \\par {\\qc\\b\\i Záin\\par }Ele deixou um memorial de suas maravilhas, \\par",
+      "reference": "Sl 111:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Het\\par } Iahweh é piedade e compaixão: \\par \\par {\\qc\\b\\i Tet\\par }Ele dá alimento aos que o temem, \\par",
+      "reference": "Sl 111:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Yod\\par } lembrando-se sempre da sua aliança; \\par \\par {\\qc\\b\\i Kaf\\par }mostra ao seu povo a força de suas obras, \\par",
+      "reference": "Sl 111:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par } entregando-lhe a herança das nações. \\par \\par {\\qc\\b\\i Mem\\par }Justiça e Verdade são as obras de suas mãos, \\par",
+      "reference": "Sl 111:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Nun\\par } seus preceitos todos merecem confiança: \\par \\par {\\qc\\b\\i Samec\\par }são estáveis para sempre e eternamente, \\par",
+      "reference": "Sl 111:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Áin\\par } vão cumprir-se com verdade e retidão. \\par \\par {\\qc\\b\\i Pê\\par }Ele envia libertação para seu povo, \\par",
+      "reference": "Sl 111:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Çade\\par }declarando sua aliança para sempre; \\par \\par {\\qc\\b\\i Qof\\par } seu nome é sagrado e terrível. \\par \\par {\\qc\\b\\i Resh\\par }O princípio da sabedoria é temer a Iahweh, \\par \\par {\\qc\\b\\i Shin\\par } todos os que o praticam têm bom senso. \\par \\par {\\qc\\b\\i Taw\\par } Seu louvor permanece para sempre. \\par",
+      "reference": "Sl 111:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

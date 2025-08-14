@@ -1,0 +1,37 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 128,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 128 (127)\\par }{\\qc\\b\\i Bênção para o fiel\\par }{\\qc\\i Cântico das subidas.\\par } Felizes todos os que temem a Iahweh \\par e andam em seus caminhos! \\par",
+      "reference": "Sl 128:1"
+    },
+    "2": {
+      "text": "Do trabalho de tuas mãos comerás, \\par tranqüilo e feliz: \\par",
+      "reference": "Sl 128:2"
+    },
+    "3": {
+      "text": "tua esposa será vinha fecunda, \\par no recesso do teu lar; \\par teus filhos, rebentos de oliveira, \\par ao redor de tua mesa. \\par",
+      "reference": "Sl 128:3"
+    },
+    "4": {
+      "text": "Assim vai ser abençoado \\par o homem que teme a Iahweh. \\par",
+      "reference": "Sl 128:4"
+    },
+    "5": {
+      "text": "Que Iahweh te abençoe de Sião, \\par e verás a prosperidade de Jerusalém \\par todos os dias de tua vida; \\par",
+      "reference": "Sl 128:5"
+    },
+    "6": {
+      "text": "e verás os filhos de teus filhos. \\par Paz sobre Israel! \\par",
+      "reference": "Sl 128:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

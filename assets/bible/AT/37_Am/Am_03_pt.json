@@ -1,0 +1,73 @@
+{
+  "book": 30,
+  "book_name": "Amós",
+  "book_abbr": "Am",
+  "book_category": "Profético",
+  "book_english": "Amos",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Advertências e ameaças a Israel}\\par }{\\qc\\b\\i Eleição e castigo\\par }Ouvi esta palavra que Iahweh falou contra vós, filhos de Israel, contra toda a família que eu fiz subir da terra do Egito: \\par",
+      "reference": "Am 3:1"
+    },
+    "2": {
+      "text": "Só a vós eu conheci de todas as famílias da terra, \\par por isso eu vos castigarei por todas as vossas faltas. \\par",
+      "reference": "Am 3:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i A vocação profética é irresistível\\par }Caminham duas pessoas juntas \\par sem que antes tenham combinado? \\par",
+      "reference": "Am 3:3"
+    },
+    "4": {
+      "text": "Ruge o leão na floresta \\par sem que tenha uma presa? \\par Levanta o filhote do leão a sua voz, em seu esconderijo, \\par sem que tenha capturado algo? \\par",
+      "reference": "Am 3:4"
+    },
+    "5": {
+      "text": "Cai um pássaro por terra na rede \\par sem que haja uma armadilha para ele? \\par Levanta-se uma rede do solo \\par sem capturar alguma coisa? \\par",
+      "reference": "Am 3:5"
+    },
+    "6": {
+      "text": "Se uma trombeta soa na cidade, \\par não ficará a população apavorada? \\par Se acontece uma desgraça na cidade, \\par não foi Iahweh quem agiu? \\par",
+      "reference": "Am 3:6"
+    },
+    "7": {
+      "text": "Pois o Senhor Iahweh não faz coisa alguma \\par sem revelar o seu segredo a seus servos, os profetas. \\par",
+      "reference": "Am 3:7"
+    },
+    "8": {
+      "text": "Um leão rugiu: quem não temerá? \\par O Senhor Iahweh falou: quem não profetizará? \\par",
+      "reference": "Am 3:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i A corrupta Samaria perecerá\\par }Proclamai nos palácios da Assíria \\par e nos palácios da terra do Egito; \\par dizei: reuni-vos nas montanhas da Samaria, \\par e vede as numerosas desordens em seu seio, \\par as violências em seu meio! \\par",
+      "reference": "Am 3:9"
+    },
+    "10": {
+      "text": "Não sabem agir com retidão, \\par – oráculo de Iahweh – \\par aqueles que amontoam opressão e rapina em seus palácios. \\par",
+      "reference": "Am 3:10"
+    },
+    "11": {
+      "text": "Por isso assim falou o Senhor Iahweh: \\par Um inimigo cercará a terra, \\par arrancará de ti o teu poder, \\par e os teus palácios serão saqueados. \\par",
+      "reference": "Am 3:11"
+    },
+    "12": {
+      "text": "Assim falou Iahweh: \\par Como o pastor salva da boca do leão \\par duas patas ou um pedaço da orelha, \\par assim serão salvos os filhos de Israel, \\par aqueles que estão instalados em Samaria, \\par na beira de um leito e sobre um divã de Damasco. \\par",
+      "reference": "Am 3:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Contra Betel e as habitações luxuosas\\par }Ouvi e testemunhai contra a casa de Jacó: \\par – oráculo do Senhor Iahweh, Deus dos Exércitos – \\par",
+      "reference": "Am 3:13"
+    },
+    "14": {
+      "text": "no dia em que eu castigar os crimes de Israel, \\par castigarei os altares de Betel; \\par os chifres do altar de Betel serão cortados \\par e cairão por terra. \\par",
+      "reference": "Am 3:14"
+    },
+    "15": {
+      "text": "Eu abaterei a casa de inverno com a casa de verão, \\par as casas de marfim serão destruídas, \\par e muitas casas desaparecerão, \\par oráculo de Iahweh. \\par",
+      "reference": "Am 3:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

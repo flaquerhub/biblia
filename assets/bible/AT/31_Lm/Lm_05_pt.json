@@ -1,0 +1,101 @@
+{
+  "book": 25,
+  "book_name": "Lamentações",
+  "book_abbr": "Lm",
+  "book_category": "Profético",
+  "book_english": "Lamentations",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Quinta lamentação}\\par }Lembra-te, Iahweh, do que nos sucedeu, \\par vê e considera o nosso opróbrio! \\par",
+      "reference": "Lm 5:1"
+    },
+    "2": {
+      "text": "Nossa herança passou a estranhos, \\par nossas casas a desconhecidos. \\par",
+      "reference": "Lm 5:2"
+    },
+    "3": {
+      "text": "Somos órfãos, já não temos pai; \\par nossas mães são como viúvas. \\par",
+      "reference": "Lm 5:3"
+    },
+    "4": {
+      "text": "Nossa água por dinheiro a bebemos, \\par nossa lenha entra como pagamento. \\par",
+      "reference": "Lm 5:4"
+    },
+    "5": {
+      "text": "O jugo está sobre nosso pescoço, empurram-nos; \\par estamos exaustos, não nos dão descanso. \\par",
+      "reference": "Lm 5:5"
+    },
+    "6": {
+      "text": "Estendemos a mão ao Egito, \\par à Assíria para nos fartarmos de pão. \\par",
+      "reference": "Lm 5:6"
+    },
+    "7": {
+      "text": "Nossos pais pecaram: já não existem; \\par nós é que carregamos as suas faltas. \\par",
+      "reference": "Lm 5:7"
+    },
+    "8": {
+      "text": "Escravos dominam sobre nós, \\par ninguém nos liberta de sua mão! \\par",
+      "reference": "Lm 5:8"
+    },
+    "9": {
+      "text": "Arriscamos nossas vidas por nosso pão \\par por causa da espada no deserto. \\par",
+      "reference": "Lm 5:9"
+    },
+    "10": {
+      "text": "Nossa pele queima como um forno \\par por causa dos ardores da fome. \\par",
+      "reference": "Lm 5:10"
+    },
+    "11": {
+      "text": "Violaram as mulheres em Sião, \\par as virgens nas cidades de Judá. \\par",
+      "reference": "Lm 5:11"
+    },
+    "12": {
+      "text": "Com suas mãos enforcaram os príncipes, \\par não foi honrada a face dos anciãos. \\par",
+      "reference": "Lm 5:12"
+    },
+    "13": {
+      "text": "Os adolescentes levam a mó, \\par os jovens tropeçam sob a lenha. \\par",
+      "reference": "Lm 5:13"
+    },
+    "14": {
+      "text": "Os anciãos cessaram de ir à porta, \\par os jovens cessaram sua música. \\par",
+      "reference": "Lm 5:14"
+    },
+    "15": {
+      "text": "Cessou a alegria de nosso coração, \\par converteu-se em luto a nossa dança. \\par",
+      "reference": "Lm 5:15"
+    },
+    "16": {
+      "text": "Caiu a coroa de nossa cabeça. \\par Ai de nós, porque pecamos! \\par",
+      "reference": "Lm 5:16"
+    },
+    "17": {
+      "text": "Eis por que nosso coração está doente, \\par eis por que se escureceram nossos olhos: \\par",
+      "reference": "Lm 5:17"
+    },
+    "18": {
+      "text": "porque o monte Sião está desolado, \\par nele passeiam as raposas! \\par",
+      "reference": "Lm 5:18"
+    },
+    "19": {
+      "text": "Mas tu, Iahweh, permaneces para sempre; \\par teu trono subsiste de geração em geração. \\par",
+      "reference": "Lm 5:19"
+    },
+    "20": {
+      "text": "Por que nos esquecerias para sempre, \\par nos abandonarias até o fim dos dias? \\par",
+      "reference": "Lm 5:20"
+    },
+    "21": {
+      "text": "Converte-nos a ti, Iahweh, e nos converteremos. \\par Renova nossos dias de outrora. \\par",
+      "reference": "Lm 5:21"
+    },
+    "22": {
+      "text": "Ou será que nos rejeitaste totalmente, \\par irritado, sem medida, contra nós? \\par",
+      "reference": "Lm 5:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

@@ -1,0 +1,53 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Joga teu pão sobre a água \\par porque após muitos dias o encontrarás. \\par",
+      "reference": "Ec 11:1"
+    },
+    "2": {
+      "text": "Reparte com sete e mesmo com oito, \\par pois não sabes que desgraça pode vir sobre a terra. \\par",
+      "reference": "Ec 11:2"
+    },
+    "3": {
+      "text": "Quando as nuvens estão cheias \\par derramam chuva sobre a terra; \\par e quando uma árvore cai, tanto ao sul como ao norte, \\par no lugar onde cair, aí ficará. \\par",
+      "reference": "Ec 11:3"
+    },
+    "4": {
+      "text": "Quem fica olhando o vento jamais semeará, \\par quem fica olhando as nuvens jamais ceifará. \\par",
+      "reference": "Ec 11:4"
+    },
+    "5": {
+      "text": "Assim como não conheces o caminho do vento \\par ou o do embrião no seio da mulher, \\par também não conheces a obra de Deus, que faz todas as coisas. \\par",
+      "reference": "Ec 11:5"
+    },
+    "6": {
+      "text": "De manhã semeia tua semente, \\par e à tarde não repouses a mão, \\par pois não sabes qual delas irá prosperar: \\par se esta ou aquela, ou se ambas serão boas. \\par",
+      "reference": "Ec 11:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i A idade\\par }Doce é a luz, \\par e agradável aos olhos ver o sol; \\par",
+      "reference": "Ec 11:7"
+    },
+    "8": {
+      "text": "ainda que o homem viva muitos anos, \\par alegre-se com eles todos, \\par mas lembre-se de que os dias de trevas serão muitos. \\par Tudo o que acontece é vaidade. \\par",
+      "reference": "Ec 11:8"
+    },
+    "9": {
+      "text": "Alegra-te, jovem, com tua juventude, \\par sê feliz nos dias da tua mocidade, \\par segue os caminhos do teu coração e os desejos dos teus olhos, \\par saibas, porém, que sobre estas coisas todas Deus te pedirá contas. \\par",
+      "reference": "Ec 11:9"
+    },
+    "10": {
+      "text": "Afasta do teu coração o desgosto, \\par e o sofrimento do teu corpo, \\par pois juventude e cabelos negros são vaidade. \\par",
+      "reference": "Ec 11:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

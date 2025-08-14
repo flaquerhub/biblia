@@ -1,0 +1,89 @@
+{
+  "book": 34,
+  "book_name": "Naum",
+  "book_abbr": "Na",
+  "book_category": "Profético",
+  "book_english": "Nahum",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Sentença sobre Nínive, a prostituta\\par }Ai da cidade sanguinária, \\par toda cheia de mentira, \\par repleta de despojos, \\par onde não cessa a rapina! \\par",
+      "reference": "Na 3:1"
+    },
+    "2": {
+      "text": "Estalido de chicotes, \\par estrépito de rodas, \\par cavalos a galope, \\par carros que pulam, \\par",
+      "reference": "Na 3:2"
+    },
+    "3": {
+      "text": "ginetes que empinam, \\par reluzir de espadas, \\par cintilar de lanças, \\par multidão de feridos, \\par mortos em massa, \\par cadáveres sem fim, \\par tropeça-se em seus cadáveres! \\par",
+      "reference": "Na 3:3"
+    },
+    "4": {
+      "text": "Por causa das inúmeras prostituições da prostituta \\par formosa, hábil feiticeira, \\par que vendia as nações por suas prostituições \\par e os povos por suas feitiçarias. \\par",
+      "reference": "Na 3:4"
+    },
+    "5": {
+      "text": "Eis-me contra ti \\par – oráculo de Iahweh dos Exércitos. \\par Levantarei tua roupa até à face, \\par mostrarei às nações a tua nudez \\par e aos reinos a tua ignomínia. \\par",
+      "reference": "Na 3:5"
+    },
+    "6": {
+      "text": "Jogarei sobre ti imundície, \\par desonrar-te-ei e farei de ti um espetáculo. \\par",
+      "reference": "Na 3:6"
+    },
+    "7": {
+      "text": "Então, todo aquele que te vir \\par fugirá de ti e dirá: \\par Nínive está devastada! \\par Quem terá compaixão dela? \\par Onde posso procurar consoladores para ti? \\par",
+      "reference": "Na 3:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i O exemplo de Tebas\\par }És, porventura, melhor do que No-Amon, \\par que está sentada entre os canais do Nilo, \\par (cercada de águas) \\par cujo baluarte é o mar \\par e cujas muralhas as águas? \\par",
+      "reference": "Na 3:8"
+    },
+    "9": {
+      "text": "A Etiópia era a sua força, \\par e o Egito também sem limite. \\par Fut e os líbios eram os seus auxiliares. \\par",
+      "reference": "Na 3:9"
+    },
+    "10": {
+      "text": "Pois também ela foi para o exílio, \\par em cativeiro; \\par suas crianças foram esmagadas \\par nas esquinas de todas as ruas; \\par sobre seus nobres lançaram a sorte, \\par todos os seus grandes \\par foram presos em grilhões. \\par",
+      "reference": "Na 3:10"
+    },
+    "11": {
+      "text": "Tu, também, te embriagarás, \\par serás aquela que se esconde, \\par tu, também, procurarás \\par um refúgio contra o inimigo. \\par",
+      "reference": "Na 3:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A inutilidade dos preparativos de Nínive\\par }Todas as tuas fortalezas são figueiras \\par com figos temporãos, \\par se os sacodem, caem \\par na boca de quem os come. \\par",
+      "reference": "Na 3:12"
+    },
+    "13": {
+      "text": "Eis o teu povo: \\par são mulheres que estão em teu seio; \\par as portas da tua terra \\par estão escancaradas \\par aos teus inimigos; \\par o fogo consome os teus ferrolhos. \\par",
+      "reference": "Na 3:13"
+    },
+    "14": {
+      "text": "Tira água para o tempo do cerco, \\par restaura as tuas fortalezas, \\par entra no barro e pisa na argila, \\par toma a forma para tijolos. \\par",
+      "reference": "Na 3:14"
+    },
+    "15": {
+      "text": "Ali o fogo te devorará, \\par a espada te exterminará. \\par \\par {\\qc\\b\\i O envio de gafanhotos\\par } Multiplica-te como o {\\i yeleq}, \\par multiplica-te como o gafanhoto! \\par",
+      "reference": "Na 3:15"
+    },
+    "16": {
+      "text": "{\\super (16a)} Multiplica os teus mercadores mais que as estrelas do céu, \\par",
+      "reference": "Na 3:16"
+    },
+    "17": {
+      "text": "{\\super (17a)} teus guardas, como gafanhotos, \\par e teus escribas como um enxame de insetos. \\par Eles pousam sobre os muros \\par em dia de frio. \\par O sol aparece, \\par {\\super (16b)} o {\\i yeleq} sai do casulo e voa, \\par {\\super (17b)} ele desaparece e ninguém sabe para onde. \\par",
+      "reference": "Na 3:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Lamentação fúnebre\\par }Ai! Como teus pastores cochilaram, \\par ó rei da Assíria? \\par Adormeceram os teus poderosos, \\par teu povo foi disperso sobre as montanhas, \\par e não há ninguém que o reúna. \\par",
+      "reference": "Na 3:18"
+    },
+    "19": {
+      "text": "Não há cura para a tua fratura, \\par tua ferida é incurável! \\par Todos os que ouvem notícias sobre ti \\par batem palmas a teu respeito; \\par pois, sobre quem não passou \\par continuamente a tua maldade? \\par",
+      "reference": "Na 3:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

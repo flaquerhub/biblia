@@ -1,0 +1,101 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As festas: Páscoa e Ázimos\\par }Observa o mês de Abib, celebrando uma Páscoa para Iahweh teu Deus, porque foi numa noite do mês de Abib que Iahweh teu Deus te fez sair do Egito.",
+      "reference": "Dt 16:1"
+    },
+    "2": {
+      "text": "Sacrificarás para Iahweh teu Deus uma Páscoa, ovelhas e bois, no lugar que Iahweh teu Deus houver escolhido para aí fazer habitar o seu nome.",
+      "reference": "Dt 16:2"
+    },
+    "3": {
+      "text": "Não comerás pão fermentado com ela. Durante sete dias comerás com ela Ázimos – um pão de miséria – pois saíste da terra do Egito às pressas, para que te lembres do dia em que saíste da terra do Egito, todos os dias da tua vida.",
+      "reference": "Dt 16:3"
+    },
+    "4": {
+      "text": "Durante sete dias não se encontrará fermento em todo o teu território, e da carne que tiveres sacrificado na tarde do primeiro dia nada deverá restar para a manhã seguinte.",
+      "reference": "Dt 16:4"
+    },
+    "5": {
+      "text": "Não poderás sacrificar a Páscoa numa das cidades que Iahweh teu Deus te dará,",
+      "reference": "Dt 16:5"
+    },
+    "6": {
+      "text": "mas tão-somente no lugar que Iahweh teu Deus houver escolhido para aí fazer habitar o seu nome. Sacrificarás a Páscoa à tarde, ao pôr-do-sol, hora em que saíste do Egito.",
+      "reference": "Dt 16:6"
+    },
+    "7": {
+      "text": "Tu a cozerás e comerás no lugar que Iahweh teu Deus houver escolhido. Pela manhã voltarás e irás para as tuas tendas.",
+      "reference": "Dt 16:7"
+    },
+    "8": {
+      "text": "Durante seis dias comerás ázimos e no sétimo dia haverá uma solene reunião em honra de Iahweh teu Deus. Nenhum trabalho realizarás. \\par",
+      "reference": "Dt 16:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Outras festas\\par }Contarás sete semanas. A partir do momento em que lançares a foice nas espigas, começarás a contar sete semanas.",
+      "reference": "Dt 16:9"
+    },
+    "10": {
+      "text": "Celebrarás então a festa das Semanas em honra de Iahweh teu Deus. A oferta espontânea que a tua mão fizer deverá ser proporcional ao modo como Iahweh teu Deus te houver abençoado.",
+      "reference": "Dt 16:10"
+    },
+    "11": {
+      "text": "E te alegrarás diante de Iahweh teu Deus, – tu, teu filho e tua filha, teu servo e tua serva, o levita que vive em tua cidade, e o estrangeiro, o órfão e a viúva que vivem no meio de ti, – no lugar que Iahweh teu Deus houver escolhido para aí fazer habitar o seu nome.",
+      "reference": "Dt 16:11"
+    },
+    "12": {
+      "text": "Recorda que foste escravo no Egito e cuida de pôr esses estatutos em prática. \\par",
+      "reference": "Dt 16:12"
+    },
+    "13": {
+      "text": "Celebrarás a festa das Tendas durante sete dias, após ter recolhido o produto da tua eira e do teu lagar.",
+      "reference": "Dt 16:13"
+    },
+    "14": {
+      "text": "E ficarás alegre com a tua festa, tu, teu filho e tua filha, teu servo e tua serva, o levita e o estrangeiro, o órfão e a viúva que vivem nas tuas cidades.",
+      "reference": "Dt 16:14"
+    },
+    "15": {
+      "text": "Durante sete dias festejarás em honra de Iahweh teu Deus, no lugar que Iahweh houver escolhido; pois Iahweh teu Deus vai te abençoar em todas as tuas colheitas e em todo trabalho da tua mão, para que fiques cheio de alegria. \\par",
+      "reference": "Dt 16:15"
+    },
+    "16": {
+      "text": "Três vezes por ano todo varão deverá comparecer diante de Iahweh teu Deus, no lugar que ele houver escolhido: na festa dos Ázimos, na festa das Semanas e na festa das tendas. E ninguém se apresente de mãos vazias diante de Iahweh;",
+      "reference": "Dt 16:16"
+    },
+    "17": {
+      "text": "cada um traga seu dom conforme a bênção que Iahweh teu Deus te houver proporcionado. \\par",
+      "reference": "Dt 16:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Os juízes\\par }Estabelecerás juízes e escribas em cada uma das cidades que Iahweh teu Deus vai dar para as tuas tribos. Eles julgarão o povo com sentenças justas.",
+      "reference": "Dt 16:18"
+    },
+    "19": {
+      "text": "Não perverterás o direito, não farás acepção de pessoas e nem aceitarás suborno, pois o suborno cega os olhos do sábio e falseia a causa dos justos.",
+      "reference": "Dt 16:19"
+    },
+    "20": {
+      "text": "Busca somente a justiça, para que vivas e possuas a terra que Iahweh teu Deus te dará. \\par",
+      "reference": "Dt 16:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Desvios do culto\\par }Não plantarás um poste sagrado ou qualquer árvore ao lado de um altar de Iahweh teu Deus que hajas feito para ti,",
+      "reference": "Dt 16:21"
+    },
+    "22": {
+      "text": "nem levantarás uma estela, porque Iahweh teu Deus a odeia. \\par",
+      "reference": "Dt 16:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

@@ -1,0 +1,137 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Se te converteres, Israel \\par – oráculo de Iahweh –, \\par se te converteres a mim, \\par se afastares teus horrores de minha presença \\par e não vagares mais, \\par",
+      "reference": "Jr 4:1"
+    },
+    "2": {
+      "text": "se jurares pela vida de Iahweh \\par na verdade, no direito e na justiça, \\par então se abençoarão nele as nações \\par e nele se glorificarão! \\par",
+      "reference": "Jr 4:2"
+    },
+    "3": {
+      "text": "Porque assim disse Iahweh \\par ao homem de Judá e a Jerusalém: \\par Arroteai para vós um campo novo \\par e não semeeis entre espinhos. \\par",
+      "reference": "Jr 4:3"
+    },
+    "4": {
+      "text": "Circuncidai-vos para Iahweh \\par e tirai o prepúcio de vosso coração, \\par homens de Judá e habitantes de Jerusalém, \\par para que a minha cólera não irrompa como fogo, \\par queime e não haja ninguém para apagar, \\par por causa da maldade de vossas obras. \\par",
+      "reference": "Jr 4:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i A invasão vinda do Norte\\par }Anunciai em Judá, \\par fazei ouvir em Jerusalém, dizei-o! \\par Tocai a trombeta na terra, \\par gritai em voz alta, dizei: \\par Reuni-vos! \\par Entremos nas cidades fortificadas! \\par",
+      "reference": "Jr 4:5"
+    },
+    "6": {
+      "text": "Levantai um sinal em direção a Sião! \\par Fugi! Não fiqueis parados! \\par Porque eu trago uma desgraça do Norte, \\par uma enorme ruína. \\par",
+      "reference": "Jr 4:6"
+    },
+    "7": {
+      "text": "O leão subiu de seu covil, \\par o destruidor das nações se pôs em marcha, \\par saiu de seu lugar, \\par para transformar a tua terra em solidão; \\par as tuas cidades serão destruídas, \\par até ficar sem habitantes. \\par",
+      "reference": "Jr 4:7"
+    },
+    "8": {
+      "text": "Por isso, vesti-vos de saco, \\par lamentai-vos e gemei, \\par porque não se afastou de nós \\par o ardor da ira de Iahweh. \\par",
+      "reference": "Jr 4:8"
+    },
+    "9": {
+      "text": "Naquele dia – oráculo de Iahweh –, \\par perecerá o coração do rei \\par e o coração dos príncipes; \\par os sacerdotes serão perturbados \\par e os profetas se espantarão. \\par",
+      "reference": "Jr 4:9"
+    },
+    "10": {
+      "text": "E eu disse: “Ai! Senhor Iahweh, \\par tu, verdadeiramente, enganaste esse povo e Jerusalém \\par quando dizias: ‘Vós tereis paz’, \\par enquanto a espada atingia até à garganta!” \\par",
+      "reference": "Jr 4:10"
+    },
+    "11": {
+      "text": "Naquele tempo, será dito \\par a esse povo e a Jerusalém: \\par um vento ardente das colinas \\par vem do deserto sobre a filha do meu povo. \\par – Não é nem para aventar, nem para limpar! – \\par",
+      "reference": "Jr 4:11"
+    },
+    "12": {
+      "text": "Um vento impetuoso vem a mim lá debaixo. \\par Agora eu mesmo vou proferir \\par o julgamento sobre eles! \\par",
+      "reference": "Jr 4:12"
+    },
+    "13": {
+      "text": "Eis que ele se levanta como nuvens, \\par seus carros são como um furacão, \\par seus cavalos são mais velozes do que águias. \\par Ai de nós que estamos perdidos! \\par",
+      "reference": "Jr 4:13"
+    },
+    "14": {
+      "text": "Purifica teu coração da maldade, Jerusalém, \\par para que sejas salva. \\par Até quando abrigarás em teu seio \\par teus pensamentos culpáveis? \\par",
+      "reference": "Jr 4:14"
+    },
+    "15": {
+      "text": "Porque uma voz se levanta de Dã \\par e anuncia a calamidade desde a montanha de Efraim. \\par",
+      "reference": "Jr 4:15"
+    },
+    "16": {
+      "text": "Relatai às nações, \\par anunciai contra Jerusalém: \\par inimigos chegam de uma terra longínqua \\par e lançam seus gritos de guerra contra as cidades de Judá. \\par",
+      "reference": "Jr 4:16"
+    },
+    "17": {
+      "text": "Como guardas de um campo, eles a cercam \\par porque ela se rebelou contra mim, \\par oráculo de Iahweh. \\par",
+      "reference": "Jr 4:17"
+    },
+    "18": {
+      "text": "Teu procedimento e tuas obras trouxeram-te estas coisas. \\par Esta é a tua maldade, como é amarga! \\par Como atinge até o teu coração! \\par",
+      "reference": "Jr 4:18"
+    },
+    "19": {
+      "text": "Minhas entranhas! Minhas entranhas! \\par Devo me contorcer! \\par Paredes do meu coração! \\par Meu coração se perturba em mim! \\par Não posso calar-me, \\par pois eu mesmo ouvi o som da trombeta, \\par o grito de guerra. \\par",
+      "reference": "Jr 4:19"
+    },
+    "20": {
+      "text": "Anuncia-se desastre sobre desastre: \\par pois toda a terra foi devastada, \\par de repente foram devastadas as minhas tendas, \\par em um instante os meus abrigos. \\par",
+      "reference": "Jr 4:20"
+    },
+    "21": {
+      "text": "Até quando eu verei o sinal, \\par ouvirei o som da trombeta? \\par",
+      "reference": "Jr 4:21"
+    },
+    "22": {
+      "text": "– Sim, meu povo é tolo, \\par eles não me conhecem, \\par são filhos insensatos, \\par não têm inteligência; \\par eles são sábios para o mal, \\par mas não sabem fazer o bem! \\par",
+      "reference": "Jr 4:22"
+    },
+    "23": {
+      "text": "Eu olhei a terra: eis que era vazia e disforme; \\par os céus: mas sua luz não existia. \\par",
+      "reference": "Jr 4:23"
+    },
+    "24": {
+      "text": "Olhei as montanhas: eis que elas tremiam \\par e todas as colinas se abalavam. \\par",
+      "reference": "Jr 4:24"
+    },
+    "25": {
+      "text": "Olhei e eis que não havia mais homens; \\par e todos os pássaros do céu tinham fugido. \\par",
+      "reference": "Jr 4:25"
+    },
+    "26": {
+      "text": "Olhei e eis que o Carmelo era um deserto, \\par e todas as suas cidades tinham sido destruídas \\par diante de Iahweh, \\par diante do ardor de sua ira. \\par",
+      "reference": "Jr 4:26"
+    },
+    "27": {
+      "text": "Porque assim disse Iahweh: \\par Toda a terra será devastada, \\par mas não a aniquilarei completamente. \\par",
+      "reference": "Jr 4:27"
+    },
+    "28": {
+      "text": "Por causa disto a terra está de luto \\par e o céu, lá em cima, se escurecerá! \\par Porque eu falei, eu decidi, \\par e não me arrependerei nem voltarei atrás. \\par",
+      "reference": "Jr 4:28"
+    },
+    "29": {
+      "text": "Ao grito do cavaleiro e do arqueiro, \\par toda a cidade fugiu: \\par entraram no matagal, \\par escalaram as rochas; \\par toda cidade foi abandonada \\par e mais ninguém habita nela. \\par",
+      "reference": "Jr 4:29"
+    },
+    "30": {
+      "text": "E tu, devastada, que vais fazer? \\par Por mais que te vistas de púrpura, \\par por mais que te enfeites com adornos de ouro, \\par por mais que alargues os teus olhos com pintura, \\par em vão te aformosearás! \\par Os teus amantes te desprezam, \\par atentam, apenas, contra a tua vida. \\par",
+      "reference": "Jr 4:30"
+    },
+    "31": {
+      "text": "Sim, ouço um grito como o de uma parturiente, \\par aflição como a da que dá à luz pela primeira vez; \\par é o grito da filha de Sião, que geme, e que estende as mãos: \\par “Ai de mim, que desfaleço \\par diante dos assassinos!” \\par",
+      "reference": "Jr 4:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

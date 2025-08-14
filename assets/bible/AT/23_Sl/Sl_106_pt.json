@@ -1,0 +1,205 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 106,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 106 (105)\\par }{\\qc\\b\\i Confissão nacional\\par }Aleluia! \\par Celebrai a Iahweh, porque ele é bom, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 106:1"
+    },
+    "2": {
+      "text": "Quem poderá dizer as proezas de Iahweh \\par e fazer ouvir todo o seu louvor? \\par",
+      "reference": "Sl 106:2"
+    },
+    "3": {
+      "text": "Feliz quem observa o direito \\par e pratica a justiça em todo o tempo! \\par",
+      "reference": "Sl 106:3"
+    },
+    "4": {
+      "text": "Lembra-te de mim, Iahweh, \\par por amor do teu povo, \\par visita-me com a tua salvação, \\par",
+      "reference": "Sl 106:4"
+    },
+    "5": {
+      "text": "para que eu veja o bem dos teus eleitos, \\par alegre com a alegria do teu povo, \\par glorioso com a tua herança! \\par",
+      "reference": "Sl 106:5"
+    },
+    "6": {
+      "text": "Nós pecamos com nossos pais, \\par nós nos desviamos, tornamo-nos ímpios; \\par",
+      "reference": "Sl 106:6"
+    },
+    "7": {
+      "text": "nossos pais no Egito \\par não compreenderam as tuas maravilhas. \\par Não se lembraram do teu grande amor \\par e se rebelaram contra o Altíssimo, \\par junto ao mar dos Juncos. \\par",
+      "reference": "Sl 106:7"
+    },
+    "8": {
+      "text": "Ele os salvou por causa do seu nome, \\par para mostrar-lhes a sua proeza. \\par",
+      "reference": "Sl 106:8"
+    },
+    "9": {
+      "text": "Ameaçou o mar dos Juncos, e ele secou, \\par guiou-os sobre os abismos e no deserto, \\par",
+      "reference": "Sl 106:9"
+    },
+    "10": {
+      "text": "salvou-os da mão hostil \\par e redimiu-os da mão do inimigo. \\par",
+      "reference": "Sl 106:10"
+    },
+    "11": {
+      "text": "E as águas recobriram seus opressores, \\par nenhum deles sequer pôde escapar. \\par",
+      "reference": "Sl 106:11"
+    },
+    "12": {
+      "text": "Então acreditaram em suas palavras \\par e cantaram o seu louvor. \\par",
+      "reference": "Sl 106:12"
+    },
+    "13": {
+      "text": "Bem depressa se esqueceram de suas obras, \\par não esperaram pelo seu desígnio; \\par",
+      "reference": "Sl 106:13"
+    },
+    "14": {
+      "text": "arderam de ambição no deserto \\par e tentaram a Deus em lugares solitários. \\par",
+      "reference": "Sl 106:14"
+    },
+    "15": {
+      "text": "Ele concedeu-lhes seu pedido \\par e mandou-lhes uma fraqueza vital; \\par",
+      "reference": "Sl 106:15"
+    },
+    "16": {
+      "text": "enciumaram a Moisés no acampamento \\par e Aarão, o santo de Iahweh. \\par",
+      "reference": "Sl 106:16"
+    },
+    "17": {
+      "text": "Abriu-se a terra e engoliu Datã, \\par e recobriu o grupo de Abiram. \\par",
+      "reference": "Sl 106:17"
+    },
+    "18": {
+      "text": "O fogo se inflamou contra seu grupo, \\par uma chama devorou os ímpios. \\par",
+      "reference": "Sl 106:18"
+    },
+    "19": {
+      "text": "Em Horeb fabricaram um novilho \\par e se prostraram diante do metal; \\par",
+      "reference": "Sl 106:19"
+    },
+    "20": {
+      "text": "eles trocaram sua glória \\par pela imagem de um boi, comedor de capim. \\par",
+      "reference": "Sl 106:20"
+    },
+    "21": {
+      "text": "Esqueceram o Deus que os salvou, \\par realizando prodígios no Egito, \\par",
+      "reference": "Sl 106:21"
+    },
+    "22": {
+      "text": "maravilhas na terra de Cam, \\par coisas terríveis sobre o mar dos Juncos. \\par",
+      "reference": "Sl 106:22"
+    },
+    "23": {
+      "text": "Então ele decidiu exterminá-los, \\par não fosse Moisés, seu escolhido, \\par que intercedeu diante dele \\par para desviar seu furor em destruí-los. \\par",
+      "reference": "Sl 106:23"
+    },
+    "24": {
+      "text": "Eles rejeitaram uma terra de delícias, \\par não tiveram fé na sua palavra; \\par",
+      "reference": "Sl 106:24"
+    },
+    "25": {
+      "text": "murmuraram dentro de suas tendas, \\par não obedeceram à voz de Iahweh. \\par",
+      "reference": "Sl 106:25"
+    },
+    "26": {
+      "text": "Ele ergueu sua mão sobre eles, \\par para abatê-los no deserto, \\par",
+      "reference": "Sl 106:26"
+    },
+    "27": {
+      "text": "para abater sua descendência entre as nações \\par e espalhá-los por entre as terras. \\par",
+      "reference": "Sl 106:27"
+    },
+    "28": {
+      "text": "Ligaram-se depois ao Baal de Fegor, \\par e comeram sacrifícios de mortos. \\par",
+      "reference": "Sl 106:28"
+    },
+    "29": {
+      "text": "Eles o enfureceram com suas ações \\par e um flagelo irrompeu contra eles. \\par",
+      "reference": "Sl 106:29"
+    },
+    "30": {
+      "text": "Postou-se então Finéias e julgou, \\par e o flagelo foi contido; \\par",
+      "reference": "Sl 106:30"
+    },
+    "31": {
+      "text": "seja-lhe isto considerado como justiça, \\par de geração em geração, para sempre. \\par",
+      "reference": "Sl 106:31"
+    },
+    "32": {
+      "text": "Eles o irritaram junto às águas de Meriba \\par e por sua causa sobreveio o mal a Moisés, \\par",
+      "reference": "Sl 106:32"
+    },
+    "33": {
+      "text": "pois irritaram seu espírito \\par e ele falou sem refletir. \\par",
+      "reference": "Sl 106:33"
+    },
+    "34": {
+      "text": "Eles não exterminaram os povos \\par dos quais lhes falara Iahweh; \\par",
+      "reference": "Sl 106:34"
+    },
+    "35": {
+      "text": "eles se misturaram às nações \\par e aprenderam seus modos de agir. \\par",
+      "reference": "Sl 106:35"
+    },
+    "36": {
+      "text": "Eles serviram seus ídolos, \\par que se tornaram uma cilada para eles! \\par",
+      "reference": "Sl 106:36"
+    },
+    "37": {
+      "text": "E sacrificaram seus filhos \\par e suas filhas aos demônios. \\par",
+      "reference": "Sl 106:37"
+    },
+    "38": {
+      "text": "E derramaram o sangue inocente, \\par o sangue de seus filhos e suas filhas, \\par que sacrificaram aos ídolos de Canaã, \\par e a terra manchou-se de sangue. \\par",
+      "reference": "Sl 106:38"
+    },
+    "39": {
+      "text": "Eles se sujaram com suas obras \\par e se prostituíram com suas ações; \\par",
+      "reference": "Sl 106:39"
+    },
+    "40": {
+      "text": "Iahweh inflamou-se contra o seu povo \\par e rejeitou a sua herança. \\par",
+      "reference": "Sl 106:40"
+    },
+    "41": {
+      "text": "Entregou-os na mão das nações \\par e seus adversários os dominaram; \\par",
+      "reference": "Sl 106:41"
+    },
+    "42": {
+      "text": "seus inimigos os tiranizaram \\par e sob sua mão ficaram curvados. \\par",
+      "reference": "Sl 106:42"
+    },
+    "43": {
+      "text": "Muitas vezes ele os livrou, \\par mas eles se obstinaram na revolta \\par e se corromperam na iniqüidade; \\par",
+      "reference": "Sl 106:43"
+    },
+    "44": {
+      "text": "ele viu a angústia deles, \\par ao ouvir os seus gemidos. \\par",
+      "reference": "Sl 106:44"
+    },
+    "45": {
+      "text": "Lembrou-se de sua aliança com eles \\par e moveu-se por seu grande amor; \\par",
+      "reference": "Sl 106:45"
+    },
+    "46": {
+      "text": "concedeu-lhes moverem-se de compaixão \\par todos aqueles que os mantinham cativos.\\par",
+      "reference": "Sl 106:46"
+    },
+    "47": {
+      "text": "Salva-nos, Iahweh nosso Deus! \\par Congrega-nos dentre as nações, \\par para que celebremos teu nome santo, \\par felicitando-nos com teu louvor! \\par",
+      "reference": "Sl 106:47"
+    },
+    "48": {
+      "text": "Bendito seja Iahweh, Deus de Israel, \\par desde sempre e para sempre! \\par E todo povo dirá: Amém! \\par",
+      "reference": "Sl 106:48"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 48
+}

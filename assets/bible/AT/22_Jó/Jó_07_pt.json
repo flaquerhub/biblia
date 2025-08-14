@@ -1,0 +1,97 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Não está o homem condenado a trabalhos forçados aqui na terra? \\par Não são seus dias os de um mercenário? \\par",
+      "reference": "Jó 7:1"
+    },
+    "2": {
+      "text": "Como o escravo suspira pela sombra, \\par como o mercenário espera o salário, \\par",
+      "reference": "Jó 7:2"
+    },
+    "3": {
+      "text": "assim tive por herança meses de decepção, \\par e couberam-me noites de pesar. \\par",
+      "reference": "Jó 7:3"
+    },
+    "4": {
+      "text": "Quando me deito, penso: “Quando virá o dia?” \\par Ao me levantar: “Quando chegará a noite?” \\par E pensamentos loucos invadem-me até ao crepúsculo. \\par",
+      "reference": "Jó 7:4"
+    },
+    "5": {
+      "text": "Meu corpo cobre-se de vermes e pústulas, \\par a pele rompe-se e supura. \\par",
+      "reference": "Jó 7:5"
+    },
+    "6": {
+      "text": "Meus dias correm mais rápido do que a lançadeira \\par e consomem-se sem esperança. \\par",
+      "reference": "Jó 7:6"
+    },
+    "7": {
+      "text": "Lembra-te que minha vida é um sopro, \\par e que meus olhos não voltarão a ver a felicidade. \\par",
+      "reference": "Jó 7:7"
+    },
+    "8": {
+      "text": "Os olhos de quem me via não mais me verão, \\par teus olhos pousarão sobre mim e já não existirei. \\par",
+      "reference": "Jó 7:8"
+    },
+    "9": {
+      "text": "Como a nuvem se dissipa e desaparece, \\par assim quem desce ao Xeol não subirá jamais. \\par",
+      "reference": "Jó 7:9"
+    },
+    "10": {
+      "text": "Não voltará para sua casa,\\par sua morada não tornará a vê-lo. \\par",
+      "reference": "Jó 7:10"
+    },
+    "11": {
+      "text": "Por isso, não refrearei minha língua, \\par falarei com espírito angustiado \\par e queixar-me-ei com a alma amargurada. \\par",
+      "reference": "Jó 7:11"
+    },
+    "12": {
+      "text": "Acaso sou o Mar ou o Dragão, \\par para que me cerques com guardas? \\par",
+      "reference": "Jó 7:12"
+    },
+    "13": {
+      "text": "Se eu disser: “Meu leito consolar-me-á \\par e minha cama aliviar-me-á o sofrimento”, \\par",
+      "reference": "Jó 7:13"
+    },
+    "14": {
+      "text": "então me assustas com sonhos \\par e me aterrorizas com visões. \\par",
+      "reference": "Jó 7:14"
+    },
+    "15": {
+      "text": "Preferiria morrer estrangulado; \\par antes a morte que meus tormentos. \\par",
+      "reference": "Jó 7:15"
+    },
+    "16": {
+      "text": "Eu pereço, não viverei para sempre; \\par deixa-me, pois os meus dias são um sopro! \\par",
+      "reference": "Jó 7:16"
+    },
+    "17": {
+      "text": "Que é o homem, para que faças caso dele, \\par para que te ocupes dele, \\par",
+      "reference": "Jó 7:17"
+    },
+    "18": {
+      "text": "para que o inspeciones cada manhã \\par e o examines a cada momento? \\par",
+      "reference": "Jó 7:18"
+    },
+    "19": {
+      "text": "Por que não afastas de mim o olhar \\par e não me deixas até que tiver engolido a saliva? \\par",
+      "reference": "Jó 7:19"
+    },
+    "20": {
+      "text": "Se pequei, que mal te fiz com isso, \\par sentinela dos homens? \\par Por que me tomas por alvo \\par e cheguei a ser um peso para ti? \\par",
+      "reference": "Jó 7:20"
+    },
+    "21": {
+      "text": "Por que não perdoas meu delito \\par e não deixas passar a minha culpa? \\par Eis que vou logo deitar-me no pó; \\par procurar-me-ás e já não existirei. \\par",
+      "reference": "Jó 7:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

@@ -1,0 +1,81 @@
+{
+  "book": 30,
+  "book_name": "Amós",
+  "book_abbr": "Am",
+  "book_category": "Profético",
+  "book_english": "Amos",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. As visões}\\par }{\\qc\\b\\i Primeira visão: os gafanhotos\\par }Assim me fez ver o Senhor Iahweh: \\par Havia uma eclosão de gafanhotos, \\par quando começava a crescer o feno serôdio, \\par gafanhotos adultos, depois da ceifa do rei. \\par",
+      "reference": "Am 7:1"
+    },
+    "2": {
+      "text": "E quando acabaram de devorar toda a erva da terra, \\par eu disse: “Senhor Iahweh, perdoa, eu te peço! \\par Como poderá Jacó subsistir? Ele é tão pequeno!” \\par",
+      "reference": "Am 7:2"
+    },
+    "3": {
+      "text": "Então Iahweh compadeceu-se: \\par “Isto não acontecerá”, disse Iahweh. \\par",
+      "reference": "Am 7:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Segunda visão: a seca\\par }Assim me fez ver o Senhor Iahweh: \\par Eis que o Senhor Iahweh convocou o fogo para castigar, \\par e ele devorou o grande abismo, \\par depois devorou o campo. \\par",
+      "reference": "Am 7:4"
+    },
+    "5": {
+      "text": "Eu disse: “Senhor Iahweh, pára, eu te peço! \\par Como poderá Jacó subsistir? Ele é tão pequeno!” \\par",
+      "reference": "Am 7:5"
+    },
+    "6": {
+      "text": "Iahweh compadeceu-se: \\par “Também isto não acontecerá”, disse o Senhor Iahweh. \\par",
+      "reference": "Am 7:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Terceira visão: o fio do prumo\\par }Assim me fez ver: \\par Eis que o Senhor estava de pé sobre um muro \\par e tinha em sua mão um fio de prumo. \\par",
+      "reference": "Am 7:7"
+    },
+    "8": {
+      "text": "E Iahweh me disse: “Que vês, Amós?” \\par Eu disse: “Um fio de prumo”. \\par O Senhor disse: “Eis que vou pôr um fio de prumo \\par no meio do meu povo, Israel, \\par não tornarei a perdoá-lo. \\par",
+      "reference": "Am 7:8"
+    },
+    "9": {
+      "text": "Os lugares altos de Isaac serão devastados, \\par os santuários de Israel serão arrasados \\par e eu me levantarei com a espada contra a casa de Jeroboão”. \\par",
+      "reference": "Am 7:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Conflito com Amasias. Amós expulso de Betel\\par }Então Amasias, sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel: “Amós conspira contra ti, no seio da casa de Israel: a terra não pode mais suportar todas as suas palavras.",
+      "reference": "Am 7:10"
+    },
+    "11": {
+      "text": "Porque assim disse Amós: ‘Jeroboão morrerá pela espada e Israel será deportado para longe de sua terra’”.",
+      "reference": "Am 7:11"
+    },
+    "12": {
+      "text": "Amasias disse então a Amós: “Vidente, vai, foge para a terra de Judá; come lá o teu pão e profetiza lá.",
+      "reference": "Am 7:12"
+    },
+    "13": {
+      "text": "Mas em Betel não podes mais profetizar, porque é um santuário do rei, um templo do reino”.",
+      "reference": "Am 7:13"
+    },
+    "14": {
+      "text": "Amós respondeu e disse a Amasias: “Não sou um profeta, nem filho de profeta; eu sou um vaqueiro e um cultivador de sicômoros.",
+      "reference": "Am 7:14"
+    },
+    "15": {
+      "text": "Mas Iahweh tirou-me de junto do rebanho e Iahweh me disse: ‘Vai, profetiza a meu povo, Israel!’",
+      "reference": "Am 7:15"
+    },
+    "16": {
+      "text": "E agora ouve a palavra de Iahweh: Tu dizes: ‘Não profetizarás contra Israel, e não vaticinarás contra a casa de Isaac’.",
+      "reference": "Am 7:16"
+    },
+    "17": {
+      "text": "Por isso, assim disse Iahweh: \\par ‘Tua mulher se prostituirá na cidade, \\par teus filhos e tuas filhas cairão pela espada, \\par a tua terra será dividida com a trena \\par e tu morrerás em uma terra impura, \\par Israel será deportado para longe de sua terra’”. \\par",
+      "reference": "Am 7:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

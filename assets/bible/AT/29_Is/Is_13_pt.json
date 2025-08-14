@@ -1,0 +1,101 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 3. ORÁCULOS SOBRE OS POVOS ESTRANGEIROS\\par }{\\qc\\b\\i Contra a Babilônia\\par }Oráculo que Isaías, filho de Amós, viu a respeito da Babilônia. \\par",
+      "reference": "Is 13:1"
+    },
+    "2": {
+      "text": "Alçai um sinal sobre um monte escalvado, \\par erguei a voz para eles, \\par acenai-lhes com a mão para que venham \\par às portas dos Nobres. \\par",
+      "reference": "Is 13:2"
+    },
+    "3": {
+      "text": "Quanto a mim, dei ordens aos meus santos guerreiros, \\par eu mesmo chamei os meus valentes para o serviço da minha ira, \\par os que se regozijam na minha grandeza. \\par",
+      "reference": "Is 13:3"
+    },
+    "4": {
+      "text": "Eis um tumulto nos montes, \\par semelhante ao de um povo imenso \\par vozerio agitado de reinos, de nações reunidas: \\par é Iahweh dos Exércitos a passar revista \\par o exército para a guerra. \\par",
+      "reference": "Is 13:4"
+    },
+    "5": {
+      "text": "Ei-los que vêm de uma terra distante, \\par da extremidade dos céus, \\par Iahweh e os instrumentos da sua ira, \\par para devastar toda a terra. \\par",
+      "reference": "Is 13:5"
+    },
+    "6": {
+      "text": "Uivai, porque está próximo o dia de Iahweh, \\par ele chega como devastação de Shaddai. \\par",
+      "reference": "Is 13:6"
+    },
+    "7": {
+      "text": "Eis que todas as mãos desfalecem, \\par todos os corações humanos se derretem; \\par",
+      "reference": "Is 13:7"
+    },
+    "8": {
+      "text": "estão apavorados, \\par convulsões e dores lancinantes se apoderam deles; \\par contorcem-se como uma parturiente, \\par olham espantados uns para os outros \\par os seus rostos estão abrasados. \\par",
+      "reference": "Is 13:8"
+    },
+    "9": {
+      "text": "Eis o dia de Iahweh, que vem implacável, \\par e com ele o furor ardente da ira, \\par reduzindo a terra a desolação \\par e extirpando dela os pecadores. \\par",
+      "reference": "Is 13:9"
+    },
+    "10": {
+      "text": "Com efeito, as estrelas do céu e Órion não darão a sua luz. \\par O sol se escurecerá ao nascer, \\par e a lua não dará a sua claridade. \\par",
+      "reference": "Is 13:10"
+    },
+    "11": {
+      "text": "Hei de punir o mundo por causa da sua maldade \\par e os ímpios por causa da sua iniqüidade; \\par hei de pôr fim à arrogância dos soberbos, \\par humilharei a altivez dos tiranos. \\par",
+      "reference": "Is 13:11"
+    },
+    "12": {
+      "text": "Farei com que os homens sejam mais raros que o ouro fino, \\par os mortais, mais raros que o ouro de Ofir. \\par",
+      "reference": "Is 13:12"
+    },
+    "13": {
+      "text": "Por isto farei estremecer os céus, \\par a terra se moverá do seu lugar, \\par em virtude do furor de Iahweh dos Exércitos, \\par no dia em que arder a sua ira. \\par",
+      "reference": "Is 13:13"
+    },
+    "14": {
+      "text": "Sucederá então o que sucede com uma gazela perseguida, \\par ou com uma ovelha que ninguém recolhe: \\par cada um voltará para o seu povo, \\par cada um fugirá para a sua terra. \\par",
+      "reference": "Is 13:14"
+    },
+    "15": {
+      "text": "Todo aquele que for encontrado será trespassado; \\par todo aquele que for apanhado cairá à espada. \\par",
+      "reference": "Is 13:15"
+    },
+    "16": {
+      "text": "As tuas crianças serão despedaçadas sob os seus olhos, \\par as suas casas serão saqueadas e as suas mulheres violentadas. \\par",
+      "reference": "Is 13:16"
+    },
+    "17": {
+      "text": "Eis que vou suscitar contra eles os medos \\par que não fazem caso de prata, nem dão valor ao ouro. \\par",
+      "reference": "Is 13:17"
+    },
+    "18": {
+      "text": "Os arcos prostrarão os meninos; \\par eles não terão pena das criancinhas, \\par os seus olhos não pouparão os filhinhos. \\par",
+      "reference": "Is 13:18"
+    },
+    "19": {
+      "text": "Assim Babilônia, a pérola dentre os reinos, \\par o adorno e o orgulho dos caldeus, \\par será como Sodoma e como Gomorra, \\par que foram reduzidas a ruína por Deus. \\par",
+      "reference": "Is 13:19"
+    },
+    "20": {
+      "text": "Nunca mais será habitada, \\par de geração em geração não será povoada. \\par Ali não acampará jamais o árabe, \\par e os pastores não farão repousar ali os seus rebanhos. \\par",
+      "reference": "Is 13:20"
+    },
+    "21": {
+      "text": "Antes, ali farão o seu pouso os animais do deserto, \\par e as suas casas ficarão cheias de bufos; \\par ali habitarão os avestruzes, \\par os bodes ali dançarão. \\par",
+      "reference": "Is 13:21"
+    },
+    "22": {
+      "text": "As hienas uivarão nas suas torres, \\par os chacais, nos seus palácios suntuosos. \\par Com efeito, o tempo está próximo: \\par os seus dias não serão prorrogados. \\par",
+      "reference": "Is 13:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

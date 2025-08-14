@@ -1,0 +1,61 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Aborrecimentos dos filisteus com a Arca\\par }Assim que os filisteus se apossaram da Arca de Deus, levaram-na de Ebenezer a Azoto.",
+      "reference": "1Sm 5:1"
+    },
+    "2": {
+      "text": "Os filisteus pegaram a Arca de Deus e a introduziram no templo de Dagon e a depositaram ao lado de Dagon.",
+      "reference": "1Sm 5:2"
+    },
+    "3": {
+      "text": "Quando os azotitas se levantaram na manhã do dia seguinte e vieram ao templo de Dagon, eis que Dagon estava caído, com o rosto em terra, diante da Arca de Iahweh. Tomaram Dagon e o puseram novamente no seu lugar.",
+      "reference": "1Sm 5:3"
+    },
+    "4": {
+      "text": "Mas quando se levantaram muito cedo na manhã seguinte, eis que Dagon estava caído com o rosto no chão diante da Arca de Iahweh, e a cabeça de Dagon e as duas mãos, cortadas, jaziam à entrada. Só o tronco de Dagon restava no seu lugar.",
+      "reference": "1Sm 5:4"
+    },
+    "5": {
+      "text": "Por isso é que os sacerdotes de Dagon e todos os que entram no seu templo não pisam no limiar de Dagon em Azoto até o dia de hoje. \\par",
+      "reference": "1Sm 5:5"
+    },
+    "6": {
+      "text": "A mão de Iahweh pesou sobre os azotitas e os afligiu com tumores, em Azoto e nas redondezas.",
+      "reference": "1Sm 5:6"
+    },
+    "7": {
+      "text": "Quando os habitantes de Azoto viram o que lhes acontecia, disseram: “Não fique conosco a Arca do Deus de Israel, porque a sua mão se endureceu contra nós e contra o nosso deus Dagon”.",
+      "reference": "1Sm 5:7"
+    },
+    "8": {
+      "text": "Mandaram então convocar todos os príncipes dos filisteus, para que se reunissem com eles, e disseram: “Que devemos fazer com a Arca do Deus de Israel?” Decidiram: “A Arca do Deus de Israel seja levada a Gat”, e levaram a Arca do Deus de Israel.",
+      "reference": "1Sm 5:8"
+    },
+    "9": {
+      "text": "Mas logo que a levaram, a mão de Iahweh caiu sobre a cidade e houve um grande pânico: os homens da cidade foram afligidos, do maior até o menor, e lhes saíram tumores.",
+      "reference": "1Sm 5:9"
+    },
+    "10": {
+      "text": "Enviaram então a Arca de Deus a Acaron, e assim que a Arca de Deus ali chegou, os acaronitas gritaram, dizendo: “Trouxeram a Arca do Deus de Israel para me fazer perecer, a mim e a meu povo!”",
+      "reference": "1Sm 5:10"
+    },
+    "11": {
+      "text": "Então mandaram convocar todos os príncipes dos filisteus, e disseram: “Devolvei a Arca do Deus de Israel: que retorne ao seu lugar e não mais me destrua a mim e ao meu povo”. De fato, um grande medo da morte se sentia em toda a cidade, tanto pesara a mão de Deus ali.",
+      "reference": "1Sm 5:11"
+    },
+    "12": {
+      "text": "Aqueles que não morriam eram afligidos com tumores, e gritos de aflição subiam ao céu. \\par",
+      "reference": "1Sm 5:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

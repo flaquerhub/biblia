@@ -1,0 +1,97 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra Tiro\\par }No undécimo ano, no primeiro dia do mês, a palavra de Iahweh me foi dirigida nestes termos: \\par",
+      "reference": "Ez 26:1"
+    },
+    "2": {
+      "text": "Filho do homem, visto que Tiro disse sobre Jerusalém: \\par Viva! A porta dos povos está quebrada; \\par ela voltou-se para mim, sua riqueza está destruída. \\par",
+      "reference": "Ez 26:2"
+    },
+    "3": {
+      "text": "Pois bem! Assim diz o Senhor Iahweh: \\par Eu me porei contra ti, ó Tiro, \\par levantarei contra ti muitas nações \\par como o mar levanta as suas ondas. \\par",
+      "reference": "Ez 26:3"
+    },
+    "4": {
+      "text": "Elas destruirão os muros de Tiro, \\par arrasarão as suas torres. \\par Varrerei a sua poeira \\par e a reduzirei a uma rocha descalvada. \\par",
+      "reference": "Ez 26:4"
+    },
+    "5": {
+      "text": "Ela será um enxugadouro de redes no meio do mar, \\par porque eu o disse, oráculo do Senhor Iahweh. \\par Ela será saqueada pelas nações. \\par",
+      "reference": "Ez 26:5"
+    },
+    "6": {
+      "text": "Quanto às suas filhas que se encontram no campo, \\par serão mortas à espada \\par e saberão que eu sou Iahweh. \\par",
+      "reference": "Ez 26:6"
+    },
+    "7": {
+      "text": "Com efeito, assim diz o Senhor Iahweh: \\par Eis que vou trazer a Tiro, vindo do norte, \\par Nabucodonosor, rei da Babilônia, rei dos reis, \\par com carros e cavaleiros, \\par com uma multidão imensa. \\par",
+      "reference": "Ez 26:7"
+    },
+    "8": {
+      "text": "As tuas filhas que se encontram no campo, \\par matá-las-á à espada. \\par Levantará trincheiras contra ti, \\par contra ti erguerá um terrapleno, \\par contra ti alçará um pavês. \\par",
+      "reference": "Ez 26:8"
+    },
+    "9": {
+      "text": "Aplicará os golpes dos seus aríetes contra os teus muros \\par e derribará as tuas torres com as suas máquinas. \\par",
+      "reference": "Ez 26:9"
+    },
+    "10": {
+      "text": "Em virtude da multidão dos seus cavalos, a sua poeira te cobrirá; \\par por causa do ruído dos seus cavalos, das suas carroças e dos seus carros \\par tremerão os teus muros, ao entrar pelas tuas portas, \\par como quem entra em uma cidade por uma brecha. \\par",
+      "reference": "Ez 26:10"
+    },
+    "11": {
+      "text": "Pisará todas as tuas ruas com as patas dos seus cavalos, \\par matará o teu povo à espada, \\par porá por terra as tuas estelas colossais. \\par",
+      "reference": "Ez 26:11"
+    },
+    "12": {
+      "text": "Saquearão a tua riqueza e despojarão as tuas mercadorias; \\par porão por terra os teus muros, \\par demolirão as tuas casas luxuosas \\par e atirarão à água as tuas pedras, a tua madeira e a tua caliça. \\par",
+      "reference": "Ez 26:12"
+    },
+    "13": {
+      "text": "Farei cessar o ruído dos teus cantos, \\par os sons das tuas cítaras já não se ouvirão. \\par",
+      "reference": "Ez 26:13"
+    },
+    "14": {
+      "text": "Reduzir-te-ei a uma rocha descalvada, \\par serás um enxugadouro de redes, \\par nunca mais serás reconstruída, \\par porque eu, Iahweh, o disse, oráculo do Senhor Iahweh. \\par",
+      "reference": "Ez 26:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Lamentação sobre Tiro\\par }Assim diz o Senhor Iahweh a Tiro: Porventura não tremerão as ilhas ao ruído da tua queda, ao gemido dos teus feridos, ao consumar-se a matança no meio de ti?",
+      "reference": "Ez 26:15"
+    },
+    "16": {
+      "text": "Então todos os príncipes do mar descerão dos seus tronos, tirarão as suas capas e despirão as suas vestes matizadas. Vestir-se-ão de temor, sentar-se-ão em terra, estremecerão a todo instante, por causa de ti.",
+      "reference": "Ez 26:16"
+    },
+    "17": {
+      "text": "Farão uma lamentação a teu respeito e te dirão: \\par Ei-la destruída, desaparecida dos mares, \\par a cidade tão célebre, \\par que foi poderosa no mar, \\par ela e seus habitantes, \\par que enchiam de respeito todo o continente. \\par",
+      "reference": "Ez 26:17"
+    },
+    "18": {
+      "text": "Agora, no dia da sua queda \\par as ilhas sentem um arrepio, \\par as ilhas do mar estão apavoradas com o teu fim. \\par",
+      "reference": "Ez 26:18"
+    },
+    "19": {
+      "text": "Portanto, assim diz Iahweh: \\par Quando eu te reduzir a uma cidade deserta, igual às cidades desabitadas, quando fizer subir contra ti o abismo, e águas abundantes te cobrirem,",
+      "reference": "Ez 26:19"
+    },
+    "20": {
+      "text": "então te precipitarei juntamente com os que descem para a cova, para junto do povo de outrora. Far-te-ei habitar nas profundezas da terra, como as ruínas de outrora, com os que descem para a cova, de modo que não voltes a ser estabelecida na terra dos viventes.",
+      "reference": "Ez 26:20"
+    },
+    "21": {
+      "text": "Reduzir-te-ei a um objeto de terror e já não existirás. Serás procurada, mas nunca mais serás encontrada, oráculo do Senhor Iahweh. \\par",
+      "reference": "Ez 26:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

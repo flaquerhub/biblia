@@ -1,0 +1,65 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Oração da manhã}\\par }{\\qc\\i Do mestre de canto. Para flautas. Salmo. De Davi. \\par }",
+      "reference": "Sl 5:1"
+    },
+    "2": {
+      "text": "Iahweh, dá ouvido às minhas palavras, \\par considera o meu gemido. \\par",
+      "reference": "Sl 5:2"
+    },
+    "3": {
+      "text": "Ouve atento meu grito por socorro, \\par meu Rei e meu Deus!\\par É a ti que eu suplico,",
+      "reference": "Sl 5:3"
+    },
+    "4": {
+      "text": "Iahweh! \\par De manhã ouves minha voz; \\par de manhã eu te apresento minha causa \\par e fico esperando...\\par",
+      "reference": "Sl 5:4"
+    },
+    "5": {
+      "text": "Tu não és um Deus que goste da impiedade, \\par o mau não é teu hóspede; \\par",
+      "reference": "Sl 5:5"
+    },
+    "6": {
+      "text": "não, os arrogantes não se mantêm \\par na tua presença. \\par Odeias todos os malfeitores. \\par",
+      "reference": "Sl 5:6"
+    },
+    "7": {
+      "text": "Destróis os mentirosos, \\par o homem sanguinário e fraudulento \\par Iahweh o rejeita. \\par",
+      "reference": "Sl 5:7"
+    },
+    "8": {
+      "text": "Quanto a mim, por teu grande amor \\par entro em tua casa; \\par eu me prostro em teu sagrado templo, \\par cheio de temor. \\par",
+      "reference": "Sl 5:8"
+    },
+    "9": {
+      "text": "Guia-me com tua justiça, Iahweh, \\par por causa dos que me espreitam. \\par Endireita à minha frente o teu caminho! \\par",
+      "reference": "Sl 5:9"
+    },
+    "10": {
+      "text": "Pois não há sinceridade em sua boca, \\par seu íntimo é cheio de maquinações; \\par sua garganta é um sepulcro aberto \\par e sua língua é fluente. \\par",
+      "reference": "Sl 5:10"
+    },
+    "11": {
+      "text": "Declara-os culpados, ó Deus, \\par que seus planos fracassem! \\par Expulsa-os por seus crimes numerosos, \\par porque se revoltam contra ti. \\par",
+      "reference": "Sl 5:11"
+    },
+    "12": {
+      "text": "Todos os que se abrigam em ti se alegrem \\par e se rejubilem para sempre; \\par tu os proteges e exultam em ti \\par os que amam o teu nome. \\par",
+      "reference": "Sl 5:12"
+    },
+    "13": {
+      "text": "Sim, Iahweh, tu abençoas o justo, \\par teu favor o cobre como escudo. \\par",
+      "reference": "Sl 5:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

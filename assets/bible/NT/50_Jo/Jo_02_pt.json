@@ -1,0 +1,113 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As núpcias de Caná\\par }No terceiro dia, houve um casamento em Caná da Galiléia e a mãe de Jesus estava lá.",
+      "reference": "Jo 2:1"
+    },
+    "2": {
+      "text": "Jesus foi convidado para o casamento e os seus discípulos também.",
+      "reference": "Jo 2:2"
+    },
+    "3": {
+      "text": "Ora, não havia mais vinho, pois o vinho do casamento tinha-se acabado. Então a mãe de Jesus lhe disse: “Eles não têm mais vinho”.",
+      "reference": "Jo 2:3"
+    },
+    "4": {
+      "text": "Respondeu-lhe Jesus: “Que queres de mim, mulher? Minha hora ainda não chegou”.",
+      "reference": "Jo 2:4"
+    },
+    "5": {
+      "text": "Sua mãe disse aos serventes: “{\\i Fazei tudo o que ele vos disser}”. \\par",
+      "reference": "Jo 2:5"
+    },
+    "6": {
+      "text": "Havia ali seis talhas de pedra para a purificação dos judeus, cada uma contendo de duas a três medidas.",
+      "reference": "Jo 2:6"
+    },
+    "7": {
+      "text": "Jesus lhes disse: “Enchei as talhas de água”. Eles as encheram até à borda.",
+      "reference": "Jo 2:7"
+    },
+    "8": {
+      "text": "Então lhes disse: “Tirai agora e levai ao mestre-sala”. Eles levaram.",
+      "reference": "Jo 2:8"
+    },
+    "9": {
+      "text": "Quando o mestre-sala provou a água transformada em vinho – ele não sabia de onde vinha, mas o sabiam os serventes que haviam retirado a água – chamou o noivo",
+      "reference": "Jo 2:9"
+    },
+    "10": {
+      "text": "e lhe disse: “Todo homem serve primeiro o vinho bom e, quando os convidados já estão embriagados serve o inferior. Tu guardaste o vinho bom até agora!”",
+      "reference": "Jo 2:10"
+    },
+    "11": {
+      "text": "Esse princípio dos sinais, Jesus o fez em Caná da Galiléia e manifestou a sua glória e os seus discípulos creram nele.",
+      "reference": "Jo 2:11"
+    },
+    "12": {
+      "text": "Depois disso, desceram a Cafarnaum, ele, sua mãe, seus irmãos e seus discípulos, e ali ficaram apenas alguns dias. \\par",
+      "reference": "Jo 2:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b B. A PRIMEIRA PÁSCOA\\par }{\\qc\\b\\i A purificação do Templo\\par }Estando próxima a Páscoa dos judeus, Jesus subiu a Jerusalém.",
+      "reference": "Jo 2:13"
+    },
+    "14": {
+      "text": "No Templo, encontrou os vendedores de bois, de ovelhas e de pombas e os cambistas sentados.",
+      "reference": "Jo 2:14"
+    },
+    "15": {
+      "text": "Tendo feito um chicote de cordas, expulsou todos do Templo, com as ovelhas e com os bois; lançou ao chão o dinheiro dos cambistas e derrubou as mesas",
+      "reference": "Jo 2:15"
+    },
+    "16": {
+      "text": "e disse aos que vendiam pombas: “Tirai tudo isto daqui; não façais da casa de meu Pai uma casa de comércio”.",
+      "reference": "Jo 2:16"
+    },
+    "17": {
+      "text": "Recordaram-se seus discípulos do que está escrito: {\\i O zelo por tua casa me devorará. }\\par",
+      "reference": "Jo 2:17"
+    },
+    "18": {
+      "text": "Os judeus interpelaram-no, então, dizendo: “Que sinal nos mostras para agires assim?”",
+      "reference": "Jo 2:18"
+    },
+    "19": {
+      "text": "Respondeu-lhes Jesus: “Destruí este templo, e em três dias eu o levantarei”.",
+      "reference": "Jo 2:19"
+    },
+    "20": {
+      "text": "Disseram-lhe, então, os judeus: “Quarenta e seis anos foram precisos para se construir este Templo, e tu o levantarás em três dias?”",
+      "reference": "Jo 2:20"
+    },
+    "21": {
+      "text": "Ele, porém, falava do templo do seu corpo.",
+      "reference": "Jo 2:21"
+    },
+    "22": {
+      "text": "Assim, quando ele ressuscitou dos mortos seus discípulos lembraram-se de que dissera isso, e creram na Escritura e na palavra dita por Jesus. \\par",
+      "reference": "Jo 2:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Estada em Jerusalém\\par }Enquanto estava em Jerusalém, para a festa da Páscoa, vendo os sinais que fazia, muitos creram em seu nome.",
+      "reference": "Jo 2:23"
+    },
+    "24": {
+      "text": "Mas Jesus não tinha confiança neles, porque os conhecia a todos",
+      "reference": "Jo 2:24"
+    },
+    "25": {
+      "text": "e não necessitava que lhe dessem testemunho sobre o homem, porque ele conhecia o que havia no homem. \\par",
+      "reference": "Jo 2:25"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 25
+}

@@ -1,0 +1,117 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 34,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os sonhos\\par }As esperanças vãs e mentirosas são para o homem insensato, \\par os sonhos dão asas aos estultos. \\par",
+      "reference": "Eclo 34:1"
+    },
+    "2": {
+      "text": "Pegar sombras e perseguir vento, \\par assim é quem atende a sonhos. \\par",
+      "reference": "Eclo 34:2"
+    },
+    "3": {
+      "text": "Espelho e sonhos são coisas semelhantes; \\par diante de um rosto aparece a sua imagem. \\par",
+      "reference": "Eclo 34:3"
+    },
+    "4": {
+      "text": "Do impuro que se pode tirar de puro? \\par Da mentira que verdade se pode tirar? \\par",
+      "reference": "Eclo 34:4"
+    },
+    "5": {
+      "text": "Adivinhações, augúrios, sonhos são coisas vãs, \\par são como o devaneio de uma mulher grávida. \\par",
+      "reference": "Eclo 34:5"
+    },
+    "6": {
+      "text": "Se eles não foram enviados pelo Altíssimo, \\par numa de suas visitas, não lhes dês atenção. \\par",
+      "reference": "Eclo 34:6"
+    },
+    "7": {
+      "text": "Pois os sonhos extraviaram a muitos, \\par os que neles esperavam caíram. \\par",
+      "reference": "Eclo 34:7"
+    },
+    "8": {
+      "text": "É sem mentira que se cumprirá a Lei \\par e a sabedoria é perfeita na boca do fiel. \\par",
+      "reference": "Eclo 34:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i As viagens\\par }Conhece muitas coisas aquele que muito viajou, \\par aquele que tem muita experiência fala com inteligência. \\par",
+      "reference": "Eclo 34:9"
+    },
+    "10": {
+      "text": "O que não foi provado pouco sabe, \\par mas o que muito viaja aumenta sua sagacidade. \\par",
+      "reference": "Eclo 34:10"
+    },
+    "11": {
+      "text": "Muita coisa vi em minhas viagens, \\par meu conhecimento é maior que muitas palavras. \\par",
+      "reference": "Eclo 34:11"
+    },
+    "12": {
+      "text": "Muitas vezes estive em perigo de morte, \\par eis como fui salvo: \\par",
+      "reference": "Eclo 34:12"
+    },
+    "13": {
+      "text": "viverá o espírito daqueles que temem ao Senhor, \\par porque a sua esperança está em quem os pode salvar. \\par",
+      "reference": "Eclo 34:13"
+    },
+    "14": {
+      "text": "O que teme ao Senhor nada receia, \\par nem se aterroriza, pois o Senhor é sua esperança. \\par",
+      "reference": "Eclo 34:14"
+    },
+    "15": {
+      "text": "A alma do que teme ao Senhor é feliz: \\par Em que se apóia? Qual o seu sustentáculo? \\par",
+      "reference": "Eclo 34:15"
+    },
+    "16": {
+      "text": "Os olhos do Senhor estão fixos sobre aqueles que o amam, \\par possante proteção, sustentáculo cheio de força, \\par abrigo contra o vento do deserto, abrigo contra o ardor do meio-dia, \\par proteção contra os obstáculos, socorro contra quedas. \\par",
+      "reference": "Eclo 34:16"
+    },
+    "17": {
+      "text": "Ele eleva a alma, ilumina os olhos, \\par dando saúde, vida e bênção. \\par",
+      "reference": "Eclo 34:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Sacrifícios\\par }Sacrificar um bem mal adquirido é oblação de escárnio, \\par os dons dos maus não são agradáveis. \\par",
+      "reference": "Eclo 34:18"
+    },
+    "19": {
+      "text": "O Altíssimo não se agrada com as oferendas dos ímpios \\par e nem é pela abundância das vítimas que ele perdoa os pecados. \\par",
+      "reference": "Eclo 34:19"
+    },
+    "20": {
+      "text": "Como o que imola o filho na presença de seu pai, \\par assim é o que oferece um sacrifício com os bens dos pobres. \\par",
+      "reference": "Eclo 34:20"
+    },
+    "21": {
+      "text": "Escasso alimento é o sustento do pobre, \\par quem dele o priva é um homem sanguinário. \\par",
+      "reference": "Eclo 34:21"
+    },
+    "22": {
+      "text": "Mata o próximo o que lhe tira o sustento, \\par derrama sangue o que priva do salário o diarista. \\par",
+      "reference": "Eclo 34:22"
+    },
+    "23": {
+      "text": "Um constrói, outro destrói; \\par que outro proveito tira além da fadiga? \\par",
+      "reference": "Eclo 34:23"
+    },
+    "24": {
+      "text": "Um abençoa, outro maldiz: \\par de qual dos dois o Senhor escutará a voz? \\par",
+      "reference": "Eclo 34:24"
+    },
+    "25": {
+      "text": "O que se purifica do contato com morto e de novo o toca, \\par que proveito tira de sua ablução? \\par",
+      "reference": "Eclo 34:25"
+    },
+    "26": {
+      "text": "Assim é o homem que jejua por seus pecados, \\par depois vai-se e comete-os de novo; \\par quem ouvirá a sua oração? \\par Que proveito tirou em humilhar-se? \\par",
+      "reference": "Eclo 34:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

@@ -1,0 +1,61 @@
+{
+  "book": 10,
+  "book_name": "2Samuel",
+  "book_abbr": "2Sm",
+  "book_category": "Histórico",
+  "book_english": "2 Samuel",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Assassínio de Isbaal\\par }Assim que o filho de Saul teve notícia de que Abner morrera em Hebron, as suas mãos fraquejaram e todo o Israel se consternou.",
+      "reference": "2Sm 4:1"
+    },
+    "2": {
+      "text": "Ora, o filho de Saul tinha dois chefes de bandos. Um se chamava Baana e o outro Recab. Eram filhos de Remon de Berot e benjaminitas, porque Berot também se considerava de Benjamim.",
+      "reference": "2Sm 4:2"
+    },
+    "3": {
+      "text": "Os homens de Berot tinham-se refugiado em Getaim, onde ficaram até aquele dia como residentes estrangeiros.",
+      "reference": "2Sm 4:3"
+    },
+    "4": {
+      "text": "Estava ali um filho de Jônatas, filho de Saul, o qual era aleijado de ambos os pés. Tinha ele cinco anos quando chegou de Jezrael a notícia da morte de Saul e de Jônatas. A sua ama o apanhou e fugiu com ele, mas, na precipitação da fuga, a criança caiu e se feriu. Chamava-se Meribaal. \\par",
+      "reference": "2Sm 4:4"
+    },
+    "5": {
+      "text": "Os filhos de Remon de Berot, Recab e Baana, estavam a caminho e chegaram à casa de Isbaal na hora mais quente do dia, quando este descansava.",
+      "reference": "2Sm 4:5"
+    },
+    "6": {
+      "text": "A porteira, que limpava o trigo, cochilara e dormira. Recab e seu irmão Baana se insinuaram silenciosamente",
+      "reference": "2Sm 4:6"
+    },
+    "7": {
+      "text": "e entraram na casa onde ele estava deitado no leito em seu quarto, dormindo. Eles o feriram mortalmente e o decapitaram, e depois, carregando a cabeça, andaram a noite toda pela estrada da Arabá.",
+      "reference": "2Sm 4:7"
+    },
+    "8": {
+      "text": "Levaram a cabeça de Isbaal a Davi, em Hebron, e disseram ao rei: “Aqui tens a cabeça de Isbaal, filho de Saul, teu inimigo que queria tirar-te a vida. Iahweh trouxe hoje ao senhor meu rei uma vingança de Saul e da sua semente”. \\par",
+      "reference": "2Sm 4:8"
+    },
+    "9": {
+      "text": "Mas Davi, dirigindo-se a Recab e a seu irmão Baana, filhos de Remon de Berot, disse-lhes: “Pela vida de Iahweh, que me livrou de toda a angústia!",
+      "reference": "2Sm 4:9"
+    },
+    "10": {
+      "text": "Aquele que me anunciou a morte de Saul acreditava ser portador de uma notícia alvissareira; eu o agarrei e matei em Siceleg, em retribuição pela sua boa nova!",
+      "reference": "2Sm 4:10"
+    },
+    "11": {
+      "text": "Por razão ainda mais forte, quando bandidos matam um homem honesto na sua casa, no seu leito, não devo eu pedir-vos contas do seu sangue e fazer-vos desaparecer da face da terra?”",
+      "reference": "2Sm 4:11"
+    },
+    "12": {
+      "text": "Então Davi ordenou aos seus filhos mais novos que os matassem. Cortaram-lhes as mãos e os pés e os penduraram perto do açude de Hebron. Tomaram, entretanto, a cabeça de Isbaal e a sepultaram no túmulo de Abner, em Hebron. \\par",
+      "reference": "2Sm 4:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

@@ -1,0 +1,73 @@
+{
+  "book": 54,
+  "book_name": "1Timóteo",
+  "book_abbr": "1Tm",
+  "book_category": "Epístolas Pastorais",
+  "book_english": "1 Timothy",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A oração litúrgica\\par }Eu recomendo, pois, antes de tudo, que se façam pedidos, orações, súplicas e ações de graças, por todos os homens,",
+      "reference": "1Tm 2:1"
+    },
+    "2": {
+      "text": "pelos reis e todos os que detêm a autoridade, a fim de que levemos uma vida calma e serena, com toda piedade e dignidade.",
+      "reference": "1Tm 2:2"
+    },
+    "3": {
+      "text": "Eis o que é bom e aceitável diante de Deus, nosso Salvador,",
+      "reference": "1Tm 2:3"
+    },
+    "4": {
+      "text": "que quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade.",
+      "reference": "1Tm 2:4"
+    },
+    "5": {
+      "text": "Pois \\par há um só Deus, \\par e um só mediador \\par entre Deus e os homens, \\par um homem, Cristo Jesus, \\par",
+      "reference": "1Tm 2:5"
+    },
+    "6": {
+      "text": "que se deu em resgate por todos. \\par Este é o testemunho dado nos tempos estabelecidos",
+      "reference": "1Tm 2:6"
+    },
+    "7": {
+      "text": "e para o qual eu fui designado pregador e apóstolo – digo a verdade, não minto – doutor das nações na fé e na verdade.",
+      "reference": "1Tm 2:7"
+    },
+    "8": {
+      "text": "Quero, portanto, que os homens orem em todo lugar, erguendo mãos santas, sem ira e sem animosidade. \\par",
+      "reference": "1Tm 2:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Comportamento das mulheres\\par }Quanto às mulheres, que elas tenham roupas decentes, se enfeitem com pudor e modéstia; nem tranças, nem objetos de ouro, pérolas ou vestuário suntuoso;",
+      "reference": "1Tm 2:9"
+    },
+    "10": {
+      "text": "mas que se ornem, ao contrário, com boas obras, como convém a mulheres que se professam piedosas.",
+      "reference": "1Tm 2:10"
+    },
+    "11": {
+      "text": "Durante a instrução a mulher conserve o silêncio, com toda submissão.",
+      "reference": "1Tm 2:11"
+    },
+    "12": {
+      "text": "Eu não permito que a mulher ensine ou domine o homem. Que ela conserve, pois, o silêncio.",
+      "reference": "1Tm 2:12"
+    },
+    "13": {
+      "text": "Porque primeiro foi formado Adão, depois Eva.",
+      "reference": "1Tm 2:13"
+    },
+    "14": {
+      "text": "E não foi Adão que foi seduzido, mas a mulher que, seduzida, caiu em transgressão.",
+      "reference": "1Tm 2:14"
+    },
+    "15": {
+      "text": "Entretanto, ela será salva pela sua maternidade, desde que, com modéstia, permaneça na fé, no amor e na santidade. \\par",
+      "reference": "1Tm 2:15"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 15
+}

@@ -1,0 +1,69 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Lamentação sobre os príncipes de Israel\\par }E tu, entoa uma lamentação sobre os príncipes de Israel",
+      "reference": "Ez 19:1"
+    },
+    "2": {
+      "text": "e dize: \\par Que era a tua mãe? Uma leoa entre leões; \\par deitada entre leõezinhos, \\par cuidava da sua ninhada. \\par",
+      "reference": "Ez 19:2"
+    },
+    "3": {
+      "text": "Um dos leõezinhos ela criou, \\par de modo que acabou sendo um leão feito. \\par Aprendeu a despedaçar presas \\par e devorou homens. \\par",
+      "reference": "Ez 19:3"
+    },
+    "4": {
+      "text": "Nações ouviram falar dele, \\par mas por fim apanharam-no em seus laços; \\par e conduziram-no arpeado para a terra do Egito. \\par",
+      "reference": "Ez 19:4"
+    },
+    "5": {
+      "text": "Vendo ela que seus planos se tinham desfeito, \\par que perdera a sua esperança, \\par tomou outro dos seus leõezinhos, \\par e transformou-o em um leão feito. \\par",
+      "reference": "Ez 19:5"
+    },
+    "6": {
+      "text": "Este movia-se entre os leões, \\par como um leão feito; \\par aprendeu a despedaçar a presa, \\par devorou homens. \\par",
+      "reference": "Ez 19:6"
+    },
+    "7": {
+      "text": "Demoliu os seus palácios, \\par destruiu as suas cidades; \\par a terra e os seus habitantes ficaram apavorados \\par ao som do seu rugido. \\par",
+      "reference": "Ez 19:7"
+    },
+    "8": {
+      "text": "Juntaram-se contra ele os povos, \\par as regiões circunvizinhas, \\par estenderam sobre ele a sua rede: \\par ele foi apanhado na sua fossa; \\par",
+      "reference": "Ez 19:8"
+    },
+    "9": {
+      "text": "prendendo-o com ganchos, acabaram por engaiolá-lo \\par e o conduziram ao rei da Babilônia, \\par levaram-no a lugares escarpados, \\par para que não se tornasse a ouvir o seu rugido \\par sobre os montes de Israel. \\par",
+      "reference": "Ez 19:9"
+    },
+    "10": {
+      "text": "A tua mãe era semelhante a uma vinha \\par plantada junto às águas. \\par Era fecunda e viçosa, \\par graças à água abundante. \\par",
+      "reference": "Ez 19:10"
+    },
+    "11": {
+      "text": "Tinha cepas vigorosas \\par que se tornaram cetros reais. \\par O seu porte elevou-se \\par atingindo as nuvens. \\par Distinguia-se pela sua altura \\par e pelo número de seus ramos. \\par",
+      "reference": "Ez 19:11"
+    },
+    "12": {
+      "text": "Mas acabou por ser desarraigada com furor \\par e lançada à terra; \\par o vento oriental secou os seus frutos, \\par ela foi quebrada e o seu tronco vigoroso secou, \\par o fogo a devorou. \\par",
+      "reference": "Ez 19:12"
+    },
+    "13": {
+      "text": "Agora está plantada no deserto, \\par em uma terra seca e árida. \\par",
+      "reference": "Ez 19:13"
+    },
+    "14": {
+      "text": "Um fogo saiu do seu tronco \\par e devorou os seus ramos e os seus frutos: \\par ela já não terá o seu cetro poderoso, \\par seu cetro real. \\par Isto é uma lamentação e servirá de lamentação. \\par",
+      "reference": "Ez 19:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

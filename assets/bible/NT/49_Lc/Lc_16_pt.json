@@ -1,0 +1,137 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O administrador infiel\\par }Dizia ainda a seus discípulos: “Um homem rico tinha um administrador que foi denunciado por estar dissipando os seus bens.",
+      "reference": "Lc 16:1"
+    },
+    "2": {
+      "text": "Mandou chamá-lo e disse-lhe: ‘Que é isso que ouço dizer de ti? Presta contas da tua administração, pois já não podes ser administrador!’",
+      "reference": "Lc 16:2"
+    },
+    "3": {
+      "text": "O administrador então refletiu: ‘Que farei, uma vez que meu senhor me retire a administração? Cavar? Não posso. Mendigar? Tenho vergonha...",
+      "reference": "Lc 16:3"
+    },
+    "4": {
+      "text": "Já sei o que vou fazer para que, uma vez afastado da administração, tenha quem me receba na própria casa’. \\par",
+      "reference": "Lc 16:4"
+    },
+    "5": {
+      "text": "Convocou então os devedores do seu senhor um a um, e disse ao primeiro: ‘Quanto deves ao meu senhor?’",
+      "reference": "Lc 16:5"
+    },
+    "6": {
+      "text": "‘Cem barris de óleo’, respondeu ele. Disse então: ‘Toma tua conta, senta-te e escreve depressa cinqüenta’.",
+      "reference": "Lc 16:6"
+    },
+    "7": {
+      "text": "Depois, disse a outro: ‘E tu, quanto deves?’ – ‘Cem medidas de trigo’, respondeu. Ele disse: ‘Toma tua conta e escreve oitenta’. \\par",
+      "reference": "Lc 16:7"
+    },
+    "8": {
+      "text": "E o senhor louvou o administrador desonesto por ter agido com prudência. Pois os filhos deste século são mais prudentes com sua geração do que os filhos da luz. \\par",
+      "reference": "Lc 16:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i O bom emprego do dinheiro\\par }E eu vos digo: fazei amigos com o Dinheiro da iniqüidade, a fim de que, no dia em que faltar, eles vos recebam nas tendas eternas.",
+      "reference": "Lc 16:9"
+    },
+    "10": {
+      "text": "Quem é fiel nas coisas mínimas, é fiel também no muito, e quem é iníquo no mínimo, é iníquo também no muito.",
+      "reference": "Lc 16:10"
+    },
+    "11": {
+      "text": "Portanto, se não fostes fiéis quanto ao Dinheiro iníquo, quem vos confiará o verdadeiro bem?",
+      "reference": "Lc 16:11"
+    },
+    "12": {
+      "text": "Se não fostes fiéis em relação ao bem alheio, quem vos dará o vosso? \\par",
+      "reference": "Lc 16:12"
+    },
+    "13": {
+      "text": "Ninguém pode servir a dois senhores: com efeito, ou odiará um e amará o outro, ou se apegará a um e desprezará o outro. Não podeis servir a Deus e ao Dinheiro”. \\par",
+      "reference": "Lc 16:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Contra os fariseus, amigos do dinheiro\\par }Os fariseus, amigos do dinheiro, ouviam tudo isso e zombavam dele.",
+      "reference": "Lc 16:14"
+    },
+    "15": {
+      "text": "Jesus lhes disse: “Vós sois os que querem passar por justos diante dos homens, mas Deus conhece os corações; o que é elevado para os homens, é abominável diante de Deus. \\par",
+      "reference": "Lc 16:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Assalto ao Reino\\par }A Lei e os Profetas até João! Daí em diante, é anunciada a Boa Nova do Reino de Deus, e todos se esforçam para entrar nele, com violência. \\par",
+      "reference": "Lc 16:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Perenidade da Lei\\par }É mais fácil passar o céu e a terra do que uma só vírgula cair da lei. \\par",
+      "reference": "Lc 16:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Indissolubilidade do matrimônio\\par }Todo aquele que repudiar sua mulher e desposar outra comete adultério, e quem desposar uma repudiada por seu marido comete adultério. \\par",
+      "reference": "Lc 16:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i O mau rico e o pobre Lázaro\\par }Havia um homem rico que se vestia de púrpura e linho fino e cada dia se banqueteava com requinte.",
+      "reference": "Lc 16:19"
+    },
+    "20": {
+      "text": "Um pobre, chamado Lázaro, jazia à sua porta, coberto de úlceras.",
+      "reference": "Lc 16:20"
+    },
+    "21": {
+      "text": "Desejava saciar-se do que caía da mesa do rico... E até os cães vinham lamber-lhe as úlceras.",
+      "reference": "Lc 16:21"
+    },
+    "22": {
+      "text": "Aconteceu que o pobre morreu e foi levado pelos anjos ao seio de Abraão. Morreu também o rico e foi sepultado. \\par",
+      "reference": "Lc 16:22"
+    },
+    "23": {
+      "text": "Na mansão dos mortos, em meio a tormentos, levantou os olhos e viu ao longe Abraão e Lázaro em seu seio.",
+      "reference": "Lc 16:23"
+    },
+    "24": {
+      "text": "Então exclamou: ‘Pai Abraão, tem piedade de mim e manda que Lázaro molhe a ponta do dedo para me refrescar a língua, pois estou torturado nesta chama’.",
+      "reference": "Lc 16:24"
+    },
+    "25": {
+      "text": "Abraão respondeu: ‘Filho, lembra-te de que recebeste teus bens durante tua vida, e Lázaro por sua vez os males; agora, porém, ele encontra aqui consolo e tu és atormentado.",
+      "reference": "Lc 16:25"
+    },
+    "26": {
+      "text": "E além do mais, entre nós e vós existe um grande abismo, a fim de que aqueles que quiserem passar daqui para junto de vós não o possam, nem tampouco atravessem de lá até nós’. \\par",
+      "reference": "Lc 16:26"
+    },
+    "27": {
+      "text": "Ele replicou: ‘Pai, eu te suplico, envia então Lázaro até à casa de meu pai,",
+      "reference": "Lc 16:27"
+    },
+    "28": {
+      "text": "pois tenho cinco irmãos; que leve a eles seu testemunho, para que não venham eles também para este lugar de tormento’. \\par",
+      "reference": "Lc 16:28"
+    },
+    "29": {
+      "text": "Abraão, porém, respondeu: ‘Eles têm Moisés e os Profetas; que os ouçam’.",
+      "reference": "Lc 16:29"
+    },
+    "30": {
+      "text": "Disse ele: ‘Não, pai Abraão, mas se alguém dentre os mortos for procurá-los, eles se arrependerão’.",
+      "reference": "Lc 16:30"
+    },
+    "31": {
+      "text": "Mas Abraão lhe disse: ‘Se não escutam nem a Moisés nem aos Profetas, mesmo que alguém ressuscite dos mortos, não se convencerão’”. \\par",
+      "reference": "Lc 16:31"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 31
+}

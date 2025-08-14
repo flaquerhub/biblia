@@ -1,0 +1,85 @@
+{
+  "book": 51,
+  "book_name": "Colossenses",
+  "book_abbr": "Cl",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Colossians",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Senhores, dai aos vossos servos o justo e eqüitativo, sabendo que vós tendes um Senhor no céu. \\par",
+      "reference": "Cl 4:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Espírito apostólico\\par }Perseverai na oração, vigilantes, com ação de graças,",
+      "reference": "Cl 4:2"
+    },
+    "3": {
+      "text": "orando por nós também ao mesmo tempo, para que Deus nos abra uma porta à Palavra, para falarmos do mistério de Cristo, pelo qual estou prisioneiro,",
+      "reference": "Cl 4:3"
+    },
+    "4": {
+      "text": "a fim de que eu dele fale como devo. \\par",
+      "reference": "Cl 4:4"
+    },
+    "5": {
+      "text": "Tratai com sabedoria os de fora; sabei tirar proveito do tempo presente.",
+      "reference": "Cl 4:5"
+    },
+    "6": {
+      "text": "A vossa palavra seja sempre agradável, temperada com sal, de modo que saibais como convém responder a cada um. \\par",
+      "reference": "Cl 4:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Notícias pessoais\\par }Quanto a mim, Tíquico, irmão amado e fiel ministro e companheiro de serviço no Senhor, vos dará todas as informações.",
+      "reference": "Cl 4:7"
+    },
+    "8": {
+      "text": "Eu vo-lo envio especialmente para vos informar de tudo o que aqui se passa e para confortar os vossos corações.",
+      "reference": "Cl 4:8"
+    },
+    "9": {
+      "text": "Vai com Onésimo, irmão fiel e amado, vosso conterrâneo; eles vos darão todas as notícias nossas. \\par",
+      "reference": "Cl 4:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Saudações e voto final\\par }Saúdam-vos Aristarco, meu companheiro de prisão, e Marcos, primo de Barnabé, a respeito de quem já vos dei instruções: se ele aparecer aí, recebei-o.",
+      "reference": "Cl 4:10"
+    },
+    "11": {
+      "text": "Também vos saúda Jesus, chamado Justo. Dos que vieram da Circuncisão, são estes os únicos colaboradores meus no Reino de Deus e me têm sido de alívio.",
+      "reference": "Cl 4:11"
+    },
+    "12": {
+      "text": "Saúda-vos Epafras, vosso conterrâneo, servo de Cristo Jesus, que luta sem tréguas por vós nas suas orações, para que continueis perfeitos em plena observância da vontade de Deus.",
+      "reference": "Cl 4:12"
+    },
+    "13": {
+      "text": "Dou-vos testemunho de que ele se empenha muito por vós e pelos de Laodicéia e de Hierápolis.",
+      "reference": "Cl 4:13"
+    },
+    "14": {
+      "text": "Saúdam-vos Lucas, o médico amado, e Demas. \\par",
+      "reference": "Cl 4:14"
+    },
+    "15": {
+      "text": "Saudai os irmãos de Laodicéia e Ninfas, bem como a Igreja que se reúne em sua casa.",
+      "reference": "Cl 4:15"
+    },
+    "16": {
+      "text": "Depois que esta carta tiver sido lida entre vós, fazei-a ler também na Igreja de Laodicéia. Lede vós também a que escrevi aos de Laodicéia.",
+      "reference": "Cl 4:16"
+    },
+    "17": {
+      "text": "E dizei a Arquipo: “Atende ao ministério que recebeste do Senhor, cumprindo-o bem”. \\par",
+      "reference": "Cl 4:17"
+    },
+    "18": {
+      "text": "A saudação eu, Paulo, a faço de meu próprio punho. Lembrai-vos das minhas prisões! A graça esteja convosco! \\par",
+      "reference": "Cl 4:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

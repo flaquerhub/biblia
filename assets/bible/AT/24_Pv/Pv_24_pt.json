@@ -1,0 +1,149 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "Não tenhas inveja dos maus \\par nem queiras a sua companhia, \\par",
+      "reference": "Pv 24:1"
+    },
+    "2": {
+      "text": "pois seu coração planeja a violência, \\par e seus lábios só falam maldade. \\par",
+      "reference": "Pv 24:2"
+    },
+    "3": {
+      "text": "Com a sabedoria se constrói uma casa, \\par e com o entendimento ela se firma; \\par",
+      "reference": "Pv 24:3"
+    },
+    "4": {
+      "text": "com o conhecimento enchem-se os quartos \\par de todo tipo de bens preciosos e agradáveis. \\par",
+      "reference": "Pv 24:4"
+    },
+    "5": {
+      "text": "Um homem sábio é cheio de força, \\par e o homem de conhecimento confirma o seu vigor; \\par",
+      "reference": "Pv 24:5"
+    },
+    "6": {
+      "text": "pois é pelos cálculos que farás a guerra, \\par e a vitória vem pelo grande número de conselheiros. \\par",
+      "reference": "Pv 24:6"
+    },
+    "7": {
+      "text": "Para o estulto a sabedoria é fortaleza inacessível: \\par na porta da cidade ele não abre a sua boca. \\par",
+      "reference": "Pv 24:7"
+    },
+    "8": {
+      "text": "Quem planeja fazer o mal \\par será chamado mestre de astúcia. \\par",
+      "reference": "Pv 24:8"
+    },
+    "9": {
+      "text": "O projeto da estultícia é o pecado, \\par e o zombador é abominável aos homens. \\par",
+      "reference": "Pv 24:9"
+    },
+    "10": {
+      "text": "Se te mostras fraco no dia da angústia, \\par a tua força é bem pequena. \\par",
+      "reference": "Pv 24:10"
+    },
+    "11": {
+      "text": "Liberta os que são levados à morte, \\par salva os que são arrastados ao suplício! \\par",
+      "reference": "Pv 24:11"
+    },
+    "12": {
+      "text": "Pois, se disseres: “Eis que nada soubemos”, \\par aquele que pesa os corações não entenderá? \\par Não saberá aquele que te formou? \\par Ele devolverá ao homem conforme a sua obra. \\par",
+      "reference": "Pv 24:12"
+    },
+    "13": {
+      "text": "Come o mel, meu filho, porque é bom, \\par o favo de mel é doce ao paladar. \\par",
+      "reference": "Pv 24:13"
+    },
+    "14": {
+      "text": "Assim é a sabedoria para ti, saiba-o! \\par Se a encontras, haverá um futuro, \\par e tua esperança não vai ser aniquilada. \\par",
+      "reference": "Pv 24:14"
+    },
+    "15": {
+      "text": "Não te embosques, ó ímpio, junto à morada do justo, \\par nem devastes a sua habitação! \\par",
+      "reference": "Pv 24:15"
+    },
+    "16": {
+      "text": "Pois o justo cai sete vezes, e se levanta, \\par mas os ímpios tropeçam na desgraça. \\par",
+      "reference": "Pv 24:16"
+    },
+    "17": {
+      "text": "Se teu inimigo cai, não te alegres, \\par e teu coração não exulte se ele tropeça, \\par",
+      "reference": "Pv 24:17"
+    },
+    "18": {
+      "text": "para que Iahweh não veja isso, fique descontente, \\par e dele retire a sua ira. \\par",
+      "reference": "Pv 24:18"
+    },
+    "19": {
+      "text": "Não te aflijas por causa dos maus, \\par nem tenhas inveja dos ímpios. \\par",
+      "reference": "Pv 24:19"
+    },
+    "20": {
+      "text": "Pois não há futuro para o mau: \\par a lâmpada dos ímpios se extingue. \\par",
+      "reference": "Pv 24:20"
+    },
+    "21": {
+      "text": "Teme a Iahweh, meu filho, e ao rei; \\par não te mistures com os inovadores, \\par",
+      "reference": "Pv 24:21"
+    },
+    "22": {
+      "text": "pois, de repente, surgirá a sua perdição, \\par e a ruína de um e de outro, quem a pode conhecer? \\par",
+      "reference": "Pv 24:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b {\\i IV. Seqüência da coleção dos Sábios}\\par }Também estes são dos Sábios: \\par Não é bom ser parcial no julgamento. \\par",
+      "reference": "Pv 24:23"
+    },
+    "24": {
+      "text": "Quem diz ao ímpio: “Tu és justo”, \\par será maldito dos povos e detestado das nações; \\par",
+      "reference": "Pv 24:24"
+    },
+    "25": {
+      "text": "para os que os punem haverá felicidade, \\par e sobre eles virá uma bênção feliz. \\par",
+      "reference": "Pv 24:25"
+    },
+    "26": {
+      "text": "Dá um beijo nos lábios \\par quem responde com franqueza. \\par",
+      "reference": "Pv 24:26"
+    },
+    "27": {
+      "text": "Organiza teu negócio lá fora, \\par prepara-o no teu campo, \\par e depois construirás a tua casa. \\par",
+      "reference": "Pv 24:27"
+    },
+    "28": {
+      "text": "Não testemunhes sem motivo contra o teu próximo, \\par nem o enganes com teus lábios. \\par",
+      "reference": "Pv 24:28"
+    },
+    "29": {
+      "text": "Não digas: “Segundo me fez, assim lhe farei! \\par Devolverei a cada um conforme a sua obra!” \\par",
+      "reference": "Pv 24:29"
+    },
+    "30": {
+      "text": "Passei junto ao campo do preguiçoso, \\par pela vinha de um homem sem juízo: \\par",
+      "reference": "Pv 24:30"
+    },
+    "31": {
+      "text": "Eis que tudo estava cheio de urtigas, \\par sua superfície coberta de espinhos, \\par e seu muro de pedras em ruínas. \\par",
+      "reference": "Pv 24:31"
+    },
+    "32": {
+      "text": "Ao ver isso comecei a refletir, \\par vi e tirei uma lição: \\par",
+      "reference": "Pv 24:32"
+    },
+    "33": {
+      "text": "“Dormir um pouco, cochilar um pouco, \\par um pouco cruzar os braços e deitar-se, \\par",
+      "reference": "Pv 24:33"
+    },
+    "34": {
+      "text": "e tua pobreza virá como um vadio, \\par como um mendigo a tua indigência”. \\par",
+      "reference": "Pv 24:34"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 34
+}

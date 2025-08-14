@@ -1,0 +1,133 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 39,
+  "verses": {
+    "1": {
+      "text": "Sabes quando parem as camurças? \\par Ou assististes ao parto das corças? \\par",
+      "reference": "Jó 39:1"
+    },
+    "2": {
+      "text": "Contas os meses de sua prenhez, \\par ou conheces o momento do parto? \\par",
+      "reference": "Jó 39:2"
+    },
+    "3": {
+      "text": "Elas se abaixam, forçam uma saída às crias, \\par e livram-se de suas dores. \\par",
+      "reference": "Jó 39:3"
+    },
+    "4": {
+      "text": "Seus filhotes crescem e ficam fortes, \\par saem para o campo aberto e não voltam mais. \\par",
+      "reference": "Jó 39:4"
+    },
+    "5": {
+      "text": "Quem pôs o asno selvagem em liberdade \\par e soltou as rédeas do onagro? \\par",
+      "reference": "Jó 39:5"
+    },
+    "6": {
+      "text": "Dei-lhe por habitação a estepe \\par e por morada o deserto salgado. \\par",
+      "reference": "Jó 39:6"
+    },
+    "7": {
+      "text": "Ele se ri do barulho das cidades \\par e não ouve os gritos do arrieiro. \\par",
+      "reference": "Jó 39:7"
+    },
+    "8": {
+      "text": "Ele explora as montanhas, o seu pasto, \\par à procura de lugares verdejantes.\\par",
+      "reference": "Jó 39:8"
+    },
+    "9": {
+      "text": "Consentirá o búfalo em servir-te \\par e passar a noite em teu estábulo? \\par",
+      "reference": "Jó 39:9"
+    },
+    "10": {
+      "text": "Podes segurá-lo com uma corda ao pescoço, \\par e lavrará a terra atrás de ti? \\par",
+      "reference": "Jó 39:10"
+    },
+    "11": {
+      "text": "Podes fiar-te nele por ser grande a sua força, \\par e lhe confiarás os teus labores? \\par",
+      "reference": "Jó 39:11"
+    },
+    "12": {
+      "text": "Contarás com ele na colheita \\par e na armazenagem dos cereais de tua eira? \\par",
+      "reference": "Jó 39:12"
+    },
+    "13": {
+      "text": "A asa do avestruz se compara \\par com as penas da cegonha e do falcão? \\par",
+      "reference": "Jó 39:13"
+    },
+    "14": {
+      "text": "Abandona à terra seus ovos, \\par para que a areia os incube, \\par",
+      "reference": "Jó 39:14"
+    },
+    "15": {
+      "text": "sem pensar que um pé possa quebrá-los \\par e uma fera pisoteá-los. \\par",
+      "reference": "Jó 39:15"
+    },
+    "16": {
+      "text": "É cruel com seus filhotes, como se não fossem seus, \\par e não lhe importa que malogre sua fadiga. \\par",
+      "reference": "Jó 39:16"
+    },
+    "17": {
+      "text": "É porque Deus o privou da sabedoria \\par e não lhe concedeu inteligência. \\par",
+      "reference": "Jó 39:17"
+    },
+    "18": {
+      "text": "Mas, quando se ergue batendo os flancos, \\par ri-se de cavalo e cavaleiro. \\par",
+      "reference": "Jó 39:18"
+    },
+    "19": {
+      "text": "És tu que dás ao cavalo seu brio, \\par e lhe revestes de crinas o pescoço? \\par",
+      "reference": "Jó 39:19"
+    },
+    "20": {
+      "text": "És tu que o ensinas a saltar como um gafanhoto \\par e a relinchar com majestade e terror? \\par",
+      "reference": "Jó 39:20"
+    },
+    "21": {
+      "text": "Pateando escava o chão, ufano de sua força, \\par e se lança ao encontro das armas. \\par",
+      "reference": "Jó 39:21"
+    },
+    "22": {
+      "text": "Ri-se do medo, nada o assusta, \\par e não recua diante da espada. \\par",
+      "reference": "Jó 39:22"
+    },
+    "23": {
+      "text": "Sobre ele ressoam a aljava, \\par a lança faiscante e o dardo. \\par",
+      "reference": "Jó 39:23"
+    },
+    "24": {
+      "text": "Com ímpeto e estrondo devora a distância \\par e não pára, ainda que soe o clarim. \\par",
+      "reference": "Jó 39:24"
+    },
+    "25": {
+      "text": "Ao toque da trombeta ele relincha! \\par Fareja de longe a batalha, \\par os gritos de mando e os alaridos. \\par",
+      "reference": "Jó 39:25"
+    },
+    "26": {
+      "text": "É por tua sabedoria que o falcão levanta vôo \\par e estende suas asas em direção ao Sul? \\par",
+      "reference": "Jó 39:26"
+    },
+    "27": {
+      "text": "Acaso é sob tua ordem que a águia remonta o vôo \\par e constrói seu ninho nas alturas? \\par",
+      "reference": "Jó 39:27"
+    },
+    "28": {
+      "text": "Habita nos rochedos e lá pernoita, \\par o penhasco é seu baluarte. \\par",
+      "reference": "Jó 39:28"
+    },
+    "29": {
+      "text": "De lá espia sua presa, \\par que de longe os seus olhos descobrem. \\par",
+      "reference": "Jó 39:29"
+    },
+    "30": {
+      "text": "Seus filhotes sorvem o sangue; \\par onde houver um cadáver, lá está. \\par",
+      "reference": "Jó 39:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

@@ -1,0 +1,37 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Hino à onipotência de Deus\\par }Baldad de Suás tomou a palavra e disse: \\par",
+      "reference": "Jó 25:1"
+    },
+    "2": {
+      "text": "É um soberano temível, \\par Aquele que conserva a paz nas suas alturas. \\par",
+      "reference": "Jó 25:2"
+    },
+    "3": {
+      "text": "Pode ser contado o número de suas tropas? \\par E sobre quem não se levanta a sua luz? \\par",
+      "reference": "Jó 25:3"
+    },
+    "4": {
+      "text": "Como pode o homem justificar-se diante de Deus? \\par Ou mostrar-se puro quem nasceu de mulher? \\par",
+      "reference": "Jó 25:4"
+    },
+    "5": {
+      "text": "Se até a própria lua não brilha \\par e as estrelas não são puras a seus olhos, \\par",
+      "reference": "Jó 25:5"
+    },
+    "6": {
+      "text": "quanto menos o homem, essa larva, \\par e o filho do homem, esse verme? \\par",
+      "reference": "Jó 25:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

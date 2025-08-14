@@ -1,0 +1,65 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Batalha de Gelboé. Morte de Saul\\par }Entretanto, os filisteus atacaram Israel, e os homens de Israel fugiram perseguidos por eles e caíram, feridos de morte, no monte Gelboé.",
+      "reference": "1Sm 31:1"
+    },
+    "2": {
+      "text": "Os filisteus fizeram o cerco a Saul e seus filhos, e mataram Jônatas, Abinadab e Melquisua, filhos de Saul.",
+      "reference": "1Sm 31:2"
+    },
+    "3": {
+      "text": "Todo o peso do combate se concentrou sobre Saul. Os arqueiros o surpreenderam, e foi gravemente ferido por eles.",
+      "reference": "1Sm 31:3"
+    },
+    "4": {
+      "text": "Então disse Saul ao seu escudeiro: “Desembainha a tua espada e transpassa-me, para que não venham esses incircuncisos e escarneçam de mim”. Mas o seu escudeiro não quis obedecer-lhe, porque estava assombrado. Então Saul arrancou de sua espada e lançou-se sobre ela.",
+      "reference": "1Sm 31:4"
+    },
+    "5": {
+      "text": "Vendo que Saul estava morto, também o escudeiro se lançou sobre a sua espada e morreu com ele.",
+      "reference": "1Sm 31:5"
+    },
+    "6": {
+      "text": "Assim morreram juntos naquele dia, Saul, os seus três filhos e o seu escudeiro.",
+      "reference": "1Sm 31:6"
+    },
+    "7": {
+      "text": "Quando os homens de Israel que estavam no outro lado do vale e os que estavam na outra margem do Jordão viram que os homens de Israel tinham sido derrotados e que Saul e os seus filhos tinham perecido, abandonaram as suas cidades e fugiram. Os filisteus vieram e se estabeleceram ali. \\par",
+      "reference": "1Sm 31:7"
+    },
+    "8": {
+      "text": "No dia seguinte, quando os filisteus vieram para despojar os mortos, acharam Saul e os seus três filhos que jaziam no monte Gelboé.",
+      "reference": "1Sm 31:8"
+    },
+    "9": {
+      "text": "Cortaram-lhe a cabeça e despojaram-no das suas armas, e os fizeram transportar circulando pelo território dos filisteus, para anunciar a boa notícia aos seus ídolos e ao seu povo.",
+      "reference": "1Sm 31:9"
+    },
+    "10": {
+      "text": "Depuseram suas armas no templo de Astarte e fixaram o seu cadáver no muro de Betsã. \\par",
+      "reference": "1Sm 31:10"
+    },
+    "11": {
+      "text": "Assim que os habitantes de Jabes de Galaad souberam o que os filisteus tinham feito com Saul,",
+      "reference": "1Sm 31:11"
+    },
+    "12": {
+      "text": "todos os valentes se puseram a caminho e, depois de terem andado a noite toda, retiram do muro de Betsã o cadáver de Saul e os dos seus filhos, e os trouxeram a Jabes, onde os incineraram.",
+      "reference": "1Sm 31:12"
+    },
+    "13": {
+      "text": "Depois recolheram os seus ossos e os enterraram debaixo da tamareira de Jabes, e jejuaram durante sete dias. \\par",
+      "reference": "1Sm 31:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

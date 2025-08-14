@@ -1,0 +1,157 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Conselhos diversos\\par }Não faças o mal e o mal não se apoderará de ti; \\par",
+      "reference": "Eclo 7:1"
+    },
+    "2": {
+      "text": "afasta-te da injustiça e ela se desviará de ti. \\par",
+      "reference": "Eclo 7:2"
+    },
+    "3": {
+      "text": "Filho, não semeies nos sulcos da injustiça, \\par para não colheres sete por um. \\par",
+      "reference": "Eclo 7:3"
+    },
+    "4": {
+      "text": "Não peças ao Senhor poder algum, \\par nem ao rei um lugar de honra. \\par",
+      "reference": "Eclo 7:4"
+    },
+    "5": {
+      "text": "Não pretendas passar por justo diante do Senhor, \\par nem por sábio junto ao rei. \\par",
+      "reference": "Eclo 7:5"
+    },
+    "6": {
+      "text": "Não procures tornar-te juiz \\par se não tens força para extirpar a injustiça; \\par do contrário te intimidarás diante de um poderoso \\par e mancharás a tua integridade. \\par",
+      "reference": "Eclo 7:6"
+    },
+    "7": {
+      "text": "Não te tornes culpado para com a assembléia da cidade \\par e não te precipites em meio à multidão. \\par",
+      "reference": "Eclo 7:7"
+    },
+    "8": {
+      "text": "Não repitas duas vezes um pecado, \\par porque já do primeiro não sairás impune. \\par",
+      "reference": "Eclo 7:8"
+    },
+    "9": {
+      "text": "Não digas: “Ele olhará a quantidade de minhas oferendas \\par e quando eu as apresentar ao Deus Altíssimo, ele as receberá”. \\par",
+      "reference": "Eclo 7:9"
+    },
+    "10": {
+      "text": "Não sejas hesitante na oração \\par e não negligencies o dar esmola. \\par",
+      "reference": "Eclo 7:10"
+    },
+    "11": {
+      "text": "Não zombes de um homem que está na aflição, \\par porque há um que humilha e exalta. \\par",
+      "reference": "Eclo 7:11"
+    },
+    "12": {
+      "text": "Não maquines a mentira contra teu irmão, \\par nem faças algo semelhante contra um amigo. \\par",
+      "reference": "Eclo 7:12"
+    },
+    "13": {
+      "text": "Não queiras mentir de nenhum modo, \\par porque daí não pode sair nada de bom. \\par",
+      "reference": "Eclo 7:13"
+    },
+    "14": {
+      "text": "Não seja loquaz na assembléia dos anciãos \\par e não repitas as tuas palavras na oração. \\par",
+      "reference": "Eclo 7:14"
+    },
+    "15": {
+      "text": "Não desprezes os trabalhos difíceis, \\par nem o trabalho do campo criado pelo Altíssimo. \\par",
+      "reference": "Eclo 7:15"
+    },
+    "16": {
+      "text": "Não te enumeres entre os da assembléia dos pecadores, \\par lembra-te de que a Cólera não tardará. \\par",
+      "reference": "Eclo 7:16"
+    },
+    "17": {
+      "text": "Humilha-te profundamente, \\par porque a punição do ímpio é o fogo e o verme. \\par",
+      "reference": "Eclo 7:17"
+    },
+    "18": {
+      "text": "Não troques um amigo por nenhum preço, \\par nem um irmão verdadeiro pelo ouro de Ofir. \\par",
+      "reference": "Eclo 7:18"
+    },
+    "19": {
+      "text": "Não desprezes uma mulher sábia e boa, \\par porque sua graça vale mais do que o ouro. \\par",
+      "reference": "Eclo 7:19"
+    },
+    "20": {
+      "text": "Não maltrates um escravo que trabalha honestamente, \\par nem um servo dedicado. \\par",
+      "reference": "Eclo 7:20"
+    },
+    "21": {
+      "text": "Ama em teu coração o escravo inteligente \\par e não lhe negues a liberdade. \\par",
+      "reference": "Eclo 7:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Os filhos\\par }Tens animais? Cuida deles; \\par se te servem, conserva-os. \\par",
+      "reference": "Eclo 7:22"
+    },
+    "23": {
+      "text": "Tens filhos? Educa-os, \\par e desde a infância faze-os dobrar o pescoço. \\par",
+      "reference": "Eclo 7:23"
+    },
+    "24": {
+      "text": "Tens filhas? Cuida dos seus corpos \\par e a elas não mostres face indulgente. \\par",
+      "reference": "Eclo 7:24"
+    },
+    "25": {
+      "text": "Casa a tua filha e terás concluído uma grande tarefa, \\par mas entrega-a a um homem sensato. \\par",
+      "reference": "Eclo 7:25"
+    },
+    "26": {
+      "text": "Tens uma mulher segundo o teu coração? Não a repudies; \\par contudo, se não a amas, nela não confies. \\par",
+      "reference": "Eclo 7:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Os pais\\par }Honra o teu pai de todo o coração \\par e não esqueças as dores de tua mãe. \\par",
+      "reference": "Eclo 7:27"
+    },
+    "28": {
+      "text": "Lembra-te de que foste gerado por eles. \\par O que lhes darás pelo que te deram? \\par",
+      "reference": "Eclo 7:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Os sacerdotes\\par }De todo o teu coração teme ao Senhor \\par e venera os seus sacerdotes. \\par",
+      "reference": "Eclo 7:29"
+    },
+    "30": {
+      "text": "Com todas as tuas forças ama o que te criou \\par e não abandones os seus ministros. \\par",
+      "reference": "Eclo 7:30"
+    },
+    "31": {
+      "text": "Teme ao Senhor e honra o sacerdote \\par e dá-lhe a sua parte, como é prescrito: \\par primícias, sacrifício de reparação, a oferenda das espáduas, \\par o sacrifício de santificação e as primícias das coisas santas. \\par",
+      "reference": "Eclo 7:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i Os pobres e os provados\\par }Estende a tua mão ao pobre \\par para que tua bênção seja perfeita. \\par",
+      "reference": "Eclo 7:32"
+    },
+    "33": {
+      "text": "Que tua generosidade atinja todos os viventes, \\par mesmo aos mortos não recuses a tua piedade. \\par",
+      "reference": "Eclo 7:33"
+    },
+    "34": {
+      "text": "Não fujas dos que choram, \\par aproxima-te dos que estão aflitos. \\par",
+      "reference": "Eclo 7:34"
+    },
+    "35": {
+      "text": "Não temas ocupar-te dos doentes, \\par porque serás amado por isso. \\par",
+      "reference": "Eclo 7:35"
+    },
+    "36": {
+      "text": "Em tudo o que fazes, lembra-te de teu fim \\par e jamais pecarás. \\par",
+      "reference": "Eclo 7:36"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 36
+}

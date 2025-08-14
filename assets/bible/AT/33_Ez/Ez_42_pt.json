@@ -1,0 +1,93 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 42,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Dependências do Templo\\par }Então fez-me sair para o átrio exterior, para o lado norte e trouxe-me para a câmara que fica em frente ao pátio, em frente ao edifício do lado norte.",
+      "reference": "Ez 42:1"
+    },
+    "2": {
+      "text": "Na fachada tinha ela cem côvados de comprimento para o lado norte, e cinqüenta côvados de largura.",
+      "reference": "Ez 42:2"
+    },
+    "3": {
+      "text": "Em frente aos vestíbulos do átrio interior e em frente ao pavimento do átrio exterior havia uma galeria em frente à galeria tríplice",
+      "reference": "Ez 42:3"
+    },
+    "4": {
+      "text": "e, em frente à câmara, uma passagem que tinha dez côvados de largura para dentro e cem côvados de comprimento. As suas entradas davam para o norte.",
+      "reference": "Ez 42:4"
+    },
+    "5": {
+      "text": "As câmaras superiores eram menores do que as de baixo e do meio, porque as galerias tomavam maior espaço do que as de baixo e as do meio.",
+      "reference": "Ez 42:5"
+    },
+    "6": {
+      "text": "Com efeito, elas se dividiam em três andares e não tinham colunas como o átrio. Eis por que eram mais estreitas do que as de baixo e as do meio (a partir do chão).",
+      "reference": "Ez 42:6"
+    },
+    "7": {
+      "text": "O muro do lado de fora, junto às câmaras, voltadas para o átrio exterior, fronteiro às câmaras, tinha cinqüenta côvados de comprimento.",
+      "reference": "Ez 42:7"
+    },
+    "8": {
+      "text": "Portanto, o comprimento das câmaras do átrio exterior era de cinqüenta côvados, ao passo que o das que ficavam em frente ao Hekal era de cem côvados.",
+      "reference": "Ez 42:8"
+    },
+    "9": {
+      "text": "Por baixo destas câmaras estava a entrada do lado oriental, pela qual se tinha acesso desde o átrio exterior. \\par",
+      "reference": "Ez 42:9"
+    },
+    "10": {
+      "text": "Junto à largura do muro do átrio, do lado sul, em frente ao pátio e em frente ao edifício, havia câmaras.",
+      "reference": "Ez 42:10"
+    },
+    "11": {
+      "text": "Fronteiro a elas ficava um caminho, como para as câmaras que estavam do lado norte. Tinham elas comprimento e largura idênticos, bem como saídas, disposição e entradas iguais.",
+      "reference": "Ez 42:11"
+    },
+    "12": {
+      "text": "Por baixo das câmaras que ficavam para o lado sul havia uma entrada, no começo de cada caminho, em frente ao muro correspondente, do lado do oriente, junto à entrada.",
+      "reference": "Ez 42:12"
+    },
+    "13": {
+      "text": "Ele me disse: “As câmaras do norte e as câmaras do sul, que ficam fronteiras ao pátio, são as câmaras do santuário, onde os sacerdotes que se aproximam de Iahweh comem as coisas santíssimas. Aí depositarão as coisas santíssimas, a oblação e a oferta pelo pecado e a oferta de expiação, porque o lugar é santo.",
+      "reference": "Ez 42:13"
+    },
+    "14": {
+      "text": "Depois de entrarem aí, os sacerdotes não sairão diretamente do santuário para o átrio exterior, mas depositarão primeiro ali as vestes com que exerceram as suas funções litúrgicas, porque são santas, e porão outras vestes e só então poderão dirigir-se ao local destinado ao povo”. \\par",
+      "reference": "Ez 42:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Dimensões do átrio\\par }Tendo acabado de medir o interior do Templo, conduziu-me para fora em direção ao pórtico que dá para o oriente e mediu todo o átrio ao redor.",
+      "reference": "Ez 42:15"
+    },
+    "16": {
+      "text": "Mediu todo o lado do oriente com a cana de medir: quinhentos côvados, com a cana de medir, ao redor.",
+      "reference": "Ez 42:16"
+    },
+    "17": {
+      "text": "Em seguida, mediu todo o lado norte: quinhentos côvados, com a cana de medir, ao redor.",
+      "reference": "Ez 42:17"
+    },
+    "18": {
+      "text": "Depois mediu todo o lado sul: também quinhentos côvados, com a cana de medir,",
+      "reference": "Ez 42:18"
+    },
+    "19": {
+      "text": "ao redor. Finalmente, mediu todo o lado ocidental, ainda quinhentos côvados, com a cana de medir.",
+      "reference": "Ez 42:19"
+    },
+    "20": {
+      "text": "Pelos quatro lados mediu todo o muro ao redor. O seu comprimento era de quinhentos côvados e a sua largura era de quinhentos côvados, separando a parte sagrada da profana. \\par",
+      "reference": "Ez 42:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

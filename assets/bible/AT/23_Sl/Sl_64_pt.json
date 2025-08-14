@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 64,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 64 (63)\\par }{\\qc\\b\\i Castigo dos caluniadores\\par }{\\qc\\i Do mestre de canto. Salmo. De Davi. \\par }",
+      "reference": "Sl 64:1"
+    },
+    "2": {
+      "text": "Ouve, ó Deus, a voz do meu lamento! \\par Preserva-me a vida do terror do inimigo, \\par",
+      "reference": "Sl 64:2"
+    },
+    "3": {
+      "text": "esconde-me da conspiração dos maus \\par e do tumulto dos malfeitores. \\par",
+      "reference": "Sl 64:3"
+    },
+    "4": {
+      "text": "Eles afiam sua língua como espada, \\par ajustam sua flecha, palavra venenosa, \\par",
+      "reference": "Sl 64:4"
+    },
+    "5": {
+      "text": "para atirar, às escondidas, contra o inocente, \\par atiram de surpresa, sem temer. \\par",
+      "reference": "Sl 64:5"
+    },
+    "6": {
+      "text": "Eles se fortalecem com seu projeto maligno, \\par calculam como esconder armadilhas, \\par pensando: “Quem poderá ver-nos \\par",
+      "reference": "Sl 64:6"
+    },
+    "7": {
+      "text": "para investigar nossos crimes?” \\par Mas aquele que sonda o fundo do homem \\par e o coração profundo os examina. \\par",
+      "reference": "Sl 64:7"
+    },
+    "8": {
+      "text": "Deus atira uma flecha contra eles, \\par ficam feridos de repente; \\par",
+      "reference": "Sl 64:8"
+    },
+    "9": {
+      "text": "ele os faz cair por causa de sua língua, \\par todos os que os vêem maneiam a cabeça. \\par",
+      "reference": "Sl 64:9"
+    },
+    "10": {
+      "text": "Então todo homem temerá, \\par anunciará o ato de Deus \\par e compreenderá sua obra. \\par",
+      "reference": "Sl 64:10"
+    },
+    "11": {
+      "text": "O justo se alegra com Iahweh \\par e nele se abriga. \\par E todos os de coração reto se felicitarão. \\par",
+      "reference": "Sl 64:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

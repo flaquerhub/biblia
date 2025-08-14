@@ -1,0 +1,153 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "A Sabedoria edifica sua casa, \\par a Estultícia a derruba com as mãos. \\par",
+      "reference": "Pv 14:1"
+    },
+    "2": {
+      "text": "Quem anda na retidão teme a Iahweh, \\par quem se desvia dos seus caminhos o despreza. \\par",
+      "reference": "Pv 14:2"
+    },
+    "3": {
+      "text": "Da boca do estulto brota a soberba, \\par os lábios dos Sábios os guardam. \\par",
+      "reference": "Pv 14:3"
+    },
+    "4": {
+      "text": "Onde não há bois falta o grão, \\par a força do touro traz grande colheita. \\par",
+      "reference": "Pv 14:4"
+    },
+    "5": {
+      "text": "A testemunha fiel não mente, \\par a testemunha falsa diz mentiras. \\par",
+      "reference": "Pv 14:5"
+    },
+    "6": {
+      "text": "O zombador busca a sabedoria e não a encontra, \\par o conhecimento é fácil para o inteligente. \\par",
+      "reference": "Pv 14:6"
+    },
+    "7": {
+      "text": "Deixa a companhia do insensato, \\par pois não acharás conhecimento em seus lábios. \\par",
+      "reference": "Pv 14:7"
+    },
+    "8": {
+      "text": "A sabedoria do sagaz discerne o seu caminho, \\par a estultícia dos insensatos se engana. \\par",
+      "reference": "Pv 14:8"
+    },
+    "9": {
+      "text": "Os estultos zombam do sacrifício pelo pecado, \\par mas entre os homens retos encontra-se o favor. \\par",
+      "reference": "Pv 14:9"
+    },
+    "10": {
+      "text": "O coração conhece sua própria amargura, \\par e nenhum estrangeiro partilha sua alegria. \\par",
+      "reference": "Pv 14:10"
+    },
+    "11": {
+      "text": "A casa dos ímpios será destruída, \\par a tenda dos homens retos prosperará. \\par",
+      "reference": "Pv 14:11"
+    },
+    "12": {
+      "text": "Tal caminho parece reto para alguém, \\par mas afinal é o caminho da morte. \\par",
+      "reference": "Pv 14:12"
+    },
+    "13": {
+      "text": "Também entre risos chora o coração, \\par e a alegria termina em pesar. \\par",
+      "reference": "Pv 14:13"
+    },
+    "14": {
+      "text": "O coração desviado farta-se de seus caminhos, \\par e o homem de bem, de suas obras. \\par",
+      "reference": "Pv 14:14"
+    },
+    "15": {
+      "text": "O ingênuo acredita em tudo o que se diz, \\par o homem sagaz discerne os seus passos. \\par",
+      "reference": "Pv 14:15"
+    },
+    "16": {
+      "text": "O sábio teme o mal e dele se afasta, \\par o insensato é insolente e seguro de si. \\par",
+      "reference": "Pv 14:16"
+    },
+    "17": {
+      "text": "O homem colérico comete estultícia, \\par o homem mal intencionado é odioso. \\par",
+      "reference": "Pv 14:17"
+    },
+    "18": {
+      "text": "Os ingênuos herdam a estultícia, \\par os sagazes fazem do conhecimento uma coroa. \\par",
+      "reference": "Pv 14:18"
+    },
+    "19": {
+      "text": "Diante dos bons os maus se inclinam, \\par e os ímpios, nas portas dos justos. \\par",
+      "reference": "Pv 14:19"
+    },
+    "20": {
+      "text": "O pobre é odioso mesmo para o vizinho, \\par mas são muitos os amigos do rico. \\par",
+      "reference": "Pv 14:20"
+    },
+    "21": {
+      "text": "Aquele que despreza o próximo peca; \\par feliz é quem tem piedade dos pobres. \\par",
+      "reference": "Pv 14:21"
+    },
+    "22": {
+      "text": "Não é extraviar-se maquinar o mal? \\par Amor e fidelidade para quem busca o bem. \\par",
+      "reference": "Pv 14:22"
+    },
+    "23": {
+      "text": "Toda fadiga traz proveito; \\par o palavrório, porém, só traz indigência. \\par",
+      "reference": "Pv 14:23"
+    },
+    "24": {
+      "text": "A coroa dos sábios é a sua riqueza; \\par a estultícia dos insensatos é estultícia. \\par",
+      "reference": "Pv 14:24"
+    },
+    "25": {
+      "text": "Uma testemunha veraz salva as vidas, \\par quem profere mentiras é impostor. \\par",
+      "reference": "Pv 14:25"
+    },
+    "26": {
+      "text": "No temor de Iahweh há poderosa segurança; \\par para seus filhos ele é um refúgio. \\par",
+      "reference": "Pv 14:26"
+    },
+    "27": {
+      "text": "O temor de Iahweh é fonte de vida \\par para evitar os laços da morte. \\par",
+      "reference": "Pv 14:27"
+    },
+    "28": {
+      "text": "Povo numeroso é glória para o rei, \\par a falta de gente é ruína para o príncipe. \\par",
+      "reference": "Pv 14:28"
+    },
+    "29": {
+      "text": "O homem paciente é cheio de entendimento, \\par o impulsivo exalta a estultícia. \\par",
+      "reference": "Pv 14:29"
+    },
+    "30": {
+      "text": "Um coração bondoso é vida para o corpo, \\par mas a inveja é cárie para os ossos. \\par",
+      "reference": "Pv 14:30"
+    },
+    "31": {
+      "text": "Oprimir o fraco é ultrajar seu Criador, \\par honrá-lo é ter piedade do indigente. \\par",
+      "reference": "Pv 14:31"
+    },
+    "32": {
+      "text": "O ímpio cai em sua própria maldade, \\par o justo se refugia em sua integridade. \\par",
+      "reference": "Pv 14:32"
+    },
+    "33": {
+      "text": "Num coração inteligente repousa a sabedoria; \\par mas não é reconhecida no coração dos insensatos. \\par",
+      "reference": "Pv 14:33"
+    },
+    "34": {
+      "text": "A justiça faz prosperar uma nação, \\par o pecado é a vergonha dos povos. \\par",
+      "reference": "Pv 14:34"
+    },
+    "35": {
+      "text": "O favor do rei é para o servo prudente, \\par e a sua cólera para aquele que é indigno. \\par",
+      "reference": "Pv 14:35"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 35
+}

@@ -1,0 +1,105 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Davi poupa Saul\\par }Davi saiu dali e se abrigou nos esconderijos de Engadi.",
+      "reference": "1Sm 24:1"
+    },
+    "2": {
+      "text": "Quando Saul voltou da perseguição aos filisteus, contaram-lhe isto: “Davi está no deserto de Engadi”.",
+      "reference": "1Sm 24:2"
+    },
+    "3": {
+      "text": "Então Saul selecionou três mil homens, escolhidos entre todo o Israel, e saiu à procura de Davi e de seus homens, a leste das Rochas das Cabras Monteses.",
+      "reference": "1Sm 24:3"
+    },
+    "4": {
+      "text": "Chegou aos currais de ovelhas, que ficam perto do caminho; havia lá uma gruta, em que Saul entrou para cobrir os pés. Davi e os seus homens estavam no fundo da caverna,",
+      "reference": "1Sm 24:4"
+    },
+    "5": {
+      "text": "e os de Davi lhe disseram: “Chegou o dia em que Iahweh te diz: Sou eu que entrego o teu inimigo nas tuas mãos; faze com ele o que bem quiseres”. Davi levantou-se e, furtivamente, cortou a orla do manto de Saul.",
+      "reference": "1Sm 24:5"
+    },
+    "6": {
+      "text": "Depois disso, o coração lhe batia fortemente por ter cortado a orla do manto de Saul.",
+      "reference": "1Sm 24:6"
+    },
+    "7": {
+      "text": "E disse aos seus homens: “Que Iahweh me livre de proceder assim com o meu senhor, de levantar a mão contra ele, porque é o ungido de Iahweh”.",
+      "reference": "1Sm 24:7"
+    },
+    "8": {
+      "text": "Com essas palavras, Davi conteve os seus homens e impediu que se lançassem sobre Saul. \\par Este deixou a gruta e seguiu o seu caminho.",
+      "reference": "1Sm 24:8"
+    },
+    "9": {
+      "text": "Davi se levantou a seguir, saiu da gruta e lhe gritou: “Senhor meu rei!” Saul voltou-se e Davi se inclinou até o chão e se prostrou.",
+      "reference": "1Sm 24:9"
+    },
+    "10": {
+      "text": "Depois Davi disse a Saul: “Por que ouves os que te dizem: ‘Davi quer fazer-te mal’?",
+      "reference": "1Sm 24:10"
+    },
+    "11": {
+      "text": "Hoje mesmo, os teus olhos viram como Iahweh te entregava às minhas mãos, na gruta, mas eu me recusei a matar-te. Eu te poupei e disse: Não levantarei a mão contra o meu senhor, porque ele é o ungido de Iahweh.",
+      "reference": "1Sm 24:11"
+    },
+    "12": {
+      "text": "Ó meu pai, vê aqui na minha mão a orla do teu manto. Se cortei a orla do teu manto e não te matei, reconhece que não há maldade nem crime em mim. Não pequei contra ti, enquanto tu andas no meu encalço para me tirares a vida.",
+      "reference": "1Sm 24:12"
+    },
+    "13": {
+      "text": "Iahweh seja juiz entre mim e ti, que Iahweh me vingue de ti, mas a minha mão não te tocará!",
+      "reference": "1Sm 24:13"
+    },
+    "14": {
+      "text": "(Como diz o antigo provérbio: Dos ímpios procede a impiedade, mas a minha mão não te tocará.)",
+      "reference": "1Sm 24:14"
+    },
+    "15": {
+      "text": "Contra quem saiu em campanha o rei de Israel? Atrás de quem corres? Atrás de um cão morto, de uma pulga!",
+      "reference": "1Sm 24:15"
+    },
+    "16": {
+      "text": "Que Iahweh seja juiz, e julgue entre mim e ti, que examine e defenda a minha causa e me faça justiça livrando-me da tua mão!” \\par",
+      "reference": "1Sm 24:16"
+    },
+    "17": {
+      "text": "Terminando Davi de falar a Saul, este lhe respondeu: “É mesmo a tua voz, meu filho Davi?”, e Saul começou a clamar e a chorar.",
+      "reference": "1Sm 24:17"
+    },
+    "18": {
+      "text": "Depois ele disse a Davi: “Tu és mais justo do que eu, porque me tens feito bem, e eu tenho-te feito mal.",
+      "reference": "1Sm 24:18"
+    },
+    "19": {
+      "text": "Hoje, tu me revelaste a tua bondade, pois Iahweh me entregou nas tuas mãos e não me mataste.",
+      "reference": "1Sm 24:19"
+    },
+    "20": {
+      "text": "Quando um homem encontra o seu inimigo, porventura deixa-o seguir tranqüilamente o seu caminho? Que Iahweh te recompense pelo bem que hoje me fizeste.",
+      "reference": "1Sm 24:20"
+    },
+    "21": {
+      "text": "Agora sei que sem dúvida reinarás e que o reino de Israel será firme na tua mão.",
+      "reference": "1Sm 24:21"
+    },
+    "22": {
+      "text": "Jura-me, pois, por Iahweh, que não exterminarás a minha posteridade e não farás desaparecer o meu nome e o da minha família”.",
+      "reference": "1Sm 24:22"
+    },
+    "23": {
+      "text": "Então Davi fez o juramento a Saul. E Saul voltou para a sua casa; mas Davi e os seus homens subiram para o refúgio. \\par",
+      "reference": "1Sm 24:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

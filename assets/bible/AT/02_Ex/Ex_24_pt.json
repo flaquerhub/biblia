@@ -1,0 +1,85 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 3. CONCLUSÃO DA ALIANÇA\\par }Ele disse a Moisés: “Sobe a Iahweh, tu, Aarão, Nadab, Abiú e setenta anciãos de Israel, e adorareis de longe.",
+      "reference": "Ex 24:1"
+    },
+    "2": {
+      "text": "Só Moisés se aproximará de Iahweh; os outros não se aproximarão, nem o povo subirá com ele”. \\par",
+      "reference": "Ex 24:2"
+    },
+    "3": {
+      "text": "Veio, pois, Moisés e referiu ao povo todas as palavras de Iahweh e todas as leis, e todo o povo respondeu a uma só voz: “Nós observaremos todas as palavras ditas por Iahweh”.",
+      "reference": "Ex 24:3"
+    },
+    "4": {
+      "text": "Moisés escreveu todas as palavras de Iahweh; e levantando-se de manhã, construiu um altar ao pé da montanha, e doze estelas para as doze tribos de Israel.",
+      "reference": "Ex 24:4"
+    },
+    "5": {
+      "text": "Depois enviou alguns jovens dos filhos de Israel, e ofereceram holocaustos e imolaram a Iahweh novilhos como sacrifícios de comunhão.",
+      "reference": "Ex 24:5"
+    },
+    "6": {
+      "text": "Moisés tomou a metade do sangue e colocou-a em bacias, e espargiu a outra metade do sangue sobre o altar.",
+      "reference": "Ex 24:6"
+    },
+    "7": {
+      "text": "Tomou o livro da Aliança e o leu para o povo; e eles disseram: “Tudo o que Iahweh falou, nós o faremos e obedeceremos”.",
+      "reference": "Ex 24:7"
+    },
+    "8": {
+      "text": "Moisés tomou do sangue e o aspergiu sobre o povo, e disse: “Este é o sangue da Aliança que Iahweh fez convosco, através de todas essas cláusulas”. \\par",
+      "reference": "Ex 24:8"
+    },
+    "9": {
+      "text": "E Moisés, Aarão, Nadab, Abiú e os setenta anciãos de Israel subiram.",
+      "reference": "Ex 24:9"
+    },
+    "10": {
+      "text": "Eles viram o Deus de Israel. Debaixo de seus pés havia como um pavimento de safira, tão pura como o próprio céu.",
+      "reference": "Ex 24:10"
+    },
+    "11": {
+      "text": "Ele não estendeu a mão sobre os notáveis dos filhos de Israel. Eles contemplaram a Deus e depois comeram e beberam. \\par",
+      "reference": "Ex 24:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Moisés sobre a montanha\\par }Iahweh disse a Moisés: “Sobe a mim na montanha, e fica lá; dar-te-ei tábuas de pedra – a lei e o mandamento – que escrevi para ensinares a eles”.",
+      "reference": "Ex 24:12"
+    },
+    "13": {
+      "text": "Levantou-se Moisés com Josué, seu servidor; e subiram à montanha de Deus.",
+      "reference": "Ex 24:13"
+    },
+    "14": {
+      "text": "Ele disse aos anciãos: “Esperai aqui até a nossa volta; tendes convosco Aarão e Hur; quem tiver alguma questão, dirija-se a eles”.",
+      "reference": "Ex 24:14"
+    },
+    "15": {
+      "text": "Depois, Moisés subiu à montanha. \\par A nuvem cobriu a montanha.",
+      "reference": "Ex 24:15"
+    },
+    "16": {
+      "text": "A glória de Iahweh pousou sobre o monte Sinai, e a nuvem o cobriu durante seis dias. No sétimo dia, Iahweh chamou Moisés do meio da nuvem.",
+      "reference": "Ex 24:16"
+    },
+    "17": {
+      "text": "O aspecto da glória de Iahweh era, aos olhos dos filhos de Israel, como um fogo consumidor no cimo da montanha.",
+      "reference": "Ex 24:17"
+    },
+    "18": {
+      "text": "Moisés, entrando pelo meio da nuvem, subiu à montanha. E Moisés permaneceu na montanha quarenta dias e quarenta noites. \\par",
+      "reference": "Ex 24:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

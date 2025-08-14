@@ -1,0 +1,129 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O exemplo de Jesus Cristo\\par }Portanto, também nós, com tal nuvem de testemunhas ao nosso redor, rejeitando todo fardo e o pecado que nos envolve, corramos com perseverança para o certame que nos é proposto,",
+      "reference": "Hb 12:1"
+    },
+    "2": {
+      "text": "com os olhos fixos naquele que é o autor e realizador da fé, Jesus, que, em vez da alegria que lhe foi proposta, suportou a cruz, desprezando a vergonha, e {\\i se assentou à direita} do trono de Deus.",
+      "reference": "Hb 12:2"
+    },
+    "3": {
+      "text": "Considerai, pois, aquele que suportou tal contradição por parte dos pecadores, para não vos deixardes fatigar pelo desânimo.",
+      "reference": "Hb 12:3"
+    },
+    "4": {
+      "text": "Vós ainda não resististes até o sangue em vosso combate contra o pecado! \\par",
+      "reference": "Hb 12:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i A educação paterna de Deus\\par }Vós esquecestes a exortação que vos foi dirigida como a filhos: {\\i Meu filho, não desprezes a educação do Senhor, não desanimes quando ele te corrige; }",
+      "reference": "Hb 12:5"
+    },
+    "6": {
+      "text": "{\\i pois o Senhor educa a quem ama, e castiga todo filho que acolhe.}",
+      "reference": "Hb 12:6"
+    },
+    "7": {
+      "text": "É para a vossa educação que sofreis. Deus vos trata como filhos. Qual é, com efeito, o filho cujo pai não educa?",
+      "reference": "Hb 12:7"
+    },
+    "8": {
+      "text": "Se estais privados da educação da qual todos participam, então sois bastardos e não filhos.",
+      "reference": "Hb 12:8"
+    },
+    "9": {
+      "text": "Nós tivemos os nossos pais segundo a carne como educadores, e os respeitávamos. Não haveremos de ser muito mais submissos ao Pai dos espíritos, a fim de vivermos?",
+      "reference": "Hb 12:9"
+    },
+    "10": {
+      "text": "Pois eles nos educaram por pouco tempo, segundo lhes parecia bem. Deus, porém, nos educa para o aproveitamento, a fim de nos comunicar a sua santidade.",
+      "reference": "Hb 12:10"
+    },
+    "11": {
+      "text": "Toda educação, com efeito, no momento não parece motivo de alegria, mas de tristeza. Depois, no entanto, produz naqueles que assim foram exercitados um fruto de paz e de justiça.",
+      "reference": "Hb 12:11"
+    },
+    "12": {
+      "text": "Por isso, {\\i reerguei as mãos enfraquecidas e os joelhos trôpegos;}",
+      "reference": "Hb 12:12"
+    },
+    "13": {
+      "text": "{\\i endireitai os caminhos para os vossos pés}, a fim de que não se extravie o que é manco, mas antes seja curado. \\par",
+      "reference": "Hb 12:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Castigo da infidelidade\\par }{\\i Procurai a paz} com todos, e a santificação, sem a qual ninguém verá o Senhor,",
+      "reference": "Hb 12:14"
+    },
+    "15": {
+      "text": "vigiando atentamente para que ninguém seja faltoso, separando-se da graça de Deus. {\\i Nem haja raiz alguma de amargura} que, brotando, vos perturbe e, por meio dela, muitos sejam contaminados.",
+      "reference": "Hb 12:15"
+    },
+    "16": {
+      "text": "Nem haja impuro algum, ou profano, como foi Esaú, o qual, por uma só refeição, {\\i vendeu o seu direito de primogenitura.}",
+      "reference": "Hb 12:16"
+    },
+    "17": {
+      "text": "Sabeis ainda que, em seguida, querendo herdar a bênção, foi rejeitado, pois não achou lugar para o arrependimento, embora com lágrimas o tivesse procurado! \\par",
+      "reference": "Hb 12:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i As duas alianças\\par }Vós não vos aproximastes de uma realidade palpável: {\\i o fogo ardente, a escuridão, as trevas, a tempestade,}",
+      "reference": "Hb 12:18"
+    },
+    "19": {
+      "text": "{\\i o som da trombeta e o clamor das palavras} cujos ouvintes suplicaram não se lhes falasse mais.",
+      "reference": "Hb 12:19"
+    },
+    "20": {
+      "text": "Pois já não suportavam o que lhes era ordenado: {\\i Até um animal, se tocar a montanha, será apedrejado.}",
+      "reference": "Hb 12:20"
+    },
+    "21": {
+      "text": "Na verdade, de tal modo era terrível o espetáculo, que Moisés disse: {\\i Sinto-me aterrado} e trêmulo! \\par",
+      "reference": "Hb 12:21"
+    },
+    "22": {
+      "text": "Mas vós vos aproximastes do monte Sião e da Cidade do Deus vivo, a Jerusalém celestial, e de milhões de anjos reunidos em festa,",
+      "reference": "Hb 12:22"
+    },
+    "23": {
+      "text": "e da assembléia dos primogênitos cujos nomes estão inscritos nos céus, e de Deus, o Juiz de todos, e dos espíritos dos justos que chegaram à perfeição,",
+      "reference": "Hb 12:23"
+    },
+    "24": {
+      "text": "e de Jesus, mediador de uma nova aliança, e do sangue da aspersão mais eloqüente que o de Abel. \\par",
+      "reference": "Hb 12:24"
+    },
+    "25": {
+      "text": "Prestai atenção para não deixar de ouvir aquele que vos fala! Porque se não escaparam do castigo quando recusaram ouvir aquele que os advertia sobre a terra, com maior razão ainda não escaparemos nós, se nos afastarmos de quem nos fala do alto dos céus.",
+      "reference": "Hb 12:25"
+    },
+    "26": {
+      "text": "Ele, cuja voz um dia abalou a terra, agora proclama: {\\i Ainda uma vez abalarei não apenas a terra, mas também o céu.}\\par",
+      "reference": "Hb 12:26"
+    },
+    "27": {
+      "text": "As palavras {\\i ainda uma vez} anunciam o desaparecimento de tudo o que participa da instabilidade do mundo criado, a fim de que subsista o que é inabalável.",
+      "reference": "Hb 12:27"
+    },
+    "28": {
+      "text": "Visto que recebemos um reino inabalável, guardemos bem esta graça. Por ela, sirvamos a Deus de modo que lhe seja agradável, com submissão e temor.",
+      "reference": "Hb 12:28"
+    },
+    "29": {
+      "text": "Pois o nosso {\\i Deus é um fogo abrasador!} \\par",
+      "reference": "Hb 12:29"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 29
+}

@@ -1,0 +1,77 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. ÚLTIMO DISCURSO DE JOSUÉ\\par }{\\qc\\b\\i Josué recapitula a sua obra\\par }Decorrido longo tempo depois que Iahweh havia dado repouso a Israel, no meio de todos os inimigos que o rodeavam – Josué se tornara velho e avançado em idade –,",
+      "reference": "Js 23:1"
+    },
+    "2": {
+      "text": "Josué convocou todo Israel, seus anciãos, seus chefes, seus juízes e seus oficiais, e lhes disse: “Estou velho e avançado em idade;",
+      "reference": "Js 23:2"
+    },
+    "3": {
+      "text": "e vós vistes tudo o que Iahweh vosso Deus fez, por vossa causa, a todas estas nações; foi Iahweh vosso Deus que combateu por vós.",
+      "reference": "Js 23:3"
+    },
+    "4": {
+      "text": "Vede, eu distribuí por sorte para vós, como possessão para as vossas tribos, estas nações que ainda restam e todas as populações que exterminei desde o Jordão até ao Grande Mar ao ocidente.",
+      "reference": "Js 23:4"
+    },
+    "5": {
+      "text": "Iahweh vosso Deus, ele mesmo, as expulsará de diante de vós, ele as desalojará diante de vós, e vós tomareis posse de sua terra, como vos disse Iahweh vosso Deus. \\par",
+      "reference": "Js 23:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Como se comportar no meio das populações estrangeiras\\par }Esforçai-vos, pois, muitíssimo, para guardar e cumprir tudo o que está escrito no livro da Lei de Moisés, sem vos desviardes nem à direita nem à esquerda,",
+      "reference": "Js 23:6"
+    },
+    "7": {
+      "text": "sem vos misturardes com estas populações que ainda restam no meio de vós. Não pronunciareis o nome dos seus deuses, não os invocareis nos vossos juramentos, não os servireis e não vos prosternareis diante deles.",
+      "reference": "Js 23:7"
+    },
+    "8": {
+      "text": "Ao contrário, vós vos apegareis a Iahweh vosso Deus, como o fizestes até o dia de hoje.",
+      "reference": "Js 23:8"
+    },
+    "9": {
+      "text": "Iahweh expulsou de diante de vós nações grandes e fortes, e ninguém pôde resistir diante de vós até o presente.",
+      "reference": "Js 23:9"
+    },
+    "10": {
+      "text": "Um só dentre vós pôde perseguir mil, pois Iahweh vosso Deus combatia, ele mesmo, por vós, como vos dissera.",
+      "reference": "Js 23:10"
+    },
+    "11": {
+      "text": "Tomai bastante cuidado com a vossa vida, para amardes Iahweh vosso Deus. \\par",
+      "reference": "Js 23:11"
+    },
+    "12": {
+      "text": "Porém, se acontecer vos desviardes e vos ligardes ao restante destas nações que ficaram ainda no meio de vós, se contrairdes casamento com elas, e com elas vos misturardes e elas convosco,",
+      "reference": "Js 23:12"
+    },
+    "13": {
+      "text": "sabei, então, com certeza, que Iahweh vosso Deus deixará de expulsar de diante de vós estas nações: serão para vós rede e laço, espinho nas vossas ilhargas e cardo nos vossos olhos, até que desapareçais desta boa terra que vos deu Iahweh vosso Deus. \\par",
+      "reference": "Js 23:13"
+    },
+    "14": {
+      "text": "Eis que hoje eu vou pelo caminho de toda a terra. Reconhecei de todo o vosso coração e de toda a vossa alma que, de todas as promessas que Iahweh, vosso Deus, fez em vosso favor, nenhuma ficou sem cumprimento: tudo se realizou em vosso favor e nenhuma delas falhou. \\par",
+      "reference": "Js 23:14"
+    },
+    "15": {
+      "text": "Assim como toda promessa feita por Iahweh vosso Deus em vosso favor se realizou para vós, de igual modo Iahweh realizará contra vós todas as suas ameaças, até vos eliminar desta boa terra que Iahweh vosso Deus, vos deu. \\par",
+      "reference": "Js 23:15"
+    },
+    "16": {
+      "text": "Se transgredirdes a Aliança que Iahweh vosso Deus vos impôs, e se servirdes a outros deuses e vos prostrardes diante deles, então a ira de Iahweh se inflamará contra vós e bem depressa desaparecereis da boa terra que ele vos deu”. \\par",
+      "reference": "Js 23:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

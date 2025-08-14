@@ -1,0 +1,105 @@
+{
+  "book": 49,
+  "book_name": "Efésios",
+  "book_abbr": "Ef",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Ephesians",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Endereço e saudação\\par }Paulo, apóstolo de Cristo Jesus, pela vontade de Deus, aos santos e fiéis em Cristo Jesus:",
+      "reference": "Ef 1:1"
+    },
+    "2": {
+      "text": "graça e paz a vós da parte de Deus, nosso Pai, e do Senhor Jesus Cristo. \\par",
+      "reference": "Ef 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b {\\i I. O mistério da salvação e da Igreja}\\par }{\\qc\\b\\i O plano divino da salvação\\par }Bendito seja o Deus e Pai \\par de nosso Senhor Jesus Cristo, \\par que nos abençoou com toda a sorte \\par de bênçãos espirituais, \\par nos céus, em Cristo. \\par",
+      "reference": "Ef 1:3"
+    },
+    "4": {
+      "text": "Nele ele nos escolheu \\par antes da fundação do mundo, \\par para sermos santos e irrepreensíveis \\par diante dele no amor. \\par",
+      "reference": "Ef 1:4"
+    },
+    "5": {
+      "text": "Ele nos predestinou para sermos \\par seus filhos adotivos por Jesus Cristo, \\par conforme o beneplácito da sua vontade, \\par",
+      "reference": "Ef 1:5"
+    },
+    "6": {
+      "text": "para louvor e glória da sua graça, \\par com a qual ele nos agraciou no Amado. \\par",
+      "reference": "Ef 1:6"
+    },
+    "7": {
+      "text": "E é pelo sangue deste que temos a redenção, \\par a remissão dos pecados, \\par segundo a riqueza da sua graça, \\par",
+      "reference": "Ef 1:7"
+    },
+    "8": {
+      "text": "que ele derramou profusamente sobre nós, \\par infundindo-nos toda sabedoria e prudência, \\par",
+      "reference": "Ef 1:8"
+    },
+    "9": {
+      "text": "dando-nos a conhecer \\par o mistério da sua vontade, \\par conforme decisão prévia que lhe aprouve tomar \\par",
+      "reference": "Ef 1:9"
+    },
+    "10": {
+      "text": "para levar o tempo à sua plenitude: \\par a de em Cristo encabeçar todas as coisas, \\par as que estão nos céus e as que estão na terra. \\par",
+      "reference": "Ef 1:10"
+    },
+    "11": {
+      "text": "Nele, predestinados pelo propósito \\par daquele que tudo opera \\par segundo o conselho da sua vontade, \\par fomos feitos sua herança, \\par",
+      "reference": "Ef 1:11"
+    },
+    "12": {
+      "text": "a fim de servirmos para o seu louvor e glória, \\par nós, os que antes esperávamos em Cristo. \\par",
+      "reference": "Ef 1:12"
+    },
+    "13": {
+      "text": "Nele também vós, \\par tendo ouvido a Palavra da verdade \\par – o evangelho da vossa salvação – \\par e nela tendo crido, \\par fostes selados pelo Espírito da promessa, \\par o Espírito Santo, \\par",
+      "reference": "Ef 1:13"
+    },
+    "14": {
+      "text": "que é o penhor da nossa herança, \\par para a redenção do povo que ele adquiriu \\par para o seu louvor e glória. \\par",
+      "reference": "Ef 1:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Triunfo e supremacia de Cristo\\par }Por isso também eu, tendo ouvido a respeito da vossa fé no Senhor Jesus e do vosso amor para com todos os santos,",
+      "reference": "Ef 1:15"
+    },
+    "16": {
+      "text": "não cesso de dar graças a Deus a vosso respeito e de fazer menção de vós nas minhas orações,",
+      "reference": "Ef 1:16"
+    },
+    "17": {
+      "text": "para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê um espírito de sabedoria e de revelação, para poderdes realmente conhecê-lo.",
+      "reference": "Ef 1:17"
+    },
+    "18": {
+      "text": "Que ele ilumine os olhos dos vossos corações, para saberdes qual é a esperança que o seu chamado encerra, qual é a riqueza da glória da sua herança entre os santos",
+      "reference": "Ef 1:18"
+    },
+    "19": {
+      "text": "e qual é a extraordinária grandeza do seu poder para nós, os que cremos, conforme a ação do seu poder eficaz, \\par",
+      "reference": "Ef 1:19"
+    },
+    "20": {
+      "text": "que ele fez operar em Cristo, \\par ressuscitando-o de entre os mortos \\par {\\i e fazendo-o assentar à sua direita} nos céus, \\par",
+      "reference": "Ef 1:20"
+    },
+    "21": {
+      "text": "muito acima de qualquer Principado \\par e Autoridade e Poder e Soberania \\par e de todo nome que se pode nomear \\par não só neste século, mas também no vindouro. \\par",
+      "reference": "Ef 1:21"
+    },
+    "22": {
+      "text": "{\\i Tudo ele pôs debaixo dos seus pés, }\\par e o pôs, acima de tudo, como Cabeça da Igreja, \\par",
+      "reference": "Ef 1:22"
+    },
+    "23": {
+      "text": "que é o seu Corpo: a plenitude daquele \\par que plenifica tudo em tudo. \\par",
+      "reference": "Ef 1:23"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 23
+}

@@ -1,0 +1,93 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "Mosca morta estraga o perfume do perfumista, um pouco de insensatez conta mais que sabedoria e glória. \\par",
+      "reference": "Ec 10:1"
+    },
+    "2": {
+      "text": "Ó sábio se orienta bem, \\par o insensato se desvia \\par",
+      "reference": "Ec 10:2"
+    },
+    "3": {
+      "text": "e quando o néscio anda pelo caminho, falta-lhe inteligência, e todos dizem: “É um néscio!” \\par",
+      "reference": "Ec 10:3"
+    },
+    "4": {
+      "text": "Se a indignação daquele que comanda se levanta contra ti, não deixes teu lugar, pois a calma evita grandes pecados. \\par",
+      "reference": "Ec 10:4"
+    },
+    "5": {
+      "text": "Há um mal que vejo debaixo do sol, erro que vem do soberano: \\par",
+      "reference": "Ec 10:5"
+    },
+    "6": {
+      "text": "a insensatez ocupando os mais altos postos e ricos se assentando em lugar baixo.",
+      "reference": "Ec 10:6"
+    },
+    "7": {
+      "text": "Vejo escravos a cavalo e príncipes a pé, como escravos. \\par",
+      "reference": "Ec 10:7"
+    },
+    "8": {
+      "text": "Quem cava um buraco, nele cairá. \\par Quem escava um muro, uma cobra o morderá. \\par",
+      "reference": "Ec 10:8"
+    },
+    "9": {
+      "text": "Quem remove pedras, com elas se machuca, \\par quem racha lenha, expõe-se ao perigo. \\par",
+      "reference": "Ec 10:9"
+    },
+    "10": {
+      "text": "Se o machado está cego e não for afiado, é preciso muita força; é mais vantajoso usar sabedoria. \\par",
+      "reference": "Ec 10:10"
+    },
+    "11": {
+      "text": "Se a cobra morde por falta de encantamento, do que vale o encantador? \\par",
+      "reference": "Ec 10:11"
+    },
+    "12": {
+      "text": "As palavras do sábio agradam, \\par o insensato se arruína com os lábios: \\par",
+      "reference": "Ec 10:12"
+    },
+    "13": {
+      "text": "o início de suas palavras é insensatez \\par e o fim do seu discurso é tolice perversa. \\par",
+      "reference": "Ec 10:13"
+    },
+    "14": {
+      "text": "O néscio multiplica as palavras, \\par mas o homem não sabe o que vai acontecer: \\par quem pode anunciar-lhe o que há de ser depois dele? \\par",
+      "reference": "Ec 10:14"
+    },
+    "15": {
+      "text": "O trabalho do insensato o fatiga, \\par pois nem sabe como ir à cidade. \\par",
+      "reference": "Ec 10:15"
+    },
+    "16": {
+      "text": "Ai de ti, país governado por um jovem, \\par e cujos príncipes comem desde o amanhecer! \\par",
+      "reference": "Ec 10:16"
+    },
+    "17": {
+      "text": "Feliz és tu, país cujo rei é filho de nobres, \\par e cujos príncipes comem na hora certa \\par para se refazerem, e não para se banquetearem. \\par",
+      "reference": "Ec 10:17"
+    },
+    "18": {
+      "text": "Por mãos preguiçosas o teto desaba, \\par por braços frouxos goteja na casa. \\par",
+      "reference": "Ec 10:18"
+    },
+    "19": {
+      "text": "Para rir faz-se um banquete, \\par o vinho alegra a vida, \\par e o dinheiro responde a tudo. \\par",
+      "reference": "Ec 10:19"
+    },
+    "20": {
+      "text": "Nem em pensamento amaldiçoes o rei, \\par não amaldiçoes o rico, mesmo em teu quarto, \\par pois um pássaro do céu poderia levar a voz, \\par e um ser alado contaria o que disseste. \\par",
+      "reference": "Ec 10:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

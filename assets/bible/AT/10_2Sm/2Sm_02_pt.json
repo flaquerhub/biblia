@@ -1,0 +1,141 @@
+{
+  "book": 10,
+  "book_name": "2Samuel",
+  "book_abbr": "2Sm",
+  "book_category": "Histórico",
+  "book_english": "2 Samuel",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i IV. Davi}\\par 1. DAVI, REI DE JUDÁ\\par }{\\qc\\b\\i Sagração de Davi em Hebron\\par }Depois disso, Davi consultou a Iahweh nestes termos: “Subirei a uma das cidades de Judá?”, e Iahweh lhe respondeu: “Sobe!” Davi perguntou: “A qual subirei?”, e a resposta foi: “A Hebron”.",
+      "reference": "2Sm 2:1"
+    },
+    "2": {
+      "text": "Davi subiu para lá, e também as suas duas mulheres, Aquinoam de Jezrael e Abigail, a mulher de Nabal de Carmel.",
+      "reference": "2Sm 2:2"
+    },
+    "3": {
+      "text": "Quanto aos homens que estavam com ele, Davi os fez subir cada um com a sua família, e se fixaram nas aldeias de Hebron.",
+      "reference": "2Sm 2:3"
+    },
+    "4": {
+      "text": "Vieram os homens de Judá e ali ungiram a Davi rei sobre a casa de Judá. \\par \\par {\\qc\\b\\i Mensagem ao povo de Jabes\\par } Comunicaram a Davi que os habitantes de Jabes de Galaad tinham dado sepultura a Saul.",
+      "reference": "2Sm 2:4"
+    },
+    "5": {
+      "text": "Então Davi enviou mensageiros aos habitantes de Jabes dizendo: “Benditos sejais de Iahweh, por terdes realizado esta obra de misericórdia para com Saul vosso senhor, e lhe terdes dado sepultura!",
+      "reference": "2Sm 2:5"
+    },
+    "6": {
+      "text": "Que Iahweh tenha par convosco misericórdia e bondade, e eu também vos farei bem, porque assim procedestes.",
+      "reference": "2Sm 2:6"
+    },
+    "7": {
+      "text": "E agora, enchei-vos de coragem e sede valorosos, porque Saul vosso rei está morto. Quanto a mim, a casa de Judá já me sagrou seu rei”. \\par",
+      "reference": "2Sm 2:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Abner impõe Isbaal como rei de Israel\\par }Abner, filho de Ner, chefe do exército de Saul, tinha levado consigo Isbaal, filho de Saul, e o tinha feito ir a Maanaim.",
+      "reference": "2Sm 2:8"
+    },
+    "9": {
+      "text": "Ele o estabeleceu como rei sobre Galaad, sobre os aseritas, sobre Jezrael, Efraim, Benjamim, e sobre todo o Israel.",
+      "reference": "2Sm 2:9"
+    },
+    "10": {
+      "text": "Isbaal, filho de Saul, tinha quarenta anos quando se tornou rei de Israel, e reinou dois anos. Somente a casa de Judá seguia a Davi.",
+      "reference": "2Sm 2:10"
+    },
+    "11": {
+      "text": "O tempo que Davi reinou em Hebron sobre a casa de Judá foi de sete anos e seis meses. \\par",
+      "reference": "2Sm 2:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Guerra entre Judá e Israel. Batalha de Gabaon\\par }Abner, filho de Ner, e a guarda de Isbaal, filho de Saul, empreenderam uma expedição militar partindo de Maanaim rumo a Gabaon.",
+      "reference": "2Sm 2:12"
+    },
+    "13": {
+      "text": "Joab, filho de Sárvia, e a guarda de Davi puseram-se igualmente em marcha e se defrontaram perto do açude de Gabaon. Estes pararam de um lado do açude, e aqueles do outro. \\par",
+      "reference": "2Sm 2:13"
+    },
+    "14": {
+      "text": "Abner disse a Joab: “Deixa que venham alguns jovens e lutem diante de nós”. Joab respondeu: “Que lutem!”",
+      "reference": "2Sm 2:14"
+    },
+    "15": {
+      "text": "Vieram eles e foram contados: doze de Benjamim, por Isbaal, filho de Saul, e doze da guarda de Davi.",
+      "reference": "2Sm 2:15"
+    },
+    "16": {
+      "text": "Cada um deles agarrou a cabeça do adversário e meteu-lhe a espada no flanco, e desse modo caíram todos juntos. É por isso que se chama a esse lugar de Campo dos Flancos; fica em Gabaon. \\par",
+      "reference": "2Sm 2:16"
+    },
+    "17": {
+      "text": "Então travou-se naquele dia uma batalha encarniçada, na qual Abner e os de Israel foram vencidos na presença da guarda de Davi.",
+      "reference": "2Sm 2:17"
+    },
+    "18": {
+      "text": "Estavam lá os três filhos de Sárvia: Joab, Abisaí e Asael. Ora, Asael era rápido na corrida como as gazelas selvagens.",
+      "reference": "2Sm 2:18"
+    },
+    "19": {
+      "text": "Ele se lançou em perseguição de Abner, sem se desviar das suas pegadas, nem para a direita nem para a esquerda.",
+      "reference": "2Sm 2:19"
+    },
+    "20": {
+      "text": "Abner olhou para trás e disse: “És tu, Asael?”, e ele respondeu: “Sou eu”.",
+      "reference": "2Sm 2:20"
+    },
+    "21": {
+      "text": "Então disse Abner: “Vai para a direita ou para a esquerda, agarra um dos meus moços e apossa-te dos seus despojos”. Mas Asael não quis abandonar a perseguição dele.",
+      "reference": "2Sm 2:21"
+    },
+    "22": {
+      "text": "Abner insistiu com Asael: “Deixa de seguir-me! Por que hei de ferir-te e te estirar no chão? E como poderia encarar o rosto de teu irmão Joab?”",
+      "reference": "2Sm 2:22"
+    },
+    "23": {
+      "text": "Como ele se recusasse a afastar-se, Abner lhe perfurou o ventre com o couto da sua lança, que lhe saiu pelas costas. Ele caiu ali e morreu no mesmo lugar. E todos os que iam chegando ao lugar onde Asael caíra e morrera, paravam. \\par",
+      "reference": "2Sm 2:23"
+    },
+    "24": {
+      "text": "Joab e Abisaí se lançaram em perseguição de Abner e, ao pôr-do-sol, chegaram à colina de Ama, que está a leste de Gaia, no caminho do deserto de Gabaon.",
+      "reference": "2Sm 2:24"
+    },
+    "25": {
+      "text": "Os benjaminitas se concentraram atrás de Abner em formação cerrada, e pararam no alto de uma colina.",
+      "reference": "2Sm 2:25"
+    },
+    "26": {
+      "text": "Abner chamou Joab e disse: “Devorará a espada para sempre? Não sabes que no fim só restará amargura? Que estás esperando para ordenar a esses homens que cessem de perseguir a seus irmãos?”",
+      "reference": "2Sm 2:26"
+    },
+    "27": {
+      "text": "Respondeu Joab: “Tão certo como vive Iahweh, se não tivesses falado, só pela manhã esta gente teria desistido de perseguir cada um a seu irmão”.",
+      "reference": "2Sm 2:27"
+    },
+    "28": {
+      "text": "Então Joab mandou soar a trombeta, e todo o exército suspendeu o combate. Cessou a perseguição a Israel e terminou a luta. \\par",
+      "reference": "2Sm 2:28"
+    },
+    "29": {
+      "text": "Abner e os seus homens caminharam pela Arabá durante toda aquela noite, passaram o Jordão e, depois de terem marchado toda a manhã seguinte, chegaram a Maanaim.",
+      "reference": "2Sm 2:29"
+    },
+    "30": {
+      "text": "Joab, tendo deixado de perseguir a Abner, reuniu toda a tropa: a guarda de Davi perdera dezenove homens e também Asael,",
+      "reference": "2Sm 2:30"
+    },
+    "31": {
+      "text": "mas a guarda de Davi matara, entre os homens de Benjamim e os de Abner, trezentos e sessenta homens.",
+      "reference": "2Sm 2:31"
+    },
+    "32": {
+      "text": "Levaram Asael e o sepultaram no túmulo de seu pai, que está em Belém. Joab e os seus marcharam toda a noite, e o dia estava nascendo quando eles chegaram a Hebron. \\par",
+      "reference": "2Sm 2:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

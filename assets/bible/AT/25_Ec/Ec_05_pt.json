@@ -1,0 +1,89 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Que tua boca não se precipite e teu coração não se apresse em proferir uma palavra diante de Deus, porque Deus está no céu, e tu sobre a terra; portanto, que tuas palavras sejam pouco numerosas. \\par",
+      "reference": "Ec 5:1"
+    },
+    "2": {
+      "text": "Das muitas tarefas vem o sonho, \\par e das muitas palavras o alarido do insensato. \\par",
+      "reference": "Ec 5:2"
+    },
+    "3": {
+      "text": "Se fazes uma promessa a Deus, não tardes em cumpri-la, porque Deus não gosta dos insensatos. Cumpre o que prometeste.",
+      "reference": "Ec 5:3"
+    },
+    "4": {
+      "text": "Mais vale não fazer uma promessa, do que fazê-la e não cumpri-la.",
+      "reference": "Ec 5:4"
+    },
+    "5": {
+      "text": "Não deixes que a boca te leve ao pecado, nem digas ao Mensageiro: “Foi por engano”. Por que iria Deus ficar irritado contra o que prometeste, arruinando a obra de tuas mãos? \\par",
+      "reference": "Ec 5:5"
+    },
+    "6": {
+      "text": "Muitos sonhos acabam levando \\par à vaidade e a muitas palavras. \\par Tu, porém, teme a Deus. \\par",
+      "reference": "Ec 5:6"
+    },
+    "7": {
+      "text": "Se numa província vês o pobre oprimido e o direito e a justiça violados, não fiques admirado: quem está no alto tem outro mais alto que o vigia, e sobre ambos há outros mais altos ainda.",
+      "reference": "Ec 5:7"
+    },
+    "8": {
+      "text": "O proveito da terra pertence a todos e até mesmo um rei é tributário da agricultura. \\par",
+      "reference": "Ec 5:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i O dinheiro\\par }Quem ama o dinheiro, nunca está farto de dinheiro, \\par quem ama a abundância, nunca tem vantagem. Isso também é vaidade. \\par",
+      "reference": "Ec 5:9"
+    },
+    "10": {
+      "text": "Onde aumentam os bens, aumentam aqueles que os devoram; que vantagem tem o dono, a não ser ficar olhando? \\par",
+      "reference": "Ec 5:10"
+    },
+    "11": {
+      "text": "Coma muito ou coma pouco, o sono do operário é gostoso; mas o rico saciado nem consegue adormecer. \\par",
+      "reference": "Ec 5:11"
+    },
+    "12": {
+      "text": "Há um mal doloroso que vejo debaixo do sol: riquezas que o dono acumula para a sua própria desgraça.",
+      "reference": "Ec 5:12"
+    },
+    "13": {
+      "text": "Num mau negócio ele perde as riquezas e, se gerou um filho, este fica de mãos vazias.",
+      "reference": "Ec 5:13"
+    },
+    "14": {
+      "text": "Como saiu do ventre materno, assim voltará, nu como veio: nada retirou do seu trabalho que possa levar nas mãos.",
+      "reference": "Ec 5:14"
+    },
+    "15": {
+      "text": "Isso também é um mal doloroso: ele se vai embora assim como veio; e que proveito tirou de tanto trabalho? – Apenas vento.",
+      "reference": "Ec 5:15"
+    },
+    "16": {
+      "text": "Consome seus dias todos nas trevas, no luto, em muitos desgostos, doença e irritação. \\par",
+      "reference": "Ec 5:16"
+    },
+    "17": {
+      "text": "Eis que observo: a felicidade que convém ao homem é comer e beber, encontrando a felicidade em todo trabalho que faz debaixo do sol, durante os dias da vida que Deus lhe concede. Pois esta é a sua porção.",
+      "reference": "Ec 5:17"
+    },
+    "18": {
+      "text": "Todo homem a quem Deus concede riquezas e recursos que o tornam capaz de sustentar-se, de receber a sua porção e desfrutar do seu trabalho, isto é um dom de Deus.",
+      "reference": "Ec 5:18"
+    },
+    "19": {
+      "text": "Ele não se lembrará muito dos dias que viveu, pois Deus enche seu coração de alegria. \\par",
+      "reference": "Ec 5:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

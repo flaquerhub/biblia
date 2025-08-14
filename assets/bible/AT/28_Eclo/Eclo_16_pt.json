@@ -1,0 +1,133 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Não desejes uma descendência numerosa e inútil, \\par nem te alegres com filhos ímpios. \\par",
+      "reference": "Eclo 16:1"
+    },
+    "2": {
+      "text": "Ainda que se multipliquem, não te alegres \\par se neles não existe o temor do Senhor. \\par",
+      "reference": "Eclo 16:2"
+    },
+    "3": {
+      "text": "Não confies em suas vidas, \\par não esperes nada de seu destino, \\par porque é melhor um só do que mil, \\par e morrer sem filho do que ter filhos ímpios. \\par",
+      "reference": "Eclo 16:3"
+    },
+    "4": {
+      "text": "Porque por um só homem inteligente povoa-se uma cidade, \\par porém uma tribo de ímpios a tornará deserta. \\par",
+      "reference": "Eclo 16:4"
+    },
+    "5": {
+      "text": "Meu olho já viu vários casos assim \\par e meu ouvido ouviu alguns mais fortes ainda. \\par",
+      "reference": "Eclo 16:5"
+    },
+    "6": {
+      "text": "Na assembléia dos pecadores acende-se um fogo, \\par na raça desobediente acende-se a Cólera. \\par",
+      "reference": "Eclo 16:6"
+    },
+    "7": {
+      "text": "Deus não perdoou os gigantes de outrora \\par que se rebelaram, prevalecendo-se de suas forças. \\par",
+      "reference": "Eclo 16:7"
+    },
+    "8": {
+      "text": "Não poupou os concidadãos de Ló, \\par abominou-os por causa de seu orgulho. \\par",
+      "reference": "Eclo 16:8"
+    },
+    "9": {
+      "text": "Não teve piedade da raça maldita: \\par aqueles que se prevaleciam de seus pecados. \\par",
+      "reference": "Eclo 16:9"
+    },
+    "10": {
+      "text": "Assim aconteceu com os seiscentos mil soldados, \\par que se uniram na dureza de seus corações. \\par",
+      "reference": "Eclo 16:10"
+    },
+    "11": {
+      "text": "Se um único homem se tivesse mostrado obstinado, \\par seria um milagre ter ficado impune, \\par porque piedade e cólera vêm do Senhor, \\par que é potente no perdão e derrama a cólera. \\par",
+      "reference": "Eclo 16:11"
+    },
+    "12": {
+      "text": "Tão grande como a sua misericórdia é o seu castigo, \\par julga cada um segundo as suas obras. \\par",
+      "reference": "Eclo 16:12"
+    },
+    "13": {
+      "text": "O pecador não fugirá com o seu furto \\par e nem a paciência do piedoso ficará frustrada. \\par",
+      "reference": "Eclo 16:13"
+    },
+    "14": {
+      "text": "Para todo aquele que dá uma esmola há uma recompensa, \\par cada um é tratado segundo as suas obras. \\par",
+      "reference": "Eclo 16:14"
+    },
+    "15": {
+      "text": "*",
+      "reference": "Eclo 16:15"
+    },
+    "16": {
+      "text": "*",
+      "reference": "Eclo 16:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i A retribuição é certa\\par }Não digas: “Do Senhor me esconderei, \\par lá em cima quem se lembrará de mim? \\par No meio do povo não serei reconhecido, \\par quem sou eu na imensa criação?” \\par",
+      "reference": "Eclo 16:17"
+    },
+    "18": {
+      "text": "Vê: o céu, o mais alto dos céus, \\par o abismo e a terra, quando de sua visita, tremerão. \\par",
+      "reference": "Eclo 16:18"
+    },
+    "19": {
+      "text": "Igualmente os montes e os fundamentos da terra, \\par quando eles os olha, abalam-se de pavor. \\par",
+      "reference": "Eclo 16:19"
+    },
+    "20": {
+      "text": "Mas a mente não pensa nisto; \\par quem terá refletido sobre seus caminhos? \\par",
+      "reference": "Eclo 16:20"
+    },
+    "21": {
+      "text": "O homem não vê a tempestade, \\par a maior parte de suas obras está oculta. \\par",
+      "reference": "Eclo 16:21"
+    },
+    "22": {
+      "text": "“As obras da justiça, quem as anunciará? \\par Ou quem as esperará? Longe, de fato, está a aliança”. \\par",
+      "reference": "Eclo 16:22"
+    },
+    "23": {
+      "text": "Assim pensa o homem de pouco senso, \\par o estulto e o pecador só pensam em loucuras. \\par",
+      "reference": "Eclo 16:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i O homem na criação\\par }Escuta-me, filho, e aprende o conhecimento, \\par aplica o teu coração às minhas palavras. \\par",
+      "reference": "Eclo 16:24"
+    },
+    "25": {
+      "text": "Com medida revelarei a disciplina, \\par com precisão anunciarei o conhecimento. \\par",
+      "reference": "Eclo 16:25"
+    },
+    "26": {
+      "text": "Quando, no princípio, o Senhor criou as suas obras, \\par assim que foram feitas, atribuiu um lugar a cada uma. \\par",
+      "reference": "Eclo 16:26"
+    },
+    "27": {
+      "text": "Ordenou para sempre a sua atividade \\par e suas tarefas pelas suas gerações. \\par Elas não sentem fome nem cansaço \\par e não abandonam suas atividades. \\par",
+      "reference": "Eclo 16:27"
+    },
+    "28": {
+      "text": "Nenhuma delas jamais se choca com a outra \\par e jamais desobedecem à sua palavra. \\par",
+      "reference": "Eclo 16:28"
+    },
+    "29": {
+      "text": "Depois disso, o Senhor olhou para a terra \\par e a encheu com seus bens. \\par",
+      "reference": "Eclo 16:29"
+    },
+    "30": {
+      "text": "Cobriu-lhe a superfície com toda a espécie de animais \\par e estes retornarão para a terra. \\par",
+      "reference": "Eclo 16:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

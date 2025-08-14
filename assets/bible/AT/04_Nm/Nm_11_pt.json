@@ -1,0 +1,153 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i V. Etapas no deserto}\\par }{\\qc\\b\\i Tabera\\par }Ora, o povo elevou uma queixa aos ouvidos de Iahweh e Iahweh a ouviu. A sua ira se inflamou e o fogo de Iahweh ardeu entre eles e devorou uma extremidade do acampamento.",
+      "reference": "Nm 11:1"
+    },
+    "2": {
+      "text": "O povo clamou a Moisés, que intercedeu junto de Iahweh, e o fogo se extinguiu.",
+      "reference": "Nm 11:2"
+    },
+    "3": {
+      "text": "Chamou-se este lugar de Tabera, porque o fogo de Iahweh ardeu entre eles. \\par",
+      "reference": "Nm 11:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Cibrot-ataava. Queixas do povo\\par }A turba que estava no meio deles foi tomada de cobiça. Os próprios filhos de Israel se puseram a chorar e a dizer: “Quem nos dará carne para comer?",
+      "reference": "Nm 11:4"
+    },
+    "5": {
+      "text": "Lembramo-nos do peixe que comíamos por um nada no Egito, dos pepinos, dos melões, das verduras, das cebolas e dos alhos!",
+      "reference": "Nm 11:5"
+    },
+    "6": {
+      "text": "Agora estamos definhando, privados de tudo; nossos olhos nada vêem senão este maná!” \\par",
+      "reference": "Nm 11:6"
+    },
+    "7": {
+      "text": "O maná era parecido com a semente de coentro e tinha a aparência do bdélio.",
+      "reference": "Nm 11:7"
+    },
+    "8": {
+      "text": "O povo espalhava-se para recolhê-lo; e o moía em moinho ou o pisava num pilão; cozia-o em panelas e fazia bolos. O seu sabor era de bolo amassado com azeite.",
+      "reference": "Nm 11:8"
+    },
+    "9": {
+      "text": "Quando, à noite, o orvalho caía sobre o acampamento, caía também o maná. \\par",
+      "reference": "Nm 11:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Intercessão de Moisés\\par }Moisés ouviu o povo chorar, cada família à entrada da sua tenda. A ira de Iahweh se inflamou com grande ardor. Moisés sentiu-se grandemente desgostoso",
+      "reference": "Nm 11:10"
+    },
+    "11": {
+      "text": "e disse a Iahweh: \\par “Por que fazes mal a teu servo? Por que não achei graça a teus olhos, visto que me impuseste o encargo de todo este povo?",
+      "reference": "Nm 11:11"
+    },
+    "12": {
+      "text": "Fui eu, porventura, que concebi todo este povo? Fui eu que o dei à luz, para que me digas: ‘Leva-o em teu regaço, como a ama leva a criança no colo, à terra que prometi sob juramento a seus pais’?",
+      "reference": "Nm 11:12"
+    },
+    "13": {
+      "text": "Onde acharei carne para dar a todo este povo, visto que me importuna com as suas lágrimas dizendo: ‘Dá-nos carne para comer’?",
+      "reference": "Nm 11:13"
+    },
+    "14": {
+      "text": "Não posso, eu sozinho, levar todo este povo; é muito pesado para mim.",
+      "reference": "Nm 11:14"
+    },
+    "15": {
+      "text": "Se queres tratar-me assim, dá-me antes a morte! Ah! Se eu tivesse encontrado graça a teus olhos, para não ver a minha desventura!” \\par",
+      "reference": "Nm 11:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i A resposta de Iahweh\\par }Iahweh disse a Moisés: “Reúne setenta anciãos de Israel, que tu sabes serem anciãos e escribas do povo. Tu os levarás à Tenda da Reunião, onde permanecerão contigo.",
+      "reference": "Nm 11:16"
+    },
+    "17": {
+      "text": "Eu descerei para falar contigo; tomarei do Espírito que está em ti e o porei neles. Assim levarão contigo a carga deste povo e tu não a levarás mais sozinho. \\par",
+      "reference": "Nm 11:17"
+    },
+    "18": {
+      "text": "E dirás ao povo: Santificai-vos para amanhã e comereis carne, pois que chorastes aos ouvidos de Iahweh, dizendo: ‘Quem nos dará carne para comer? Éramos felizes no Egito!’ Pois bem, Iahweh vos dará carne para comer.",
+      "reference": "Nm 11:18"
+    },
+    "19": {
+      "text": "Não comereis um dia apenas, ou dois ou cinco ou dez ou vinte,",
+      "reference": "Nm 11:19"
+    },
+    "20": {
+      "text": "mas, pelo contrário, um mês inteiro, até que saia pelas vossas narinas e vos provoque náuseas, visto que rejeitastes Iahweh que está no meio de vós e que chorastes diante dele dizendo: ‘Por que, pois, saímos do Egito?’” \\par",
+      "reference": "Nm 11:20"
+    },
+    "21": {
+      "text": "Disse-lhe Moisés: “O povo no meio do qual estou conta seiscentos mil homens a pé e tu dizes: Eu lhe darei carne para comer durante um mês inteiro!",
+      "reference": "Nm 11:21"
+    },
+    "22": {
+      "text": "Se se matassem para eles rebanhos de pequenos e grandes animais, ser-lhes-iam suficientes? Se se ajuntassem para eles todos os peixes do mar, ser-lhes-iam suficientes?”",
+      "reference": "Nm 11:22"
+    },
+    "23": {
+      "text": "Respondeu Iahweh a Moisés: “Ter-se-ia, porventura, encurtado o braço de Iahweh? Tu verás se a palavra que eu te disse se cumpre ou não”. \\par",
+      "reference": "Nm 11:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Efusão do Espírito\\par }Moisés saiu e disse ao povo as palavras de Iahweh. Em seguida reuniu setenta anciãos dentre o povo e os colocou ao redor da Tenda.",
+      "reference": "Nm 11:24"
+    },
+    "25": {
+      "text": "Iahweh desceu na Nuvem. Falou-lhe e tomou do Espírito que repousava sobre ele e o colocou nos setenta anciãos. Quando o Espírito repousou sobre eles, profetizavam; porém, nunca mais o fizeram. \\par",
+      "reference": "Nm 11:25"
+    },
+    "26": {
+      "text": "Dois homens haviam permanecido no acampamento: um deles se chamava Eldad e o outro Medad. O Espírito repousou sobre eles; ainda que não tivessem vindo à Tenda, estavam entre os inscritos. Puseram-se a profetizar no acampamento.",
+      "reference": "Nm 11:26"
+    },
+    "27": {
+      "text": "Um jovem correu e foi anunciar a Moisés: “Eis que Eldad e Medad”, disse ele, “estão profetizando no acampamento”.",
+      "reference": "Nm 11:27"
+    },
+    "28": {
+      "text": "Josué, filho de Nun, que desde a sua juventude servia a Moisés, tomou a palavra e disse: “Moisés, meu senhor, proíbe-os!”",
+      "reference": "Nm 11:28"
+    },
+    "29": {
+      "text": "Respondeu-lhe Moisés: “Estás ciumento por minha causa? Oxalá todo o povo de Iahweh fosse profeta, dando-lhe Iahweh o seu Espírito!”",
+      "reference": "Nm 11:29"
+    },
+    "30": {
+      "text": "A seguir Moisés voltou ao acampamento e com eles os anciãos de Israel. \\par",
+      "reference": "Nm 11:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i As codornizes\\par }Levantou-se então um vento, enviado por Iahweh e vindo do mar, que trouxe codornizes e as arremessou no acampamento. Delas havia numa extensão de um dia de marcha, de um lado e do outro do acampamento, e numa espessura de dois côvados acima do solo.",
+      "reference": "Nm 11:31"
+    },
+    "32": {
+      "text": "E levantou-se o povo todo aquele dia, toda aquela noite e o dia seguinte para recolher codornizes: aquele que recolheu menos recolheu dez almudes; depois as estenderam ao redor do acampamento.",
+      "reference": "Nm 11:32"
+    },
+    "33": {
+      "text": "A carne estava ainda no seus dentes, sem ter sido mastigada, quando a ira de Iahweh se inflamou contra o povo. Iahweh o feriu com uma praga muito grande. \\par",
+      "reference": "Nm 11:33"
+    },
+    "34": {
+      "text": "Deu-se a este lugar o nome de Cibrot-ataava, pois ali foram sepultados aqueles que se entregaram à sua concupiscência.",
+      "reference": "Nm 11:34"
+    },
+    "35": {
+      "text": "De Cibrot-ataava o povo partiu para Haserot e acampou em Haserot. \\par",
+      "reference": "Nm 11:35"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 35
+}

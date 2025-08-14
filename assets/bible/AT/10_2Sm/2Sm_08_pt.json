@@ -1,0 +1,85 @@
+{
+  "book": 10,
+  "book_name": "2Samuel",
+  "book_abbr": "2Sm",
+  "book_category": "Histórico",
+  "book_english": "2 Samuel",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As guerras de Davi\\par }Aconteceu depois disso que Davi venceu os filisteus e os sujeitou. Davi tomou das mãos dos filisteus...",
+      "reference": "2Sm 8:1"
+    },
+    "2": {
+      "text": "Ele venceu também os moabitas e os mediu com cordel, fazendo-os deitar no chão: mediu com dois cordéis para os condenar à morte, e um cordel bem medido para os deixar com vida, e os moabitas ficaram sujeitos a Davi e lhe pagaram tributo. \\par",
+      "reference": "2Sm 8:2"
+    },
+    "3": {
+      "text": "Davi venceu Adadezer, filho de Roob, rei de Soba, assim que este pretendeu estender o seu domínio sobre o Rio.",
+      "reference": "2Sm 8:3"
+    },
+    "4": {
+      "text": "Davi tomou-lhe mil e setecentos condutores de carro e vinte mil homens a pé, e jarretou Davi todas as parelhas, conservando apenas cem.",
+      "reference": "2Sm 8:4"
+    },
+    "5": {
+      "text": "Os arameus de Damasco vieram em socorro de Adadezer, rei de Soba, mas Davi matou vinte e dois mil homens dos arameus.",
+      "reference": "2Sm 8:5"
+    },
+    "6": {
+      "text": "Depois Davi instalou governadores no Aram de Damasco, e os arameus se tornaram súditos de Davi e lhe pagaram tributo. Onde quer que Davi fosse, Iahweh lhe dava a vitória.",
+      "reference": "2Sm 8:6"
+    },
+    "7": {
+      "text": "Davi tomou os escudos de ouro que a guarda de Adadezer usava e os levou para Jerusalém.",
+      "reference": "2Sm 8:7"
+    },
+    "8": {
+      "text": "De Tebá e de Berotai, cidades de Adadezer, Davi carregou uma grande quantidade de bronze. \\par",
+      "reference": "2Sm 8:8"
+    },
+    "9": {
+      "text": "Assim que Toú, rei de Emat, soube que Davi tinha vencido todo o exército de Adadezer,",
+      "reference": "2Sm 8:9"
+    },
+    "10": {
+      "text": "mandou seu filho Adoram ao rei Davi, para o saudar e o felicitar por ter feito a guerra a Adadezer e o ter vencido, porque Adadezer estava em guerra com Toú. Adoram levava objetos de prata, de ouro e de bronze.",
+      "reference": "2Sm 8:10"
+    },
+    "11": {
+      "text": "O rei Davi os consagrou também a Iahweh, com a prata e o ouro que ele tinha consagrado, proveniente de todas as nações que tinha subjugado,",
+      "reference": "2Sm 8:11"
+    },
+    "12": {
+      "text": "Aram, Moab, os amonitas, os filisteus, Amalec, e proveniente também do despojo tomado a Adadezer, filho de Roob, rei de Soba. \\par",
+      "reference": "2Sm 8:12"
+    },
+    "13": {
+      "text": "Davi aumentou a sua fama quando venceu os edomitas no vale do Sal, em número de dezoito mil.",
+      "reference": "2Sm 8:13"
+    },
+    "14": {
+      "text": "Estabeleceu governadores em Edom, e todos os edomitas ficaram sujeitos a Davi. Por toda a parte aonde chegava, Deus concedia a vitória a Davi. \\par",
+      "reference": "2Sm 8:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i A administração do reino\\par }Davi reinou sobre todo o Israel, exercendo o direito e fazendo justiça a todo o povo.",
+      "reference": "2Sm 8:15"
+    },
+    "16": {
+      "text": "Joab, filho de Sárvia, comandava o exército. Josafá, filho de Ailud, era o arauto.",
+      "reference": "2Sm 8:16"
+    },
+    "17": {
+      "text": "Sadoc e Abiatar, filhos de Aquimelec, filho de Aquitob, eram sacerdotes; Saraías era secretário;",
+      "reference": "2Sm 8:17"
+    },
+    "18": {
+      "text": "Banaías, filho de Joiada, comandava os cereteus e os feleteus. Os filhos de Davi eram sacerdotes. \\par",
+      "reference": "2Sm 8:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

@@ -1,0 +1,101 @@
+{
+  "book": 49,
+  "book_name": "Efésios",
+  "book_abbr": "Ef",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Ephesians",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Salvação gratuita em Cristo\\par }Vós estáveis mortos em vossos delitos e pecados.",
+      "reference": "Ef 2:1"
+    },
+    "2": {
+      "text": "Neles vivíeis outrora, conforme a índole deste mundo, conforme o Príncipe do poder do ar, o espírito que agora opera nos filhos da desobediência.",
+      "reference": "Ef 2:2"
+    },
+    "3": {
+      "text": "Com eles, nós também andávamos outrora nos desejos de nossa carne, satisfazendo as vontades da carne e os seus impulsos, e éramos por natureza como os demais, filhos da ira.",
+      "reference": "Ef 2:3"
+    },
+    "4": {
+      "text": "Mas Deus, que é rico em misericórdia, pelo grande amor com que nos amou,",
+      "reference": "Ef 2:4"
+    },
+    "5": {
+      "text": "quando estávamos mortos em nossos delitos, nos vivificou juntamente com Cristo – pela graça fostes salvos! –",
+      "reference": "Ef 2:5"
+    },
+    "6": {
+      "text": "e com ele nos ressuscitou e nos fez assentar nos céus, em Cristo Jesus,",
+      "reference": "Ef 2:6"
+    },
+    "7": {
+      "text": "a fim de mostrar nos tempos vindouros a extraordinária riqueza da sua graça, pela sua bondade para conosco, em Cristo Jesus.",
+      "reference": "Ef 2:7"
+    },
+    "8": {
+      "text": "Pela graça fostes salvos, por meio da fé, e isso não vem de vós, é o dom de Deus:",
+      "reference": "Ef 2:8"
+    },
+    "9": {
+      "text": "não vem das obras, para que ninguém se encha de orgulho.",
+      "reference": "Ef 2:9"
+    },
+    "10": {
+      "text": "Pois somos criaturas dele, criados em Cristo Jesus para as boas obras que Deus já antes tinha preparado para que nelas andássemos. \\par",
+      "reference": "Ef 2:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A reconciliação dos judeus e dos gentios entre si e com Deus\\par }Por isso vós, que antes éreis gentios na carne e éreis chamados “incircuncisos” pelos que se chamam “circuncidados”... em virtude de uma operação manual na sua carne,",
+      "reference": "Ef 2:11"
+    },
+    "12": {
+      "text": "lembrai-vos de que naquele tempo estáveis sem Cristo, excluídos da cidadania em Israel e estranhos às alianças da Promessa, sem esperança e sem Deus no mundo!",
+      "reference": "Ef 2:12"
+    },
+    "13": {
+      "text": "Mas agora, em Cristo Jesus, vós, que outrora estáveis longe, fostes trazidos para perto, pelo sangue de Cristo. \\par",
+      "reference": "Ef 2:13"
+    },
+    "14": {
+      "text": "Ele é a nossa paz: \\par de ambos os povos fez um só, \\par tendo derrubado o muro de separação \\par e suprimido em sua carne a inimizade – \\par",
+      "reference": "Ef 2:14"
+    },
+    "15": {
+      "text": "a Lei dos mandamentos expressa em preceitos –, \\par a fim de criar em si mesmo \\par um só Homem Novo, \\par estabelecendo a paz, \\par",
+      "reference": "Ef 2:15"
+    },
+    "16": {
+      "text": "e de reconciliar a ambos com Deus \\par em um só Corpo, \\par por meio da cruz, \\par na qual ele matou a inimizade. \\par",
+      "reference": "Ef 2:16"
+    },
+    "17": {
+      "text": "Assim, ele veio e {\\i anunciou a paz} \\par a vós {\\i que estáveis longe \\par e paz aos que estavam perto,} \\par",
+      "reference": "Ef 2:17"
+    },
+    "18": {
+      "text": "pois, por meio dele, nós, judeus e gentios, \\par num só Espírito, temos acesso junto ao Pai. \\par",
+      "reference": "Ef 2:18"
+    },
+    "19": {
+      "text": "Portanto, já não sois estrangeiros e adventícios, mas concidadãos dos santos e membros da família de Deus.",
+      "reference": "Ef 2:19"
+    },
+    "20": {
+      "text": "Estais edificados sobre o fundamento dos apóstolos e dos profetas, do qual é Cristo Jesus a pedra angular.",
+      "reference": "Ef 2:20"
+    },
+    "21": {
+      "text": "Nele bem articulado, todo o edifício se ergue em santuário sagrado, no Senhor,",
+      "reference": "Ef 2:21"
+    },
+    "22": {
+      "text": "e vós, também, nele sois co-edificados para serdes uma habitação de Deus, no Espírito. \\par",
+      "reference": "Ef 2:22"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 22
+}

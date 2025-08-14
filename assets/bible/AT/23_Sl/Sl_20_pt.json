@@ -1,0 +1,53 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 20 (19)\\par }{\\qc\\b\\i Prece pelo rei\\par }{\\qc\\i Do mestre de canto. Salmo. De Davi.\\par }",
+      "reference": "Sl 20:1"
+    },
+    "2": {
+      "text": "Que Iahweh te responda no dia da angústia, \\par que o nome do Deus de Jacó te proteja! \\par",
+      "reference": "Sl 20:2"
+    },
+    "3": {
+      "text": "Que do santuário ele te envie um socorro \\par e te sustente desde Sião! \\par",
+      "reference": "Sl 20:3"
+    },
+    "4": {
+      "text": "Que recorde tuas ofertas todas \\par e aprecie o teu holocausto! \\par",
+      "reference": "Sl 20:4"
+    },
+    "5": {
+      "text": "Que te dê o que teu coração deseja \\par e realize todos os teus projetos! \\par",
+      "reference": "Sl 20:5"
+    },
+    "6": {
+      "text": "Possamos alegrar-nos com tua vitória, \\par erguer bandeira em nome do nosso Deus! \\par Que Iahweh realize teus pedidos todos! \\par",
+      "reference": "Sl 20:6"
+    },
+    "7": {
+      "text": "Agora eu sei que Iahweh \\par dá a salvação ao seu messias; \\par ele responde do seu santuário celeste \\par com as proezas de sua direita salvadora. \\par",
+      "reference": "Sl 20:7"
+    },
+    "8": {
+      "text": "Uns confiam em carros, outros em cavalos; \\par nós, porém, invocamos o nome de Iahweh nosso Deus. \\par",
+      "reference": "Sl 20:8"
+    },
+    "9": {
+      "text": "Eles se inclinam e caem; \\par nós, porém, nos levantamos e ficamos de pé. \\par",
+      "reference": "Sl 20:9"
+    },
+    "10": {
+      "text": "Iahweh, salva o rei! \\par No dia em que clamarmos, responde-nos! \\par",
+      "reference": "Sl 20:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

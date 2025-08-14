@@ -1,0 +1,93 @@
+{
+  "book": 59,
+  "book_name": "Tiago",
+  "book_abbr": "Tg",
+  "book_category": "Epístolas Gerais",
+  "book_english": "James",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Pois bem, agora vós, ricos, chorai e gemei por causa das desgraças que estão para vos sobrevir.",
+      "reference": "Tg 5:1"
+    },
+    "2": {
+      "text": "A vossa riqueza apodreceu e as vossas vestes estão carcomidas pelas traças.",
+      "reference": "Tg 5:2"
+    },
+    "3": {
+      "text": "O vosso ouro e a vossa prata estão enferrujados e a sua ferrugem testemunhará contra vós e devorará as vossas carnes. Entesourastes como que um fogo nos tempos do fim!",
+      "reference": "Tg 5:3"
+    },
+    "4": {
+      "text": "Lembrai-vos de que o salário, do qual privastes os trabalhadores que ceifaram os vossos campos, clama, e os gritos dos ceifeiros chegaram aos ouvidos do Senhor dos exércitos.",
+      "reference": "Tg 5:4"
+    },
+    "5": {
+      "text": "Vivestes faustosamente na terra e vos regalastes; vós vos saciastes no dia da matança.",
+      "reference": "Tg 5:5"
+    },
+    "6": {
+      "text": "Condenastes o justo e o pusestes à morte: ele não vos resiste. \\par",
+      "reference": "Tg 5:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i A Vinda do Senhor\\par }Sede, pois, pacientes, irmãos, até a vinda do Senhor. Vede como o lavrador espera o precioso fruto da terra, aguardando por ele pacientemente até que venham as chuvas temporãs e as serôdias.",
+      "reference": "Tg 5:7"
+    },
+    "8": {
+      "text": "Assim, também vós, esperai com paciência e fortalecei os vossos corações, porque a Vinda do Senhor está próxima.",
+      "reference": "Tg 5:8"
+    },
+    "9": {
+      "text": "Irmãos, não murmureis uns contra os outros, para que não sejais julgados. Lembrai-vos de que o Juiz está às portas.",
+      "reference": "Tg 5:9"
+    },
+    "10": {
+      "text": "Tomai como exemplo de uma vida de sofrimento e de paciência os profetas que falaram em nome do Senhor.",
+      "reference": "Tg 5:10"
+    },
+    "11": {
+      "text": "Notai que temos por bem-aventurados os que perseveraram pacientemente. Ouvistes falar da paciência de Jó e sabeis qual o fim que Deus lhe deu. Com efeito, {\\i o Senhor é misericordioso e compassivo.}\\par",
+      "reference": "Tg 5:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Exortações finais\\par }Especialmente, meus irmãos, não jureis, nem pelo céu, nem pela terra, nem por outra coisa qualquer. Antes, seja o vosso sim, sim, e o vosso não, não, a fim de não incorrerdes em julgamento. \\par",
+      "reference": "Tg 5:12"
+    },
+    "13": {
+      "text": "Sofre alguém dentre vós um contratempo? Recorra à oração. Está alguém alegre? Cante.",
+      "reference": "Tg 5:13"
+    },
+    "14": {
+      "text": "Alguém dentre vós está doente? Mande chamar os presbíteros da Igreja para que orem sobre ele, ungindo-o com óleo em nome do Senhor.",
+      "reference": "Tg 5:14"
+    },
+    "15": {
+      "text": "A oração da fé salvará o doente e o Senhor o porá de pé; e se tiver cometido pecados, estes serão perdoados.",
+      "reference": "Tg 5:15"
+    },
+    "16": {
+      "text": "Confessai, pois, uns aos outros, os vossos pecados e orai uns pelos outros, para que sejais curados. \\par A oração fervorosa do justo tem grande poder.",
+      "reference": "Tg 5:16"
+    },
+    "17": {
+      "text": "Assim, Elias, que era um homem semelhante a nós, orou com insistência para que não chovesse, e não houve chuva na terra durante três anos e seis meses.",
+      "reference": "Tg 5:17"
+    },
+    "18": {
+      "text": "Em seguida, tornou a orar e o céu deu a sua chuva e a terra voltou a produzir o seu fruto. \\par",
+      "reference": "Tg 5:18"
+    },
+    "19": {
+      "text": "Meus irmãos, se alguém dentre vós se desviar da verdade e outro o reconduzir,",
+      "reference": "Tg 5:19"
+    },
+    "20": {
+      "text": "saiba que aquele que reconduz um pecador desencaminhado salvará sua alma da morte e {\\i cobrirá uma multidão de pecados.}\\par",
+      "reference": "Tg 5:20"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 20
+}

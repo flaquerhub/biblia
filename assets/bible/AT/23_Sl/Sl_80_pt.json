@@ -1,0 +1,93 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 80,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 80 (79)\\par }{\\qc\\b\\i Oração pela restauração de Israel\\par }{\\qc\\i Do mestre de canto. Sobre a ária “Os lírios são os preceitos”. De Asaf. Salmo. \\par }",
+      "reference": "Sl 80:1"
+    },
+    "2": {
+      "text": "Pastor de Israel, dá ouvidos, \\par tu que guias a José como um rebanho; \\par tu que sentas sobre os querubins, resplandece \\par",
+      "reference": "Sl 80:2"
+    },
+    "3": {
+      "text": "perante Efraim, Benjamim e Manassés! \\par Desperta a tua valentia \\par e vem socorrer-nos! \\par",
+      "reference": "Sl 80:3"
+    },
+    "4": {
+      "text": "Ó Deus, faze-nos voltar! \\par Faze tua face brilhar, e seremos salvos! \\par",
+      "reference": "Sl 80:4"
+    },
+    "5": {
+      "text": "Iahweh, Deus dos Exércitos, até quando \\par te inflamarás, enquanto teu povo suplica? \\par",
+      "reference": "Sl 80:5"
+    },
+    "6": {
+      "text": "Deste-lhe a comer um pão de lágrimas, \\par e tríplice medida de lágrimas a beber; \\par",
+      "reference": "Sl 80:6"
+    },
+    "7": {
+      "text": "tornaste-nos a disputa dos nossos vizinhos, \\par e nossos inimigos caçoam de nós. \\par",
+      "reference": "Sl 80:7"
+    },
+    "8": {
+      "text": "Deus dos Exércitos, faze-nos voltar! \\par Faze tua face brilhar, e seremos salvos! \\par",
+      "reference": "Sl 80:8"
+    },
+    "9": {
+      "text": "Ele era uma vinha: tu a tiraste do Egito, \\par expulsaste nações para plantá-la; \\par",
+      "reference": "Sl 80:9"
+    },
+    "10": {
+      "text": "preparaste o terreno à tua frente \\par e, lançando raízes, ela encheu a terra. \\par",
+      "reference": "Sl 80:10"
+    },
+    "11": {
+      "text": "Sua sombra cobria as montanhas, \\par e seus ramos os cedros de Deus; \\par",
+      "reference": "Sl 80:11"
+    },
+    "12": {
+      "text": "ele estendia os sarmentos até o mar, \\par e até o rio seus rebentos. \\par",
+      "reference": "Sl 80:12"
+    },
+    "13": {
+      "text": "Por que lhe derrubaste as cercas, \\par para que os viandantes a vindimem, \\par",
+      "reference": "Sl 80:13"
+    },
+    "14": {
+      "text": "e os javalis da floresta a devastem, \\par e as feras do campo a devorem? \\par",
+      "reference": "Sl 80:14"
+    },
+    "15": {
+      "text": "Deus dos Exércitos, volta atrás! \\par olha do céu e vê, visita esta vinha: \\par",
+      "reference": "Sl 80:15"
+    },
+    "16": {
+      "text": "protege o que tua direita plantou! \\par",
+      "reference": "Sl 80:16"
+    },
+    "17": {
+      "text": "Queimaram-na com fogo, como ao lixo, \\par eles vão perecer com a ameaça de tua face. \\par",
+      "reference": "Sl 80:17"
+    },
+    "18": {
+      "text": "Esteja tua mão sobre o homem da tua direita, \\par o filho de Adão que tu confirmaste! \\par",
+      "reference": "Sl 80:18"
+    },
+    "19": {
+      "text": "Nunca mais nos afastaremos de ti; \\par faze-nos viver, e teu nome será invocado. \\par",
+      "reference": "Sl 80:19"
+    },
+    "20": {
+      "text": "Iahweh, Deus dos Exércitos, faze-nos voltar! \\par Faze tua face brilhar, e seremos salvos! \\par",
+      "reference": "Sl 80:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

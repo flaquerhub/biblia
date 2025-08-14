@@ -1,0 +1,89 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "Quando houver querela entre dois homens e vierem à justiça, eles serão julgados, absolvendo-se o inocente e condenando-se o culpado.",
+      "reference": "Dt 25:1"
+    },
+    "2": {
+      "text": "Se o culpado merecer açoites, o juiz o fará deitar-se e mandará açoitá-lo em sua presença, com um número de açoites proporcional à sua culpa.",
+      "reference": "Dt 25:2"
+    },
+    "3": {
+      "text": "Fá-lo-á açoitar quarenta vezes, não mais; não aconteça que, caso seja açoitado mais vezes, a ferida se torne grave e o teu irmão fique aviltado a teus olhos. \\par",
+      "reference": "Dt 25:3"
+    },
+    "4": {
+      "text": "Não amordaçarás o boi que debulha o grão. \\par",
+      "reference": "Dt 25:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i A lei do levirato\\par }Quando dois irmãos moram juntos e um deles morre, sem deixar filhos, a mulher do morto não sairá para casar-se com um estranho à família; seu cunhado virá até ela e a tomará, cumprindo seu dever de cunhado.",
+      "reference": "Dt 25:5"
+    },
+    "6": {
+      "text": "O primogênito que ela der à luz tomará o nome do irmão morto, para que o nome deste não se apague em Israel.",
+      "reference": "Dt 25:6"
+    },
+    "7": {
+      "text": "Contudo, se o cunhado recusa desposar a cunhada, esta irá aos anciãos, na porta, e dirá: ‘Meu cunhado está recusando suscitar um nome para seu irmão em Israel! Não quer cumprir seu dever de cunhado para comigo!’",
+      "reference": "Dt 25:7"
+    },
+    "8": {
+      "text": "Os anciãos da cidade o convocarão e conversarão com ele. Se ele persiste, dizendo: ‘Não quero desposá-la!’,",
+      "reference": "Dt 25:8"
+    },
+    "9": {
+      "text": "então a cunhada se aproximará dele na presença dos anciãos, tirar-lhe-á a sandália do pé, cuspirá em seu rosto e fará esta declaração: ‘É isto que se deve fazer a um homem que não edifica a casa do seu irmão’;",
+      "reference": "Dt 25:9"
+    },
+    "10": {
+      "text": "e em Israel o chamarão com o apelido de “casa do descalçado”. \\par",
+      "reference": "Dt 25:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i O pudor nas brigas\\par }Quando homens estiverem brigando – um homem contra seu irmão – e a mulher de um deles se aproxima para livrar o marido dos socos do outro, e estende a mão, agarrando-o pelas suas vergonhas,",
+      "reference": "Dt 25:11"
+    },
+    "12": {
+      "text": "tu cortarás a mão dela. Que teu olho não tenha piedade! \\par",
+      "reference": "Dt 25:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Apêndice\\par }Não terás em tua bolsa dois tipos de peso: um pesado e outro leve.",
+      "reference": "Dt 25:13"
+    },
+    "14": {
+      "text": "Não terás em tua casa dois tipos de medida: uma grande e outra pequena.",
+      "reference": "Dt 25:14"
+    },
+    "15": {
+      "text": "Terás um peso íntegro e justo, medida íntegra e justa, para que os teus dias se prolonguem sobre o solo que Iahweh teu Deus te dará.",
+      "reference": "Dt 25:15"
+    },
+    "16": {
+      "text": "Porque Iahweh teu Deus abomina a todos os que praticam estas coisas, todos os que cometem injustiça. \\par",
+      "reference": "Dt 25:16"
+    },
+    "17": {
+      "text": "Lembra-te do que Amalec te fez no caminho, quando saístes do Egito:",
+      "reference": "Dt 25:17"
+    },
+    "18": {
+      "text": "ele veio ao teu encontro no caminho, quando estavas cansado e extenuado e, pela tua retaguarda, sem temer a Deus, atacou a todos os desfalecidos que iam atrás.",
+      "reference": "Dt 25:18"
+    },
+    "19": {
+      "text": "Quando Iahweh teu Deus te der sossego de todos os inimigos que te cercam, na terra que Iahweh teu Deus te dará para que a possuas como herança, deverás apagar a memória de Amalec de sob o céu. Não te esqueças! \\par",
+      "reference": "Dt 25:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

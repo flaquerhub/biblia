@@ -1,0 +1,277 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Descendência de Levi\\par }Filhos de Levi: Gersam, Caat e Merari.",
+      "reference": "1Cr 6:1"
+    },
+    "2": {
+      "text": "Eis os nomes dos filhos de Gersam: Lobni e Semei.",
+      "reference": "1Cr 6:2"
+    },
+    "3": {
+      "text": "Filhos de Caat: Amram, Isaar, Hebron e Oziel.",
+      "reference": "1Cr 6:3"
+    },
+    "4": {
+      "text": "Filhos de Merari: Mooli e Musi. São esses os clãs de Levi, agrupados segundo seus pais. \\par",
+      "reference": "1Cr 6:4"
+    },
+    "5": {
+      "text": "De Gersam: Lobni, seu filho; Jaat, seu filho; Zama, seu filho;",
+      "reference": "1Cr 6:5"
+    },
+    "6": {
+      "text": "Joa, seu filho; Ado, seu filho; Zara, seu filho; Jetrai, seu filho. \\par",
+      "reference": "1Cr 6:6"
+    },
+    "7": {
+      "text": "Filhos de Caat: Aminadab, seu filho; Coré, seu filho; Asir, seu filho;",
+      "reference": "1Cr 6:7"
+    },
+    "8": {
+      "text": "Elcana, seu filho; Abiasaf, seu filho; Asir, seu filho;",
+      "reference": "1Cr 6:8"
+    },
+    "9": {
+      "text": "Taat, seu filho; Uriel, seu filho; Ozias, seu filho; Saul, seu filho.",
+      "reference": "1Cr 6:9"
+    },
+    "10": {
+      "text": "Filhos de Elcana: Amasai e Aquimot.",
+      "reference": "1Cr 6:10"
+    },
+    "11": {
+      "text": "Elcana, seu filho; Sofai, seu filho; Naat, seu filho;",
+      "reference": "1Cr 6:11"
+    },
+    "12": {
+      "text": "Eliab, seu filho; Jeroam, seu filho; Elcana, seu filho;",
+      "reference": "1Cr 6:12"
+    },
+    "13": {
+      "text": "Filhos de Elcana: Samuel, o mais velho, e Abias, o segundo. \\par",
+      "reference": "1Cr 6:13"
+    },
+    "14": {
+      "text": "Filhos de Merari: Mooli, Lobni, seu filho; Semei, seu filho; Oza, seu filho;",
+      "reference": "1Cr 6:14"
+    },
+    "15": {
+      "text": "Samaá, seu filho; Hagias, seu filho; Asaías, seu filho. \\par",
+      "reference": "1Cr 6:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Os cantores\\par }Eis os que Davi encarregou de dirigir o canto no templo de Iahweh, quando a Arca teve aí o seu lugar de repouso.",
+      "reference": "1Cr 6:16"
+    },
+    "17": {
+      "text": "Estiveram a serviço do canto diante da Habitação da Tenda da Reunião até que Salomão construiu em Jerusalém o templo de Iahweh, e exerciam o seu ofício em conformidade com o regulamento. \\par",
+      "reference": "1Cr 6:17"
+    },
+    "18": {
+      "text": "Eis o que estavam em função e os seus filhos: Entre os filhos de Caat: Emã o cantor, filho de Joel, filho de Samuel,",
+      "reference": "1Cr 6:18"
+    },
+    "19": {
+      "text": "filho de Elcana, filho de Jeroam, filho de Eliel, filho de Toú,",
+      "reference": "1Cr 6:19"
+    },
+    "20": {
+      "text": "filho de Suf, filho de Elcana, filho de Maat, filho de Amasai,",
+      "reference": "1Cr 6:20"
+    },
+    "21": {
+      "text": "filho de Elcana, filho de Joel, filho de Azarias, filho de Sofonias,",
+      "reference": "1Cr 6:21"
+    },
+    "22": {
+      "text": "filho de Taat, filho de Asir, filho de Abiasaf, filho de Coré,",
+      "reference": "1Cr 6:22"
+    },
+    "23": {
+      "text": "filho de Isaar, filho de Caat, filho de Levi, filho de Israel. \\par",
+      "reference": "1Cr 6:23"
+    },
+    "24": {
+      "text": "Seu irmão Asaf ficava à sua direita: Asaf filho de Baraquias, filho de Samaé,",
+      "reference": "1Cr 6:24"
+    },
+    "25": {
+      "text": "filho de Miguel, filho de Basaías, filho de Melquias,",
+      "reference": "1Cr 6:25"
+    },
+    "26": {
+      "text": "filho de Atanai, filho de Zara, filho de Adaías,",
+      "reference": "1Cr 6:26"
+    },
+    "27": {
+      "text": "filho de Etã, filho de Zama, filho de Semei,",
+      "reference": "1Cr 6:27"
+    },
+    "28": {
+      "text": "filho de Jet, filho de Gersam, filho de Levi. \\par",
+      "reference": "1Cr 6:28"
+    },
+    "29": {
+      "text": "À esquerda, seus irmãos, filhos de Merari: Etã, filho de Cusi, filho de Abdi, filho de Maloc,",
+      "reference": "1Cr 6:29"
+    },
+    "30": {
+      "text": "filho de Hasabias, filho de Amasias, filho de Helcias,",
+      "reference": "1Cr 6:30"
+    },
+    "31": {
+      "text": "filho de Amasai, filho de Boni, filho de Somer,",
+      "reference": "1Cr 6:31"
+    },
+    "32": {
+      "text": "filho de Mooli, filho de Musi, filho de Merari, filho de Levi. \\par",
+      "reference": "1Cr 6:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Os outros levitas\\par }Seus irmãos, os levitas, estavam inteiramente dedicados ao serviço da Habitação do Templo de Deus.",
+      "reference": "1Cr 6:33"
+    },
+    "34": {
+      "text": "Aarão e seus filhos queimavam as oblações sobre o altar dos holocaustos e sobre o altar dos perfumes; ocupavam-se exclusivamente das coisas mais santas e do rito da expiação para Israel; conformavam-se a tudo quanto ordenara Moisés, servo de Deus. \\par",
+      "reference": "1Cr 6:34"
+    },
+    "35": {
+      "text": "Eis os filhos de Aarão: Eleazar, seu filho; Finéias, seu filho; Abisue, seu filho;",
+      "reference": "1Cr 6:35"
+    },
+    "36": {
+      "text": "Boci, seu filho; Ozi, seu filho; Zaraías, seu filho;",
+      "reference": "1Cr 6:36"
+    },
+    "37": {
+      "text": "Meraiot, seu filho; Amarias, seu filho; Aquitob, seu filho;",
+      "reference": "1Cr 6:37"
+    },
+    "38": {
+      "text": "Sadoc, seu filho; Aquimaás, seu filho.\\par",
+      "reference": "1Cr 6:38"
+    },
+    "39": {
+      "text": "\\par {\\qc\\b\\i Habitat dos aaronidas\\par }Eis os lugares em que moravam, segundo os limites de seus acampamentos: Aos filhos de Aarão, do clã de Caat (pois foi para ele que caiu a sorte),",
+      "reference": "1Cr 6:39"
+    },
+    "40": {
+      "text": "foi dada Hebron, no país de Judá, com as pastagens vizinhas.",
+      "reference": "1Cr 6:40"
+    },
+    "41": {
+      "text": "A Caleb, filho de Jefoné, foram dados os campos e suas aldeias,",
+      "reference": "1Cr 6:41"
+    },
+    "42": {
+      "text": "mas aos filhos de Aarão foram dadas as cidades de refúgio: Hebron, Lebna e suas pastagens, Jeter, Estemo e suas pastagens,",
+      "reference": "1Cr 6:42"
+    },
+    "43": {
+      "text": "Helon e suas pastagens, Dabir e suas pastagens,",
+      "reference": "1Cr 6:43"
+    },
+    "44": {
+      "text": "Asã e suas pastagens, Bet-Sames e suas pastagens.",
+      "reference": "1Cr 6:44"
+    },
+    "45": {
+      "text": "Aos da tribo de Benjamim foram dadas Gaba e suas pastagens, Almat e suas pastagens, Anatot e suas pastagens. Seus clãs compreendiam ao todo treze cidades. \\par",
+      "reference": "1Cr 6:45"
+    },
+    "46": {
+      "text": "\\par {\\qc\\b\\i Habitat dos outros levitas\\par }Os outros filhos de Caat obtiveram por sorte dez cidades tomadas aos clãs da tribo, da meia tribo de Manassés.",
+      "reference": "1Cr 6:46"
+    },
+    "47": {
+      "text": "Os filhos de Gersam e seus clãs obtiveram treze cidades tomadas da tribo de Issacar, da tribo de Aser, da tribo de Neftali e da tribo de Manassés, em Basã.",
+      "reference": "1Cr 6:47"
+    },
+    "48": {
+      "text": "Os filhos de Merari e seus clãs obtiveram por sorte doze cidades tomadas da tribo de Rúben, da tribo de Gad e da tribo de Zabulon.",
+      "reference": "1Cr 6:48"
+    },
+    "49": {
+      "text": "Os filhos de Israel designaram aos levitas essas cidades com suas pastagens. \\par",
+      "reference": "1Cr 6:49"
+    },
+    "50": {
+      "text": "Também por sorteio designaram as cidades a que deram seus nomes, as quais foram tomadas das tribos dos filhos de Judá, dos filhos de Simeão e dos filhos de Benjamim. \\par",
+      "reference": "1Cr 6:50"
+    },
+    "51": {
+      "text": "Da tribo de Efraim que foram tomadas as cidades do território de alguns clãs dos filhos de Caat.",
+      "reference": "1Cr 6:51"
+    },
+    "52": {
+      "text": "Foram dadas a eles as seguintes cidades de refúgio: Siquém e suas pastagens, na montanha de Efraim, Gazer e suas pastagens,",
+      "reference": "1Cr 6:52"
+    },
+    "53": {
+      "text": "Jecmaam e suas pastagens, Bet-Horon e suas pastagens,",
+      "reference": "1Cr 6:53"
+    },
+    "54": {
+      "text": "Aialon e suas pastagens, Gat-Remon e suas pastagens,",
+      "reference": "1Cr 6:54"
+    },
+    "55": {
+      "text": "e da meia tribo de Manassés: Aner e suas pastagens, Balaam e suas pastagens. Isso foi dado ao clã dos outros filhos de Caat. \\par",
+      "reference": "1Cr 6:55"
+    },
+    "56": {
+      "text": "Para os filhos de Gersam, foram tomadas, dos clãs da meia tribo de Manassés, Golã em Basã, e suas pastagens, Astarot e suas pastagens;",
+      "reference": "1Cr 6:56"
+    },
+    "57": {
+      "text": "da tribo de Issacar, Cedes e suas pastagens, Daberet e suas pastagens,",
+      "reference": "1Cr 6:57"
+    },
+    "58": {
+      "text": "Ramot e suas pastagens, Anem e suas pastagens;",
+      "reference": "1Cr 6:58"
+    },
+    "59": {
+      "text": "da tribo de Aser, Masal e suas pastagens, Abdon e suas pastagens,",
+      "reference": "1Cr 6:59"
+    },
+    "60": {
+      "text": "Hucoc e suas pastagens, Roob e suas pastagens;",
+      "reference": "1Cr 6:60"
+    },
+    "61": {
+      "text": "da tribo de Neftali, Cedes, na Galiléia, e suas pastagens, Hamon e suas pastagens, Cariataim e suas pastagens. \\par",
+      "reference": "1Cr 6:61"
+    },
+    "62": {
+      "text": "Para os outros filhos de Merari, foram tomadas, da tribo de Zabulon: Remon e suas pastagens, Tabor e suas pastagens,",
+      "reference": "1Cr 6:62"
+    },
+    "63": {
+      "text": "do outro lado do Jordão, perto de Jericó, a Oriente do Jordão; da tribo de Rúben: Bosor, no deserto, e suas pastagens, Jasa e suas pastagens,",
+      "reference": "1Cr 6:63"
+    },
+    "64": {
+      "text": "Cedimot e suas pastagens, Mefaat e suas pastagens;",
+      "reference": "1Cr 6:64"
+    },
+    "65": {
+      "text": "da tribo de Gad: Ramot, em Galaad, e suas pastagens, Maanaim e suas pastagens,",
+      "reference": "1Cr 6:65"
+    },
+    "66": {
+      "text": "Hesebon e suas pastagens, Jazer e suas pastagens.\\par",
+      "reference": "1Cr 6:66"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 66
+}

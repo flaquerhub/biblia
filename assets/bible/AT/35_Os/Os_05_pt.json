@@ -1,0 +1,73 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os sacerdotes, os grandes e os reis levam o povo à perdição\\par }Ouvi isto, sacerdotes, \\par atende, casa de Israel, \\par escuta, casa do rei, \\par pois o direito é para todos vós. \\par Fostes um laço para Masfa \\par e uma rede estendida sobre o Tabor, \\par",
+      "reference": "Os 5:1"
+    },
+    "2": {
+      "text": "uma cova em Sitim, que eles cavaram. \\par Mas sou eu quem castiga a todos. \\par",
+      "reference": "Os 5:2"
+    },
+    "3": {
+      "text": "Eu conheço Efraim \\par e Israel não pode ocultar-se de mim. \\par Por que tu, Efraim, te prostituíste, \\par Israel está manchado. \\par",
+      "reference": "Os 5:3"
+    },
+    "4": {
+      "text": "Suas obras não lhe permitem voltar para o seu Deus, \\par pois um espírito de prostituição está em seu seio \\par e eles não conhecem a Iahweh. \\par",
+      "reference": "Os 5:4"
+    },
+    "5": {
+      "text": "O orgulho de Israel testemunha contra ele, \\par Israel e Efraim tropeçam em sua iniqüidade. \\par Judá também tropeça com eles. \\par",
+      "reference": "Os 5:5"
+    },
+    "6": {
+      "text": "Com suas ovelhas e seus bois eles irão em busca de Iahweh, \\par mas não o encontrarão. \\par Ele afastou-se deles. \\par",
+      "reference": "Os 5:6"
+    },
+    "7": {
+      "text": "Traíram a Iahweh, pois como bastardos foram gerados. \\par Por isso agora a lua nova lhes devorará os campos. \\par",
+      "reference": "Os 5:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i A guerra fratricida\\par }Tocai a trombeta em Gabaá, \\par a tuba em Ramá, \\par dai alarme em Bet-Áven, \\par perseguem-te, Benjamim. \\par",
+      "reference": "Os 5:8"
+    },
+    "9": {
+      "text": "Efraim será uma ruína no dia do castigo, \\par entre as tribos de Israel anuncio uma coisa certa. \\par",
+      "reference": "Os 5:9"
+    },
+    "10": {
+      "text": "Os príncipes de Judá são como os que deslocam os marcos; \\par sobre eles derramarei, como água, o meu furor. \\par",
+      "reference": "Os 5:10"
+    },
+    "11": {
+      "text": "Efraim está oprimido, esmagado pelo julgamento, \\par porque persistiu em correr atrás da mentira. \\par",
+      "reference": "Os 5:11"
+    },
+    "12": {
+      "text": "Mas eu serei como a traça para Efraim \\par e como a cárie para a casa de Judá. \\par",
+      "reference": "Os 5:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Ineficácia das alianças com o estrangeiro\\par }Quando Efraim viu a sua doença \\par e Judá sua ferida, \\par foi então Efraim à Assíria \\par e enviou mensageiros ao grande rei; \\par mas ele não poderá curar-vos, \\par nem sarar a vossa ferida. \\par",
+      "reference": "Os 5:13"
+    },
+    "14": {
+      "text": "Pois eu sou para Efraim como um leão, \\par como um filhote de leão para a casa de Judá. \\par Eu mesmo despedaço e vou embora, \\par carrego minha presa e ninguém salva. \\par",
+      "reference": "Os 5:14"
+    },
+    "15": {
+      "text": "Vou-me embora, voltarei ao meu lugar, \\par até que se reconheçam culpados e procurem a minha face; \\par na sua angústia, eles me procurarão. \\par",
+      "reference": "Os 5:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

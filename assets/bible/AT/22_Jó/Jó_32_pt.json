@@ -1,0 +1,101 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 32,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. Discursos de Eliú }\\par }{\\qc\\b\\i Intervenção de Eliú\\par }Aqueles três homens não responderam mais a Jó, porque ele teimava em ter-se por justo.",
+      "reference": "Jó 32:1"
+    },
+    "2": {
+      "text": "Então inflamou-se a ira de Eliú, filho de Baraquel, de Buz, da família de Ram; indignou-se contra Jó, porque pretendia ter razão contra Deus.",
+      "reference": "Jó 32:2"
+    },
+    "3": {
+      "text": "Indignou-se também contra os três companheiros, porque não acharam resposta, contentando-se em deixar as falhas a Deus.",
+      "reference": "Jó 32:3"
+    },
+    "4": {
+      "text": "Enquanto falavam com Jó, Eliú esperava, porque eram mais velhos;",
+      "reference": "Jó 32:4"
+    },
+    "5": {
+      "text": "mas ao ver que nenhum dos três tinha algo a mais para responder, encheu-se de indignação.",
+      "reference": "Jó 32:5"
+    },
+    "6": {
+      "text": "Então Eliú, filho de Baraquel, de Buz, interveio dizendo: \\par \\par {\\qc\\b\\i Exórdio\\par } Sou ainda jovem em anos, \\par e vós sois anciãos; \\par por isso, intimidado, não me atrevia \\par a expor-vos o meu conhecimento. \\par",
+      "reference": "Jó 32:6"
+    },
+    "7": {
+      "text": "Dizia comigo: “Que falem os anos, \\par que a idade madura ensine sabedoria”. \\par",
+      "reference": "Jó 32:7"
+    },
+    "8": {
+      "text": "Mas é o espírito no homem, \\par o alento de Shaddai que dá inteligência. \\par",
+      "reference": "Jó 32:8"
+    },
+    "9": {
+      "text": "Não é a idade avançada que dá sabedoria, \\par nem a velhice o discernimento do que é justo. \\par",
+      "reference": "Jó 32:9"
+    },
+    "10": {
+      "text": "Por isso, convido-vos a me escutar, \\par porque também eu manifestarei o meu conhecimento! \\par",
+      "reference": "Jó 32:10"
+    },
+    "11": {
+      "text": "Esperei enquanto faláveis, \\par prestei atenção aos vossos argumentos, \\par enquanto trocáveis palavras. \\par",
+      "reference": "Jó 32:11"
+    },
+    "12": {
+      "text": "Por mais que prestasse atenção, \\par ninguém de vós conseguiu refutar a Jó \\par e responder aos seus argumentos. \\par",
+      "reference": "Jó 32:12"
+    },
+    "13": {
+      "text": "Não digais: “Encontramos a sabedoria; \\par nossa doutrina é divina, não humana”. \\par",
+      "reference": "Jó 32:13"
+    },
+    "14": {
+      "text": "Não é assim que irei discutir, \\par replicarei a Jó com outras palavras. \\par",
+      "reference": "Jó 32:14"
+    },
+    "15": {
+      "text": "Desconcertados, já não respondem, \\par faltam-lhes palavras. \\par",
+      "reference": "Jó 32:15"
+    },
+    "16": {
+      "text": "Devo aguardar, já que eles não falam, \\par já que estão aí sem responder? \\par",
+      "reference": "Jó 32:16"
+    },
+    "17": {
+      "text": "Quero tomar parte na discussão; \\par mostrarei também o meu conhecimento. \\par",
+      "reference": "Jó 32:17"
+    },
+    "18": {
+      "text": "Porque estou cheio de palavras, \\par pressionado por um sopro interior. \\par",
+      "reference": "Jó 32:18"
+    },
+    "19": {
+      "text": "Dentro de mim há como um vinho novo que quer transbordar \\par e faz estalar os odres novos. \\par",
+      "reference": "Jó 32:19"
+    },
+    "20": {
+      "text": "Falarei para ficar aliviado, \\par abrirei os lábios para responder. \\par",
+      "reference": "Jó 32:20"
+    },
+    "21": {
+      "text": "Não tomarei partido por ninguém, \\par a ninguém adularei. \\par",
+      "reference": "Jó 32:21"
+    },
+    "22": {
+      "text": "Porque não sei adular, \\par e porque logo me arrebataria o Criador. \\par",
+      "reference": "Jó 32:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

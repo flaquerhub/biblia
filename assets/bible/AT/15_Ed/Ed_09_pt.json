@@ -1,0 +1,73 @@
+{
+  "book": 15,
+  "book_name": "Esdras",
+  "book_abbr": "Ed",
+  "book_category": "Histórico",
+  "book_english": "Ezra",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A ruptura dos matrimônios com estrangeiras\\par }Feito isso, os chefes vieram procurar-me, dizendo: “O povo de Israel, os sacerdotes e os levitas não se separaram dos povos das terras mergulhados em suas abominações – cananeus, heteus, ferezeus, jebuseus, amonitas, moabitas, egípcios e amorreus! –",
+      "reference": "Ed 9:1"
+    },
+    "2": {
+      "text": "porque, para si e para seus filhos, tomaram esposas entre as filhas deles: a linhagem santa misturou-se com os povos das terras: os chefes e os magistrados foram os primeiros a participar dessa infidelidade!”",
+      "reference": "Ed 9:2"
+    },
+    "3": {
+      "text": "Quando ouvi isso, rasguei as minhas vestes e meu manto, arranquei os cabelos da cabeça e da barba e sentei-me consternado.",
+      "reference": "Ed 9:3"
+    },
+    "4": {
+      "text": "Todos os que temiam as palavras do Deus de Israel reuniram-se ao meu redor, por causa dessa infidelidade dos exilados. E eu fiquei sentado e angustiado até a oblação da tarde.",
+      "reference": "Ed 9:4"
+    },
+    "5": {
+      "text": "Na hora da oblação da tarde, levantei-me da minha prostração; e com a veste e o manto rasgados, caí de joelhos, estendi as mãos para Iahweh, meu Deus,",
+      "reference": "Ed 9:5"
+    },
+    "6": {
+      "text": "e disse: “Meu Deus, estou coberto de vergonha e confusão ao levantar minha face para ti, meu Deus. Porque nossas iniqüidades se multiplicaram até acima de nossas cabeças, e nossas faltas se acumularam até o céu.",
+      "reference": "Ed 9:6"
+    },
+    "7": {
+      "text": "Desde os dias de nossos pais até este dia, uma grande culpa pesa sobre nós: por causa de nossas iniqüidades, nós, nossos reis e nossos sacerdotes, fomos entregues às mãos dos reis de outras terras, à espada, ao cativeiro, à rapina e à vergonha, com se dá ainda hoje.",
+      "reference": "Ed 9:7"
+    },
+    "8": {
+      "text": "Mas agora, por um breve instante, Iahweh nosso Deus nos concedeu a graça de reservar dentre nós sobreviventes e de permitir que nos fixemos em seu lugar santo: assim nosso Deus deu brilho a nossos olhos e um pouco de vida no meio de nossa escravidão.",
+      "reference": "Ed 9:8"
+    },
+    "9": {
+      "text": "Pois somos escravos, mas em nossa escravidão nosso Deus não nos abandonou: antes, granjeou-nos o favor dos reis da Pérsia, dando-nos vida bastante para podermos reconstruir o Templo do nosso Deus e restaurar suas ruínas e concedendo-nos um abrigo seguro em Judá e em Jerusalém.",
+      "reference": "Ed 9:9"
+    },
+    "10": {
+      "text": "Mas agora, ó nosso Deus, que poderemos dizer, depois disso? Pois abandonamos os teus mandamentos,",
+      "reference": "Ed 9:10"
+    },
+    "11": {
+      "text": "que havias determinado por meios dos teus servos, os profetas, dizendo: ‘A terra aonde ires entrar para dela tomardes posse é uma terra contaminada pela imundície dos povos das terras, pelas abominações com que a infestaram de uma extremidade a outra com suas impurezas.",
+      "reference": "Ed 9:11"
+    },
+    "12": {
+      "text": "Pois bem, não deis vossas filhas a seus filhos e não tomeis suas filhas como esposas para vossos filhos; não vos preocupeis jamais com sua prosperidade e seu bem-estar, para que vos torneis fortes e comais os melhores frutos da terra e a deixeis como herança a vossos filhos para sempre’. \\par",
+      "reference": "Ed 9:12"
+    },
+    "13": {
+      "text": "Ora, depois de tudo o que nos aconteceu por causa das nossas más ações e por causa da nossa grande culpa – embora tu, ó nosso Deus, tenhas reduzido o peso de nossas iniqüidades e nos tenhas deixado os sobreviventes que aqui estão! –,",
+      "reference": "Ed 9:13"
+    },
+    "14": {
+      "text": "poderíamos ainda violar teus mandamentos e nos aliar a esta gente abominável? Não te irritarias contra nós até nos aniquilares, sem deixares resto nem sobreviventes?",
+      "reference": "Ed 9:14"
+    },
+    "15": {
+      "text": "Iahweh, Deus de Israel, tu és justo, pois o que restou de nós é um grupo de sobreviventes, como acontece hoje. Eis-nos aqui diante de ti com a nossa culpa! Sim, é impossível subsistirmos em tua presença por causa disso!” \\par",
+      "reference": "Ed 9:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

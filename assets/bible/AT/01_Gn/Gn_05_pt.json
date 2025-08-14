@@ -1,0 +1,141 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os Patriarcas anteriores ao dilúvio\\par }Eis o livro da descendência de Adão: No dia em que Deus criou Adão, ele o fez à semelhança de Deus.",
+      "reference": "Gn 5:1"
+    },
+    "2": {
+      "text": "Homem e mulher ele os criou, abençoou-os e lhes deu o nome de “Homem”, no dia em que foram criados. \\par",
+      "reference": "Gn 5:2"
+    },
+    "3": {
+      "text": "Quando Adão completou centro e trinta anos, gerou um filho à sua semelhança, como sua imagem, e lhe deu o nome de Set.",
+      "reference": "Gn 5:3"
+    },
+    "4": {
+      "text": "O tempo que viveu Adão depois do nascimento de Set foi de oitocentos anos, e gerou filhos e filhas.",
+      "reference": "Gn 5:4"
+    },
+    "5": {
+      "text": "Toda a duração da vida de Adão foi de novecentos e trinta anos, depois morreu. \\par",
+      "reference": "Gn 5:5"
+    },
+    "6": {
+      "text": "Quando Set completou cento e cinco anos, gerou Enós.",
+      "reference": "Gn 5:6"
+    },
+    "7": {
+      "text": "Depois do nascimento de Enós, Set viveu oitocentos e sete anos, e gerou filhos e filhas.",
+      "reference": "Gn 5:7"
+    },
+    "8": {
+      "text": "Toda a duração da vida de Set foi de novecentos e doze anos, depois morreu. \\par",
+      "reference": "Gn 5:8"
+    },
+    "9": {
+      "text": "Quando Enós completou noventa anos, gerou Cainã.",
+      "reference": "Gn 5:9"
+    },
+    "10": {
+      "text": "Depois do nascimento de Cainã, Enós viveu oitocentos e quinze anos, e gerou filhos e filhas.",
+      "reference": "Gn 5:10"
+    },
+    "11": {
+      "text": "Toda a duração da vida de Enós foi de novecentos e cinco anos, depois morreu. \\par",
+      "reference": "Gn 5:11"
+    },
+    "12": {
+      "text": "Quando Cainã completou setenta anos, gerou Malaleel.",
+      "reference": "Gn 5:12"
+    },
+    "13": {
+      "text": "Depois do nascimento de Malaleel, Cainã viveu oitocentos e quarenta anos, e gerou filhos e filhas.",
+      "reference": "Gn 5:13"
+    },
+    "14": {
+      "text": "Toda a duração da vida de Cainã foi de novecentos e dez anos, depois morreu. \\par",
+      "reference": "Gn 5:14"
+    },
+    "15": {
+      "text": "Quando Malaleel completou sessenta e cinco anos, gerou Jared.",
+      "reference": "Gn 5:15"
+    },
+    "16": {
+      "text": "Depois do nascimento de Jared, Malaleel viveu oitocentos e trinta anos, e gerou filhos e filhas.",
+      "reference": "Gn 5:16"
+    },
+    "17": {
+      "text": "Toda a duração da vida de Malaleel foi de oitocentos e noventa e cinco anos, depois morreu. \\par",
+      "reference": "Gn 5:17"
+    },
+    "18": {
+      "text": "Quando Jared completou cento e sessenta e dois anos, gerou Henoc.",
+      "reference": "Gn 5:18"
+    },
+    "19": {
+      "text": "Depois do nascimento de Henoc, Jared viveu oitocentos anos e gerou filhos e filhas.",
+      "reference": "Gn 5:19"
+    },
+    "20": {
+      "text": "Toda a duração da vida de Jared foi de novecentos e sessenta e dois anos, depois morreu. \\par",
+      "reference": "Gn 5:20"
+    },
+    "21": {
+      "text": "Quando Henoc completou sessenta e cinco anos, gerou Matusalém.",
+      "reference": "Gn 5:21"
+    },
+    "22": {
+      "text": "Henoc andou com Deus. Depois do nascimento de Matusalém, Henoc viveu trezentos anos, e gerou filhos e filhas.",
+      "reference": "Gn 5:22"
+    },
+    "23": {
+      "text": "Toda a duração da vida de Henoc foi de trezentos e sessenta e cinco anos.",
+      "reference": "Gn 5:23"
+    },
+    "24": {
+      "text": "Henoc andou com Deus, depois desapareceu, pois Deus o arrebatou. \\par",
+      "reference": "Gn 5:24"
+    },
+    "25": {
+      "text": "Quando Matusalém completou cento e oitenta e sete anos, gerou Lamec.",
+      "reference": "Gn 5:25"
+    },
+    "26": {
+      "text": "Depois do nascimento de Lamec, Matusalém viveu setecentos e oitenta e dois anos, e gerou filhos e filhas.",
+      "reference": "Gn 5:26"
+    },
+    "27": {
+      "text": "Toda a duração da vida de Matusalém foi de novecentos e sessenta e nove anos, depois morreu. \\par",
+      "reference": "Gn 5:27"
+    },
+    "28": {
+      "text": "Quando Lamec completou cento e oitenta e dois anos, geou um filho.",
+      "reference": "Gn 5:28"
+    },
+    "29": {
+      "text": "Deu-lhe o nome de Noé, porque, disse ele, “este nos trará, em nossas tarefas e no trabalho de nossas mãos, uma consolação tirada do solo que Iahweh amaldiçoou”.",
+      "reference": "Gn 5:29"
+    },
+    "30": {
+      "text": "Depois do nascimento de Noé, Lamec viveu quinhentos e noventa e cinco anos, e gerou filhos e filhas.",
+      "reference": "Gn 5:30"
+    },
+    "31": {
+      "text": "Toda a duração da vida de Lamec foi de setecentos e setenta e sete anos, depois morreu. \\par",
+      "reference": "Gn 5:31"
+    },
+    "32": {
+      "text": "Quando Noé completou quinhentos anos, gerou Sem, Cam e Jafé. \\par",
+      "reference": "Gn 5:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

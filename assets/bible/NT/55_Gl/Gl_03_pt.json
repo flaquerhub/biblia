@@ -1,0 +1,129 @@
+{
+  "book": 48,
+  "book_name": "Gálatas",
+  "book_abbr": "Gl",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Galatians",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Argumentação doutrinal}\\par }{\\qc\\b\\i A experiência cristã\\par }Ó gálatas insensatos, quem vos fascinou, a vós ante cujos olhos foi desenhada a imagem de Jesus Cristo crucificado?",
+      "reference": "Gl 3:1"
+    },
+    "2": {
+      "text": "Só isto quero saber de vós: foi pelas obras da Lei que recebestes o Espírito ou pela adesão à fé?",
+      "reference": "Gl 3:2"
+    },
+    "3": {
+      "text": "Sois tão insensatos que, tendo começado com o espírito, agora acabais na carne?",
+      "reference": "Gl 3:3"
+    },
+    "4": {
+      "text": "Foi em vão que experimentastes tão grandes coisas? Se é que foi em vão!",
+      "reference": "Gl 3:4"
+    },
+    "5": {
+      "text": "Aquele que vos concede o Espírito e opera milagres entre vós o faz pelas obras da Lei ou pela adesão à fé? \\par",
+      "reference": "Gl 3:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Testemunho da Escritura: a fé e a Lei\\par }Foi assim que Abraão {\\i creu em Deus e isto lhe foi levado em conta de justiça.}",
+      "reference": "Gl 3:6"
+    },
+    "7": {
+      "text": "Sabei, portanto, que os que são pela fé são filhos de Abraão.",
+      "reference": "Gl 3:7"
+    },
+    "8": {
+      "text": "Prevendo que Deus justificaria os gentios pela fé, a Escritura preanunciou a Abraão esta boa nova: {\\i Em ti serão abençoadas todas as nações.}",
+      "reference": "Gl 3:8"
+    },
+    "9": {
+      "text": "De modo que os que são pela fé são abençoados juntamente com Abraão, que teve fé. \\par",
+      "reference": "Gl 3:9"
+    },
+    "10": {
+      "text": "E os que são pelas obras da Lei, esses estão debaixo de maldição, pois está escrito: {\\i Maldito todo aquele que não se atém a todas as prescrições que estão no livro da Lei para serem praticadas.}",
+      "reference": "Gl 3:10"
+    },
+    "11": {
+      "text": "E que pela Lei ninguém se justifica diante de Deus é evidente, pois o {\\i justo viverá pela fé.}",
+      "reference": "Gl 3:11"
+    },
+    "12": {
+      "text": "Ora, a Lei não é pela fé, mas: {\\i quem pratica essas coisas por elas viverá.}",
+      "reference": "Gl 3:12"
+    },
+    "13": {
+      "text": "Cristo nos remiu da maldição da Lei tornando-se maldição por nós, porque está escrito: {\\i Maldito todo aquele que é suspenso no madeiro},",
+      "reference": "Gl 3:13"
+    },
+    "14": {
+      "text": "a fim de que a bênção de Abraão em Cristo Jesus se estenda aos gentios, e para que, pela fé, recebamos o Espírito prometido. \\par",
+      "reference": "Gl 3:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i A Lei não invalidou a promessa\\par }Irmãos, falo como homem: mesmo um testamento humano, legitimamente feito, ninguém o pode invalidar nem modificar.",
+      "reference": "Gl 3:15"
+    },
+    "16": {
+      "text": "Ora, as promessas foram asseguradas a Abraão e à {\\i sua descendência.} Não diz: “e aos descendentes”, como referindo-se a muitos, mas como a um só: {\\i e à tua descendência}, que é Cristo.",
+      "reference": "Gl 3:16"
+    },
+    "17": {
+      "text": "Ora, eu digo: uma Lei vinda quatrocentos e trinta anos depois não invalida um testamento anterior, legitimamente feito por Deus, de modo a tornar nula a promessa.",
+      "reference": "Gl 3:17"
+    },
+    "18": {
+      "text": "Porque se a herança vem pela Lei, já não é pela promessa. Ora, é pela promessa que Deus agraciou a Abraão. \\par",
+      "reference": "Gl 3:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Papel da Lei\\par }Por que, então, a Lei? Foi acrescentada em vista das transgressões – até que viesse a descendência, a quem fora feita a promessa – promulgada por anjos, pela mão de um mediador.",
+      "reference": "Gl 3:19"
+    },
+    "20": {
+      "text": "Ora, não existe mediador quando se trata de um só, e Deus é um só.",
+      "reference": "Gl 3:20"
+    },
+    "21": {
+      "text": "Então a Lei é contra as promessas de Deus? De modo algum! Se tivesse sido dada uma lei capaz de comunicar a vida, então sim, realmente a justiça viria da Lei.",
+      "reference": "Gl 3:21"
+    },
+    "22": {
+      "text": "Mas a Escritura encerrou tudo debaixo do pecado, a fim de que a promessa, pela fé em Jesus Cristo, fosse concedida aos que crêem. \\par",
+      "reference": "Gl 3:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Advento da fé\\par }Antes que chegasse a fé, nós éramos guardados sob a tutela da Lei para a fé que haveria de se revelar.",
+      "reference": "Gl 3:23"
+    },
+    "24": {
+      "text": "Assim a Lei se tornou nosso pedagogo até Cristo, para que fôssemos justificados pela fé.",
+      "reference": "Gl 3:24"
+    },
+    "25": {
+      "text": "Chegada, porém, a fé, não estamos mais sob pedagogo;",
+      "reference": "Gl 3:25"
+    },
+    "26": {
+      "text": "vós todos sois filhos de Deus pela fé em Cristo Jesus,",
+      "reference": "Gl 3:26"
+    },
+    "27": {
+      "text": "pois todos vós, que fostes batizados em Cristo, vos vestistes de Cristo.",
+      "reference": "Gl 3:27"
+    },
+    "28": {
+      "text": "Não há judeu nem grego, não há escravo nem livre, não há homem nem mulher; pois todos vós sois um só em Cristo Jesus.",
+      "reference": "Gl 3:28"
+    },
+    "29": {
+      "text": "E se vós sois de Cristo, então sois descendência de Abraão, herdeiros segundo a promessa. \\par",
+      "reference": "Gl 3:29"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 29
+}

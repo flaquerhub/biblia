@@ -1,0 +1,65 @@
+{
+  "book": 52,
+  "book_name": "1Tessalonicenses",
+  "book_abbr": "1Ts",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Thessalonians",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O envio de Timóteo a Tessalônica\\par }Por isso, não podendo mais suportar, resolvemos ficar sozinhos em Atenas,",
+      "reference": "1Ts 3:1"
+    },
+    "2": {
+      "text": "e enviamos a Timóteo, nosso irmão e ministro de Deus na pregação do evangelho de Cristo, com o fim de vos fortificar e exortar na fé,",
+      "reference": "1Ts 3:2"
+    },
+    "3": {
+      "text": "para que ninguém desfaleça nestas tribulações. Pois bem sabeis que para isso é que fomos destinados.",
+      "reference": "1Ts 3:3"
+    },
+    "4": {
+      "text": "Quando estávamos convosco já dizíamos que haveríamos de passar tribulações; foi o que aconteceu, como sabeis.",
+      "reference": "1Ts 3:4"
+    },
+    "5": {
+      "text": "Por isso, não podendo mais suportar, mandei colher informações a respeito de vossa fé, temendo que o Tentador vos tivesse seduzido, inutilizando o nosso trabalho. \\par",
+      "reference": "1Ts 3:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Ação de graças pelas notícias recebidas\\par }Agora, porém, Timóteo voltou para perto de nós, da visita que vos fez, trazendo-nos boas notícias a respeito da vossa fé e caridade, afirmando que guardais sempre afetuosa lembrança nossa e que desejais ver-nos, assim como nós também a vós.",
+      "reference": "1Ts 3:6"
+    },
+    "7": {
+      "text": "Meus irmãos, a vossa fé nos consolou, em meio a muita angústia e tribulação.",
+      "reference": "1Ts 3:7"
+    },
+    "8": {
+      "text": "Agora estamos reanimados, porque estais firmes no Senhor.",
+      "reference": "1Ts 3:8"
+    },
+    "9": {
+      "text": "Como poderíamos agradecer a Deus por vós, pela alegria que nos destes diante de nosso Deus?",
+      "reference": "1Ts 3:9"
+    },
+    "10": {
+      "text": "Noite e dia rogamos com instância poder rever-vos, a fim de completarmos o que ainda falta à vossa fé. \\par",
+      "reference": "1Ts 3:10"
+    },
+    "11": {
+      "text": "Deus, nosso Pai, e nosso Senhor Jesus aplainem o nosso caminho até vós.",
+      "reference": "1Ts 3:11"
+    },
+    "12": {
+      "text": "A vós, porém, o Senhor faça crescer e ser ricos em amor mútuo e para com todos os homens, a exemplo do amor que nós vos temos.",
+      "reference": "1Ts 3:12"
+    },
+    "13": {
+      "text": "Queira ele confirmar os vossos corações numa santidade irrepreensível, aos olhos de Deus, nosso Pai, por ocasião da Vinda de nosso Senhor Jesus com {\\i todos os santos.}\\par",
+      "reference": "1Ts 3:13"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 13
+}

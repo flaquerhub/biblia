@@ -1,0 +1,97 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 49,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 49 (48)\\par }{\\qc\\b\\i O nada das riquezas\\par }{\\qc\\i Do mestre de canto. Dos filhos de Coré. Salmo.\\par }",
+      "reference": "Sl 49:1"
+    },
+    "2": {
+      "text": "Ouvi isto, todos os povos, \\par dai ouvidos, habitantes todos do mundo, \\par",
+      "reference": "Sl 49:2"
+    },
+    "3": {
+      "text": "gente do povo, homens de condição, \\par ricos e indigentes, todos juntos! \\par",
+      "reference": "Sl 49:3"
+    },
+    "4": {
+      "text": "Minha boca fala com sabedoria \\par e meu coração medita a inteligência; \\par",
+      "reference": "Sl 49:4"
+    },
+    "5": {
+      "text": "inclino meu ouvido a um provérbio \\par e sobre a lira resolvo meu enigma. \\par",
+      "reference": "Sl 49:5"
+    },
+    "6": {
+      "text": "Por que vou temer nos dias maus, \\par quando a maldade me persegue e envolve? \\par",
+      "reference": "Sl 49:6"
+    },
+    "7": {
+      "text": "Eles confiam na sua fortuna \\par e se gloriam de sua imensa riqueza. \\par",
+      "reference": "Sl 49:7"
+    },
+    "8": {
+      "text": "Mas o homem não pode comprar seu resgate, \\par nem pagar a Deus seu preço: \\par",
+      "reference": "Sl 49:8"
+    },
+    "9": {
+      "text": "o resgate de sua vida é tão caro \\par que seria sempre insuficiente \\par",
+      "reference": "Sl 49:9"
+    },
+    "10": {
+      "text": "para o homem sobreviver, \\par sem nunca ver a cova. \\par",
+      "reference": "Sl 49:10"
+    },
+    "11": {
+      "text": "Ora, ele vê os sábios morrerem \\par e o imbecil perecer com o insensato, \\par deixando sua riqueza para outros. \\par",
+      "reference": "Sl 49:11"
+    },
+    "12": {
+      "text": "Seus túmulos são para sempre suas casas, \\par suas moradias de geração em geração; \\par e eles davam o próprio nome às suas terras... \\par",
+      "reference": "Sl 49:12"
+    },
+    "13": {
+      "text": "Mas o homem com seu luxo não entende, \\par é semelhante ao animal mudo... \\par",
+      "reference": "Sl 49:13"
+    },
+    "14": {
+      "text": "E assim caminham, seguros de si mesmos, \\par e terminam contentes com sua sorte. \\par",
+      "reference": "Sl 49:14"
+    },
+    "15": {
+      "text": "São como o rebanho destinado ao Xeol, \\par a Morte os leva a pastar, \\par os homens retos vão dominá-los. \\par Pela manhã sua imagem desaparece; \\par o Xeol é a sua residência. \\par",
+      "reference": "Sl 49:15"
+    },
+    "16": {
+      "text": "Mas Deus resgatará a minha vida \\par das garras do Xeol, e me tomará. \\par",
+      "reference": "Sl 49:16"
+    },
+    "17": {
+      "text": "Não temas quando um homem enriquece, \\par quando cresce a glória de sua casa: \\par",
+      "reference": "Sl 49:17"
+    },
+    "18": {
+      "text": "ao morrer nada poderá levar, \\par sua glória não descerá com ele. \\par",
+      "reference": "Sl 49:18"
+    },
+    "19": {
+      "text": "Enquanto vivia, ele se felicitava: \\par – “Eles te aplaudem, pois tudo vai bem para ti!” \\par",
+      "reference": "Sl 49:19"
+    },
+    "20": {
+      "text": "Ele vai juntar-se à geração dos seus pais, \\par que nunca mais verá a luz. \\par",
+      "reference": "Sl 49:20"
+    },
+    "21": {
+      "text": "Mas o homem com seu luxo não entende, \\par é semelhante ao animal mudo... \\par",
+      "reference": "Sl 49:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

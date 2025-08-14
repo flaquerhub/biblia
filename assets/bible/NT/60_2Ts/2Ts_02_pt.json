@@ -1,0 +1,81 @@
+{
+  "book": 53,
+  "book_name": "2Tessalonicenses",
+  "book_abbr": "2Ts",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Thessalonians",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A Vinda do Senhor e o que a precederá\\par }Quanto à Vinda de nosso Senhor Jesus Cristo, e à nossa reunião com ele, rogamo-vos, irmãos,",
+      "reference": "2Ts 2:1"
+    },
+    "2": {
+      "text": "que não percais tão depressa a serenidade de espírito, e não vos perturbeis nem por palavra profética, nem por carta que se diga vir de nós, como se o Dia do Senhor já estivesse próximo.",
+      "reference": "2Ts 2:2"
+    },
+    "3": {
+      "text": "Não vos deixeis enganar de modo algum por pessoa alguma; porque deve vir primeiro a apostasia, e aparecer o homem ímpio, o filho da perdição,",
+      "reference": "2Ts 2:3"
+    },
+    "4": {
+      "text": "o adversário, {\\i que se levanta contra tudo} que se chama {\\i Deus}, ou recebe um culto, chegando a {\\i sentar-se} pessoalmente no templo de {\\i Deus}, e querendo passar por Deus.",
+      "reference": "2Ts 2:4"
+    },
+    "5": {
+      "text": "Não vos lembrais de que vos dizia isto quando estava convosco? \\par",
+      "reference": "2Ts 2:5"
+    },
+    "6": {
+      "text": "Agora também sabeis o que é que ainda o retém, para aparecer só a seu tempo.",
+      "reference": "2Ts 2:6"
+    },
+    "7": {
+      "text": "Pois o mistério da impiedade já está agindo, só é necessário que seja afastado aquele que ainda o retém!",
+      "reference": "2Ts 2:7"
+    },
+    "8": {
+      "text": "Então, aparecerá o ímpio, aquele que o Senhor {\\i destruirá com o sopro de sua boca}, e o suprimirá pela manifestação de sua Vinda. \\par",
+      "reference": "2Ts 2:8"
+    },
+    "9": {
+      "text": "Ora, a vinda do ímpio será assinalada pela atividade de Satanás, com toda a sorte de portentos, milagres e prodígios mentirosos,",
+      "reference": "2Ts 2:9"
+    },
+    "10": {
+      "text": "e por todas as seduções da injustiça, para aquele que se perdem, porque não acolheram o amor de verdade, a fim de serem salvos.",
+      "reference": "2Ts 2:10"
+    },
+    "11": {
+      "text": "É por isso que Deus lhes manda o poder da sedução, para acreditarem na mentira",
+      "reference": "2Ts 2:11"
+    },
+    "12": {
+      "text": "e serem condenados, todos os que não creram na verdade, mas antes consentiram na injustiça. \\par",
+      "reference": "2Ts 2:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Exortação à perseverança\\par }Nós, porém, sempre agradecemos a Deus por vós, irmãos queridos do Senhor, porque Deus vos escolheu desde o princípio para serdes salvos mediante a santificação do Espírito e a fé na verdade,",
+      "reference": "2Ts 2:13"
+    },
+    "14": {
+      "text": "e por meio do nosso evangelho vos chamou a tomar parte na glória de nosso Senhor Jesus Cristo.",
+      "reference": "2Ts 2:14"
+    },
+    "15": {
+      "text": "Portanto, irmãos, ficai firmes; guardai as tradições que vos ensinamos oralmente ou por escrito.",
+      "reference": "2Ts 2:15"
+    },
+    "16": {
+      "text": "Nosso Senhor Jesus Cristo e Deus, nosso Pai, que nos amou e nos deu a eterna consolação e a boa esperança pela graça,",
+      "reference": "2Ts 2:16"
+    },
+    "17": {
+      "text": "animem os vossos corações e vos confirmem em tudo o que fazeis e dizeis em vista do bem. \\par",
+      "reference": "2Ts 2:17"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 17
+}

@@ -1,0 +1,45 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 138,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 138 (137)\\par }{\\qc\\b\\i Hino de ação de graças\\par }{\\qc\\i De Davi.\\par } Eu te celebro, Iahweh, de todo o coração, \\par pois ouviste as palavras de minha boca. \\par Na presença dos anjos eu canto a ti, \\par",
+      "reference": "Sl 138:1"
+    },
+    "2": {
+      "text": "e me prostro voltado para o teu sagrado templo. \\par Celebro teu nome, por teu amor e verdade, \\par pois tua promessa supera tua fama. \\par",
+      "reference": "Sl 138:2"
+    },
+    "3": {
+      "text": "Quando eu gritei, tu me ouviste \\par e aumentaste a força dentro de mim. \\par",
+      "reference": "Sl 138:3"
+    },
+    "4": {
+      "text": "Todos os reis da terra te celebrem, Iahweh, \\par pois eles ouvem as promessas de tua boca; \\par",
+      "reference": "Sl 138:4"
+    },
+    "5": {
+      "text": "e cantem os caminhos de Iahweh: \\par “Grande é a glória de Iahweh! \\par",
+      "reference": "Sl 138:5"
+    },
+    "6": {
+      "text": "Iahweh é excelso! Ele vê o humilde, \\par e conhece o soberbo de longe”. \\par",
+      "reference": "Sl 138:6"
+    },
+    "7": {
+      "text": "Se eu caminho no meio da angústia, \\par tu me conservas a vida; \\par contra a ira do meu inimigo \\par estendes o braço, e tua direita me salva. \\par",
+      "reference": "Sl 138:7"
+    },
+    "8": {
+      "text": "Iahweh fará tudo por mim: \\par Iahweh, o teu amor é para sempre! \\par Não abandones a obra de tuas mãos! \\par",
+      "reference": "Sl 138:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

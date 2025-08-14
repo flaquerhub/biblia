@@ -1,0 +1,125 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O empréstimo\\par }Prática a misericórdia o que empresta ao próximo, \\par o que vem em sua ajuda cumpre os mandamentos. \\par",
+      "reference": "Eclo 29:1"
+    },
+    "2": {
+      "text": "Empresta ao próximo por ocasião de sua necessidade; \\par por sua vez, restitui ao próximo no tempo devido. \\par",
+      "reference": "Eclo 29:2"
+    },
+    "3": {
+      "text": "Cumpre tua palavra e sê-lhe fiel \\par e em toda ocasião acharás o que te é necessário. \\par",
+      "reference": "Eclo 29:3"
+    },
+    "4": {
+      "text": "Muitos consideram um empréstimo como uma fortuna inesperada \\par e colocam em dificuldade aqueles que os socorreram. \\par",
+      "reference": "Eclo 29:4"
+    },
+    "5": {
+      "text": "Antes de receberem, beijam-lhe a mão, \\par abaixam a voz por causa da riqueza do próximo. \\par No tempo da restituição, porém, adiam a data, \\par pagam com recriminações, \\par culpam o tempo. \\par",
+      "reference": "Eclo 29:5"
+    },
+    "6": {
+      "text": "Se o devedor pode pagar, com dificuldade o credor receberá a metade, \\par e o pode contar como um achado. \\par Em caso contrário, será espoliado de seus bens \\par e adquiriu, sem tê-lo merecido, um inimigo; \\par pagar-lhe-á com imprecações e injúrias \\par e, em vez de honra, dar-lhe-á desprezo. \\par",
+      "reference": "Eclo 29:6"
+    },
+    "7": {
+      "text": "Muitos, sem malícia, se recusam a emprestar, \\par temem ser defraudados sem nenhum proveito. \\par",
+      "reference": "Eclo 29:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i A esmola\\par }Tu, porém, sê indulgente para com os humildes, \\par não os faças esperar tuas esmolas. \\par",
+      "reference": "Eclo 29:8"
+    },
+    "9": {
+      "text": "Por causa do mandamento, socorre o pobre; \\par em sua necessidade, não o despeças sem nada. \\par",
+      "reference": "Eclo 29:9"
+    },
+    "10": {
+      "text": "Sacrifica tua prata por um irmão e um amigo, \\par não se enferruje ela, à toa, debaixo de uma pedra. \\par",
+      "reference": "Eclo 29:10"
+    },
+    "11": {
+      "text": "Acumula um tesouro segundo os preceitos do Altíssimo, \\par ser-te-á mais útil do que o ouro. \\par",
+      "reference": "Eclo 29:11"
+    },
+    "12": {
+      "text": "Fecha a tua esmola nos teus celeiros, \\par ela te livrará de todo mal. \\par",
+      "reference": "Eclo 29:12"
+    },
+    "13": {
+      "text": "Mais do que um forte escudo e uma lança poderosa, \\par por ti ela combaterá o inimigo. \\par",
+      "reference": "Eclo 29:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i A fiança\\par }O homem de bem dá fiança por seu próximo, \\par aquele que perdeu toda vergonha o abandona. \\par",
+      "reference": "Eclo 29:14"
+    },
+    "15": {
+      "text": "Não esqueças o favor do fiador, \\par ele deu a sua vida por ti. \\par",
+      "reference": "Eclo 29:15"
+    },
+    "16": {
+      "text": "O pecador desconhece a bondade do fiador, \\par o ingrato esquece quem o salvou. \\par",
+      "reference": "Eclo 29:16"
+    },
+    "17": {
+      "text": "Uma fiança arruinou a muitos que prosperavam \\par e os agitou como as ondas do mar. \\par",
+      "reference": "Eclo 29:17"
+    },
+    "18": {
+      "text": "Ela exilou homens poderosos \\par que andaram errantes por nações estrangeiras. \\par",
+      "reference": "Eclo 29:18"
+    },
+    "19": {
+      "text": "O pecador que se precipita para ser fiador, \\par perseguindo lucro, precipita-se para a ruína. \\par",
+      "reference": "Eclo 29:19"
+    },
+    "20": {
+      "text": "Ajuda o teu próximo conforme as tuas posses, \\par acautela-te, não caias tu também. \\par",
+      "reference": "Eclo 29:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i A hospitalidade\\par }Para viver, as primeiras coisas são água, pão, vestuário \\par e uma casa para abrigar a própria nudez. \\par",
+      "reference": "Eclo 29:21"
+    },
+    "22": {
+      "text": "Vale mais vida de pobre sob o abrigo de teto de tábua \\par do que alimentos finos em casa alheia. \\par",
+      "reference": "Eclo 29:22"
+    },
+    "23": {
+      "text": "Com pouco ou muito, mostra-te contente, \\par e não ouvirás ultraje do teu séquito. \\par",
+      "reference": "Eclo 29:23"
+    },
+    "24": {
+      "text": "Triste vida é andar de casa em casa, \\par aí és forasteiro, não poderás abrir a boca; \\par",
+      "reference": "Eclo 29:24"
+    },
+    "25": {
+      "text": "tu és um estranho, darás de beber sem receber um obrigado \\par e, além disso, ouvirás palavras amargas: \\par",
+      "reference": "Eclo 29:25"
+    },
+    "26": {
+      "text": "“Vem cá, forasteiro, põe a mesa; \\par se tens alguma coisa, dá-me de comer”. \\par",
+      "reference": "Eclo 29:26"
+    },
+    "27": {
+      "text": "“Retira-te, forasteiro, cede lugar a um mais digno, \\par vou hospedar meu irmão, preciso da casa”. \\par",
+      "reference": "Eclo 29:27"
+    },
+    "28": {
+      "text": "Essas coisas são pesadas para um homem sensato: \\par a censura do hospedeiro \\par e a injúria do credor. \\par",
+      "reference": "Eclo 29:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

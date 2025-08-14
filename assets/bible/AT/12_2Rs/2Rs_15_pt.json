@@ -1,0 +1,165 @@
+{
+  "book": 12,
+  "book_name": "2Reis",
+  "book_abbr": "2Rs",
+  "book_category": "Histórico",
+  "book_english": "2 Kings",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Reinado de Ozias em Judá (781-740)\\par }No vigésimo sétimo ano de Jeroboão, rei de Israel, Ozias, filho de Amasias, tornou-se rei em Judá.",
+      "reference": "2Rs 15:1"
+    },
+    "2": {
+      "text": "Tinha dezesseis anos quando começou a reinar e reinou cinqüenta e dois anos em Jerusalém; sua mãe chamava-se Jequelias e era de Jerusalém.",
+      "reference": "2Rs 15:2"
+    },
+    "3": {
+      "text": "Fez o que é agradável aos olhos de Iahweh, como tudo o que fizera seu pai Amasias.",
+      "reference": "2Rs 15:3"
+    },
+    "4": {
+      "text": "Entretanto, os lugares altos não desapareceram e o povo continuava a oferecer sacrifícios e incenso nos lugares altos. \\par",
+      "reference": "2Rs 15:4"
+    },
+    "5": {
+      "text": "Mas Iahweh castigou o rei e ele foi atacado de lepra até o dia de sua morte. Permaneceu encerrado num quarto; seu filho Joatão regia o palácio e administrava o povo. \\par",
+      "reference": "2Rs 15:5"
+    },
+    "6": {
+      "text": "O resto da história de Ozias e tudo o que fez não está escrito no livro dos Anais dos reis de Judá?",
+      "reference": "2Rs 15:6"
+    },
+    "7": {
+      "text": "Ozias adormeceu com seus pais, foi sepultado na Cidade de Davi e seu filho Joatão tornou-se rei em seu lugar. \\par",
+      "reference": "2Rs 15:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Reinado de Zacarias em Israel (743)\\par }No trigésimo oitavo ano de Ozias, rei de Judá, Zacarias, filho de Jeroboão, tornou-se rei de Israel em Samaria e reinou seis meses.",
+      "reference": "2Rs 15:8"
+    },
+    "9": {
+      "text": "Fez o mal aos olhos de Iahweh, como fizeram seus pais, e não se afastou dos pecados aos quais Jeroboão, filho de Nabat, havia arrastado Israel. \\par",
+      "reference": "2Rs 15:9"
+    },
+    "10": {
+      "text": "Selum, filho de Jabes, fez uma conspiração contra ele, feriu-o mortalmente em Jeblaam, e tornou-se rei em seu lugar. \\par",
+      "reference": "2Rs 15:10"
+    },
+    "11": {
+      "text": "O resto da história de Zacarias está escrito no livro dos Anais dos reis de Israel?",
+      "reference": "2Rs 15:11"
+    },
+    "12": {
+      "text": "Realizou-se o que Iahweh havia dito a Jeú: “Teus filhos até a quarta geração se assentarão sobre o trono de Israel”; e assim aconteceu. \\par",
+      "reference": "2Rs 15:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Reinado de Selum em Israel (743)\\par }Selum, filho de Jabes, tornou-se rei no trigésimo nono ano de Ozias, rei de Judá, e reinou um mês em Samaria. \\par",
+      "reference": "2Rs 15:13"
+    },
+    "14": {
+      "text": "Manaém, filho de Gadi, partiu de Tersa, entrou em Samaria, ali matou Selum, filho de Jabes, e tornou-se rei em seu lugar. \\par",
+      "reference": "2Rs 15:14"
+    },
+    "15": {
+      "text": "O resto da história de Selum e a conspiração que ele tramou, tudo está escrito no livro dos Anais dos reis de Israel?",
+      "reference": "2Rs 15:15"
+    },
+    "16": {
+      "text": "Manaém devastou Tafua – matando todos os que lá estavam – e seu território desde Tersa, porque não lhe tinham aberto as portas; arrasou a cidade e rasgou o ventre de todas as mulheres grávidas. \\par",
+      "reference": "2Rs 15:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Reinado de Manaém em Israel (743-738)\\par }No trigésimo nono ano de Ozias, rei de Judá, Manaém, filho de Gadi, tornou-se rei em Israel e reinou dez anos em Samaria.",
+      "reference": "2Rs 15:17"
+    },
+    "18": {
+      "text": "Fez o mal aos olhos de Iahweh, não se afastando dos pecados aos quais Jeroboão, filho de Nabat, havia arrastado Israel. \\par No seu tempo,",
+      "reference": "2Rs 15:18"
+    },
+    "19": {
+      "text": "Pul, rei da Assíria, invadiu a terra. Manaém pagou a Pul mil talentos de prata para que o apoiasse e consolidasse o poder real em suas mãos.",
+      "reference": "2Rs 15:19"
+    },
+    "20": {
+      "text": "Manaém requereu essa quantia de Israel, de todos os notáveis, para dá-la ao rei da Assíria, à razão de cinqüenta siclos de prata por pessoa. Então o rei da Assíria se retirou, não permanecendo na terra. \\par",
+      "reference": "2Rs 15:20"
+    },
+    "21": {
+      "text": "O resto da história de Manaém e tudo o que fez, não está escrito no livro dos Anais dos reis de Israel?",
+      "reference": "2Rs 15:21"
+    },
+    "22": {
+      "text": "Manaém adormeceu com seus pais e Facéias, seu filho, reinou em seu lugar. \\par",
+      "reference": "2Rs 15:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Reinado de Facéias em Israel (738-737)\\par }No qüinquagésimo ano de Ozias, rei de Judá, Facéias, filho de Manaém, tornou-se rei de Israel em Samaria, por dois anos.",
+      "reference": "2Rs 15:23"
+    },
+    "24": {
+      "text": "Fez o mal aos olhos de Iahweh, não se afastando dos pecados aos quais Jeroboão, filho de Nabat, havia arrastado Israel. \\par",
+      "reference": "2Rs 15:24"
+    },
+    "25": {
+      "text": "Seu escudeiro Facéia, filho de Romelias, conspirou contra ele e assassinou-o em Samaria, na torre do palácio real... Tinha consigo cinqüenta homens de Galaad. Matou o rei e reinou em seu lugar. \\par",
+      "reference": "2Rs 15:25"
+    },
+    "26": {
+      "text": "O resto da história de Facéias e tudo o que fez está escrito no livro dos Anais dos reis de Israel. \\par",
+      "reference": "2Rs 15:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Reinado de Facéia em Israel (737-732)\\par }No qüinquagésimo segundo ano de Ozias, rei de Judá, Facéia, filho de Romelias, tornou-se rei de Israel em Samaria e reinou vinte anos.",
+      "reference": "2Rs 15:27"
+    },
+    "28": {
+      "text": "Fez o mal aos olhos de Iahweh, não se afastando dos pecados aos quais Jeroboão, filho de Nabat, havia arrastado Israel. \\par",
+      "reference": "2Rs 15:28"
+    },
+    "29": {
+      "text": "No tempo de Facéia, rei de Israel, veio Teglat-Falasar, rei da Assíria, e tomou Aion, Abel-Bet-Maaca, Janoe, Cedes, Hasor, Galaad, Galiléia e toda a terra de Neftali e deportou seus habitantes para a Assíria.",
+      "reference": "2Rs 15:29"
+    },
+    "30": {
+      "text": "Oséias, filho de Ela, conspirou contra Facéia, filho de Romelias, feriu-o mortalmente e tornou-se rei em seu lugar. \\par",
+      "reference": "2Rs 15:30"
+    },
+    "31": {
+      "text": "O resto da história de Facéia e tudo o que ele fez está escrito no livro dos Anais dos reis de Israel. \\par",
+      "reference": "2Rs 15:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i Reinado de Joatão em Judá (740-736)\\par }No segundo ano de Facéia, filho de Romelias, rei de Israel, Joatão, filho de Ozias, tornou-se rei de Judá.",
+      "reference": "2Rs 15:32"
+    },
+    "33": {
+      "text": "Tinha vinte e cinco anos quando começou a reinar e reinou dezesseis anos em Jerusalém; sua mãe chamava-se Jerusa e era filha de Sadoc.",
+      "reference": "2Rs 15:33"
+    },
+    "34": {
+      "text": "Fez o que é agradável aos olhos de Iahweh, imitando em tudo a conduta de seu pai Ozias.",
+      "reference": "2Rs 15:34"
+    },
+    "35": {
+      "text": "Entretanto, os lugares altos não desapareceram e o povo continuou a oferecer sacrifícios e incenso nos lugares altos. \\par Foi ele que construiu a Porta Superior do Templo de Iahweh. \\par",
+      "reference": "2Rs 15:35"
+    },
+    "36": {
+      "text": "O resto da história de Joatão, tudo o que fez, não está escrito no livro dos Anais dos reis de Judá?",
+      "reference": "2Rs 15:36"
+    },
+    "37": {
+      "text": "Naqueles dias, Iahweh começou a mandar contra Judá Rason, rei de Aram, e Facéia, filho de Romelias.",
+      "reference": "2Rs 15:37"
+    },
+    "38": {
+      "text": "Joatão adormeceu com seus pais, foi sepultado na Cidade de Davi, seu pai, e seu filho Acaz tornou-se rei em seu lugar. \\par",
+      "reference": "2Rs 15:38"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 38
+}

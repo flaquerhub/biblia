@@ -1,0 +1,81 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 42,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Última resposta de Jó\\par } Jó respondeu a Iahweh: \\par",
+      "reference": "Jó 42:1"
+    },
+    "2": {
+      "text": "Reconheço que tudo podes \\par e que nenhum dos teus desígnios fica frustrado. \\par",
+      "reference": "Jó 42:2"
+    },
+    "3": {
+      "text": "Sou aquele que denegriu teus desígnios, \\par com palavras sem sentido. \\par Falei de coisas que não entendia, \\par de maravilhas que me ultrapassam. \\par",
+      "reference": "Jó 42:3"
+    },
+    "4": {
+      "text": "(Escuta-me, que vou falar; \\par interrogar-te-ei e tu me responderás.) \\par",
+      "reference": "Jó 42:4"
+    },
+    "5": {
+      "text": "Conhecia-te só de ouvido, \\par mas agora viram-te meus olhos: \\par",
+      "reference": "Jó 42:5"
+    },
+    "6": {
+      "text": "por isso, retrato-me \\par e faço penitência no pó e na cinza. \\par",
+      "reference": "Jó 42:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b {\\i V. Epílogo}\\par }{\\qc\\b\\i Iahweh repreende os três sábios\\par }Quando Iahweh acabou de dirigir a Jó essas palavras, disse a Elifaz de Temã: “Estou indignado contra ti e teus dois companheiros, porque não falastes corretamente de mim, como o fez meu servo Jó.",
+      "reference": "Jó 42:7"
+    },
+    "8": {
+      "text": "Tomai, pois, sete novilhos e sete carneiros e dirigi-vos ao meu servo Jó. Oferecei-os em holocausto, e ele intercederá por vós. Em atenção a ele, não vos tratarei como merece vossa temeridade, por não terdes falado corretamente de mim, como o fez meu servo Jó”.",
+      "reference": "Jó 42:8"
+    },
+    "9": {
+      "text": "Elifaz de Temã, Baldad de Suás e Sofar de Naamat fizeram como Iahweh lhes ordenara, e ele atendeu às orações de Jó. \\par",
+      "reference": "Jó 42:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Iahweh restaura a felicidade de Jó\\par }Então Iahweh mudou a sorte de Jó, quando intercedeu por seus companheiros, e duplicou todas as suas posses.",
+      "reference": "Jó 42:10"
+    },
+    "11": {
+      "text": "Vieram visitá-lo seus irmãos e irmãs e os antigos conhecidos; almoçaram em sua casa, consolaram-no e confortaram-no pela desgraça que Iahweh lhe tinha enviado; cada um ofereceu-lhe uma soma de dinheiro e um anel de ouro.",
+      "reference": "Jó 42:11"
+    },
+    "12": {
+      "text": "Iahweh abençoou a Jó pelo fim de sua vida mais do que no princípio; possuía agora catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas.",
+      "reference": "Jó 42:12"
+    },
+    "13": {
+      "text": "Teve sete filhos e três filhas:",
+      "reference": "Jó 42:13"
+    },
+    "14": {
+      "text": "a primeira chamava-se “Rola”, a segunda “Cássia”, e a terceira “Azeviche”.",
+      "reference": "Jó 42:14"
+    },
+    "15": {
+      "text": "Não havia em toda a terra mulheres mais belas que as filhas de Jó. Seu pai lhes repartiu heranças como a seus irmãos. \\par",
+      "reference": "Jó 42:15"
+    },
+    "16": {
+      "text": "Depois desses acontecimentos, Jó viveu cento e quarenta anos, e viu seus filhos e os filhos de seus filhos até à quarta geração.",
+      "reference": "Jó 42:16"
+    },
+    "17": {
+      "text": "E Jó morreu velho e cheio de dias. \\par",
+      "reference": "Jó 42:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

@@ -1,0 +1,101 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A paz perpétua\\par }Visão que teve Isaías, filho de Amós, a respeito de Judá e de Jerusalém. \\par",
+      "reference": "Is 2:1"
+    },
+    "2": {
+      "text": "Dias virão em que o monte da casa de Iahweh \\par será estabelecido no mais alto das montanhas \\par e se alçará acima de todos os outeiros. \\par A ele acorrerão todas as nações, \\par",
+      "reference": "Is 2:2"
+    },
+    "3": {
+      "text": "muitos povos virão, dizendo: \\par “Vinde, subamos ao monte de Iahweh, \\par à casa do Deus de Jacó, \\par para que ele nos instrua a respeito dos seus caminhos \\par e assim andemos nas suas veredas”. \\par Com efeito, de Sião sairá a Lei, \\par e de Jerusalém, a palavra de Iahweh. \\par",
+      "reference": "Is 2:3"
+    },
+    "4": {
+      "text": "Ele julgará as nações, \\par ele corrigirá a muitos povos. \\par Estes quebrarão as suas espadas, transformando-as em relhas, \\par e as suas lanças, a fim de fazerem podadeiras. \\par Uma nação não levantará a espada contra a outra, \\par e nem se aprenderá mais a fazer guerra. \\par",
+      "reference": "Is 2:4"
+    },
+    "5": {
+      "text": "Ó casa de Jacó, vinde, andemos na luz de Iahweh. \\par",
+      "reference": "Is 2:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i O esplendor da majestade de Iahweh\\par }Com efeito, tu rejeitaste o teu povo, a casa de Jacó, \\par porque ele desde tempos antigos está cheio de adivinhos, como os filisteus, \\par no seu meio há muitos filhos de estrangeiros. \\par",
+      "reference": "Is 2:6"
+    },
+    "7": {
+      "text": "A sua terra está cheia de prata e de ouro: não há fim para seus tesouros; \\par a sua terra está cheia de cavalos: não há fim para seus carros; \\par",
+      "reference": "Is 2:7"
+    },
+    "8": {
+      "text": "a sua terra está cheia de ídolos, \\par e adoram a obra das suas mãos, \\par aquilo que os seus dedos fizeram. \\par",
+      "reference": "Is 2:8"
+    },
+    "9": {
+      "text": "O homem se rebaixa, o varão se humilha: mas tu não lhes perdoes! \\par",
+      "reference": "Is 2:9"
+    },
+    "10": {
+      "text": "Busca refúgio entre as rochas, esconde-te no pó \\par diante da presença espantosa de Iahweh e diante do esplendor da sua majestade, \\par quando ele se levantar para fazer tremer a terra. \\par",
+      "reference": "Is 2:10"
+    },
+    "11": {
+      "text": "O olhar altivo do homem se abaixará, \\par a altivez do varão será humilhada; \\par naquele dia só Iahweh será exaltado. \\par",
+      "reference": "Is 2:11"
+    },
+    "12": {
+      "text": "Porque haverá um dia de Iahweh dos Exércitos \\par contra tudo o que é orgulhoso e altivo, \\par contra tudo o que se exalta, para que seja humilhado; \\par",
+      "reference": "Is 2:12"
+    },
+    "13": {
+      "text": "contra todos os cedros do Líbano, altaneiros e elevados, \\par e contra todos os carvalhos de Basã; \\par",
+      "reference": "Is 2:13"
+    },
+    "14": {
+      "text": "contra todos os montes altaneiros \\par e contra todos os outeiros elevados; \\par",
+      "reference": "Is 2:14"
+    },
+    "15": {
+      "text": "contra toda a torre alta \\par e contra toda a muralha fortificada; \\par",
+      "reference": "Is 2:15"
+    },
+    "16": {
+      "text": "contra todos os navios de Társis \\par e contra tudo o que parece precioso. \\par",
+      "reference": "Is 2:16"
+    },
+    "17": {
+      "text": "O orgulho do homem será humilhado, \\par a altivez dos varões se abaterá, \\par e só Iahweh será exaltado naquele dia. \\par",
+      "reference": "Is 2:17"
+    },
+    "18": {
+      "text": "Os ídolos desaparecerão inteiramente, \\par",
+      "reference": "Is 2:18"
+    },
+    "19": {
+      "text": "refugiar-se-ão nas cavidades das rochas \\par e nas cavernas da terra, \\par diante da presença espantosa de Iahweh e diante do esplendor de sua majestade, \\par quando ele se levantar para fazer tremer a terra. \\par",
+      "reference": "Is 2:19"
+    },
+    "20": {
+      "text": "Naquele dia, o homem atirará aos ratos e aos morcegos os ídolos de prata \\par e os ídolos de ouro que lhe fizeram para a sua adoração, \\par",
+      "reference": "Is 2:20"
+    },
+    "21": {
+      "text": "refugiando-se nas cavernas das rochas e nas fendas dos penhascos, \\par diante da presença espantosa de Iahweh e diante do esplendor de sua majestade, \\par quando ele se levantar para fazer tremer a terra. \\par",
+      "reference": "Is 2:21"
+    },
+    "22": {
+      "text": "Desisti do homem, que tem o seu fôlego no seu nariz! \\par Com efeito, que pode ele valer? \\par",
+      "reference": "Is 2:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

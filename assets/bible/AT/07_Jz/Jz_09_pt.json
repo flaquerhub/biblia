@@ -1,0 +1,241 @@
+{
+  "book": 7,
+  "book_name": "Juízes",
+  "book_abbr": "Jz",
+  "book_category": "Histórico",
+  "book_english": "Judges",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b D. A REALEZA DE ABIMELEC\\par }Abimelec, filho de Jerobaal, veio a Siquém, para junto dos irmãos de sua mãe, e lhes dirigiu estas palavras, como também a todo o clã da casa paterna de sua mãe:",
+      "reference": "Jz 9:1"
+    },
+    "2": {
+      "text": "“Dizei, peço-vos, aos homens notáveis de Siquém: Que será melhor para vós: que setenta homens, todos os filhos de Jerobaal, dominem sobre vós, ou que um só homem domine? E lembrai-vos de que eu sou osso vosso e carne vossa”.",
+      "reference": "Jz 9:2"
+    },
+    "3": {
+      "text": "Então os irmãos de sua mãe falaram a todos os homens notáveis de Siquém nos mesmos termos, e o coração deles se inclinou para Abimelec, porque diziam: “É nosso irmão!”",
+      "reference": "Jz 9:3"
+    },
+    "4": {
+      "text": "E lhe deram setenta siclos de prata do templo de Baal-Berit, e Abimelec se serviu desse dinheiro para contratar uns vadios, aventureiros, que o seguiram.",
+      "reference": "Jz 9:4"
+    },
+    "5": {
+      "text": "Veio à casa de seu pai, em Efra, e matou os seus irmãos, filhos de Jerobaal, setenta homens, sobre uma mesma pedra. Entretanto Joatão, o filho mais novo de Jerobaal, escapou porque tinha-se escondido.",
+      "reference": "Jz 9:5"
+    },
+    "6": {
+      "text": "Depois, todos os homens notáveis de Siquém e toda Bet-Melo se reuniram e proclamaram rei a Abimelec perto do carvalho da estela que está em Siquém. \\par",
+      "reference": "Jz 9:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Apólogo de Joatão\\par }Levaram a notícia a Joatão, e ele subiu ao cume do monte Garizim e lhes disse em alta voz: \\par “Homens notáveis de Siquém, ouvi-me, \\par para que Deus vos ouça! \\par",
+      "reference": "Jz 9:7"
+    },
+    "8": {
+      "text": "Um dia as árvores se puseram a caminho \\par para ungir um rei que reinasse sobre elas. \\par Disseram à oliveira: ‘Reina sobre nós!’ \\par",
+      "reference": "Jz 9:8"
+    },
+    "9": {
+      "text": "A oliveira lhes respondeu: \\par ‘Renunciaria eu ao meu azeite, \\par que tanto honra aos deuses como aos homens, \\par a fim de balançar-me por sobre as árvores?’ \\par",
+      "reference": "Jz 9:9"
+    },
+    "10": {
+      "text": "Então as árvores disseram à figueira: \\par ‘Vem tu, e reina sobre nós!’ \\par",
+      "reference": "Jz 9:10"
+    },
+    "11": {
+      "text": "A figueira lhes respondeu: \\par ‘Iria eu abandonar minha doçura \\par e o meu saboroso fruto, \\par a fim de balançar-me por sobre as árvores?’ \\par",
+      "reference": "Jz 9:11"
+    },
+    "12": {
+      "text": "As árvores disseram então à videira: \\par ‘Vem tu, e reina sobre nós!’ \\par",
+      "reference": "Jz 9:12"
+    },
+    "13": {
+      "text": "A videira lhes respondeu: \\par ‘Iria eu abandonar meu vinho novo, \\par que alegra os deuses e os homens, \\par a fim de balançar-me por sobre as árvores?’ \\par",
+      "reference": "Jz 9:13"
+    },
+    "14": {
+      "text": "Então todas as árvores disseram ao espinheiro: \\par ‘Vem tu, e reina sobre nós!’ \\par",
+      "reference": "Jz 9:14"
+    },
+    "15": {
+      "text": "E o espinheiro respondeu às árvores: \\par ‘Se é de boa fé que me ungis para reinar sobre vós, \\par vinde e abrigai-vos à minha sombra. \\par Se não, sairá fogo dos espinehiros \\par e devorará os cedros do Líbano!’ \\par",
+      "reference": "Jz 9:15"
+    },
+    "16": {
+      "text": "Assim, pois, se foi de boa fé e com lealdade que agistes quando fizestes rei a Abimelec, se procedestes bem com Jerobaal e sua casa, se o tratastes segundo mereciam os seus atos,",
+      "reference": "Jz 9:16"
+    },
+    "17": {
+      "text": "visto que meu pai lutou por vós e por vós arriscou a vida, e vos livrou das mãos de Madiã,",
+      "reference": "Jz 9:17"
+    },
+    "18": {
+      "text": "no entanto, hoje vos levantastes contra a casa de meu pai, assassinastes os seus filhos, setenta homens, sobre uma mesma pedra, e fizestes rei sobre os homens notáveis de Siquém a Abimelec, o filho de sua serva, porque é vosso irmão!",
+      "reference": "Jz 9:18"
+    },
+    "19": {
+      "text": "– se, pois, foi de boa fé e com lealdade que agistes hoje para com Jerobaal e a sua casa, então que Abimelec faça a vossa alegria e vós a sua!",
+      "reference": "Jz 9:19"
+    },
+    "20": {
+      "text": "Se não, que saia fogo de Abimelec e devore os homens notáveis de Siquém e de Bet-Melo, e que saia fogo dos homens de Siquém e de Bet-Melo para devorar Abimelec!” \\par",
+      "reference": "Jz 9:20"
+    },
+    "21": {
+      "text": "Depois, Joatão tornou a fugir e foi para Bera, onde se estabeleceu para escapar de seu irmão Abimelec. \\par",
+      "reference": "Jz 9:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Revolta dos siquemitas contra Abimelec\\par }Abimelec exerceu o poder sobre Israel durante três anos.",
+      "reference": "Jz 9:22"
+    },
+    "23": {
+      "text": "Depois, Deus enviou um espírito de discórdia entre Abimelec e os homens notáveis de Siquém, e os notáveis de Siquém traíram Abimelec.",
+      "reference": "Jz 9:23"
+    },
+    "24": {
+      "text": "Foi assim para que o crime cometido contra os setenta filhos de Jerobaal fosse vingado e o seu sangue caísse sobre Abimelec, seu irmão que os assassinara, bem como sobre os homens notáveis de Siquém que o tinham ajudado a massacrar os seus irmãos.",
+      "reference": "Jz 9:24"
+    },
+    "25": {
+      "text": "Os homens notáveis de Siquém armaram, pois, emboscadas contra ele nos altos dos montes, e assaltavam a todos os que passavam por eles no caminho, e fizeram Abimelec saber disso.",
+      "reference": "Jz 9:25"
+    },
+    "26": {
+      "text": "Gaal, filho de Obed, acompanhado de seus irmãos, passou por Siquém e ganhou a confiança dos notáveis da cidade.",
+      "reference": "Jz 9:26"
+    },
+    "27": {
+      "text": "Estes saíram ao campo para vindimar as suas vinhas, pisaram as suas uvas, promoveram festas e entraram no templo do seu deus. Aí comeram e beberam e amaldiçoaram Abimelec.",
+      "reference": "Jz 9:27"
+    },
+    "28": {
+      "text": "Então Gaal, filho de Obed, disse: “Quem é Abimelec e que é Siquém, para que fiquemos ao seu serviço? Não será ao filho de Jerobaal e a Zebul, seu oficial, que cabe servir ao povo de Hemor, pai de Siquém? Porque haveríamos de ser nós a servi-lo?",
+      "reference": "Jz 9:28"
+    },
+    "29": {
+      "text": "Encarregue-me alguém de chefiar a este povo para perseguir a Abimelec, e lhe direi: Reforça o teu exército, e ataca!”",
+      "reference": "Jz 9:29"
+    },
+    "30": {
+      "text": "Então Zebul, governador da cidade, ouvindo as palavras de Gaal, filho de Obed, se encheu de ira.",
+      "reference": "Jz 9:30"
+    },
+    "31": {
+      "text": "Mandou secretamente mensageiros a Abimelec para dizer: “Eis que Gaal, filho de Obed, veio com seus irmãos a Siquém e sublevam a cidade contra ti.",
+      "reference": "Jz 9:31"
+    },
+    "32": {
+      "text": "Levanta-te, pois, de noite, tu e as pessoas que estão contigo, e arma emboscada no campo;",
+      "reference": "Jz 9:32"
+    },
+    "33": {
+      "text": "de manhã, ao sair do sol, aparece e investe contra a cidade. Quando Gaal e os que estão com ele saírem ao teu encontro, tratá-los-ás como puderes”.",
+      "reference": "Jz 9:33"
+    },
+    "34": {
+      "text": "Abimelec pôs-se, então, a caminho de noite, com todas as pessoas que estavam com ele, e se emboscaram em quatro grupos perto de Siquém.",
+      "reference": "Jz 9:34"
+    },
+    "35": {
+      "text": "Gaal, filho de Obed, saiu e parou à entrada da porta da cidade, e Abimelec e os que com ele estavam surgiram da sua emboscada.",
+      "reference": "Jz 9:35"
+    },
+    "36": {
+      "text": "Vendo aquela gente, Gaal disse a Zebul: “Eis que desce gente do cume dos montes”. – “O que vês é a sombra dos montes”, respondeu-lhe Zebul, “e a tomas por homens”.",
+      "reference": "Jz 9:36"
+    },
+    "37": {
+      "text": "Gaal falou outra vez, e disse: “Eis que descem homens do lado do Umbigo da Terra, e outro grupo se aproxima vindo pelo caminho do Carvalho dos Adivinhos”.",
+      "reference": "Jz 9:37"
+    },
+    "38": {
+      "text": "Disse-lhe então Zebul: “Que fizeste da tua língua, com a qual dizias: ‘Quem é Abimelec para que fiquemos ao seu serviço?’ Não é essa a gente que desprezaste! Sai, pois, agora e peleja contra ela”.",
+      "reference": "Jz 9:38"
+    },
+    "39": {
+      "text": "Então Gaal saiu à frente dos homens notáveis de Siquém e deu combate a Abimelec.",
+      "reference": "Jz 9:39"
+    },
+    "40": {
+      "text": "Mas Abimelec o perseguiu, pois fugira, e muitos tombaram mortos antes que alcançassem a porta.",
+      "reference": "Jz 9:40"
+    },
+    "41": {
+      "text": "Abimelec ficou em Aruma, e Zebul, perseguindo a Gaal e seus irmãos, impediu-lhes que habitassem em Siquém. \\par",
+      "reference": "Jz 9:41"
+    },
+    "42": {
+      "text": "\\par {\\qc\\b\\i Destruição de Siquém e tomada de Magdol-Siquém\\par }No dia seguinte, o povo saiu para fora das muralhas, e Abimelec foi informado disso.",
+      "reference": "Jz 9:42"
+    },
+    "43": {
+      "text": "Tomou a sua gente, dividiu-a em três grupos e se pôs em emboscada pelos campos. Assim que viu o povo saindo da cidade, levantou-se contra eles e os destruiu.",
+      "reference": "Jz 9:43"
+    },
+    "44": {
+      "text": "Enquanto Abimelec e o grupo que estava com ele se atiraram e tomaram posição à entrada da porta da cidade, os outros dois grupos fizeram o mesmo contra os que estavam no campo, e os massacraram.",
+      "reference": "Jz 9:44"
+    },
+    "45": {
+      "text": "Abimelec atacou a cidade o dia inteiro. Depois de tomá-la, massacrou seus habitantes, destruiu a cidade e espalhou sal sobre ela.",
+      "reference": "Jz 9:45"
+    },
+    "46": {
+      "text": "Ouvindo isso, todos os homens notáveis de Magdol-Siquém entraram na cripta do templo de El-Berit.",
+      "reference": "Jz 9:46"
+    },
+    "47": {
+      "text": "Logo que Abimelec teve conhecimento de que todos os homens notáveis de Magdol-Siquém se haviam congregado,",
+      "reference": "Jz 9:47"
+    },
+    "48": {
+      "text": "subiu ao monte Selmon, ele e todo o seu bando. Tomou nas mãos um machado, cortou um galho de árvore que ele levantou e colocou sobre o ombro, dizendo aos que o acompanhavam: “Como me vistes fazer, fazei-o depressa vós também”.",
+      "reference": "Jz 9:48"
+    },
+    "49": {
+      "text": "Todos os seus homens cortaram cada qual o seu galho, e seguiram a Abimelec. Amontoaram os galhos sobre a cripta e os queimaram sobre os que ali se haviam escondido. Todos os habitantes de Magdol-Siquém pereceram, cerca de mil, entre homens e mulheres. \\par",
+      "reference": "Jz 9:49"
+    },
+    "50": {
+      "text": "\\par {\\qc\\b\\i Cerco de Tebes e morte de Abimelec\\par }Depois Abimelec avançou sobre Tebes, cercou-a e tomou-a.",
+      "reference": "Jz 9:50"
+    },
+    "51": {
+      "text": "Havia no centro da cidade, uma torre fortificada, onde se refugiaram todos os homens e mulheres e todos os notáveis da cidade. Tendo fechado a porta atrás de si, subiram ao terraço da torre.",
+      "reference": "Jz 9:51"
+    },
+    "52": {
+      "text": "Abimelec aproximou-se da torre e a atacou. Ao chegar perto da porta da torre para lhe atear fogo,",
+      "reference": "Jz 9:52"
+    },
+    "53": {
+      "text": "uma mulher atirou-lhe uma mó de moinho sobre a cabeça e lhe quebrou o crânio.",
+      "reference": "Jz 9:53"
+    },
+    "54": {
+      "text": "Então ele chamou logo o moço que lhe carregava as armas e lhe disse: “Toma a tua espada e mata-me, para que não se diga de mim: Foi uma mulher que o matou”. O seu escudeiro traspassou-o, e ele morreu.",
+      "reference": "Jz 9:54"
+    },
+    "55": {
+      "text": "Quando os homens de Israel viram que Abimelec estava morto, foram-se cada um para sua casa. \\par",
+      "reference": "Jz 9:55"
+    },
+    "56": {
+      "text": "Assim Deus fez recair sobre Abimelec o mal que ele tinha feito a seu pai degolando os seus setenta irmãos.",
+      "reference": "Jz 9:56"
+    },
+    "57": {
+      "text": "E assim Deus fez também recair sobre a cabeça dos habitantes de Siquém toda a maldade deles. Desse modo, cumpriu-se sobre eles a maldição de Joatão, filho de Jerobaal. \\par",
+      "reference": "Jz 9:57"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 57
+}

@@ -1,0 +1,173 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 4. PRESCRIÇÕES REFERENTES À CONSTRUÇÃO\\par DO SANTUÁRIO E AOS SEUS MINISTROS\\par }{\\qc\\b\\i A contribuição para o santuário\\par }Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 25:1"
+    },
+    "2": {
+      "text": "“Dize aos filhos de Israel que me tragam uma contribuição. Tomareis a contribuição de todo homem cujo coração o mover a isso.",
+      "reference": "Ex 25:2"
+    },
+    "3": {
+      "text": "Eis a contribuição que recebereis deles: ouro, prata e bronze;",
+      "reference": "Ex 25:3"
+    },
+    "4": {
+      "text": "púrpura violeta e escarlate, carmesim, linho fino e pêlos de cabra;",
+      "reference": "Ex 25:4"
+    },
+    "5": {
+      "text": "peles de carneiro tingidas de vermelho, couro fino, e madeira de acácia;",
+      "reference": "Ex 25:5"
+    },
+    "6": {
+      "text": "azeite para a lâmpada, aromas para o óleo de unção e para o incenso aromático;",
+      "reference": "Ex 25:6"
+    },
+    "7": {
+      "text": "pedras de ônix, e pedras de engaste, para o efod e para o peitoral.",
+      "reference": "Ex 25:7"
+    },
+    "8": {
+      "text": "Faze-me um santuário, para que eu possa habitar no meio deles.",
+      "reference": "Ex 25:8"
+    },
+    "9": {
+      "text": "Farás tudo conforme o modelo da Habitação e o modelo da sua mobília que irei te mostrar. \\par",
+      "reference": "Ex 25:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i A Tenda e sua mobília. A Arca\\par }Farás uma arca de madeira de acácia com dois côvados e meio de comprimento, um côvado e meio de largura e um côvado e meio de altura.",
+      "reference": "Ex 25:10"
+    },
+    "11": {
+      "text": "Tu a cobrirás de ouro puro por dentro e por fora, e farás sobre ela uma moldura de ouro ao redor.",
+      "reference": "Ex 25:11"
+    },
+    "12": {
+      "text": "Fundirás para ela quatro argolas de ouro, que porás nos quatro cantos inferiores da arca: duas argolas de um lado e duas argolas do outro.",
+      "reference": "Ex 25:12"
+    },
+    "13": {
+      "text": "Farás também varais de madeira de acácia, e os cobrirás de ouro.",
+      "reference": "Ex 25:13"
+    },
+    "14": {
+      "text": "E enfiarás os varais nas argolas aos lados da arca, para ser carregada por meio deles.",
+      "reference": "Ex 25:14"
+    },
+    "15": {
+      "text": "Os varais ficarão nas argolas da arca, não serão tirados dela.",
+      "reference": "Ex 25:15"
+    },
+    "16": {
+      "text": "E colocarás na arca o Testemunho que te darei. \\par",
+      "reference": "Ex 25:16"
+    },
+    "17": {
+      "text": "Farás também um propiciatório de ouro puro, com dois côvados e meio de comprimento e um côvado e meio de largura.",
+      "reference": "Ex 25:17"
+    },
+    "18": {
+      "text": "Farás dois querubins de ouro, de ouro batido os farás, nas duas extremidades do propiciatório;",
+      "reference": "Ex 25:18"
+    },
+    "19": {
+      "text": "faze-me um dos querubins numa extremidade e o outro na outra: farás os querubins formando um só corpo com o propiciatório, nas duas extremidades.",
+      "reference": "Ex 25:19"
+    },
+    "20": {
+      "text": "Os querubins terão as asas estendidas para cima e protegerão o propiciatório com suas asas, um voltado para o outro. As faces dos querubins estarão voltadas para o propiciatório.",
+      "reference": "Ex 25:20"
+    },
+    "21": {
+      "text": "Porás o propiciatório em cima da arca; e dentro dela porás o Testemunho que te darei.",
+      "reference": "Ex 25:21"
+    },
+    "22": {
+      "text": "Ali virei a ti, e, de cima do propiciatório, do meio dos dois querubins que estão sobre a arca do Testemunho, falarei contigo acerca de tudo o que eu te ordenar para os filhos de Israel. \\par",
+      "reference": "Ex 25:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i A mesa dos pães da oblação\\par }Farás uma mesa de madeira de acácia, com dois côvados de comprimento, um côvado de largura e um côvado e meio de altura.",
+      "reference": "Ex 25:23"
+    },
+    "24": {
+      "text": "De ouro puro a cobrirás, e lhe farás uma moldura de ouro ao redor.",
+      "reference": "Ex 25:24"
+    },
+    "25": {
+      "text": "Far-lhe-ás ao redor um enquadramento com um palmo de largura, e ao redor do enquadramento uma moldura de ouro.",
+      "reference": "Ex 25:25"
+    },
+    "26": {
+      "text": "Far-lhe-ás também quatro argolas de ouro, e as porás nos quatro cantos formados pelos quatro pés.",
+      "reference": "Ex 25:26"
+    },
+    "27": {
+      "text": "Perto das molduras estarão as argolas, por onde passarão os varais para se carregar a mesa.",
+      "reference": "Ex 25:27"
+    },
+    "28": {
+      "text": "Farás, pois, os varais de madeira de acácia, e os cobrirás de ouro; por meio deles se carregará a mesa.",
+      "reference": "Ex 25:28"
+    },
+    "29": {
+      "text": "Farás os seus pratos, as suas taças, as suas galhetas e os seus recipientes para as libações; de ouro puro os farás.",
+      "reference": "Ex 25:29"
+    },
+    "30": {
+      "text": "E colocarás para sempre sobre a mesa, diante de mim, os pães da oblação. \\par",
+      "reference": "Ex 25:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i O candelabro\\par }Farás um candelabro de ouro puro; o candelabro, o seu pedestal e a sua haste serão em relevo; os seus cálices, os seus botões e flores formarão com ele uma só peça.",
+      "reference": "Ex 25:31"
+    },
+    "32": {
+      "text": "Seis braços sairão dos seus lados: três braços do candelabro de um lado e três braços do candelabro do outro lado.",
+      "reference": "Ex 25:32"
+    },
+    "33": {
+      "text": "Num braço haverá três cálices com formato de flor de amêndoa, com botão e flor; e três cálices com formato de flor de amêndoa no outro braço, com botão e flor; assim serão os seis braços saindo do candelabro.",
+      "reference": "Ex 25:33"
+    },
+    "34": {
+      "text": "Mas o candelabro mesmo terá quatro cálices com formato de flor de amêndoa, com botão e flor:",
+      "reference": "Ex 25:34"
+    },
+    "35": {
+      "text": "um botão sob os dois primeiros braços que saem do candelabro, um botão sob os dois braços seguintes e um botão sob os últimos dois braços – assim se fará com estes seis braços que saem do candelabro.",
+      "reference": "Ex 25:35"
+    },
+    "36": {
+      "text": "Os botões e os braços formarão uma só peça com o candelabro e tudo se fará com um bloco de ouro batido.",
+      "reference": "Ex 25:36"
+    },
+    "37": {
+      "text": "Far-lhe-ás também sete lâmpadas. As lâmpadas serão elevadas de tal modo que alumiem defronte dele.",
+      "reference": "Ex 25:37"
+    },
+    "38": {
+      "text": "As suas espevitadeiras e os seus aparadores serão de ouro puro.",
+      "reference": "Ex 25:38"
+    },
+    "39": {
+      "text": "Com um talento de ouro puro tu o farás e todos os seus acessórios.",
+      "reference": "Ex 25:39"
+    },
+    "40": {
+      "text": "Vê, pois, e faze tudo conforme o modelo que te foi mostrado sobre a montanha. \\par",
+      "reference": "Ex 25:40"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 40
+}

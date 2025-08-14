@@ -1,0 +1,41 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 53,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 53 (52)\\par }{\\qc\\b\\i O homem sem Deus\\par }{\\qc\\i Do mestre de canto. Para a doença. De Davi.\\par }",
+      "reference": "Sl 53:1"
+    },
+    "2": {
+      "text": "Diz o insensato no seu coração: \\par “Deus não existe!” \\par São corrompidos, abomináveis, depravados: \\par não há um que faça o bem. \\par",
+      "reference": "Sl 53:2"
+    },
+    "3": {
+      "text": "Do céu Deus se inclina \\par sobre os filhos de Adão, \\par para ver se há um sensato, \\par alguém que busque a Deus. \\par",
+      "reference": "Sl 53:3"
+    },
+    "4": {
+      "text": "Estão todos desviados \\par e obstinados também: \\par não há um que faça o bem, \\par não há um, sequer. \\par",
+      "reference": "Sl 53:4"
+    },
+    "5": {
+      "text": "Não sabem os malfeitores \\par que devoram meu povo, \\par como se comessem pão, \\par e não invocam a Deus? \\par",
+      "reference": "Sl 53:5"
+    },
+    "6": {
+      "text": "Eles tremerão de medo lá, \\par sem motivo para medo. \\par Pois Deus dispersa os ossos de quem te sitia, \\par tu os envergonhas, pois Deus os rejeita. \\par",
+      "reference": "Sl 53:6"
+    },
+    "7": {
+      "text": "Quem trará de Sião a vitória para Israel? \\par Quando Iahweh mudar a sorte do seu povo, \\par Jacó exultará e Israel se alegrará. \\par",
+      "reference": "Sl 53:7"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 7
+}

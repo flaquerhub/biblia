@@ -1,0 +1,77 @@
+{
+  "book": 30,
+  "book_name": "Amós",
+  "book_abbr": "Am",
+  "book_category": "Profético",
+  "book_english": "Amos",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Moab\\par }Assim falou Iahweh: \\par Pelos três crimes de Moab, \\par pelos quatro, não o revogarei! \\par Porque queimou os ossos do rei de Edom até calciná-los, \\par",
+      "reference": "Am 2:1"
+    },
+    "2": {
+      "text": "enviarei fogo contra Moab, \\par e ele devorará os palácios de Cariot. \\par Então, morrerá Moab em meio ao barulho, \\par em meio ao grito de guerra, ao som da trombeta. \\par",
+      "reference": "Am 2:2"
+    },
+    "3": {
+      "text": "Exterminarei o juiz de seu meio, \\par e com ele matarei todos os seus príncipes, \\par disse Iahweh. \\par",
+      "reference": "Am 2:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Judá\\par }Assim falou Iahweh: \\par Pelos três crimes de Judá, \\par pelos quatro, não o revogarei! \\par Porque desprezaram a lei de Iahweh \\par e não guardaram os seus decretos, \\par suas Mentiras os seduziram, \\par aquelas atrás das quais os seus pais correram, \\par",
+      "reference": "Am 2:4"
+    },
+    "5": {
+      "text": "enviarei fogo contra Judá, \\par e ele devorará os palácios de Jerusalém. \\par",
+      "reference": "Am 2:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Israel\\par }Assim falou Iahweh: \\par Pelos três crimes de Israel, \\par pelos quatro, não o revogarei! \\par Porque vendem o justo por prata \\par e o indigente por um par de sandálias. \\par",
+      "reference": "Am 2:6"
+    },
+    "7": {
+      "text": "Eles esmagam sobre o pó da terra a cabeça dos fracos \\par e tornam torto o caminho dos pobres; \\par um homem e seu pai vão à mesma jovem \\par para profanar o meu santo nome. \\par",
+      "reference": "Am 2:7"
+    },
+    "8": {
+      "text": "Eles se estendem sobre vestes penhoradas, \\par ao lado de qualquer altar, \\par e bebem vinho daqueles que estão sujeitos a multas, \\par na casa de seu deus. \\par",
+      "reference": "Am 2:8"
+    },
+    "9": {
+      "text": "Mas eu destruíra diante deles o amorreu, \\par cuja altura era como a altura dos cedros, \\par e que era forte como os carvalhos! \\par Destruí seu fruto por cima, \\par e suas raízes por baixo! \\par",
+      "reference": "Am 2:9"
+    },
+    "10": {
+      "text": "E eu vos fiz subir da terra do Egito \\par e vos conduzi pelo deserto, durante quarenta anos, \\par para tomar posse da terra do amorreu! \\par",
+      "reference": "Am 2:10"
+    },
+    "11": {
+      "text": "Suscitei de vossos filhos, profetas, \\par e de vossos jovens, nazireus! \\par Não foi, realmente, assim, filhos de Israel? \\par Oráculo de Iahweh. \\par",
+      "reference": "Am 2:11"
+    },
+    "12": {
+      "text": "Mas vós fizestes os nazireus beber vinho \\par e ordenaste aos profetas: \\par “Não profetizeis!” \\par",
+      "reference": "Am 2:12"
+    },
+    "13": {
+      "text": "Eis que vou abrir o chão debaixo de vós, \\par como abre o chão o carro cheio de feixes! \\par",
+      "reference": "Am 2:13"
+    },
+    "14": {
+      "text": "A fuga será impossível ao ágil, \\par o homem forte não empregará a sua força \\par e o herói não salvará a sua vida. \\par",
+      "reference": "Am 2:14"
+    },
+    "15": {
+      "text": "Aquele que maneja o arco não ficará de pé, \\par o homem ágil não se salvará com os seus pés, \\par o cavaleiro não salvará a sua vida, \\par",
+      "reference": "Am 2:15"
+    },
+    "16": {
+      "text": "e o mais corajoso entre os heróis \\par fugirá nu, naquele dia, \\par oráculo de Iahweh. \\par",
+      "reference": "Am 2:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

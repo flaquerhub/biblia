@@ -1,0 +1,77 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "Meu espírito está quebrantado em mim, \\par e os coveiros se ajuntam para mim. \\par",
+      "reference": "Jó 17:1"
+    },
+    "2": {
+      "text": "Só as zombarias me acompanham, \\par sobre sua hostilidade pousam meus olhos. \\par",
+      "reference": "Jó 17:2"
+    },
+    "3": {
+      "text": "Guarda contigo uma fiança em meu favor, \\par pois quem, senão tu, me apertará a mão? \\par",
+      "reference": "Jó 17:3"
+    },
+    "4": {
+      "text": "Fechaste-lhes a mente à razão \\par e mão alguma se levanta. \\par",
+      "reference": "Jó 17:4"
+    },
+    "5": {
+      "text": "Como aquele que convida amigos à partilha, \\par quando os olhos de seus filhos enlanguescem, \\par",
+      "reference": "Jó 17:5"
+    },
+    "6": {
+      "text": "tornei-me objeto de sátira entre o povo, \\par alguém sobre o qual se cospe no rosto. \\par",
+      "reference": "Jó 17:6"
+    },
+    "7": {
+      "text": "Meus olhos se consomem irritados \\par e meus membros definham como sombras: \\par",
+      "reference": "Jó 17:7"
+    },
+    "8": {
+      "text": "os justos assombram-se ao vê-lo, \\par e o inocente indigna-se contra o ímpio; \\par",
+      "reference": "Jó 17:8"
+    },
+    "9": {
+      "text": "o justo, porém, persiste em seu caminho, \\par e o homem de mãos puras cresce em fortaleza. \\par",
+      "reference": "Jó 17:9"
+    },
+    "10": {
+      "text": "Entretanto, voltai-vos todos, vinde: \\par não acharei sequer um sábio entre vós! \\par",
+      "reference": "Jó 17:10"
+    },
+    "11": {
+      "text": "Passaram-se meus dias, com meus projetos, \\par as fibras de meu coração se romperam.\\par",
+      "reference": "Jó 17:11"
+    },
+    "12": {
+      "text": "Querem fazer da noite, dia; \\par estaria perto a luz que afugenta as trevas. \\par",
+      "reference": "Jó 17:12"
+    },
+    "13": {
+      "text": "Ora, minha esperança é habitar no Xeol \\par e preparar minha cama nas trevas. \\par",
+      "reference": "Jó 17:13"
+    },
+    "14": {
+      "text": "Digo à cova: “Tu és meu pai!”, \\par ao verme: “Tu és minha mãe e minha irmã!” \\par",
+      "reference": "Jó 17:14"
+    },
+    "15": {
+      "text": "Pois onde, onde então, está minha esperança? \\par Minha felicidade, quem a viu? \\par",
+      "reference": "Jó 17:15"
+    },
+    "16": {
+      "text": "Descerão comigo ao Xeol, \\par baixaremos juntos ao pó? \\par",
+      "reference": "Jó 17:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

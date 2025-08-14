@@ -1,0 +1,197 @@
+{
+  "book": 11,
+  "book_name": "1Reis",
+  "book_abbr": "1Rs",
+  "book_category": "Histórico",
+  "book_english": "1 Kings",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Testamento e morte de Davi\\par }Aproximando-se o fim de sua vida, Davi ordenou a seu filho Salomão:",
+      "reference": "1Rs 2:1"
+    },
+    "2": {
+      "text": "“Vou seguir o caminho de todos. Sê forte e porta-te varonilmente.",
+      "reference": "1Rs 2:2"
+    },
+    "3": {
+      "text": "Guardarás as ordens de Iahweh teu Deus, andando em seus caminhos, observando seus estatutos, seus mandamentos, suas normas e seus testemunhos conforme estão escritos na lei de Moisés, a fim de seres bem sucedido em tudo quanto empreenderes e em todos os teus projetos.",
+      "reference": "1Rs 2:3"
+    },
+    "4": {
+      "text": "Para que Iahweh cumpra a promessa que me fez, dizendo: ‘Se os teus filhos conservarem boa conduta, caminhando com lealdade diante de mim, de todo o seu coração e de toda a sua alma, jamais te faltará alguém no trono de Israel’.",
+      "reference": "1Rs 2:4"
+    },
+    "5": {
+      "text": "Sabes também o que me fez Joab, filho de Sárvia, o que ele fez aos dois chefes do exército de Israel, Abner, filho de Ner, e Amasa, filho de Jeter, aos quais matou, vingando em tempo de paz o sangue derramado na guerra e manchando de sangue inocente o cinturão dos meus rins e a sandália de meus pés;",
+      "reference": "1Rs 2:5"
+    },
+    "6": {
+      "text": "agirás com acerto não deixando que seus cabelos brancos desçam em paz ao Xeol.",
+      "reference": "1Rs 2:6"
+    },
+    "7": {
+      "text": "Aos filhos de Berzelai, o galaadita, porém, tu os tratarás com bondade e eles estarão entre os que comem à tua mesa, pois tal foi o auxílio que me prestaram quando eu fugia diante de teu irmão Absalão.",
+      "reference": "1Rs 2:7"
+    },
+    "8": {
+      "text": "Tens contigo Semei, filho de Gera, o benjaminita de Baurim, que me amaldiçoou violentamente no dia em que parti para Maanaim; mas como ele desceu para me encontrar no Jordão, jurei-lhe por Iahweh que eu não o mataria pela espada.",
+      "reference": "1Rs 2:8"
+    },
+    "9": {
+      "text": "Tu, porém, não o deixarás impune; sensato como és, saberás como tratá-lo para fazer descer ao Xeol com sangue seus cabelos brancos”. \\par",
+      "reference": "1Rs 2:9"
+    },
+    "10": {
+      "text": "E Davi adormeceu com seus pais e foi sepultado na Cidade de Davi.",
+      "reference": "1Rs 2:10"
+    },
+    "11": {
+      "text": "O reinado de Davi sobre Israel durou quarenta anos: em Hebron reinou sete anos, em Jerusalém, trinta e três. \\par",
+      "reference": "1Rs 2:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Morte de Adonias\\par }Salomão subiu ao trono de Davi se pai e seu poder consolidou-se fortemente.",
+      "reference": "1Rs 2:12"
+    },
+    "13": {
+      "text": "Adonias, filho de Hagit, foi ter com Betsabéia, mãe de Salomão. Ela perguntou: “É pacífica a tua visita?” Ele respondeu: “Sim”.",
+      "reference": "1Rs 2:13"
+    },
+    "14": {
+      "text": "E disse: “Tenho algo a te dizer”. Ela respondeu: “Fala”.",
+      "reference": "1Rs 2:14"
+    },
+    "15": {
+      "text": "E ele: “Bem sabes que a realeza me pertencia e que todo o Israel esperava que eu me tornasse rei, mas a realeza me escapou e foi dada a meu irmão, porque Iahweh lha havia destinado.",
+      "reference": "1Rs 2:15"
+    },
+    "16": {
+      "text": "Agora, só tenho um pedido a fazer-te, não me recuses”. Ela respondeu: “Fala”.",
+      "reference": "1Rs 2:16"
+    },
+    "17": {
+      "text": "E ele: “Dize, eu te peço, ao rei Salomão (pois ele nada te negará) que me dê Abisag de Sunam como esposa”.",
+      "reference": "1Rs 2:17"
+    },
+    "18": {
+      "text": "“Está bem”, respondeu Betsabéia, “eu falarei ao rei em teu favor”.",
+      "reference": "1Rs 2:18"
+    },
+    "19": {
+      "text": "Betsabéia foi, pois, à presença do rei Salomão para lhe falar de Adonias e o rei se ergueu para ir ao seu encontro e se prostrou diante dela; depois sentou-se no trono e mandou colocar um assento para a mãe do rei e ela sentou-se à sua direita.",
+      "reference": "1Rs 2:19"
+    },
+    "20": {
+      "text": "Disse ela: “Tenho um pequeno pedido para te fazer, não mo negues”. O rei lhe respondeu: “Pede, minha mãe, que não to negarei”.",
+      "reference": "1Rs 2:20"
+    },
+    "21": {
+      "text": "Ela respondeu: “Que se dê Abisag de Sunam como esposa a teu irmão Adonias”.",
+      "reference": "1Rs 2:21"
+    },
+    "22": {
+      "text": "Em resposta, o rei Salomão disse à sua mãe: “E por que pedes para Adonias Abisag de Sunam? Pede também para ele a realeza! Pois ele é meu irmão mais velho e já tem de seu lado o sacerdote Abiatar e Joab, filho de Sárvia!”",
+      "reference": "1Rs 2:22"
+    },
+    "23": {
+      "text": "E o rei Salomão jurou por Iahweh, dizendo: “Que Deus me faça este mal e mande mais algum outro, se Adonias não pagar com a própria vida esta palavra que pronunciou!",
+      "reference": "1Rs 2:23"
+    },
+    "24": {
+      "text": "Pois bem, pela vida de Iahweh, que me confirmou e me fez sentar no trono de Davi, meu pai, e que lhe deu uma casa como prometera, hoje mesmo Adonias será morto”.",
+      "reference": "1Rs 2:24"
+    },
+    "25": {
+      "text": "E o rei Salomão encarregou disso a Banaías, filho de Joiada, que o feriu e ele morreu. \\par",
+      "reference": "1Rs 2:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i O destino de Abiatar e de Joab\\par }Ao sacerdote Abiatar, o rei disse: “Vai para Anatot, para a tua propriedade, porque és digno de morte, mas não te farei morrer hoje, porque carregaste a Arca de Iahweh diante de Davi, meu pai, e compartilhaste todas as provações de meu pai”.",
+      "reference": "1Rs 2:26"
+    },
+    "27": {
+      "text": "E Salomão excluiu Abiatar do sacerdócio de Iahweh, cumprindo-se assim a palavra que Iahweh tinha pronunciado contra a casa de Eli em Silo. \\par",
+      "reference": "1Rs 2:27"
+    },
+    "28": {
+      "text": "Quando esta notícia chegou a Joab – que tinha apoiado Adonias, embora não tivesse apoiado Absalão – ele se refugiou na Tenda de Iahweh e se agarrou aos chifres do altar.",
+      "reference": "1Rs 2:28"
+    },
+    "29": {
+      "text": "Comunicaram ao rei Salomão: “Joab se refugiou na Tenda de Iahweh e se acha junto do altar”. Então Salomão mandou dizer a Joab: “Que há contigo, para te refugiares junto do altar?” Joab respondeu: “Tive medo de ti e me refugiei junto de Iahweh”. Então Salomão mandou Banaías, filho de Joiada, dizendo-lhe: “Vai e mata-o!”",
+      "reference": "1Rs 2:29"
+    },
+    "30": {
+      "text": "Banaías foi à Tenda de Iahweh e disse-lhe: “O rei ordena: ‘Sai!’” “Não”, respondeu ele, “eu morrerei aqui”. Banaías levou a resposta ao rei: “Eis o que Joab disse e o que me respondeu”.",
+      "reference": "1Rs 2:30"
+    },
+    "31": {
+      "text": "O rei lhe disse: “Faze como ele disse, mata-o e depois sepulta-o. Assim tirarás hoje de cima de mim e de cima da casa de meu pai o sangue inocente que Joab derramou.",
+      "reference": "1Rs 2:31"
+    },
+    "32": {
+      "text": "Iahweh fará recair seu sangue sobre a cabeça dele, porque ele atacou e matou à espada dois homens mais justos e melhores do que ele, sem que meu pai Davi o soubesse: Abner, filho de Ner, chefe do exército de Israel, e Amasa, filho de Jeter, chefe do exército de Judá.",
+      "reference": "1Rs 2:32"
+    },
+    "33": {
+      "text": "Recaia, pois, o sangue deles sobre a cabeça de Joab e de sua descendência para sempre, mas que Davi e sua descendência, sua casa e seu trono gozem sempre de paz da parte de Iahweh!”",
+      "reference": "1Rs 2:33"
+    },
+    "34": {
+      "text": "Banaías, filho de Joiada, partiu, feriu Joab e o matou, enterrando-o depois em sua casa, no deserto.",
+      "reference": "1Rs 2:34"
+    },
+    "35": {
+      "text": "Em seu lugar, na chefia do exército, o rei colocou Banaías, filho de Joiada; e em lugar de Abiatar colocou o sacerdote Sadoc. \\par",
+      "reference": "1Rs 2:35"
+    },
+    "36": {
+      "text": "\\par {\\qc\\b\\i Desobediência e morte de Semei\\par }O rei mandou chamar Semei e lhe disse: “Constrói para ti uma casa em Jerusalém: nela habitarás, mas dela não sairás para onde quer que seja.",
+      "reference": "1Rs 2:36"
+    },
+    "37": {
+      "text": "No dia em que saíres e atravessares a torrente do Cedron, tem por certo que morrerás indubitavelmente. Teu sangue recairá sobre a tua cabeça”.",
+      "reference": "1Rs 2:37"
+    },
+    "38": {
+      "text": "Semei respondeu ao rei: “Está bem, teu servo fará como o senhor meu rei ordenou”; e Semei permaneceu por muito tempo em Jerusalém. \\par",
+      "reference": "1Rs 2:38"
+    },
+    "39": {
+      "text": "Mas, decorridos três anos, aconteceu que dois escravos de Semei fugiram para junto de Aquis, filho de Maaca, rei de Gat. E avisaram Semei: “Teus escravos estão em Gat”.",
+      "reference": "1Rs 2:39"
+    },
+    "40": {
+      "text": "Então Semei preparou-se, selou seu jumento e partiu para Gat, à casa de Aquis, a fim de procurar seus escravos; Semei foi e trouxe de Gat seus escravos.",
+      "reference": "1Rs 2:40"
+    },
+    "41": {
+      "text": "Informaram a Salomão que Semei tinha viajado de Jerusalém a Gat e que tinha regressado. \\par",
+      "reference": "1Rs 2:41"
+    },
+    "42": {
+      "text": "O rei mandou chamar Semei e disse-lhe: “Porventura não te fiz jurar por Iahweh e não te avisei, dizendo: ‘No dia em que saíres para ir aonde quer que seja, tem por certo que indubitavelmente morrerás’? E tu me respondeste: ‘Acho boa a palavra que ouvi’.",
+      "reference": "1Rs 2:42"
+    },
+    "43": {
+      "text": "Por que então não observaste o juramento de Iahweh e a ordem que eu te havia dado?”",
+      "reference": "1Rs 2:43"
+    },
+    "44": {
+      "text": "Depois o rei disse a Semei: “Bem conheces todo o mal que fizeste a meu pai Davi; Iahweh vai fazer recair tua maldade sobre tua própria cabeça.",
+      "reference": "1Rs 2:44"
+    },
+    "45": {
+      "text": "Mas bendito seja o rei Salomão e que o trono de Davi permaneça diante de Iahweh para sempre!”",
+      "reference": "1Rs 2:45"
+    },
+    "46": {
+      "text": "O rei deu ordens a Banaías, filho de Joiada, o qual saiu e feriu Semei, e este morreu. \\par E a realeza então consolidou-se nas mãos de Salomão. \\par",
+      "reference": "1Rs 2:46"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 46
+}

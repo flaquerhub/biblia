@@ -1,0 +1,81 @@
+{
+  "book": 55,
+  "book_name": "2Timóteo",
+  "book_abbr": "2Tm",
+  "book_category": "Epístolas Pastorais",
+  "book_english": "2 Timothy",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Advertência contra os perigos dos últimos tempos\\par }Sabe, porém, o seguinte: nos últimos dias sobrevirão momentos difíceis.",
+      "reference": "2Tm 3:1"
+    },
+    "2": {
+      "text": "Os homens serão egoístas, gananciosos, jactanciosos, soberbos, blasfemos, rebeldes com os pais, ingratos, iníquos,",
+      "reference": "2Tm 3:2"
+    },
+    "3": {
+      "text": "sem afeto, implacáveis, mentirosos, incontinentes, cruéis, inimigos do bem,",
+      "reference": "2Tm 3:3"
+    },
+    "4": {
+      "text": "traidores, atrevidos, enfatuados, mais amigos dos prazeres do que de Deus;",
+      "reference": "2Tm 3:4"
+    },
+    "5": {
+      "text": "guardarão as aparências da piedade, negando-lhe, entretanto, o poder. Afasta-te também destes. \\par",
+      "reference": "2Tm 3:5"
+    },
+    "6": {
+      "text": "Entre estes se encontram os que se introduzem nas casas e conseguem cativar mulherzinhas carregadas de pecados, possuídas de toda sorte de desejos,",
+      "reference": "2Tm 3:6"
+    },
+    "7": {
+      "text": "sempre aprendendo, mas sem jamais poder atingir o conhecimento da verdade.",
+      "reference": "2Tm 3:7"
+    },
+    "8": {
+      "text": "Do mesmo modo como Janes e Jambres se opuseram a Moisés, assim também estes se opõem à verdade; são homens de espírito corrupto, de fé inconsistente.",
+      "reference": "2Tm 3:8"
+    },
+    "9": {
+      "text": "Mas eles não irão muito adiante, pois a sua loucura será manifesta a todos, como o foi a daqueles. \\par",
+      "reference": "2Tm 3:9"
+    },
+    "10": {
+      "text": "Tu, porém, me tens seguido de perto no ensino, na conduta, nos projetos, na fé, na longanimidade, na caridade, na perseverança,",
+      "reference": "2Tm 3:10"
+    },
+    "11": {
+      "text": "nas perseguições, nos sofrimentos que conheci em Antioquia, em Icônio, em Listra. Que perseguições eu sofri! E de todas me livrou o Senhor!",
+      "reference": "2Tm 3:11"
+    },
+    "12": {
+      "text": "Aliás, todos os que quiserem viver com piedade em Cristo Jesus serão perseguidos.",
+      "reference": "2Tm 3:12"
+    },
+    "13": {
+      "text": "Quanto aos homens maus e impostores, eles progredirão no mal, enganando e sendo enganados. \\par",
+      "reference": "2Tm 3:13"
+    },
+    "14": {
+      "text": "Tu, porém, permanece firme naquilo que aprendeste e aceitaste como certo; tu sabes de quem o aprendeste.",
+      "reference": "2Tm 3:14"
+    },
+    "15": {
+      "text": "Desde a tua infância conheces as sagradas Letras; elas têm o poder de comunicar-te a sabedoria que conduz à salvação pela fé em Cristo Jesus.",
+      "reference": "2Tm 3:15"
+    },
+    "16": {
+      "text": "Toda Escritura é inspirada por Deus e útil para instruir, para refutar, para corrigir, para educar na justiça,",
+      "reference": "2Tm 3:16"
+    },
+    "17": {
+      "text": "a fim de que o homem de Deus seja perfeito, qualificado para toda boa obra. \\par",
+      "reference": "2Tm 3:17"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 17
+}

@@ -1,0 +1,37 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 126,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 126 (125)\\par }{\\qc\\b\\i A volta do exílio\\par }{\\qc\\i Cântico das subidas. \\par } Quando Israel fez voltar os exilados de Sião, \\par ficamos como quem sonha: \\par",
+      "reference": "Sl 126:1"
+    },
+    "2": {
+      "text": "a boca se nos encheu de riso, \\par e a língua de canções... \\par Até entre as nações se comentava: \\par “Iahweh fez grandes coisas por eles!” \\par",
+      "reference": "Sl 126:2"
+    },
+    "3": {
+      "text": "Iahweh fez grandes coisas por nós, \\par por isso estamos alegres. \\par",
+      "reference": "Sl 126:3"
+    },
+    "4": {
+      "text": "Iahweh, faze voltar nossos exilados, \\par como torrentes pelo Negueb! \\par",
+      "reference": "Sl 126:4"
+    },
+    "5": {
+      "text": "Os que semeiam com lágrimas, \\par ceifarão em meio a canções. \\par",
+      "reference": "Sl 126:5"
+    },
+    "6": {
+      "text": "Vão andando e chorando \\par ao levar a semente; \\par ao voltar, voltam cantando, \\par trazendo seus feixes. \\par",
+      "reference": "Sl 126:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

@@ -1,0 +1,129 @@
+{
+  "book": 10,
+  "book_name": "2Samuel",
+  "book_abbr": "2Sm",
+  "book_category": "Histórico",
+  "book_english": "2 Samuel",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Profecia de Natã\\par }Quando o rei ocupou a sua casa e Iahweh o tinha livrado de todos os inimigos em redor,",
+      "reference": "2Sm 7:1"
+    },
+    "2": {
+      "text": "o rei disse ao profeta Natã: “Vê! Eu habito numa casa de cedro e a Arca de Deus habita numa tenda!”",
+      "reference": "2Sm 7:2"
+    },
+    "3": {
+      "text": "Natã respondeu ao rei: “Vai e faze o que teu coração diz, porque Iahweh está contigo”. \\par",
+      "reference": "2Sm 7:3"
+    },
+    "4": {
+      "text": "Mas nesta mesma noite a palavra de Iahweh veio a Natã nestes termos:",
+      "reference": "2Sm 7:4"
+    },
+    "5": {
+      "text": "“Vai dizer ao meu servo Davi: Assim diz Iahweh: Construirias tu uma casa em que eu venha habitar?",
+      "reference": "2Sm 7:5"
+    },
+    "6": {
+      "text": "Em casa nenhuma habitei desde o dia em que fiz subir do Egito os filhos de Israel até o dia de hoje, mas andei em acampamento errante debaixo de uma tenda e um abrigo.",
+      "reference": "2Sm 7:6"
+    },
+    "7": {
+      "text": "Durante todo o tempo em que andei com os filhos de Israel, porventura disse a um só dos juízes de Israel, que eu tinha instituído como pastores do meu povo Israel: ‘Por que não edificas para mim uma casa de cedro?",
+      "reference": "2Sm 7:7"
+    },
+    "8": {
+      "text": "Eis o que dirás ao meu servo Davi: Assim fala Iahweh dos Exércitos. Fui eu que te tirei das pastagens, onde pastoreavas ovelhas, para seres chefe do meu povo Israel.",
+      "reference": "2Sm 7:8"
+    },
+    "9": {
+      "text": "Eu estive contigo por onde ias e destruí todos os teus inimigos diante de ti. Eu te darei um grande nome como o nome dos grandes da terra.",
+      "reference": "2Sm 7:9"
+    },
+    "10": {
+      "text": "Prepararei um lugar para o meu povo Israel, e o fixarei para que habite nesse lugar e não mais tenha de andar errante, nem os perversos continuem a oprimi-lo como antes,",
+      "reference": "2Sm 7:10"
+    },
+    "11": {
+      "text": "desde o tempo em que instituí juízes sobre o meu povo Israel: eu te livrarei de todos os teus inimigos. Iahweh te diz que ele te fará uma casa.",
+      "reference": "2Sm 7:11"
+    },
+    "12": {
+      "text": "E quando os teus dias estiverem completos e vieres a dormir com teus pais, farei permanecer a tua linhagem após ti, gerada das tuas entranhas (e firmarei a sua realeza.",
+      "reference": "2Sm 7:12"
+    },
+    "13": {
+      "text": "Será ela que construirá uma casa para o meu Nome), e estabelecerei para sempre o seu trono.",
+      "reference": "2Sm 7:13"
+    },
+    "14": {
+      "text": "Eu serei para ele um pai e ele será para mim um filho: se ele fizer o mal, castigá-lo-ei com vara de homem e com açoites de homens.",
+      "reference": "2Sm 7:14"
+    },
+    "15": {
+      "text": "Mas a minha proteção não se afastará dele, como a tirei de Saul, que afastei de diante de ti.",
+      "reference": "2Sm 7:15"
+    },
+    "16": {
+      "text": "A tua casa e a tua realeza subsistirão para sempre diante de mim, e o teu trono se estabelecerá para sempre”. \\par",
+      "reference": "2Sm 7:16"
+    },
+    "17": {
+      "text": "Natã comunicou a Davi todas essas palavras e toda essa revelação. \\par",
+      "reference": "2Sm 7:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Oração de Davi\\par }Então o rei Davi entrou e ficou diante de Iahweh, e disse: “Quem sou eu, Senhor Iahweh, e qual é a minha casa para que me trouxesses até aqui?",
+      "reference": "2Sm 7:18"
+    },
+    "19": {
+      "text": "Mas isso é ainda pouco aos teus olhos, Senhor Iahweh, e estendes as tuas promessas também à casa do teu servo para um futuro distante. Esse é o destino do homem, Senhor Iahweh.",
+      "reference": "2Sm 7:19"
+    },
+    "20": {
+      "text": "Que mais poderá ainda dizer-te Davi, pois tu mesmo conheces o teu servo, Senhor Iahweh!",
+      "reference": "2Sm 7:20"
+    },
+    "21": {
+      "text": "Por causa da tua palavra e segundo o teu coração, tiveste esta generosidade de instruir o teu servo.",
+      "reference": "2Sm 7:21"
+    },
+    "22": {
+      "text": "É por isso que és grande, Senhor Iahweh: ninguém há como tu, e não existe outro Deus além de ti somente, como aprenderam os nossos ouvidos.",
+      "reference": "2Sm 7:22"
+    },
+    "23": {
+      "text": "Como o teu povo Israel, há outro povo na terra a quem um deus tivesse ido resgatar para fazer dele o seu povo, para o tornar famoso e realizar em seu favor tão grandes e terríveis coisas, expulsando de diante do seu povo nações e deuses?",
+      "reference": "2Sm 7:23"
+    },
+    "24": {
+      "text": "Estabeleceste o teu povo Israel para que ele seja para sempre o teu povo, e tu, Iahweh, tu te tornaste o seu Deus.",
+      "reference": "2Sm 7:24"
+    },
+    "25": {
+      "text": "Agora, Iahweh Deus, guarda para sempre a promessa que fizeste a teu servo e à sua casa e faze como disseste.",
+      "reference": "2Sm 7:25"
+    },
+    "26": {
+      "text": "O teu nome será exaltado para sempre, e dirão: Iahweh dos Exércitos é Deus sobre Israel. A casa do teu servo Davi subsistirá na tua presença.",
+      "reference": "2Sm 7:26"
+    },
+    "27": {
+      "text": "Porque foste tu, Iahweh dos Exércitos, Deus de Israel, que fizeste esta revelação ao teu servo: ‘Eu te edificarei uma casa’. Então o teu servo teve a coragem de te dirigir esta oração.",
+      "reference": "2Sm 7:27"
+    },
+    "28": {
+      "text": "Sim, Senhor Iahweh, és tu que és Deus, as tuas palavras são verdade e tu fizeste esta maravilhosa promessa ao teu servo.",
+      "reference": "2Sm 7:28"
+    },
+    "29": {
+      "text": "Consente, pois, em abençoar a casa do teu servo, para que ela permaneça sempre na tua presença, porque és tu, Senhor Iahweh, que tens falado, e é pela tua bênção que a casa do teu servo será abençoada para sempre”. \\par",
+      "reference": "2Sm 7:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

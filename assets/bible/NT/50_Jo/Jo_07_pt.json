@@ -1,0 +1,225 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 4. A FESTA DAS TENDAS\\par (A GRANDE REVELAÇÃO MESSIÂNICA, A GRANDE REJEIÇÃO)\\par }{\\qc\\b\\i Jesus sobe a Jerusalém para a festa e ensina\\par }Depois disso, Jesus percorria a Galiléia, não podendo circular pela Judéia, porque os judeus o queriam matar. \\par",
+      "reference": "Jo 7:1"
+    },
+    "2": {
+      "text": "Aproximava-se a festa judaica das Tendas.",
+      "reference": "Jo 7:2"
+    },
+    "3": {
+      "text": "Disseram-lhe, então, os seus irmãos: “Parte daqui e vai para a Judéia, para que teus discípulos vejam as obras que fazes,",
+      "reference": "Jo 7:3"
+    },
+    "4": {
+      "text": "pois ninguém age às ocultas, quando quer ser publicamente conhecido. Já que fazes tais coisas, manifesta-te ao mundo!”",
+      "reference": "Jo 7:4"
+    },
+    "5": {
+      "text": "Pois nem mesmo os seus irmãos criam nele.",
+      "reference": "Jo 7:5"
+    },
+    "6": {
+      "text": "Disse-lhes Jesus: “Meu tempo ainda não chegou; o vosso, porém, sempre está preparado.",
+      "reference": "Jo 7:6"
+    },
+    "7": {
+      "text": "O mundo não vos pode odiar, mas odeia-me, porque dou testemunho de que as suas obras são más.",
+      "reference": "Jo 7:7"
+    },
+    "8": {
+      "text": "Subi, vós, à festa. Eu não subo para essa festa, porque meu tempo ainda não se completou”.",
+      "reference": "Jo 7:8"
+    },
+    "9": {
+      "text": "Tendo dito isso, permaneceu na Galiléia.",
+      "reference": "Jo 7:9"
+    },
+    "10": {
+      "text": "Mas quando seus irmãos subiram para a festa, também ele subiu, não publicamente, mas às ocultas.",
+      "reference": "Jo 7:10"
+    },
+    "11": {
+      "text": "Os judeus o procuravam na festa, dizendo: “Onde está ele?”",
+      "reference": "Jo 7:11"
+    },
+    "12": {
+      "text": "Faziam-se muitos comentários a seu respeito na multidão. Uns diziam: “Ele é bom”. Outros, porém, diziam: “Não. Ele engana o povo”.",
+      "reference": "Jo 7:12"
+    },
+    "13": {
+      "text": "Entretanto, ninguém falava dele abertamente, por medo dos judeus. \\par",
+      "reference": "Jo 7:13"
+    },
+    "14": {
+      "text": "Quando a festa estava pelo meio, Jesus subiu ao Templo e começou a ensinar.",
+      "reference": "Jo 7:14"
+    },
+    "15": {
+      "text": "Admiravam-se então os judeus, dizendo: “Como entende ele de letras sem ter estudado?”",
+      "reference": "Jo 7:15"
+    },
+    "16": {
+      "text": "Jesus lhes respondeu: \\par “Minha doutrina não é minha, \\par mas daquele que me enviou. \\par",
+      "reference": "Jo 7:16"
+    },
+    "17": {
+      "text": "Se alguém quer cumprir sua vontade, \\par reconhecerá se minha doutrina é de Deus \\par ou se falo por mim mesmo. \\par",
+      "reference": "Jo 7:17"
+    },
+    "18": {
+      "text": "Quem fala por si mesmo \\par procura a sua própria glória. \\par Mas aquele que procura a glória de quem o enviou \\par é verdadeiro e nele não há injustiça. \\par",
+      "reference": "Jo 7:18"
+    },
+    "19": {
+      "text": "Moisés não vos deu a Lei? \\par No entanto, nenhum de vós pratica a Lei. \\par Por que procurais matar-me?”",
+      "reference": "Jo 7:19"
+    },
+    "20": {
+      "text": "A multidão respondeu: “Tens um demônio. Quem procura matar-te?”",
+      "reference": "Jo 7:20"
+    },
+    "21": {
+      "text": "Jesus lhes respondeu: “Realizei só uma obra e todos vos admirais.",
+      "reference": "Jo 7:21"
+    },
+    "22": {
+      "text": "Moisés vos deu a circuncisão – não que ela venha de Moisés, mas dos patriarcas – e vós praticais em dia de sábado.",
+      "reference": "Jo 7:22"
+    },
+    "23": {
+      "text": "Se um homem é circuncidado em dia de sábado para que não se transgrida a Lei de Moisés, por que vos irais contra mim, por eu ter curado um homem todo no sábado?",
+      "reference": "Jo 7:23"
+    },
+    "24": {
+      "text": "{\\i Não julgueis pela aparência}, mas julgai conforme a justiça”. \\par",
+      "reference": "Jo 7:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Discussões do povo sobre a origem de Cristo\\par }Alguns de Jerusalém diziam: “Não é a esse que procuram matar?",
+      "reference": "Jo 7:25"
+    },
+    "26": {
+      "text": "Eis que fala publicamente e nada lhe dizem! Porventura as autoridades reconheceram ser ele o Cristo?",
+      "reference": "Jo 7:26"
+    },
+    "27": {
+      "text": "Mas nós sabemos de onde esse é, ao passo que ninguém saberá de onde será o Cristo, quando ele vier”.",
+      "reference": "Jo 7:27"
+    },
+    "28": {
+      "text": "Então, em alta voz, Jesus ensinava no Templo, dizendo: \\par “Vós me conheceis \\par e sabeis de onde eu sou; \\par no entanto, não vim por minha própria vontade, \\par mas é verdadeiro aquele que me enviou \\par e que não conheceis. \\par",
+      "reference": "Jo 7:28"
+    },
+    "29": {
+      "text": "Eu, porém, o conheço, \\par porque dele procedo, \\par e foi ele quem me enviou”. \\par",
+      "reference": "Jo 7:29"
+    },
+    "30": {
+      "text": "Procuravam, então, prendê-lo, mas ninguém lhe pôs a mão, porque não chegara a sua hora. \\par",
+      "reference": "Jo 7:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Jesus anuncia a sua próxima partida\\par }Muitos, porém, dentre o povo, creram nele e diziam: “Quando o Cristo vier, fará, porventura, mais sinais do que os que esse fez?”",
+      "reference": "Jo 7:31"
+    },
+    "32": {
+      "text": "Os fariseus perceberam que o povo murmurava tais coisas sobre Jesus, e eles enviaram alguns guardas para prendê-lo.",
+      "reference": "Jo 7:32"
+    },
+    "33": {
+      "text": "Disse, então, Jesus: \\par “Por pouco tempo estou convosco \\par e vou para aquele que me enviou. \\par",
+      "reference": "Jo 7:33"
+    },
+    "34": {
+      "text": "Vós me procurareis e não me encontrareis; \\par e onde eu estou \\par vós não podeis vir”. \\par",
+      "reference": "Jo 7:34"
+    },
+    "35": {
+      "text": "Disseram entre si os judeus: “Para onde irá ele, que não o poderemos encontrar? Irá, por acaso, aos dispersos entre os gregos para ensinar aos gregos?",
+      "reference": "Jo 7:35"
+    },
+    "36": {
+      "text": "Que significa esta palavra que nos disse: \\par ‘Vós me procurareis e não me encontrareis; \\par e onde eu estou \\par vós não podeis vir’?”\\par",
+      "reference": "Jo 7:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i A promessa da água viva\\par }No último dia da festa, o mais solene, Jesus, de pé, disse em alta voz: \\par “Se alguém tem sede, venha a mim \\par e beba,",
+      "reference": "Jo 7:37"
+    },
+    "38": {
+      "text": "aquele que crê em mim!” \\par conforme a palavra da Escritura: \\par De seu seio jorrarão rios de água viva. \\par",
+      "reference": "Jo 7:38"
+    },
+    "39": {
+      "text": "Ele falava do Espírito que deviam receber aqueles que tinham crido nele; pois não havia ainda Espírito, porque Jesus ainda não fora glorificado. \\par",
+      "reference": "Jo 7:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i Novas discussões sobre a origem de Cristo\\par }Alguns entre a multidão, ouvindo essas palavras, diziam: “Esse é, verdadeiramente, o profeta!”",
+      "reference": "Jo 7:40"
+    },
+    "41": {
+      "text": "Diziam outros: “É esse o Cristo!” Mas alguns diziam: “Porventura pode o Cristo vir da Galiléia?",
+      "reference": "Jo 7:41"
+    },
+    "42": {
+      "text": "A Escritura não diz que o Cristo será {\\i da descendência de Davi} e virá {\\i de Belém}, a cidade de onde era Davi?”",
+      "reference": "Jo 7:42"
+    },
+    "43": {
+      "text": "Produziu-se uma cisão entre o povo por sua causa.",
+      "reference": "Jo 7:43"
+    },
+    "44": {
+      "text": "Alguns queriam prendê-lo, mas ninguém lhe pôs a mão. \\par",
+      "reference": "Jo 7:44"
+    },
+    "45": {
+      "text": "Os guardas, então, voltaram aos chefes dos sacerdotes e aos fariseus e estes lhes perguntaram: “Por que não o trouxestes?”",
+      "reference": "Jo 7:45"
+    },
+    "46": {
+      "text": "Responderam os guardas: “Jamais um homem falou assim!”",
+      "reference": "Jo 7:46"
+    },
+    "47": {
+      "text": "Os fariseus replicaram: “Também fostes enganados?",
+      "reference": "Jo 7:47"
+    },
+    "48": {
+      "text": "Alguns dos chefes ou alguém dos fariseus por acaso creram nele?",
+      "reference": "Jo 7:48"
+    },
+    "49": {
+      "text": "Mas este povo, que não conhece a Lei, são uns malditos!”",
+      "reference": "Jo 7:49"
+    },
+    "50": {
+      "text": "Nicodemos, um deles, que anteriormente tinha vindo a Jesus, disse-lhes:",
+      "reference": "Jo 7:50"
+    },
+    "51": {
+      "text": "“Acaso nossa Lei condena alguém sem primeiro ouvi-lo e saber o que fez?”",
+      "reference": "Jo 7:51"
+    },
+    "52": {
+      "text": "Responderam-lhe: “És também galileu? Estuda e verás que da Galiléia não surge profeta”. \\par",
+      "reference": "Jo 7:52"
+    },
+    "53": {
+      "text": "\\par {\\qc\\b\\i A mulher adúltera\\par }E cada um voltou para sua casa. \\par",
+      "reference": "Jo 7:53"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 53
+}

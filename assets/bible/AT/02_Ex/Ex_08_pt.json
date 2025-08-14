@@ -1,0 +1,125 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Disse Iahweh a Moisés: “Dize a Aarão: ‘Estende a tua mão com a tua vara sobre os rios, sobre os canais e lagoas, e faze subir rãs sobre a terra do Egito’”.",
+      "reference": "Ex 8:1"
+    },
+    "2": {
+      "text": "Aarão estendeu a mão sobre as águas do Egito, e subiram rãs e cobriram a terra do Egito.",
+      "reference": "Ex 8:2"
+    },
+    "3": {
+      "text": "Os magos do Egito, porém, com suas ciências ocultas, fizeram o mesmo, e fizeram subir rãs sobre a terra do Egito. \\par",
+      "reference": "Ex 8:3"
+    },
+    "4": {
+      "text": "Faraó chamou Moisés e Aarão, e disse-lhes: “Rogai a Iahweh que afaste as rãs de mim e do meu povo, e deixarei o povo partir, para que ofereça sacrifício a Iahweh”.",
+      "reference": "Ex 8:4"
+    },
+    "5": {
+      "text": "E Moisés disse a Faraó: “Digna-te dizer-me quando deverei rogar por ti, por teus servos e pelo teu povo, para que as rãs sejam arrancadas de ti e das tuas casas, e fiquem somente no Rio”.",
+      "reference": "Ex 8:5"
+    },
+    "6": {
+      "text": "Ele respondeu: “Amanhã”. E Moisés disse: “Seja conforme a tua palavra, para que saibas que não há ninguém como Iahweh, o nosso Deus.",
+      "reference": "Ex 8:6"
+    },
+    "7": {
+      "text": "As rãs afastar-se-ão de ti, da tua casa, dos teus servos e do teu povo; e ficarão somente no Rio”.",
+      "reference": "Ex 8:7"
+    },
+    "8": {
+      "text": "Moisés e Aarão saíram da presença de Faraó; e Moisés clamou a Iahweh por causa das rãs que havia enviado a Faraó.",
+      "reference": "Ex 8:8"
+    },
+    "9": {
+      "text": "E Iahweh fez conforme a palavra de Moisés; e morreram as rãs das casas, dos pátios e dos campos.",
+      "reference": "Ex 8:9"
+    },
+    "10": {
+      "text": "E juntaram-nas em montes imensos, e a terra ficou poluída.",
+      "reference": "Ex 8:10"
+    },
+    "11": {
+      "text": "Mas Faraó viu que havia alívio, e o seu coração ficou obstinado. E não os ouviu, como Iahweh havia dito. \\par",
+      "reference": "Ex 8:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i III. Os mosquitos\\par }Disse Iahweh a Moisés: “Dize a Aarão: ‘Estende a tua vara e fere o pó da terra, e haverá mosquitos em toda a terra do Egito’”.",
+      "reference": "Ex 8:12"
+    },
+    "13": {
+      "text": "Aarão estendeu a mão com a sua vara e feriu o pó da terra, e houve mosquitos sobre os homens e sobre os animais. E todo o pó da terra transformou-se em mosquitos por todo o país do Egito.",
+      "reference": "Ex 8:13"
+    },
+    "14": {
+      "text": "Os magos do Egito, porém, com suas ciências ocultas, fizeram o mesmo para produzirem mosquitos, e não conseguiram. E houve mosquitos sobre os homens e sobre os animais.",
+      "reference": "Ex 8:14"
+    },
+    "15": {
+      "text": "Então os magos disseram a Faraó: “Isto é o dedo de Deus!” Endureceu-se, porém, o coração de Faraó, e não os ouviu como Iahweh havia dito. \\par",
+      "reference": "Ex 8:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i IV. As moscas\\par }Disse Iahweh a Moisés: “Levanta-te de madrugada e apresenta-te a Faraó; eis que ele sairá às águas, e dize-lhe: ‘Assim fala Iahweh: Deixa o meu povo partir, para que me sirva.",
+      "reference": "Ex 8:16"
+    },
+    "17": {
+      "text": "Se não deixares partir o meu povo, eis que enviarei moscas contra ti, contra os teus servos e contra o teu povo, e contra as tuas casas. As casas dos egípcios e a terra em que estiverem ficarão repletas de moscas.",
+      "reference": "Ex 8:17"
+    },
+    "18": {
+      "text": "Naquele dia separarei a terra de Gessen, em que reside o meu povo, para que nela não haja moscas e saibas que eu sou Iahweh, no meio desta terra.",
+      "reference": "Ex 8:18"
+    },
+    "19": {
+      "text": "Eu distinguirei entre o meu povo e o teu povo! Amanhã se dará este sinal’”.",
+      "reference": "Ex 8:19"
+    },
+    "20": {
+      "text": "Assim fez Iahweh, e moscas em grande número entraram na casa de Faraó, nas casas dos seus servos e em toda a terra do Egito; e a terra ficou arruinada por causa das moscas. \\par",
+      "reference": "Ex 8:20"
+    },
+    "21": {
+      "text": "Faraó chamou Moisés e Aarão, e disse-lhes: “Ide, oferecei sacrifícios ao vosso Deus nesta terra”.",
+      "reference": "Ex 8:21"
+    },
+    "22": {
+      "text": "Moisés respondeu: “Não convém agir assim, porque os nossos sacrifícios a Iahweh, o nosso Deus, são uma abominação para os egípcios. Se oferecermos, aos olhos dos egípcios, sacrifícios que eles abominam, não haveriam de nos apedrejar?",
+      "reference": "Ex 8:22"
+    },
+    "23": {
+      "text": "É a três dias de marcha no deserto que iremos sacrificar a Iahweh, nosso Deus, conforme ele nos disse”.",
+      "reference": "Ex 8:23"
+    },
+    "24": {
+      "text": "E Faraó disse: “Eu vos deixarei ir sacrificar a vosso Deus no deserto, mas não deveis ir muito longe. Rogai por mim”.",
+      "reference": "Ex 8:24"
+    },
+    "25": {
+      "text": "Disse Moisés: “Logo que eu tiver saído da tua presença rogarei a Iahweh. Amanhã as moscas se afastarão de Faraó, dos seus servos e do seu povo; somente que Faraó não mais me engane, não deixando o povo ir sacrificar a Iahweh”.",
+      "reference": "Ex 8:25"
+    },
+    "26": {
+      "text": "Tendo Moisés saído da presença de Faraó, orou a Iahweh.",
+      "reference": "Ex 8:26"
+    },
+    "27": {
+      "text": "E Iahweh fez o que Moisés lhe tinha pedido, e as moscas se afastaram de Faraó, dos seus servos e do seu povo; não ficou uma só.",
+      "reference": "Ex 8:27"
+    },
+    "28": {
+      "text": "Mas, ainda desta vez, Faraó obstinou o seu coração e não deixou o povo partir. \\par",
+      "reference": "Ex 8:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

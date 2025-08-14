@@ -1,0 +1,229 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O Pai-nosso\\par }Estando num certo lugar, orando, ao terminar, um de seus discípulos pediu-lhe: “Senhor, ensina-nos a orar, como João ensinou a seus discípulos”.",
+      "reference": "Lc 11:1"
+    },
+    "2": {
+      "text": "Respondeu-lhes: “Quando orardes, dizei: \\par Pai, santificado seja o teu Nome; \\par venha o teu Reino; \\par",
+      "reference": "Lc 11:2"
+    },
+    "3": {
+      "text": "o pão nosso cotidiano dá-nos a cada dia; \\par",
+      "reference": "Lc 11:3"
+    },
+    "4": {
+      "text": "perdoa-nos os nossos pecados, \\par pois também nós perdoamos aos nossos devedores; \\par e não nos deixes cair na tentação”. \\par",
+      "reference": "Lc 11:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i O amigo importuno\\par }Disse-lhes ainda: “Quem dentre vós, se tiver um amigo e for procurá-lo no meio da noite, dizendo: ‘Meu amigo, empresta-me três pães,",
+      "reference": "Lc 11:5"
+    },
+    "6": {
+      "text": "porque chegou de viagem um dos meus amigos e nada tenho para lhe oferecer’,",
+      "reference": "Lc 11:6"
+    },
+    "7": {
+      "text": "e ele responder de dentro: ‘Não me importunes; a porta já está fechada, e meus filhos e eu estamos na cama; não posso me levantar para dá-los a ti’;",
+      "reference": "Lc 11:7"
+    },
+    "8": {
+      "text": "digo-vos, mesmo que não se levante para dá-los por ser amigo, levantar-se-á ao menos por causa da sua insistência, e lhe dará tudo aquilo que precisa. \\par",
+      "reference": "Lc 11:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Eficácia da oração\\par }Também eu vos digo: Pedi e vos será dado; buscai e achareis; batei e vos será aberto.",
+      "reference": "Lc 11:9"
+    },
+    "10": {
+      "text": "Pois todo o que pede, recebe; o que busca, acha; e ao que bate, se abrirá.",
+      "reference": "Lc 11:10"
+    },
+    "11": {
+      "text": "Quem de vós, sendo pai, se o filho lhe pedir um peixe, em vez do peixe lhe dará uma serpente?",
+      "reference": "Lc 11:11"
+    },
+    "12": {
+      "text": "Ou ainda, se pedir um ovo, lhe dará um escorpião?",
+      "reference": "Lc 11:12"
+    },
+    "13": {
+      "text": "Ora, se vós, que sois maus, sabeis dar coisas boas aos vossos filhos, quanto mais o Pai do Céu dará o Espírito Santo aos que o pedirem!” \\par",
+      "reference": "Lc 11:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Jesus e Beelzebu\\par }Ele expulsava um demônio que era mudo. Ora, quanto o demônio saiu, o mudo falou e as multidões ficaram admiradas.",
+      "reference": "Lc 11:14"
+    },
+    "15": {
+      "text": "Alguns dentre eles, porém, disseram: “É por Beezebu, o príncipe dos demônios, que ele expulsa os demônios”.",
+      "reference": "Lc 11:15"
+    },
+    "16": {
+      "text": "Outros, para pô-lo à prova, pediam-lhe um sinal vindo do céu.",
+      "reference": "Lc 11:16"
+    },
+    "17": {
+      "text": "Ele, porém, conhecendo-lhes os pensamentos, disse: “Todo reino dividido contra si mesmo acaba em ruínas, e uma casa cai sobre outra.",
+      "reference": "Lc 11:17"
+    },
+    "18": {
+      "text": "Ora, até mesmo Satanás, se estiver dividido contra si mesmo, como subsistirá seu reinado?... Vós dizeis que é por Beelzebu que eu expulso os demônios;",
+      "reference": "Lc 11:18"
+    },
+    "19": {
+      "text": "ora, se é por Beelzebu que eu expulso os demônios, por quem os expulsam vossos filhos? Assim, eles mesmos serão os vossos juízes.",
+      "reference": "Lc 11:19"
+    },
+    "20": {
+      "text": "Contudo, se é pelo dedo de Deus que eu expulso os demônios, então o Reino de Deus já chegou a vós.",
+      "reference": "Lc 11:20"
+    },
+    "21": {
+      "text": "Quando um homem forte e bem armado guarda sua moradia, seus bens ficarão a seguro;",
+      "reference": "Lc 11:21"
+    },
+    "22": {
+      "text": "todavia, se um mais forte o assalta e vence, tira-lhe a armadura, na qual confiava, e distribui seus despojos. \\par",
+      "reference": "Lc 11:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Intransigência de Jesus\\par }Quem não está a meu favor está contra mim, e quem não ajunta comigo, dispersa. \\par",
+      "reference": "Lc 11:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Retorno ofensivo do espírito impuro\\par }Quando o espírito impuro sai do homem, perambula em lugares áridos, procurando repouso, mas não o encontrando, diz: ‘Voltarei por minha casa, de onde saí’.",
+      "reference": "Lc 11:24"
+    },
+    "25": {
+      "text": "Chegando lá, encontra-a varrida e arrumada.",
+      "reference": "Lc 11:25"
+    },
+    "26": {
+      "text": "Diante disso, vai e toma outros sete espíritos piores do que ele, os quais vêm habitar aí. E com isso a condição final daquele homem torna-se pior do que antes”. \\par",
+      "reference": "Lc 11:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i A verdadeira bem-aventurança\\par }Enquanto ele assim falava, certa mulher levantou a voz do meio da multidão e disse-lhe: “Felizes as entranhas que te trouxeram e os seios que te amamentaram!”",
+      "reference": "Lc 11:27"
+    },
+    "28": {
+      "text": "Ele, porém, respondeu: “Felizes, antes, os que ouvem a palavra de Deus e a observam”. \\par",
+      "reference": "Lc 11:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i O sinal de Jonas\\par }Como as multidões se aglomerassem, começou a dizer: “Essa geração é uma geração má; procura um sinal, mas nenhum sinal lhe será dado, exceto o sinal de Jonas.",
+      "reference": "Lc 11:29"
+    },
+    "30": {
+      "text": "Pois, assim como Jonas foi um sinal para os ninivitas, assim também o Filho do Homem será um sinal para esta geração.",
+      "reference": "Lc 11:30"
+    },
+    "31": {
+      "text": "A rainha do sul se levantará no Julgamento, juntamente com os homens desta geração e os condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão, mas aqui está algo mais do que Salomão!",
+      "reference": "Lc 11:31"
+    },
+    "32": {
+      "text": "Os habitantes de Nínive se levantarão no Julgamento juntamente com esta geração, e a condenarão, porque se converteram pela pregação de Jonas, e aqui está algo mais do que Jonas! \\par",
+      "reference": "Lc 11:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Dois ditos sobre a lâmpada\\par }Ninguém acende uma lâmpada para colocá-la em lugar escondido ou debaixo do alqueire, e sim sobre o candelabro, a fim de que os que entram vejam a luz.",
+      "reference": "Lc 11:33"
+    },
+    "34": {
+      "text": "A lâmpada do corpo é o teu olho. Se teu olho estiver são, todo o teu corpo ficará também iluminado; mas se ele for mau, teu corpo também ficará escuro.",
+      "reference": "Lc 11:34"
+    },
+    "35": {
+      "text": "Por isso, vê bem se a luz que há em ti não é treva.",
+      "reference": "Lc 11:35"
+    },
+    "36": {
+      "text": "Portanto, se todo o teu corpo está iluminado, sem parte alguma tenebrosa, estará todo iluminado como a lâmpada, quando te ilumina com seu fulgor”. \\par",
+      "reference": "Lc 11:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i Contra os fariseus e os legistas\\par }Enquanto falava, um fariseu convidou-o para almoçar em sua casa. Entrou e pôs-se à mesa.",
+      "reference": "Lc 11:37"
+    },
+    "38": {
+      "text": "O fariseu, vendo isso ficou admirado de que ele não fizesse primeiro as abluções antes do almoço.",
+      "reference": "Lc 11:38"
+    },
+    "39": {
+      "text": "O Senhor, porém, lhe disse: “Agora vós, ó fariseus! Purificais o exterior do copo e do prato, e por dentro estais cheios de rapina e de perversidade!",
+      "reference": "Lc 11:39"
+    },
+    "40": {
+      "text": "Insensatos! Quem fez o exterior não fez também o interior?",
+      "reference": "Lc 11:40"
+    },
+    "41": {
+      "text": "Antes, dai o que tendes em esmola e tudo ficará puro para vós!",
+      "reference": "Lc 11:41"
+    },
+    "42": {
+      "text": "Mas ai de vós, fariseus, que pagais o dízimo da hortelã, da arruda e de todas as hortaliças, mas deixais de lado a justiça e o amor de Deus! Importava praticar estas coisas sem deixar de lado aquelas.",
+      "reference": "Lc 11:42"
+    },
+    "43": {
+      "text": "Ai de vós, fariseus, que apreciais o primeiro lugar nas sinagogas e as saudações nas praças públicas!",
+      "reference": "Lc 11:43"
+    },
+    "44": {
+      "text": "Ai de vós, porque sois como esses túmulos disfarçados, sobre os quais se pode transitar, sem o saber!” \\par",
+      "reference": "Lc 11:44"
+    },
+    "45": {
+      "text": "Um dos legistas tomou então a palavra: “Mestre, falando assim, tu nos insultas também!”",
+      "reference": "Lc 11:45"
+    },
+    "46": {
+      "text": "Ele respondeu: “Igualmente ai de vós, legistas, porque impondes aos homens fardos insuportáveis, e vós mesmos não tocais esses fardos com um dedo sequer! \\par",
+      "reference": "Lc 11:46"
+    },
+    "47": {
+      "text": "Ai de vós que edificais os túmulos dos profetas, enquanto foram vossos pais que os mataram!",
+      "reference": "Lc 11:47"
+    },
+    "48": {
+      "text": "Assim, vós sois testemunhas e aprovais os atos dos vossos pais: eles mataram e vós edificais! \\par",
+      "reference": "Lc 11:48"
+    },
+    "49": {
+      "text": "Eis por que a Sabedoria de Deus disse: Eu lhes enviarei profetas e apóstolos; eles matarão e perseguirão a alguns deles,",
+      "reference": "Lc 11:49"
+    },
+    "50": {
+      "text": "a fim de que se peçam contas a esta geração do sangue de todos os profetas que foi derramado desde a criação do mundo,",
+      "reference": "Lc 11:50"
+    },
+    "51": {
+      "text": "do sangue de Abel até o sangue de Zacarias, que pereceu entre o altar e o Santuário. Sim, digo-vos, serão pedidas contas a esta geração! \\par",
+      "reference": "Lc 11:51"
+    },
+    "52": {
+      "text": "Ai de vós, legistas, porque tomastes a chave da ciência! Vós mesmos não entrastes e impedistes os que queriam entrar!” \\par",
+      "reference": "Lc 11:52"
+    },
+    "53": {
+      "text": "Quando ele saiu de lá, os escribas e os fariseus começaram a persegui-lo terrivelmente e a cercá-lo de interrogatórios a respeito de muitas coisas,",
+      "reference": "Lc 11:53"
+    },
+    "54": {
+      "text": "armando-lhe ciladas para surpreenderem uma palavra de sua boca. \\par",
+      "reference": "Lc 11:54"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 54
+}

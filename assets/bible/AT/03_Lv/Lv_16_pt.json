@@ -1,0 +1,149 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O grande Dia das Expiações\\par }Iahweh falou a Moisés depois da morte dos dois filhos de Aarão, que pereceram ao apresentarem diante de Iahweh um fogo irregular.",
+      "reference": "Lv 16:1"
+    },
+    "2": {
+      "text": "Iahweh disse a Moisés: \\par “Fala a Aarão teu irmão: que ele não entre em momento algum no santuário, alem do véu, diante do propiciatório que está sobre a arca. Poderá morrer, pois apareço sobre o propiciatório, em uma nuvem. \\par",
+      "reference": "Lv 16:2"
+    },
+    "3": {
+      "text": "Entrará no santuário da seguinte maneira: com um novilho destinado ao sacrifício pelo pecado e um carneiro para o holocausto.",
+      "reference": "Lv 16:3"
+    },
+    "4": {
+      "text": "Vestirá uma túnica de linho, sagrada, e trará também calções de linho sobre o corpo, cingir-se-á com um cinto de linho e envolverá a cabeça com um turbante de linho. São estas as vestes sagradas que vestirá, depois de se ter banhado em água. \\par",
+      "reference": "Lv 16:4"
+    },
+    "5": {
+      "text": "Receberá da comunidade dos filhos de Israel dois bodes destinados ao sacrifício pelo pecado, e um carneiro para o holocausto.",
+      "reference": "Lv 16:5"
+    },
+    "6": {
+      "text": "Depois de haver oferecido o novilho do sacrifício pelo seu próprio pecado e de ter feito o rito de expiação por si mesmo e pela sua casa,",
+      "reference": "Lv 16:6"
+    },
+    "7": {
+      "text": "Aarão tomará os dois bodes e os colocará diante de Iahweh na entrada da Tenda da Reunião.",
+      "reference": "Lv 16:7"
+    },
+    "8": {
+      "text": "Lançará a sorte sobre os dois bodes, atribuindo uma sorte a Iahweh e outra a Azazel.",
+      "reference": "Lv 16:8"
+    },
+    "9": {
+      "text": "Aarão oferecerá o bode sobre o qual caiu a sorte ‘Para Iahweh’ e fará com ele um sacrifício pelo pecado.",
+      "reference": "Lv 16:9"
+    },
+    "10": {
+      "text": "Quanto ao bode sobre o qual caiu a sorte ‘Para Azazel’, será colocado vivo diante de Iahweh, para se fazer com ele o rito de expiação, a fim de ser enviado a Azazel, no deserto. \\par",
+      "reference": "Lv 16:10"
+    },
+    "11": {
+      "text": "Aarão oferecerá o novilho do sacrifício pelo seu próprio pecado, e em seguida fará o rito de expiação por si mesmo e pela sua casa e imolará o novilho.",
+      "reference": "Lv 16:11"
+    },
+    "12": {
+      "text": "Encherá então um incensório com brasas ardentes tiradas do altar, de diante de Iahweh, e tomará dois punhados de incenso aromático pulverizado. Levará tudo para detrás do véu,",
+      "reference": "Lv 16:12"
+    },
+    "13": {
+      "text": "e colocará o incenso sobre o fogo, diante de Iahweh; uma nuvem de incenso recobrirá o propiciatório que está sobre o Testemunho, a fim de que não morra.",
+      "reference": "Lv 16:13"
+    },
+    "14": {
+      "text": "Depois tomará do sangue do novilho e aspergirá com o dedo o lado oriental do propiciatório; diante do propiciatório fará, com o dedo, sete aspersões com esse sangue. \\par",
+      "reference": "Lv 16:14"
+    },
+    "15": {
+      "text": "Imolará então o bode destinado ao sacrifício pelo pecado do povo e levará o seu sangue para detrás do véu. Fará com esse sangue o mesmo que fez com o sangue do novilho, aspergindo-o sobre o propiciatório e diante deste.",
+      "reference": "Lv 16:15"
+    },
+    "16": {
+      "text": "Fará assim o rito de expiação pelo santuário, pelas impurezas dos filhos de Israel, pelas suas transgressões e por todos os seus pecados. \\par Assim procederá para com a Tenda da Reunião que permanece com eles, no meio das suas impurezas.",
+      "reference": "Lv 16:16"
+    },
+    "17": {
+      "text": "Ninguém deverá estar na Tenda da Reunião desde o momento em que ele entrar para fazer expiação no santuário até quando sair. \\par Depois que tiver feito expiação por si mesmo, pela sua casa e por toda a comunidade de Israel,",
+      "reference": "Lv 16:17"
+    },
+    "18": {
+      "text": "sairá e irá ao altar que está diante de Iahweh e fará no altar o rito de expiação. Tomará do sangue do novilho e do sangue do bode e o porá nos chifres do altar, ao redor.",
+      "reference": "Lv 16:18"
+    },
+    "19": {
+      "text": "Com o mesmo sangue fará sete aspersões sobre o altar, com o dedo. Assim o purificará e o separará das impurezas dos filhos de Israel. \\par",
+      "reference": "Lv 16:19"
+    },
+    "20": {
+      "text": "Feita a expiação do santuário, da Tenda da Reunião e do altar, fará aproximar o bode ainda vivo.",
+      "reference": "Lv 16:20"
+    },
+    "21": {
+      "text": "Aarão porá ambas as mãos sobre a cabeça do bode e confessará sobre ele todas as faltas dos filhos de Israel, todas as suas transgressões e todos os seus pecados. E depois de tê-los assim postos sobre a cabeça do bode, enviá-lo-á ao deserto, conduzido por um homem preparado para isso,",
+      "reference": "Lv 16:21"
+    },
+    "22": {
+      "text": "e o bode levará sobre si todas as faltas deles para uma região desolada. \\par Quando ele tiver soltado o bode no deserto,",
+      "reference": "Lv 16:22"
+    },
+    "23": {
+      "text": "Aarão entrará na Tenda da Reunião e retirará as vestes de linho que havia posto para entrar no santuário. Deixá-las-á ali,",
+      "reference": "Lv 16:23"
+    },
+    "24": {
+      "text": "e banhará o seu corpo com água no lugar sagrado. Em seguida tornará a pôr as suas vestes e sairá para oferecer seu holocausto e o do povo; e fará o rito de expiação para si e pelo povo;",
+      "reference": "Lv 16:24"
+    },
+    "25": {
+      "text": "a gordura do sacrifício pelo pecado, queimá-la-á sobre o altar. \\par",
+      "reference": "Lv 16:25"
+    },
+    "26": {
+      "text": "E aquele que tiver levado o bode a Azazel deverá lavar suas vestes e banhar o corpo com água, e depois disso poderá entrar no acampamento.",
+      "reference": "Lv 16:26"
+    },
+    "27": {
+      "text": "O novilho e o bode oferecidos em sacrifício pelo pecado, e cujo sangue foi levado ao santuário para fazer o rito de expiação, serão levados para fora do acampamento e serão queimados com fogo a sua pele, a sua carne e os seus excrementos.",
+      "reference": "Lv 16:27"
+    },
+    "28": {
+      "text": "Aquele que os queimar deverá lavar as vestes, banhar seu corpo com água, e depois poderá entrar no acampamento. \\par",
+      "reference": "Lv 16:28"
+    },
+    "29": {
+      "text": "Isto será para vós lei perpétua. \\par No sétimo mês, no décimo dia do mês, jejuareis e não fareis trabalho algum, tanto o cidadão como o estrangeiro que habita no meio de vos.",
+      "reference": "Lv 16:29"
+    },
+    "30": {
+      "text": "Porque nesse dia se fará o rito de expiação por vós, para vos purificar. Ficareis puros de todos os vossos pecados, diante de Iahweh.",
+      "reference": "Lv 16:30"
+    },
+    "31": {
+      "text": "Será para vós um repouso sabático e jejuareis. É uma lei perpétua. \\par",
+      "reference": "Lv 16:31"
+    },
+    "32": {
+      "text": "O sacerdote que tiver recebido a unção e a investidura, para oficiar em lugar de seu pai, fará o rito de expiação. Porá as vestes de linho, vestes sagradas;",
+      "reference": "Lv 16:32"
+    },
+    "33": {
+      "text": "fará expiação do santuário sagrado, da Tenda da Reunião e do altar. Fará em seguida o rito da expiação pelos sacerdotes e por todo o povo da comunidade.",
+      "reference": "Lv 16:33"
+    },
+    "34": {
+      "text": "Isto será para vós uma lei perpétua; uma vez por ano se fará o rito de expiação pelos filhos de Israel, por todos os seus pecados”. \\par E fez-se como Iahweh havia ordenado a Moisés. \\par",
+      "reference": "Lv 16:34"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 34
+}

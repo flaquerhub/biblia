@@ -1,0 +1,105 @@
+{
+  "book": 50,
+  "book_name": "Filipenses",
+  "book_abbr": "Fp",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Philippians",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Assim, irmãos amados e queridos, minha alegria e coroa, permanecei firmes no Senhor, ó amados. \\par",
+      "reference": "Fp 4:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Últimos conselhos\\par }Eu exorto a Evódia e a Síntique a serem unânimes no Senhor.",
+      "reference": "Fp 4:2"
+    },
+    "3": {
+      "text": "Rogo também a ti, Sízigo, fiel “companheiro”, que lhes prestes auxílio, porque me ajudaram na luta pelo evangelho, em companhia de Clemente e dos demais auxiliadores meus, cujos nomes estão no livro da vida. \\par",
+      "reference": "Fp 4:3"
+    },
+    "4": {
+      "text": "Alegrai-vos sempre no Senhor! Repito: alegrai-vos!",
+      "reference": "Fp 4:4"
+    },
+    "5": {
+      "text": "Que a vossa moderação se torne conhecida de todos os homens. O Senhor está próximo!",
+      "reference": "Fp 4:5"
+    },
+    "6": {
+      "text": "Não vos inquieteis com nada; mas apresentai a Deus todas as vossas necessidades pela oração e pela súplica, em ação de graças.",
+      "reference": "Fp 4:6"
+    },
+    "7": {
+      "text": "Então a paz de Deus, que excede toda a compreensão, guardará os vossos corações e pensamentos, em Cristo Jesus. \\par",
+      "reference": "Fp 4:7"
+    },
+    "8": {
+      "text": "Finalmente, irmãos, ocupai-vos com tudo o que é verdadeiro, nobre, justo, puro, amável, honroso, virtuoso ou que de qualquer modo mereça louvor.",
+      "reference": "Fp 4:8"
+    },
+    "9": {
+      "text": "O que aprendestes e herdastes, o que ouvistes e observastes em mim, isso praticai. Então, o Deus da paz estará convosco. \\par",
+      "reference": "Fp 4:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Agradecimentos pelos auxílios enviados\\par }Foi grande a minha alegria no Senhor, porque, finalmente, vi florescer o vosso interesse por mim; verdade é que ele sempre estava alerta; mas não tínheis oportunidade.",
+      "reference": "Fp 4:10"
+    },
+    "11": {
+      "text": "Falo assim não por causa das privações, pois aprendi a adaptar-me às necessidades;",
+      "reference": "Fp 4:11"
+    },
+    "12": {
+      "text": "sei viver modestamente, e sei também como haver-me na abundância; estou acostumado com toda e qualquer situação: viver saciado e passar fome; ter abundância e sofrer necessidade.",
+      "reference": "Fp 4:12"
+    },
+    "13": {
+      "text": "Tudo posso naquele que me fortalece.",
+      "reference": "Fp 4:13"
+    },
+    "14": {
+      "text": "Entretanto, fizestes bem em participar da minha aflição. \\par",
+      "reference": "Fp 4:14"
+    },
+    "15": {
+      "text": "Vós mesmos bem sabeis, filipenses, que no início da pregação do evangelho, quando parti da Macedônia, nenhuma Igreja teve contato comigo em relação de dar e receber, senão vós somente;",
+      "reference": "Fp 4:15"
+    },
+    "16": {
+      "text": "já em Tessalônica mais uma vez vós me enviastes com que suprir às minhas necessidades.",
+      "reference": "Fp 4:16"
+    },
+    "17": {
+      "text": "Não que eu busque presentes; o que busco é o fruto que se credite em vossa conta.",
+      "reference": "Fp 4:17"
+    },
+    "18": {
+      "text": "Agora tenho tudo em abundância; tenho de sobra, depois de ter recebido de Epafrodito o que veio de vós, perfume de suave odor, sacrifício aceito e agradável a Deus.",
+      "reference": "Fp 4:18"
+    },
+    "19": {
+      "text": "O meu Deus proverá magnificamente todas as vossas necessidades, segundo a sua riqueza, em Cristo Jesus.",
+      "reference": "Fp 4:19"
+    },
+    "20": {
+      "text": "E ao nosso Deus e Pai seja a glória pelos séculos dos séculos! Amém. \\par",
+      "reference": "Fp 4:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Saudações e voto final\\par }Saudai a todos os santos em Cristo Jesus. Os irmãos que estão comigo vos saúdam.",
+      "reference": "Fp 4:21"
+    },
+    "22": {
+      "text": "Todos os santos vos saúdam, especialmente os da casa do Imperador.",
+      "reference": "Fp 4:22"
+    },
+    "23": {
+      "text": "A graça do Senhor Jesus Cristo esteja com o vosso espírito! \\par",
+      "reference": "Fp 4:23"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 23
+}

@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 21 (20)\\par }{\\qc\\b\\i Liturgia de coroação\\par }{\\qc\\i Do mestre de canto. Salmo. De Davi.\\par }",
+      "reference": "Sl 21:1"
+    },
+    "2": {
+      "text": "Iahweh, o rei se alegra com tua força, \\par e como exulta com tua salvação! \\par",
+      "reference": "Sl 21:2"
+    },
+    "3": {
+      "text": "Concedeste o desejo do seu coração, \\par não negaste o pedido de seus lábios. \\par",
+      "reference": "Sl 21:3"
+    },
+    "4": {
+      "text": "Pois tu o precedes com tuas bênçãos felizes, \\par colocas uma coroa de ouro em sua cabeça; \\par",
+      "reference": "Sl 21:4"
+    },
+    "5": {
+      "text": "ele te pediu a vida e tu a concedeste, \\par dias sem fim, para sempre. \\par",
+      "reference": "Sl 21:5"
+    },
+    "6": {
+      "text": "Grande é sua glória com a tua salvação, \\par tu o vestiste com honra e esplendor; \\par",
+      "reference": "Sl 21:6"
+    },
+    "7": {
+      "text": "sim, tu o constituis como bênção pra sempre \\par e enches de alegria com tua presença. \\par",
+      "reference": "Sl 21:7"
+    },
+    "8": {
+      "text": "Sim, o rei confia em Iahweh, \\par e, com o amor do Altíssimo, jamais vacilará. \\par",
+      "reference": "Sl 21:8"
+    },
+    "9": {
+      "text": "Tua mão encontrará teus inimigos todos, \\par tua direita encontrará os que te odeiam; \\par",
+      "reference": "Sl 21:9"
+    },
+    "10": {
+      "text": "deles farás uma fornalha no dia da tua face; \\par Iahweh os engolirá em sua ira, um fogo os devorará; \\par",
+      "reference": "Sl 21:10"
+    },
+    "11": {
+      "text": "extirparás da terra sua posteridade, \\par sua descendência dentre os filhos de Adão. \\par",
+      "reference": "Sl 21:11"
+    },
+    "12": {
+      "text": "Que pretendam o mal contra ti, \\par façam planos: nada conseguirão, \\par",
+      "reference": "Sl 21:12"
+    },
+    "13": {
+      "text": "pois tu os porás de costas, \\par visarás sua face com teu arco! \\par",
+      "reference": "Sl 21:13"
+    },
+    "14": {
+      "text": "Levanta-te com tua força, Iahweh! \\par Nós vamos cantar e tocar ao teu poder. \\par",
+      "reference": "Sl 21:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

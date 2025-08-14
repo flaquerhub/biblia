@@ -1,0 +1,81 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A vida em sociedade\\par }Observo ainda as opressões todas que se cometem debaixo do sol: \\par aí estão as lágrimas dos oprimidos, e não há quem os console; \\par a força do lado dos opressores, e não há quem os console. \\par",
+      "reference": "Ec 4:1"
+    },
+    "2": {
+      "text": "Então eu felicito os mortos que já morreram, mais que os vivos que ainda vivem. \\par",
+      "reference": "Ec 4:2"
+    },
+    "3": {
+      "text": "E mais feliz que ambos é aquele que ainda não nasceu, que não vê a maldade que se comete debaixo do sol. \\par",
+      "reference": "Ec 4:3"
+    },
+    "4": {
+      "text": "Observo também que todo trabalho e todo êxito se realiza porque há uma competição entre companheiros. Isso também é vaidade e correr atrás do vento! \\par",
+      "reference": "Ec 4:4"
+    },
+    "5": {
+      "text": "O insensato cruza os braços \\par e vai se consumindo. \\par",
+      "reference": "Ec 4:5"
+    },
+    "6": {
+      "text": "Mais vale um bocado de lazer \\par do que dois bocados de trabalho, \\par correndo atrás do vento. \\par",
+      "reference": "Ec 4:6"
+    },
+    "7": {
+      "text": "Observo ainda outra vaidade debaixo do sol:",
+      "reference": "Ec 4:7"
+    },
+    "8": {
+      "text": "alguém sozinho, sem companheiro, sem filho ou irmão; todo o seu trabalho não tem fim, e seus olhos não se saciam de riquezas: “Para quem trabalho e me privo da felicidade?",
+      "reference": "Ec 4:8"
+    },
+    "9": {
+      "text": "Mais vale dois que um só, porque terão proveito do seu trabalho.",
+      "reference": "Ec 4:9"
+    },
+    "10": {
+      "text": "Porque se caem, um levanta o outro; mas o que será de alguém que cai sem ter um companheiro para levantá-lo?",
+      "reference": "Ec 4:10"
+    },
+    "11": {
+      "text": "Se eles se deitam juntos, podem se aquecer; mas alguém sozinho como vai se aquecer? \\par",
+      "reference": "Ec 4:11"
+    },
+    "12": {
+      "text": "Alguém sozinho é derrotado, dois conseguem resistir, e a corda tripla não se rompe facilmente. \\par",
+      "reference": "Ec 4:12"
+    },
+    "13": {
+      "text": "Mais vale um jovem pobre e sábio \\par do que um rei velho e insensato \\par que não aceita mais conselho. \\par",
+      "reference": "Ec 4:13"
+    },
+    "14": {
+      "text": "Mesmo que ele tenha saído da prisão para reinar \\par e mesmo que tenha nascido mendigo no reino. \\par",
+      "reference": "Ec 4:14"
+    },
+    "15": {
+      "text": "Vejo todos os viventes que se movem debaixo do sol ficarem com o jovem que sucedeu ao outro,",
+      "reference": "Ec 4:15"
+    },
+    "16": {
+      "text": "e ele permanece frente a uma multidão sem fim. \\par Porém aqueles que vêm depois não se alegrarão com ele, porque isso também é vaidade e procura do vento. \\par",
+      "reference": "Ec 4:16"
+    },
+    "17": {
+      "text": "Cuida de teus passos quando vais à Casa de Deus: aproximar-se para ouvir vale mais que o sacrifício oferecido pelos insensatos, mas eles não sabem que fazem o mal. \\par",
+      "reference": "Ec 4:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

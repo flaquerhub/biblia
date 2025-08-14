@@ -1,0 +1,61 @@
+{
+  "book": 22,
+  "book_name": "Cântico dos Cânticos",
+  "book_abbr": "Ct",
+  "book_category": "Poético",
+  "book_english": "Song of Songs",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Coro\\par }Onde anda o tu amado, \\par ó mais bela das mulheres? \\par Aonde foi o teu amado? \\par Iremos buscá-lo contigo! \\par",
+      "reference": "Ct 6:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i A amada\\par }Meu amado desceu ao seu jardim, \\par aos terrenos das balsameiras, \\par foi pastorear nos jardins \\par e colher açucenas. \\par",
+      "reference": "Ct 6:2"
+    },
+    "3": {
+      "text": "Eu sou do meu amado, \\par e meu amado é meu, \\par o pastor das açucenas. \\par",
+      "reference": "Ct 6:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b {\\i Quinto poema}\\par }{\\qc\\b\\i O amado\\par }És bonita, minha amiga, \\par és como Tersa, \\par formosa como Jerusalém, \\par és terrível como esquadrão \\par com bandeiras desfraldadas. \\par",
+      "reference": "Ct 6:4"
+    },
+    "5": {
+      "text": "Afasta de mim teus olhos, \\par que teus olhos me perturbam! \\par Teu cabelo é um rebanho de cabras \\par ondulando pelas faldas de Galaad; \\par",
+      "reference": "Ct 6:5"
+    },
+    "6": {
+      "text": "teus dentes... um rebanho tosquiado \\par subindo após o banho, \\par cada ovelha com seus gêmeos, \\par nenhuma delas sem cria. \\par",
+      "reference": "Ct 6:6"
+    },
+    "7": {
+      "text": "Metades de romã são teus seios \\par mergulhados sob o véu. \\par",
+      "reference": "Ct 6:7"
+    },
+    "8": {
+      "text": "Que sejam sessenta as rainhas, \\par e oitenta as concubinas: \\par (e as donzelas... sem conta:) \\par",
+      "reference": "Ct 6:8"
+    },
+    "9": {
+      "text": "uma só é minha pomba \\par sem defeito, \\par uma só a preferida \\par pela mãe que a gerou. \\par Vendo-a, felicitam-na as jovens, \\par louvam-na rainhas e concubinas: \\par",
+      "reference": "Ct 6:9"
+    },
+    "10": {
+      "text": "“Quem é essa que desponta \\par como a aurora, \\par bela como a lua, \\par fulgurante como o sol, \\par terrível como esquadrão \\par com bandeiras desfraldadas?” \\par",
+      "reference": "Ct 6:10"
+    },
+    "11": {
+      "text": "Desci ao jardim das nogueiras \\par para ver os brotos dos vales, \\par ver se a videira florescia, \\par se os botões das romeiras se abriam, \\par",
+      "reference": "Ct 6:11"
+    },
+    "12": {
+      "text": "e, sem saber, coloquei-me \\par sobre os carros de Aminadib! \\par",
+      "reference": "Ct 6:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

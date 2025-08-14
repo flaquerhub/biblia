@@ -1,0 +1,117 @@
+{
+  "book": 55,
+  "book_name": "2Timóteo",
+  "book_abbr": "2Tm",
+  "book_category": "Epístolas Pastorais",
+  "book_english": "2 Timothy",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O sentido dos sofrimentos do apóstolo cristão\\par }Tu, pois, meu filho, fortifica-te na graça que está em Cristo Jesus.",
+      "reference": "2Tm 2:1"
+    },
+    "2": {
+      "text": "O que de mim ouviste na presença de muitas testemunhas, confia-o a homens fiéis, que sejam idôneos para ensiná-lo a outros. \\par",
+      "reference": "2Tm 2:2"
+    },
+    "3": {
+      "text": "Assume a tua parte de sofrimento como um bom soldado de Cristo Jesus.",
+      "reference": "2Tm 2:3"
+    },
+    "4": {
+      "text": "Ninguém, engajando-se no exército, se deixa envolver pelas questões da vida civil, se quer dar satisfação àquele que o arregimentou.",
+      "reference": "2Tm 2:4"
+    },
+    "5": {
+      "text": "Do mesmo modo um atleta não recebe a coroa se não lutou segundo as regras.",
+      "reference": "2Tm 2:5"
+    },
+    "6": {
+      "text": "O agricultor que trabalha deve ser o primeiro a participar dos frutos.",
+      "reference": "2Tm 2:6"
+    },
+    "7": {
+      "text": "Entende o que eu digo; e o Senhor te dará compreensão em todas as coisas. \\par",
+      "reference": "2Tm 2:7"
+    },
+    "8": {
+      "text": "Lembra-te de Jesus Cristo, \\par ressuscitado dentre os mortos, \\par da descendência de Davi, \\par segundo o meu evangelho,",
+      "reference": "2Tm 2:8"
+    },
+    "9": {
+      "text": "pelo qual eu sofro, até às cadeias, como malfeitor. Mas a palavra de Deus não está algemada!",
+      "reference": "2Tm 2:9"
+    },
+    "10": {
+      "text": "É por isso que tudo suporto, por causa dos eleitos, a fim de que também eles obtenham a salvação que está em Cristo Jesus, com a glória eterna. \\par",
+      "reference": "2Tm 2:10"
+    },
+    "11": {
+      "text": "Fiel é esta palavra: \\par Se com ele morremos, \\par com ele viveremos. \\par",
+      "reference": "2Tm 2:11"
+    },
+    "12": {
+      "text": "Se com ele sofremos, \\par com ele reinaremos. \\par Se nós o renegamos, \\par também ele nos renegará. \\par",
+      "reference": "2Tm 2:12"
+    },
+    "13": {
+      "text": "Se lhe somos infiéis, \\par ele permanece fiel, \\par pois não pode renegar-se a si mesmo. \\par",
+      "reference": "2Tm 2:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Luta contra o perigo atual dos falsos doutores\\par }Recorda todas estas coisas, atestando diante de Deus que é preciso evitar as discussões de palavras: elas não servem para nada, a não ser para a perdição dos que as ouvem.",
+      "reference": "2Tm 2:14"
+    },
+    "15": {
+      "text": "Procura apresentar-te a Deus como um homem provado, um trabalhador que não tem de que se envergonhar, que dispensa com retidão a palavra da verdade.",
+      "reference": "2Tm 2:15"
+    },
+    "16": {
+      "text": "Evita o palavreado vão e ímpio, já que os que o praticam progredirão na impiedade;",
+      "reference": "2Tm 2:16"
+    },
+    "17": {
+      "text": "a palavra deles é como uma gangrena que corrói, entre os quais se acham Himeneu e Fileto.",
+      "reference": "2Tm 2:17"
+    },
+    "18": {
+      "text": "Eles se desviaram da verdade, dizendo que a ressurreição já se realizou; estão pervertendo a fé de vários. \\par",
+      "reference": "2Tm 2:18"
+    },
+    "19": {
+      "text": "Não obstante, o sólido fundamento colocado por Deus permanece, marcado pelo selo desta palavra: {\\i O Senhor conhece os que lhe pertencem.} E ainda: Aparte-se da injustiça todo aquele que {\\i pronuncia o nome do Senhor.}\\par",
+      "reference": "2Tm 2:19"
+    },
+    "20": {
+      "text": "Numa grande casa não há somente vasos de ouro e de prata; há também de madeira e de barro; alguns para uso nobre, outros para uso vulgar.",
+      "reference": "2Tm 2:20"
+    },
+    "21": {
+      "text": "Aquele, pois, que se purificar destes erros será um vaso nobre, santificado, útil ao seu possuidor, preparado para toda boa obra. \\par",
+      "reference": "2Tm 2:21"
+    },
+    "22": {
+      "text": "Foge das paixões da mocidade. Segue a justiça, a fé, a caridade, a paz com aqueles que, de coração puro, invocam o nome do Senhor.",
+      "reference": "2Tm 2:22"
+    },
+    "23": {
+      "text": "Repele as questões insensatas e não educativas. Tu sabes que elas geram brigas.",
+      "reference": "2Tm 2:23"
+    },
+    "24": {
+      "text": "Ora, um servo do Senhor não deve brigar; deve ser manso para com todos, competente no ensino, paciente na tribulação.",
+      "reference": "2Tm 2:24"
+    },
+    "25": {
+      "text": "É com suavidade que deve educar os opositores, na expectativa de que Deus lhes dará não só a conversão para o conhecimento da verdade,",
+      "reference": "2Tm 2:25"
+    },
+    "26": {
+      "text": "mas também o retorno à sensatez, libertando-os do laço do diabo, que os tinha cativos de sua vontade. \\par",
+      "reference": "2Tm 2:26"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 26
+}

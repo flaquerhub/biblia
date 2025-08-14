@@ -1,0 +1,65 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 36,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A herança da mulher casada\\par }Apresentaram-se, então, os chefes das casas patriarcais do clã dos filhos de Galaad, filho de Maquir, filho de Manassés, um dos clãs dos filhos de José. Tomaram a palavra, na presença de Moisés e dos príncipes, chefes das casas patriarcais dos filhos de Israel,",
+      "reference": "Nm 36:1"
+    },
+    "2": {
+      "text": "e disseram: \\par “Iahweh ordenou a meu senhor que se desse a terra aos filhos de Israel, repartindo-a por meio de sorte; e o meu senhor recebeu de Iahweh ordem de dar a parte da herança de Salfaad, nosso irmão, às suas filhas.",
+      "reference": "Nm 36:2"
+    },
+    "3": {
+      "text": "Ora, se elas se casarem com um membro de outra tribo dos filhos de Israel, a parte que lhes pertence será subtraída da parte dos nossos pais. A parte da tribo à qual vão pertencer será acrescida, e a parte que nos foi dada por sorte será reduzida.",
+      "reference": "Nm 36:3"
+    },
+    "4": {
+      "text": "E quando chegar o jubileu para os filhos de Israel, a parte dessas mulheres será acrescentada à parte da tribo à qual vão pertencer, e será subtraída da parte da nossa tribo”. \\par",
+      "reference": "Nm 36:4"
+    },
+    "5": {
+      "text": "Moisés, segundo a ordem de Iahweh, ordenou aos filhos de Israel. Disse-lhes: \\par “A tribo dos filhos de José falou o que é justo.",
+      "reference": "Nm 36:5"
+    },
+    "6": {
+      "text": "Eis o que Iahweh ordena para as filhas de Salfaad: Casar-se-ão com quem lhes agradar, conquanto que se casem com alguém de um clã da tribo do seu pai.",
+      "reference": "Nm 36:6"
+    },
+    "7": {
+      "text": "A herança dos filhos de Israel não passará de tribo a tribo; os filhos de Israel permanecerão vinculados, cada um, à herança da sua tribo.",
+      "reference": "Nm 36:7"
+    },
+    "8": {
+      "text": "Qualquer filha que possuir uma herança em umas das tribos dos filhos de Israel deverá casar-se com alguém de um clã da sua tribo paterna, de modo que os filhos de Israel conservem, cada um, a herança de seu pai.",
+      "reference": "Nm 36:8"
+    },
+    "9": {
+      "text": "Uma herança não poderá ser transferida de uma tribo para outra: cada uma das tribos dos filhos de Israel permanecerá vinculada à sua herança”. \\par",
+      "reference": "Nm 36:9"
+    },
+    "10": {
+      "text": "As filhas de Salfaad procederam conforme Iahweh ordenara a Moisés.",
+      "reference": "Nm 36:10"
+    },
+    "11": {
+      "text": "Maala, Tersa, Hegla, Melca e Noa, filhas de Salfaad, casaram-se com os filhos dos seus tios paternos.",
+      "reference": "Nm 36:11"
+    },
+    "12": {
+      "text": "Visto que elas se casaram dentro dos clãs dos filhos de Manassés, filho de José, a herança delas permaneceu na tribo do clã de seu pai. \\par",
+      "reference": "Nm 36:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Conclusão\\par }Esses são os mandamentos e as normas que Iahweh ordenou aos filhos de Israel, por intermédio de Moisés, nas estepes de Moab, junto do Jordão, a caminho de Jericó. \\par",
+      "reference": "Nm 36:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

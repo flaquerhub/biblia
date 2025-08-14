@@ -1,0 +1,77 @@
+{
+  "book": 22,
+  "book_name": "Cântico dos Cânticos",
+  "book_abbr": "Ct",
+  "book_category": "Poético",
+  "book_english": "Song of Songs",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O amado\\par }Já vim ao meu jardim, \\par minha irmã, noiva minha, \\par colhi minha mirra e meu bálsamo, \\par comi meu favo de mel, \\par bebi meu vinho e meu leite. \\par Comei e bebei, companheiros, \\par embriagai-vos, meus caros amigos! \\par",
+      "reference": "Ct 5:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b {\\i Quarto poema}\\par }\\par \\par {\\qc\\b\\i A amada\\par }Eu dormia, \\par mas meu coração velava \\par e ouvi o meu amado que batia: \\par “Abre, minha irmã, minha amada, \\par pomba minha sem defeito! \\par Tenho a cabeça orvalhada, \\par meus cabelos gotejam sereno!” \\par",
+      "reference": "Ct 5:2"
+    },
+    "3": {
+      "text": "“Já despi a túnica, \\par e vou vesti-la de novo? \\par Já lavei meus pés, \\par e vou sujá-los de novo?” \\par",
+      "reference": "Ct 5:3"
+    },
+    "4": {
+      "text": "Meu amado põe a mão \\par pela fenda da porta: \\par as entranhas me estremecem, \\par minha alma, ouvindo-o, se esvai. \\par",
+      "reference": "Ct 5:4"
+    },
+    "5": {
+      "text": "Ponho-me de pé \\par para abrir ao meu amado: \\par minhas mãos gotejam mirra, \\par meus dedos são mirra escorrendo \\par na maçaneta da fechadura. \\par",
+      "reference": "Ct 5:5"
+    },
+    "6": {
+      "text": "Abro ao meu amado, \\par mas o meu amado se foi...\\par Procuro-o e não o encontro. \\par Chamo-o e não me responde... \\par",
+      "reference": "Ct 5:6"
+    },
+    "7": {
+      "text": "Encontraram-me os guardas \\par que rondavam a cidade. \\par Bateram-me, feriram-me, \\par tomaram-me o manto \\par as sentinelas das muralhas! \\par",
+      "reference": "Ct 5:7"
+    },
+    "8": {
+      "text": "Filhas de Jerusalém, \\par eu vos conjuro: \\par se encontrardes o meu amado, \\par que lhe direis?... Dizei \\par que estou doente de amor! \\par",
+      "reference": "Ct 5:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Coro\\par }Que é teu amado mais que os outros, \\par ó mais belas das mulheres? \\par Que é teu amado mais que os outros, \\par para assim nos conjurares? \\par",
+      "reference": "Ct 5:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i A amada\\par }Meu amado é branco e rosado, \\par saliente entre dez mil. \\par",
+      "reference": "Ct 5:10"
+    },
+    "11": {
+      "text": "Sua cabeça é ouro puro, \\par uma copa de palmeira seus cabelos, \\par negros como o corvo. \\par",
+      "reference": "Ct 5:11"
+    },
+    "12": {
+      "text": "Seus olhos... são pombas \\par à beira de águas correntes: \\par banham-se no leite \\par e repousam na margem. \\par",
+      "reference": "Ct 5:12"
+    },
+    "13": {
+      "text": "Suas faces são canteiros de bálsamo, \\par colinas de ervas perfumadas; \\par seus lábios são lírios \\par com mirra, que flui \\par e se derrama. \\par",
+      "reference": "Ct 5:13"
+    },
+    "14": {
+      "text": "Seus braços são torneados em ouro \\par incrustado com pedras de Társis. \\par Seu ventre é um bloco de marfim \\par cravejado com safiras. \\par",
+      "reference": "Ct 5:14"
+    },
+    "15": {
+      "text": "Suas pernas, colunas de mármore \\par firmadas em bases de ouro puro. \\par Seu aspecto é o do Líbano \\par altaneiro, como um cedro. \\par",
+      "reference": "Ct 5:15"
+    },
+    "16": {
+      "text": "Sua boca é muito doce... \\par Ele todo é uma delícia! \\par Assim é meu amigo, \\par assim o meu amado, \\par ó filhas de Jerusalém. \\par",
+      "reference": "Ct 5:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

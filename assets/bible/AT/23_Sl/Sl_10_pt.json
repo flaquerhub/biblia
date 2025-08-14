@@ -1,0 +1,85 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par }22Iahweh, por que ficas longe \\par e te escondes no tempo da angústia? \\par",
+      "reference": "Sl 10:1"
+    },
+    "2": {
+      "text": "23A soberba do ímpio persegue o infeliz. \\par Fiquem presos nas tramas que urdiram! \\par",
+      "reference": "Sl 10:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Mem\\par }24O ímpio se gloria da própria ambição, \\par o avarento que bendiz despreza Iahweh. \\par",
+      "reference": "Sl 10:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Nun\\par }25O ímpio é soberbo, jamais investiga: \\par – “Deus não existe!” – é tudo o que pensa. \\par",
+      "reference": "Sl 10:4"
+    },
+    "5": {
+      "text": "26Suas empresas têm sucesso em todo tempo, \\par teus julgamentos estão além do seu alcance, \\par ele desafia seus adversários todos. \\par",
+      "reference": "Sl 10:5"
+    },
+    "6": {
+      "text": "27E reflete: “Eu sou inabalável! \\par De geração em geração \\par jamais cairei na desgraça”. \\par",
+      "reference": "Sl 10:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Samec\\par }28Fraude e astúcia lhe enchem a boca, \\par \\par {\\qc\\b\\i Pê\\par } sob sua língua há opressão e maldade. \\par",
+      "reference": "Sl 10:7"
+    },
+    "8": {
+      "text": "29Põe-se de emboscada entre os juncos \\par e às escondidas massacra o inocente. \\par \\par {\\qc\\b\\i Áin\\par } 30Com os olhos espreita o miserável: \\par",
+      "reference": "Sl 10:8"
+    },
+    "9": {
+      "text": "de tocaia, bem oculto, como leão no covil, \\par ele se embosca para pegar o infeliz: \\par captura o infeliz e o arrasta em sua rede. \\par",
+      "reference": "Sl 10:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Çade\\par }31Ele espreita, se agacha, se encurva, \\par e o miserável cai em seu poder. \\par",
+      "reference": "Sl 10:10"
+    },
+    "11": {
+      "text": "32E reflete: “Deus esquece, \\par cobre a face para não ver até o fim!” \\par",
+      "reference": "Sl 10:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Qof\\par }33Levanta-te, Iahweh! Ergue a tua mão! \\par Não te esqueças dos infelizes! \\par",
+      "reference": "Sl 10:12"
+    },
+    "13": {
+      "text": "34Por que o ímpio desprezaria Deus, \\par pensando: “Tu não investigas”? \\par",
+      "reference": "Sl 10:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Resh\\par }35Mas tu vês a fadiga e o sofrimento, \\par e observas para tomá-los na mão: \\par a ti se abandona o miserável, \\par para o órfão tu és um socorro. \\par",
+      "reference": "Sl 10:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Shin\\par }36Quebra o braço do ímpio e do mau \\par e procura sua maldade: não a encontras! \\par",
+      "reference": "Sl 10:15"
+    },
+    "16": {
+      "text": "37Iahweh é rei para sempre e eternamente, \\par as nações desapareceram de sua terra. \\par",
+      "reference": "Sl 10:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Taw\\par }38Iahweh, tu ouves o desejo dos pobres, \\par fortaleces seu coração e lhes dás ouvidos, \\par",
+      "reference": "Sl 10:17"
+    },
+    "18": {
+      "text": "39fazendo justiça ao órfão e ao oprimido, \\par para que o homem terreno \\par já não infunda terror. \\par",
+      "reference": "Sl 10:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

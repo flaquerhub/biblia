@@ -1,0 +1,41 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 11 (10)\\par }{\\qc\\b\\i Confiança do justo\\par }{\\qc\\i Do mestre de canto. De Davi.\\par } Eu me abrigo em Iahweh. \\par Como podeis dizer-me: \\par “Foge para os montes, passarinho! \\par",
+      "reference": "Sl 11:1"
+    },
+    "2": {
+      "text": "Vê os ímpios que retesam o arco, \\par ajustando a flecha na corda, \\par para atirar ocultamente nos corações retos; \\par",
+      "reference": "Sl 11:2"
+    },
+    "3": {
+      "text": "se os fundamentos estão destruídos, \\par que pode o justo fazer?” \\par",
+      "reference": "Sl 11:3"
+    },
+    "4": {
+      "text": "Mas Iahweh está no seu templo sagrado, \\par Iahweh tem seu trono no céu; \\par seus olhos contemplam o mundo, \\par suas pupilas examinam os filhos de Adão. \\par",
+      "reference": "Sl 11:4"
+    },
+    "5": {
+      "text": "Iahweh examina o justo e o ímpio, \\par ele odeia quem ama a violência; \\par",
+      "reference": "Sl 11:5"
+    },
+    "6": {
+      "text": "fará chover, sobre os ímpios, brasas e enxofre, \\par e um vento fortíssimo: é a parte que lhes cabe. \\par",
+      "reference": "Sl 11:6"
+    },
+    "7": {
+      "text": "Sim, Iahweh é justo, ele ama a justiça, \\par e os corações retos contemplarão sua face. \\par",
+      "reference": "Sl 11:7"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 7
+}

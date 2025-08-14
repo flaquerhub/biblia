@@ -1,0 +1,137 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O poder dos sinais dado a Moisés\\par }Respondeu Moisés: “Mas eis que não acreditarão em mim, nem ouvirão a minha voz, pois dirão: ‘Iahweh não te apareceu’”.",
+      "reference": "Ex 4:1"
+    },
+    "2": {
+      "text": "Iahweh perguntou-lhe: “Que é isso que tens na mão?” Respondeu-lhe: “Uma vara”.",
+      "reference": "Ex 4:2"
+    },
+    "3": {
+      "text": "Então lhe disse: “Lança-a na terra”. Ele a lançou na terra, e ela se transformou em cobra, e Moisés fugiu dela.",
+      "reference": "Ex 4:3"
+    },
+    "4": {
+      "text": "Disse Iahweh a Moisés: “Estende a mão e pega-a pela cauda”. Ele estendeu a mão, pegou-a pela cauda, e ela se converteu em vara.",
+      "reference": "Ex 4:4"
+    },
+    "5": {
+      "text": "“É para que acreditem que te apareceu Iahweh, o Deus de seus pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó”. \\par",
+      "reference": "Ex 4:5"
+    },
+    "6": {
+      "text": "Iahweh disse-lhe ainda: “Põe a mão no peito”. Ele pôs a mão no peito e, tirando-a, eis que a mão estava leprosa, branca como a neve.",
+      "reference": "Ex 4:6"
+    },
+    "7": {
+      "text": "Iahweh lhe disse: “Torna a pôr a mão no peito”. Ele colocou novamente a mão no peito e retirou, e eis que havia se tornado como o restante de sua carne.",
+      "reference": "Ex 4:7"
+    },
+    "8": {
+      "text": "“Assim, se não acreditarem em ti e não ouvirem a voz do primeiro sinal, acreditarão na voz do segundo sinal.",
+      "reference": "Ex 4:8"
+    },
+    "9": {
+      "text": "Se não acreditarem nesses dois sinais, nem ouvirem a tua voz, tomarás da água do Rio e a derramarás na terra seca; e a água que tomares do Rio se transformará em sangue sobre a terra seca”. \\par",
+      "reference": "Ex 4:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Aarão intérprete de Moisés\\par }Disse Moisés a Iahweh: “Perdão, meu Senhor, eu não sou um homem de falar, nem de ontem e nem de anteontem, nem depois que falaste a teu servo; pois tenho a boca pesada, e pesada a língua”.",
+      "reference": "Ex 4:10"
+    },
+    "11": {
+      "text": "Respondeu-lhe Iahweh: “Quem dotou o homem de uma boca? Ou quem faz o mudo ou o surdo, o que vê ou o cego? Não sou eu, Iahweh?",
+      "reference": "Ex 4:11"
+    },
+    "12": {
+      "text": "Vai, pois, agora, e eu estarei em tua boca, e te indicarei o que hás de falar”. \\par",
+      "reference": "Ex 4:12"
+    },
+    "13": {
+      "text": "Moisés, porém, respondeu: “Perdão, meu Senhor, envia o intermediário que quiseres”.",
+      "reference": "Ex 4:13"
+    },
+    "14": {
+      "text": "Então se acendeu a ira de Iahweh contra Moisés, e ele disse: “Não existe Aarão, o levita, teu irmão? Eu sei que ele fala bem. E eis que sairá ao teu encontro e, vendo-te, alegrar-se-á em seu coração.",
+      "reference": "Ex 4:14"
+    },
+    "15": {
+      "text": "Tu, pois, lhe falarás e lhe porás as palavras na boca. Eu estarei na tua boca e na dele, e vos indicarei o que devereis fazer.",
+      "reference": "Ex 4:15"
+    },
+    "16": {
+      "text": "Ele falará por ti ao povo; ele será a tua boca, e tu serás para ele um deus.",
+      "reference": "Ex 4:16"
+    },
+    "17": {
+      "text": "Toma, pois, esta vara na mão: é com ela que irás fazer os sinais”. \\par",
+      "reference": "Ex 4:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Moisés volta ao Egito. Partida de Madiã\\par }Saindo, Moisés voltou para Jetro, seu sogro, e lhe disse: “Deixa-me ir e voltar a meus irmãos que estão no Egito, para ver se ainda vivem”. Respondeu Jetro: “Vai em paz”. \\par",
+      "reference": "Ex 4:18"
+    },
+    "19": {
+      "text": "Iahweh disse a Moisés, em Madiã: “Vai, volta para o Egito, porque estão mortos todos os que atentavam contra a tua vida!”",
+      "reference": "Ex 4:19"
+    },
+    "20": {
+      "text": "Tomou, pois, Moisés a sua mulher e o seu filho; fê-los montar num jumento e voltou para a terra do Egito. Moisés levou em sua mão a vara de Deus.",
+      "reference": "Ex 4:20"
+    },
+    "21": {
+      "text": "E Iahweh disse a Moisés: “Quando voltares ao Egito, saibas que todos os prodígios que coloquei em tua mão hás de realizá-los na presença de Faraó. Mas eu lhe endurecerei o coração para que não deixe o povo partir.",
+      "reference": "Ex 4:21"
+    },
+    "22": {
+      "text": "Então dirás a Faraó: Assim falou Iahweh: o meu filho primogênito é Israel.",
+      "reference": "Ex 4:22"
+    },
+    "23": {
+      "text": "E eu te disse: ‘Faze partir o meu filho, para que me sirva!’ Mas, uma vez que recusas deixá-lo partir, eis que farei perecer o teu filho primogênito”. \\par",
+      "reference": "Ex 4:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i A circuncisão do filho de Moisés\\par }Aconteceu que no caminho, numa hospedaria, Iahweh veio ao seu encontro, e procurava fazê-lo morrer.",
+      "reference": "Ex 4:24"
+    },
+    "25": {
+      "text": "Séfora tomou uma pedra aguda, cortou o prepúcio do seu filho, feriu-lhe os pés, e disse: “Tu és para mim um esposo de sangue”.",
+      "reference": "Ex 4:25"
+    },
+    "26": {
+      "text": "Então, ele o deixou. Pois ela havia dito “esposo de sangue”, por causa da circuncisão. \\par",
+      "reference": "Ex 4:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Encontro com Aarão\\par }Disse Iahweh a Aarão: “Vai ao encontro de Moisés na direção do deserto”. Ele partiu e, encontrando-o na montanha de Deus, o beijou.",
+      "reference": "Ex 4:27"
+    },
+    "28": {
+      "text": "Moisés relatou a Aarão todas as palavras de Iahweh, com as quais o enviara, e todos os sinais que lhe havia ordenado realizar.",
+      "reference": "Ex 4:28"
+    },
+    "29": {
+      "text": "Então, Moisés e Aarão foram reunir todos os anciãos dos filhos de Israel.",
+      "reference": "Ex 4:29"
+    },
+    "30": {
+      "text": "Aarão repetiu todas as palavras que Iahweh tinha dito a Moisés. Ele realizou os sinais à vista do povo.",
+      "reference": "Ex 4:30"
+    },
+    "31": {
+      "text": "E o povo creu. E tendo-se alegrado porque Iahweh visitara os filhos de Israel e vira a sua aflição, eles se ajoelharam e se inclinaram. \\par",
+      "reference": "Ex 4:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

@@ -1,0 +1,69 @@
+{
+  "book": 34,
+  "book_name": "Naum",
+  "book_abbr": "Na",
+  "book_category": "Profético",
+  "book_english": "Nahum",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i (a Judá)\\par }Eis sobre as montanhas os pés \\par de um mensageiro, \\par que anuncia: “Paz!” \\par Celebra, Judá, as tuas festas, \\par cumpre os teus votos, \\par porque não tornará a passar por ti Belial, \\par ele foi totalmente destruído. \\par",
+      "reference": "Na 2:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b {\\i A ruína de Nínive}\\par }\\par \\par {\\qc\\b\\i O assalto\\par }Um destruidor sobe contra ti. \\par Vigia a fortaleza, guarda o caminho, \\par cinge os rins, reúne toda a tua força. \\par",
+      "reference": "Na 2:2"
+    },
+    "3": {
+      "text": "(Sim, Iahweh, restaura a vinha de Jacó, \\par como a vinha de Israel. \\par Porque saqueadores a saquearam \\par e quebraram os seus sarmentos.) \\par",
+      "reference": "Na 2:3"
+    },
+    "4": {
+      "text": "O escudo de seus heróis está avermelhado, \\par os guerreiros estão vestidos de escarlate; \\par como o fogo são as ferragens dos carros \\par no dia em que estão colocados em linha de batalha; \\par os cavaleiros se agitam. \\par",
+      "reference": "Na 2:4"
+    },
+    "5": {
+      "text": "Nas ruas os carros correm loucamente, \\par precipitam-se sobre as praças; \\par sua aparência é como a de tochas, \\par como relâmpagos correm para cá e para lá. \\par",
+      "reference": "Na 2:5"
+    },
+    "6": {
+      "text": "Chamam os seus poderosos, \\par tropeçam em sua marcha, \\par correm apressadamente para a muralha \\par e o abrigo é preparado. \\par",
+      "reference": "Na 2:6"
+    },
+    "7": {
+      "text": "As portas que dão para o Rio são abertas, \\par e o palácio se abala em todos os sentidos. \\par",
+      "reference": "Na 2:7"
+    },
+    "8": {
+      "text": "A Beleza foi exilada, levada embora, \\par suas servas gemem como o arrulho das pombas \\par e batem em seu coração. \\par",
+      "reference": "Na 2:8"
+    },
+    "9": {
+      "text": "Nínive é como um tanque d’água \\par cujas águas escapam. \\par “Parai, parai!” \\par Mas ninguém olha para trás. \\par",
+      "reference": "Na 2:9"
+    },
+    "10": {
+      "text": "“Saqueai a prata! Saqueai o ouro!” \\par O tesouro não tem fim, \\par uma abundância de todos os objetos preciosos! \\par",
+      "reference": "Na 2:10"
+    },
+    "11": {
+      "text": "Desolação, destruição, devastação! \\par O coração definha, os joelhos vacilam, \\par há calafrio em todos os rins \\par e todas as faces perdem a cor. \\par",
+      "reference": "Na 2:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Sentenças sobre o leão da Assíria\\par }Onde está o covil dos leões, \\par a caverna dos leõezinhos? \\par Quando o leão saía, a leoa ficava, \\par junto com os filhotes do leão; ninguém os assustava. \\par",
+      "reference": "Na 2:12"
+    },
+    "13": {
+      "text": "O leão despedaçava para os seus filhotes, \\par estrangulava para as suas leoas; \\par enchia de presas seus antros, \\par e seus covis de despojos. \\par",
+      "reference": "Na 2:13"
+    },
+    "14": {
+      "text": "Eis-me contra ti \\par – oráculo de Iahweh dos Exércitos. \\par Reduzirei a fumo os teus carros, \\par a espada devorará os teus leõezinhos. \\par Farei desaparecer da terra a tua presa \\par e não se ouvirá mais a voz de teus mensageiros. \\par",
+      "reference": "Na 2:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

@@ -1,0 +1,57 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Conversão efêmera a Iahweh\\par }“Vinde, retornemos a Iahweh. \\par Porque ele despedaçou, ele nos curará; \\par ele feriu, ele nos ligará a ferida. \\par",
+      "reference": "Os 6:1"
+    },
+    "2": {
+      "text": "Depois de dois dias nos fará reviver, \\par ao terceiro dia nos levantará, e nós viveremos em sua presença. \\par",
+      "reference": "Os 6:2"
+    },
+    "3": {
+      "text": "Conheçamos, corramos atrás do conhecer a Iahweh; \\par certa, como a aurora, é sua vinda, \\par ele virá a nós como a chuva, \\par como o aguaceiro que ensopa a terra”. \\par",
+      "reference": "Os 6:3"
+    },
+    "4": {
+      "text": "Que te farei Efraim? \\par Que te farei Judá? \\par O vosso amor é como a nuvem da manhã, \\par como o orvalho que cedo desaparece. \\par",
+      "reference": "Os 6:4"
+    },
+    "5": {
+      "text": "Por isso eu os feri por intermédio dos profetas, \\par matei-os pelas palavras de minha boca, \\par para que o meu direito surja como luz. \\par",
+      "reference": "Os 6:5"
+    },
+    "6": {
+      "text": "Porque é amor que eu quero e não sacrifício, \\par conhecimento de Deus mais do que holocaustos. \\par",
+      "reference": "Os 6:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Crimes passados e presentes de Israel\\par }Mas eles violaram o pacto em Adam, \\par lá me foram infiéis. \\par",
+      "reference": "Os 6:7"
+    },
+    "8": {
+      "text": "Galaad é uma cidade de malfeitores, \\par com marcas de sangue. \\par",
+      "reference": "Os 6:8"
+    },
+    "9": {
+      "text": "Como bandidos em emboscada, \\par assim é um bando de sacerdotes assassinos \\par no caminho que leva a Siquém; \\par sim, eles praticam a ignomínia! \\par",
+      "reference": "Os 6:9"
+    },
+    "10": {
+      "text": "Em Betel vi uma coisa horrível: \\par ali se prostitui Efraim, \\par contamina-se Israel. \\par",
+      "reference": "Os 6:10"
+    },
+    "11": {
+      "text": "Para ti também, Judá, está destinada uma colheita, \\par quando eu restabelecer o meu povo. \\par",
+      "reference": "Os 6:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

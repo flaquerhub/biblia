@@ -1,0 +1,93 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A guerra e os soldados\\par }Quando saíres para guerrear contra teus inimigos, se vires cavalos e carros e um povo mais numeroso do que tu, não fiques com medo, pois contigo está Iahweh teu Deus, que te fez subir da terra do Egito.",
+      "reference": "Dt 20:1"
+    },
+    "2": {
+      "text": "Quando estiverdes para começar o combate, o sacerdote se aproximará para falar ao povo,",
+      "reference": "Dt 20:2"
+    },
+    "3": {
+      "text": "e lhe dirá: ‘Ouve, ó Israel! Estais hoje prestes a guerrear contra os vossos inimigos. Não vos acovardeis, nem fiqueis com medo, nem tremais ou vos aterrorizeis diante deles,",
+      "reference": "Dt 20:3"
+    },
+    "4": {
+      "text": "porque Iahweh vosso Deus marcha convosco, lutando a vosso favor contra os vossos inimigos, para salvar-vos!’ \\par",
+      "reference": "Dt 20:4"
+    },
+    "5": {
+      "text": "Os escribas também falarão ao povo, dizendo: ‘Quem construiu uma casa nova e ainda não a consagrou? Que se retire e volte para casa, para que não morra na batalha e outro a consagre. \\par",
+      "reference": "Dt 20:5"
+    },
+    "6": {
+      "text": "Quem plantou uma vinha e ainda não colheu seus primeiros frutos? Que se retire e volte para casa, para que não morra na batalha e outro colha os primeiros frutos. \\par",
+      "reference": "Dt 20:6"
+    },
+    "7": {
+      "text": "Quem desposou uma mulher e ainda não a tomou? Que se retire e volte para casa, para que não morra na batalha e outro a tome’. \\par",
+      "reference": "Dt 20:7"
+    },
+    "8": {
+      "text": "E os escribas continuarão a falar ao povo: ‘Quem está com medo e se sente covarde? Que se retire e volte para casa, para que sua covardia não contagie seus irmãos!’ \\par",
+      "reference": "Dt 20:8"
+    },
+    "9": {
+      "text": "Quando acabarem de falar ao povo, os escribas designarão os chefes das tropas para o comando do povo. \\par",
+      "reference": "Dt 20:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i A conquista das cidades\\par }Quando estiveres para combater uma cidade, primeiro propõe-lhe a paz.",
+      "reference": "Dt 20:10"
+    },
+    "11": {
+      "text": "Se ela aceitar a paz e abrir-te as portas, todo o povo que nela se encontra ficará sujeito ao trabalho forçado e te servirá.",
+      "reference": "Dt 20:11"
+    },
+    "12": {
+      "text": "Todavia, se ela não aceitar a paz e declarar guerra contra ti, tu a sitiarás.",
+      "reference": "Dt 20:12"
+    },
+    "13": {
+      "text": "Iahweh teu Deus a entregará em tua mão, e passarás todos os seus homens ao fio da espada.",
+      "reference": "Dt 20:13"
+    },
+    "14": {
+      "text": "Quanto às mulheres, crianças, animais e tudo o que houver na cidade, todos os seus despojos, tu os tomarás como presa. E comerás o despojo dos inimigos que Iahweh teu Deus te entregou. \\par",
+      "reference": "Dt 20:14"
+    },
+    "15": {
+      "text": "Farás o mesmo com todas as cidades que estiverem muito distantes de ti, as cidades que não pertencem a estas nações.",
+      "reference": "Dt 20:15"
+    },
+    "16": {
+      "text": "Todavia, quanto às cidades destas nações que Iahweh teu Deus te dará como herança, não deixarás sobreviver nenhum ser vivo.",
+      "reference": "Dt 20:16"
+    },
+    "17": {
+      "text": "Sim, sacrificarás como anátema os heteus, os amorreus, os cananeus, os ferezeus, os heveus, os jebuseus, conforme Iahweh teu Deus te ordenou,",
+      "reference": "Dt 20:17"
+    },
+    "18": {
+      "text": "para que não vos ensinem a praticar todas as abominações que elas praticavam para seus deuses: estaríeis pecando contra Iahweh vosso Deus. \\par",
+      "reference": "Dt 20:18"
+    },
+    "19": {
+      "text": "Quanto tiveres que sitiar uma cidade durante muito tempo antes de atacá-la e tomá-la, não deves abater suas árvores a golpe de machado; alimentar-te-ás delas, sem cortá-las: uma árvore do campo é por acaso um homem, para que a trates como um sitiado?",
+      "reference": "Dt 20:19"
+    },
+    "20": {
+      "text": "Contudo, se sabes que tal árvore não é frutífera, podes então cortá-la e talhá-la para fazer instrumento de assédio contra a cidade que está guerreando contigo, até que a tenhas conquistado. \\par",
+      "reference": "Dt 20:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

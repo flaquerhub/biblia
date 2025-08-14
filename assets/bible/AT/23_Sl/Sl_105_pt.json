@@ -1,0 +1,193 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 105,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 105 (104)\\par }{\\qc\\b\\i A história maravilhosa de Israel\\par }{\\qc\\i Aleluia!\\par } Celebrai a Iahweh, invocai o seu nome, \\par anunciai entre os povos as suas façanhas! \\par",
+      "reference": "Sl 105:1"
+    },
+    "2": {
+      "text": "Cantai para ele, tocai, \\par recitai suas maravilhas todas! \\par",
+      "reference": "Sl 105:2"
+    },
+    "3": {
+      "text": "Gloriai-vos com seu nome santo, \\par alegre-se o coração dos que buscam a Iahweh! \\par",
+      "reference": "Sl 105:3"
+    },
+    "4": {
+      "text": "Procurai a Iahweh e sua força, \\par buscai sempre a sua face; \\par",
+      "reference": "Sl 105:4"
+    },
+    "5": {
+      "text": "recordai as maravilhas que ele fez, \\par seus prodígios e os julgamentos de sua boca. \\par",
+      "reference": "Sl 105:5"
+    },
+    "6": {
+      "text": "Descendência de Abraão, seu servo, \\par filhos de Jacó, seu escolhido, \\par",
+      "reference": "Sl 105:6"
+    },
+    "7": {
+      "text": "ele é Iahweh, nosso Deus, \\par ele governa a terra inteira! \\par",
+      "reference": "Sl 105:7"
+    },
+    "8": {
+      "text": "Ele se lembra da sua aliança para sempre, \\par palavra empenhada por mil gerações, \\par",
+      "reference": "Sl 105:8"
+    },
+    "9": {
+      "text": "aliança que ele fez com Abraão, \\par e juramento confirmado a Isaac. \\par",
+      "reference": "Sl 105:9"
+    },
+    "10": {
+      "text": "Ele o firmou como lei para Jacó \\par e aliança a Israel, para sempre, \\par",
+      "reference": "Sl 105:10"
+    },
+    "11": {
+      "text": "dizendo: “Eu te dou a terra de Canaã \\par como vossa parte de herança”. \\par",
+      "reference": "Sl 105:11"
+    },
+    "12": {
+      "text": "Quando se podia contá-los, \\par eram pouco numerosos, estrangeiros na terra: \\par",
+      "reference": "Sl 105:12"
+    },
+    "13": {
+      "text": "iam e vinham, de nação em nação, \\par de um reino para um povo diferente; \\par",
+      "reference": "Sl 105:13"
+    },
+    "14": {
+      "text": "ele não deixou que ninguém os oprimisse \\par e por causa deles até reis castigou: \\par",
+      "reference": "Sl 105:14"
+    },
+    "15": {
+      "text": "“Não toqueis nos meus ungidos, \\par não façais mal aos meus profetas!” \\par",
+      "reference": "Sl 105:15"
+    },
+    "16": {
+      "text": "Ele chamou a fome sobre a terra \\par e cortou todo bastão de pão; \\par",
+      "reference": "Sl 105:16"
+    },
+    "17": {
+      "text": "enviou um homem à sua frente: \\par José, vendido como escravo. \\par",
+      "reference": "Sl 105:17"
+    },
+    "18": {
+      "text": "Afligiram seus pés com grilhões \\par e puseram-lhe ferros no pescoço, \\par",
+      "reference": "Sl 105:18"
+    },
+    "19": {
+      "text": "até que se cumpriu sua predição \\par e a palavra de Iahweh o justificou. \\par",
+      "reference": "Sl 105:19"
+    },
+    "20": {
+      "text": "O rei mandou soltá-lo, \\par o senhor dos povos o livrou; \\par",
+      "reference": "Sl 105:20"
+    },
+    "21": {
+      "text": "constituiu-o senhor da sua casa, \\par administrador de todos os seus bens, \\par",
+      "reference": "Sl 105:21"
+    },
+    "22": {
+      "text": "para instruir seus príncipes a seu gosto \\par e ensinar sabedoria aos seus anciãos. \\par",
+      "reference": "Sl 105:22"
+    },
+    "23": {
+      "text": "Então Israel entrou no Egito, \\par e Jacó residiu na terra de Cam. \\par",
+      "reference": "Sl 105:23"
+    },
+    "24": {
+      "text": "Ele fez seu povo crescer muito, \\par tornando-o mais fortes que os seus opressores; \\par",
+      "reference": "Sl 105:24"
+    },
+    "25": {
+      "text": "mudou-lhes o coração, para que odiassem o seu povo \\par e usassem de astúcia com seus servos. \\par",
+      "reference": "Sl 105:25"
+    },
+    "26": {
+      "text": "Enviou Moisés, seu servo, \\par e Aarão, a quem escolhera. \\par",
+      "reference": "Sl 105:26"
+    },
+    "27": {
+      "text": "Fizeram contra eles os sinais de que falara, \\par prodígios na terra de Cam. \\par",
+      "reference": "Sl 105:27"
+    },
+    "28": {
+      "text": "Mandou-lhes a treva e escureceu, \\par mas eles afrontaram suas ordens. \\par",
+      "reference": "Sl 105:28"
+    },
+    "29": {
+      "text": "Transformou suas águas em sangue, \\par fazendo perecer os seus peixes. \\par",
+      "reference": "Sl 105:29"
+    },
+    "30": {
+      "text": "Sua terra pululou de rãs, \\par até nos aposentos reais; \\par",
+      "reference": "Sl 105:30"
+    },
+    "31": {
+      "text": "ordenou que viessem insetos, \\par mosquitos sobre todo o território. \\par",
+      "reference": "Sl 105:31"
+    },
+    "32": {
+      "text": "Em vez de chuvas deu-lhes o granizo, \\par chamas de fogo em sua terra; \\par",
+      "reference": "Sl 105:32"
+    },
+    "33": {
+      "text": "feriu suas vinhas e figueiras \\par e quebrou as árvores do seu território. \\par",
+      "reference": "Sl 105:33"
+    },
+    "34": {
+      "text": "Ele ordenou e vieram os gafanhotos, \\par inumeráveis saltadores \\par",
+      "reference": "Sl 105:34"
+    },
+    "35": {
+      "text": "que comeram toda a erva de sua terra \\par e devoraram o fruto do seu solo. \\par",
+      "reference": "Sl 105:35"
+    },
+    "36": {
+      "text": "Feriu todo primogênito de sua terra, \\par as primícias de sua raça. \\par",
+      "reference": "Sl 105:36"
+    },
+    "37": {
+      "text": "Fê-los sair com ouro e prata, \\par e entre suas tribos ninguém tropeçava. \\par",
+      "reference": "Sl 105:37"
+    },
+    "38": {
+      "text": "O Egito se alegrou quando saíram, \\par porque lhe haviam infundido seu terror; \\par",
+      "reference": "Sl 105:38"
+    },
+    "39": {
+      "text": "ele estendeu uma nuvem para cobri-los, \\par e um fogo para iluminar a noite. \\par",
+      "reference": "Sl 105:39"
+    },
+    "40": {
+      "text": "Pediram e ele fez vir codornizes \\par e os saciou com o pão do céu; \\par",
+      "reference": "Sl 105:40"
+    },
+    "41": {
+      "text": "fendeu a rocha e brotaram águas, \\par correndo pela estepe como um rio. \\par",
+      "reference": "Sl 105:41"
+    },
+    "42": {
+      "text": "Lembrando-se de sua palavra sagrada \\par ao seu servo Abraão, \\par",
+      "reference": "Sl 105:42"
+    },
+    "43": {
+      "text": "fez seu povo sair com alegria, \\par seus eleitos com gritos jubilosos. \\par",
+      "reference": "Sl 105:43"
+    },
+    "44": {
+      "text": "Deu-lhes as terras das nações, \\par e se apossaram do trabalho dos povos, \\par",
+      "reference": "Sl 105:44"
+    },
+    "45": {
+      "text": "para que guardassem seus estatutos \\par e observassem as suas leis. \\par",
+      "reference": "Sl 105:45"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 45
+}

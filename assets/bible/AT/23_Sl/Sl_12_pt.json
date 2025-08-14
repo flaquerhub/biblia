@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 12 (11)\\par }{\\qc\\b\\i Contra o mundo falso\\par }{\\qc\\i Do mestre de canto. Para instrumentos de oito cordas. Salmo. De Davi.\\par }",
+      "reference": "Sl 12:1"
+    },
+    "2": {
+      "text": "Socorro, Iahweh! O fiel está sumindo! \\par A lealdade desaparece dentre os filhos de Adão! \\par",
+      "reference": "Sl 12:2"
+    },
+    "3": {
+      "text": "Cada qual mente ao seu próximo, falando \\par com lábios fluentes e duplo coração. \\par",
+      "reference": "Sl 12:3"
+    },
+    "4": {
+      "text": "Corte Iahweh todos os lábios fluentes \\par e a língua que profere grandezas, \\par",
+      "reference": "Sl 12:4"
+    },
+    "5": {
+      "text": "os que dizem: “A língua é nossa força: \\par nossos lábios nos defendem, \\par quem seria nosso mestre?” \\par",
+      "reference": "Sl 12:5"
+    },
+    "6": {
+      "text": "“Pelos pobres oprimidos e os necessitados que gemem, \\par agora me levanto – declara Iahweh: \\par porei a salvo a quem o deseja!” \\par",
+      "reference": "Sl 12:6"
+    },
+    "7": {
+      "text": "As palavras de Iahweh são palavras sinceras, \\par prata pura saindo da terra, sete vezes refinada. \\par",
+      "reference": "Sl 12:7"
+    },
+    "8": {
+      "text": "Sim, Iahweh, tu nos guardarás, \\par livrando-nos desta geração para sempre: \\par",
+      "reference": "Sl 12:8"
+    },
+    "9": {
+      "text": "por toda parte vagueiam os ímpios, \\par quando a vileza é exaltada entre os filhos de Adão. \\par",
+      "reference": "Sl 12:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

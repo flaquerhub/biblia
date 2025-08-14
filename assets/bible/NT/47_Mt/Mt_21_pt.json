@@ -1,0 +1,197 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Entrada messiânica em Jerusalém\\par }Quando se aproximaram de Jerusalém e chegaram a Betfagé, no monte das Oliveiras, Jesus enviou dois discípulos,",
+      "reference": "Mt 21:1"
+    },
+    "2": {
+      "text": "dizendo-lhes: “Ide ao povoado aí em frente, e logo encontrareis uma jumenta amarrada e, com ela, um jumentinho. Soltai-a e trazei-me.",
+      "reference": "Mt 21:2"
+    },
+    "3": {
+      "text": "E se alguém vos disser alguma coisa, respondereis que o Senhor está precisando deles, mas logo os devolverá”.",
+      "reference": "Mt 21:3"
+    },
+    "4": {
+      "text": "Isso aconteceu para se cumprir o que foi dito pelo profeta: \\par",
+      "reference": "Mt 21:4"
+    },
+    "5": {
+      "text": "{\\i Dizei à Filha de Sião: \\par eis que o teu rei vem a ti, \\par manso e montado em um jumento, \\par em um jumentinho, filho de uma jumenta.}\\par",
+      "reference": "Mt 21:5"
+    },
+    "6": {
+      "text": "Os discípulos foram e fizeram como Jesus lhes ordenara:",
+      "reference": "Mt 21:6"
+    },
+    "7": {
+      "text": "trouxeram a jumenta e o jumentinho e puseram sobre eles as suas vestes. E ele sentou-se em cima.",
+      "reference": "Mt 21:7"
+    },
+    "8": {
+      "text": "A numerosa multidão estendeu suas vestes pelo caminho, enquanto outros cortavam ramos das árvores e os espalhavam pelo caminho.",
+      "reference": "Mt 21:8"
+    },
+    "9": {
+      "text": "As multidões que o procediam e os que o seguiam gritavam: \\par {\\i Hosana} ao Filho de Davi! \\par {\\i Bendito o que vem em nome do Senhor! \\par Hosana} no mais alto dos céus! \\par",
+      "reference": "Mt 21:9"
+    },
+    "10": {
+      "text": "E, entrando em Jerusalém, a cidade inteira agitou-se e dizia: “Quem é este?”",
+      "reference": "Mt 21:10"
+    },
+    "11": {
+      "text": "A isso as multidões respondiam: “Este é o profeta Jesus, o de Nazaré da Galiléia”. \\par",
+      "reference": "Mt 21:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Os vendedores expulsos do Templo\\par }Então Jesus entrou no Templo e expulsou todos os vendedores e compradores que lá estavam. Virou as mesas dos cambistas e as cadeiras dos que vendiam pombas.",
+      "reference": "Mt 21:12"
+    },
+    "13": {
+      "text": "E disse-lhes: “Está escrito: {\\i Minha casa será chamada casa de oração.} Vós, porém, fazeis dela {\\i um covil de ladrões!}”",
+      "reference": "Mt 21:13"
+    },
+    "14": {
+      "text": "Aproximaram-se dele, no Templo, cegos e coxos, e ele os curou.",
+      "reference": "Mt 21:14"
+    },
+    "15": {
+      "text": "Os chefes dos sacerdotes e os escribas, vendo os prodígios que fizera e as crianças que exclamavam no Templo “Hosana ao Filho de Davi!”, ficaram indignados",
+      "reference": "Mt 21:15"
+    },
+    "16": {
+      "text": "e lhe disseram: “Estás ouvindo o que estão a dizer?” Jesus respondeu: “Sim. Nunca lestes que: \\par {\\i ‘Da boca dos pequeninos e das criancinhas de peito \\par preparaste um louvor para ti’}?” \\par",
+      "reference": "Mt 21:16"
+    },
+    "17": {
+      "text": "Em seguida, deixando-os, saiu fora da cidade e dirigiu-se para Betânia. E ali pernoitou. \\par",
+      "reference": "Mt 21:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i A figueira estéril e seca. Fé e oração\\par }De manhã, ao voltar para a cidade, teve fome.",
+      "reference": "Mt 21:18"
+    },
+    "19": {
+      "text": "E vendo uma figueira à beira do caminho, foi até ela, mas nada encontrou, senão folhas. E disse à figueira: “Nunca mais produzas fruto!” E a figueira secou no mesmo instante.",
+      "reference": "Mt 21:19"
+    },
+    "20": {
+      "text": "Os discípulos, vendo isso, diziam, espantados: “Como assim, a figueira secou de repente?”",
+      "reference": "Mt 21:20"
+    },
+    "21": {
+      "text": "Jesus respondeu: “Em verdade vos digo: se tiverdes fé, sem duvidar, fareis não só o que fiz com a figueira, mas até mesmo se disserdes a esta montanha: ‘Ergue-te e lança-te ao mar’, isso acontecerá.",
+      "reference": "Mt 21:21"
+    },
+    "22": {
+      "text": "E tudo o que pedirdes com fé, em oração, vós o recebereis”.\\par",
+      "reference": "Mt 21:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Pergunta dos judeus sobre a autoridade de Jesus\\par }Vindo ele ao Templo, estava a ensinar, quando os chefes dos sacerdotes e os anciãos do povo se aproximaram e perguntaram-lhe: “Com que autoridade fazes estas coisas? E quem te concedeu essa autoridade?”",
+      "reference": "Mt 21:23"
+    },
+    "24": {
+      "text": "Jesus respondeu: “Também eu vou propor-vos uma só questão. Se me responderdes, também eu vos direi com que autoridade faço estas coisas:",
+      "reference": "Mt 21:24"
+    },
+    "25": {
+      "text": "O batismo de João, de onde era? Do Céu ou dos homens?” Eles arrazoavam entre si, dizendo: “Se respondermos ‘Do Céu’, ele nos dirá: ‘Por que então não crestes nele?’",
+      "reference": "Mt 21:25"
+    },
+    "26": {
+      "text": "Se respondermos ‘Dos homens’, temos medo da multidão, pois todos consideram João como profeta”.",
+      "reference": "Mt 21:26"
+    },
+    "27": {
+      "text": "Diante disso, responderam a Jesus: “Não sabemos”. Ao que ele também respondeu: “Nem eu vos digo com que autoridade faço estas coisas”. \\par",
+      "reference": "Mt 21:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Parábola dos dois filhos\\par }“Que vos parece? Um homem tinha dois filhos. Dirigindo-se ao primeiro, disse: ‘Filho, vai trabalhar hoje na vinha’.",
+      "reference": "Mt 21:28"
+    },
+    "29": {
+      "text": "Ele respondeu: ‘Não quero’; mas depois, reconsiderando a sua atitude, foi.",
+      "reference": "Mt 21:29"
+    },
+    "30": {
+      "text": "Dirigindo-se ao segundo, disse a mesma coisa. Este respondeu: ‘Eu irei, senhor’; mas não foi.",
+      "reference": "Mt 21:30"
+    },
+    "31": {
+      "text": "Qual dos dois realizou a vontade do pai?” Responderam-lhe: “O primeiro”. Então Jesus lhes disse: “Em verdade vos digo que os publicanos e as prostitutas estão vos precedendo no Reino de Deus.",
+      "reference": "Mt 21:31"
+    },
+    "32": {
+      "text": "Pois João veio a vós, num caminho de justiça, e não crestes nele. Os publicanos e as prostitutas creram nele. Vós, porém, vendo isso, nem sequer reconsiderastes para crer nele. \\par",
+      "reference": "Mt 21:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Parábola dos vinhateiros homicidas\\par }Escutai outra parábola. Havia um proprietário que {\\i plantou uma vinha, cercou-a com uma sebe, abriu nela um lagar e construiu uma torre.} Depois disso, arrendou-a a vinhateiros e partiu para o estrangeiro.",
+      "reference": "Mt 21:33"
+    },
+    "34": {
+      "text": "Chegada a época de colheita, enviou os seus servos aos vinhateiros, para receberem os seus frutos.",
+      "reference": "Mt 21:34"
+    },
+    "35": {
+      "text": "Os vinhateiros, porém, agarraram os servos, espancaram um, mataram outro e apedrejaram o terceiro.",
+      "reference": "Mt 21:35"
+    },
+    "36": {
+      "text": "Enviou de novo outros servos, em maior número do que os primeiros, mas eles os trataram da mesma forma.",
+      "reference": "Mt 21:36"
+    },
+    "37": {
+      "text": "Por fim, enviou-lhes o seu filho, imaginando: ‘Irão poupar o meu filho’.",
+      "reference": "Mt 21:37"
+    },
+    "38": {
+      "text": "Os vinhateiros, porém, vendo o filho, confabularam: ‘Este é o herdeiro: vamos! Matemo-lo e apoderemo-nos da sua herança’.",
+      "reference": "Mt 21:38"
+    },
+    "39": {
+      "text": "Agarrando-o, lançaram-no para fora da vinha e o mataram.",
+      "reference": "Mt 21:39"
+    },
+    "40": {
+      "text": "Pois bem, quando vier o dono da vinha, que irá fazer com esses vinhateiros?”",
+      "reference": "Mt 21:40"
+    },
+    "41": {
+      "text": "Responderam-lhe: “Certamente destruirá de maneira horrível esses infames e arrendará a vinha a outros vinhateiros, que entregarão os frutos no tempo devido”.",
+      "reference": "Mt 21:41"
+    },
+    "42": {
+      "text": "Disse-lhes então Jesus: “Nunca lestes nas Escrituras: \\par {\\i ‘A pedra que os construtores rejeitaram tornou-se a pedra angular; \\par pelo Senhor foi feito isso e é maravilha aos nossos olhos’? }\\par",
+      "reference": "Mt 21:42"
+    },
+    "43": {
+      "text": "Por isso vos afirmo que o Reino de Deus vos será tirado e confiado a um povo que produza seus frutos”. [",
+      "reference": "Mt 21:43"
+    },
+    "44": {
+      "text": "] \\par",
+      "reference": "Mt 21:44"
+    },
+    "45": {
+      "text": "Os chefes dos sacerdotes e os fariseus, ouvindo as suas parábolas, perceberam que se referia a eles.",
+      "reference": "Mt 21:45"
+    },
+    "46": {
+      "text": "Procuravam prendê-lo, mas ficaram com medo das multidões, pois que elas o consideravam um profeta. \\par",
+      "reference": "Mt 21:46"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 46
+}

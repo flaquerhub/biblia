@@ -1,0 +1,165 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Ereção e consagração do santuário\\par }Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 40:1"
+    },
+    "2": {
+      "text": "“No primeiro dia do mês, levantarás a Habitação, a Tenda da Reunião.",
+      "reference": "Ex 40:2"
+    },
+    "3": {
+      "text": "Colocarás nela a arca do Testemunho e cobrirás a arca com o véu.",
+      "reference": "Ex 40:3"
+    },
+    "4": {
+      "text": "Trarás a mesa e arrumarás tudo. Trarás o candelabro e montarás as lâmpadas.",
+      "reference": "Ex 40:4"
+    },
+    "5": {
+      "text": "Colocarás o altar de ouro diante da arca do Testemunho e colocarás o véu na entrada da Habitação.",
+      "reference": "Ex 40:5"
+    },
+    "6": {
+      "text": "Colocarás o altar dos holocaustos diante da entrada da Habitação, da Tenda da Reunião.",
+      "reference": "Ex 40:6"
+    },
+    "7": {
+      "text": "Porás a bacia entre a Tenda da Reunião e o altar, e nela colocarás água.",
+      "reference": "Ex 40:7"
+    },
+    "8": {
+      "text": "Colocarás o átrio ao redor e porás o véu na porta do átrio.",
+      "reference": "Ex 40:8"
+    },
+    "9": {
+      "text": "Tomarás do óleo da unção e ungirás a Habitação e tudo o que está dentro dela; tu a consagrarás com todos os seus acessórios, e ela será muito santa.",
+      "reference": "Ex 40:9"
+    },
+    "10": {
+      "text": "Ungirás o altar dos holocaustos com os seus acessórios, consagrarás o altar, e o altar será eminentemente santo.",
+      "reference": "Ex 40:10"
+    },
+    "11": {
+      "text": "Ungirás a bacia e a sua base e as consagrarás.",
+      "reference": "Ex 40:11"
+    },
+    "12": {
+      "text": "Depois farás Aarão e seus filhos se aproximarem da entrada da Tenda da Reunião; tu os lavarás com água",
+      "reference": "Ex 40:12"
+    },
+    "13": {
+      "text": "e revestirás Aarão com as vestimentas sagradas; tu o ungirás e o consagrarás para que exerça o meu sacerdócio.",
+      "reference": "Ex 40:13"
+    },
+    "14": {
+      "text": "Os seus filhos, tu os farás se aproximar e os revestirás com as túnicas.",
+      "reference": "Ex 40:14"
+    },
+    "15": {
+      "text": "Tu os ungirás como ungiste o pai deles, para que exerçam o meu sacerdócio. Isto se fará para que a unção deles lhes confira um sacerdócio perpétuo, em suas gerações”. \\par",
+      "reference": "Ex 40:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Realização das ordens divinas\\par }Moisés o fez. Fez tudo como Iahweh havia ordenado.",
+      "reference": "Ex 40:16"
+    },
+    "17": {
+      "text": "No primeiro dia do mês do segundo ano, levantaram a Habitação.",
+      "reference": "Ex 40:17"
+    },
+    "18": {
+      "text": "Moisés levantou a Habitação. Colocou as travessas e ergueu as colunas.",
+      "reference": "Ex 40:18"
+    },
+    "19": {
+      "text": "Estendeu a tenda para a Habitação e colocou por cima a cobertura da Tenda, como Iahweh havia ordenado a Moisés.",
+      "reference": "Ex 40:19"
+    },
+    "20": {
+      "text": "Tomou o Testemunho, colocou-o na arca, colocou os varais na arca e pôs o propiciatório sobre a arca.",
+      "reference": "Ex 40:20"
+    },
+    "21": {
+      "text": "Introduziu a arca na Habitação e colocou a cortina do véu. Velou assim a arca do Testemunho, como Iahweh havia ordenado a Moisés.",
+      "reference": "Ex 40:21"
+    },
+    "22": {
+      "text": "Colocou a mesa na Tenda da Reunião, ao lado da Habitação, ao norte, na extremidade do véu,",
+      "reference": "Ex 40:22"
+    },
+    "23": {
+      "text": "e dispôs em ordem o pão diante de Iahweh, como Iahweh havia ordenado a Moisés.",
+      "reference": "Ex 40:23"
+    },
+    "24": {
+      "text": "Colocou o candelabro na Tenda da Reunião, diante da mesa, ao lado da Habitação, ao sul,",
+      "reference": "Ex 40:24"
+    },
+    "25": {
+      "text": "e dispôs as lâmpadas diante de Iahweh, como Iahweh havia ordenado a Moisés.",
+      "reference": "Ex 40:25"
+    },
+    "26": {
+      "text": "Colocou o altar de ouro na Tenda da Reunião, diante do véu,",
+      "reference": "Ex 40:26"
+    },
+    "27": {
+      "text": "e em cima dele queimou o incenso aromático, como Iahweh havia ordenado a Moisés.",
+      "reference": "Ex 40:27"
+    },
+    "28": {
+      "text": "Depois colocou o véu na entrada da Habitação.",
+      "reference": "Ex 40:28"
+    },
+    "29": {
+      "text": "Colocou o altar dos holocaustos na entrada da Habitação, da Tenda da Reunião, e nele ofereceu holocaustos e a oblação, como Iahweh havia ordenado a Moisés.",
+      "reference": "Ex 40:29"
+    },
+    "30": {
+      "text": "Colocou a bacia entre a Tenda da Reunião e o altar, e pôs nela água para as abluções,",
+      "reference": "Ex 40:30"
+    },
+    "31": {
+      "text": "com a qual Moisés, Aarão e os seus filhos lavavam as mãos e os pés.",
+      "reference": "Ex 40:31"
+    },
+    "32": {
+      "text": "Quando entravam na Tenda da Reunião ou se aproximavam do altar, lavavam-se, como Iahweh havia ordenado a Moisés.",
+      "reference": "Ex 40:32"
+    },
+    "33": {
+      "text": "Levantou o átrio ao redor da Habitação e do altar, e colocou o véu na porta do átrio. Assim Moisés terminou os trabalhos. \\par",
+      "reference": "Ex 40:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Iahweh toma posse do santuário\\par }A nuvem cobriu a Tenda da Reunião, e a glória de Iahweh encheu a Habitação.",
+      "reference": "Ex 40:34"
+    },
+    "35": {
+      "text": "Moisés não pôde entrar na Tenda da Reunião porque a nuvem permanecia sobre ela, e a glória de Iahweh enchia a Habitação. \\par",
+      "reference": "Ex 40:35"
+    },
+    "36": {
+      "text": "\\par {\\qc\\b\\i A nuvem guia os filhos de Israel\\par }Em todas as etapas, quando a nuvem se levantava por cima da Habitação, os filhos de Israel punham-se em marcha.",
+      "reference": "Ex 40:36"
+    },
+    "37": {
+      "text": "Mas se a nuvem não se levantava, também eles não marchavam até que ela se levantasse.",
+      "reference": "Ex 40:37"
+    },
+    "38": {
+      "text": "Pois, de dia, a nuvem de Iahweh ficava sobre a Habitação, e de noite havia dentro dela um fogo, aos olhos de toda a casa de Israel, durante todas as suas etapas. \\par",
+      "reference": "Ex 40:38"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 38
+}

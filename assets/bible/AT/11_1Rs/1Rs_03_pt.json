@@ -1,0 +1,125 @@
+{
+  "book": 11,
+  "book_name": "1Reis",
+  "book_abbr": "1Rs",
+  "book_category": "Histórico",
+  "book_english": "1 Kings",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. História de Salomão, o magnífico}\\par 1. SALOMÃO, O SÁBIO\\par }{\\qc\\b\\i Introdução\\par }Salomão tornou-se genro de Faraó, rei do Egito; tomou por esposa a filha de Faraó e introduziu-a na Cidade de Davi, até que acabasse de construir o seu palácio, o Templo de Iahweh e as muralhas em torno de Jerusalém.",
+      "reference": "1Rs 3:1"
+    },
+    "2": {
+      "text": "O povo oferecia sacrifícios nos lugares altos, pois até então ainda não tinha sido construída uma casa para o Nome de Iahweh.",
+      "reference": "1Rs 3:2"
+    },
+    "3": {
+      "text": "Salomão amou a Iahweh: comportava-se segundo os preceitos de seu pai Davi; mas oferecia sacrifícios e incenso nos lugares altos. \\par",
+      "reference": "1Rs 3:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i O sonho de Gabaon\\par }O rei foi a Gabaon para lá oferecer um sacrifício, pois era o lugar alto mais importante; Salomão ofereceu mil holocaustos sobre aquele altar.",
+      "reference": "1Rs 3:4"
+    },
+    "5": {
+      "text": "Em Gabaon, Iahweh apareceu em sonho a Salomão durante a noite. Deus disse: “Pede o que te devo dar”.",
+      "reference": "1Rs 3:5"
+    },
+    "6": {
+      "text": "Salomão respondeu: “Tu demonstraste uma grande benevolência para com teu servo Davi, meu pai, porque ele caminhou diante de ti na fidelidade, justiça e retidão de coração para contigo; tu lhe guardaste esta grande benevolência, e lhe deste um filho que está sentado hoje em seu trono.",
+      "reference": "1Rs 3:6"
+    },
+    "7": {
+      "text": "Agora, pois, Iahweh meu Deus, constituíste rei a teu servo em lugar de meu pai Davi, mas eu não passo de um jovem, que não sabe comandar.",
+      "reference": "1Rs 3:7"
+    },
+    "8": {
+      "text": "Teu servo se encontra no meio do teu povo que escolheste, povo tão numeroso que não se pode contar nem calcular.",
+      "reference": "1Rs 3:8"
+    },
+    "9": {
+      "text": "Dá, pois, a teu servo um coração que escuta para governar teu povo e para discernir entre o bem e o mal, pois quem poderia governar teu povo, que é tão numeroso?”",
+      "reference": "1Rs 3:9"
+    },
+    "10": {
+      "text": "Agradou ao Senhor que Salomão tivesse pedido tal coisa;",
+      "reference": "1Rs 3:10"
+    },
+    "11": {
+      "text": "e Deus lhe disse: “Porque foi este o teu pedido, e já que não pediste para ti vida longa, nem riqueza, nem a vida dos teus inimigos, mas pediste para ti discernimento para ouvir e julgar,",
+      "reference": "1Rs 3:11"
+    },
+    "12": {
+      "text": "vou fazer como pediste: dou-te um coração sábio e inteligente, como ninguém teve antes de ti e ninguém terá depois de ti.",
+      "reference": "1Rs 3:12"
+    },
+    "13": {
+      "text": "E também o que não pediste, eu te dou: riqueza e glória tais, que não haverá entre os reis quem te seja semelhante.",
+      "reference": "1Rs 3:13"
+    },
+    "14": {
+      "text": "E se seguires os meus caminhos, guardando os meus estatutos e os meus mandamentos como o fez teu pai Davi, dar-te-ei uma vida longa”.",
+      "reference": "1Rs 3:14"
+    },
+    "15": {
+      "text": "Salomão despertou e viu que aquilo fora um sonho. Voltou a Jerusalém e pôs-se diante da Arca da Aliança do Senhor; ofereceu holocaustos e sacrifícios de comunhão e deu um banquete para todos os seus servos. \\par",
+      "reference": "1Rs 3:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i O julgamento de Salomão\\par }Então duas prostitutas vieram ter com o rei e apresentaram-se diante dele.",
+      "reference": "1Rs 3:16"
+    },
+    "17": {
+      "text": "Disse uma das mulheres: “Ó meu senhor! Eu e esta mulher moramos na mesma casa e eu dei à luz junto dela na casa.",
+      "reference": "1Rs 3:17"
+    },
+    "18": {
+      "text": "Três dias depois de eu ter dado à luz, esta mulher também teve uma criança; estávamos juntas e não havia nenhum estranho conosco na casa: somente nós duas.",
+      "reference": "1Rs 3:18"
+    },
+    "19": {
+      "text": "Ora, certa noite morreu o filho desta mulher, pois ela, dormindo, o sufocou.",
+      "reference": "1Rs 3:19"
+    },
+    "20": {
+      "text": "Ela então se levantou, durante a noite, retirou meu filho do meu lado, enquanto tua serva dormia; colocou-o no seu regaço, e no meu regaço pôs seu filho morto.",
+      "reference": "1Rs 3:20"
+    },
+    "21": {
+      "text": "Levantei-me para amamentar meu filho e encontrei-o morto! Mas, de manhã, eu o examinei e constatei que não era o meu filho que eu tinha dado à luz!”",
+      "reference": "1Rs 3:21"
+    },
+    "22": {
+      "text": "Então a outra mulher disse: “Não é verdade! Meu filho é o que está vivo e o teu é o que está morto!” E a outra protestava: “É mentira! Teu filho é o que está morto e o meu é o que está vivo!” Estavam discutindo assim, diante do rei,",
+      "reference": "1Rs 3:22"
+    },
+    "23": {
+      "text": "que sentenciou: “Uma diz: ‘Meu filho é o que está vivo e o teu é o que está morto!’, e a outra responde: ‘Mentira! Teu filho é o que está morto e o meu é o que está vivo!’",
+      "reference": "1Rs 3:23"
+    },
+    "24": {
+      "text": "Trazei-me uma espada”, ordenou o rei; e levaram-lhe a espada.",
+      "reference": "1Rs 3:24"
+    },
+    "25": {
+      "text": "E o rei disse: “Cortai o menino vivo em duas partes e dai metade a uma e metade à outra”.",
+      "reference": "1Rs 3:25"
+    },
+    "26": {
+      "text": "Então a mulher, de quem era o filho vivo, suplicou ao rei, pois suas entranhas se comoveram por causa do filho, dizendo: “Ó meu senhor! Que lhe seja dado então o menino vivo, não o matem de modo nenhum!” Mas a outra dizia: “Ele não seja nem meu nem teu, cortai-o!”",
+      "reference": "1Rs 3:26"
+    },
+    "27": {
+      "text": "Então o rei tomou a palavra e disse: “Dai à primeira mulher a criança viva, não a matem. Pois é ela a sua mãe”.",
+      "reference": "1Rs 3:27"
+    },
+    "28": {
+      "text": "Todo o Israel soube da sentença que o rei havia dado, e todos lhe demonstraram muito respeito, pois viram que possuía uma sabedoria divina para fazer justiça. \\par",
+      "reference": "1Rs 3:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

@@ -1,0 +1,37 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 70,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 70 (69)\\par }{\\qc\\b\\i Grito de angústia\\par }{\\qc\\i Do mestre de canto. De Davi. Para comemoração. \\par }",
+      "reference": "Sl 70:1"
+    },
+    "2": {
+      "text": "Vem livrar-me, ó Deus! \\par Iahweh, vem depressa em meu socorro! \\par",
+      "reference": "Sl 70:2"
+    },
+    "3": {
+      "text": "Fiquem envergonhados e confundidos \\par os que buscam minha vida! \\par Recuem e fiquem atrapalhados \\par os que desejam minha desgraça! \\par",
+      "reference": "Sl 70:3"
+    },
+    "4": {
+      "text": "Recuem, cobertos de vergonha, \\par os que se riem de mim! \\par",
+      "reference": "Sl 70:4"
+    },
+    "5": {
+      "text": "Exultem e se alegrem contigo \\par todos os que te procuram! \\par E os que amam a tua salvação \\par repitam sempre: “Deus é grande!” \\par",
+      "reference": "Sl 70:5"
+    },
+    "6": {
+      "text": "Quanto a mim, sou pobre e indigente: \\par ó Deus, vem depressa! \\par Tu és meu auxílio e salvação: \\par Iahweh, não demores! \\par",
+      "reference": "Sl 70:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

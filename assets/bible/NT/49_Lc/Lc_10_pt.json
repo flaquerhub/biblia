@@ -1,0 +1,181 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Missão dos setenta e dois discípulos\\par }Depois disso, o Senhor designou outros setenta e dois, e os enviou dois a dois à sua frente a toda cidade e lugar aonde ele próprio devia ir.",
+      "reference": "Lc 10:1"
+    },
+    "2": {
+      "text": "E dizia-lhes: \\par “A colheita é grande, mas os operários são poucos. Pedi, pois, ao Senhor da colheita que envie operários para sua colheita.",
+      "reference": "Lc 10:2"
+    },
+    "3": {
+      "text": "Ide! Eis que eu vos envio como cordeiros entre lobos.",
+      "reference": "Lc 10:3"
+    },
+    "4": {
+      "text": "Não leveis bolsa, nem alforje, nem sandálias, e a ninguém saudeis pelo caminho.",
+      "reference": "Lc 10:4"
+    },
+    "5": {
+      "text": "Em qualquer casa em que entrardes, dizei primeiro: ‘Paz a esta casa!’",
+      "reference": "Lc 10:5"
+    },
+    "6": {
+      "text": "E se lá houver um filho de paz, a vossa paz irá repousar sobre ele; senão, voltará a vós.",
+      "reference": "Lc 10:6"
+    },
+    "7": {
+      "text": "Permanecei nessa casa, comei e bebei do que tiverem, pois o operário é digno do seu salário. Não passeis de casa em casa.",
+      "reference": "Lc 10:7"
+    },
+    "8": {
+      "text": "Em qualquer cidade em que entrardes e fordes recebidos, comei o que vos servirem;",
+      "reference": "Lc 10:8"
+    },
+    "9": {
+      "text": "curai os enfermos que nela houver e dizei ao povo: ‘O Reino de Deus está próximo de vós’.",
+      "reference": "Lc 10:9"
+    },
+    "10": {
+      "text": "Mas em qualquer cidade em que entrardes e não fordes recebidos, saí para as praças e dizei:",
+      "reference": "Lc 10:10"
+    },
+    "11": {
+      "text": "‘Até a poeira da vossa cidade que se grudou aos nossos pés, nós a sacudimos para deixá-la para vós. Sabei, no entanto, que o Reino de Deus está próximo’.",
+      "reference": "Lc 10:11"
+    },
+    "12": {
+      "text": "Digo-vos que, naquele Dia, haverá menos rigor para Sodoma do que para aquela cidade. \\par",
+      "reference": "Lc 10:12"
+    },
+    "13": {
+      "text": "Ai de ti, Corazim! Ai de ti, Betsaida! Pois se em Tiro e Sidônia tivessem sido realizados os milagres que em vós se realizaram, há muito teriam se convertido, vestindo-se de cilício e sentando-se sobre cinzas.",
+      "reference": "Lc 10:13"
+    },
+    "14": {
+      "text": "Assim, no Julgamento, haverá menos rigor para Tiro e Sidônia do que para vós.",
+      "reference": "Lc 10:14"
+    },
+    "15": {
+      "text": "E tu, Cafarnaum, {\\i te elevarás até ao céu? Antes, até ao inferno descerás! }\\par",
+      "reference": "Lc 10:15"
+    },
+    "16": {
+      "text": "Quem vos ouve a mim ouve, quem vos despreza a mim despreza, e quem me despreza, despreza aquele que me enviou”. \\par",
+      "reference": "Lc 10:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Qual é o motivo da alegria para os apóstolos\\par }Os setenta e dois voltaram com alegria, dizendo: “Senhor, até os demônios se nos submetem em teu nome!”",
+      "reference": "Lc 10:17"
+    },
+    "18": {
+      "text": "Ele lhes disse: “Eu via Satanás cair do céu como um relâmpago!",
+      "reference": "Lc 10:18"
+    },
+    "19": {
+      "text": "Eis que eu vos dei o poder de {\\i pisar serpentes,} escorpiões e todo o poder do Inimigo, e nada poderá vos causar dano.",
+      "reference": "Lc 10:19"
+    },
+    "20": {
+      "text": "Contudo, não vos alegreis porque os espíritos se vos submetem; alegrai-vos, antes, porque vossos nomes estão inscritos nos céus”. \\par",
+      "reference": "Lc 10:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i O Evangelho revelado aos simples. O Pai e o Filho\\par }Naquele momento, ele exultou de alegria sob a ação do Espírito Santo e disse: “Eu te louvo, ó Pai, Senhor do céu e da terra, porque ocultaste essas coisas aos sábios e entendidos, e as revelaste aos pequeninos. Sim, ó Pai, porque assim foi do teu agrado.",
+      "reference": "Lc 10:21"
+    },
+    "22": {
+      "text": "Tudo me foi entregue por meu Pai e ninguém conhece quem é o Filho senão o Pai, e quem é o Pai senão o Filho e aquele a quem o Filho o quiser revelar”. \\par",
+      "reference": "Lc 10:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i O privilégio dos discípulos\\par }E, voltando-se para os discípulos, disse-lhes a sós: “Felizes os olhos que vêem o que vós vedes!",
+      "reference": "Lc 10:23"
+    },
+    "24": {
+      "text": "Pois eu vos digo que muitos profetas e reis quiseram ver o que vós vedes, mas não viram, ouvir o que ouvis, mas não ouviram”. \\par",
+      "reference": "Lc 10:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i O grande mandamento\\par }E eis que um legista se levantou e disse para experimentá-lo: “Mestre, que farei para herdar a vida eterna?”",
+      "reference": "Lc 10:25"
+    },
+    "26": {
+      "text": "Ele disse: “Que está escrito na Lei? Como lês?”",
+      "reference": "Lc 10:26"
+    },
+    "27": {
+      "text": "Ele, então, respondeu: “{\\i Amarás o Senhor teu Deus, de todo o teu coração, de toda a tua alma, com toda a tua força} e de todo o teu entendimento; {\\i e a teu próximo como a ti mesmo}”.",
+      "reference": "Lc 10:27"
+    },
+    "28": {
+      "text": "Jesus disse: “Respondeste corretamente; faze isso e viverás”. \\par",
+      "reference": "Lc 10:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Parábola do bom samaritano\\par }Ele, porém, querendo se justificar, disse a Jesus: “E quem é meu próximo?”",
+      "reference": "Lc 10:29"
+    },
+    "30": {
+      "text": "Jesus retomou: “Um homem descia de Jerusalém a Jericó, e caiu no meio de assaltantes que, após havê-lo despojado e espancado, foram-se, deixando-o semimorto.",
+      "reference": "Lc 10:30"
+    },
+    "31": {
+      "text": "Casualmente, descia por esse caminho um sacerdote; viu-o e passou adiante.",
+      "reference": "Lc 10:31"
+    },
+    "32": {
+      "text": "Igualmente um levita, atravessando esse lugar, viu-o e prosseguiu.",
+      "reference": "Lc 10:32"
+    },
+    "33": {
+      "text": "Certo samaritano em viagem, porém, chegou junto dele, viu-o e moveu-se de compaixão.",
+      "reference": "Lc 10:33"
+    },
+    "34": {
+      "text": "Aproximou-se, cuidou de suas chagas, derramando óleo e vinho, depois colocou-o em seu próprio animal, conduziu-o à hospedaria e dispensou-lhe cuidados.",
+      "reference": "Lc 10:34"
+    },
+    "35": {
+      "text": "No dia seguinte, tirou dois denários e deu-os ao hospedeiro, dizendo: ‘Cuida dele, e o que gastares a mais, em meu regresso te pagarei’.",
+      "reference": "Lc 10:35"
+    },
+    "36": {
+      "text": "Qual dos três, em tua opinião, foi o próximo do homem que caiu nas mãos dos assaltantes?”",
+      "reference": "Lc 10:36"
+    },
+    "37": {
+      "text": "Ele respondeu: “Aquele que usou de misericórdia para com ele”. Jesus então lhe disse: “Vai, e também tu, faze o mesmo”. \\par",
+      "reference": "Lc 10:37"
+    },
+    "38": {
+      "text": "\\par {\\qc\\b\\i Marta e Maria\\par }Estando em viagem, entrou num povoado, e certa mulher, chamada Marta, recebeu-o em sua casa.",
+      "reference": "Lc 10:38"
+    },
+    "39": {
+      "text": "Sua irmã, chamada Maria, ficou sentada aos pés do Senhor, escutando-lhe a palavra.",
+      "reference": "Lc 10:39"
+    },
+    "40": {
+      "text": "Marta estava ocupada pelo muito serviço. Parando, por fim, disse: “Senhor, a ti não importa que minha irmã me deixe assim sozinha a fazer o serviço? Dize-lhe, pois, que me ajude”.",
+      "reference": "Lc 10:40"
+    },
+    "41": {
+      "text": "O Senhor, porém, respondeu: “Marta, Marta, tu te inquietas e te agitas por muitas coisas;",
+      "reference": "Lc 10:41"
+    },
+    "42": {
+      "text": "no entanto, pouca coisa é necessária, até mesmo uma só. Maria, com efeito, escolheu a melhor parte, que não lhe será tirada”. \\par",
+      "reference": "Lc 10:42"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 42
+}

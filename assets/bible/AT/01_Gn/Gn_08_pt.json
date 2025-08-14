@@ -1,0 +1,101 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Vazão das águas\\par }Deus lembrou-se então de Noé e de todas as feras e de todos os animais domésticos que estavam com ele na arca; Deus fez passar um vento sobre a terra e as águas baixaram.",
+      "reference": "Gn 8:1"
+    },
+    "2": {
+      "text": "Fecharam-se as fontes do abismo e as comportas do céu: – deteve-se a chuva do céu",
+      "reference": "Gn 8:2"
+    },
+    "3": {
+      "text": "e as águas pouco a pouco se retiraram da terra; – as águas baixaram ao cabo de cento e cinqüenta dias",
+      "reference": "Gn 8:3"
+    },
+    "4": {
+      "text": "e, no sétimo mês, no décimo sétimo dia do mês, a arca encalhou sobre os montes de Ararat.",
+      "reference": "Gn 8:4"
+    },
+    "5": {
+      "text": "As águas continuaram escoando até o décimo mês e, no primeiro dia do décimo mês, apareceram os picos das montanhas. \\par",
+      "reference": "Gn 8:5"
+    },
+    "6": {
+      "text": "No fim de quarenta dias, Noé abriu a janela que fizera na arca",
+      "reference": "Gn 8:6"
+    },
+    "7": {
+      "text": "e soltou o corvo, que foi e voltou, esperando que as águas secassem sobre a terra.",
+      "reference": "Gn 8:7"
+    },
+    "8": {
+      "text": "Soltou então a pomba que estava com ele para ver se tinham diminuído as águas na superfície do solo.",
+      "reference": "Gn 8:8"
+    },
+    "9": {
+      "text": "A pomba, não encontrando um lugar onde pousar as patas, voltou para ele na arca, porque havia água sobre toda a superfície da terra; ele estendeu a mão, pegou-a e a fez entrar para junto dele na arca.",
+      "reference": "Gn 8:9"
+    },
+    "10": {
+      "text": "Ele esperou ainda outros sete dias e soltou de novo a pomba fora da arca.",
+      "reference": "Gn 8:10"
+    },
+    "11": {
+      "text": "A pomba voltou para ele ao entardecer, e eis que ela trazia, no bico, um ramo novo de oliveira! Assim Noé ficou sabendo que as águas tinham escoado da superfície da terra.",
+      "reference": "Gn 8:11"
+    },
+    "12": {
+      "text": "Ele esperou ainda outros sete dias e soltou a pomba, que não mais voltou para ele. \\par",
+      "reference": "Gn 8:12"
+    },
+    "13": {
+      "text": "Foi no ano seiscentos e um da vida de Noé, no primeiro mês, no primeiro dia do mês que as águas secaram sobre a terra. \\par Noé retirou a cobertura da arca; olhou, e eis que a superfície do solo estava seca! \\par",
+      "reference": "Gn 8:13"
+    },
+    "14": {
+      "text": "No segundo mês, no vigésimo sétimo dia do mês, a terra estava seca. \\par",
+      "reference": "Gn 8:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i A saída da arca\\par }Então assim falou Deus a Noé:",
+      "reference": "Gn 8:15"
+    },
+    "16": {
+      "text": "“Sai da arca, tu e tua mulher, teus filhos e as mulheres de teus filhos contigo.",
+      "reference": "Gn 8:16"
+    },
+    "17": {
+      "text": "Todos os animais que estão contigo, tudo o que é carne, aves, animais e tudo o que rasteja sobre a terra, faze-os sair contigo: que pululem sobre a terra, sejam fecundos e multipliquem-se sobre a terra”.",
+      "reference": "Gn 8:17"
+    },
+    "18": {
+      "text": "Noé saiu com seus filhos, sua mulher e as mulheres de seus filhos;",
+      "reference": "Gn 8:18"
+    },
+    "19": {
+      "text": "e todas as feras, todos os animais, todas as aves, todos os répteis que rastejam sobre a terra saíram da arca, uma espécie após a outra. \\par",
+      "reference": "Gn 8:19"
+    },
+    "20": {
+      "text": "Noé construiu um altar a Iahweh e, tomando de animais puros e de todas as aves puras, ofereceu holocaustos sobre o altar.",
+      "reference": "Gn 8:20"
+    },
+    "21": {
+      "text": "Iahweh respirou o agradável odor e disse consigo: “Eu não amaldiçoarei nunca mais a terra por causa do homem, porque os desígnios do coração do homem são maus desde a sua infância; nunca mais destruirei todos os viventes, como fiz. \\par",
+      "reference": "Gn 8:21"
+    },
+    "22": {
+      "text": "Enquanto durar a terra, \\par semeadura e colheita, \\par frio e calor, \\par verão e inverno, \\par dia e noite \\par não hão de faltar”. \\par",
+      "reference": "Gn 8:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

@@ -1,0 +1,69 @@
+{
+  "book": 34,
+  "book_name": "Naum",
+  "book_abbr": "Na",
+  "book_category": "Profético",
+  "book_english": "Nahum",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Oráculo sobre Nínive. Livro da visão de Naum de Elcós. \\par",
+      "reference": "Na 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b {\\i Prelúdio}\\par }{\\qc\\b\\i Salmo. A ira de Iahweh\\par }Iahweh é um Deus ciumento e vingador! \\par Iahweh é vingador e cheio de furor! \\par Iahweh se vinga de seus adversários \\par ele guarda rancor de seus inimigos. \\par",
+      "reference": "Na 1:2"
+    },
+    "3": {
+      "text": "Iahweh é lento para a ira, mas grande em poder. \\par Mas a nada deixa Iahweh impune. \\par Na tormenta e na tempestade é o seu caminho, \\par a nuvem é a poeira de seus pés. \\par",
+      "reference": "Na 1:3"
+    },
+    "4": {
+      "text": "Ameaça o mar e o seca, \\par e a todos os rios ele faz secar. \\par ... Murcham Basã e o Carmelo, \\par e murcha a verdura do Líbano! \\par",
+      "reference": "Na 1:4"
+    },
+    "5": {
+      "text": "As montanhas tremem diante dele, \\par as colinas estremecem \\par e a terra é devastada diante dele, \\par o universo e todos os seus habitantes. \\par",
+      "reference": "Na 1:5"
+    },
+    "6": {
+      "text": "Diante de sua cólera quem subsistirá? \\par Quem se levantará diante do ardor de sua ira? \\par Seu furor derrama-se como o fogo, \\par e os rochedos se fendem diante dele. \\par",
+      "reference": "Na 1:6"
+    },
+    "7": {
+      "text": "Iahweh é bom; \\par ele é um abrigo no dia da tribulação. \\par Ele conhece aqueles que nele se refugiam, \\par",
+      "reference": "Na 1:7"
+    },
+    "8": {
+      "text": "mesmo quando sobrevém uma inundação. \\par Reduzirá a nada os que se levantam contra ele, \\par perseguirá os inimigos até nas trevas. \\par",
+      "reference": "Na 1:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Sentenças proféticas contra Judá e contra Nínive (a Judá)\\par }Que meditais sobre Iahweh? \\par É ele que reduz ao nada; \\par a opressão não se levanta duas vezes. \\par",
+      "reference": "Na 1:9"
+    },
+    "10": {
+      "text": "Como uma brenha de espinhos entrelaçados serão consumidos, \\par como a palha seca, completamente. \\par",
+      "reference": "Na 1:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i (à Assíria)\\par }De ti saiu \\par o que medita o mal contra Iahweh, \\par o conselheiro de Belial. \\par",
+      "reference": "Na 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i (a Judá: oráculo)\\par }Assim disse Iahweh: \\par Ainda que eles sejam intatos e numerosos, \\par serão aniquilados e desaparecerão. \\par Eu te humilhei, \\par mas não te humilharei novamente. \\par",
+      "reference": "Na 1:12"
+    },
+    "13": {
+      "text": "Mas agora eu quebrarei o seu jugo, que pesa sobre ti, \\par e romperei as tuas cadeias. \\par",
+      "reference": "Na 1:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i (Ao rei de Nínive: oráculo)\\par }E Iahweh decretou contra ti: \\par Ninguém mais de teu nome terá descendência! \\par Da casa de teus deuses eu destruirei \\par imagens esculpidas e imagens fundidas. \\par Devastarei o teu sepulcro, porque és maldito! \\par",
+      "reference": "Na 1:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

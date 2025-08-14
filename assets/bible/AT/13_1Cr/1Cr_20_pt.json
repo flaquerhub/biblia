@@ -1,0 +1,45 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Segunda campanha amonita\\par }Um ano depois do tempo em que os reis partem para a guerra, Joab conduziu a elite do exército e devastou o país dos amonitas. Depois veio sitiar Rabá, enquanto Davi permanecia em Jerusalém. Joab venceu Rabá e a destruiu.",
+      "reference": "1Cr 20:1"
+    },
+    "2": {
+      "text": "Davi retirou de Melcom a coroa que estava em sua cabeça. Constatou que ela pesava um talento de ouro e continha uma pedra preciosa. Davi colocou-a na cabeça. Trouxe da cidade uma enorme quantidade de despojos.",
+      "reference": "1Cr 20:2"
+    },
+    "3": {
+      "text": "Quanto aos habitantes, fê-los sair e colocou-os em trabalhos de serra, de picaretas de ferro e de machados. Assim agiu com todas as cidades dos amonitas. Depois Davi e todo o exército voltaram a Jerusalém. \\par",
+      "reference": "1Cr 20:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Batalhas contra os filisteus\\par }Em seguida, teve prosseguimento a guerra contra os filisteus em Gazer. Foi então que Sobocai de Husa matou Safai, um descendente dos rafaim. Os filisteus foram subjugados. \\par",
+      "reference": "1Cr 20:4"
+    },
+    "5": {
+      "text": "Houve ainda outra batalha contra os filisteus. Elcanã, filho de Jair, matou Lami, filho de Golias de Gat; a haste de sua lança era como um cilindro de tecelão.",
+      "reference": "1Cr 20:5"
+    },
+    "6": {
+      "text": "Houve mais um combate em Gat e lá se achava um homem de grande estatura, que tinha vinte e quatro dedos, seis em cada mão e em cada pé. Também ele era descendente do rafaíta.",
+      "reference": "1Cr 20:6"
+    },
+    "7": {
+      "text": "Como desafiasse Israel, Jônatas, filho de Samaá, irmão de Davi, o matou.",
+      "reference": "1Cr 20:7"
+    },
+    "8": {
+      "text": "Esses homens eram oriundos de Rafa em Gat e pereceram pela mão de Davi e de seus servos. \\par",
+      "reference": "1Cr 20:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

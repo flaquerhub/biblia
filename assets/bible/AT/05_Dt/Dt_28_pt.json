@@ -1,0 +1,289 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As bênçãos prometidas\\par }Portanto, se obedeceres de fato à voz de Iahweh teu Deus, cuidando de pôr em prática todos os seus mandamentos que eu hoje te ordeno, Iahweh teu Deus te fará superior a todas as nações da terra.",
+      "reference": "Dt 28:1"
+    },
+    "2": {
+      "text": "Estas são as bênçãos que virão sobre ti e te atingirão, se obedeceres à voz de Iahweh teu Deus: \\par",
+      "reference": "Dt 28:2"
+    },
+    "3": {
+      "text": "Bendito serás tu na cidade, e bendito serás tu no campo!",
+      "reference": "Dt 28:3"
+    },
+    "4": {
+      "text": "Bendito será o fruto do teu ventre, o fruto do teu solo, o fruto dos teus animais, a cria das tuas vacas e a prole das tuas ovelhas!",
+      "reference": "Dt 28:4"
+    },
+    "5": {
+      "text": "Bendito será o teu cesto e a tua amassadeira!",
+      "reference": "Dt 28:5"
+    },
+    "6": {
+      "text": "Bendito serás tu ao entrares, e bendito serás tu ao saíres!",
+      "reference": "Dt 28:6"
+    },
+    "7": {
+      "text": "Iahweh te entregará, já vencidos em tua frente, os inimigos que se levantarem contra ti; sairão contra ti por um caminho, e por sete caminhos fugirão de ti.",
+      "reference": "Dt 28:7"
+    },
+    "8": {
+      "text": "Iahweh ordenará que a bênção permaneça contigo, em teus celeiros e em todo empreendimento da tua mão; e te abençoará na terra que Iahweh teu Deus te dará. \\par",
+      "reference": "Dt 28:8"
+    },
+    "9": {
+      "text": "Iahweh te constituirá para si como povo que lhe é consagrado, conforme te jurou, se observares os mandamentos de Iahweh teu Deus e andares em seus caminhos.",
+      "reference": "Dt 28:9"
+    },
+    "10": {
+      "text": "Todos os povos da terra verão que levas o nome de Iahweh, e ficarão com medo de ti.",
+      "reference": "Dt 28:10"
+    },
+    "11": {
+      "text": "Iahweh te concederá abundância de bens no fruto do teu ventre, no fruto dos teus animais e no fruto do teu solo, este solo que Iahweh jurou aos teus pais que te daria.",
+      "reference": "Dt 28:11"
+    },
+    "12": {
+      "text": "Iahweh abrirá o seu bom tesouro para ti, o céu, para dar no tempo oportuno a chuva para a tua terra, abençoando todo trabalho da tua mão; e emprestarás a muitas nações, porém nada tomará emprestado.",
+      "reference": "Dt 28:12"
+    },
+    "13": {
+      "text": "Iahweh te colocará como cabeça, e não como cauda; estarás sempre por cima, e não por baixo, se ouvires os mandamentos de Iahweh teu Deus, que hoje te ordeno observar e pôr em prática,",
+      "reference": "Dt 28:13"
+    },
+    "14": {
+      "text": "sem te desviares para a direita ou para a esquerda de qualquer uma das palavras que hoje vos ordeno, indo seguir outros deuses e servi-los. \\par",
+      "reference": "Dt 28:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i As maldições\\par }Todavia, se não obedeceres à voz de Iahweh teu Deus, cuidando de pôr em prática todos os seus mandamentos e estatutos que hoje te ordeno, todas estas maldições virão sobre ti e te atingirão: \\par",
+      "reference": "Dt 28:15"
+    },
+    "16": {
+      "text": "Maldito serás tu na cidade, e maldito serás tu no campo!",
+      "reference": "Dt 28:16"
+    },
+    "17": {
+      "text": "Maldito será o teu cesto e a tua amassadeira!",
+      "reference": "Dt 28:17"
+    },
+    "18": {
+      "text": "Maldito será o fruto do teu ventre, o fruto do teu solo, a cria das tuas vacas e a prole das tuas ovelhas!",
+      "reference": "Dt 28:18"
+    },
+    "19": {
+      "text": "Maldito serás tu ao entrares, e maldito serás tu ao saíres! \\par",
+      "reference": "Dt 28:19"
+    },
+    "20": {
+      "text": "Iahweh enviará contra ti a maldição, o pânico e a ameaça em todo empreendimento da tua mão, até que sejas exterminado, até que pereças rapidamente por causa da maldade das tuas ações, pelas quais me abandonaste.",
+      "reference": "Dt 28:20"
+    },
+    "21": {
+      "text": "Iahweh fará com que a peste se apegue a ti até que te elimine do solo em que estás entrando, a fim de tomares posse dele.",
+      "reference": "Dt 28:21"
+    },
+    "22": {
+      "text": "Iahweh te ferirá com tísica e febre, com inflamação, delírio, secura, ferrugem e mofo, que te perseguirão até que pereças.",
+      "reference": "Dt 28:22"
+    },
+    "23": {
+      "text": "O céu sobre a tua cabeça ficará como bronze, e a terra debaixo de ti como ferro.",
+      "reference": "Dt 28:23"
+    },
+    "24": {
+      "text": "Iahweh transformará a chuva da tua terra em cinza e pó, que descerá do céu sobre ti até que fiques em ruínas.",
+      "reference": "Dt 28:24"
+    },
+    "25": {
+      "text": "Iahweh te entregará, já vencido, aos teus inimigos: sairás ao encontro deles por um caminho, e por sete caminhos deles fugirás! Transformar-te-ás em objeto de espanto para todos os reinos da terra.",
+      "reference": "Dt 28:25"
+    },
+    "26": {
+      "text": "Teu cadáver será o alimento de todas as aves do céu e dos animais da terra, e ninguém os espantará. \\par",
+      "reference": "Dt 28:26"
+    },
+    "27": {
+      "text": "Iahweh te ferirá com úlceras do Egito, com tumores, crostas e sarnas que não poderás curar.",
+      "reference": "Dt 28:27"
+    },
+    "28": {
+      "text": "Iahweh te ferirá com loucura, cegueira e demência;",
+      "reference": "Dt 28:28"
+    },
+    "29": {
+      "text": "ficarás tateando ao meio-dia como o cego que tateia na escuridão, e nada será bem sucedido em teus caminhos. \\par Serás oprimido e explorado todos os dias, sem que ninguém te socorra.",
+      "reference": "Dt 28:29"
+    },
+    "30": {
+      "text": "Desposarás uma mulher e um outro homem a possuirá; construirás uma casa e não a habitarás; plantarás uma vinha e não a vindimarás;",
+      "reference": "Dt 28:30"
+    },
+    "31": {
+      "text": "teu boi será morto sob teus olhos e dele não comerás; teu jumento será roubado na tua frente e a ti não voltará; tuas ovelhas serão dadas aos teus inimigos, sem que ninguém te ajude.",
+      "reference": "Dt 28:31"
+    },
+    "32": {
+      "text": "Teus filhos e tuas filhas serão entregues a um outro povo: teus olhos verão isso e ficarão consumidos de saudade todo o dia, e tua mão nada poderá fazer.",
+      "reference": "Dt 28:32"
+    },
+    "33": {
+      "text": "O produto do teu solo e de todo o teu trabalho será comido por um povo que não conheces, e tu serás tão-somente oprimido e maltratado todos os dias.",
+      "reference": "Dt 28:33"
+    },
+    "34": {
+      "text": "Enlouquecerás com o espetáculo que os teus olhos irão ver.",
+      "reference": "Dt 28:34"
+    },
+    "35": {
+      "text": "Iahweh te ferirá com uma úlcera maligna nos joelhos e nas pernas, de que não poderás sarar, desde a sola dos pés até ao alto da cabeça. \\par",
+      "reference": "Dt 28:35"
+    },
+    "36": {
+      "text": "Iahweh te levará – juntamente com o rei que constituíste sobre ti – para uma nação que nem tu nem teus pais conheceram, e lá servirás a outros deuses, feitos de madeira e de pedra.",
+      "reference": "Dt 28:36"
+    },
+    "37": {
+      "text": "Serás motivo de assombro, de provérbio e de caçoada em meio a todos os povos onde Iahweh te houver conduzido. \\par",
+      "reference": "Dt 28:37"
+    },
+    "38": {
+      "text": "Lançarás muitas sementes no campo e pouco colherás, porque o gafanhoto as comerá.",
+      "reference": "Dt 28:38"
+    },
+    "39": {
+      "text": "Plantarás vinhas e as cultivarás, porém não beberás vinho e nada vindimarás, pois o verme as devorará.",
+      "reference": "Dt 28:39"
+    },
+    "40": {
+      "text": "Terás oliveiras em todo o teu território, porém não te ungirás com óleo, porque tuas azeitonas cairão.",
+      "reference": "Dt 28:40"
+    },
+    "41": {
+      "text": "Gerarás filhos e filhas que não serão teus, pois irão para o cativeiro.",
+      "reference": "Dt 28:41"
+    },
+    "42": {
+      "text": "Os insetos se apoderarão de todas as tuas arvores e dos frutos do teu solo. \\par",
+      "reference": "Dt 28:42"
+    },
+    "43": {
+      "text": "O estrangeiro que vive em teu meio se elevará à tua custa cada vez mais alto, e tu cada vez mais baixo descerás.",
+      "reference": "Dt 28:43"
+    },
+    "44": {
+      "text": "Ele poderá emprestar a ti, e tu nada lhe poderás emprestar: é ele que ficará como cabeça, e tu ficarás como cauda. \\par",
+      "reference": "Dt 28:44"
+    },
+    "45": {
+      "text": "Essas maldições todas virão sobre ti e te perseguirão e te atingirão, até que sejas exterminado, porque não obedeceste à voz de Iahweh teu Deus, observando seus mandamentos e estatutos que ele te ordenou.",
+      "reference": "Dt 28:45"
+    },
+    "46": {
+      "text": "Elas serão um sinal e um prodígio contra ti e a tua descendência, para sempre. \\par",
+      "reference": "Dt 28:46"
+    },
+    "47": {
+      "text": "\\par {\\qc\\b\\i Perspectivas de guerra e de exílio\\par }Uma vez que não serviste a Iahweh teu Deus com alegria e generosidade quando estavas na abundância,",
+      "reference": "Dt 28:47"
+    },
+    "48": {
+      "text": "servirás então o inimigo que Iahweh enviará contra ti, na fome e na sede, com nudez e privação total. Ele porá em teu pescoço um jugo de ferro até que sejas exterminado. \\par",
+      "reference": "Dt 28:48"
+    },
+    "49": {
+      "text": "Iahweh erguerá contra ti uma nação longínqua, dos confins da terra, como águia veloz, uma nação cuja língua não compreendes,",
+      "reference": "Dt 28:49"
+    },
+    "50": {
+      "text": "nação de rosto duro, que não respeita o ancião e não tem piedade do jovem.",
+      "reference": "Dt 28:50"
+    },
+    "51": {
+      "text": "Ela comerá o fruto dos teus animais e o fruto do teu solo, até que sejas exterminado; não te deixará trigo, nem vinho novo, nem óleo, nem a cria das tuas vacas ou a prole das tuas ovelhas, até que te faça perecer.",
+      "reference": "Dt 28:51"
+    },
+    "52": {
+      "text": "Ela te sitiará em todas as tuas cidades, até que venham abaixo por toda a terra os muros altos e fortificados em que punhas a tua segurança; ela te sitiará em todas as tuas cidades, por toda a terra que Iahweh teu Deus te houver dado.",
+      "reference": "Dt 28:52"
+    },
+    "53": {
+      "text": "Então, na angústia do assédio com que o teu inimigo te apertar, irás comer o fruto do teu ventre: a carne dos filhos e filhas que Iahweh teu Deus te houver dado.",
+      "reference": "Dt 28:53"
+    },
+    "54": {
+      "text": "O mais delicado e refinado homem do teu meio olhará com maldade para o seu irmão, para a mulher que ele estreitava em seu peito e para os filhos que lhe restarem,",
+      "reference": "Dt 28:54"
+    },
+    "55": {
+      "text": "por ter de repartir com algum deles a carne dos filhos que está para comer, pois nada mais lhe restará na angústia do assédio com que o teu inimigo vai te apertar, em todas as tuas cidades.",
+      "reference": "Dt 28:55"
+    },
+    "56": {
+      "text": "A mais delicada e refinada das mulheres do teu meio – tão delicada e refinada que nunca pôs a sola dos pés no chão – olhará com maldade para o homem que ela estreitava em seu seio, e também para seu filho e sua filha,",
+      "reference": "Dt 28:56"
+    },
+    "57": {
+      "text": "e para a placenta que lhe sai dentre as pernas, e para o filho que acaba de dar à luz, pois faltando tudo, ela os comerás às escondidas, por causa da angústia do assédio com que o teu inimigo vai te apertar, em todas as tuas cidades. \\par",
+      "reference": "Dt 28:57"
+    },
+    "58": {
+      "text": "Se não cuidares de pôr em prática todas as palavras desta Lei escritas neste livro, temendo este nome glorioso e terrível – “Iahweh teu Deus” –,",
+      "reference": "Dt 28:58"
+    },
+    "59": {
+      "text": "Iahweh ferirá a ti e à tua descendência com pragas espantosas, pragas tremendas e persistentes, doenças graves e incuráveis.",
+      "reference": "Dt 28:59"
+    },
+    "60": {
+      "text": "Voltará contra ti as pragas do Egito que te horrorizavam, e elas se apegarão a ti.",
+      "reference": "Dt 28:60"
+    },
+    "61": {
+      "text": "E ainda mais: Iahweh lançará contra ti todas as doenças e pragas que não estão escritas neste livro da Lei, até que sejas exterminado.",
+      "reference": "Dt 28:61"
+    },
+    "62": {
+      "text": "Restarão de vós poucos homens, vós que éreis tão numerosos quanto as estrelas do céu! \\par Uma vez que não obedeceste à voz de Iahweh teu Deus,",
+      "reference": "Dt 28:62"
+    },
+    "63": {
+      "text": "do mesmo modo que Iahweh teu Deus se comprazia em vos fazer o bem e vos multiplicar, assim também ele terá prazer em vos destruir e vos exterminar: sereis arrancados do solo em que estás entrando a fim de tomares posse dele.",
+      "reference": "Dt 28:63"
+    },
+    "64": {
+      "text": "E Iahweh te dispersará por todos os povos, de um extremo da terra ao outro, e aí servirás a outros deuses que nem tu nem teus pais conheceram, feitos de madeira e pedra.",
+      "reference": "Dt 28:64"
+    },
+    "65": {
+      "text": "Em meio a essas nações jamais terás tranqüilidade, e a sola do teu pé não encontrará um lugar para descansar. Lá Iahweh te dará um coração inquieto, olhos mortiços e respiração fugidia.",
+      "reference": "Dt 28:65"
+    },
+    "66": {
+      "text": "Tua vida penderá à tua frente por um fio; ficarás apavorado noite e dia, e não acreditarás mais na vida.",
+      "reference": "Dt 28:66"
+    },
+    "67": {
+      "text": "Pela manhã dirás: ‘Quem dera fosse tarde...’, e pela tarde dirás: ‘Quem dera fosse manhã...’, por causa do pavor que se apoderará do teu coração e pelo espetáculo que os teus olhos irão ver.",
+      "reference": "Dt 28:67"
+    },
+    "68": {
+      "text": "Iahweh vos fará voltar ao Egito, de barco ou pelo caminho do qual eu te dissera: ‘Nunca mais o vereis!’ Lá vos poreis à venda aos teus inimigos como escravos e escravas, e não haverá comprador!” \\par",
+      "reference": "Dt 28:68"
+    },
+    "69": {
+      "text": "\\par {\\qc\\b TERCEIRO DISCURSO\\par }São estas as palavras da Aliança que Iahweh mandará Moisés concluir com os filhos de Israel na terra de Moab, além da Aliança que havia concluído com eles no Horeb. \\par",
+      "reference": "Dt 28:69"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 69
+}

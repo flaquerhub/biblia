@@ -1,0 +1,161 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Prescrições morais e cultuais\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 19:1"
+    },
+    "2": {
+      "text": "“Fala a toda a comunidade dos filhos de Israel. Tu lhes dirás: \\par Sede santos, porque eu, Iahweh vosso Deus, sou santo. \\par",
+      "reference": "Lv 19:2"
+    },
+    "3": {
+      "text": "Cada um de vós respeitará sua mãe e seu pai. \\par Guardai os meus sábados. Eu sou Iahweh vosso Deus.\\par",
+      "reference": "Lv 19:3"
+    },
+    "4": {
+      "text": "Não vos volteis para os ídolos e não mandeis fundir deuses de metal. Eu sou Iahweh vosso Deus. \\par",
+      "reference": "Lv 19:4"
+    },
+    "5": {
+      "text": "Quando oferecerdes um sacrifício de comunhão a Iahweh, oferecei-o de tal modo que sejais aceitos.",
+      "reference": "Lv 19:5"
+    },
+    "6": {
+      "text": "Comer-se-á dele no dia do sacrifício ou no dia seguinte; o que restar no terceiro dia será queimado ao fogo.",
+      "reference": "Lv 19:6"
+    },
+    "7": {
+      "text": "Se se comer dele no terceiro dia, será um manjar estragado e não será aceito.",
+      "reference": "Lv 19:7"
+    },
+    "8": {
+      "text": "Aquele que o comer levará o peso da sua falta, pois que profanou a santidade de Iahweh: tal pessoa será eliminada dentre os seus. \\par",
+      "reference": "Lv 19:8"
+    },
+    "9": {
+      "text": "Quando segardes a messe da vossa terra, não segareis até o limite extremo do campo. Não respigarás a tua messe,",
+      "reference": "Lv 19:9"
+    },
+    "10": {
+      "text": "não rebuscarás a tua vinha nem recolherás os frutos caídos no teu pomar. Tu os deixarás para o pobre e para o estrangeiro. Eu sou Iahweh vosso Deus. \\par",
+      "reference": "Lv 19:10"
+    },
+    "11": {
+      "text": "Ninguém dentre vós cometerá roubo, nem usará de falsidade ou de mentira para com o seu compatriota.",
+      "reference": "Lv 19:11"
+    },
+    "12": {
+      "text": "Não jurareis falsamente pelo meu nome, pois profanarias o nome do teu Deus. Eu sou Iahweh.",
+      "reference": "Lv 19:12"
+    },
+    "13": {
+      "text": "Não oprimirás o teu próximo, nem o roubarás: o salário do operário não ficará contigo até a manhã seguinte.",
+      "reference": "Lv 19:13"
+    },
+    "14": {
+      "text": "Não amaldiçoarás um mudo e não porás obstáculo diante de um cego, mas temerás o teu Deus. Eu sou Iahweh. \\par",
+      "reference": "Lv 19:14"
+    },
+    "15": {
+      "text": "Não cometereis injustiça no julgamento. Não farás acepção de pessoas com relação ao pobre, nem te deixarás levar pela preferência ao grande: segundo a justiça julgarás o teu compatriota.",
+      "reference": "Lv 19:15"
+    },
+    "16": {
+      "text": "Não serás um divulgador de maledicências a respeito dos teus e não sujeitarás a julgamento o sangue do teu próximo. Eu sou Iahweh.",
+      "reference": "Lv 19:16"
+    },
+    "17": {
+      "text": "Não terás no teu coração ódio pelo teu irmão. Deves repreender o teu compatriota, e assim não terás a culpa do pecado.",
+      "reference": "Lv 19:17"
+    },
+    "18": {
+      "text": "Não te vingarás e não guardarás rancor contra os filhos do teu povo. Amarás o teu próximo como a ti mesmo. Eu sou Iahweh. \\par",
+      "reference": "Lv 19:18"
+    },
+    "19": {
+      "text": "Guardareis os meus estatutos. \\par Não jungirás dois animais de espécie diferente, no teu rebanho; não semearás no teu campo duas espécies diferentes de sementes e não usarás veste de duas espécies de tecido. \\par",
+      "reference": "Lv 19:19"
+    },
+    "20": {
+      "text": "Se um homem coabitar com uma mulher que é a serva concubina de outro homem e que não foi resgatada e nem se lhe deu a liberdade, o primeiro está sujeito a uma multa, mas não serão mortos, pois ela não era livre.",
+      "reference": "Lv 19:20"
+    },
+    "21": {
+      "text": "Trará a Iahweh um sacrifício de reparação, à entrada da Tenda da Reunião. Será um carneiro de reparação.",
+      "reference": "Lv 19:21"
+    },
+    "22": {
+      "text": "Com esse carneiro de reparação o sacerdote fará sobre o homem o rito de expiação diante de Iahweh, pelo pecado cometido; e o pecado que cometeu ser-lhe-á perdoado. \\par",
+      "reference": "Lv 19:22"
+    },
+    "23": {
+      "text": "Quando tiverdes entrado na terra e tiverdes plantado alguma árvore frutífera, considerareis os seus frutos como se fossem o seu prepúcio. Durante três anos serão para vós como coisa incircuncisa e não se comerá deles.",
+      "reference": "Lv 19:23"
+    },
+    "24": {
+      "text": "No quarto ano, todos os frutos serão sagrados em uma festa de louvor a Iahweh.",
+      "reference": "Lv 19:24"
+    },
+    "25": {
+      "text": "No quinto ano, podereis comer os seus frutos e recolher para vós mesmos o seu produto. Eu sou Iahweh vosso Deus. \\par",
+      "reference": "Lv 19:25"
+    },
+    "26": {
+      "text": "Não comereis coisa alguma com sangue; não praticareis adivinhações nem encantamentos. \\par",
+      "reference": "Lv 19:26"
+    },
+    "27": {
+      "text": "Não cortareis a extremidade da vossa cabeleira em redondo e não danificarás a extremidade da tua barba.",
+      "reference": "Lv 19:27"
+    },
+    "28": {
+      "text": "Não fareis incisões no corpo por algum morto e não fareis nenhuma tatuagem. Eu sou Iahweh. \\par",
+      "reference": "Lv 19:28"
+    },
+    "29": {
+      "text": "Não profanes a tua filha, fazendo-a prostituir-se; para que a terra não se prostitua e não se torne incestuosa. \\par",
+      "reference": "Lv 19:29"
+    },
+    "30": {
+      "text": "Guardareis os meus sábados, reverenciareis meu santuário. Eu sou Iahweh. \\par",
+      "reference": "Lv 19:30"
+    },
+    "31": {
+      "text": "Não vos voltareis para os necromantes nem consultareis os adivinhos, pois eles vos contaminariam. Eu sou Iahweh vosso Deus. \\par",
+      "reference": "Lv 19:31"
+    },
+    "32": {
+      "text": "Levantar-te-ás diante de uma cabeça encanecida, honrarás a pessoa do ancião e temerás o teu Deus. Eu sou Iahweh. \\par",
+      "reference": "Lv 19:32"
+    },
+    "33": {
+      "text": "Se um estrangeiro habita convosco na vossa terra, não o molestareis.",
+      "reference": "Lv 19:33"
+    },
+    "34": {
+      "text": "O estrangeiro que habita convosco será para vós como um compatriota, e tu o amarás como a ti mesmo, pois fostes estrangeiros na terra do Egito. Eu sou Iahweh vosso Deus. \\par",
+      "reference": "Lv 19:34"
+    },
+    "35": {
+      "text": "Não cometereis injustiça no julgamento, quer se trate de medidas de comprimento, quer de peso ou de capacidade.",
+      "reference": "Lv 19:35"
+    },
+    "36": {
+      "text": "Tereis balanças justas, pesos justos, medida justa e quartilho justo. Eu sou Iahweh vosso Deus que vos fez sair da terra do Egito. \\par",
+      "reference": "Lv 19:36"
+    },
+    "37": {
+      "text": "Guardai, pois, todos os meus estatutos e as minhas normas e praticai-os. Eu sou Iahweh”. \\par",
+      "reference": "Lv 19:37"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 37
+}

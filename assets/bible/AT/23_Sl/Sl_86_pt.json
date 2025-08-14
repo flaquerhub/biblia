@@ -1,0 +1,81 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 86,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 86 (85)\\par }{\\qc\\b\\i Súplica na provação\\par }{\\qc\\i Oração. De Davi.\\par } Inclina teu ouvido, Iahweh, responde-me, \\par pois eu sou pobre e indigente! \\par",
+      "reference": "Sl 86:1"
+    },
+    "2": {
+      "text": "Guarda-me, porque sou fiel, \\par salva teu servo que em ti confia! \\par Tu és o meu Deus,",
+      "reference": "Sl 86:2"
+    },
+    "3": {
+      "text": "tem piedade de mim, Senhor, \\par pois é a ti que eu invoco todo o dia! \\par",
+      "reference": "Sl 86:3"
+    },
+    "4": {
+      "text": "Alegra a vida do teu servo, \\par pois é a ti, Senhor, que eu me elevo! \\par",
+      "reference": "Sl 86:4"
+    },
+    "5": {
+      "text": "Tu és bom e perdoas, Senhor, \\par és cheio de amor com todos os que te invocam. \\par",
+      "reference": "Sl 86:5"
+    },
+    "6": {
+      "text": "Iahweh, atende à minha prece, \\par considera minha voz suplicante! \\par",
+      "reference": "Sl 86:6"
+    },
+    "7": {
+      "text": "Eu grito a ti no dia da angústia, \\par pois tu me respondes, Senhor! \\par",
+      "reference": "Sl 86:7"
+    },
+    "8": {
+      "text": "Entre os deuses não há outro como tu, \\par nada que se iguale às tuas obras! \\par",
+      "reference": "Sl 86:8"
+    },
+    "9": {
+      "text": "Todas as nações virão te adorar \\par e dar glória ao teu nome, Senhor; \\par",
+      "reference": "Sl 86:9"
+    },
+    "10": {
+      "text": "pois tu és grande e fazes maravilhas, \\par tu és Deus, tu és o único. \\par",
+      "reference": "Sl 86:10"
+    },
+    "11": {
+      "text": "Ensina-me teus caminhos, Iahweh, \\par e caminharei segundo tua verdade; \\par unifica meu coração para temer o teu nome. \\par",
+      "reference": "Sl 86:11"
+    },
+    "12": {
+      "text": "Eu te agradeço de todo o coração, Senhor meu Deus, \\par vou dar glória ao teu nome para sempre, \\par",
+      "reference": "Sl 86:12"
+    },
+    "13": {
+      "text": "pois é grande o teu amor para comigo: \\par tiraste-me das profundezas do Xeol. \\par",
+      "reference": "Sl 86:13"
+    },
+    "14": {
+      "text": "Ó Deus, os soberbos se levantam contra mim, \\par um bando de violentos persegue minha vida, \\par à sua frente não há lugar para ti. \\par",
+      "reference": "Sl 86:14"
+    },
+    "15": {
+      "text": "Tu, Senhor, Deus de piedade e compaixão, \\par lento para a cólera, cheio de amor e fidelidade, \\par",
+      "reference": "Sl 86:15"
+    },
+    "16": {
+      "text": "volta-te para mim, tem piedade de mim! \\par Concede tua força ao teu servo, \\par e tua salvação ao filho de tua serva: \\par",
+      "reference": "Sl 86:16"
+    },
+    "17": {
+      "text": "realiza um sinal de bondade para mim! \\par Meus inimigos verão e ficarão envergonhados, \\par pois tu, Iahweh, me socorres e consolas. \\par",
+      "reference": "Sl 86:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

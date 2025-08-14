@@ -1,0 +1,109 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 9. RECAPITULAÇÃO\\par }{\\qc\\b\\i Reis vencidos a leste do Jordão\\par }Estes são os reis da terra, aos quais os filhos de Israel feriram e cujo território tomaram, além do Jordão, ao oriente, desde o ribeiro Arnon até ao monte Hermon, com toda a Arabá ao oriente:",
+      "reference": "Js 12:1"
+    },
+    "2": {
+      "text": "Seon, rei dos amorreus, que habitava em Hesebon, dominava desde Aroer, na margem do vale do Arnon, compreendendo o fundo do vale, a metade de Galaad e até o Jaboc, o ribeiro que é a fronteira dos filhos de Amon;",
+      "reference": "Js 12:2"
+    },
+    "3": {
+      "text": "a Arabá até ao mar de Quineret ao oriente, e até ao mar da Arabá, o mar Salgado, ao oriente, em direção de Bet-Jesimot, e ao sul os contrafortes das encostas do Fasga. \\par",
+      "reference": "Js 12:3"
+    },
+    "4": {
+      "text": "Og, rei de Basã, um dos últimos rafaim, que habitava em Astarot e em Edrai,",
+      "reference": "Js 12:4"
+    },
+    "5": {
+      "text": "dominava o monte Hermon e Saleca, todo o Basã até à fronteira dos gessuritas e dos maacatitas, e a metade de Galaad, até às fronteiras de Seon, rei de Hesebon.",
+      "reference": "Js 12:5"
+    },
+    "6": {
+      "text": "Moisés, servo de Iahweh, e os filhos de Israel derrotaram-nos, e Moisés, servo de Iahweh, deu a posse de sua terra aos rubenitas, aos gaditas e à meia tribo de Manassés. \\par",
+      "reference": "Js 12:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Reis vencidos a oeste do Jordão\\par }Estes são os reis da terra que Josué e os filhos de Israel venceram, além do Jordão, ao ocidente, desde Baal-Gad, no vale do Líbano, até o monte Escarpado, que se eleva em direção a Seir, e cujas terras Josué distribuiu por herança às tribos de Israel, segundo as suas divisões:",
+      "reference": "Js 12:7"
+    },
+    "8": {
+      "text": "na montanha e nas planícies, na Arabá e nas encostas, no deserto e no Negueb, entre os heteus, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus:",
+      "reference": "Js 12:8"
+    },
+    "9": {
+      "text": "O rei de Jericó, um; o rei de Hai, perto de Betel, um;",
+      "reference": "Js 12:9"
+    },
+    "10": {
+      "text": "o rei de Jerusalém, um; o rei de Hebron, um;",
+      "reference": "Js 12:10"
+    },
+    "11": {
+      "text": "o rei de Jarmut, um; o rei de Laquis, um;",
+      "reference": "Js 12:11"
+    },
+    "12": {
+      "text": "o rei de Eglon, um; o rei de Gazer, um;",
+      "reference": "Js 12:12"
+    },
+    "13": {
+      "text": "o rei de Dabir, um; o rei de Gader; um;",
+      "reference": "Js 12:13"
+    },
+    "14": {
+      "text": "o rei de Horma, um; o rei de Arad, um;",
+      "reference": "Js 12:14"
+    },
+    "15": {
+      "text": "o rei de Lebna, um; o rei de Odolam, um;",
+      "reference": "Js 12:15"
+    },
+    "16": {
+      "text": "o rei de Maceda, um; o rei de Betel, um;",
+      "reference": "Js 12:16"
+    },
+    "17": {
+      "text": "o rei de Tafua, um; o rei de Ofer, um;",
+      "reference": "Js 12:17"
+    },
+    "18": {
+      "text": "o rei de Afec, um; o rei de Saron, um;",
+      "reference": "Js 12:18"
+    },
+    "19": {
+      "text": "o rei de Merom, um; o rei de Hasor, um;",
+      "reference": "Js 12:19"
+    },
+    "20": {
+      "text": "o rei de Semeron Meron, um; o rei de Acsaf, um;",
+      "reference": "Js 12:20"
+    },
+    "21": {
+      "text": "o rei de Tanac, um; o rei de Meguido, um;",
+      "reference": "Js 12:21"
+    },
+    "22": {
+      "text": "o rei de Cedes, um; o rei de Jecnaam no Carmelo, um;",
+      "reference": "Js 12:22"
+    },
+    "23": {
+      "text": "o rei de Dor, nas encostas de Dor, um; o rei das nações na Galiléia, um;",
+      "reference": "Js 12:23"
+    },
+    "24": {
+      "text": "o rei de Tersa, um; ao todo trinta e um reis. \\par",
+      "reference": "Js 12:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

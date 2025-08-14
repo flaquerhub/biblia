@@ -1,0 +1,109 @@
+{
+  "book": 69,
+  "book_name": "Sabedoria",
+  "book_abbr": "Sb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Wisdom",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Dizem entre si, em seus falsos raciocínios: \\par “Breve e triste é nossa vida, \\par o remédio não está no fim do homem, \\par não se conhece quem tenha voltado do Hades. \\par",
+      "reference": "Sb 2:1"
+    },
+    "2": {
+      "text": "Nós nascemos do acaso \\par e logo passaremos como quem não existiu; \\par fumo é o sopro de nosso nariz, \\par e o pensamento, centelha do coração que bate. \\par",
+      "reference": "Sb 2:2"
+    },
+    "3": {
+      "text": "Extinta ela, o corpo se tornará cinza \\par e o espírito se dispersará como o ar inconsistente. \\par",
+      "reference": "Sb 2:3"
+    },
+    "4": {
+      "text": "Com o tempo, nosso nome cairá no esquecimento \\par e ninguém se lembrará de nossas obras; \\par nossa vida passará como uma nuvem – sem traços –, \\par se dissipará como a neblina \\par expulsa pelos raios do sol \\par e, por seu calor, abatida. \\par",
+      "reference": "Sb 2:4"
+    },
+    "5": {
+      "text": "Nossa vida é a passagem de uma sombra, \\par e nosso fim, irreversível; \\par o selo lhe é aposto, não há retorno. \\par",
+      "reference": "Sb 2:5"
+    },
+    "6": {
+      "text": "Vinde, pois, desfrutar dos bens presentes \\par e gozar das criaturas com ânsia juvenil. \\par",
+      "reference": "Sb 2:6"
+    },
+    "7": {
+      "text": "Inebriemo-nos com o melhor vinho e com perfumes, \\par não deixemos passar a flor da primavera, \\par",
+      "reference": "Sb 2:7"
+    },
+    "8": {
+      "text": "coroemo-nos com botões de rosas, antes que feneçam; \\par",
+      "reference": "Sb 2:8"
+    },
+    "9": {
+      "text": "nenhum prado ficará sem provar da nossa orgia, \\par deixemos em toda parte sinais de alegria \\par pois esta é a nossa parte e nossa porção! \\par",
+      "reference": "Sb 2:9"
+    },
+    "10": {
+      "text": "Oprimamos o justo pobre, \\par não poupemos a viúva \\par nem respeitemos as velhas cãs do ancião. \\par",
+      "reference": "Sb 2:10"
+    },
+    "11": {
+      "text": "Que nossa força seja a lei da justiça, \\par pois o fraco, com certeza, é inútil. \\par",
+      "reference": "Sb 2:11"
+    },
+    "12": {
+      "text": "Cerquemos o justo, porque nos incomoda \\par e se opõe às nossas ações, \\par nos censura as faltas contra a Lei, \\par nos acusa de faltas contra a nossa educação. \\par",
+      "reference": "Sb 2:12"
+    },
+    "13": {
+      "text": "Declara ter o conhecimento de Deus, \\par e se diz filho do Senhor; \\par",
+      "reference": "Sb 2:13"
+    },
+    "14": {
+      "text": "ele se tornou acusador de nossos pensamentos, \\par basta vê-lo para nos importunarmos; \\par",
+      "reference": "Sb 2:14"
+    },
+    "15": {
+      "text": "sua vida se distingue da dos demais \\par e seus caminhos são todos diferentes. \\par",
+      "reference": "Sb 2:15"
+    },
+    "16": {
+      "text": "Ele nos tem em conta de bastardos; \\par de nossas vias se afasta, \\par como se contaminassem. \\par Proclama feliz o destino dos justos \\par e se gloria de ter a Deus por pai. \\par",
+      "reference": "Sb 2:16"
+    },
+    "17": {
+      "text": "Vejamos se suas palavras são verdadeiras \\par experimentemos o que será do seu fim. \\par",
+      "reference": "Sb 2:17"
+    },
+    "18": {
+      "text": "Pois se o justo é filho de Deus, Ele o assistirá \\par e o libertará das mãos de seus adversários. \\par",
+      "reference": "Sb 2:18"
+    },
+    "19": {
+      "text": "Experimentemo-lo pelo ultraje e pela tortura \\par para apreciar a sua serenidade \\par e examinar a sua resignação. \\par",
+      "reference": "Sb 2:19"
+    },
+    "20": {
+      "text": "Condenemo-lo a uma morte vergonhosa, \\par pois diz que há quem o visite”. \\par",
+      "reference": "Sb 2:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Erro dos ímpios\\par }Assim raciocinam, mas se enganam \\par porque sua maldade os cega. \\par",
+      "reference": "Sb 2:21"
+    },
+    "22": {
+      "text": "Eles ignoram os segredos de Deus, \\par não esperam o prêmio pela santidade, \\par não crêem na recompensa das vidas puras. \\par",
+      "reference": "Sb 2:22"
+    },
+    "23": {
+      "text": "Deus criou o homem para a incorruptibilidade \\par e o fez imagem de sua própria natureza; \\par",
+      "reference": "Sb 2:23"
+    },
+    "24": {
+      "text": "foi por inveja do diabo que a morte entrou no mundo: \\par experimentam-na quantos são de seu partido! \\par",
+      "reference": "Sb 2:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

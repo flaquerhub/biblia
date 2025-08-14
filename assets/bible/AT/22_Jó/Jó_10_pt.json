@@ -1,0 +1,101 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "Já que tenho tédio à vida, \\par darei livre curso ao meu lamento, \\par desafogando a amargura da minha alma. \\par",
+      "reference": "Jó 10:1"
+    },
+    "2": {
+      "text": "Direi a Deus: Não me condenes, \\par explica-me o que tens contra mim. \\par",
+      "reference": "Jó 10:2"
+    },
+    "3": {
+      "text": "Acaso te agrada oprimir-me, \\par desdenhar a obra de tuas mãos \\par e favorecer o conselho dos ímpios? \\par",
+      "reference": "Jó 10:3"
+    },
+    "4": {
+      "text": "Porventura tens olhos de carne, \\par ou vês como vêem os homens? \\par",
+      "reference": "Jó 10:4"
+    },
+    "5": {
+      "text": "Acaso são os teus dias como os de um mortal \\par e teus anos como os dias do homem, \\par",
+      "reference": "Jó 10:5"
+    },
+    "6": {
+      "text": "para indagares minha culpa \\par e examinares meu pecado, \\par",
+      "reference": "Jó 10:6"
+    },
+    "7": {
+      "text": "quando sabes que não sou culpado \\par e que ninguém me pode livrar de tuas mãos? \\par",
+      "reference": "Jó 10:7"
+    },
+    "8": {
+      "text": "Tuas mãos me formaram e me modelaram, \\par e depois te volves a mim para aniquilar-me? \\par",
+      "reference": "Jó 10:8"
+    },
+    "9": {
+      "text": "Lembra-te de que me fizeste de barro, \\par e agora me farás voltar ao pó? \\par",
+      "reference": "Jó 10:9"
+    },
+    "10": {
+      "text": "Não me derramaste como leite \\par e me coalhaste como queijo? \\par",
+      "reference": "Jó 10:10"
+    },
+    "11": {
+      "text": "De pele e carne me revestiste, \\par de ossos e de nervos me teceste. \\par",
+      "reference": "Jó 10:11"
+    },
+    "12": {
+      "text": "Deste-me a vida e o amor, \\par e tua solicitude me guardou. \\par",
+      "reference": "Jó 10:12"
+    },
+    "13": {
+      "text": "E, contudo, algo guardavas contigo: \\par agora sei que tinhas a intenção \\par",
+      "reference": "Jó 10:13"
+    },
+    "14": {
+      "text": "de vigiar sobre mim para que, se eu pecasse,\\par meu pecado não fosse considerado isento de culpa.\\par",
+      "reference": "Jó 10:14"
+    },
+    "15": {
+      "text": "Se tivesse incorrido em pecado, ai de mim!\\par Se fosse inocente, não haveria de levantar a cabeça, \\par saturado de afrontas e saciado de misérias.\\par",
+      "reference": "Jó 10:15"
+    },
+    "16": {
+      "text": "Orgulhoso como um leão, tu me caças, \\par multiplica proezas contra mim, \\par",
+      "reference": "Jó 10:16"
+    },
+    "17": {
+      "text": "renovando teus ataques contra mim,\\par redobrando tua cólera contra mim, \\par lançando tropas descansadas contra mim. \\par",
+      "reference": "Jó 10:17"
+    },
+    "18": {
+      "text": "Então, por que me tiraste do ventre? \\par Poderia ter morrido sem que olho algum me visse,\\par",
+      "reference": "Jó 10:18"
+    },
+    "19": {
+      "text": "e ser como se não tivesse existido, \\par levado do ventre para o sepulcro.\\par",
+      "reference": "Jó 10:19"
+    },
+    "20": {
+      "text": "Quão poucos são os dias de minha vida!\\par Deixa de fixar-me, para que eu tenha um instante de alegria, \\par",
+      "reference": "Jó 10:20"
+    },
+    "21": {
+      "text": "antes de partir, sem nunca mais voltar, \\par para a terra de trevas e sombras, \\par",
+      "reference": "Jó 10:21"
+    },
+    "22": {
+      "text": "para a terra soturna e sombria, \\par de escuridão e desordem, \\par onde a claridade é sombra. \\par",
+      "reference": "Jó 10:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

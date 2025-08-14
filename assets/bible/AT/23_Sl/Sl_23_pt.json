@@ -1,0 +1,37 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 23 (22)\\par }{\\qc\\b\\i O bom Pastor\\par }{\\qc\\i Salmo. De Davi.\\par } Iahweh é meu pastor, nada me falta. \\par",
+      "reference": "Sl 23:1"
+    },
+    "2": {
+      "text": "Em verdes pastagens me faz repousar. \\par Para as águas tranqüilas me conduz \\par",
+      "reference": "Sl 23:2"
+    },
+    "3": {
+      "text": "e restaura minhas forças; \\par ele me guia por caminhos justos, \\par por causa do seu nome. \\par",
+      "reference": "Sl 23:3"
+    },
+    "4": {
+      "text": "Ainda que eu caminhe por um vale tenebroso, \\par nenhum mal temerei, pois estás junto a mim; \\par teu bastão e teu cajado me deixam tranqüilo. \\par",
+      "reference": "Sl 23:4"
+    },
+    "5": {
+      "text": "Diante de mim preparas uma mesa, \\par à frente dos meus opressores; \\par unges minha cabeça com óleo, \\par e minha taça transborda. \\par",
+      "reference": "Sl 23:5"
+    },
+    "6": {
+      "text": "Sim, felicidade e amor me seguirão \\par todos os dias da minha vida; \\par minha morada é a casa de Iahweh \\par por dias sem fim. \\par",
+      "reference": "Sl 23:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

@@ -1,0 +1,153 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A fiança imprudente\\par }Meu filho, se foste fiador do teu próximo, \\par se deste a mão por um estrangeiro; \\par",
+      "reference": "Pv 6:1"
+    },
+    "2": {
+      "text": "se estás comprometido por tuas palavras, \\par e preso pelas sentenças da tua boca, \\par",
+      "reference": "Pv 6:2"
+    },
+    "3": {
+      "text": "faze o seguinte, meu filho, para livrar-te, \\par pois caíste em poder do teu próximo: \\par",
+      "reference": "Pv 6:3"
+    },
+    "4": {
+      "text": "Vai, insiste e incomoda o teu próximo, \\par não dês repouso aos teus olhos, nem sono às tuas pálpebras; \\par",
+      "reference": "Pv 6:4"
+    },
+    "5": {
+      "text": "livra-te, como a cerva da armadilha, \\par ou como o pássaro da arapuca! \\par",
+      "reference": "Pv 6:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i O preguiçoso e a formiga\\par }Anda, preguiçoso, olha a formiga, \\par observa o seu proceder, e torna-te sábio: \\par",
+      "reference": "Pv 6:6"
+    },
+    "7": {
+      "text": "sem ter um chefe, \\par nem um guia, nem um dirigente, \\par",
+      "reference": "Pv 6:7"
+    },
+    "8": {
+      "text": "no verão, acumula o grão \\par e reúne provisões durante a colheita. \\par",
+      "reference": "Pv 6:8"
+    },
+    "9": {
+      "text": "Até quando dormirás, ó preguiçoso? \\par Quando irás te levantar do sono? \\par",
+      "reference": "Pv 6:9"
+    },
+    "10": {
+      "text": "Um pouco dormes, cochila um pouco; \\par um pouco cruzas os braços e descansas; \\par",
+      "reference": "Pv 6:10"
+    },
+    "11": {
+      "text": "mas te sobrevém a pobreza do vagabundo \\par e a indigência do mendigo! \\par",
+      "reference": "Pv 6:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i O insensato\\par }O homem depravado e malvado, \\par o que emprega palavras enganosas, \\par",
+      "reference": "Pv 6:12"
+    },
+    "13": {
+      "text": "pisca o olho, balança os pés \\par e faz sinal com os dedos; \\par",
+      "reference": "Pv 6:13"
+    },
+    "14": {
+      "text": "pensa desatinos e planeja maldades, \\par e sempre está semeando discórdias. \\par",
+      "reference": "Pv 6:14"
+    },
+    "15": {
+      "text": "De repente, porém, lhe sobrevirá a perdição, \\par de improviso o quebrará, sem remédio! \\par",
+      "reference": "Pv 6:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Sete coisas abomináveis\\par }Seis coisas detesta Iahweh, \\par e sete lhe são abominação: \\par",
+      "reference": "Pv 6:16"
+    },
+    "17": {
+      "text": "olhos altivos, língua mentirosa, \\par mãos que derramam o sangue inocente, \\par",
+      "reference": "Pv 6:17"
+    },
+    "18": {
+      "text": "coração que maquina planos malvados, \\par pés que correm para a maldade, \\par",
+      "reference": "Pv 6:18"
+    },
+    "19": {
+      "text": "testemunha falsa que profere mentiras, \\par e o que semeia discórdia entre irmãos. \\par",
+      "reference": "Pv 6:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Continuação do discurso paterno\\par }Meu filho, guarda os preceitos de teu pai, \\par não rejeites a instrução de tua mãe. \\par",
+      "reference": "Pv 6:20"
+    },
+    "21": {
+      "text": "Leva-os sempre atados ao coração \\par e amarra-os ao pescoço: \\par",
+      "reference": "Pv 6:21"
+    },
+    "22": {
+      "text": "quando caminhares, te guiarão; \\par quando descansares, te guardarão; \\par quando despertares, te falarão. \\par",
+      "reference": "Pv 6:22"
+    },
+    "23": {
+      "text": "Pois o preceito é uma lâmpada, \\par e a instrução é uma luz, \\par e é um caminho de vida a exortação que disciplina. \\par",
+      "reference": "Pv 6:23"
+    },
+    "24": {
+      "text": "Eles te guardarão da mulher má, \\par da língua suave da estranha. \\par",
+      "reference": "Pv 6:24"
+    },
+    "25": {
+      "text": "Não cobice o teu coração a sua beleza, \\par nem te deixes prender por seus olhares; \\par",
+      "reference": "Pv 6:25"
+    },
+    "26": {
+      "text": "se a prostituta procura um pedaço de pão, \\par a mulher casada quer uma vida preciosa! \\par",
+      "reference": "Pv 6:26"
+    },
+    "27": {
+      "text": "Pode alguém carregar fogo consigo \\par sem queimar a própria roupa? \\par",
+      "reference": "Pv 6:27"
+    },
+    "28": {
+      "text": "Pode alguém caminhar sobre brasas \\par sem queimar os próprios pés? \\par",
+      "reference": "Pv 6:28"
+    },
+    "29": {
+      "text": "Assim acontece com aquele que procura a mulher do próximo, \\par quem a toca não ficará impune. \\par",
+      "reference": "Pv 6:29"
+    },
+    "30": {
+      "text": "O ladrão não fica difamado quando rouba \\par para saciar a fome. \\par",
+      "reference": "Pv 6:30"
+    },
+    "31": {
+      "text": "Se o prendem, cobrar-lhe-ão sete vezes mais, \\par e terá que entregar toda a sua fortuna. \\par",
+      "reference": "Pv 6:31"
+    },
+    "32": {
+      "text": "O adúltero é homem sem juízo, \\par o violador arruína-se a si mesmo: \\par",
+      "reference": "Pv 6:32"
+    },
+    "33": {
+      "text": "receberá golpes e ignomínia, \\par e a sua infâmia não desaparecerá. \\par",
+      "reference": "Pv 6:33"
+    },
+    "34": {
+      "text": "Pois o ciúme excita a raiva do marido, \\par e no dia da vingança não terá piedade; \\par",
+      "reference": "Pv 6:34"
+    },
+    "35": {
+      "text": "não aceitará compensações, \\par em nada consentirá, mesmo se aumentares os presentes. \\par",
+      "reference": "Pv 6:35"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 35
+}

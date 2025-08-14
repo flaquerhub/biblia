@@ -1,0 +1,73 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Castigo da idolatria\\par }Quando Efraim falava, era o terror, \\par ele era sublime em Israel, \\par mas tornou-se culpado por causa de Baal e morreu. \\par",
+      "reference": "Os 13:1"
+    },
+    "2": {
+      "text": "E agora continuam pecando: \\par eles constroem para si uma imagem de metal fundido, \\par com sua prata, ídolos de acordo com sua habilidade: \\par tudo isso não é senão obra de um artesão! \\par Eles dizem: “Oferecei-lhes sacrifícios”. \\par Homens beijam bezerros! \\par",
+      "reference": "Os 13:2"
+    },
+    "3": {
+      "text": "Por isso, serão como a nuvem da manhã, \\par como o orvalho que cedo desaparece, \\par como a palha que voa fora da eira \\par e como a fumaça que sai pela janela. \\par",
+      "reference": "Os 13:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Castigo da ingratidão\\par }Mas eu sou Iahweh, teu Deus, desde a terra do Egito. \\par Não deves reconhecer outro Deus além de mim, \\par não há salvador que não seja eu. \\par",
+      "reference": "Os 13:4"
+    },
+    "5": {
+      "text": "Eu te conheci no deserto, \\par em uma terra árida. \\par",
+      "reference": "Os 13:5"
+    },
+    "6": {
+      "text": "Eu os apascentei, \\par e eles se saciaram; \\par uma vez saciados, seu coração se exaltou; \\par por isso eles se esqueceram de mim. \\par",
+      "reference": "Os 13:6"
+    },
+    "7": {
+      "text": "E eu me tornei para eles como um leão, \\par como uma pantera no caminho eu estava à espreita. \\par",
+      "reference": "Os 13:7"
+    },
+    "8": {
+      "text": "Eu os ataco como uma ursa despojada de seus filhotes, \\par rasgo-lhes o peito e aí os devoro \\par como uma leoa, os animais do campo os despedaçarão. \\par",
+      "reference": "Os 13:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Fim da realeza\\par }Eis que está destruído, Israel, \\par pois só em mim está o teu auxílio. \\par",
+      "reference": "Os 13:9"
+    },
+    "10": {
+      "text": "Onde está, pois, o teu rei para que te salve \\par em todas as tuas cidades, \\par e os teus juízes a quem dizias: \\par “Dá-me um rei e um príncipe”? \\par",
+      "reference": "Os 13:10"
+    },
+    "11": {
+      "text": "Eu te dou um rei em minha ira, \\par eu o retomo em meu furor. \\par",
+      "reference": "Os 13:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A ruína inevitável\\par }A falta de Efraim está guardada, \\par seu pecado está conservado. \\par",
+      "reference": "Os 13:12"
+    },
+    "13": {
+      "text": "As dores de parto lhe sobrevêm, \\par mas é um filho néscio, \\par porque, chegado o momento, ele não sai do seio materno. \\par",
+      "reference": "Os 13:13"
+    },
+    "14": {
+      "text": "Deveria eu livrá-los do poder do Xeol? \\par Deveria eu resgatá-los da morte? \\par Onde estão, ó morte, as tuas calamidades? \\par Onde está, ó Xeol, o teu flagelo? \\par A compaixão se esconde de meus olhos. \\par",
+      "reference": "Os 13:14"
+    },
+    "15": {
+      "text": "Ainda que Efraim prospere entre seus irmãos, \\par virá um vento do oriente: \\par um vento de Iahweh subindo do deserto, \\par secará o seu manancial e a sua fonte se esgotará. \\par Ele saqueará o tesouro \\par de todos os objetos preciosos. \\par",
+      "reference": "Os 13:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

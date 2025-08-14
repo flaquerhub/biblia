@@ -1,0 +1,173 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. A PAIXÃO\\par }{\\qc\\b\\i A prisão de Jesus\\par }Tendo dito isso, Jesus foi com seus discípulos para o outro lado da torrente do Cedron. Havia ali um jardim, onde Jesus entrou com seus discípulos.",
+      "reference": "Jo 18:1"
+    },
+    "2": {
+      "text": "Ora, Judas, que o estava traindo, conhecia também esse lugar, porque, freqüentemente, Jesus e seus discípulos aí se reuniam.",
+      "reference": "Jo 18:2"
+    },
+    "3": {
+      "text": "Judas, então, levando a coorte e guardas destacados pelos chefes dos sacerdotes e pelos fariseus, aí chega, com lanternas, archotes e armas.",
+      "reference": "Jo 18:3"
+    },
+    "4": {
+      "text": "Sabendo Jesus tudo o que lhe aconteceria, adiantou-se e lhes disse: “A quem procurais?”",
+      "reference": "Jo 18:4"
+    },
+    "5": {
+      "text": "Responderam: “Jesus, o Nazareu”. Disse-lhes: “Sou eu”. Judas, que o estava traindo, estava também com eles.",
+      "reference": "Jo 18:5"
+    },
+    "6": {
+      "text": "Quando Jesus lhes disse “Sou eu”, recuaram e caíram por terra.",
+      "reference": "Jo 18:6"
+    },
+    "7": {
+      "text": "Perguntou-lhes, então, novamente: “A quem procurais?” Disseram: “Jesus, o Nazareu”.",
+      "reference": "Jo 18:7"
+    },
+    "8": {
+      "text": "Jesus respondeu: “Eu vos disse que sou eu. Se, então, é a mim que procurais, deixai que estes se retirem”,",
+      "reference": "Jo 18:8"
+    },
+    "9": {
+      "text": "a fim de se realizar a palavra que diz: \\par {\\i Não perdi nenhum dos que me deste. }\\par",
+      "reference": "Jo 18:9"
+    },
+    "10": {
+      "text": "Então, Simão Pedro, que trazia uma espada, tirou-a, feriu o servo do Sumo Sacerdote, a quem decepou a orelha direita. O nome do servo era Malco.",
+      "reference": "Jo 18:10"
+    },
+    "11": {
+      "text": "Jesus disse a Pedro: “Embainha a tua espada. Deixarei eu de beber o cálice que o Pai me deu?” \\par",
+      "reference": "Jo 18:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Jesus diante de Anás e Caifás. Negações de Pedro\\par }Então a coorte, o tribuno e os guardas dos judeus prenderam a Jesus e o ataram.",
+      "reference": "Jo 18:12"
+    },
+    "13": {
+      "text": "Conduziram-no primeiro a Anás, que era sogro de Caifás, o Sumo Sacerdote daquele ano.",
+      "reference": "Jo 18:13"
+    },
+    "14": {
+      "text": "Caifás fora o que aconselhara aos judeus: “É melhor que um só homem morra pelo povo”. \\par",
+      "reference": "Jo 18:14"
+    },
+    "15": {
+      "text": "Ora, Simão Pedro, junto com outro discípulo, seguia Jesus. Esse discípulo era conhecido do Sumo Sacerdote e entrou com Jesus no pátio do Sumo Sacerdote.",
+      "reference": "Jo 18:15"
+    },
+    "16": {
+      "text": "Pedro, entretanto, ficou junto à porta, de fora. Então, o outro discípulo, conhecido do Sumo Sacerdote, saiu, falou com a porteira e introduziu Pedro. \\par",
+      "reference": "Jo 18:16"
+    },
+    "17": {
+      "text": "A criada que guardava a porta diz então a Pedro: “Não és, tu também, um dos discípulos deste homem?” Respondeu ele: “Não sou”.",
+      "reference": "Jo 18:17"
+    },
+    "18": {
+      "text": "Os servos e os guardas tinham feito uma fogueira, porque estava frio; em torno dela se aqueciam. Pedro também ficou com eles, aquecendo-se.",
+      "reference": "Jo 18:18"
+    },
+    "19": {
+      "text": "O Sumo Sacerdote interrogou Jesus sobre os seus discípulos e sobre a sua doutrina.",
+      "reference": "Jo 18:19"
+    },
+    "20": {
+      "text": "Jesus lhe respondeu: “Falei abertamente ao mundo. Sempre ensinei na sinagoga e no Templo, onde se reúnem todos os judeus; nada falei às escondidas.",
+      "reference": "Jo 18:20"
+    },
+    "21": {
+      "text": "Por que me interrogas? Pergunta aos que ouviram o que lhes falei; eles sabem o que eu disse”.",
+      "reference": "Jo 18:21"
+    },
+    "22": {
+      "text": "A essas palavras, um dos guardas, que ali se achavam, deu uma bofetada em Jesus, dizendo: “Assim respondes ao Sumo Sacerdote?”",
+      "reference": "Jo 18:22"
+    },
+    "23": {
+      "text": "Respondeu Jesus: “Se falei mal, testemunha sobre o mal; mas, se falei bem, por que me bates?”",
+      "reference": "Jo 18:23"
+    },
+    "24": {
+      "text": "Anás, então, o enviou manietado a Caifás, o Sumo Sacerdote. \\par",
+      "reference": "Jo 18:24"
+    },
+    "25": {
+      "text": "Simão Pedro continuava lá, de pé, aquecendo-se. Disseram-lhe então: “Não és tu também um dos seus discípulos?” Ele negou e respondeu: “Não sou”.",
+      "reference": "Jo 18:25"
+    },
+    "26": {
+      "text": "Um dos servos do Sumo Sacerdote, parente daquele a quem Pedro decepara a orelha, disse: “Não te vi no jardim com ele?”",
+      "reference": "Jo 18:26"
+    },
+    "27": {
+      "text": "Pedro negou novamente. E logo o galo cantou. \\par",
+      "reference": "Jo 18:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Jesus diante de Pilatos\\par }Então de Caifás conduziram Jesus ao pretório. Era de manhã. Eles não entraram no pretório para não se contaminarem e poderem comer a Páscoa.",
+      "reference": "Jo 18:28"
+    },
+    "29": {
+      "text": "Pilatos, então, saiu para fora ao encontro deles e disse: “Que acusação trazeis contra este homem?”",
+      "reference": "Jo 18:29"
+    },
+    "30": {
+      "text": "Responderam-lhe: “Se não fosse um malfeitor, não o entregaríamos a ti”.",
+      "reference": "Jo 18:30"
+    },
+    "31": {
+      "text": "Disse-lhes Pilatos: “Tomai-o vós mesmos, e julgai-o conforme a vossa Lei”. Disseram-lhes os judeus: “Não nos é permitido condenar ninguém à morte”,",
+      "reference": "Jo 18:31"
+    },
+    "32": {
+      "text": "a fim de se cumprir a palavra de Jesus, com a qual indicara de que morte deveria morrer. \\par",
+      "reference": "Jo 18:32"
+    },
+    "33": {
+      "text": "Então Pilatos entrou novamente no pretório, chamou Jesus e lhe disse: “Tu és o rei dos judeus?”",
+      "reference": "Jo 18:33"
+    },
+    "34": {
+      "text": "Jesus lhe respondeu: “Falas assim por ti mesmo ou outros te disseram isso de mim?”",
+      "reference": "Jo 18:34"
+    },
+    "35": {
+      "text": "Respondeu Pilatos: “Sou, por acaso, judeu? Teu povo e os chefes dos sacerdotes entregaram-te a mim. Que fizeste?”",
+      "reference": "Jo 18:35"
+    },
+    "36": {
+      "text": "Jesus respondeu: \\par “Meu reino não é deste mundo. \\par Se meu reino fosse deste mundo, \\par meus súditos teriam combatido \\par para que eu não fosse entregue aos judeus. \\par Mas meu reino não é daqui”. \\par",
+      "reference": "Jo 18:36"
+    },
+    "37": {
+      "text": "Pilatos lhe disse: “Então, tu és rei?” Respondeu Jesus: “Tu o dizes: eu sou rei. \\par Para isso nasci \\par e para isto vim ao mundo: \\par para dar testemunho da verdade. \\par Quem é da verdade escuta a minha voz”. \\par",
+      "reference": "Jo 18:37"
+    },
+    "38": {
+      "text": "Disse-lhe Pilatos: “Que é a verdade?” E tendo dito isso, saiu de novo e foi ao encontro dos judeus e lhes disse: “Nenhuma culpa encontro nele.",
+      "reference": "Jo 18:38"
+    },
+    "39": {
+      "text": "É costume entre vós que eu vos solte um preso, na Páscoa. Quereis que vos solte o rei dos judeus?”",
+      "reference": "Jo 18:39"
+    },
+    "40": {
+      "text": "Então eles gritaram de novo, clamando: “Esse não, mas Barrabás!” Barrabás era um bandido. \\par",
+      "reference": "Jo 18:40"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 40
+}

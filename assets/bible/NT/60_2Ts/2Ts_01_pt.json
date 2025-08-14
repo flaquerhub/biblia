@@ -1,0 +1,61 @@
+{
+  "book": 53,
+  "book_name": "2Tessalonicenses",
+  "book_abbr": "2Ts",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Thessalonians",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Endereço\\par }Paulo, Silvano e Timóteo à Igreja de Tessalônica, em Deus, nosso Pai, e no Senhor Jesus Cristo.",
+      "reference": "2Ts 1:1"
+    },
+    "2": {
+      "text": "A vós graça e paz da parte de Deus Pai e do Senhor Jesus Cristo! \\par",
+      "reference": "2Ts 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Ação de graças e encorajamento. A última retribuição\\par }Irmãos, por vossa causa sentimo-nos obrigados a dar continuamente graças a Deus, pois a vossa fé está crescendo muito, e a caridade que tendes uns pelos outros aumenta em cada um de vós,",
+      "reference": "2Ts 1:3"
+    },
+    "4": {
+      "text": "a tal ponto que sois o nosso orgulho entre as Igrejas de Deus, por causa da vossa perseverança e da vossa fé em todas as perseguições e tribulações que suportais.",
+      "reference": "2Ts 1:4"
+    },
+    "5": {
+      "text": "Elas são o sinal do justo julgamento de Deus: é para vos tornardes dignos do reino de Deus, pelo qual sofreis. \\par",
+      "reference": "2Ts 1:5"
+    },
+    "6": {
+      "text": "Justo é que Deus pague com tribulação aos que vos oprimem,",
+      "reference": "2Ts 1:6"
+    },
+    "7": {
+      "text": "e que a vós, os oprimidos, vos dê o repouso juntamente conosco, para quando se revelar o Senhor Jesus, vindo do céu, com os anjos do seu poder,",
+      "reference": "2Ts 1:7"
+    },
+    "8": {
+      "text": "{\\i no meio de uma chama ardente, para vingar-se daqueles que não conhecem a Deus, }e que não obedecem ao evangelho de nosso Senhor Jesus.",
+      "reference": "2Ts 1:8"
+    },
+    "9": {
+      "text": "O castigo deles será a ruína eterna, {\\i longe da face do Senhor} e do esplendor de sua majestade,",
+      "reference": "2Ts 1:9"
+    },
+    "10": {
+      "text": "{\\i quando} ele vier, {\\i naquele Dia, para ser glorificado na pessoa dos seus santos, e para ser admirado }na pessoa de todos aqueles que creram – e vós acreditastes em nosso testemunho! \\par",
+      "reference": "2Ts 1:10"
+    },
+    "11": {
+      "text": "Pelo que não cessamos de orar por vós, para que o nosso Deus vos faça dignos de sua vocação; e que por seu poder faça realizar todo o bem desejado, e torne ativa a vossa fé.",
+      "reference": "2Ts 1:11"
+    },
+    "12": {
+      "text": "Assim, será glorificado em vós o nome de nosso Senhor Jesus, e vós nele, pela graça do nosso Deus e do Senhor Jesus Cristo. \\par",
+      "reference": "2Ts 1:12"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 12
+}

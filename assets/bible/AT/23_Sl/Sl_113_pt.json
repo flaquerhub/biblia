@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 113,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 113 (112)\\par }{\\qc\\b\\i Ao Deus de glória e de amor\\par }Aleluia! \\par Louvai, servos de Iahweh, \\par louvai o nome de Iahweh! \\par",
+      "reference": "Sl 113:1"
+    },
+    "2": {
+      "text": "Seja bendito o nome de Iahweh, \\par desde agora e para sempre; \\par",
+      "reference": "Sl 113:2"
+    },
+    "3": {
+      "text": "do nascer do sol até o poente, \\par seja louvado o nome de Iahweh! \\par",
+      "reference": "Sl 113:3"
+    },
+    "4": {
+      "text": "Elevado sobre os povos todos é Iahweh, \\par sua glória está acima do céu! \\par",
+      "reference": "Sl 113:4"
+    },
+    "5": {
+      "text": "Quem é como Iahweh nosso Deus? \\par Ele se eleva para sentar-se, \\par",
+      "reference": "Sl 113:5"
+    },
+    "6": {
+      "text": "e se abaixa para olhar \\par pelo céu e pela terra. \\par",
+      "reference": "Sl 113:6"
+    },
+    "7": {
+      "text": "Ele ergue o fraco da poeira \\par e tira o indigente do lixo, \\par",
+      "reference": "Sl 113:7"
+    },
+    "8": {
+      "text": "fazendo-o sentar-se com os nobres, \\par ao lado dos nobres do seu povo; \\par",
+      "reference": "Sl 113:8"
+    },
+    "9": {
+      "text": "faz a estéril sentar-se em sua casa, \\par como alegre mãe de filhos. \\par",
+      "reference": "Sl 113:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

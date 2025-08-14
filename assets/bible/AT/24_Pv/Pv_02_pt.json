@@ -1,0 +1,101 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A sabedoria contra as más companhias\\par }Se aceitares, meu filho, minhas palavras \\par e conservares os meus preceitos, \\par",
+      "reference": "Pv 2:1"
+    },
+    "2": {
+      "text": "dando ouvidos à sabedoria, \\par e inclinando o teu coração ao entendimento; \\par",
+      "reference": "Pv 2:2"
+    },
+    "3": {
+      "text": "se invocares a inteligência \\par e chamares o entendimento; \\par",
+      "reference": "Pv 2:3"
+    },
+    "4": {
+      "text": "se o procurares como o dinheiro \\par e o buscares como um tesouro; \\par",
+      "reference": "Pv 2:4"
+    },
+    "5": {
+      "text": "então entenderás o temor de Iahweh \\par e encontrarás o conhecimento de Deus. \\par",
+      "reference": "Pv 2:5"
+    },
+    "6": {
+      "text": "Pois é Iahweh quem dá a sabedoria; \\par de sua boca procedem o conhecimento e o entendimento. \\par",
+      "reference": "Pv 2:6"
+    },
+    "7": {
+      "text": "Ele guarda para os retos a sensatez, \\par é escudo para os que andam na integridade. \\par",
+      "reference": "Pv 2:7"
+    },
+    "8": {
+      "text": "Ele vigia as sendas do direito, \\par e guarda o caminho dos seus fiéis. \\par",
+      "reference": "Pv 2:8"
+    },
+    "9": {
+      "text": "Então entenderás a justiça e o direito, \\par a retidão e todos os caminhos da felicidade; \\par",
+      "reference": "Pv 2:9"
+    },
+    "10": {
+      "text": "porque virá a sabedoria ao teu coração \\par e terás gosto no conhecimento; \\par",
+      "reference": "Pv 2:10"
+    },
+    "11": {
+      "text": "a reflexão te guardará, \\par e o entendimento te protegerá: \\par",
+      "reference": "Pv 2:11"
+    },
+    "12": {
+      "text": "para livrar-te do mau caminho, \\par do homem que diz disparates, \\par",
+      "reference": "Pv 2:12"
+    },
+    "13": {
+      "text": "dos que abandonam o trilho certo \\par para seguir caminhos tenebrosos; \\par",
+      "reference": "Pv 2:13"
+    },
+    "14": {
+      "text": "dos que se alegram fazendo o mal \\par e se comprazem com os disparates; \\par",
+      "reference": "Pv 2:14"
+    },
+    "15": {
+      "text": "os seus caminhos são tortuosos, \\par e as suas sendas extraviadas; \\par",
+      "reference": "Pv 2:15"
+    },
+    "16": {
+      "text": "para livrar-te da mulher estrangeira, \\par da estranha que enleia com suas palavras: \\par",
+      "reference": "Pv 2:16"
+    },
+    "17": {
+      "text": "abandonou o companheiro de sua juventude, \\par esqueceu-se da aliança do seu Deus; \\par",
+      "reference": "Pv 2:17"
+    },
+    "18": {
+      "text": "a sua casa se inclina para a Morte, \\par os seus trilhos para as Sombras; \\par",
+      "reference": "Pv 2:18"
+    },
+    "19": {
+      "text": "os que ali entram não retornam, \\par não alcançam as sendas da vida; \\par",
+      "reference": "Pv 2:19"
+    },
+    "20": {
+      "text": "para que sigas o caminho dos bons \\par e guardes as sendas dos justos; \\par",
+      "reference": "Pv 2:20"
+    },
+    "21": {
+      "text": "porque os retos habitarão a terra \\par e os íntegros permanecerão nela; \\par",
+      "reference": "Pv 2:21"
+    },
+    "22": {
+      "text": "os ímpios, porém, serão expulsos da terra, \\par os traidores serão varridos dela! \\par",
+      "reference": "Pv 2:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

@@ -1,0 +1,73 @@
+{
+  "book": 30,
+  "book_name": "Amós",
+  "book_abbr": "Am",
+  "book_category": "Profético",
+  "book_english": "Amos",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Quinta visão: a queda do Santuário\\par }Vi o Senhor, que estava de pé junto ao altar \\par e ele disse: “Bate no capitel para que tremam os umbrais! \\par Quebra-os na cabeça deles todos: \\par o que sobrar deles, eu os matarei à espada; \\par nenhum deles poderá fugir, \\par nenhum deles poderá escapar! \\par",
+      "reference": "Am 9:1"
+    },
+    "2": {
+      "text": "Se penetrarem no Xeol, \\par lá minha mão os prenderá; \\par se subirem aos céus, \\par de lá eu os farei descer; \\par",
+      "reference": "Am 9:2"
+    },
+    "3": {
+      "text": "se se esconderem no cume do Carmelo, \\par lá eu os procurarei e prenderei; \\par se se ocultarem a meus olhos no fundo do mar, \\par lá eu ordenarei à serpente para que os morda; \\par",
+      "reference": "Am 9:3"
+    },
+    "4": {
+      "text": "se forem levados ao exílio diante de seus inimigos, \\par lá ordenarei à espada que os mate: \\par porei sobre eles os meus olhos, \\par para a desgraça e não para o bem”. \\par",
+      "reference": "Am 9:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Doxologia\\par }O Senhor Iahweh dos Exércitos...\\par aquele que toca a terra e ela vacila, \\par e ficam de luto todos os que habitam nela; \\par toda ela se levanta como o Nilo, \\par e depois desce como o Nilo do Egito. \\par",
+      "reference": "Am 9:5"
+    },
+    "6": {
+      "text": "Aquele que constrói nos céus suas altas moradas \\par e funda na terra a sua abóbada; \\par aquele que chama às águas mar \\par e as derrama sobre a face da terra, \\par Iahweh é seu nome! \\par",
+      "reference": "Am 9:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Todos os pecadores perecerão\\par }Não sois para mim como os cuchitas, \\par ó filhos de Israel? – oráculo de Iahweh –. \\par Não fiz Israel subir da terra do Egito, \\par os filisteus de Cáftor e os arameus de Quir? \\par",
+      "reference": "Am 9:7"
+    },
+    "8": {
+      "text": "Eis que os olhos do Senhor Iahweh \\par estão sobre o reino pecador. \\par Vou suprimi-lo da face da terra, \\par contudo não quero suprimir totalmente \\par a casa de Jacó – oráculo de Iahweh. \\par",
+      "reference": "Am 9:8"
+    },
+    "9": {
+      "text": "Porque eis que eu mesmo ordenarei \\par e sacudirei a casa de Israel entre todas as nações, \\par como se sacode com a peneira, \\par sem que caia um grão por terra. \\par",
+      "reference": "Am 9:9"
+    },
+    "10": {
+      "text": "Pela espada morrerão \\par todos os pecadores do meu povo, \\par aqueles que diziam: \\par “A calamidade não avançará, \\par não nos atingirá!” \\par",
+      "reference": "Am 9:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b {\\i IV. Perspectivas de restauração e de fecundidade paradisíaca}\\par }Naquele dia levantarei a tenda desmoronada de Davi, \\par repararei as suas brechas, levantarei as suas ruínas \\par e a reconstruirei como nos dias antigos, \\par",
+      "reference": "Am 9:11"
+    },
+    "12": {
+      "text": "para que conquistem o resto de Edom \\par e todas as nações, sobre as quais o meu nome for proclamado, \\par oráculo de Iahweh, que realiza estas coisas. \\par",
+      "reference": "Am 9:12"
+    },
+    "13": {
+      "text": "Eis que virão dias – oráculo de Iahweh – \\par em que aquele que semeia estará próximo daquele que colhe, \\par aquele que pisa as uvas, daquele que planta; \\par as montanhas destilarão mosto, \\par e todas as colinas derreter-se-ão. \\par",
+      "reference": "Am 9:13"
+    },
+    "14": {
+      "text": "Mudarei o destino de meu povo, Israel; \\par eles reconstruirão as cidades devastadas e as habitarão, \\par plantarão vinhas e beberão o seu vinho, \\par cultivarão pomares e comerão os seus frutos. \\par",
+      "reference": "Am 9:14"
+    },
+    "15": {
+      "text": "Eu os plantarei em sua terra \\par e não serão mais arrancados de sua terra, que eu lhes dei, \\par disse Iahweh teu Deus. \\par",
+      "reference": "Am 9:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

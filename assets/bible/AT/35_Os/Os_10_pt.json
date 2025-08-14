@@ -1,0 +1,73 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Destruição dos símbolos idolátricos de Israel\\par }Israel era uma vinha exuberante, \\par que dava frutos. \\par Quanto mais se multiplicava seu fruto, \\par tanto mais multiplicava os altares; \\par quanto mais bela se tornava sua terra, \\par tanto mais embelezava as estelas. \\par",
+      "reference": "Os 10:1"
+    },
+    "2": {
+      "text": "Seu coração é falso, \\par agora eles vão expiar. \\par Ele mesmo quebrará os seus altares \\par e destruirá as suas estelas. \\par",
+      "reference": "Os 10:2"
+    },
+    "3": {
+      "text": "Então dirão: \\par “Não temos rei, \\par porque não tememos a Iahweh. \\par Mas, mesmo o rei, que poderia fazer por nós?” \\par",
+      "reference": "Os 10:3"
+    },
+    "4": {
+      "text": "Eles proferem discursos, juram falso, concluem pactos; \\par e o direito prospera como planta venenosa \\par nos sulcos dos campos! \\par",
+      "reference": "Os 10:4"
+    },
+    "5": {
+      "text": "Por causa do bezerro de Bet-Áven \\par tremem os habitantes de Samaria; \\par sim, o seu povo está de luto por ele, \\par bem como os seus sacerdotes, \\par que se alegravam de sua glória: \\par porque ela foi deportada para longe de nós! \\par",
+      "reference": "Os 10:5"
+    },
+    "6": {
+      "text": "Ele mesmo será levado para a Assíria \\par como tributo ao grande rei. \\par Efraim colherá vergonha, \\par e Israel se envergonhará de sua decisão. \\par",
+      "reference": "Os 10:6"
+    },
+    "7": {
+      "text": "Samaria está destruída. \\par Seu rei é como galho quebrado sobre a superfície da água. \\par",
+      "reference": "Os 10:7"
+    },
+    "8": {
+      "text": "os lugares altos de Áven serão devastados, \\par o pecado de Israel; \\par espinhos e cardos crescerão sobre seus altares. \\par Eles dirão às montanhas: “Cobri-nos!”, \\par e às colinas: “Caí sobre nós!” \\par",
+      "reference": "Os 10:8"
+    },
+    "9": {
+      "text": "Desde os dias de Gabaá tu pecaste, Israel! \\par Ali eles ficaram. \\par Não os atingirá em Gabaá a guerra contra os filhos da injustiça? \\par",
+      "reference": "Os 10:9"
+    },
+    "10": {
+      "text": "Venho para castigá-los! \\par Os povos se reunirão contra eles, \\par quando forem castigados por suas faltas. \\par",
+      "reference": "Os 10:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Israel decepcionou a expectativa de Iahweh\\par }Efraim é uma novilha adestrada, \\par que gosta de pisar a eira, \\par mas eu passei o jugo em seu pescoço soberbo! \\par Eu atrelarei Efraim, \\par Judá lavrará \\par e Jacó gradeará. \\par",
+      "reference": "Os 10:11"
+    },
+    "12": {
+      "text": "Semeai para vós segundo a justiça, \\par colhei conforme o amor, \\par arroteai para vós um terreno novo: \\par é tempo de procurar a Iahweh, \\par até que ele venha e faça chover a justiça sobre vós. \\par",
+      "reference": "Os 10:12"
+    },
+    "13": {
+      "text": "Vós cultivastes a perversidade, \\par colhestes a injustiça, \\par comestes o fruto da mentira. \\par Porque confiaste em teus carros e na multidão de teus guerreiros. \\par",
+      "reference": "Os 10:13"
+    },
+    "14": {
+      "text": "Levantar-se-á um tumulto em teu povo, \\par e todas as tuas fortalezas serão destruídas, \\par como Sálmana devastou Bet-Arbel \\par no dia do combate, \\par quando a mãe foi esmagada sobre os filhos. \\par",
+      "reference": "Os 10:14"
+    },
+    "15": {
+      "text": "Eis o que vos fez Betel, \\par por causa de vossa enorme perversidade. \\par Ao amanhecer, o rei de Israel será totalmente destruído. \\par",
+      "reference": "Os 10:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

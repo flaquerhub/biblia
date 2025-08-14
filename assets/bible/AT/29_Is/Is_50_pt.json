@@ -1,0 +1,57 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 50,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A punição de Israel\\par }Assim diz Iahweh: \\par Onde está a carta de divórcio de vossa mãe \\par pela qual eu a repudiei? \\par Ou ainda: A qual dos meus credores vos vendi? \\par Antes, pelas vossas transgressões é que fostes vendidos; \\par pelas vossas maldades é que a vossa mãe foi repudiada. \\par",
+      "reference": "Is 50:1"
+    },
+    "2": {
+      "text": "Por que vim e não havia ninguém? \\par Por que chamei e ninguém respondeu? \\par Por acaso a minha mão é muito curta para resgatar? \\par Ou não tenho força para libertar? \\par É sabido que, com uma ameaça, seco o mar, \\par reduzo os rios a um deserto. \\par Os seus peixes se deterioram por falta de água, \\par eles morrem de sede. \\par",
+      "reference": "Is 50:2"
+    },
+    "3": {
+      "text": "Revisto os céus de negrume, \\par e dou-lhes saco como veste. \\par",
+      "reference": "Is 50:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Terceiro canto do Servo\\par }O Senhor Iahweh me deu uma língua de discípulo \\par para que eu soubesse trazer ao cansado uma palavra de conforto. \\par De manhã em manhã ele me desperta, sim, desperta o meu ouvido \\par para que eu ouça como os discípulos. \\par",
+      "reference": "Is 50:4"
+    },
+    "5": {
+      "text": "O Senhor Iahweh abriu-me os ouvidos \\par e eu não fui rebelde, \\par não recuei. \\par",
+      "reference": "Is 50:5"
+    },
+    "6": {
+      "text": "Ofereci o dorso aos que me feriam \\par e as faces aos que me arrancavam os fios da barba; \\par não ocultei o rosto às injúrias e aos escarros. \\par",
+      "reference": "Is 50:6"
+    },
+    "7": {
+      "text": "O Senhor Iahweh virá em meu socorro, \\par eis porque não me sinto humilhado, \\par eis porque fiz do meu rosto uma pederneira \\par e tenho a certeza de que não ficarei confundido. \\par",
+      "reference": "Is 50:7"
+    },
+    "8": {
+      "text": "Perto está aquele que defende a minha causa. \\par Quem ousará mover ação contra mim? Compareçamos juntos! \\par Quem é meu adversário? Ele que se apresente! \\par",
+      "reference": "Is 50:8"
+    },
+    "9": {
+      "text": "É o Senhor Iahweh que me socorrerá, \\par quem será aquele que me condenará? \\par Certamente todos eles se desgastarão como uma veste: \\par a traça os devorará. \\par",
+      "reference": "Is 50:9"
+    },
+    "10": {
+      "text": "Quem dentre vós teme a Iahweh e ouve a voz do seu servo? \\par Aquele que tem caminhado nas trevas, sem nenhuma luz, \\par ponha a sua confiança no nome de Iahweh, \\par tome como arrimo o seu Deus. \\par",
+      "reference": "Is 50:10"
+    },
+    "11": {
+      "text": "Mas todos vós que acendeis um fogo, \\par que vos munis de setas incendiarias, \\par atirai-vos às chamas do vosso fogo \\par e às setas que acendestes. \\par Por minha mão isto vos há de sobrevir: \\par deitar-vos-eis no meio dos tormentos. \\par",
+      "reference": "Is 50:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

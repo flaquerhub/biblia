@@ -1,0 +1,49 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A respeito de Moab\\par }Oráculo a respeito de Moab. \\par Verdadeiramente, em uma noite \\par foi destruída Ar-Moab e calou-se; \\par em uma noite foi destruída Quir-Moab e calou-se. \\par",
+      "reference": "Is 15:1"
+    },
+    "2": {
+      "text": "A filha de Dibon subiu \\par aos lugares altos para chorar. \\par Sobre o Nebo e em Medaba, Moab se lamenta, \\par todas as cabeças estão raspadas, \\par toda barba está cortada. \\par",
+      "reference": "Is 15:2"
+    },
+    "3": {
+      "text": "Nas suas ruas o povo está cingido de saco; \\par nos telhados e nas praças \\par todos se lamentam, \\par desfazendo-se em lágrimas. \\par",
+      "reference": "Is 15:3"
+    },
+    "4": {
+      "text": "Hesebon e Eleale levantam um clamor, \\par até Jasa se ouve a sua voz. \\par Eis por que os soldados de Moab se sentem vacilantes, \\par a sua alma está vacilante diante do que ocorre. \\par",
+      "reference": "Is 15:4"
+    },
+    "5": {
+      "text": "O seu coração geme por Moab: \\par os seus fugitivos já estão em Segor, em Eglat-Selisia. \\par Com efeito, a multidão sobe a ladeira de Luit a chorar, \\par pelo caminho de Horonaim ergue-se um pranto aflitivo, \\par",
+      "reference": "Is 15:5"
+    },
+    "6": {
+      "text": "porque as águas de Nemrim estão reduzidas a desolação: \\par a erva secou-se, a relva pereceu, \\par já não há nenhuma verdura. \\par",
+      "reference": "Is 15:6"
+    },
+    "7": {
+      "text": "Eis a razão por que reuniram o que ainda \\par conseguiram salvar dos seus bens \\par e o transportaram para além da torrente dos Salgueiros. \\par",
+      "reference": "Is 15:7"
+    },
+    "8": {
+      "text": "Com efeito, o seu clamor espalhou-se por todo o território de Moab, \\par até Eglaim chegam os seus lamentos, \\par até Beer-Elim chegam eles. \\par",
+      "reference": "Is 15:8"
+    },
+    "9": {
+      "text": "Com efeito, as águas de Dimon estão tingidas de sangue, \\par mas eu imporei a Dimon ainda uma desgraça: \\par um leão aos sobreviventes de Moab, \\par aos que restam no seu solo. \\par",
+      "reference": "Is 15:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

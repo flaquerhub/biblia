@@ -1,0 +1,97 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O homicida e as cidades de refúgio\\par }Quando Iahweh teu Deus houver eliminado as nações cuja terra Iahweh teu Deus te dará, e as conquistares e estiveres morando em suas cidades e casas,",
+      "reference": "Dt 19:1"
+    },
+    "2": {
+      "text": "separarás três cidades no meio da terra cuja posse Iahweh teu Deus te dará.",
+      "reference": "Dt 19:2"
+    },
+    "3": {
+      "text": "Estabelecerás o caminho, medirás as distâncias e dividirás em três partes o território da terra que Iahweh teu Deus te dará como herança; isto para que nela se refugie todo o homicida. \\par",
+      "reference": "Dt 19:3"
+    },
+    "4": {
+      "text": "Este é o caso do homicida que poderá se refugiar lá para se manter vivo: aquele que matar seu próximo involuntariamente, sem tê-lo odiado antes",
+      "reference": "Dt 19:4"
+    },
+    "5": {
+      "text": "(por exemplo: alguém vai com seu próximo ao bosque para cortar lenha; impelindo com força o machado para cortar a árvore, o ferro escapa do cabo, atinge o companheiro e o mata): ele poderá então se refugiar numa daquelas cidades, ficando com a vida salva;",
+      "reference": "Dt 19:5"
+    },
+    "6": {
+      "text": "para que o vingador do sangue, enfurecido, não persiga o homicida e o alcance, porque o caminho é longo, – tirando-lhe a vida sem motivo suficiente, pois antes ele não era inimigo do outro. \\par",
+      "reference": "Dt 19:6"
+    },
+    "7": {
+      "text": "É por isso que eu te ordeno: ‘Separa três cidades’.",
+      "reference": "Dt 19:7"
+    },
+    "8": {
+      "text": "E quando Iahweh teu Deus fizer com que as tuas fronteiras se alarguem, como jurou a teus pais, e te der toda a terra que prometera dar a teus pais, –",
+      "reference": "Dt 19:8"
+    },
+    "9": {
+      "text": "com a condição de que cuides de pôr em prática todos estes mandamentos que hoje te ordeno, amando a Iahweh teu Deus e andando continuamente em seus caminhos, – acrescentarás ainda mais três cidades às três primeiras,",
+      "reference": "Dt 19:9"
+    },
+    "10": {
+      "text": "para que não se derrame sangue inocente na terra que Iahweh teu Deus te dará como herança, e não haja sangue sobre ti. \\par",
+      "reference": "Dt 19:10"
+    },
+    "11": {
+      "text": "Contudo, se alguém é inimigo do seu próximo e lhe arma uma cilada, levantando-se e ferindo-o mortalmente, e a seguir se refugia numa daquelas cidades,",
+      "reference": "Dt 19:11"
+    },
+    "12": {
+      "text": "os anciãos da sua cidade enviarão pessoas para tirá-lo de lá e entregá-lo ao vingador do sangue, para que seja morto.",
+      "reference": "Dt 19:12"
+    },
+    "13": {
+      "text": "Que teu olho não tenha piedade dele. Deste modo extirparás de Israel o derramamento de sangue inocente, e serás feliz. \\par",
+      "reference": "Dt 19:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Os limites\\par }Não deslocarás as fronteiras do teu vizinho, colocadas pelos antepassados no patrimônio que irás herdar, na terra cuja posse Iahweh teu Deus te dará. \\par",
+      "reference": "Dt 19:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i As testemunhas\\par }Uma única testemunha não é suficiente contra alguém, em qualquer caso de iniqüidade ou de pecado que haja cometido. A causa será estabelecida pelo depoimento pessoal de duas ou três testemunhas. \\par",
+      "reference": "Dt 19:15"
+    },
+    "16": {
+      "text": "Quando uma falsa testemunha se levantar contra alguém, acusando-o de alguma rebelião,",
+      "reference": "Dt 19:16"
+    },
+    "17": {
+      "text": "as duas partes em litígio se apresentarão diante de Iahweh, diante dos sacerdotes e dos juízes que estiverem em função naqueles dias.",
+      "reference": "Dt 19:17"
+    },
+    "18": {
+      "text": "Os juízes investigarão cuidadosamente. Se a testemunha for uma testemunha falsa, e tiver caluniado seu irmão,",
+      "reference": "Dt 19:18"
+    },
+    "19": {
+      "text": "então vós a tratareis conforme ela própria maquinava tratar o seu próximo. Deste modo extirparás o mal do teu meio,",
+      "reference": "Dt 19:19"
+    },
+    "20": {
+      "text": "para que os outros ouçam, fiquem com medo, e nunca mais tornem a praticar semelhante mal no meio de ti.",
+      "reference": "Dt 19:20"
+    },
+    "21": {
+      "text": "Que teu olho não tenha piedade. \\par \\par {\\qc\\b\\i O talião\\par } Vida por vida, olho por olho, dente por dente, mão por mão, pé por pé. \\par",
+      "reference": "Dt 19:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

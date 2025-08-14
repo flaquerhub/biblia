@@ -1,0 +1,245 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. A ressurreição dos mortos}\\par }{\\qc\\b\\i O fato da ressurreição\\par }Lembro-vos, irmãos, o evangelho que vos anunciei, que recebestes, no qual permaneceis firmes,",
+      "reference": "1Co 15:1"
+    },
+    "2": {
+      "text": "e pelo qual sois salvos, se o guardais como vo-lo anunciei; doutro modo, teríeis acreditado em vão. \\par",
+      "reference": "1Co 15:2"
+    },
+    "3": {
+      "text": "Transmiti-vos, em primeiro lugar, aquilo que eu mesmo recebi: Cristo morreu por nossos pecados, segundo as Escrituras.",
+      "reference": "1Co 15:3"
+    },
+    "4": {
+      "text": "Foi sepultado, ressuscitou ao terceiro dia, segundo as Escrituras.",
+      "reference": "1Co 15:4"
+    },
+    "5": {
+      "text": "Apareceu a Cefas, e depois aos Doze.",
+      "reference": "1Co 15:5"
+    },
+    "6": {
+      "text": "Em seguida, apareceu a mais de quinhentos irmãos de uma vez, a maioria dos quais ainda vive, enquanto alguns já adormeceram.",
+      "reference": "1Co 15:6"
+    },
+    "7": {
+      "text": "Posteriormente, apareceu a Tiago, e, depois, a todos os apóstolos.",
+      "reference": "1Co 15:7"
+    },
+    "8": {
+      "text": "Em último lugar, apareceu também a mim como a um abortivo. \\par",
+      "reference": "1Co 15:8"
+    },
+    "9": {
+      "text": "Pois sou o menor dos apóstolos, nem sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus.",
+      "reference": "1Co 15:9"
+    },
+    "10": {
+      "text": "Mas pela graça de Deus sou o que sou: e sua graça a mim dispensada não foi estéril. Ao contrário, trabalhei mais do que todos eles; não eu, mas a graça de Deus que está comigo. \\par",
+      "reference": "1Co 15:10"
+    },
+    "11": {
+      "text": "Por conseguinte, tanto eu como eles, eis o que pregamos. Eis também o que acreditastes.",
+      "reference": "1Co 15:11"
+    },
+    "12": {
+      "text": "Ora, se se prega que Cristo ressuscitou dos mortos, como podem alguns dentre vós dizer que não há ressurreição dos mortos?",
+      "reference": "1Co 15:12"
+    },
+    "13": {
+      "text": "Se não há ressurreição dos mortos, também Cristo não ressuscitou.",
+      "reference": "1Co 15:13"
+    },
+    "14": {
+      "text": "E, se Cristo não ressuscitou, vazia é a nossa pregação, vazia também é a vossa fé.",
+      "reference": "1Co 15:14"
+    },
+    "15": {
+      "text": "Acontece mesmo que somos falsas testemunhas de Deus, pois atestamos contra Deus que ele ressuscitou a Cristo, quando de fato não ressuscitou, se é que os mortos não ressuscitam.",
+      "reference": "1Co 15:15"
+    },
+    "16": {
+      "text": "Pois, se os mortos não ressuscitam, também Cristo não ressuscitou.",
+      "reference": "1Co 15:16"
+    },
+    "17": {
+      "text": "E, se Cristo não ressuscitou, ilusória é a vossa fé; ainda estais nos vossos pecados.",
+      "reference": "1Co 15:17"
+    },
+    "18": {
+      "text": "Por conseguinte, aqueles que adormeceram em Cristo estão perdidos.",
+      "reference": "1Co 15:18"
+    },
+    "19": {
+      "text": "Se temos esperança em Cristo tão-somente para esta vida, somos os mais dignos de compaixão de todos os homens. \\par",
+      "reference": "1Co 15:19"
+    },
+    "20": {
+      "text": "Mas não! Cristo ressuscitou dos mortos, primícias dos que adormeceram.",
+      "reference": "1Co 15:20"
+    },
+    "21": {
+      "text": "Com efeito, visto que a morte veio por um homem, também por um homem vem a ressurreição dos mortos.",
+      "reference": "1Co 15:21"
+    },
+    "22": {
+      "text": "Pois, assim como tos morrem em Adão, em Cristo todos receberão a vida.",
+      "reference": "1Co 15:22"
+    },
+    "23": {
+      "text": "Cada um, porém, em sua ordem: como primícias, Cristo; depois, aqueles que pertencem a Cristo, por ocasião da sua vinda.",
+      "reference": "1Co 15:23"
+    },
+    "24": {
+      "text": "A seguir haverá o fim, quando ele entregar o reino a Deus Pai, depois de ter destruído todo Principado, toda Autoridade, todo Poder.",
+      "reference": "1Co 15:24"
+    },
+    "25": {
+      "text": "Pois é preciso que ele reine, {\\i até que tenha posto todos os seus inimigos debaixo dos seus pés.}",
+      "reference": "1Co 15:25"
+    },
+    "26": {
+      "text": "O último inimigo a ser destruído será a Morte,",
+      "reference": "1Co 15:26"
+    },
+    "27": {
+      "text": "pois {\\i ele tudo colocou debaixo dos pés dele.} Mas, quando ele disser: “Tudo está submetido”, evidentemente excluir-se-á aquele que tudo lhe submeteu.",
+      "reference": "1Co 15:27"
+    },
+    "28": {
+      "text": "E, quando todas as coisas lhe tiverem sido submetidas, então o próprio Filho se submeterá àquele que tudo lhe submeteu, para que Deus seja tudo em todos. \\par",
+      "reference": "1Co 15:28"
+    },
+    "29": {
+      "text": "Se não fosse assim, que proveito teriam aqueles que se fazem batizar em favor dos mortos? Se os mortos realmente não ressuscitam, por que se fazem batizar em favor deles?",
+      "reference": "1Co 15:29"
+    },
+    "30": {
+      "text": "E nós mesmos, por que a todo momento nos expomos ao perigo?",
+      "reference": "1Co 15:30"
+    },
+    "31": {
+      "text": "Diariamente estou exposto à morte, tão certo, irmãos, quanto vós sois a minha glória em Jesus Cristo nosso Senhor.",
+      "reference": "1Co 15:31"
+    },
+    "32": {
+      "text": "De que me teria adiantado lutar contra os animais em Éfeso, se eu tivesse apenas interesses humanos? Se os mortos não ressuscitam, {\\i comamos e bebamos, pois amanhã morreremos.}",
+      "reference": "1Co 15:32"
+    },
+    "33": {
+      "text": "Não vos deixeis iludir: “As más companhias corrompem os bons costumes”.",
+      "reference": "1Co 15:33"
+    },
+    "34": {
+      "text": "Tornai-vos sóbrios, como é necessário, e não pequeis! Pois alguns dentre vós tudo ignoram a respeito de Deus. Digo-o para a vossa vergonha. \\par",
+      "reference": "1Co 15:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b\\i O modo da ressurreição\\par }Mas, dirá alguém, como ressuscitam os mortos? Com que corpo voltam?",
+      "reference": "1Co 15:35"
+    },
+    "36": {
+      "text": "Insensato! O que semeias não readquire vida a não ser que morra.",
+      "reference": "1Co 15:36"
+    },
+    "37": {
+      "text": "E o que semeias não é o corpo da futura planta que deve nascer, mas um simples grão de trigo ou de qualquer outra espécie.",
+      "reference": "1Co 15:37"
+    },
+    "38": {
+      "text": "A seguir, Deus lhe dá corpo como quer; a cada uma das sementes ele dá o corpo que lhe é próprio. \\par",
+      "reference": "1Co 15:38"
+    },
+    "39": {
+      "text": "Nenhuma carne é igual às outras, mas uma é a carne dos homens, outra a carne dos quadrúpedes, outra a dos pássaros, outra a dos peixes.",
+      "reference": "1Co 15:39"
+    },
+    "40": {
+      "text": "Há corpos celestes e há corpos terrestres. São, porém, diversos o brilho dos celestes e o brilho dos terrestres.",
+      "reference": "1Co 15:40"
+    },
+    "41": {
+      "text": "Um é o brilho do sol, outro o brilho da lua, e outro o brilho das estrelas. E até de estrela para estrela há diferença de brilho.",
+      "reference": "1Co 15:41"
+    },
+    "42": {
+      "text": "O mesmo se dá com a ressurreição dos mortos: semeado corruptível, o corpo ressuscita incorruptível;",
+      "reference": "1Co 15:42"
+    },
+    "43": {
+      "text": "semeado desprezível, ressuscita reluzente de glória; semeado na fraqueza, ressuscita cheio de força;",
+      "reference": "1Co 15:43"
+    },
+    "44": {
+      "text": "semeado corpo psíquico, ressuscita corpo espiritual. \\par Se há um corpo psíquico, há também um corpo espiritual.",
+      "reference": "1Co 15:44"
+    },
+    "45": {
+      "text": "Assim está escrito: o primeiro {\\i homem,} Adão, {\\i foi feito alma vivente}; o último Adão tornou-se espírito que dá a vida.",
+      "reference": "1Co 15:45"
+    },
+    "46": {
+      "text": "Primeiro foi feito não o que é espiritual, mas o que é psíquico; o que é espiritual vem depois.",
+      "reference": "1Co 15:46"
+    },
+    "47": {
+      "text": "O primeiro homem, tirado da terra, é terrestre. O segundo homem vem do céu.",
+      "reference": "1Co 15:47"
+    },
+    "48": {
+      "text": "Qual foi o homem terrestre, tais são também os terrestres. Qual foi o homem celeste, tais são os celestes.",
+      "reference": "1Co 15:48"
+    },
+    "49": {
+      "text": "E, assim como trouxemos a imagem do homem terrestre, assim também traremos a imagem do homem celeste. \\par",
+      "reference": "1Co 15:49"
+    },
+    "50": {
+      "text": "Digo-vos, irmãos: a carne e o sangue não podem herdar o Reino de Deus, nem a corrupção herdar a incorruptibilidade.",
+      "reference": "1Co 15:50"
+    },
+    "51": {
+      "text": "Eis que vos dou a conhecer um mistério: nem todos morreremos, mas todos seremos transformados,",
+      "reference": "1Co 15:51"
+    },
+    "52": {
+      "text": "num instante, num abrir e fechar de olhos, ao som da trombeta final; sim, a trombeta tocará, e os mortos ressurgirão incorruptíveis, e nós seremos transformados.",
+      "reference": "1Co 15:52"
+    },
+    "53": {
+      "text": "Com efeito, é necessário que este ser corruptível revista a incorruptibilidade e que este ser mortal revista a imortalidade. \\par",
+      "reference": "1Co 15:53"
+    },
+    "54": {
+      "text": "\\par {\\qc\\b\\i Hino triunfal e conclusão\\par }Quando, pois, este ser corruptível tiver revestido a incorruptibilidade e este ser mortal tiver revestido a imortalidade, então cumprir-se-á a palavra da Escritura: \\par {\\i A morte foi absorvida na vitória. }\\par",
+      "reference": "1Co 15:54"
+    },
+    "55": {
+      "text": "{\\i Morte, onde está a tua vitória? \\par Morte, onde está o teu aguilhão?} \\par",
+      "reference": "1Co 15:55"
+    },
+    "56": {
+      "text": "O aguilhão da morte é o pecado e a força do pecado é a Lei.",
+      "reference": "1Co 15:56"
+    },
+    "57": {
+      "text": "Graças se rendam a Deus, que nos dá a vitória por nosso Senhor Jesus Cristo! \\par",
+      "reference": "1Co 15:57"
+    },
+    "58": {
+      "text": "Assim, irmãos bem-amados, sede firmes, inabaláveis, fazei incessantes progressos na obra do Senhor, cientes de que a vossa fadiga não é vã no Senhor. \\par",
+      "reference": "1Co 15:58"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 58
+}

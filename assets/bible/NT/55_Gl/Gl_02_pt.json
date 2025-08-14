@@ -1,0 +1,97 @@
+{
+  "book": 48,
+  "book_name": "Gálatas",
+  "book_abbr": "Gl",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Galatians",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Assembléia de Jerusalém\\par }Em seguida, quatorze anos mais tarde, subi novamente a Jerusalém com Barnabé, tendo tomado comigo também Tito.",
+      "reference": "Gl 2:1"
+    },
+    "2": {
+      "text": "Subi em virtude de uma revelação e expus-lhes – em forma reservada aos notáveis – o evangelho que prego entre os gentios, a fim de não correr, nem ter corrido em vão.",
+      "reference": "Gl 2:2"
+    },
+    "3": {
+      "text": "Ora, nem Tito, que estava comigo, e que era grego, foi obrigado a circuncidar-se.",
+      "reference": "Gl 2:3"
+    },
+    "4": {
+      "text": "Mas por causa dos intrusos, esses falsos irmãos que se infiltraram para espiar a liberdade que temos em Cristo Jesus, a fim de nos reduzir à escravidão,",
+      "reference": "Gl 2:4"
+    },
+    "5": {
+      "text": "aos quais não cedemos sequer um instante, por deferência, para que a verdade do evangelho fosse preservada para vós...",
+      "reference": "Gl 2:5"
+    },
+    "6": {
+      "text": "E por parte dos que eram tidos por notáveis – o que na realidade eles fossem não me interessa; {\\i Deus não faz acepção de pessoas} – de qualquer forma, os notáveis nada me acrescentaram.",
+      "reference": "Gl 2:6"
+    },
+    "7": {
+      "text": "Pelo contrário, vendo que a mim fora confiado o evangelho dos incircuncisos como a Pedro o dos circuncisos –",
+      "reference": "Gl 2:7"
+    },
+    "8": {
+      "text": "pois aquele que estava operando em Pedro para a missão dos circuncisos operou também em mim em favor dos gentios –",
+      "reference": "Gl 2:8"
+    },
+    "9": {
+      "text": "e conhecendo a graça em mim concedida, Tiago, Cefas e João, os notáveis tidos como colunas, estenderam-nos a mão, a mim e a Barnabé, em sinal de comunhão: nós pregaríamos aos gentios e eles para a Circuncisão.",
+      "reference": "Gl 2:9"
+    },
+    "10": {
+      "text": "Nós só nos devíamos lembrar dos pobres, o que, aliás, tenho procurado fazer com solicitude. \\par",
+      "reference": "Gl 2:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Pedro e Paulo em Antioquia\\par }Mas quando Cefas veio a Antioquia, eu o enfrentei abertamente, porque ele se tinha tornado digno de censura.",
+      "reference": "Gl 2:11"
+    },
+    "12": {
+      "text": "Com efeito, antes de chegarem alguns vindos da parte de Tiago, ele comia com os gentios, mas, quando chegaram, ele se subtraía e andava retraído, com medo dos circuncisos.",
+      "reference": "Gl 2:12"
+    },
+    "13": {
+      "text": "Os outros judeus começaram também a fingir junto com ele, a tal ponto que até Barnabé se deixou levar pela sua hipocrisia. \\par",
+      "reference": "Gl 2:13"
+    },
+    "14": {
+      "text": "Mas quando vi que não andavam retamente segundo a verdade do evangelho, eu disse a Pedro diante de todos: se tu, sendo judeu, vives à maneira dos gentios, e não dos judeus, por que forças os gentios a viverem como judeus? \\par",
+      "reference": "Gl 2:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i O evangelho de Paulo\\par }Nós somos judeus de nascimento e não pecadores da gentilidade;",
+      "reference": "Gl 2:15"
+    },
+    "16": {
+      "text": "sabendo, entretanto, que o homem não se justifica pelas obras da Lei, mas pela fé em Jesus Cristo, nós também cremos em Cristo Jesus para sermos justificados pela fé em Cristo e não pelas obras da Lei, porque pelas obras da Lei {\\i ninguém será justificado.}",
+      "reference": "Gl 2:16"
+    },
+    "17": {
+      "text": "E se, procurando ser justificado em Cristo, nós também nos revelamos pecadores, não seria então Cristo ministro do pecado? De modo algum!",
+      "reference": "Gl 2:17"
+    },
+    "18": {
+      "text": "Se volto a edificar o que destruí, então sim eu me demonstro um transgressor.",
+      "reference": "Gl 2:18"
+    },
+    "19": {
+      "text": "De fato, pela Lei eu morri para a Lei, a fim de viver para Deus. Fui crucificado junto com Cristo.",
+      "reference": "Gl 2:19"
+    },
+    "20": {
+      "text": "Já não sou eu que vivo, mas é Cristo que vive em mim. Minha vida presente na carne, eu a vivo pela fé no Filho de Deus, que me amou e se entregou a si mesmo por mim.",
+      "reference": "Gl 2:20"
+    },
+    "21": {
+      "text": "Não invalido a graça de Deus; porque, se é pela Lei que vem a justiça, então Cristo morreu em vão. \\par",
+      "reference": "Gl 2:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

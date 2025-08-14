@@ -1,0 +1,69 @@
+{
+  "book": 38,
+  "book_name": "Zacarias",
+  "book_abbr": "Zc",
+  "book_category": "Profético",
+  "book_english": "Zechariah",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Libertação e renovação de Jerusalém\\par }Proclamação. \\par Palavra de Iahweh sobre Israel",
+      "reference": "Zc 12:1"
+    },
+    "2": {
+      "text": "{\\super (2b)} (e também sobre Judá). Oráculo de Iahweh, que estendeu o céu e fundou a terra, que formou o espírito do homem dentro dele. \\par {\\super (2a)} Eis que faço de Jerusalém uma taça de vertigem para todos os povos em redor. (Isso será durante o cerco contra Jerusalém). \\par",
+      "reference": "Zc 12:2"
+    },
+    "3": {
+      "text": "E acontecerá, naquele dia, que eu farei de Jerusalém uma pedra a levantar para todos os povos; todos aqueles que a levantarem se ferirão gravemente. Contra ela se reunirão todas as nações da terra.",
+      "reference": "Zc 12:3"
+    },
+    "4": {
+      "text": "Naquele dia – oráculo de Iahweh –, ferirei de confusão todo cavalo, e de loucura seu cavaleiro. Ferirei de cegueira todos os povos. (Mas sobre a casa de Judá abrirei os meus olhos).",
+      "reference": "Zc 12:4"
+    },
+    "5": {
+      "text": "Então os chefes de Judá dirão em seu coração: “A força para os habitantes de Jerusalém está em Iahweh dos Exércitos, seu Deus”.",
+      "reference": "Zc 12:5"
+    },
+    "6": {
+      "text": "Naquele dia, farei dos chefes de Judá como uma bacia de fogo entre a madeira e como um facho ardente entre a palha. Eles devorarão à direita e à esquerda todos os povos ao redor. Jerusalém habitará novamente em seu lugar (em Jerusalém).",
+      "reference": "Zc 12:6"
+    },
+    "7": {
+      "text": "Iahweh salvará primeiro as tendas de Judá, para que o orgulho da casa de Davi e o orgulho dos habitantes de Jerusalém não se exaltem acima de Judá.",
+      "reference": "Zc 12:7"
+    },
+    "8": {
+      "text": "Naquele dia, Iahweh protegerá o habitante de Jerusalém; naquele dia, mesmo o que tropeça entre eles será como Davi, a casa de Davi será como Deus, como o Anjo de Iahweh diante deles. \\par",
+      "reference": "Zc 12:8"
+    },
+    "9": {
+      "text": "E acontecerá, naquele dia, que eu procurarei destruir todas as nações que avançam contra Jerusalém.",
+      "reference": "Zc 12:9"
+    },
+    "10": {
+      "text": "Derramarei sobre a casa de Davi e sobre todo habitante de Jerusalém um espírito de graça e de súplica, e eles olharão para mim. Quanto àquele que eles transpassaram, eles o lamentarão como se fosse a lamentação de um filho único; eles o chorarão como se chora sobre o primogênito.",
+      "reference": "Zc 12:10"
+    },
+    "11": {
+      "text": "Naquele dia, será grande a lamentação em Jerusalém, como a lamentação de Adad-Remon, na planície de Meguidon. \\par",
+      "reference": "Zc 12:11"
+    },
+    "12": {
+      "text": "E a terra se lamentará, clã por clã. \\par O clã da casa de Davi à parte, \\par com suas mulheres à parte. \\par O clã da casa de Natã à parte, \\par com suas mulheres à parte. \\par",
+      "reference": "Zc 12:12"
+    },
+    "13": {
+      "text": "O clã da casa de Levi à parte, \\par com suas mulheres à parte. \\par O clã da casa de Semei à parte, \\par com suas mulheres à parte. \\par",
+      "reference": "Zc 12:13"
+    },
+    "14": {
+      "text": "E todos os restantes clãs, clã por clã, à parte, \\par com suas mulheres à parte. \\par",
+      "reference": "Zc 12:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

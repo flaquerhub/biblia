@@ -1,0 +1,61 @@
+{
+  "book": 14,
+  "book_name": "2Crônicas",
+  "book_abbr": "2Cr",
+  "book_category": "Histórico",
+  "book_english": "2 Chronicles",
+  "testament": "AT",
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Reinado de Ocozias\\par }Em seu lugar, os habitantes de Jerusalém proclamaram rei a Ocozias, seu filho mais novo, pois o bando que, com os árabes, tinha invadido o acampamento, matara os mais velhos. Assim, Ocozias, filho de Jorão, tornou-se rei de Judá.",
+      "reference": "2Cr 22:1"
+    },
+    "2": {
+      "text": "Tinha quarenta e dois anos quando começou a reinar e reinou um ano em Jerusalém. Sua mãe chamava-se Atalia e era filha de Amri.",
+      "reference": "2Cr 22:2"
+    },
+    "3": {
+      "text": "Também ele imitou a conduta da casa de Acab, pois sua mãe dava-lhe maus conselhos.",
+      "reference": "2Cr 22:3"
+    },
+    "4": {
+      "text": "Fez o mal aos olhos de Iahweh, como a família de Acab, pois foram eles que, para sua ruína, se tornaram seus conselheiros após a morte de seu pai.",
+      "reference": "2Cr 22:4"
+    },
+    "5": {
+      "text": "Seguiu também o conselho deles e marchou com Jorão, filho de Acab, rei de Israel, para combater Hazael, rei de Aram, em Ramot de Galaad. Mas os arameus feriram Jorão;",
+      "reference": "2Cr 22:5"
+    },
+    "6": {
+      "text": "e ele voltou a Jezrael para curar os ferimentos que recebera em Ramot ao combater Hazael, rei de Aram. \\par Ocozias, filho de Jorão, rei de Judá, desceu a Jezrael, para visitar Jorão, filho de Acab, porque ele estava enfermo.",
+      "reference": "2Cr 22:6"
+    },
+    "7": {
+      "text": "Deus fez dessa visita a Jorão a perda de Ocozias. Depois de chegar, saiu com Jorão para combater Jeú, filho de Namsi, ungido por Iahweh para exterminar a casa de Acab.",
+      "reference": "2Cr 22:7"
+    },
+    "8": {
+      "text": "Enquanto fazia justiça contra a casa de Acab, Jeú encontrou os oficiais de Judá e os sobrinhos de Ocozias, seus servos; matou-os,",
+      "reference": "2Cr 22:8"
+    },
+    "9": {
+      "text": "depois passou a procurar Ocozias. Apoderaram-se dele quando tentava esconder-se em Samaria e o trouxeram a Jeú, que o executou. Mas foi-lhe dada uma sepultura, porque disseram: “É o filho de Josafá, que buscava Iahweh de todo o coração”. Não havia ninguém na casa de Ocozias que estivesse em condição de reinar. \\par",
+      "reference": "2Cr 22:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i O crime de Atalia\\par }Quando a mãe de Ocozias, Atalia, soube que seu filho estava morto, resolveu exterminar toda a descendência real da casa de Judá.",
+      "reference": "2Cr 22:10"
+    },
+    "11": {
+      "text": "Mas Josaba, filha do rei, raptou Joás, filho de Ocozias, dentre os jovens filhos do rei que estavam sendo massacrados e o colocou, com sua ama, no quarto dos leitos. Assim Josaba, filha do rei Jorão, esposa do sacerdote Joiada e irmã de Ocozias, ocultou-o das vistas de Atalia e evitou que ela o matasse.",
+      "reference": "2Cr 22:11"
+    },
+    "12": {
+      "text": "Ficou seis anos com eles, escondido no Templo de Deus, enquanto Atalia reinava sobre a terra. \\par",
+      "reference": "2Cr 22:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

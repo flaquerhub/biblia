@@ -1,0 +1,101 @@
+{
+  "book": 60,
+  "book_name": "1Pedro",
+  "book_abbr": "1Pe",
+  "book_category": "Epístolas Gerais",
+  "book_english": "1 Peter",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i No casamento\\par }Da mesma maneira, vós, mulheres, sujeitai-vos aos vossos maridos, para que, ainda quando alguns não creiam na Palavra, sejam conquistados sem palavras, pelo comportamento de suas mulheres,",
+      "reference": "1Pe 3:1"
+    },
+    "2": {
+      "text": "ao observarem o vosso comportamento casto e respeitoso.",
+      "reference": "1Pe 3:2"
+    },
+    "3": {
+      "text": "Não consista o vosso adorno em exterioridades, como no trançado dos cabelos, no uso de jóias de ouro, nem no trajar vestes finas,",
+      "reference": "1Pe 3:3"
+    },
+    "4": {
+      "text": "mas nas qualidades pessoais internas, isto é, na incorruptibilidade de um espírito manso e tranqüilo, que é coisa preciosa diante de Deus.",
+      "reference": "1Pe 3:4"
+    },
+    "5": {
+      "text": "Com efeito, era assim que as santas mulheres de outrora, que punham a sua esperança em Deus, se adornavam, estando sujeitas aos seus próprios maridos.",
+      "reference": "1Pe 3:5"
+    },
+    "6": {
+      "text": "É o que vemos em Sara, que foi obediente a Abraão, chamando-lhe senhor. Dela vos tornareis filhas, se praticardes o bem e não vos deixardes dominar pelo medo. \\par",
+      "reference": "1Pe 3:6"
+    },
+    "7": {
+      "text": "Do mesmo modo vós, maridos, sede compreensivos em vossa vida conjugal, tributando às vossas esposas a honra devida a companheiras de constituição mais delicada, co-herdeiras da graça da Vida, para evitar que as vossas orações fiquem sem resposta. \\par",
+      "reference": "1Pe 3:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Entre irmãos\\par }Finalmente, sede todos unânimes, compassivos, cheios de amor fraternal, misericordiosos e humildes de espírito.",
+      "reference": "1Pe 3:8"
+    },
+    "9": {
+      "text": "Não pagueis mal por mal, nem injúria por injúria; ao contrário, bendizei, porque para isto fostes chamados, isto é, para serdes herdeiros da bênção.",
+      "reference": "1Pe 3:9"
+    },
+    "10": {
+      "text": "Com efeito, \\par {\\i aquele que ama a vida e deseja ver dias felizes, \\par guarde a sua língua do mal \\par e os seus lábios de proferir mentiras; }\\par",
+      "reference": "1Pe 3:10"
+    },
+    "11": {
+      "text": "{\\i afaste-se do mal e pratique o bem, \\par busque a paz e siga-a; }\\par",
+      "reference": "1Pe 3:11"
+    },
+    "12": {
+      "text": "{\\i porque os olhos do Senhor estão sobre os justos \\par e os seus ouvidos estão atentos à sua prece, \\par mas o rosto do Senhor se volta contra os que praticam o mal.}\\par",
+      "reference": "1Pe 3:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Na perseguição\\par }E quem vos há de fazer mal, se sois zelosos do bem?",
+      "reference": "1Pe 3:13"
+    },
+    "14": {
+      "text": "Mas se sofreis por causa da justiça, bem-aventurados sois! {\\i Não tenhais medo nenhum deles, nem fiqueis conturbados};",
+      "reference": "1Pe 3:14"
+    },
+    "15": {
+      "text": "antes, {\\i santificai} a Cristo, {\\i o Senhor}, em vossos corações, estando sempre prontos a dar razão da vossa esperança a todo aquele que vo-la pede;",
+      "reference": "1Pe 3:15"
+    },
+    "16": {
+      "text": "fazei-o, porém, com mansidão e respeito, conservando a vossa boa consciência, para que, se em alguma coisa sois difamados, sejam confundidos aqueles que ultrajam o vosso bom comportamento em Cristo,",
+      "reference": "1Pe 3:16"
+    },
+    "17": {
+      "text": "pois será melhor que sofrais – se esta é a vontade de Deus – por praticardes o bem do que praticando o mal. \\par",
+      "reference": "1Pe 3:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i A ressurreição e a descida à mansão dos mortos\\par }Com efeito, também Cristo morreu uma vez pelos pecados, o justo pelos injustos, a fim de vos conduzir a Deus. Morto na carne, foi vivificado no espírito,",
+      "reference": "1Pe 3:18"
+    },
+    "19": {
+      "text": "no qual foi também pregar aos espíritos em prisão,",
+      "reference": "1Pe 3:19"
+    },
+    "20": {
+      "text": "a saber, aos que foram incrédulos outrora, nos dias de Noé, quando Deus, em sua longanimidade, contemporizava com eles, enquanto Noé construía a arca, na qual poucas pessoas, isto é, oito, foram salvas por meio da água.",
+      "reference": "1Pe 3:20"
+    },
+    "21": {
+      "text": "Aquilo que lhe corresponde é o batismo que agora vos salva, não aquele que consiste em uma remoção da imundície do corpo, mas em um compromisso solene de uma boa consciência para com Deus pela ressurreição de Jesus Cristo,",
+      "reference": "1Pe 3:21"
+    },
+    "22": {
+      "text": "que, tendo subido ao céu, está à direita de Deus, estando-lhe sujeitos os anjos, as Dominações e as Potestades. \\par",
+      "reference": "1Pe 3:22"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 22
+}

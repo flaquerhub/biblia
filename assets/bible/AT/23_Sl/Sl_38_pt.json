@@ -1,0 +1,105 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 38,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 38 (37)\\par }{\\qc\\b\\i Prece na angústia\\par }{\\qc\\i Salmo. De Davi. Para comemorar.\\par }",
+      "reference": "Sl 38:1"
+    },
+    "2": {
+      "text": "Iahweh, não me castigues em tua cólera, \\par não me corrijas em teu furor. \\par",
+      "reference": "Sl 38:2"
+    },
+    "3": {
+      "text": "Tuas flechas penetraram em mim, \\par sobre mim abateu-se tua mão: \\par",
+      "reference": "Sl 38:3"
+    },
+    "4": {
+      "text": "nada está ileso em minha carne, em tua ira, \\par nada de são em meus ossos, em meu pecado. \\par",
+      "reference": "Sl 38:4"
+    },
+    "5": {
+      "text": "Minhas iniqüidades ultrapassam-me a cabeça, \\par como fardo pesado elas pesam sobre mim; \\par",
+      "reference": "Sl 38:5"
+    },
+    "6": {
+      "text": "minhas chagas estão podres e supuram, \\par por causa da minha loucura. \\par",
+      "reference": "Sl 38:6"
+    },
+    "7": {
+      "text": "Estou curvado, inteiramente prostrado, \\par ando o dia todo entristecido. \\par",
+      "reference": "Sl 38:7"
+    },
+    "8": {
+      "text": "Meus rins ardem de febre, \\par nada está ileso em minha carne; \\par",
+      "reference": "Sl 38:8"
+    },
+    "9": {
+      "text": "estou enfraquecido, completamente esmagado, \\par meu coração rosna, eu solto rugidos. \\par",
+      "reference": "Sl 38:9"
+    },
+    "10": {
+      "text": "Senhor, à tua frente está o meu desejo todo, \\par meu gemido não se esconde de ti; \\par",
+      "reference": "Sl 38:10"
+    },
+    "11": {
+      "text": "meu coração palpita, minha força me abandona, \\par a luz dos meus olhos já não habita comigo. \\par",
+      "reference": "Sl 38:11"
+    },
+    "12": {
+      "text": "Amigos e companheiros se afastam da minha praga, \\par e meus vizinhos se mantêm à distância; \\par",
+      "reference": "Sl 38:12"
+    },
+    "13": {
+      "text": "preparam armadilhas os que buscam tirar-me a vida, \\par os que procuram minha ruína falam de crimes, \\par todo dia meditando em traições. \\par",
+      "reference": "Sl 38:13"
+    },
+    "14": {
+      "text": "E eu, como um surdo, não escuto, \\par como um mudo que não abre a boca. \\par",
+      "reference": "Sl 38:14"
+    },
+    "15": {
+      "text": "Sou como homem que não ouve \\par e não tem uma réplica na boca. \\par",
+      "reference": "Sl 38:15"
+    },
+    "16": {
+      "text": "É por ti, Iahweh, que eu espero! \\par És tu quem responderá, Senhor meu Deus! \\par",
+      "reference": "Sl 38:16"
+    },
+    "17": {
+      "text": "Eu disse: “Que não se alegrem à minha custa, \\par não triunfem sobre mim quando eu tropeço!” \\par",
+      "reference": "Sl 38:17"
+    },
+    "18": {
+      "text": "Sim, estou a ponto de cair, \\par meu tormento está sempre à minha frente. \\par",
+      "reference": "Sl 38:18"
+    },
+    "19": {
+      "text": "Sim, eu confesso a minha iniqüidade, \\par e temo pelo meu pecado. \\par",
+      "reference": "Sl 38:19"
+    },
+    "20": {
+      "text": "Meus inimigos sem motivo são poderosos, \\par são muitos os que me odeiam sem motivo, \\par",
+      "reference": "Sl 38:20"
+    },
+    "21": {
+      "text": "os que pagam o mal pelo bem, \\par e por eu procurar o bem me acusam. \\par",
+      "reference": "Sl 38:21"
+    },
+    "22": {
+      "text": "Não me abandones, Iahweh, \\par meu Deus, não fiques longe de mim! \\par",
+      "reference": "Sl 38:22"
+    },
+    "23": {
+      "text": "Vem socorrer-me depressa, \\par ó Senhor, minha salvação! \\par",
+      "reference": "Sl 38:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

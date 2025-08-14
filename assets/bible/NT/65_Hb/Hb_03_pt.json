@@ -1,0 +1,89 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Jesus sumo sacerdote fiel e misericordioso}\\par }{\\qc\\b\\i Cristo é superior a Moisés\\par }Assim, meus santos irmãos e companheiros de vocação celestial, considerai atentamente a Jesus, o apóstolo e sumo sacerdote da nossa profissão de fé.",
+      "reference": "Hb 3:1"
+    },
+    "2": {
+      "text": "É {\\i fiel} a quem o constituiu, como também o foi {\\i Moisés em toda a sua casa.}",
+      "reference": "Hb 3:2"
+    },
+    "3": {
+      "text": "Ele foi, de fato, considerado digno de maior honra do que Moisés. Pois o arquiteto tem maior honra do que a própria casa.",
+      "reference": "Hb 3:3"
+    },
+    "4": {
+      "text": "Toda casa, com efeito, tem o seu arquiteto; mas o arquiteto de tudo é Deus.",
+      "reference": "Hb 3:4"
+    },
+    "5": {
+      "text": "Ora, Moisés era fiel {\\i em toda a sua casa, como servo}, para ser testemunha das coisas que deveriam ser ditas.",
+      "reference": "Hb 3:5"
+    },
+    "6": {
+      "text": "Cristo, porém, na qualidade de Filho, está acima de sua casa. Esta casa somos nós, se mantivermos a confiança e o motivo altaneiro da esperança. \\par",
+      "reference": "Hb 3:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i A fé introduz no repouso de Deus\\par }Eis por que assim declara o Espírito Santo: {\\i Hoje, se lhe ouvirdes a voz,}",
+      "reference": "Hb 3:7"
+    },
+    "8": {
+      "text": "{\\i não endureçais os vossos corações, como aconteceu na Provocação: no dia da Tentação, no deserto, }",
+      "reference": "Hb 3:8"
+    },
+    "9": {
+      "text": "{\\i onde vossos pais me tentaram, pondo-me à prova, }",
+      "reference": "Hb 3:9"
+    },
+    "10": {
+      "text": "{\\i embora vissem minhas obras, durante quarenta anos. Pelo que me indignei contra essa geração, e afirmei: sempre se enganam no coração, e desconhecem os meus caminhos. }",
+      "reference": "Hb 3:10"
+    },
+    "11": {
+      "text": "{\\i Assim, jurei em minha ira: não entrarão no meu repouso.}",
+      "reference": "Hb 3:11"
+    },
+    "12": {
+      "text": "Vede, irmãos, que não haja entre vós quem tenha coração mau e infiel que se afaste do Deus vivo.",
+      "reference": "Hb 3:12"
+    },
+    "13": {
+      "text": "Exortai-vos, antes, uns aos outros, dia após dia, enquanto ainda se disser “{\\i hoje}”, para que ninguém de vós {\\i se endureça}, seduzido pelo pecado.",
+      "reference": "Hb 3:13"
+    },
+    "14": {
+      "text": "Pois nos tornamos companheiros de Cristo, contanto que mantenhamos firme até o fim a nossa confiança inicial.",
+      "reference": "Hb 3:14"
+    },
+    "15": {
+      "text": "Quando se diz: {\\i Hoje, se lhe ouvirdes a voz, não endureçais os vossos corações, como aconteceu na Provocação...}",
+      "reference": "Hb 3:15"
+    },
+    "16": {
+      "text": "quais foram os que {\\i ouviram, e fizeram a provocação}? Não foram todos os que saíram do Egito, graças a Moisés?",
+      "reference": "Hb 3:16"
+    },
+    "17": {
+      "text": "E contra quem {\\i se indignou ele durante quarenta anos}? Não foi acaso contra os que pecaram, e {\\i cujos cadáveres caíram no deserto}?",
+      "reference": "Hb 3:17"
+    },
+    "18": {
+      "text": "E a quem, senão aos rebeldes, jurou ele que não entrariam no seu repouso?",
+      "reference": "Hb 3:18"
+    },
+    "19": {
+      "text": "Vemos, pois, que foi por causa da sua incredulidade que não puderam entrar. \\par",
+      "reference": "Hb 3:19"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 19
+}

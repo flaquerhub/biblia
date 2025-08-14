@@ -1,0 +1,161 @@
+{
+  "book": 41,
+  "book_name": "Marcos",
+  "book_abbr": "Mc",
+  "book_category": "Evangelhos",
+  "book_english": "Mark",
+  "testament": "NT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Discurso escatológico. Introdução\\par }Ao sair do Templo, disse-lhe um dos seus discípulos: “Mestre, vê que pedras e que construções!”",
+      "reference": "Mc 13:1"
+    },
+    "2": {
+      "text": "Disse-lhe Jesus: “Vês estas grandes construções? Não ficará pedra sobre pedra que não seja demolida”. \\par",
+      "reference": "Mc 13:2"
+    },
+    "3": {
+      "text": "Sentado no monte das Oliveiras, frente ao Templo, Pedro, Tiago, João e André lhe perguntavam em particular:",
+      "reference": "Mc 13:3"
+    },
+    "4": {
+      "text": "“Dize-nos: quando será isso e qual o sinal de que todas essas coisas estarão para acontecer?” \\par",
+      "reference": "Mc 13:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i O princípio das dores\\par }Então Jesus começou a dizer-lhes: “Atenção para que ninguém vos engane.",
+      "reference": "Mc 13:5"
+    },
+    "6": {
+      "text": "Muitos virão em meu nome, dizendo ‘Sou eu’, e enganarão a muitos.",
+      "reference": "Mc 13:6"
+    },
+    "7": {
+      "text": "Quando ouvirdes falar de guerras e de rumores de guerras, não vos alarmeis: {\\i é preciso que aconteçam,} mas ainda não é o fim.",
+      "reference": "Mc 13:7"
+    },
+    "8": {
+      "text": "Pois {\\i levantar-se-á nação contra nação e reino contra reino.} E haverá terremotos em todos os lugares, e haverá fome. Isso é o princípio das dores do parto. \\par",
+      "reference": "Mc 13:8"
+    },
+    "9": {
+      "text": "Ficai de sobreaviso. Entregar-vos-ão aos sinédrios e às sinagogas, e sereis açoitados, e vos conduzirão perante governadores e reis por minha causa, para dardes testemunho perante eles.",
+      "reference": "Mc 13:9"
+    },
+    "10": {
+      "text": "É necessário que primeiro o Evangelho seja proclamado a todas as nações. \\par",
+      "reference": "Mc 13:10"
+    },
+    "11": {
+      "text": "Quando, pois, vos levarem para vos entregar, não vos preocupeis com o que havereis de dizer; mas, o que vos for indicado naquela hora, isso falareis; pois não sereis vós que falareis, mas o Espírito Santo.",
+      "reference": "Mc 13:11"
+    },
+    "12": {
+      "text": "O irmão entregará o irmão à morte, e o pai entregará o filho. {\\i Os filhos se levantarão contra os pais} e os farão morrer.",
+      "reference": "Mc 13:12"
+    },
+    "13": {
+      "text": "E sereis odiados por todos por causa do meu nome. Aquele, porém, que perseverar até o fim, esse será salvo. \\par",
+      "reference": "Mc 13:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i A grande tribulação de Jerusalém\\par }Quando virdes a {\\i abominação da desolação} instalada onde não devia estar – que o leitor entenda – então os que estiverem na Judéia fujam para as montanhas,",
+      "reference": "Mc 13:14"
+    },
+    "15": {
+      "text": "aquele que estiver no terraço não desça nem entre para apanhar alguma coisa em sua casa,",
+      "reference": "Mc 13:15"
+    },
+    "16": {
+      "text": "aquele que estiver no campo não volte para trás a fim de apanhar a sua veste.",
+      "reference": "Mc 13:16"
+    },
+    "17": {
+      "text": "Ai daquelas que estiverem grávidas e estiverem amamentando naqueles dias!",
+      "reference": "Mc 13:17"
+    },
+    "18": {
+      "text": "Pedi para que isso não aconteça no inverno.",
+      "reference": "Mc 13:18"
+    },
+    "19": {
+      "text": "Pois naqueles dias haverá {\\i uma tribulação tal, como não houve} desde o princípio do mundo que Deus criou {\\i até agora,} e não haverá jamais.",
+      "reference": "Mc 13:19"
+    },
+    "20": {
+      "text": "E se o Senhor não abreviasse esses dias, nenhuma vida se salvaria; mas, por causa dos eleitos que escolheu, ele abreviou os dias.",
+      "reference": "Mc 13:20"
+    },
+    "21": {
+      "text": "Então, se alguém vos disser ‘Eis o Messias aqui!’ ou ‘Ei-lo ali!’, não creiais.",
+      "reference": "Mc 13:21"
+    },
+    "22": {
+      "text": "Hão de surgir falsos Messias e {\\i falsos profetas,} os quais {\\i apresentarão sinais e prodígios} para enganar, se possível, os eleitos.",
+      "reference": "Mc 13:22"
+    },
+    "23": {
+      "text": "Quanto a vós, porém, ficai atentos. Eu vos predisse tudo. \\par",
+      "reference": "Mc 13:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Manifestação gloriosa do Filho do Homem\\par }Naqueles dias, porém, depois daquela tribulação, {\\i o sol escurecerá, a lua não dará a sua claridade, }",
+      "reference": "Mc 13:24"
+    },
+    "25": {
+      "text": "{\\i as estrelas estarão caindo do céu, e os poderes que estão nos céus serão abalados.}",
+      "reference": "Mc 13:25"
+    },
+    "26": {
+      "text": "E verão {\\i o Filho do Homem vindo entre nuvens} com grande poder e glória.",
+      "reference": "Mc 13:26"
+    },
+    "27": {
+      "text": "Então ele enviará os anjos e {\\i reunirá} seus eleitos, {\\i dos quatro ventos, da extremidade da terra à extremidade do céu.} \\par",
+      "reference": "Mc 13:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Parábola da figueira\\par }Aprendei, pois, a parábola da figueira. Quando o seu ramo se torna tenro e as suas folhas começam a brotar, sabeis que o verão está próximo.",
+      "reference": "Mc 13:28"
+    },
+    "29": {
+      "text": "Da mesma forma, também vós, quando virdes essas coisas acontecerem, sabei que ele está próximo, às portas.",
+      "reference": "Mc 13:29"
+    },
+    "30": {
+      "text": "Em verdade vos digo que esta geração não passará até que tudo isso aconteça.",
+      "reference": "Mc 13:30"
+    },
+    "31": {
+      "text": "Passarão o céu e a terra. Minhas palavras, porém, não passarão.",
+      "reference": "Mc 13:31"
+    },
+    "32": {
+      "text": "Daquele dia e da hora, ninguém sabe, nem os anjos no céu, nem o Filho, somente o Pai. \\par",
+      "reference": "Mc 13:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Vigiar para não ser surpreendido\\par }Atenção, e vigiai, pois não sabeis quando será o momento.",
+      "reference": "Mc 13:33"
+    },
+    "34": {
+      "text": "Será como um homem que partiu de viagem: deixou sua casa, deu autoridade a seus servos, distribuiu a cada um sua responsabilidade e ao porteiro ordenou que vigiasse.",
+      "reference": "Mc 13:34"
+    },
+    "35": {
+      "text": "Vigiai, portanto, porque não sabeis quando o senhor da casa voltará: à tarde, à meia-noite, ao canto do galo, ou de manhã,",
+      "reference": "Mc 13:35"
+    },
+    "36": {
+      "text": "para que, vindo de repente, não vos encontre dormindo.",
+      "reference": "Mc 13:36"
+    },
+    "37": {
+      "text": "E o que vos digo, digo a todos: vigiai!” \\par",
+      "reference": "Mc 13:37"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 37
+}

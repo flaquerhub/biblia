@@ -1,0 +1,125 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "Senhor, pai e soberano de minha vida, \\par não me abandones aos seus caprichos, \\par não me deixes cair por eles. \\par",
+      "reference": "Eclo 23:1"
+    },
+    "2": {
+      "text": "Quem dará chicotadas nos meus pensamentos \\par e a meu coração imporá a disciplina da sabedoria, \\par a fim de que os meus erros não sejam poupados \\par e a sua culpa não seja afastada? \\par",
+      "reference": "Eclo 23:2"
+    },
+    "3": {
+      "text": "De maneira que meus erros não se multipliquem, \\par nem aumentem os meus pecados, \\par e eu, assim, não caia diante do meu adversário \\par e meu inimigo não se alegre à minha custa? \\par",
+      "reference": "Eclo 23:3"
+    },
+    "4": {
+      "text": "Senhor, pai e Deus de minha vida, \\par não me dês um olhar altivo, \\par",
+      "reference": "Eclo 23:4"
+    },
+    "5": {
+      "text": "afasta de mim a inveja, \\par",
+      "reference": "Eclo 23:5"
+    },
+    "6": {
+      "text": "não me dominem o apetite sensual e a luxúria, \\par não me entregues ao desejo impudico. \\par",
+      "reference": "Eclo 23:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Os juramentos\\par }Filhos, escutai meu ensinamento: \\par aquele que o observa não será colhido em falta. \\par",
+      "reference": "Eclo 23:7"
+    },
+    "8": {
+      "text": "O pecador será apanhado por seus próprios lábios, \\par o maledicente e o orgulhoso neles tropeçam. \\par",
+      "reference": "Eclo 23:8"
+    },
+    "9": {
+      "text": "Não habitues tua boca a fazer juramento, \\par não serás habituado a proferir o Santo Nome. \\par",
+      "reference": "Eclo 23:9"
+    },
+    "10": {
+      "text": "Pois como um escravo continuamente vigiado \\par não escapará dos golpes, \\par assim aquele que, a torto e a direito, jura e nomeia seu Nome \\par não ficará isento de pecado. \\par",
+      "reference": "Eclo 23:10"
+    },
+    "11": {
+      "text": "Um homem dado a juramento encher-se-á de falta \\par e o chicote não se afastará de sua casa. \\par Se peca, seu pecado estará sobre ele; \\par se despreza, peca duplamente; \\par se jurou em vão, não será justificado \\par e sua casa se encherá de males. \\par",
+      "reference": "Eclo 23:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i As palavras impuras\\par }Há uma maneira de falar semelhante à morte: \\par não se encontre isso entre os descendentes de Jacó, \\par porque essas coisas deverão estar longe de homens piedosos, \\par e assim não se engolfarão no pecado. \\par",
+      "reference": "Eclo 23:12"
+    },
+    "13": {
+      "text": "Não habitues tua boca à grosseria impura, \\par porque nela há uma linguagem pecaminosa. \\par",
+      "reference": "Eclo 23:13"
+    },
+    "14": {
+      "text": "Lembra-te de teu pai e de tua mãe \\par quando te achares no meio dos grandes, \\par para que não te esqueças de ti mesmo na sua presença \\par e, pelo hábito, não te tornes estulto, \\par não desejes não ter nascido \\par e não maldigas o dia do teu nascimento. \\par",
+      "reference": "Eclo 23:14"
+    },
+    "15": {
+      "text": "Um homem habituado a palavras injuriosas \\par não se corrigirá em toda a sua vida. \\par",
+      "reference": "Eclo 23:15"
+    },
+    "16": {
+      "text": "Duas espécies de coisas multiplicam os pecados \\par e uma terceira acarreta a cólera: \\par",
+      "reference": "Eclo 23:16"
+    },
+    "17": {
+      "text": "a paixão ardente como fogo aceso: \\par não se apaga enquanto tiver o que devorar; \\par o homem que deseja a sua própria carne: \\par não cessa enquanto o fogo não o consumir; \\par para o homem sensual todo alimento é doce, \\par não se acalma enquanto não morrer. \\par",
+      "reference": "Eclo 23:17"
+    },
+    "18": {
+      "text": "O homem que peca no seu próprio leito \\par diz em seu coração: “Quem me vê? \\par As trevas me envolvem, as paredes me escondem, \\par ninguém me vê, o que temerei? \\par O Altíssimo não se lembrará de meus pecados”. \\par",
+      "reference": "Eclo 23:18"
+    },
+    "19": {
+      "text": "O seu temor são os olhos dos homens \\par e não sabe que os olhos do Senhor \\par são infinitamente mais luminosos do que o sol, \\par vêem todos os caminhos dos homens \\par e penetram os lugares mais secretos. \\par",
+      "reference": "Eclo 23:19"
+    },
+    "20": {
+      "text": "Antes de serem criadas, ele já conhecia todas as coisas, \\par depois de acabadas também as conhece. \\par",
+      "reference": "Eclo 23:20"
+    },
+    "21": {
+      "text": "Tal homem será castigado na praça da cidade, \\par será preso onde não pensava. \\par",
+      "reference": "Eclo 23:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i A mulher adúltera\\par }Assim também será da mulher que abandona seu marido \\par e, por herdeiro, lhe dá um filho de outro. \\par",
+      "reference": "Eclo 23:22"
+    },
+    "23": {
+      "text": "Pois, em primeiro lugar, ela desobedeceu à lei do Altíssimo, \\par em segundo lugar, pecou contra o seu marido; \\par e, em terceiro lugar, manchou-se com um adultério \\par e concebeu filhos de um estranho. \\par",
+      "reference": "Eclo 23:23"
+    },
+    "24": {
+      "text": "Ela será levada diante da assembléia \\par e seus filhos serão examinados. \\par",
+      "reference": "Eclo 23:24"
+    },
+    "25": {
+      "text": "Seus filhos não lançarão raiz \\par e seus ramos não darão fruto. \\par",
+      "reference": "Eclo 23:25"
+    },
+    "26": {
+      "text": "Deixará uma lembrança de maldição \\par e sua infâmia não se apagará jamais. \\par",
+      "reference": "Eclo 23:26"
+    },
+    "27": {
+      "text": "Os sobreviventes saberão \\par que nada é melhor do que o temor do Senhor \\par e que nada é mais doce do que seguir os mandamentos do Senhor. \\par",
+      "reference": "Eclo 23:27"
+    },
+    "28": {
+      "text": "*",
+      "reference": "Eclo 23:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

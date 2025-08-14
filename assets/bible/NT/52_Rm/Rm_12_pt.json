@@ -1,0 +1,97 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Parênese}\\par }{\\qc\\b\\i O culto espiritual\\par }Exorto-vos, portanto, irmãos, pela misericórdia de Deus, a que ofereçais vossos corpos como hóstia viva, santa e agradável a Deus: este é o vosso culto espiritual.",
+      "reference": "Rm 12:1"
+    },
+    "2": {
+      "text": "E não vos conformeis com este mundo, mas transformai-vos, renovando a vossa mente, a fim de poderdes discernir qual é a vontade de Deus, o que é bom, agradável e perfeito. \\par",
+      "reference": "Rm 12:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Humildade e caridade na comunidade\\par }Em virtude da graça que me foi concedida, eu peço a cada um de vós que não tenha de si mesmo um conceito mais elevado do que convém, mas uma justa estima, ditada pela sabedoria, de acordo com a medida da fé que Deus dispensou a cada um.",
+      "reference": "Rm 12:3"
+    },
+    "4": {
+      "text": "Pois assim como num só corpo temos muitos membros, e os membros não têm todos a mesma função,",
+      "reference": "Rm 12:4"
+    },
+    "5": {
+      "text": "de modo análogo, nós somos muitos e formamos um só corpo em Cristo, sendo membros um dos outros.",
+      "reference": "Rm 12:5"
+    },
+    "6": {
+      "text": "Tendo, porém, dons diferentes, segundo a graça que nos foi dada, aquele que tem o dom da profecia, que o exerça segundo a proporção da nossa fé;",
+      "reference": "Rm 12:6"
+    },
+    "7": {
+      "text": "aquele que tem o dom do serviço, o exerça servindo; quem o do ensino, ensinando;",
+      "reference": "Rm 12:7"
+    },
+    "8": {
+      "text": "quem o da exortação, exortando. Aquele que distribui seus bens, que o faça com simplicidade; aquele que preside, com diligência; aquele que exerce misericórdia, com alegria. \\par",
+      "reference": "Rm 12:8"
+    },
+    "9": {
+      "text": "Que vosso amor seja sem hipocrisia, detestando o mal e apegados ao bem;",
+      "reference": "Rm 12:9"
+    },
+    "10": {
+      "text": "com amor fraterno, tendo carinho uns para com os outros, cada um considerando o outro como mais digno de estima.",
+      "reference": "Rm 12:10"
+    },
+    "11": {
+      "text": "Sede diligentes, sem preguiça, fervorosos de espírito, servindo ao Senhor,",
+      "reference": "Rm 12:11"
+    },
+    "12": {
+      "text": "alegrando-vos na esperança, perseverando na tribulação, assíduos na oração,",
+      "reference": "Rm 12:12"
+    },
+    "13": {
+      "text": "tomando parte nas necessidades dos santos, buscando proporcionar a hospitalidade. \\par",
+      "reference": "Rm 12:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Amor para com todos os homens, mesmo para com os inimigos\\par }Abençoai os que vos perseguem; abençoai e não amaldiçoeis.",
+      "reference": "Rm 12:14"
+    },
+    "15": {
+      "text": "Alegrai-vos com os que se alegram, chorai com os que choram.",
+      "reference": "Rm 12:15"
+    },
+    "16": {
+      "text": "Tende a mesma estima uns pelos outros, sem pretensões de grandeza, mas sentindo-vos solidários com os mais humildes: {\\i não vos deis ares de sábios.}",
+      "reference": "Rm 12:16"
+    },
+    "17": {
+      "text": "A ninguém pagueis o mal com o mal; {\\i seja vossa preocupação fazer o que é bom para} todos {\\i os homens},",
+      "reference": "Rm 12:17"
+    },
+    "18": {
+      "text": "procurando, se possível, viver em paz com todos, por quanto de vós depende.",
+      "reference": "Rm 12:18"
+    },
+    "19": {
+      "text": "Não façais justiça por vossa conta, caríssimos, mas dai lugar à ira, pois está escrito: {\\i A mim pertence a vingança, eu é que retribuirei,} diz o Senhor.",
+      "reference": "Rm 12:19"
+    },
+    "20": {
+      "text": "Antes, {\\i se o teu inimigo tiver fome, dá-lhe de comer, se tiver sede, dá-lhe de beber. Agindo desta forma estarás acumulando brasas sobre a cabeça dele.}",
+      "reference": "Rm 12:20"
+    },
+    "21": {
+      "text": "Não te deixes vencer pelo mal, mas vence o mal com o bem. \\par",
+      "reference": "Rm 12:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

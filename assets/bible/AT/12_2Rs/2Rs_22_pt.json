@@ -1,0 +1,93 @@
+{
+  "book": 12,
+  "book_name": "2Reis",
+  "book_abbr": "2Rs",
+  "book_category": "Histórico",
+  "book_english": "2 Kings",
+  "testament": "AT",
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 3. JOSIAS E A REFORMA RELIGIOSA\\par }{\\qc\\b\\i Introdução ao reinado de Josias (640-609)\\par }Josias tinha oito anos quando começou a reinar e reinou trinta e um anos em Jerusalém; sua mãe chamava-se Idida, era filha de Hadaia e natural de Besecat.",
+      "reference": "2Rs 22:1"
+    },
+    "2": {
+      "text": "Fez o que é agradável aos olhos de Iahweh e imitou em tudo o proceder de Davi, seu pai, sem se desviar para a direita ou para a esquerda. \\par",
+      "reference": "2Rs 22:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Descoberta do livro da Lei\\par }No décimo oitavo ano de Josias, o rei mandou o secretário Safã, filho de Aslias, filho de Mesolam, ao Templo de Iahweh, ordenando:",
+      "reference": "2Rs 22:3"
+    },
+    "4": {
+      "text": "“Vai ter com o sumo sacerdote Helcias, para que ele funda o dinheiro que foi oferecido ao Templo de Iahweh e que os guardas da porta recolheram do povo.",
+      "reference": "2Rs 22:4"
+    },
+    "5": {
+      "text": "Que ele o entregue aos empreiteiros encarregados do Templo de Iahweh, para que estes o dêem aos operários que trabalham nas restaurações no Templo de Iahweh,",
+      "reference": "2Rs 22:5"
+    },
+    "6": {
+      "text": "aos carpinteiros, aos construtores e aos pedreiros, e o utilizem na compra de madeira e de pedras talhadas destinadas à restauração do Templo.",
+      "reference": "2Rs 22:6"
+    },
+    "7": {
+      "text": "Mas não se lhes peçam contas do dinheiro que lhes for entregue, pois agem com honestidade”. \\par",
+      "reference": "2Rs 22:7"
+    },
+    "8": {
+      "text": "O sumo sacerdote Helcias disse ao secretário Safã: “Achei o livro da Lei no Templo de Iahweh”. Helcias deu o livro a Safã, que o leu.",
+      "reference": "2Rs 22:8"
+    },
+    "9": {
+      "text": "O secretário Safã veio ter com o rei e informou-lhe: “Teus servos fundiram o dinheiro que se achava no Templo e entregaram-no aos empreiteiros encarregados do Templo de Iahweh”.",
+      "reference": "2Rs 22:9"
+    },
+    "10": {
+      "text": "Depois o secretário Safã anunciou ao rei: “O sacerdote Helcias deu-me um livro”, e Safã leu-o diante do rei. \\par",
+      "reference": "2Rs 22:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Consulta à profetisa Hulda\\par }Ao ouvir as palavras contidas no livro da Lei, o rei rasgou as vestes.",
+      "reference": "2Rs 22:11"
+    },
+    "12": {
+      "text": "Ordenou ao sacerdote Helcias, a Aicam, filho de Safã, a Acobor, filho de Micas, ao secretário Safã e a Asaías, ministro do rei:",
+      "reference": "2Rs 22:12"
+    },
+    "13": {
+      "text": "“Ide consultar Iahweh por mim e pelo povo, a respeito das palavras deste livro que acaba de ser encontrado. Grande deve ser a ira de Iahweh, que se inflamou contra nós porque nossos pais não obedeceram às palavras deste livro, praticando tudo o que nele está escrito”. \\par",
+      "reference": "2Rs 22:13"
+    },
+    "14": {
+      "text": "O sacerdote Helcias, Aicam, Acobor, Safã e Asaías foram ter com a profetisa Hulda, mulher de Selum, filho de Tícua, filho de Haraas, guarda dos vestiários; ela morava em Jerusalém, na cidade nova. Expuseram-lhe a questão",
+      "reference": "2Rs 22:14"
+    },
+    "15": {
+      "text": "e ela lhes respondeu: “Assim fala Iahweh, Deus de Israel. Dizei ao homem que vos enviou a mim:",
+      "reference": "2Rs 22:15"
+    },
+    "16": {
+      "text": "‘Assim fala Iahweh: Eis que estou para fazer cair a desgraça sobre este lugar e sobre os seus habitantes, tudo o que diz o livro que o rei de Judá acaba de ler,",
+      "reference": "2Rs 22:16"
+    },
+    "17": {
+      "text": "porque me abandonaram e sacrificaram a outros deuses, para me irritar com suas ações. Minha ira se inflamou contra esse lugar e ela não se aplacará’.",
+      "reference": "2Rs 22:17"
+    },
+    "18": {
+      "text": "E direis ao rei de Judá que vos enviou para consultar Iahweh: ‘Assim fala Iahweh, Deus de Israel: As palavras que ouviste...",
+      "reference": "2Rs 22:18"
+    },
+    "19": {
+      "text": "Mas porque teu coração se comoveu e te humilhaste diante de Iahweh, ouvindo as palavras que pronunciei contra este lugar e seus habitantes, que se tornarão objeto de espanto e de maldição, e porque rasgaste as vestes e choraste diante de mim, eu também te ouvi, oráculo de Iahweh.",
+      "reference": "2Rs 22:19"
+    },
+    "20": {
+      "text": "Por isso te reunirei a teus pais, serás deposto em paz no teu sepulcro e teus olhos não verão todos os males que vou mandar sobre este lugar”. Eles levaram ao rei essa resposta. \\par",
+      "reference": "2Rs 22:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

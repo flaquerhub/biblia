@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 122,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 122 (121)\\par }{\\qc\\b\\i Saudação a Jerusalém\\par }{\\qc\\i Cântico das subidas. De Davi. \\par } Alegrei-me quando me disseram: \\par “Vamos à casa de Iahweh!” \\par",
+      "reference": "Sl 122:1"
+    },
+    "2": {
+      "text": "Nossos passos já se detêm \\par às tuas portas, Jerusalém! \\par",
+      "reference": "Sl 122:2"
+    },
+    "3": {
+      "text": "Jerusalém, construída como cidade \\par em que tudo está ligado, \\par",
+      "reference": "Sl 122:3"
+    },
+    "4": {
+      "text": "para onde sobem as tribos, \\par as tribos de Iahweh, \\par é uma razão para Israel celebrar \\par o nome de Iahweh. \\par",
+      "reference": "Sl 122:4"
+    },
+    "5": {
+      "text": "Pois ali estão os tronos da justiça, \\par os tronos da casa de Davi. \\par",
+      "reference": "Sl 122:5"
+    },
+    "6": {
+      "text": "Pedi a paz para Jerusalém: \\par “Que tuas tendas repousem, \\par",
+      "reference": "Sl 122:6"
+    },
+    "7": {
+      "text": "haja paz em teus muros \\par e repouso em teus palácios!” \\par",
+      "reference": "Sl 122:7"
+    },
+    "8": {
+      "text": "Por meus irmãos e meus amigos \\par eu desejo: “A paz esteja contigo!” \\par",
+      "reference": "Sl 122:8"
+    },
+    "9": {
+      "text": "Pela casa de Iahweh nosso Deus \\par eu peço: “Felicidade para ti!” \\par",
+      "reference": "Sl 122:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

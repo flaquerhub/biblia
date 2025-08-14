@@ -1,0 +1,249 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A lepra humana. A. Tumor, dartro e mancha\\par }Iahweh falou a Moisés e a Aarão e disse: \\par",
+      "reference": "Lv 13:1"
+    },
+    "2": {
+      "text": "“Se se formar sobre a pele de um homem um tumor, um dartro ou uma mancha, pode tratar-se de um caso de lepra da pele. Será conduzido a Aarão, o sacerdote, ou a um dos sacerdotes seus filhos.",
+      "reference": "Lv 13:2"
+    },
+    "3": {
+      "text": "O sacerdote examinará a enfermidade sobre a pele. Se no lugar enfermo o pêlo se tornou branco e a enfermidade se tornou mais profunda na epiderme, é caso de lepra; depois da observação o sacerdote o declarará impuro.",
+      "reference": "Lv 13:3"
+    },
+    "4": {
+      "text": "Mas se sobre a pele há uma mancha branca, sem depressão visível da pele, e o pêlo não se tornou branco, o sacerdote isolará o enfermo durante sete dias.",
+      "reference": "Lv 13:4"
+    },
+    "5": {
+      "text": "No sétimo dia o examinará. Se verificar com seus próprios olhos que a enfermidade permanece, sem se alastrar sobre a pele, o isolará durante mais sete dias",
+      "reference": "Lv 13:5"
+    },
+    "6": {
+      "text": "e o examinará novamente no sétimo dia. Se verificar que a enfermidade se tornou baça e não se desenvolveu sobre a pele, o sacerdote declarará o homem puro, pois trata-se de dartro. Depois de haver lavado as suas vestes, ficará puro. \\par",
+      "reference": "Lv 13:6"
+    },
+    "7": {
+      "text": "Contudo, se o dartro se alastrou sobre a pele, depois que o enfermo foi examinado pelo sacerdote e declarado puro, apresentar-se-á de novo ao sacerdote.",
+      "reference": "Lv 13:7"
+    },
+    "8": {
+      "text": "Depois de o ter examinado e ter constatado o desenvolvimento do dartro sobre a pele, o sacerdote o declarará impuro: trata-se de lepra. \\par",
+      "reference": "Lv 13:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i B. Lepra inveterada\\par }Quando aparecer em um homem uma enfermidade do gênero da lepra, será levado ao sacerdote.",
+      "reference": "Lv 13:9"
+    },
+    "10": {
+      "text": "O sacerdote o examinará e se constatar sobre a pele um tumor esbranquiçado, pêlos que se tornaram brancos e o aparecimento de uma úlcera,",
+      "reference": "Lv 13:10"
+    },
+    "11": {
+      "text": "é lepra inveterada sobre a pele. O sacerdote o declarará impuro. Não o isolará, pois que, sem dúvida alguma, está impuro. \\par",
+      "reference": "Lv 13:11"
+    },
+    "12": {
+      "text": "Mas se a lepra se alastrar sobre a pele, se a enfermidade a recobrir totalmente e se estender da cabeça aos pés, até onde pode observar o sacerdote,",
+      "reference": "Lv 13:12"
+    },
+    "13": {
+      "text": "este examinará o enfermo e, verificando que a lepra recobre todo o seu corpo, declarará puro o enfermo. Visto que tudo se tornou branco, está puro.",
+      "reference": "Lv 13:13"
+    },
+    "14": {
+      "text": "Contudo, no dia em que aparecer nele uma úlcera, ficará impuro.",
+      "reference": "Lv 13:14"
+    },
+    "15": {
+      "text": "Após o exame da úlcera, o sacerdote o declarará impuro: a úlcera é coisa impura, é proveniente da lepra.",
+      "reference": "Lv 13:15"
+    },
+    "16": {
+      "text": "Mas se a úlcera se tornar branca, o homem procurará o sacerdote,",
+      "reference": "Lv 13:16"
+    },
+    "17": {
+      "text": "este o examinará e, se verificar que a enfermidade se tornou branca, declarará puro o enfermo: está puro. \\par",
+      "reference": "Lv 13:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i C. Úlcera\\par }Quando alguém tiver na pele uma úlcera de que já foi curado,",
+      "reference": "Lv 13:18"
+    },
+    "19": {
+      "text": "se se formar no lugar da úlcera um tumor esbranquiçado ou uma mancha branco-avermelhada, esse homem se apresentará ao sacerdote.",
+      "reference": "Lv 13:19"
+    },
+    "20": {
+      "text": "Este o examinará; se verificar um aprofundamento visível da pele e embranquecimento do pêlo, o sacerdote o declarará impuro: é caso de lepra que se manifesta na úlcera.",
+      "reference": "Lv 13:20"
+    },
+    "21": {
+      "text": "Se, ao examiná-lo, o sacerdote não constatar pêlos brancos nem aprofundamento da pele, mas um embranquecimento da enfermidade, então isolará o enfermo durante sete dias.",
+      "reference": "Lv 13:21"
+    },
+    "22": {
+      "text": "Declará-lo-á impuro se a enfermidade se desenvolver sobre a pele: é um caso de lepra.",
+      "reference": "Lv 13:22"
+    },
+    "23": {
+      "text": "Mas se a mancha permanecer estacionária, sem estender-se, é a cicatriz da úlcera; o sacerdote declarará o homem puro. \\par",
+      "reference": "Lv 13:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i D. Queimadura\\par }Quando se der na pele de alguém uma queimadura, se se formar na queimadura um abscesso, uma mancha branco-avermelhada ou esbranquiçada,",
+      "reference": "Lv 13:24"
+    },
+    "25": {
+      "text": "o sacerdote a examinará. Se constatar que o pêlo se tornou branco ou que houve um aprofundamento visível da mancha na pele, é a lepra que se desenvolve na queimadura. O sacerdote declarará o homem impuro: é caso de lepra.",
+      "reference": "Lv 13:25"
+    },
+    "26": {
+      "text": "Se, ao contrário, o sacerdote não constatar, em seu exame, pêlos brancos na mancha nem aprofundamento da pele, mas que a mancha se tornou esbranquiçada, o sacerdote o isolará por sete dias.",
+      "reference": "Lv 13:26"
+    },
+    "27": {
+      "text": "No sétimo dia o examinará e, se a enfermidade se tiver propagado na pele, declará-lo-á impuro: é caso de lepra.",
+      "reference": "Lv 13:27"
+    },
+    "28": {
+      "text": "Se a mancha permaneceu estacionária, sem se propagar na pele, mas pelo contrário tornou-se pálida, nada mais é do que um tumor da queimadura. O sacerdote declarará o homem puro, pois é cicatriz da queimadura. \\par",
+      "reference": "Lv 13:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i E. Afecções do couro cabeludo\\par }Se um homem ou uma mulher apresentar uma chaga na cabeça ou no queixo,",
+      "reference": "Lv 13:29"
+    },
+    "30": {
+      "text": "o sacerdote examinará a chaga e, se constatar uma depressão visível da pele, com pêlo amarelado e fino, declarará o enfermo impuro. É tinha, isto é, lepra da cabeça ou do queixo.",
+      "reference": "Lv 13:30"
+    },
+    "31": {
+      "text": "Se, ao examinar este caso de tinha, o sacerdote constatar que não há depressão visível da pele, nem pêlo amarelado, isolará por sete dias o tinhoso.",
+      "reference": "Lv 13:31"
+    },
+    "32": {
+      "text": "No sétimo dia examinará a enfermidade e, se constatar que a tinha não se desenvolveu, que o pêlo nela não é amarelado, que não há depressão visível da pele,",
+      "reference": "Lv 13:32"
+    },
+    "33": {
+      "text": "o enfermo rapará os pêlos, exceto na parte tinhosa, e o sacerdote o isolará pela segunda vez durante sete dias.",
+      "reference": "Lv 13:33"
+    },
+    "34": {
+      "text": "No sétimo dia examinará a enfermidade e, se constatar que não se desenvolveu sobre a pele, que não há depressão visível da pele, o sacerdote declarará puro o enfermo. Depois de ter lavado as suas vestes, ficará puro.",
+      "reference": "Lv 13:34"
+    },
+    "35": {
+      "text": "Contudo, se após a purificação a tinha se desenvolver sobre a pele,",
+      "reference": "Lv 13:35"
+    },
+    "36": {
+      "text": "o sacerdote o examinará: se constatar um desenvolvimento da tinha sobre a pele, é porque o enfermo está impuro, e não se verificará se o pêlo está amarelado.",
+      "reference": "Lv 13:36"
+    },
+    "37": {
+      "text": "Mas se a tinha parece estacionária e o pêlo preto cresceu nela, é porque a enfermidade está curada. O enfermo está puro e o sacerdote o declarará puro. \\par",
+      "reference": "Lv 13:37"
+    },
+    "38": {
+      "text": "\\par {\\qc\\b\\i F. Exantema\\par }Se surgirem manchas sobre a pele de um homem ou de uma mulher e se estas manchas forem brancas,",
+      "reference": "Lv 13:38"
+    },
+    "39": {
+      "text": "o sacerdote as examinará. Se verificar que estas manchas sobre a pele são de um branco-embaciado, trata-se de exantema que se desenvolveu sobre a pele: o enfermo está puro. \\par",
+      "reference": "Lv 13:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i G. Calvície\\par }Se um homem perde os cabelos da cabeça, trata-se de calvície da cabeça e está puro.",
+      "reference": "Lv 13:40"
+    },
+    "41": {
+      "text": "Se é na parte da frente da cabeça que perde os cabelos, trata-se de calvície da fronte e está puro.",
+      "reference": "Lv 13:41"
+    },
+    "42": {
+      "text": "Mas se houver na cabeça ou na parte da frente uma enfermidade branco-avermelhada, é uma lepra que se desenvolveu na cabeça ou na fronte de tal homem.",
+      "reference": "Lv 13:42"
+    },
+    "43": {
+      "text": "O sacerdote o examinará e, se constatar na cabeça ou na fronte um tumor branco-avermelhado, com o mesmo aspecto da lepra da pele,",
+      "reference": "Lv 13:43"
+    },
+    "44": {
+      "text": "então o homem está leproso; é impuro. O sacerdote deverá declará-lo impuro, pois está enfermo de lepra na cabeça. \\par",
+      "reference": "Lv 13:44"
+    },
+    "45": {
+      "text": "\\par {\\qc\\b\\i Lei sobre o leproso\\par }O leproso portador desta enfermidade trará suas vestes rasgadas e seus cabelos desgrenhados; cobrirá o bigode e clamará: ‘Impuro! Impuro!’",
+      "reference": "Lv 13:45"
+    },
+    "46": {
+      "text": "Enquanto durar a sua enfermidade, ficará impuro e, estando impuro, morará à parte: sua habitação será fora do acampamento. \\par",
+      "reference": "Lv 13:46"
+    },
+    "47": {
+      "text": "\\par {\\qc\\b\\i Lepra das vestes\\par }Quando em uma veste houver lepra, seja ela uma veste de lã ou de linho,",
+      "reference": "Lv 13:47"
+    },
+    "48": {
+      "text": "um tecido ou uma coberta de lã ou de linho, de couro ou uma peça qualquer de couro,",
+      "reference": "Lv 13:48"
+    },
+    "49": {
+      "text": "e se a mancha da veste, ou do couro, ou do tecido, ou da coberta, ou do objeto de couro for esverdeada ou avermelhada, é caso de lepra e deve-se mostrar ao sacerdote.",
+      "reference": "Lv 13:49"
+    },
+    "50": {
+      "text": "O sacerdote examinará a enfermidade e isolará o objeto durante sete dias.",
+      "reference": "Lv 13:50"
+    },
+    "51": {
+      "text": "No sétimo dia, se observar que a enfermidade se desenvolveu sobre a veste, o tecido, a coberta, o couro ou o objeto feito de couro, qualquer que seja, é caso de lepra contagiosa: o objeto atacado está impuro.",
+      "reference": "Lv 13:51"
+    },
+    "52": {
+      "text": "Queimar-se-á a veste, o tecido, a coberta de lã ou de linho, o objeto de couro, qualquer que seja, sobre o qual se apresentou a enfermidade, pois que é lepra contagiosa que deve ser destruída pelo fogo. \\par",
+      "reference": "Lv 13:52"
+    },
+    "53": {
+      "text": "Contudo se, ao examinar, o sacerdote verificar que a enfermidade não se desenvolveu sobre a veste, o tecido, a coberta, ou sobre o objeto de couro, qualquer que seja,",
+      "reference": "Lv 13:53"
+    },
+    "54": {
+      "text": "então determinará que se lave o objeto atingido e o isolará pela segunda vez, durante sete dias.",
+      "reference": "Lv 13:54"
+    },
+    "55": {
+      "text": "Após a lavagem, examinará a enfermidade e, se verificar que não mudou de aspecto, nem se desenvolveu, o objeto está impuro. Queimá-lo-ás no fogo: há corrosão no direito e no avesso. \\par",
+      "reference": "Lv 13:55"
+    },
+    "56": {
+      "text": "Mas se, ao examinar, o sacerdote verificar que após a lavagem a enfermidade ficou embaçada, então a rasgará da veste, do couro, do tecido ou da coberta.",
+      "reference": "Lv 13:56"
+    },
+    "57": {
+      "text": "Contudo, se a enfermidade se propagar sobre a veste, o tecido, a coberta ou o objeto de couro, qualquer que seja, é porque a enfermidade está ativa, e então queimarás no fogo aquilo que foi por ela atacado.",
+      "reference": "Lv 13:57"
+    },
+    "58": {
+      "text": "A veste, o tecido, a coberta e qualquer objeto de couro do qual desapareceu a enfermidade após a lavagem ficará puro depois de lavado uma segunda vez. \\par",
+      "reference": "Lv 13:58"
+    },
+    "59": {
+      "text": "Essa é a lei para o caso de lepra na veste de lã ou de linho, no tecido, na coberta ou no objeto de couro, qualquer que seja, quando se trata de declará-los puros ou impuros”. \\par",
+      "reference": "Lv 13:59"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 59
+}

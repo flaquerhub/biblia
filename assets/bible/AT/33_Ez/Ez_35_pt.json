@@ -1,0 +1,73 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 35,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra os montes de Edom\\par }A palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Ez 35:1"
+    },
+    "2": {
+      "text": "Filho do homem, dirige a tua face contra o monte de Seir e profetiza contra ele.",
+      "reference": "Ez 35:2"
+    },
+    "3": {
+      "text": "Dize-lhe: Assim diz o Senhor Iahweh: eis que me oponho a ti, monte de Seir. Estenderei a minha mão contra ti e te reduzirei a uma solidão e a um deserto.",
+      "reference": "Ez 35:3"
+    },
+    "4": {
+      "text": "Das tuas cidades farei uma ruína. Assim, serás uma solidão e saberás que eu sou Iahweh.",
+      "reference": "Ez 35:4"
+    },
+    "5": {
+      "text": "Por teres cultivado um ódio eterno e teres entregue à espada os filhos de Israel, no tempo da sua calamidade, no tempo em que chegou ao fim sua culpa.",
+      "reference": "Ez 35:5"
+    },
+    "6": {
+      "text": "Por isso, pela minha vida, oráculo do Senhor Iahweh, eu te cobrirei de sangue e o sangue te perseguirá. Tu te tornaste culpado, derramando sangue. Pois agora o sangue te perseguirá.",
+      "reference": "Ez 35:6"
+    },
+    "7": {
+      "text": "Farei do monte de Seir uma desolação e um deserto. Extirparei dele todo aquele que percorre a terra.",
+      "reference": "Ez 35:7"
+    },
+    "8": {
+      "text": "Encherei os seus montes de trespassados: trespassados à espada cairão em seus outeiros, vales e barrancos.",
+      "reference": "Ez 35:8"
+    },
+    "9": {
+      "text": "Reduzir-te-ei a uma desolação eterna. As tuas cidades não serão habitadas e assim sabereis que eu sou Iahweh. \\par",
+      "reference": "Ez 35:9"
+    },
+    "10": {
+      "text": "Visto que disseste: “As duas nações e as duas terras serão minhas. Nós teremos a posse delas”, apesar de Iahweh estar ali.",
+      "reference": "Ez 35:10"
+    },
+    "11": {
+      "text": "Por isso mesmo, por minha vida, oráculo do Senhor Iahweh, agirei contigo de acordo com a ira e o ciúme com que te manifestaste contra eles em virtude do teu ódio. Serei conhecido entre eles pela maneira por que eu te julgar.",
+      "reference": "Ez 35:11"
+    },
+    "12": {
+      "text": "E saberás que eu, Iahweh, ouvi todos os insultos que pronunciaste contra os montes de Israel, dizendo: “Eles estão reduzidos a uma desolação; eles nos foram dados para que os devorássemos”.",
+      "reference": "Ez 35:12"
+    },
+    "13": {
+      "text": "Levantaste a tua voz contra mim: muitos foram os teus discursos contra mim. Eu ouvi tudo.",
+      "reference": "Ez 35:13"
+    },
+    "14": {
+      "text": "Assim diz o Senhor Iahweh: Para a alegria de toda a terra, farei de ti uma desolação.",
+      "reference": "Ez 35:14"
+    },
+    "15": {
+      "text": "Como tu te alegraste, porque a herança da casa de Israel ficou desolada, far-te-ei o mesmo. Ficarás desolado, ó monte de Seir, bem como todo o Edom, e saberão que eu sou Iahweh. \\par",
+      "reference": "Ez 35:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

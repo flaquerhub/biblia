@@ -1,0 +1,89 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 83,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 83 (82)\\par }{\\qc\\b\\i Contra os inimigos de Israel\\par }{\\qc\\i Salmo. Cântico. De Asaf.\\par }",
+      "reference": "Sl 83:1"
+    },
+    "2": {
+      "text": "Ó Deus, não fiques calado, \\par não fiques mudo e inerte, ó Deus! \\par",
+      "reference": "Sl 83:2"
+    },
+    "3": {
+      "text": "Eis que teus inimigos se agitam, \\par os que te odeiam levantam a cabeça. \\par",
+      "reference": "Sl 83:3"
+    },
+    "4": {
+      "text": "Eles tramam um plano contra teu povo, \\par conspiram contra teus protegidos,",
+      "reference": "Sl 83:4"
+    },
+    "5": {
+      "text": "e dizem: \\par “Vinde, vamos removê-los do meio das nações, \\par e o nome de Israel nunca mais será lembrado!” \\par",
+      "reference": "Sl 83:5"
+    },
+    "6": {
+      "text": "Conspiram todos com um só coração, \\par fazendo uma aliança contra ti: \\par",
+      "reference": "Sl 83:6"
+    },
+    "7": {
+      "text": "as tendas de Edom e os ismaelitas, \\par Moab e os agarenos, \\par",
+      "reference": "Sl 83:7"
+    },
+    "8": {
+      "text": "Gebal, Amon e Amalec, \\par a Filistéia com os habitantes de Tiro; \\par",
+      "reference": "Sl 83:8"
+    },
+    "9": {
+      "text": "também Assur juntou-se a eles, \\par tornando-se o braço dos filhos de Ló. {\\i Pausa} \\par",
+      "reference": "Sl 83:9"
+    },
+    "10": {
+      "text": "Faze com eles como a Madiã e Sísara, \\par como a Jabin na torrente Quison; \\par",
+      "reference": "Sl 83:10"
+    },
+    "11": {
+      "text": "foram aniquilados em Endor, \\par tornaram-se esterco para a terra.\\par",
+      "reference": "Sl 83:11"
+    },
+    "12": {
+      "text": "Trata seus príncipes como Oreb e Zeb, \\par como Zebá e Sálmana, todos os seus chefes, \\par",
+      "reference": "Sl 83:12"
+    },
+    "13": {
+      "text": "que diziam: “Tomemos posse dos domínios de Deus!” \\par",
+      "reference": "Sl 83:13"
+    },
+    "14": {
+      "text": "Deus meu, trata-os como o acanto que rola, \\par como a palha frente ao vento. \\par",
+      "reference": "Sl 83:14"
+    },
+    "15": {
+      "text": "Como o fogo devorando uma floresta, \\par e a chama abrasando as montanhas; \\par",
+      "reference": "Sl 83:15"
+    },
+    "16": {
+      "text": "persegue-os com a tua tempestade, \\par aterra-os com o teu furacão.\\par",
+      "reference": "Sl 83:16"
+    },
+    "17": {
+      "text": "Cobre-lhes a face de infâmia, \\par para que busquem teu nome, Iahweh! \\par",
+      "reference": "Sl 83:17"
+    },
+    "18": {
+      "text": "Fiquem envergonhados e perturbados para sempre, \\par sejam confundidos e arruinados: \\par",
+      "reference": "Sl 83:18"
+    },
+    "19": {
+      "text": "saberão assim que só tu tens o nome de Iahweh, \\par o Altíssimo sobre a terra inteira! \\par",
+      "reference": "Sl 83:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

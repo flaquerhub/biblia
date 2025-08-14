@@ -1,0 +1,65 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 43,
+  "verses": {
+    "1": {
+      "text": "Quando Jeremias terminou de dizer a todo povo todas as palavras de Iahweh, seu Deus – todas essas palavras que Iahweh, seu Deus, lhe enviou,",
+      "reference": "Jr 43:1"
+    },
+    "2": {
+      "text": "Azarias, filho de Osaías, Joanã, filho de Carea, e todos os homens insolentes disseram a Jeremias: “É mentira o que dizes. Iahweh, nosso Deus, não te enviou para dizer-nos: ‘Não entreis no Egito para ali permanecer’.",
+      "reference": "Jr 43:2"
+    },
+    "3": {
+      "text": "Mas é Baruc, filho de Nerias, que te instiga contra nós, a fim de nos entregar nas mãos dos caldeus para nos fazer morrer e para nos deportar para a Babilônia”. \\par",
+      "reference": "Jr 43:3"
+    },
+    "4": {
+      "text": "Assim, nem Joanã, filho de Carea, nem nenhum dos oficiais, nem ninguém do povo escutou a voz de Iahweh, permanecendo na terra de Judá.",
+      "reference": "Jr 43:4"
+    },
+    "5": {
+      "text": "Joanã, filho de Carea, e todos os oficiais de exército tomaram, pois, todo resto de Judá, aqueles que haviam regressado de todos os povos, em que estavam dispersos, para habitarem na terra de Judá:",
+      "reference": "Jr 43:5"
+    },
+    "6": {
+      "text": "homens, mulheres e crianças, bem como as filhas d o rei e todas as pessoas que Nabuzardã, comandante da guarda, deixara com Godolias, filho de Aicam, filho de Safã, e, também, o profeta Jeremias e Baruc, filho de Nerias.",
+      "reference": "Jr 43:6"
+    },
+    "7": {
+      "text": "Eles entraram na terra do Egito, porque não escutaram a voz de Iahweh, e chegaram a Táfnis. \\par",
+      "reference": "Jr 43:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Jeremias prediz a invasão do Egito por Nabucodonosor\\par }A palavra de Iahweh foi dirigida a Jeremias, em Táfnis, nestes termos:",
+      "reference": "Jr 43:8"
+    },
+    "9": {
+      "text": "“Toma em tuas mãos (algumas) pedras grandes e, na presença dos judeus, enterra-as no cimento do terraço que se encontra à entrada da casa do Faraó, em Táfnis.",
+      "reference": "Jr 43:9"
+    },
+    "10": {
+      "text": "Depois lhes dirás: “Assim disse Iahweh dos Exércitos, Deus de Israel. Eis que mandarei buscar Nabucodonosor, rei da Babilônia, meu servo; ele instalará seu trono sobre estas pedras que enterrei e estenderá sobre elas seu dossel.",
+      "reference": "Jr 43:10"
+    },
+    "11": {
+      "text": "Ele virá e ferirá a terra do Egito: \\par Quem é para a morte, a morte! \\par Quem é para o cativeiro, o cativeiro! \\par Quem é para a espada, a espada! \\par",
+      "reference": "Jr 43:11"
+    },
+    "12": {
+      "text": "Ele ateará fogo nos templos dos deuses do Egito, queimá-los-á e os deportará; ele se envolverá com a terra do Egito como o pastor se envolve com o seu manto, e sairá dali em paz.",
+      "reference": "Jr 43:12"
+    },
+    "13": {
+      "text": "Quebrará as estelas de Bet-Sames, que está na terra do Egito, e incendiará os templos dos deuses do Egito. \\par",
+      "reference": "Jr 43:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

@@ -1,0 +1,169 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Hipocrisia e vaidade dos escribas e dos fariseus\\par }Jesus então dirigiu-se às multidões e aos seus discípulos:",
+      "reference": "Mt 23:1"
+    },
+    "2": {
+      "text": "“Os escribas e fariseus estão sentados na cátedra de Moisés.",
+      "reference": "Mt 23:2"
+    },
+    "3": {
+      "text": "Portanto, fazei e observai tudo quanto vos disserem. Mas não imiteis as suas ações, pois dizem, mas não fazem.",
+      "reference": "Mt 23:3"
+    },
+    "4": {
+      "text": "Amarram fardos pesados e os põem sobre os ombros dos homens, mas eles mesmos nem com um dedo se dispõem a movê-los.",
+      "reference": "Mt 23:4"
+    },
+    "5": {
+      "text": "Praticam todas as suas ações com o fim de serem vistos pelos homens. Com efeito, usam largos filactérios e longas franjas.",
+      "reference": "Mt 23:5"
+    },
+    "6": {
+      "text": "Gostam do lugar de honra nos banquetes, dos primeiros assentos nas sinagogas,",
+      "reference": "Mt 23:6"
+    },
+    "7": {
+      "text": "de receber as saudações nas praças públicas e de que homens lhes chamem ‘Rabi’. \\par",
+      "reference": "Mt 23:7"
+    },
+    "8": {
+      "text": "Quanto a vós, não permitais que vos chamem ‘Rabi’, pois um só é o vosso Mestre e todos vós sois irmãos.",
+      "reference": "Mt 23:8"
+    },
+    "9": {
+      "text": "A ninguém na terra chameis ‘Pai’, pois um só é o vosso Pai, o celeste.",
+      "reference": "Mt 23:9"
+    },
+    "10": {
+      "text": "Nem permitais que vos chamem ‘Guias’, pois um só é o vosso guia, Cristo.",
+      "reference": "Mt 23:10"
+    },
+    "11": {
+      "text": "Antes, o maior dentre vós será aquele que vos serve.",
+      "reference": "Mt 23:11"
+    },
+    "12": {
+      "text": "Aquele que se exaltar será humilhado, e aquele que se humilhar será exaltado. \\par",
+      "reference": "Mt 23:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Sete maldições contra os escribas e fariseus\\par }Ai de vós, escribas e fariseus, hipócritas, porque bloqueais o Reino dos Céus diante dos homens! Pois vós mesmos não entrais, nem deixais entrar os que querem fazê-lo! [",
+      "reference": "Mt 23:13"
+    },
+    "14": {
+      "text": "] \\par",
+      "reference": "Mt 23:14"
+    },
+    "15": {
+      "text": "Ai de vós, escribas e fariseus, hipócritas, que percorreis o mar e a terra para fazer um prosélito, mas quando conseguis conquistá-lo, vós o tornais duas vezes mais digno da geena do que vós! \\par",
+      "reference": "Mt 23:15"
+    },
+    "16": {
+      "text": "Ai de vós, condutores cegos, que dizeis: ‘Se alguém jura pelo santuário, o seu juramento não o obriga, mas se jurar pelo ouro do santuário, o seu juramento o obriga’.",
+      "reference": "Mt 23:16"
+    },
+    "17": {
+      "text": "Insensatos e cegos! Que é maior, o ouro ou o santuário que santifica o ouro?",
+      "reference": "Mt 23:17"
+    },
+    "18": {
+      "text": "Dizeis mais: ‘Se alguém jurar pelo altar, não é nada, mas se jurar pela oferta que está sobre o altar, fica obrigado’.",
+      "reference": "Mt 23:18"
+    },
+    "19": {
+      "text": "Cegos! Que é maior, a oferta ou o altar que santifica a oferta?",
+      "reference": "Mt 23:19"
+    },
+    "20": {
+      "text": "Pois aquele que jura pelo altar, jura por ele e por tudo o que nele está.",
+      "reference": "Mt 23:20"
+    },
+    "21": {
+      "text": "E aquele que jura pelo santuário, jura por ele e por aquele que nele habita.",
+      "reference": "Mt 23:21"
+    },
+    "22": {
+      "text": "E, por fim, aquele que jura pelo céu, jura pelo trono de Deus e por aquele que nele está sentado. \\par",
+      "reference": "Mt 23:22"
+    },
+    "23": {
+      "text": "Ai de vós, escribas e fariseus, hipócritas, que pagais o dízimo da hortelã, do endro e do cominho, mas omitis as coisas mais importantes da lei: a justiça, a misericórdia e a fidelidade. Importava praticar estas coisas, mas sem omitir aquelas.",
+      "reference": "Mt 23:23"
+    },
+    "24": {
+      "text": "Condutores cegos, que coais o mosquito e tragais o camelo! \\par",
+      "reference": "Mt 23:24"
+    },
+    "25": {
+      "text": "Ai de vós, escribas e fariseus, hipócritas, que limpais o exterior do copo e do prato, mas por dentro estais cheios de rapina e de intemperança!",
+      "reference": "Mt 23:25"
+    },
+    "26": {
+      "text": "Fariseu cego, limpa primeiro o interior do copo para que também o exterior fique limpo! \\par",
+      "reference": "Mt 23:26"
+    },
+    "27": {
+      "text": "Ai de vós, escribas e fariseus, hipócritas! Sois semelhantes a sepulcros caiados, que por fora parecem bonitos, mas por dentro estão cheios de ossos de mortos e de toda podridão.",
+      "reference": "Mt 23:27"
+    },
+    "28": {
+      "text": "Assim também vós: por fora pareceis justos aos homens, mas por dentro estais cheios de hipocrisia e de iniqüidade. \\par",
+      "reference": "Mt 23:28"
+    },
+    "29": {
+      "text": "Ai de vós, escribas e fariseus, hipócritas, que edificais os túmulos dos profetas e enfeitais os sepulcros dos justos",
+      "reference": "Mt 23:29"
+    },
+    "30": {
+      "text": "e dizeis: ‘Se estivéssemos vivos nos dias dos nossos pais, não teríamos sido cúmplices seus no derramar o sangue dos profetas’.",
+      "reference": "Mt 23:30"
+    },
+    "31": {
+      "text": "Com isso testificais, contra vós, que sois filhos daqueles que mataram os profetas.",
+      "reference": "Mt 23:31"
+    },
+    "32": {
+      "text": "Completai, pois, a medida dos vossos pais! \\par",
+      "reference": "Mt 23:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Crimes e castigos iminentes\\par }Serpentes! Raça de víboras! Como haveis de escapar ao julgamento da geena?",
+      "reference": "Mt 23:33"
+    },
+    "34": {
+      "text": "Por isso vos envio profetas, sábios e escribas. A uns matareis e crucificareis, a outros açoitareis em vossas sinagogas e perseguireis de cidade em cidade.",
+      "reference": "Mt 23:34"
+    },
+    "35": {
+      "text": "E assim cairá sobre vós todo o sangue dos justos derramado sobre a terra, desde o sangue do justo Abel até o sangue de Zacarias, filho de Baraquias, que matastes entre o santuário e o altar.",
+      "reference": "Mt 23:35"
+    },
+    "36": {
+      "text": "Em verdade vos digo: tudo isso sobrevirá a esta geração! \\par",
+      "reference": "Mt 23:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i Palavra sobre Jerusalém\\par }Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados, quantas vezes quis eu ajuntar os teus filhos, como a galinha recolhe os seus pintinhos debaixo das suas asas, e não o quiseste!",
+      "reference": "Mt 23:37"
+    },
+    "38": {
+      "text": "Eis que a vossa casa vos ficará abandonada",
+      "reference": "Mt 23:38"
+    },
+    "39": {
+      "text": "pois eu vos digo: não me vereis, desde agora, até o dia em que direis: \\par {\\i Bendito aquele que vem em nome do Senhor!}” \\par",
+      "reference": "Mt 23:39"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 39
+}

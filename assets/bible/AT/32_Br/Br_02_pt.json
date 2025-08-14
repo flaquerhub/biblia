@@ -1,0 +1,153 @@
+{
+  "book": 71,
+  "book_name": "Baruc",
+  "book_abbr": "Br",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Baruch",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Então o Senhor cumpriu a sua palavra, que ele pronunciara contra nós e contra nossos juízes, que governaram Israel, contra nossos reis e nossos chefes, e contra os homens de Israel e de Judá.",
+      "reference": "Br 2:1"
+    },
+    "2": {
+      "text": "Sob a imensidão do céu não aconteceu jamais algo semelhante ao que ele fez em Jerusalém, segundo o que estava escrito na lei de Moisés:",
+      "reference": "Br 2:2"
+    },
+    "3": {
+      "text": "chegamos ao ponto de devorar cada um a carne de seu filho, cada um a carne de sua filha.",
+      "reference": "Br 2:3"
+    },
+    "4": {
+      "text": "Além disso, submeteu-os ao poder de todos os reinos que nos cercam para servirem de opróbrio e de execração entre todos os povos vizinhos para onde o Senhor os dispersou.",
+      "reference": "Br 2:4"
+    },
+    "5": {
+      "text": "Assim passaram a ser súditos e não senhores, porque pecamos contra o Senhor nosso Deus, não dando ouvidos à sua voz. \\par",
+      "reference": "Br 2:5"
+    },
+    "6": {
+      "text": "Ao Senhor nosso Deus a justiça, mas a nós e a nossos pais a vergonha no rosto, como acontece hoje.",
+      "reference": "Br 2:6"
+    },
+    "7": {
+      "text": "Todas essas desgraças, que o Senhor havia pronunciado contra nós, vieram sobre nós.",
+      "reference": "Br 2:7"
+    },
+    "8": {
+      "text": "E não suplicamos a face do Senhor, para que afastasse cada um de nós dos pensamentos do seu perverso coração.",
+      "reference": "Br 2:8"
+    },
+    "9": {
+      "text": "Então o Senhor ficou atento às desgraças e desencadeou-as contra nós; porque o Senhor é justo em todas as obras que faz e que nos prescreveu,",
+      "reference": "Br 2:9"
+    },
+    "10": {
+      "text": "mas nós não escutamos sua voz para andarmos segundo os preceitos que o Senhor havia dado aos nossos olhos. \\par",
+      "reference": "Br 2:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A súplica\\par }Agora, Senhor, Deus de Israel, tu que fizeste sair da terra do Egito o teu povo com mão poderosa, com sinais e prodígios, com grande poder e com braço estendido, adquirindo assim uma fama que perdura até hoje,",
+      "reference": "Br 2:11"
+    },
+    "12": {
+      "text": "nós pecamos, agimos impiamente, temos sido injustos, ó Senhor nosso Deus, contra todos os teus mandamentos.",
+      "reference": "Br 2:12"
+    },
+    "13": {
+      "text": "Afaste-se de nós a tua ira, porque não somos mais do que um resto no meio das nações para onde nos dispersaste.",
+      "reference": "Br 2:13"
+    },
+    "14": {
+      "text": "Escuta, Senhor, a nossa prece e a nossa súplica: livra-nos por causa de ti mesmo, e faze-nos encontrar graça diante dos que nos deportaram.",
+      "reference": "Br 2:14"
+    },
+    "15": {
+      "text": "Então saberá a terra inteira que tu és o Senhor nosso Deus, porque Israel e sua descendência invocaram o teu Nome.",
+      "reference": "Br 2:15"
+    },
+    "16": {
+      "text": "Senhor, olha do alto da tua morada santa e pensa em nós; inclina, Senhor, o teu ouvido e escuta;",
+      "reference": "Br 2:16"
+    },
+    "17": {
+      "text": "abre, Senhor, os teus olhos e vê. Pois não são os mortos no Hades, aqueles cujo espírito foi retirado de suas entranhas, que renderão glória e justiça ao Senhor.",
+      "reference": "Br 2:17"
+    },
+    "18": {
+      "text": "Mas o ser vivo, embora cumulado de aflição, o que caminha curvado e enfraquecido, com o olhar desfalecido e a alma faminta, eis quem te renderá glória e justiça, ó Senhor. \\par",
+      "reference": "Br 2:18"
+    },
+    "19": {
+      "text": "Não é apoiando-nos nas obras de justiça de nossos pais e de nossos reis que depomos nossa súplica diante de tua face, ó Senhor nosso Deus.",
+      "reference": "Br 2:19"
+    },
+    "20": {
+      "text": "Pois sobre nós desencadeaste o teu furor e a tua ira segundo o que havias falado por intermédio dos teus servos os profetas, nestes termos:",
+      "reference": "Br 2:20"
+    },
+    "21": {
+      "text": "“Assim diz o Senhor: {\\i Curvai vosso dorso e servi ao rei de Babilônia;} assim ficareis na terra que eu dei a vossos pais.",
+      "reference": "Br 2:21"
+    },
+    "22": {
+      "text": "Mas se não escutardes a voz do Senhor, para servirdes ao rei de Babilônia,",
+      "reference": "Br 2:22"
+    },
+    "23": {
+      "text": "{\\i farei com que a voz da alegria e a voz do prazer, a voz do noivo e a voz da noiva cessem nas cidades de Judá e saiam de Jerusalém, e todo o país se tornará uma desolação, sem habitantes}”.",
+      "reference": "Br 2:23"
+    },
+    "24": {
+      "text": "Nós, porém, não ouvimos teu apelo para servirmos ao rei de Babilônia. Por isso, puseste em execução as palavras que havias pronunciado por intermédio dos teus servos, os profetas: os ossos de nossos reis e os ossos de nossos pais seriam arrancados do seu lugar.",
+      "reference": "Br 2:24"
+    },
+    "25": {
+      "text": "Na verdade, eles foram {\\i lançados fora, ao calor do dia e ao frio da noite.} E morreram em meio a horríveis sofrimentos, à fome, à espada, à peste.",
+      "reference": "Br 2:25"
+    },
+    "26": {
+      "text": "Quanto a esta Casa, sobre a qual foi invocado o teu Nome, tu a reduziste ao estado em que está hoje, por causa da maldade da casa de Israel e da casa de Judá. \\par",
+      "reference": "Br 2:26"
+    },
+    "27": {
+      "text": "Entretanto, Senhor nosso Deus, tu agiste para conosco segundo toda a tua indulgência e toda a tua imensa ternura,",
+      "reference": "Br 2:27"
+    },
+    "28": {
+      "text": "segundo o que havias falado por intermédio do teu servo Moisés, no dia em que o mandaste escrever a Lei diante dos filhos de Israel, dizendo:",
+      "reference": "Br 2:28"
+    },
+    "29": {
+      "text": "“Se não escutardes a minha voz, esta multidão imensa e inumerável será reduzida a uma insignificância entre as nações para onde os dispersarei.",
+      "reference": "Br 2:29"
+    },
+    "30": {
+      "text": "Bem sei que não me escutarão, pois são um povo de dura cerviz. Mas na terra do seu exílio reentrarão em si mesmos,",
+      "reference": "Br 2:30"
+    },
+    "31": {
+      "text": "e reconhecerão que eu sou o Senhor seu Deus. Eu lhes darei um coração e ouvidos que ouçam,",
+      "reference": "Br 2:31"
+    },
+    "32": {
+      "text": "e me louvarão na terra do seu exílio, lembrados do meu Nome.",
+      "reference": "Br 2:32"
+    },
+    "33": {
+      "text": "Eles se converterão do seu dorso enrijecido e de suas ações perversas, porque se recordarão do que sucedeu a seus pais que pecaram contra o Senhor.",
+      "reference": "Br 2:33"
+    },
+    "34": {
+      "text": "Então os reconduzirei para a terra que com juramento prometi a seus pais Abraão, Isaac e Jacó, e dela terão a posse. Então os multiplicarei, e eles nunca mais serão diminuídos.",
+      "reference": "Br 2:34"
+    },
+    "35": {
+      "text": "Estabelecerei para eles uma aliança eterna: eu serei o seu Deus e eles serão o meu povo. E jamais removerei o meu povo, Israel, da terra que lhe dei”. \\par",
+      "reference": "Br 2:35"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 35
+}

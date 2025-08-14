@@ -1,0 +1,33 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 15 (14)\\par }{\\qc\\b\\i O hóspede de Iahweh\\par }{\\qc\\i Salmo. De Davi.\\par } Iahweh, quem pode hospedar-se em tua tenda? \\par Quem pode habitar em teu monte sagrado? \\par",
+      "reference": "Sl 15:1"
+    },
+    "2": {
+      "text": "Quem anda com integridade \\par e pratica a justiça: \\par fala a verdade no coração, \\par",
+      "reference": "Sl 15:2"
+    },
+    "3": {
+      "text": "e não deixa a língua correr; \\par não faz o mal ao seu próximo \\par e não difama seu vizinho; \\par",
+      "reference": "Sl 15:3"
+    },
+    "4": {
+      "text": "despreza o ímpio com o olhar, \\par mas honra os que temem a Iahweh; \\par jura com dano próprio \\par sem se retratar; \\par",
+      "reference": "Sl 15:4"
+    },
+    "5": {
+      "text": "não empresta dinheiro com usura, \\par nem aceita suborno contra o inocente. \\par Quem age deste modo jamais vacilará! \\par",
+      "reference": "Sl 15:5"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 5
+}

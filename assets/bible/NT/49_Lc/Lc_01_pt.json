@@ -1,0 +1,333 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Prólogo\\par }Visto que muitos já tentaram compor uma narração dos fatos que se cumpriram entre nós –",
+      "reference": "Lc 1:1"
+    },
+    "2": {
+      "text": "conforme no-los transmitiram os que, desde o princípio, foram testemunhas oculares e ministros da Palavra –",
+      "reference": "Lc 1:2"
+    },
+    "3": {
+      "text": "a mim também pareceu conveniente, após acurada investigação de tudo desde o princípio, escrever-te de modo ordenado, ilustre Teófilo,",
+      "reference": "Lc 1:3"
+    },
+    "4": {
+      "text": "para que verifiques a solidez dos ensinamentos que recebeste. \\par",
+      "reference": "Lc 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b {\\i I. Nascimento e vida oculta de João Batista e de Jesus}\\par }{\\qc\\b\\i Anúncio do nascimento de João Batista\\par }Nos dias de Herodes, rei da Judéia, houve um sacerdote chamado Zacarias, da classe de Abias; sua mulher, descendente de Aarão, chamava-se Isabel.",
+      "reference": "Lc 1:5"
+    },
+    "6": {
+      "text": "Ambos eram justos diante de Deus e, de modo irrepreensível, seguiam todos os mandamentos e estatutos do Senhor.",
+      "reference": "Lc 1:6"
+    },
+    "7": {
+      "text": "Não tinham filhos, porque Isabel era estéril e os dois eram de idade avançada. \\par",
+      "reference": "Lc 1:7"
+    },
+    "8": {
+      "text": "Ora, aconteceu que, ao desempenhar ele as funções sacerdotais diante de Deus, no turno de sua classe,",
+      "reference": "Lc 1:8"
+    },
+    "9": {
+      "text": "coube-lhe por sorte, conforme o costume sacerdotal, entrar no Santuário do Senhor para oferecer o incenso.",
+      "reference": "Lc 1:9"
+    },
+    "10": {
+      "text": "Toda a assembléia do povo estava fora, em oração, na hora do incenso. \\par",
+      "reference": "Lc 1:10"
+    },
+    "11": {
+      "text": "Apareceu-lhe, então, o Anjo do Senhor, de pé, à direita do altar do incenso.",
+      "reference": "Lc 1:11"
+    },
+    "12": {
+      "text": "Ao vê-lo, Zacarias perturbou-se e o temor apoderou-se dele.",
+      "reference": "Lc 1:12"
+    },
+    "13": {
+      "text": "Disse-lhe, porém, o Anjo: “Não temas, Zacarias, porque a tua súplica foi ouvida, e Isabel, tua mulher, vai te dar um filho, ao qual porás o nome de João.",
+      "reference": "Lc 1:13"
+    },
+    "14": {
+      "text": "Terás alegria e regozijo, e muitos se alegrarão com o seu nascimento.",
+      "reference": "Lc 1:14"
+    },
+    "15": {
+      "text": "Pois ele será grande diante do Senhor; {\\i não beberá vinho, nem bebida embriagante;} ficará pleno do Espírito Santo ainda no seio de sua mãe",
+      "reference": "Lc 1:15"
+    },
+    "16": {
+      "text": "e converterá muitos dos filhos de Israel ao Senhor, seu Deus.",
+      "reference": "Lc 1:16"
+    },
+    "17": {
+      "text": "Ele caminhará à sua frente, com o espírito e o poder de {\\i Elias, a fim de converter os corações dos pais aos filhos} e os rebeldes à prudência dos justos, para preparar ao Senhor um povo bem disposto”.",
+      "reference": "Lc 1:17"
+    },
+    "18": {
+      "text": "Zacarias perguntou ao Anjo: {\\i “De que modo saberei disso?} Pois eu sou velho e minha esposa é de idade avançada”.",
+      "reference": "Lc 1:18"
+    },
+    "19": {
+      "text": "Respondeu-lhe o Anjo: “Eu sou Gabriel; assisto diante de Deus e fui enviado para anunciar-te essa boa nova.",
+      "reference": "Lc 1:19"
+    },
+    "20": {
+      "text": "Eis que ficarás mudo e sem poder falar até o dia em que isso acontecer, porquanto não creste em minhas palavras, que se cumprirão no tempo oportuno”.",
+      "reference": "Lc 1:20"
+    },
+    "21": {
+      "text": "O povo esperava por Zacarias, admirado com sua demora no Santuário.",
+      "reference": "Lc 1:21"
+    },
+    "22": {
+      "text": "Quando ele saiu, não lhes podia falar; e compreenderam que tivera alguma visão no Santuário. Falava-lhes com sinais e permanecia mudo. \\par",
+      "reference": "Lc 1:22"
+    },
+    "23": {
+      "text": "Completados os dias do seu ministério, voltou para casa.",
+      "reference": "Lc 1:23"
+    },
+    "24": {
+      "text": "Algum tempo depois, Isabel, sua esposa, concebeu e se manteve oculta por cinco meses,",
+      "reference": "Lc 1:24"
+    },
+    "25": {
+      "text": "dizendo: “Isto fez por mim o Senhor, quando se dignou retirar o meu opróbrio perante os homens!” \\par",
+      "reference": "Lc 1:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i A anunciação\\par }No sexto mês, o anjo Gabriel foi enviado por Deus a uma cidade da Galiléia, chamada Nazaré,",
+      "reference": "Lc 1:26"
+    },
+    "27": {
+      "text": "a uma virgem desposada com um varão chamado José, da casa de Davi; e o nome da virgem era Maria.",
+      "reference": "Lc 1:27"
+    },
+    "28": {
+      "text": "Entrando onde ela estava, disse-lhe: “Alegra-te, cheia de graça, o Senhor está contigo!”",
+      "reference": "Lc 1:28"
+    },
+    "29": {
+      "text": "Ela ficou intrigada com essa palavra e pôs-se a pensar qual seria o significado da saudação.",
+      "reference": "Lc 1:29"
+    },
+    "30": {
+      "text": "O Anjo, porém, acrescentou: “Não temas, Maria! Encontraste graça junto de Deus.",
+      "reference": "Lc 1:30"
+    },
+    "31": {
+      "text": "Eis que conceberás no teu seio e darás à luz um filho, e tu o chamarás com o nome de Jesus.",
+      "reference": "Lc 1:31"
+    },
+    "32": {
+      "text": "Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará {\\i o trono de Davi,} seu pai;",
+      "reference": "Lc 1:32"
+    },
+    "33": {
+      "text": "ele {\\i reinará} na casa de Jacó {\\i para sempre,} e o seu reinado não terá fim”.",
+      "reference": "Lc 1:33"
+    },
+    "34": {
+      "text": "Maria, porém, disse ao Anjo: “Como é que vai ser isso, se eu não conheço homem algum?”",
+      "reference": "Lc 1:34"
+    },
+    "35": {
+      "text": "O Anjo lhe respondeu: “O Espírito Santo virá sobre ti e o poder do Altíssimo vai te cobrir com a sua sombra; por isso o {\\i Santo} que nascer {\\i será chamado} Filho de Deus.",
+      "reference": "Lc 1:35"
+    },
+    "36": {
+      "text": "Também Isabel, tua parenta, concebeu um filho na velhice, e este é o sexto mês para aquela que chamavam de estéril.",
+      "reference": "Lc 1:36"
+    },
+    "37": {
+      "text": "{\\i Para Deus, com efeito, nada é impossível”.}",
+      "reference": "Lc 1:37"
+    },
+    "38": {
+      "text": "Disse, então, Maria: “Eu sou a serva do Senhor; faça-se em mim segundo a tua palavra!” E o Anjo a deixou. \\par",
+      "reference": "Lc 1:38"
+    },
+    "39": {
+      "text": "\\par {\\qc\\b\\i A visitação\\par }Naqueles dias, Maria pôs-se a caminho para a região montanhosa, dirigindo-se apressadamente a uma cidade de Judá.",
+      "reference": "Lc 1:39"
+    },
+    "40": {
+      "text": "Entrou na casa de Zacarias e saudou Isabel.",
+      "reference": "Lc 1:40"
+    },
+    "41": {
+      "text": "Ora, quando Isabel ouviu a saudação de Maria, a criança lhe estremeceu no ventre e Isabel ficou repleta do Espírito Santo.",
+      "reference": "Lc 1:41"
+    },
+    "42": {
+      "text": "Com um grande grito, exclamou: “Bendita és tu entre as mulheres e bendito é o fruto de teu ventre!",
+      "reference": "Lc 1:42"
+    },
+    "43": {
+      "text": "Donde me vem que a mãe do meu Senhor me visite?",
+      "reference": "Lc 1:43"
+    },
+    "44": {
+      "text": "Pois quando a tua saudação chegou aos meus ouvidos, a criança estremeceu de alegria em meu ventre.",
+      "reference": "Lc 1:44"
+    },
+    "45": {
+      "text": "Feliz aquela que creu, pois o que lhe foi dito da parte do Senhor será cumprido!” \\par",
+      "reference": "Lc 1:45"
+    },
+    "46": {
+      "text": "\\par {\\qc\\b\\i O Magnificat\\par }Maria, então, disse: \\par {\\i “Minha alma engrandece o Senhor, }\\par",
+      "reference": "Lc 1:46"
+    },
+    "47": {
+      "text": "e meu espírito {\\i exulta em Deus em meu Salvador,} \\par",
+      "reference": "Lc 1:47"
+    },
+    "48": {
+      "text": "porque {\\i olhou para a humilhação de sua serva.} \\par Sim! Doravante as gerações todas \\par me chamarão de bem-aventurada, \\par",
+      "reference": "Lc 1:48"
+    },
+    "49": {
+      "text": "pois o Todo-poderoso fez grandes coisas em meu favor. \\par {\\i Seu nome é santo }\\par",
+      "reference": "Lc 1:49"
+    },
+    "50": {
+      "text": "{\\i e sua misericórdia perdura de geração em geração, \\par para aqueles que o temem.} \\par",
+      "reference": "Lc 1:50"
+    },
+    "51": {
+      "text": "Agiu com a força de seu braço, \\par {\\i dispersou} os homens de coração {\\i orgulhoso.} \\par",
+      "reference": "Lc 1:51"
+    },
+    "52": {
+      "text": "{\\i Depôs poderosos} de seus tronos, \\par e {\\i a humildes exaltou.} \\par",
+      "reference": "Lc 1:52"
+    },
+    "53": {
+      "text": "{\\i Cumulou de bens a famintos \\par e despediu ricos de mãos vazias. }\\par",
+      "reference": "Lc 1:53"
+    },
+    "54": {
+      "text": "{\\i Socorreu Israel, seu servo, \\par lembrado de sua misericórdia }\\par",
+      "reference": "Lc 1:54"
+    },
+    "55": {
+      "text": "– conforme prometera {\\i a nossos pais} – \\par {\\i em favor de Abraão} e de sua {\\i descendência,} para sempre!” \\par",
+      "reference": "Lc 1:55"
+    },
+    "56": {
+      "text": "Maria permaneceu com ela mais ou menos três meses e voltou para casa. \\par",
+      "reference": "Lc 1:56"
+    },
+    "57": {
+      "text": "\\par {\\qc\\b\\i Nascimento de João Batista e visita dos vizinhos\\par }Quanto a Isabel, completou-se o tempo para o parto, e ela deu à luz um filho.",
+      "reference": "Lc 1:57"
+    },
+    "58": {
+      "text": "Os vizinhos e os parentes ouviram dizer que Deus a cumulara com sua misericórdia e com ela se alegraram. \\par",
+      "reference": "Lc 1:58"
+    },
+    "59": {
+      "text": "\\par {\\qc\\b\\i Circuncisão de João Batista\\par }No oitavo dia, foram circuncidar o menino. Queriam dar-lhe o nome de seu pai, Zacarias,",
+      "reference": "Lc 1:59"
+    },
+    "60": {
+      "text": "mas a mãe, tomando a palavra, disse: “Não, ele vai se chamar João”.",
+      "reference": "Lc 1:60"
+    },
+    "61": {
+      "text": "Replicaram-lhe: “Em tua parentela não há ninguém que tenha este nome!”",
+      "reference": "Lc 1:61"
+    },
+    "62": {
+      "text": "Por meio de sinais, perguntavam ao pai como queria que se chamasse.",
+      "reference": "Lc 1:62"
+    },
+    "63": {
+      "text": "Pedindo uma tabuinha, ele escreveu: “Seu nome é João”, e todos ficaram admirados.",
+      "reference": "Lc 1:63"
+    },
+    "64": {
+      "text": "E a boca imediatamente se lhe abriu, a língua desatou-se e ele falava, bendizendo a Deus.",
+      "reference": "Lc 1:64"
+    },
+    "65": {
+      "text": "O temor apoderou-se então de todos os seus vizinhos, e por toda a região montanhosa da Judéia comentavam-se esses fatos.",
+      "reference": "Lc 1:65"
+    },
+    "66": {
+      "text": "E todos os que ouviam gravavam essas coisas no coração, dizendo: “Que virá a ser esse menino?” E, de fato, a mão do Senhor estava com ele. \\par",
+      "reference": "Lc 1:66"
+    },
+    "67": {
+      "text": "\\par {\\qc\\b\\i O Benedictus\\par }Zacarias, seu pai, repleto do Espírito Santo, profetizou: \\par",
+      "reference": "Lc 1:67"
+    },
+    "68": {
+      "text": "{\\i Bendito seja o Senhor Deus de Israel, \\par porque }visitou {\\i e redimiu o seu povo, }\\par",
+      "reference": "Lc 1:68"
+    },
+    "69": {
+      "text": "{\\i e suscitou}-nos uma {\\i força} de salvação \\par na casa de Davi, seu servo, \\par",
+      "reference": "Lc 1:69"
+    },
+    "70": {
+      "text": "como prometera desde tempos remotos \\par pela boca de seus santos profetas, \\par",
+      "reference": "Lc 1:70"
+    },
+    "71": {
+      "text": "salvação que nos liberta dos nossos {\\i inimigos \\par e da mão de }todos{\\i  os que nos odeiam; }\\par",
+      "reference": "Lc 1:71"
+    },
+    "72": {
+      "text": "para fazer{\\i  misericórdia }com{\\i  nossos pais, \\par lembrado de sua aliança }sagrada, \\par",
+      "reference": "Lc 1:72"
+    },
+    "73": {
+      "text": "{\\i do juramento }que fez{\\i  ao nosso pai Abraão,} \\par de nos conceder",
+      "reference": "Lc 1:73"
+    },
+    "74": {
+      "text": "que – sem temor, \\par libertos da mão dos nossos inimigos – \\par nós o sirvamos",
+      "reference": "Lc 1:74"
+    },
+    "75": {
+      "text": "com santidade e justiça, \\par em sua presença, todos os nossos dias. \\par",
+      "reference": "Lc 1:75"
+    },
+    "76": {
+      "text": "E tu, menino, \\par serás chamado profeta do Altíssimo; \\par pois irás {\\i à frente do Senhor, \\par para preparar-lhe os caminhos,} \\par",
+      "reference": "Lc 1:76"
+    },
+    "77": {
+      "text": "para transmitir ao seu povo o conhecimento da salvação, \\par pela remissão de seus pecados. \\par",
+      "reference": "Lc 1:77"
+    },
+    "78": {
+      "text": "Graças ao misericordioso coração do nosso Deus, \\par pelo qual nos visita o Astro das alturas, \\par",
+      "reference": "Lc 1:78"
+    },
+    "79": {
+      "text": "para {\\i iluminar os que jazem \\par nas trevas e na sombra da morte,} \\par para guiar nossos passos \\par {\\i no caminho da paz}”. \\par",
+      "reference": "Lc 1:79"
+    },
+    "80": {
+      "text": "\\par {\\qc\\b\\i Vida oculta de João Batista\\par }O menino crescia e se fortalecia em espírito. E habitava nos desertos, até o dia em que se manifestou a Israel. \\par",
+      "reference": "Lc 1:80"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 80
+}

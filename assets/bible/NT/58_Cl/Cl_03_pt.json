@@ -1,0 +1,113 @@
+{
+  "book": 51,
+  "book_name": "Colossenses",
+  "book_abbr": "Cl",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Colossians",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A união com o Cristo celestial é o princípio da vida nova\\par }Se, pois, ressuscitastes com Cristo, procurai as coisas do alto, onde Cristo está sentado à direita de Deus.",
+      "reference": "Cl 3:1"
+    },
+    "2": {
+      "text": "Pensai nas coisas do alto, e não nas da terra,",
+      "reference": "Cl 3:2"
+    },
+    "3": {
+      "text": "pois morrestes e a vossa vida está escondida com Cristo em Deus:",
+      "reference": "Cl 3:3"
+    },
+    "4": {
+      "text": "quando Cristo, que é a vossa vida, se manifestar, então vós também com ele sereis manifestados em glória. \\par",
+      "reference": "Cl 3:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b {\\i III. Parênese}\\par }{\\qc\\b\\i Preceitos gerais de vida cristã\\par }Mortificai, pois, os vossos membros terrenos: fornicação, impureza, paixão, desejos maus, e a cupidez, que é idolatria.",
+      "reference": "Cl 3:5"
+    },
+    "6": {
+      "text": "Essas coisas provocam a ira de Deus sobre os desobedientes.",
+      "reference": "Cl 3:6"
+    },
+    "7": {
+      "text": "Assim também andastes vós quando vivíeis entre eles.",
+      "reference": "Cl 3:7"
+    },
+    "8": {
+      "text": "Mas agora abandonai tudo isto: ira, exaltação, maldade, blasfêmia, conversa indecente.",
+      "reference": "Cl 3:8"
+    },
+    "9": {
+      "text": "Não mintais uns aos outros. Vós vos desvestistes do homem velho com as suas práticas",
+      "reference": "Cl 3:9"
+    },
+    "10": {
+      "text": "e vos revestistes do novo, que se renova para o conhecimento segundo a imagem do seu Criador.",
+      "reference": "Cl 3:10"
+    },
+    "11": {
+      "text": "Aí não há mais grego e judeu, circunciso e incircunciso, bárbaro, cita, escravo, livre, mas Cristo é tudo em todos. \\par",
+      "reference": "Cl 3:11"
+    },
+    "12": {
+      "text": "Portanto, como eleitos de Deus, santos e amados, revesti-vos de sentimentos de compaixão, de bondade, humildade, mansidão, longanimidade,",
+      "reference": "Cl 3:12"
+    },
+    "13": {
+      "text": "suportando-vos uns aos outros, e perdoando-vos mutuamente, se alguém tem motivo de queixa contra o outro; como o Senhor vos perdoou, assim também fazei vós.",
+      "reference": "Cl 3:13"
+    },
+    "14": {
+      "text": "Mas sobre tudo isso, revesti-vos da caridade, que é o vínculo da perfeição.",
+      "reference": "Cl 3:14"
+    },
+    "15": {
+      "text": "E reine nos vossos corações a paz de Cristo, à qual fostes chamados em um só corpo. E sede agradecidos. \\par",
+      "reference": "Cl 3:15"
+    },
+    "16": {
+      "text": "A Palavra de Cristo habite em vós ricamente: com toda sabedoria ensinai e admoestai-vos uns aos outros e, em ação de graças a Deus, entoem vossos corações salmos, hinos e cânticos espirituais.",
+      "reference": "Cl 3:16"
+    },
+    "17": {
+      "text": "E tudo o que fizerdes de palavra ou ação, fazei-o em nome do Senhor Jesus, por ele dando graças a Deus, o Pai. \\par",
+      "reference": "Cl 3:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Preceitos particulares de moral doméstica\\par }Vós, mulheres, submetei-vos aos maridos como convém no Senhor.",
+      "reference": "Cl 3:18"
+    },
+    "19": {
+      "text": "Maridos, amai as vossas mulheres e não as trateis com mau humor.",
+      "reference": "Cl 3:19"
+    },
+    "20": {
+      "text": "Filhos, obedecei aos vossos pais em tudo, pois isso é agradável ao Senhor.",
+      "reference": "Cl 3:20"
+    },
+    "21": {
+      "text": "Pais, não irriteis aos vossos filhos, para que eles não desanimem. \\par",
+      "reference": "Cl 3:21"
+    },
+    "22": {
+      "text": "Servos, obedecei em tudo aos senhores desta vida, não quando vigiados, para agradar a homens, mas em simplicidade de coração, no temor do Senhor.",
+      "reference": "Cl 3:22"
+    },
+    "23": {
+      "text": "Em tudo o que fizerdes ponde a vossa alma, como para o Senhor e não para homens,",
+      "reference": "Cl 3:23"
+    },
+    "24": {
+      "text": "sabendo que o Senhor vos recompensará como a seus herdeiros: é Cristo o Senhor a quem servis.",
+      "reference": "Cl 3:24"
+    },
+    "25": {
+      "text": "Quem faz injustiça receberá de volta a injustiça, e nisso não há acepção de pessoas. \\par",
+      "reference": "Cl 3:25"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 25
+}

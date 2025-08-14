@@ -1,0 +1,53 @@
+{
+  "book": 68,
+  "book_name": "Judite",
+  "book_abbr": "Jt",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Judith",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Enviaram a ele mensageiros com palavras de paz, dizendo:",
+      "reference": "Jt 3:1"
+    },
+    "2": {
+      "text": "“Somos servidores do grande rei Nabucodonosor, prostramo-nos diante de ti: serve-te de nós conforme for do teu agrado.",
+      "reference": "Jt 3:2"
+    },
+    "3": {
+      "text": "Eis os nossos estábulos, todo o nosso território, todos os campos de trigo, as ovelhas e os bois, todos os cercados dos nossos acampamentos estão à tua disposição, serve-te disso como te parecer melhor.",
+      "reference": "Jt 3:3"
+    },
+    "4": {
+      "text": "Eis, também, as nossas cidades: os que habitam nelas são teus servos. Vem na direção delas segundo parecer bem aos teus olhos”.",
+      "reference": "Jt 3:4"
+    },
+    "5": {
+      "text": "Os habitantes apresentaram-se, pois, a Holofernes e falaram-lhe nesses termos. \\par",
+      "reference": "Jt 3:5"
+    },
+    "6": {
+      "text": "Ele, com seu exército, desceu para a costa e estabeleceu guarnições nas cidades fortificadas, tomou delas homens escolhidos, como tropas auxiliares.",
+      "reference": "Jt 3:6"
+    },
+    "7": {
+      "text": "Os habitantes das cidades e arredores receberam-no com coroas e dançando ao som de tamborins.",
+      "reference": "Jt 3:7"
+    },
+    "8": {
+      "text": "Mas ele não deixou de devastar seus santuários e de cortar suas árvores sagradas. Fora autorizado a exterminar todos os deuses da terra, de maneira que todos os povos adorassem só a Nabucodonosor, e que todas as línguas e todas as tribos o invocassem como deus. \\par",
+      "reference": "Jt 3:8"
+    },
+    "9": {
+      "text": "Chegou à vista de Esdrelon, próximo de Dotaia, aldeia que está diante da grande serra da Judéia.",
+      "reference": "Jt 3:9"
+    },
+    "10": {
+      "text": "Acamparam entre Geba e Citópolis e ficaram aí um mês para reunir provisões para o seu exército. \\par",
+      "reference": "Jt 3:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

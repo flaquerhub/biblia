@@ -1,0 +1,101 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i I. Prólogo}\\par }{\\qc\\b\\i Satanás põe Jó à prova\\par }Havia na terra de Hus um homem chamado Jó: era um homem íntegro e reto, que temia a Deus e se afastava do mal.",
+      "reference": "Jó 1:1"
+    },
+    "2": {
+      "text": "Nasceram-lhe sete filhos e três filhas.",
+      "reference": "Jó 1:2"
+    },
+    "3": {
+      "text": "Possuía também sete mil ovelhas, trem mil camelos, quinhentas juntas de bois, quinhentas mulas e servos em grande número. Era, pois, o mais rico de todos os homens do Oriente.",
+      "reference": "Jó 1:3"
+    },
+    "4": {
+      "text": "Seus filhos costumavam celebrar banquetes, um dia em casa de um, um dia em casa de outro, e convidavam suas três irmãs para comer e beber com eles.",
+      "reference": "Jó 1:4"
+    },
+    "5": {
+      "text": "Terminados os dias de festa, Jó os mandava chamar para purificá-los; de manhã cedo ele oferecia um holocausto para cada um, pois dizia: “Talvez meus filhos tenham cometido pecado, maldizendo a Deus em seu coração”. Assim costumava Jó fazer todas as vezes. \\par",
+      "reference": "Jó 1:5"
+    },
+    "6": {
+      "text": "No dia em que os Filhos de Deus vieram se apresentar a Iahweh, entre eles veio também Satanás.",
+      "reference": "Jó 1:6"
+    },
+    "7": {
+      "text": "Iahweh então perguntou a Satanás: “Donde vens?” – “Venho de dar uma volta pela terra, andando a esmo”, respondeu Satanás.",
+      "reference": "Jó 1:7"
+    },
+    "8": {
+      "text": "Iahweh disse a Satanás: “Reparaste no meu servo Jó? Na terra não há outro igual: é um homem íntegro e reto, que teme a Deus e se afasta do mal”.",
+      "reference": "Jó 1:8"
+    },
+    "9": {
+      "text": "Satanás respondeu a Iahweh: “É por nada que Jó teme a Deus?",
+      "reference": "Jó 1:9"
+    },
+    "10": {
+      "text": "Porventura não levantaste um muro de proteção ao redor dele, de sua casa e de todos os seus bens? Abençoaste a obra das suas mãos e seus rebanhos cobrem toda a região.",
+      "reference": "Jó 1:10"
+    },
+    "11": {
+      "text": "Mas estende tua mão e toca nos seus bens; eu te garanto que te lançará maldições em rosto”.",
+      "reference": "Jó 1:11"
+    },
+    "12": {
+      "text": "Então Iahweh disse a Satanás: “Pois bem, tudo o que ele possui está em teu poder, mas não estendas tua mão contra ele”. E Satanás saiu da presença de Iahweh. \\par",
+      "reference": "Jó 1:12"
+    },
+    "13": {
+      "text": "Ora, um dia em que os filhos e filhas de Jó comiam e bebiam vinho na casa do irmão mais velho,",
+      "reference": "Jó 1:13"
+    },
+    "14": {
+      "text": "chegou um mensageiro à casa de Jó e lhe disse: “Estavam os bois lavrando e as mulas pastando por perto,",
+      "reference": "Jó 1:14"
+    },
+    "15": {
+      "text": "quando os sabeus caíram sobre eles, passaram os servos ao fio da espada e levaram tudo embora. Só eu pude escapar para trazer-te a notícia”.",
+      "reference": "Jó 1:15"
+    },
+    "16": {
+      "text": "Este ainda falava, quando chegou outro e disse: “Caiu do céu o fogo de Deus e queimou ovelhas e pastores e os devorou. Só eu pude escapar para trazer-te a notícia”.",
+      "reference": "Jó 1:16"
+    },
+    "17": {
+      "text": "Este ainda falava, quando chegou outro e disse: “Os caldeus, formando três bandos, lançaram-se sobre os camelos e levaram-nos consigo, depois de passarem os servos ao fio da espada. Só eu pude escapar para trazer-te a notícia”.",
+      "reference": "Jó 1:17"
+    },
+    "18": {
+      "text": "Este ainda falava, quando chegou outro e disse: “Estavam teus filhos e tuas filhas comendo e bebendo vinho na casa do irmão mais velho,",
+      "reference": "Jó 1:18"
+    },
+    "19": {
+      "text": "quando um furacão se levantou das bandas do deserto e se lançou contra os quatro cantos da casa, que desabou sobre os jovens e os matou. Só eu pude escapar para trazer-te a notícia”. \\par",
+      "reference": "Jó 1:19"
+    },
+    "20": {
+      "text": "Então Jó se levantou, rasgou seu manto, rapou sua cabeça, caiu por terra, inclinou-se no chão",
+      "reference": "Jó 1:20"
+    },
+    "21": {
+      "text": "e disse: \\par “Nu saí do ventre de minha mãe \\par e nu voltarei para lá. \\par Iahweh o deu, Iahweh o tirou, \\par bendito seja o nome de Iahweh”. \\par",
+      "reference": "Jó 1:21"
+    },
+    "22": {
+      "text": "Apesar de tudo isso, Jó não cometeu pecado nem protestou contra Deus. \\par",
+      "reference": "Jó 1:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 140,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 140 (139)\\par }{\\qc\\b\\i Contra os maus\\par }{\\qc\\i Do mestre de canto. Salmo. De Davi.\\par }",
+      "reference": "Sl 140:1"
+    },
+    "2": {
+      "text": "Iahweh, salva-me do homem perverso, \\par defende-me do homem violento: \\par",
+      "reference": "Sl 140:2"
+    },
+    "3": {
+      "text": "eles planejam o mal em seu coração \\par e a cada dia provocam contendas; \\par",
+      "reference": "Sl 140:3"
+    },
+    "4": {
+      "text": "afiam a língua como serpentes, \\par sob seus lábios há veneno de víbora. {\\i Pausa} \\par",
+      "reference": "Sl 140:4"
+    },
+    "5": {
+      "text": "Iahweh, guarda-me das mãos do ímpio, \\par defende-me do homem violento: \\par eles planejam tropeços aos meus passos; \\par",
+      "reference": "Sl 140:5"
+    },
+    "6": {
+      "text": "os soberbos escondem-me armadilhas, \\par estendem laços e redes sob meus pés, \\par colocam-me ciladas pelo caminho. {\\i Pausa} \\par",
+      "reference": "Sl 140:6"
+    },
+    "7": {
+      "text": "Eu digo a Iahweh: “Tu és o meu Deus, \\par Iahweh, ouve minha voz suplicante! \\par",
+      "reference": "Sl 140:7"
+    },
+    "8": {
+      "text": "Iahweh, meu Senhor, força que me salva, \\par tu me cobres a cabeça no dia da batalha! \\par",
+      "reference": "Sl 140:8"
+    },
+    "9": {
+      "text": "Iahweh, não aproves os desejos dos ímpios, \\par não favoreças os seus planos!” \\par Que os que me cercam não levantem",
+      "reference": "Sl 140:9"
+    },
+    "10": {
+      "text": "sua cabeça, \\par cubra-os a maldade de seus lábios! {\\i Pausa} \\par",
+      "reference": "Sl 140:10"
+    },
+    "11": {
+      "text": "Brasas acesas chovam sobre eles, \\par caiam em abismos e não possam levantar! \\par",
+      "reference": "Sl 140:11"
+    },
+    "12": {
+      "text": "Que o caluniador não se afirme sobre a terra, \\par que o mal persiga o violento até à morte! \\par",
+      "reference": "Sl 140:12"
+    },
+    "13": {
+      "text": "Eu sei que Iahweh fará justiça ao pobre \\par e defenderá o direito dos indigentes. \\par",
+      "reference": "Sl 140:13"
+    },
+    "14": {
+      "text": "E os justos irão celebrar o teu nome, \\par os retos viverão em tua presença. \\par",
+      "reference": "Sl 140:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

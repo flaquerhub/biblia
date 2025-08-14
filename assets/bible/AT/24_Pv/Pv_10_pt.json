@@ -1,0 +1,141 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. A grande coleção salomônica}\\par }Provérbios de Salomão. \\par O filho sábio alegra o pai, \\par o filho insensato entristece a mãe. \\par",
+      "reference": "Pv 10:1"
+    },
+    "2": {
+      "text": "Tesouros injustos não aproveitam, \\par mas a justiça liberta da morte. \\par",
+      "reference": "Pv 10:2"
+    },
+    "3": {
+      "text": "Iahweh não deixa o justo faminto, \\par mas reprime a cobiça dos ímpios. \\par",
+      "reference": "Pv 10:3"
+    },
+    "4": {
+      "text": "A mão preguiçosa empobrece, \\par o braço diligente enriquece. \\par",
+      "reference": "Pv 10:4"
+    },
+    "5": {
+      "text": "Quem recolhe no outono é prudente, \\par quem dorme na colheita é indigno. \\par",
+      "reference": "Pv 10:5"
+    },
+    "6": {
+      "text": "Bênçãos sobre a cabeça do justo, \\par mas a boca dos ímpios encobre violência. \\par",
+      "reference": "Pv 10:6"
+    },
+    "7": {
+      "text": "A memória do justo é bendita, \\par o nome dos ímpios apodrece. \\par",
+      "reference": "Pv 10:7"
+    },
+    "8": {
+      "text": "O coração sábio aceita o mandamento, \\par o estulto se arruína pelos lábios. \\par",
+      "reference": "Pv 10:8"
+    },
+    "9": {
+      "text": "Quem caminha na integridade caminha seguro, \\par quem segue um caminho torto é descoberto. \\par",
+      "reference": "Pv 10:9"
+    },
+    "10": {
+      "text": "Quem pisca o olho causa pesares, \\par quem repreende abertamente traz remédio. \\par",
+      "reference": "Pv 10:10"
+    },
+    "11": {
+      "text": "A boca do justo é fonte de vida, \\par mas a boca dos ímpios encobre violência. \\par",
+      "reference": "Pv 10:11"
+    },
+    "12": {
+      "text": "O ódio provoca querelas, \\par o amor cobre todas as ofensas. \\par",
+      "reference": "Pv 10:12"
+    },
+    "13": {
+      "text": "Nos lábios do prudente há sabedoria, \\par a vara é para o ombro do sem juízo. \\par",
+      "reference": "Pv 10:13"
+    },
+    "14": {
+      "text": "Os sábios entesouram o conhecimento \\par mas a boca do estulto é um perigo iminente. \\par",
+      "reference": "Pv 10:14"
+    },
+    "15": {
+      "text": "A fortuna do rico é seu baluarte, \\par o mal dos fracos é sua indigência. \\par",
+      "reference": "Pv 10:15"
+    },
+    "16": {
+      "text": "O salário do justo é a vida, \\par o ganho do ímpio, o pecado. \\par",
+      "reference": "Pv 10:16"
+    },
+    "17": {
+      "text": "Caminha para a vida quem observa a disciplina, \\par quem despreza a correção se extravia. \\par",
+      "reference": "Pv 10:17"
+    },
+    "18": {
+      "text": "Os lábios do mentiroso encobrem o ódio, \\par quem difunde calúnia é insensato. \\par",
+      "reference": "Pv 10:18"
+    },
+    "19": {
+      "text": "Nas muitas palavras não falta ofensa, \\par quem retém os lábios é prudente. \\par",
+      "reference": "Pv 10:19"
+    },
+    "20": {
+      "text": "A boca do justo é prata escolhida, \\par o coração dos ímpios vale pouco. \\par",
+      "reference": "Pv 10:20"
+    },
+    "21": {
+      "text": "Os lábios do justo apascentam a muitos, \\par os estultos morrem por falta de juízo. \\par",
+      "reference": "Pv 10:21"
+    },
+    "22": {
+      "text": "É a Bênção de Iahweh que enriquece, \\par e nada ajunta a fadiga. \\par",
+      "reference": "Pv 10:22"
+    },
+    "23": {
+      "text": "É um jogo para o insensato entregar-se ao crime, \\par e para o inteligente, cultivar a sabedoria. \\par",
+      "reference": "Pv 10:23"
+    },
+    "24": {
+      "text": "Ao ímpio acontece o que teme, \\par mas ao justo se lhe dá o que deseja. \\par",
+      "reference": "Pv 10:24"
+    },
+    "25": {
+      "text": "Quando vem a tormenta, desaparece o ímpio! \\par Mas o justo está firme para sempre. \\par",
+      "reference": "Pv 10:25"
+    },
+    "26": {
+      "text": "Vinagre nos dentes, fumaça nos olhos, \\par tal é o preguiçoso para quem o envia. \\par",
+      "reference": "Pv 10:26"
+    },
+    "27": {
+      "text": "O temor de Iahweh prolonga os dias, \\par os anos dos ímpios serão abreviados. \\par",
+      "reference": "Pv 10:27"
+    },
+    "28": {
+      "text": "A esperança dos justos é alegria, \\par o anseio dos ímpios fracassa. \\par",
+      "reference": "Pv 10:28"
+    },
+    "29": {
+      "text": "O caminho de Iahweh é refúgio para o íntegro, \\par e é terror para os malfeitores. \\par",
+      "reference": "Pv 10:29"
+    },
+    "30": {
+      "text": "O justo jamais vacilará, \\par mas os ímpios não habitarão a terra. \\par",
+      "reference": "Pv 10:30"
+    },
+    "31": {
+      "text": "A boca do justo exprime a sabedoria, \\par mas a língua enganosa será cortada. \\par",
+      "reference": "Pv 10:31"
+    },
+    "32": {
+      "text": "Os lábios do justo conhecem o favor, \\par mas a boca dos ímpios, a perversidade. \\par",
+      "reference": "Pv 10:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

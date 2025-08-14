@@ -1,0 +1,117 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Caim e Abel\\par }O homem conheceu Eva, sua mulher; ela concebeu e deu à luz Caim, e disse: “Adquiri um homem com a ajuda de Iahweh”.",
+      "reference": "Gn 4:1"
+    },
+    "2": {
+      "text": "Depois ela deu também à luz Abel, irmão de Caim. Abel tornou-se pastor de ovelhas e Caim cultivava o solo.",
+      "reference": "Gn 4:2"
+    },
+    "3": {
+      "text": "Passado o tempo, Caim apresentou produtos do solo em oferenda a Iahweh;",
+      "reference": "Gn 4:3"
+    },
+    "4": {
+      "text": "Abel, por sua vez, também ofereceu as primícias e a gordura de seu rebanho. Ora, Iahweh agradou-se de Abel e de sua oferenda.",
+      "reference": "Gn 4:4"
+    },
+    "5": {
+      "text": "Mas não se agradou de Caim e de sua oferenda, e Caim ficou muito irritado e com o rosto abatido.",
+      "reference": "Gn 4:5"
+    },
+    "6": {
+      "text": "Iahweh disse a Caim: “Por que estás irritado e por que teu rosto está abatido?",
+      "reference": "Gn 4:6"
+    },
+    "7": {
+      "text": "Se estivesses bem disposto, não levantarias a cabeça? Mas se não estás bem disposto não jaz o pecado à porta, como animal acuado que te espreita; podes acaso dominá-lo?”",
+      "reference": "Gn 4:7"
+    },
+    "8": {
+      "text": "Entretanto Caim disse a seu irmão Abel: “Saiamos”. E, como estavam no campo, Caim se lançou sobre seu irmão Abel e o matou. \\par",
+      "reference": "Gn 4:8"
+    },
+    "9": {
+      "text": "Iahweh disse a Caim: “Onde está teu irmão Abel?” Ele respondeu: “Não sei. Acaso sou guarda de meu irmão?”",
+      "reference": "Gn 4:9"
+    },
+    "10": {
+      "text": "Iahweh disse: “Que fizeste! Ouço o sangue de teu irmão, do solo, clamar para mim!",
+      "reference": "Gn 4:10"
+    },
+    "11": {
+      "text": "Agora, és maldito e expulso do solo fértil que abriu a boca para receber de tua mão o sangue de teu irmão.",
+      "reference": "Gn 4:11"
+    },
+    "12": {
+      "text": "Ainda que cultives o solo, ele não te dará mais seu produto: serás um fugitivo errante sobre a terra”.",
+      "reference": "Gn 4:12"
+    },
+    "13": {
+      "text": "Então Caim disse a Iahweh: “Minha culpa é muito pesada para suportá-la.",
+      "reference": "Gn 4:13"
+    },
+    "14": {
+      "text": "Vê! Hoje tu me banes do solo fértil, terei de ocultar-me longe de tua face e serei um errante fugitivo sobre a terra: mas o primeiro que me encontrar me matará!”",
+      "reference": "Gn 4:14"
+    },
+    "15": {
+      "text": "Iahweh lhe respondeu: “Quem matar Caim será vingado sete vezes”. E Iahweh colocou um sinal sobre Caim, a fim de que não fosse morto por quem o encontrasse.",
+      "reference": "Gn 4:15"
+    },
+    "16": {
+      "text": "Caim se retirou da presença de Iahweh e foi morar na terra de Nod, a leste de Éden. \\par",
+      "reference": "Gn 4:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i A descendência de Caim\\par }Caim conheceu sua mulher, que concebeu e deu à luz Henoc. Tornou-se um construtor de cidade e deu à cidade o nome de seu filho, Henoc.",
+      "reference": "Gn 4:17"
+    },
+    "18": {
+      "text": "A Henoc nasceu Irad, e Irad gerou Maviael, e Maviael gerou Matusael, e Matusael gerou Lamec.",
+      "reference": "Gn 4:18"
+    },
+    "19": {
+      "text": "Lamec tomou para si duas mulheres: o nome da primeira era Ada e o nome da segunda, Sela.",
+      "reference": "Gn 4:19"
+    },
+    "20": {
+      "text": "Ada deu à luz Jabel: ele foi o pai dos que vivem sob tenda e têm rebanhos.",
+      "reference": "Gn 4:20"
+    },
+    "21": {
+      "text": "O nome de seu irmão era Jubal: ele foi o pai de todos os que tocam lira e charamela.",
+      "reference": "Gn 4:21"
+    },
+    "22": {
+      "text": "Sela, por sua vez, deu à luz Tubalcaim: ele foi o pai de todos os laminadores em cobre e ferro; a irmã de Tubalcaim era Noema. \\par",
+      "reference": "Gn 4:22"
+    },
+    "23": {
+      "text": "Lamec disse às suas mulheres: \\par “Ada e Sela, ouvi minha voz, \\par mulheres de Lamec, escutai minha palavra: \\par Eu matei um homem por uma ferida, \\par uma criança por uma contusão. \\par",
+      "reference": "Gn 4:23"
+    },
+    "24": {
+      "text": "É que Caim é vingado sete vezes, \\par mas Lamec, setenta e sete vezes!” \\par",
+      "reference": "Gn 4:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Set e seus descendentes\\par }Adão conheceu sua mulher. Ela deu à luz um filho e lhe pôs o nome de Set “porque”, disse ela, “ele me concedeu outra descendência no lugar de Abel, que Caim matou”.",
+      "reference": "Gn 4:25"
+    },
+    "26": {
+      "text": "Também a Set nasceu um filho, e ele lhe deu o nome de Enós, que foi o primeiro a invocar o nome de Iahweh. \\par",
+      "reference": "Gn 4:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

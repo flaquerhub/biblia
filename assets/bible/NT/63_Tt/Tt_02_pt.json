@@ -1,0 +1,73 @@
+{
+  "book": 56,
+  "book_name": "Tito",
+  "book_abbr": "Tt",
+  "book_category": "Epístolas Pastorais",
+  "book_english": "Titus",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Deveres particulares de certos fiéis\\par }Quanto a ti, fala do que pertence à sã doutrina.",
+      "reference": "Tt 2:1"
+    },
+    "2": {
+      "text": "Que os velhos sejam sóbrios, respeitáveis, sensatos, fortes na fé, na caridade e na perseverança.",
+      "reference": "Tt 2:2"
+    },
+    "3": {
+      "text": "As mulheres idosas, igualmente, devem proceder como convém a pessoas santas: não sejam caluniadoras, nem escravas da bebida excessiva;",
+      "reference": "Tt 2:3"
+    },
+    "4": {
+      "text": "mas sejam capazes de bons conselhos, de sorte que as recém-casadas aprendam com elas a amar os seus maridos e filhos,",
+      "reference": "Tt 2:4"
+    },
+    "5": {
+      "text": "a ser ajuizadas, fiéis e submissas a seus esposos, boas donas-de-casa, amáveis, a fim de que a palavra de Deus não seja difamada.",
+      "reference": "Tt 2:5"
+    },
+    "6": {
+      "text": "Exorta igualmente os jovens, para que em tudo sejam criteriosos.",
+      "reference": "Tt 2:6"
+    },
+    "7": {
+      "text": "Sê tu mesmo um exemplo de conduta, íntegro e grave na exposição da verdade,",
+      "reference": "Tt 2:7"
+    },
+    "8": {
+      "text": "exprimindo-te numa linguagem digna e irrepreensível, para que o adversário, nada tendo que dizer contra nós, fique envergonhado.",
+      "reference": "Tt 2:8"
+    },
+    "9": {
+      "text": "Os servos devem ser em tudo obedientes aos seus senhores, dando-lhes motivo de alegria; não sendo teimosos,",
+      "reference": "Tt 2:9"
+    },
+    "10": {
+      "text": "jamais furtando, ao contrário, dando prova de inteira fidelidade, honrando, assim, em tudo a doutrina de Deus, nosso Salvador. \\par",
+      "reference": "Tt 2:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Fundamento dogmático dessas recomendações\\par }Com efeito, a graça de Deus se manifestou para a salvação de todos os homens.",
+      "reference": "Tt 2:11"
+    },
+    "12": {
+      "text": "Ela nos ensina a abandonar a impiedade e as paixões mundanas, e a viver neste mundo com autodomínio, justiça e piedade,",
+      "reference": "Tt 2:12"
+    },
+    "13": {
+      "text": "aguardando a nossa bendita esperança, a manifestação da glória do nosso grande Deus e Salvador, Cristo Jesus,",
+      "reference": "Tt 2:13"
+    },
+    "14": {
+      "text": "o qual se entregou a si mesmo por nós, para {\\i remir-nos de toda iniqüidade}, e para {\\i purificar um povo que lhe pertence}, zeloso no bom procedimento. \\par",
+      "reference": "Tt 2:14"
+    },
+    "15": {
+      "text": "Dize-lhes todas estas coisas. Exorta-os e repreende-os com toda autoridade. Ninguém te despreze. \\par",
+      "reference": "Tt 2:15"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 15
+}

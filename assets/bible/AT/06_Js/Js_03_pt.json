@@ -1,0 +1,81 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. A PASSAGEM DO JORDÃO\\par }{\\qc\\b\\i Preliminares da passagem\\par }Josué levantou-se de madrugada e partiu de Setim com todos os filhos de Israel; vieram até o Jordão e ali pousaram, antes de atravessar.",
+      "reference": "Js 3:1"
+    },
+    "2": {
+      "text": "Ao fim de três dias, os oficiais percorreram o acampamento",
+      "reference": "Js 3:2"
+    },
+    "3": {
+      "text": "e ordenaram ao povo: “Quando virdes a Arca da Aliança de Iahweh vosso Deus sendo carregada pelos sacerdotes levitas, vós também partireis do vosso lugar e a seguireis,",
+      "reference": "Js 3:3"
+    },
+    "4": {
+      "text": "{\\super (4b)} a fim de conhecerdes o caminho que haveis de tomar, pois nunca passastes por este caminho. {\\super (4a)} Conservai, contudo, entre vós e a Arca, a distância aproximada de dois mil côvados; não vos aproximeis dela”.",
+      "reference": "Js 3:4"
+    },
+    "5": {
+      "text": "Josué disse ao povo: “Santificai-vos, porque amanhã Iahweh fará maravilhas no meio de vós”.",
+      "reference": "Js 3:5"
+    },
+    "6": {
+      "text": "Depois Josué disse aos sacerdotes: “Levantai a Arca da Aliança e passai adiante do povo”. Eles levantaram a Arca da Aliança e foram adiante do povo. \\par",
+      "reference": "Js 3:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Últimas instruções\\par }Iahweh disse a Josué: “Hoje começarei a engrandecer-te aos olhos de todo o Israel, para que saibam que assim como estive com Moisés estarei contigo.",
+      "reference": "Js 3:7"
+    },
+    "8": {
+      "text": "E tu ordenarás aos sacerdotes que levam a Arca da Aliança, dizendo: ‘Quando chegardes à borda das águas do Jordão, parareis no próprio Jordão’”.",
+      "reference": "Js 3:8"
+    },
+    "9": {
+      "text": "Disse então Josué aos filhos de Israel: “Aproximai-vos e ouvi as palavras de Iahweh vosso Deus”.",
+      "reference": "Js 3:9"
+    },
+    "10": {
+      "text": "Acrescentou Josué: “Nisto reconhecereis que o Deus vivo está no meio de vós e que certamente expulsará da vossa presença os cananeus, os heteus, os heveus, os ferezeus, os gergeseus, os amorreus e os jebuseus.",
+      "reference": "Js 3:10"
+    },
+    "11": {
+      "text": "Eis que a Arca da Aliança do Senhor de toda a terra vai passar o Jordão diante de vós.",
+      "reference": "Js 3:11"
+    },
+    "12": {
+      "text": "Agora, pois, tomai doze homens das tribos de Israel, um homem de cada tribo.",
+      "reference": "Js 3:12"
+    },
+    "13": {
+      "text": "E quando as plantas dos pés dos sacerdotes que transportam a Arca de Iahweh, Senhor de toda a terra, pousarem nas águas do Jordão, as águas do Jordão serão cortadas; as águas que descem de cima pararão, amontoando-se”. \\par",
+      "reference": "Js 3:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i A passagem do rio\\par }Ora, quando o povo deixou suas tendas para passar o Jordão, os sacerdotes que levavam a Arca da Aliança estavam à frente do povo.",
+      "reference": "Js 3:14"
+    },
+    "15": {
+      "text": "Assim que os transportadores da Arca chegaram ao Jordão e que os pés dos sacerdotes que transportavam a Arca se molharam nas bordas das águas – pois o Jordão transborda pelas suas margens durante toda a ceifa –,",
+      "reference": "Js 3:15"
+    },
+    "16": {
+      "text": "as águas que vinham de cima pararam e formaram uma só massa a uma grande distância, em Adam, cidade que fica ao lado de Sartã; ao passo que as águas que desciam em direção ao mar da Arabá, o mar Salgado, ficaram inteiramente separadas. O povo atravessou defronte de Jericó.",
+      "reference": "Js 3:16"
+    },
+    "17": {
+      "text": "Os sacerdotes que transportavam a Arca da Aliança de Iahweh detiveram-se no seco, no meio do Jordão, enquanto todo o Israel passava pelo seco, até que toda a nação acabou de atravessar o Jordão. \\par",
+      "reference": "Js 3:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

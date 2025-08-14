@@ -1,0 +1,113 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A educação\\par }Aquele que ama seu filho usará com freqüência o chicote, \\par para, no seu fim, alegrar-se. \\par",
+      "reference": "Eclo 30:1"
+    },
+    "2": {
+      "text": "Aquele que educa seu filho terá nele motivo de satisfação \\par e entre os conhecidos gloriar-se-á dele. \\par",
+      "reference": "Eclo 30:2"
+    },
+    "3": {
+      "text": "Aquele que instrui seu filho causará inveja ao inimigo \\par e entre os amigos se mostrará feliz. \\par",
+      "reference": "Eclo 30:3"
+    },
+    "4": {
+      "text": "O pai morre, é como se não morresse \\par porque deixa depois de si alguém semelhante a ele. \\par",
+      "reference": "Eclo 30:4"
+    },
+    "5": {
+      "text": "Durante a vida, ele o vê e se alegra \\par e ao morrer não se entristece. \\par",
+      "reference": "Eclo 30:5"
+    },
+    "6": {
+      "text": "Para os inimigos deixa um vingador, \\par alguém que retribuirá generosamente aos amigos os benefícios. \\par",
+      "reference": "Eclo 30:6"
+    },
+    "7": {
+      "text": "Aquele que mima o filho cuidará de suas feridas, \\par e a cada grito suas entranhas se comoverão. \\par",
+      "reference": "Eclo 30:7"
+    },
+    "8": {
+      "text": "Um cavalo não domado torna-se intratável, \\par um filho entregue a si mesmo torna-se atrevido. \\par",
+      "reference": "Eclo 30:8"
+    },
+    "9": {
+      "text": "Mima teu filho e ele te aterrorizará, \\par brinca com ele e ele te entristecerá. \\par",
+      "reference": "Eclo 30:9"
+    },
+    "10": {
+      "text": "Não rias com ele se não queres sofrer com ele: \\par acabarás por ranger os dentes. \\par",
+      "reference": "Eclo 30:10"
+    },
+    "11": {
+      "text": "Não lhe dês liberdade na juventude \\par e não feches os olhos diante de suas tolices. \\par",
+      "reference": "Eclo 30:11"
+    },
+    "12": {
+      "text": "Obriga-o a curvar a espinha na sua juventude, \\par bate-lhe nos flancos enquanto é menino; \\par do contrário, uma vez obstinado, te desobedecerá \\par e ser-te-á motivo de contrariedade. \\par",
+      "reference": "Eclo 30:12"
+    },
+    "13": {
+      "text": "Educa teu filho e forma-o bem \\par para que não te aborreças com a sua insolência. \\par",
+      "reference": "Eclo 30:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i A saúde\\par }É melhor um pobre são e vigoroso \\par do que um rico flagelado em seu corpo. \\par",
+      "reference": "Eclo 30:14"
+    },
+    "15": {
+      "text": "Saúde e boa constituição valem mais do que todo o ouro, \\par um corpo vigoroso é melhor do que uma enorme fortuna. \\par",
+      "reference": "Eclo 30:15"
+    },
+    "16": {
+      "text": "Não existe riqueza que valha mais do que um corpo sadio, \\par nem maior satisfação do que a alegria do coração. \\par",
+      "reference": "Eclo 30:16"
+    },
+    "17": {
+      "text": "É melhor a morte do que uma vida cruel, \\par o repouso eterno do que uma doença constante. \\par",
+      "reference": "Eclo 30:17"
+    },
+    "18": {
+      "text": "Abundantes iguarias colocadas diante de uma boca fechada \\par são como ofertas de alimento sobre um túmulo. \\par",
+      "reference": "Eclo 30:18"
+    },
+    "19": {
+      "text": "Para que levar oferenda de frutas ao ídolo? \\par Ele não come nem cheira. \\par Assim é aquele a quem o Senhor persegue: \\par",
+      "reference": "Eclo 30:19"
+    },
+    "20": {
+      "text": "ele vê e suspira, \\par é como o eunuco que abraça a virgem e suspira. \\par",
+      "reference": "Eclo 30:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i A alegria\\par }Não te deixes dominar pela tristeza \\par e nem te aflijas com teus pensamentos. \\par",
+      "reference": "Eclo 30:21"
+    },
+    "22": {
+      "text": "A alegria do coração é a vida do homem, \\par a alegria do homem aumenta os seus dias. \\par",
+      "reference": "Eclo 30:22"
+    },
+    "23": {
+      "text": "Ilude tuas inquietações, consola teu coração, \\par afasta para longe a tristeza: \\par porque a tristeza matou a muitos \\par e nela não há utilidade alguma. \\par",
+      "reference": "Eclo 30:23"
+    },
+    "24": {
+      "text": "Inveja e cólera abreviam os dias, \\par a preocupação traz a velhice antes da hora. \\par",
+      "reference": "Eclo 30:24"
+    },
+    "25": {
+      "text": "Um coração contente e bom deseja iguarias, \\par cuida de sua alimentação. \\par",
+      "reference": "Eclo 30:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

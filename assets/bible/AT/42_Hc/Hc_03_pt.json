@@ -1,0 +1,89 @@
+{
+  "book": 35,
+  "book_name": "Habacuque",
+  "book_abbr": "Hc",
+  "book_category": "Profético",
+  "book_english": "Habakkuk",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. Apelo à intervenção de Iahweh}\\par }{\\qc\\b\\i Título\\par }Uma oração do profeta Habacuc no tom das lamentações. \\par",
+      "reference": "Hc 3:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Prelúdio. Súplica\\par }Iahweh, ouvi a tua fama, \\par temi, Iahweh, a tua obra! \\par Em nosso tempo faz revivê-la, \\par em nosso tempo manifesta-a, \\par na cólera lembra-te de ter compaixão! \\par",
+      "reference": "Hc 3:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Teofania. A chegada de Iahweh\\par }Eloá vem de Temã, \\par e o Santo do monte Farã. \\par A sua majestade cobre os céus, \\par e a terra está cheia de seu louvor. \\par",
+      "reference": "Hc 3:3"
+    },
+    "4": {
+      "text": "Seu brilho é como a luz, \\par raios saem de sua mão, \\par lá está o segredo de sua força. \\par",
+      "reference": "Hc 3:4"
+    },
+    "5": {
+      "text": "Diante dele caminha a peste, \\par e a febre segue os seus passos. \\par",
+      "reference": "Hc 3:5"
+    },
+    "6": {
+      "text": "Ele pára e faz tremer a terra, \\par olha e faz vacilar as nações. \\par As montanhas eternas são destroçadas, \\par desfazem-se as colinas antigas, \\par seus caminhos de sempre. \\par",
+      "reference": "Hc 3:6"
+    },
+    "7": {
+      "text": "Vi em aflição as tendas de Cusã, \\par estão agitadas as tendas da terra de Madiã. \\par",
+      "reference": "Hc 3:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i O combate de Iahweh\\par }Será contra os rios, Iahweh, que a tua cólera se inflama, \\par ou o teu furor contra o mar \\par para que montes em teus cavalos, \\par em teus carros vitoriosos? \\par",
+      "reference": "Hc 3:8"
+    },
+    "9": {
+      "text": "Tu desnudas o teu arco, \\par sacias de flechas a sua corda. \\par Cavas o solo com torrentes. \\par",
+      "reference": "Hc 3:9"
+    },
+    "10": {
+      "text": "Ao ver-te as montanhas tremem; \\par uma tromba d’água passa, \\par o abismo faz ouvir a sua voz, \\par levanta para o alto as suas mãos. \\par",
+      "reference": "Hc 3:10"
+    },
+    "11": {
+      "text": "Sol e lua permanecem em sua morada, \\par diante da luz de tuas flechas que partem, \\par diante do brilho do relâmpago de tua lança. \\par",
+      "reference": "Hc 3:11"
+    },
+    "12": {
+      "text": "Com cólera percorres a terra, \\par com ira pisas as nações. \\par",
+      "reference": "Hc 3:12"
+    },
+    "13": {
+      "text": "Tu saíste para salvar o teu povo, \\par para salvar o teu ungido, \\par destroçaste o teto da casa do ímpio, \\par desnudando os fundamentos até à rocha. \\par",
+      "reference": "Hc 3:13"
+    },
+    "14": {
+      "text": "Traspassaste com teus dardos o chefe de seus guerreiros, \\par que se arremessavam para nos dispersar com gritos de alegria, \\par como se fossem devorar um miserável em lugar escondido. \\par",
+      "reference": "Hc 3:14"
+    },
+    "15": {
+      "text": "Pisaste o mar com teus cavalos, \\par o turbilhão das grandes águas! \\par",
+      "reference": "Hc 3:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Conclusão: Temor humano e fé em Deus\\par }Eu ouvi! Minhas entranhas tremeram. \\par A esse ruído meus lábios estremeceram, \\par a cárie penetra em meus ossos, \\par e os meus passos tornam-se vacilantes. \\par Espero tranqüilo o dia da angústia \\par que se levantará contra o povo que nos ataca! \\par",
+      "reference": "Hc 3:16"
+    },
+    "17": {
+      "text": "(Porque a figueira não dará fruto, \\par e não haverá frutos nas vinhas.\\par Decepcionará o produto da oliveira, \\par e os campos não darão de comer, \\par as ovelhas desaparecerão do aprisco \\par e não haverá gado nos estábulos.) \\par",
+      "reference": "Hc 3:17"
+    },
+    "18": {
+      "text": "Eu, porém, me alegrarei em Iahweh, \\par exultarei no Deus de minha salvação! \\par",
+      "reference": "Hc 3:18"
+    },
+    "19": {
+      "text": "Iahweh, meu Senhor, é a minha força, \\par torna meus pés semelhantes aos das gazelas, \\par e faz-me caminhar nas alturas. \\par Ao mestre de canto. Para instrumentos de corda. \\par",
+      "reference": "Hc 3:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

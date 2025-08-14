@@ -1,0 +1,93 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A prova do deserto\\par }Observareis todos os mandamentos que hoje vos ordeno cumprir, para que vivais e vos multipliqueis, entreis e possuais a terra que Iahweh, sob juramento, prometeu aos vossos pais.",
+      "reference": "Dt 8:1"
+    },
+    "2": {
+      "text": "Lembra-te, porém, de todo o caminho que Iahweh teu Deus te fez percorrer durante quarenta anos no deserto, a fim de humilhar-te, tentar-te e conhecer o que tinhas no coração: irias observar seus mandamentos ou não?",
+      "reference": "Dt 8:2"
+    },
+    "3": {
+      "text": "Ele te humilhou, fez com que sentisses fome e te alimentou com o maná que nem tu nem teus pais conheciam, para te mostrar que o homem não vive apenas de pão, mas que o homem vive de tudo aquilo que procede da boca de Iahweh.",
+      "reference": "Dt 8:3"
+    },
+    "4": {
+      "text": "As vestes que usavas não se envelheceram, nem teu pé inchou durante esses quarenta anos. \\par",
+      "reference": "Dt 8:4"
+    },
+    "5": {
+      "text": "Portanto, reconhece no teu coração que Iahweh teu Deus te educava, como um homem educa seu filho,",
+      "reference": "Dt 8:5"
+    },
+    "6": {
+      "text": "e observa os mandamentos de Iahweh teu Deus, para que andes nos seus caminhos e o temas. \\par",
+      "reference": "Dt 8:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i As tentações da Terra Prometida\\par }Eis que Iahweh teu Deus vai te introduzir numa terra boa: terra cheia de ribeiros de água e de fontes profundas que jorram no vale e na montanha;",
+      "reference": "Dt 8:7"
+    },
+    "8": {
+      "text": "terra de trigo e cevada, de vinhas, figueiras e romãzeiras, terra de oliveiras, de azeite e de mel;",
+      "reference": "Dt 8:8"
+    },
+    "9": {
+      "text": "terra onde vais comer pão sem escassez – nela nada te faltará! –, terra cujas pedras são de ferro e de cujas montanhas extrairás o cobre.",
+      "reference": "Dt 8:9"
+    },
+    "10": {
+      "text": "Comerás e ficarás saciado, e bendirás a Iahweh teu Deus na terra que ele te dará. \\par",
+      "reference": "Dt 8:10"
+    },
+    "11": {
+      "text": "Contudo, fica atento a ti mesmo, para que não esqueças a Iahweh teu Deus, e não deixes de cumprir seus mandamentos, normas e estatutos que hoje te ordeno!",
+      "reference": "Dt 8:11"
+    },
+    "12": {
+      "text": "Não aconteça que, havendo comido e estando saciado, havendo construído casas boas e habitando nelas,",
+      "reference": "Dt 8:12"
+    },
+    "13": {
+      "text": "havendo-se multiplicado teus bois e tuas ovelhas tendo aumentado, e multiplicando-se também tua prata e teu ouro, e tudo o que tiveres, –",
+      "reference": "Dt 8:13"
+    },
+    "14": {
+      "text": "que o teu coração se eleve e te esqueças de Iahweh teu Deus, que te fez sair da terra do Egito, da casa da escravidão;",
+      "reference": "Dt 8:14"
+    },
+    "15": {
+      "text": "que te conduziu através daquele grande e terrível deserto, cheio de serpentes abrasadoras, escorpiões e sede; e que, onde não havia água, para ti fez jorrar água da mais dura pedra;",
+      "reference": "Dt 8:15"
+    },
+    "16": {
+      "text": "que te sustentava no deserto com o maná que teus pais não conheceram, para te humilhar e te experimentar, a fim de te fazer bem no futuro! \\par",
+      "reference": "Dt 8:16"
+    },
+    "17": {
+      "text": "Portanto, não vás dizer no teu coração: ‘Foi a minha força e o poder das minhas mãos que me proporcionaram estas riquezas’.",
+      "reference": "Dt 8:17"
+    },
+    "18": {
+      "text": "Lembra-te de Iahweh teu Deus, pois é ele quem te concede força para te enriqueceres, mantendo a Aliança que jurou aos teus pais, como hoje se vê.",
+      "reference": "Dt 8:18"
+    },
+    "19": {
+      "text": "Contudo, se te esqueceres completamente de Iahweh teu Deus, seguindo outros deuses, servindo-os e adorando-os, eu hoje testemunho contra vós: é certo que perecereis!",
+      "reference": "Dt 8:19"
+    },
+    "20": {
+      "text": "Perecereis do mesmo modo que as nações que Iahweh vai exterminar à vossa frente, por não terdes obedecido à voz de Iahweh vosso Deus. \\par",
+      "reference": "Dt 8:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

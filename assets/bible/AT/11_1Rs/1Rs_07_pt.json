@@ -1,0 +1,217 @@
+{
+  "book": 11,
+  "book_name": "1Reis",
+  "book_abbr": "1Rs",
+  "book_category": "Histórico",
+  "book_english": "1 Kings",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O palácio de Salomão\\par }Para construir seu palácio, Salomão levou treze anos, até seu completo acabamento.",
+      "reference": "1Rs 7:1"
+    },
+    "2": {
+      "text": "Construiu a Casa da Floresta do Líbano, com cem côvados de comprimento, cinqüenta côvados de largura e trinta de altura, sobre quatro fileiras de cedro, com pranchões de cedro sobre as colunas.",
+      "reference": "1Rs 7:2"
+    },
+    "3": {
+      "text": "Ela era revestida de cedro na parte superior até os pranchões que estavam sobre as colunas.",
+      "reference": "1Rs 7:3"
+    },
+    "4": {
+      "text": "Havia três fileiras de arquitraves, quarenta e cinco ao todo, ou seja, quinze em cada fileira, que se correspondiam três vezes.",
+      "reference": "1Rs 7:4"
+    },
+    "5": {
+      "text": "Todas as portas e as vigas tinham um enquadramento retangular, correspondendo-se frente a frente três vezes.",
+      "reference": "1Rs 7:5"
+    },
+    "6": {
+      "text": "Fez o vestíbulo das colunas, com cinqüenta côvados de comprimento e trinta de largura... com um pórtico na frente.",
+      "reference": "1Rs 7:6"
+    },
+    "7": {
+      "text": "Fez o pórtico do trono, onde ele administrava a justiça, chamado pórtico do julgamento; era revestido de cedro desde o pavimento até o teto.",
+      "reference": "1Rs 7:7"
+    },
+    "8": {
+      "text": "Sua morada particular, no outro pátio, atrás do pórtico, era construída da mesma forma: Salomão fez também uma casa, semelhante a esse pórtico, para a filha de Faraó, que ele tinha desposado. \\par",
+      "reference": "1Rs 7:8"
+    },
+    "9": {
+      "text": "Todos os edifícios eram feitos de pedras escolhidas, talhadas sob medida, serradas por dentro e por fora, desde os fundamentos até a madeira das cornijas. –",
+      "reference": "1Rs 7:9"
+    },
+    "10": {
+      "text": "Tinham nos alicerces pedras selecionadas, enormes blocos de dez e de oito côvados,",
+      "reference": "1Rs 7:10"
+    },
+    "11": {
+      "text": "e em cima, pedras escolhidas, talhadas sob medida, e madeira de cedro –,",
+      "reference": "1Rs 7:11"
+    },
+    "12": {
+      "text": "e, do lado externo, o grande pátio era cercado por três fileiras de pedra talhada e por uma fileira de tábuas de cedro; assim também eram feitos o pátio interno do Templo de Iahweh e o pórtico do Templo. \\par",
+      "reference": "1Rs 7:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i O bronzista Hiram\\par }Salomão mandou chamar Hiram de Tiro,",
+      "reference": "1Rs 7:13"
+    },
+    "14": {
+      "text": "filho de uma viúva da tribo de Neftali e cujo pai era natural de Tiro e trabalhava em bronze. Era dotado de grande habilidade, talento e inteligência para executar qualquer trabalho em bronze. Apresentou-se ao rei Salomão e executou todos os seus trabalhos. \\par",
+      "reference": "1Rs 7:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i As colunas de bronze\\par }Fundiu duas colunas de bronze; a altura de uma era de dezoito côvados e sua circunferência media-se com um fio de doze côvados; assim também era a segunda coluna.",
+      "reference": "1Rs 7:15"
+    },
+    "16": {
+      "text": "Fez dois capitéis de bronze fundido, colocando-os no topo das colunas; um capitel tinha cinco côvados de altura e a altura do outro era a mesma.",
+      "reference": "1Rs 7:16"
+    },
+    "17": {
+      "text": "Fabricou duas redes para cobrir os dois rolos dos capitéis que encimavam as colunas, uma rede para cada capitel.",
+      "reference": "1Rs 7:17"
+    },
+    "18": {
+      "text": "{\\super (18a)} Fez as romãs; havia duas fileiras de romãs em torno de cada rede,",
+      "reference": "1Rs 7:18"
+    },
+    "19": {
+      "text": "{\\super (19b)} quatrocentos ao todo,",
+      "reference": "1Rs 7:19"
+    },
+    "20": {
+      "text": "aplicadas no centro que ficava por detrás das redes; havia duzentas romãs em torno de um capitel, {\\super (18b)} e o mesmo número em torno do outro. {\\super (19a)} Os capitéis que encimavam as colunas eram em forma de flores.",
+      "reference": "1Rs 7:20"
+    },
+    "21": {
+      "text": "Ergueu as colunas diante do pórtico do santuário; ergueu a coluna do lado direito, à qual deu o nome de Jaquin; ergueu a coluna da esquerda e chamou-a Booz.",
+      "reference": "1Rs 7:21"
+    },
+    "22": {
+      "text": "Assim ficou pronto o serviço das colunas. \\par",
+      "reference": "1Rs 7:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i O Mar de bronze\\par }Fez o Mar de metal fundido, com dez côvados de diâmetro. Era redondo, tinha cinco côvados de altura; sua circunferência media-se com um fio de trinta côvados.",
+      "reference": "1Rs 7:23"
+    },
+    "24": {
+      "text": "Havia por baixo da borda coloquíntidas em todo o redor; rodeavam o Mar pelo espaço de trinta côvados, dispostas em duas fileiras e fundidas numa só peça com o Mar.",
+      "reference": "1Rs 7:24"
+    },
+    "25": {
+      "text": "Este repousava sobre doze touros, dos quais três olhavam para o norte, três para o oeste, três para o sul e três para o leste; o Mar se elevava sobre eles e a parte posterior de seus corpos estava voltada para o interior.",
+      "reference": "1Rs 7:25"
+    },
+    "26": {
+      "text": "Sua espessura era de um palmo e sua borda tinha a mesma forma que a borda de uma taça, como uma flor. Sua capacidade era de dois mil batos. \\par",
+      "reference": "1Rs 7:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i As bases e as bacias de bronze\\par }Fez as dez bases de bronze, tendo cada uma quatro côvados de comprimento, quatro côvados de largura e três côvados de altura.",
+      "reference": "1Rs 7:27"
+    },
+    "28": {
+      "text": "Eis como foram feitas: tinham molduras que estavam entre as travessas.",
+      "reference": "1Rs 7:28"
+    },
+    "29": {
+      "text": "Sobre as molduras que estavam entre as travessas havia leões, touros e querubins, e sobre as travessas havia um suporte; abaixo dos leões e dos touros havia volutas à maneira de...",
+      "reference": "1Rs 7:29"
+    },
+    "30": {
+      "text": "Cada base tinha quatro rodas de bronze e eixos também de bronze; seus quatros pés tinham suportes, por baixo da bacia, e esses suportes eram fundidos...",
+      "reference": "1Rs 7:30"
+    },
+    "31": {
+      "text": "Seu encaixe, a partir do cruzamento dos suportes até o alto, tinha um côvado; seu encaixe era redondo, em forma de suporte de vaso; tinha um côvado e meio e sobre o encaixe também havia esculturas; mas os painéis eram quadrangulares e não redondos.",
+      "reference": "1Rs 7:31"
+    },
+    "32": {
+      "text": "As quatro rodas estavam sobre os painéis. Os eixos das rodas estavam no pedestal; a altura das rodas era de um côvado e meio.",
+      "reference": "1Rs 7:32"
+    },
+    "33": {
+      "text": "A forma das rodas era a mesma da de uma roda de carro: eixos, aros, raios e cubos, tudo era fundido.",
+      "reference": "1Rs 7:33"
+    },
+    "34": {
+      "text": "Havia quatro suportes, nos quatro ângulos de cada base: a base e seus suportes formavam uma só peça.",
+      "reference": "1Rs 7:34"
+    },
+    "35": {
+      "text": "Na parte superior da base havia um suporte de meio côvado de altura, de ferro circular; no topo da base havia esteios; os painéis formavam uma só peça com a base.",
+      "reference": "1Rs 7:35"
+    },
+    "36": {
+      "text": "Sobre os painéis das travessas e sobre as molduras mandou gravar querubins, leões e palmas... e volutas ao redor.",
+      "reference": "1Rs 7:36"
+    },
+    "37": {
+      "text": "Assim fez as dez bases: todas fundidas da mesma maneira e do mesmo tamanho. \\par",
+      "reference": "1Rs 7:37"
+    },
+    "38": {
+      "text": "Fez dez bacias de bronze, contendo cada uma quarenta batos; cada bacia tinha quatro côvados e repousava sobre uma das dez bases.",
+      "reference": "1Rs 7:38"
+    },
+    "39": {
+      "text": "Dispôs as bases, colocando cinco perto do lado direito do Templo e cinco perto do lado esquerdo do Templo; quanto ao Mar, colocara-o do lado direito do Templo, a sudoeste. \\par",
+      "reference": "1Rs 7:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i A mobília do Templo. Resumo\\par }Hiram fez os recipientes para as cinzas, as pás e as bacias para a aspersão. Ultimou toda a obra de que o encarregara o rei Salomão para o Templo de Iahweh: \\par",
+      "reference": "1Rs 7:40"
+    },
+    "41": {
+      "text": "duas colunas; os dois rolos dos capitéis que estavam no alto das colunas; as duas redes para cobrir os doía rolos dos capitéis que estavam no alto das colunas;",
+      "reference": "1Rs 7:41"
+    },
+    "42": {
+      "text": "as quatrocentas romãs para as duas redes: as romãs de cada rede estavam em duas fileiras; \\par",
+      "reference": "1Rs 7:42"
+    },
+    "43": {
+      "text": "as dez bases e as dez bacias sobre as bases; \\par",
+      "reference": "1Rs 7:43"
+    },
+    "44": {
+      "text": "o Mar único e os doze touros debaixo do Mar; \\par",
+      "reference": "1Rs 7:44"
+    },
+    "45": {
+      "text": "os recipientes para as cinzas, as pás, as bacias para a aspersão. \\par Todos esses objetos que Hiram fez para o rei Salomão, para o Templo de Iahweh, eram de bronze polido.",
+      "reference": "1Rs 7:45"
+    },
+    "46": {
+      "text": "Foi na planície do Jordão que ele os fundiu, em terra argilosa, entre Sucot e Sartã;",
+      "reference": "1Rs 7:46"
+    },
+    "47": {
+      "text": "por causa de sua enorme quantidade, não se pôde calcular o peso do bronze. \\par",
+      "reference": "1Rs 7:47"
+    },
+    "48": {
+      "text": "Salomão depositou no Templo de Iahweh todos os objetos que mandara fazer: o altar de ouro e a mesa de ouro, sobre a qual estavam os pães da oblação;",
+      "reference": "1Rs 7:48"
+    },
+    "49": {
+      "text": "os candelabros, de ouro puríssimo, cinco à direita e cinco à esquerda, diante do {\\i Debir}; as flores, as lâmpadas, as tenazes, de ouro;",
+      "reference": "1Rs 7:49"
+    },
+    "50": {
+      "text": "as bacias, as facas, as bacias para a aspersão, as taças e os incensórios, de ouro puríssimo; os gonzos para as portas da sala interior – é o Santo dos Santos – e do {\\i Hekal}, de ouro. \\par",
+      "reference": "1Rs 7:50"
+    },
+    "51": {
+      "text": "Assim ficou terminada toda a obra que o rei Salomão executou para o Templo de Iahweh; e Salomão mandou trazer o que seu pai Davi havia consagrado: a prata, o ouro e os utensílios, e colocou-os no tesouro do Templo de Iahweh. \\par",
+      "reference": "1Rs 7:51"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 51
+}

@@ -1,0 +1,45 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 129,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 129 (128)\\par }{\\qc\\b\\i Contra os inimigos de Sião\\par }{\\qc\\i Cântico das subidas.\\par } Quanto me oprimiram desde a juventude, \\par – Israel que o diga! – \\par",
+      "reference": "Sl 129:1"
+    },
+    "2": {
+      "text": "quanto me oprimiram desde a juventude, \\par mas nunca puderam comigo! \\par",
+      "reference": "Sl 129:2"
+    },
+    "3": {
+      "text": "Os lavradores lavraram minhas costas \\par e alongaram seus sulcos; \\par",
+      "reference": "Sl 129:3"
+    },
+    "4": {
+      "text": "mas Iahweh é justo: cortou \\par os chicotes dos ímpios. \\par",
+      "reference": "Sl 129:4"
+    },
+    "5": {
+      "text": "Voltem atrás, envergonhados, \\par os que odeiam Sião; \\par",
+      "reference": "Sl 129:5"
+    },
+    "6": {
+      "text": "sejam com a erva do telhado, \\par que seca antes da ceifa \\par",
+      "reference": "Sl 129:6"
+    },
+    "7": {
+      "text": "e não enche a mão do ceifador, \\par nem a braçada do que enfeixa. \\par",
+      "reference": "Sl 129:7"
+    },
+    "8": {
+      "text": "E que os passantes não digam: \\par “A bênção de Iahweh sobre vós!” \\par Nós vos abençoamos em nome de Iahweh! \\par",
+      "reference": "Sl 129:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

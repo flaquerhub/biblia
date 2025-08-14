@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 39,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 39 (38)\\par }{\\qc\\b\\i O nada do homem frente a Deus\\par }{\\qc\\i Do mestre de canto. De Iditun. Salmo. De Davi.\\par }",
+      "reference": "Sl 39:1"
+    },
+    "2": {
+      "text": "Eu disse: “Vou guardar meu caminho, \\par para não pecar com a língua; \\par vou guardar minha boca com mordaça, \\par enquanto o ímpio estiver à minha frente”. \\par",
+      "reference": "Sl 39:2"
+    },
+    "3": {
+      "text": "Eu me calei, em silêncio; \\par vendo sua sorte, minha dor piorou. \\par",
+      "reference": "Sl 39:3"
+    },
+    "4": {
+      "text": "Meu coração queimava dentro de mim, \\par ao meditar nisto o fogo se inflamava, \\par e deixei minha língua dizer: \\par",
+      "reference": "Sl 39:4"
+    },
+    "5": {
+      "text": "“Mostra-me o meu fim, Iahweh, \\par e qual é a medida dos meus dias, \\par para eu saber quão frágil sou. \\par",
+      "reference": "Sl 39:5"
+    },
+    "6": {
+      "text": "Vê: um palmo são os dias que me deste, \\par minha duração é um nada frente a ti; \\par todo homem que se levanta é apenas um sopro, {\\i Pausa }\\par",
+      "reference": "Sl 39:6"
+    },
+    "7": {
+      "text": "apenas uma sombra o homem que caminha, \\par apenas sopro as riquezas que amontoa, \\par e ele não sabe quem vai recolhê-las”. \\par",
+      "reference": "Sl 39:7"
+    },
+    "8": {
+      "text": "E agora, Senhor, o que posso esperar? \\par Minha esperança está em ti! \\par",
+      "reference": "Sl 39:8"
+    },
+    "9": {
+      "text": "Livra-me de minhas transgressões todas, \\par não me tornes ultraje do insensato! \\par",
+      "reference": "Sl 39:9"
+    },
+    "10": {
+      "text": "Eu me calo, não abro a boca, \\par pois quem age és tu. \\par",
+      "reference": "Sl 39:10"
+    },
+    "11": {
+      "text": "Afasta a tua praga de mim, \\par eu sucumbo ao ataque de tua mão! \\par",
+      "reference": "Sl 39:11"
+    },
+    "12": {
+      "text": "Castigando o erro tu educas o homem \\par e róis os seus tesouros como a traça. \\par Os homens todos são apenas um sopro! {\\i Pausa }\\par",
+      "reference": "Sl 39:12"
+    },
+    "13": {
+      "text": "Ouve a minha prece, Iahweh, \\par dá ouvido aos meus gritos, \\par não fiques surdo ao meu pranto! \\par Pois eu sou um forasteiro junto a ti, \\par um inquilino como todos os meus pais. \\par",
+      "reference": "Sl 39:13"
+    },
+    "14": {
+      "text": "Afasta de mim teu olhar, para que eu respire, \\par antes que eu me vá e não exista mais! \\par",
+      "reference": "Sl 39:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

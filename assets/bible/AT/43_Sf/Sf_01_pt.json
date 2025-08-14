@@ -1,0 +1,85 @@
+{
+  "book": 36,
+  "book_name": "Sofonias",
+  "book_abbr": "Sf",
+  "book_category": "Profético",
+  "book_english": "Zephaniah",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Palavra de Iahweh, que foi dirigida a Sofonias, filho de Cusi, filho de Godolias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amon, rei de Judá. \\par",
+      "reference": "Sf 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b {\\i I. O dia de Iahweh em Judá}\\par }{\\qc\\b\\i Prelúdio cósmico\\par }Vou, na verdade, suprimir tudo \\par da face da terra, \\par oráculo de Iahweh. \\par",
+      "reference": "Sf 1:2"
+    },
+    "3": {
+      "text": "Suprimirei homens e gado, \\par suprimirei os pássaros do céu e os peixes do mar, \\par farei tropeçar os perversos \\par e aniquilarei os homens da face da terra, \\par oráculo de Iahweh. \\par",
+      "reference": "Sf 1:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Contra o culto dos deuses estrangeiros\\par }Estenderei a minha mão contra Judá \\par e contra todos os habitantes de Jerusalém, \\par aniquilarei deste lugar \\par o resto de Baal, \\par o nome dos sacerdotes dos ídolos, \\par",
+      "reference": "Sf 1:4"
+    },
+    "5": {
+      "text": "os que se prostram nos telhados \\par diante do exército dos céus, \\par os que se prostram diante de Iahweh, \\par mas juram por Melcom, \\par",
+      "reference": "Sf 1:5"
+    },
+    "6": {
+      "text": "os que se afastam de Iahweh, \\par que não procuram a Iahweh \\par nem o consultam. \\par",
+      "reference": "Sf 1:6"
+    },
+    "7": {
+      "text": "Silêncio diante do Senhor Iahweh, \\par pois o dia de Iahweh está próximo! \\par Sim, Iahweh preparou um sacrifício, \\par ele santificou os seus convidados.\\par",
+      "reference": "Sf 1:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Contra os altos dignitários da corte\\par }Acontecerá que, no dia do sacrifício de Iahweh, \\par visitarei os príncipes, \\par os filhos do rei \\par e os que se vestem \\par com roupas estrangeiras. \\par",
+      "reference": "Sf 1:8"
+    },
+    "9": {
+      "text": "Visitarei, naquele dia, \\par todos os que sobem o Degrau, \\par todos os que enchem a casa de seu senhor \\par com violência e com fraude. \\par",
+      "reference": "Sf 1:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Contra os comerciantes de Jerusalém\\par }Naquele dia – oráculo de Iahweh – \\par um grito se levantará da porta dos Peixes, \\par urros da cidade nova, \\par e um grande ruído dos montes! \\par",
+      "reference": "Sf 1:10"
+    },
+    "11": {
+      "text": "Urrai, habitantes de Mactes, \\par porque todo o povo de Canaã está destruído \\par e aniquilados todos os que pesam a prata. \\par",
+      "reference": "Sf 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Contra os incrédulos\\par }E acontecerá, naquele tempo, \\par que eu esquadrinharei Jerusalém com lanternas \\par e castigarei os homens \\par que, concentrados em sua borra, \\par dizem em seu coração: \\par “Iahweh não pode fazer \\par nem o bem nem o mal”. \\par",
+      "reference": "Sf 1:12"
+    },
+    "13": {
+      "text": "Sua riqueza será saqueada, \\par suas casas devastadas; \\par eles construíram casas, mas não as habitarão, \\par plantaram vinhas, mas não beberão do seu vinho. \\par",
+      "reference": "Sf 1:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i O dia de Iahweh\\par }Está próximo o grande dia de Iahweh! \\par Ele está próximo, iminente! \\par O clamor do dia de Iahweh é amargo, \\par nele até mesmo o herói grita. \\par",
+      "reference": "Sf 1:14"
+    },
+    "15": {
+      "text": "Um dia de ira, aquele dia! \\par Dia de angústia e de tribulação, \\par dia de devastação e de destruição, \\par dia de trevas e de escuridão, \\par dia de nuvens e de negrume, \\par",
+      "reference": "Sf 1:15"
+    },
+    "16": {
+      "text": "dia da trombeta e do grito de guerra \\par contra as cidades fortificadas \\par e contra as ameias elevadas. \\par",
+      "reference": "Sf 1:16"
+    },
+    "17": {
+      "text": "Afligirei os homens \\par e eles caminharão como cegos \\par (porque pecaram contra Iahweh); \\par o seu sangue será derramado como o pó, \\par e suas entranhas como o esterco. \\par",
+      "reference": "Sf 1:17"
+    },
+    "18": {
+      "text": "Nem sua prata nem seu ouro \\par poderão salvá-los. \\par No dia da cólera de Iahweh, \\par no fogo de seu zelo toda a terra será devorada. \\par Pois ele destruirá, sim, ele exterminará \\par todos os habitantes da terra. \\par",
+      "reference": "Sf 1:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

@@ -1,0 +1,205 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. DISCURSO EVANGÉLICO\\par }{\\qc\\b\\i As bem-aventuranças\\par }Vendo ele as multidões, subiu à montanha. Ao sentar-se, aproximaram-se dele os seus discípulos.",
+      "reference": "Mt 5:1"
+    },
+    "2": {
+      "text": "E pôs-se a falar e os ensinava, dizendo: \\par",
+      "reference": "Mt 5:2"
+    },
+    "3": {
+      "text": "“Bem-aventurados os pobres em espírito, \\par porque deles é o Reino dos Céus. \\par",
+      "reference": "Mt 5:3"
+    },
+    "4": {
+      "text": "Bem-aventurados {\\i os mansos}, \\par porque {\\i herdarão a terra.}\\par",
+      "reference": "Mt 5:4"
+    },
+    "5": {
+      "text": "Bem-aventurados {\\i os aflitos}, \\par porque serão consolados. \\par",
+      "reference": "Mt 5:5"
+    },
+    "6": {
+      "text": "Bem-aventurados os que têm fome e sede de justiça, \\par porque serão saciados. \\par",
+      "reference": "Mt 5:6"
+    },
+    "7": {
+      "text": "Bem-aventurados os misericordiosos, \\par porque alcançarão misericórdia. \\par",
+      "reference": "Mt 5:7"
+    },
+    "8": {
+      "text": "Bem-aventurados {\\i os puros de coração}, \\par porque verão a Deus. \\par",
+      "reference": "Mt 5:8"
+    },
+    "9": {
+      "text": "Bem-aventurados os que promovem a paz, \\par porque serão chamados filhos de Deus. \\par",
+      "reference": "Mt 5:9"
+    },
+    "10": {
+      "text": "Bem-aventurados os que são perseguidos por causa da justiça, \\par porque deles é o Reino dos Céus. \\par",
+      "reference": "Mt 5:10"
+    },
+    "11": {
+      "text": "Bem-aventurados sois, quando vos injuriarem e vos perseguirem e, mentindo, disserem todo o mal contra vós por causa de mim.",
+      "reference": "Mt 5:11"
+    },
+    "12": {
+      "text": "Alegrai-vos e regozijai-vos, porque será grande a vossa recompensa nos céus, pois foi assim que perseguiram os profetas, que vieram antes de vós. \\par",
+      "reference": "Mt 5:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Sal da terra e luz do mundo\\par }Vós sois o sal da terra. Ora, se o sal se tornar insosso, com que o salgaremos? Para nada mais serve, senão para ser lançado fora e pisado pelos homens. \\par",
+      "reference": "Mt 5:13"
+    },
+    "14": {
+      "text": "Vós sois a luz do mundo. Não se pode esconder uma cidade situada sobre um monte.",
+      "reference": "Mt 5:14"
+    },
+    "15": {
+      "text": "Nem se acende uma lâmpada e se coloca debaixo do alqueire, mas no candelabro, e assim ela brilha para todos os que estão na casa.",
+      "reference": "Mt 5:15"
+    },
+    "16": {
+      "text": "Brilhe do mesmo modo a vossa luz diante dos homens, para que, vendo as vossas boas obras, eles glorifiquem vosso Pai que está nos céus. \\par",
+      "reference": "Mt 5:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i O cumprimento da Lei\\par }Não penseis que vim revogar a Lei e os Profetas. Não vim revogá-los, mas dar-lhes pleno cumprimento,",
+      "reference": "Mt 5:17"
+    },
+    "18": {
+      "text": "porque em verdade vos digo que, até que passem o céu e a terra, não será omitido nem um só {\\i i}, uma só vírgula da Lei, sem que tudo seja realizado.",
+      "reference": "Mt 5:18"
+    },
+    "19": {
+      "text": "Aquele, portanto, que violar um só desses menores mandamentos e ensinar os homens a fazerem o mesmo, será chamado o menor no Reino dos Céus. Aquele, porém, que os praticar e os ensinar, esse será chamado grande no Reino dos Céus. \\par",
+      "reference": "Mt 5:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i A nova justiça é superior à antiga\\par }Com efeito, eu vos asseguro que se a vossa justiça não exceder a dos escribas e a dos fariseus, não entrareis no Reino dos Céus. \\par",
+      "reference": "Mt 5:20"
+    },
+    "21": {
+      "text": "Ouvistes que foi dito aos antigos: {\\i Não matarás;} aquele que matar terá de responder no tribunal.",
+      "reference": "Mt 5:21"
+    },
+    "22": {
+      "text": "Eu, porém, vos digo: todo aquele que se encolerizar contra seu irmão, terá de responder no tribunal; aquele que chamar ao seu irmão ‘Cretino!’ estará sujeito ao julgamento do Sinédrio; aquele que lhe chamar ‘Louco’ terá de responder na geena de fogo.",
+      "reference": "Mt 5:22"
+    },
+    "23": {
+      "text": "Portanto, se estiveres para trazer a tua oferta ao altar e ali te lembrares de que o teu irmão tem alguma coisa contra ti,",
+      "reference": "Mt 5:23"
+    },
+    "24": {
+      "text": "deixa a tua oferta ali diante do altar e vai primeiro reconciliar-te com o teu irmão; e depois virás apresentar a tua oferta.",
+      "reference": "Mt 5:24"
+    },
+    "25": {
+      "text": "Assume logo uma atitude conciliadora com o teu adversário, enquanto estás com ele no caminho, para não acontecer que o adversário te entregue ao juiz e o juiz ao oficial de justiça e, assim, seja lançado na prisão.",
+      "reference": "Mt 5:25"
+    },
+    "26": {
+      "text": "Em verdade te digo: dali não sairás, enquanto não pagares o último centavo. \\par",
+      "reference": "Mt 5:26"
+    },
+    "27": {
+      "text": "Ouvistes que foi dito: {\\i Não cometerás adultério.}",
+      "reference": "Mt 5:27"
+    },
+    "28": {
+      "text": "Eu, porém, vos digo: todo aquele que olha para uma mulher com desejo libidinoso já cometeu adultério com ela em seu coração.",
+      "reference": "Mt 5:28"
+    },
+    "29": {
+      "text": "Caso o teu olho direito te leve a pecar, arranca-o e lança-o para longe de ti, pois é preferível que se perca um dos teus membros do que todo o teu corpo seja lançado na geena.",
+      "reference": "Mt 5:29"
+    },
+    "30": {
+      "text": "Caso a tua mão direita te leve a pecar, corta-a e lança-a para longe de ti, pois é preferível que se perca um dos teus membros do que todo o teu corpo vá para a geena. \\par",
+      "reference": "Mt 5:30"
+    },
+    "31": {
+      "text": "Foi dito: {\\i Aquele que repudiar a sua mulher, dê-lhe uma carta de divórcio.}",
+      "reference": "Mt 5:31"
+    },
+    "32": {
+      "text": "Eu, porém, vos digo: todo aquele que repudia sua mulher, a não ser por motivo de ‘fornicação’, faz com que ela adultere; e aquele que se casa com a repudiada comete adultério. \\par",
+      "reference": "Mt 5:32"
+    },
+    "33": {
+      "text": "Ouvistes também que foi dito aos antigos: {\\i Não perjurarás, mas cumprirás os teus juramentos para com o Senhor.}",
+      "reference": "Mt 5:33"
+    },
+    "34": {
+      "text": "Eu, porém, vos digo: não jureis em hipótese nenhuma: nem {\\i pelo Céu}, porque é {\\i o trono de Deus},",
+      "reference": "Mt 5:34"
+    },
+    "35": {
+      "text": "nem {\\i pela Terra}, porque é {\\i o escabelo dos seus pés}, nem por {\\i Jerusalém}, porque é {\\i a Cidade do Grande Rei},",
+      "reference": "Mt 5:35"
+    },
+    "36": {
+      "text": "nem jures pela tua cabeça, porque tu não tens o poder de tornar um só cabelo branco ou preto.",
+      "reference": "Mt 5:36"
+    },
+    "37": {
+      "text": "Seja o vosso ‘sim’, sim, e o vosso ‘não’, não. O que passa disso vem do Maligno. \\par",
+      "reference": "Mt 5:37"
+    },
+    "38": {
+      "text": "Ouvistes que foi dito: {\\i Olho por olho e dente por dente.}",
+      "reference": "Mt 5:38"
+    },
+    "39": {
+      "text": "Eu, porém, vos digo: não resistais ao homem mau; antes, àquele que te fere na face direita oferece-lhe também a esquerda;",
+      "reference": "Mt 5:39"
+    },
+    "40": {
+      "text": "e àquele que quer pleitear contigo, para tomar-te a túnica, deixa-lhe também a veste;",
+      "reference": "Mt 5:40"
+    },
+    "41": {
+      "text": "e se alguém te obriga a andar uma milha, caminha com ele duas.",
+      "reference": "Mt 5:41"
+    },
+    "42": {
+      "text": "Dá ao que te pede e não voltes as costas ao que te pede emprestado. \\par",
+      "reference": "Mt 5:42"
+    },
+    "43": {
+      "text": "Ouvistes que foi dito: {\\i Amarás o teu próximo e odiarás o teu inimigo.}",
+      "reference": "Mt 5:43"
+    },
+    "44": {
+      "text": "Eu, porém, vos digo: amai os vossos inimigos e orai pelos que vos perseguem;",
+      "reference": "Mt 5:44"
+    },
+    "45": {
+      "text": "desse modo vos tornareis filhos do vosso Pai que está nos céus, porque ele faz nascer o seu sol igualmente sobre maus e bons e cair a chuva sobre justos e injustos.",
+      "reference": "Mt 5:45"
+    },
+    "46": {
+      "text": "Com efeito, se amais aos que vos amam, que recompensa tendes? Não fazem também os publicanos a mesma coisa?",
+      "reference": "Mt 5:46"
+    },
+    "47": {
+      "text": "E se saudais apenas os vossos irmãos, que fazeis de mais? Não fazem também os gentios a mesma coisa?",
+      "reference": "Mt 5:47"
+    },
+    "48": {
+      "text": "Portanto, deveis ser perfeitos como o vosso Pai celeste é perfeito. \\par",
+      "reference": "Mt 5:48"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 48
+}

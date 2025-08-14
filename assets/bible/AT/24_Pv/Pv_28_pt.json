@@ -1,0 +1,125 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "O ímpio foge, mesmo que ninguém o persiga, \\par mas os justos têm a segurança de um leão. \\par",
+      "reference": "Pv 28:1"
+    },
+    "2": {
+      "text": "Quando um país está em revolta, os chefes se multiplicam, \\par com homem inteligente e instruído firma-se a ordem. \\par",
+      "reference": "Pv 28:2"
+    },
+    "3": {
+      "text": "O homem perverso que oprime os fracos \\par é chuva devastadora que deixa sem pão. \\par",
+      "reference": "Pv 28:3"
+    },
+    "4": {
+      "text": "Os que abandonam a lei louvam o ímpio, \\par os que observam a lei o combatem. \\par",
+      "reference": "Pv 28:4"
+    },
+    "5": {
+      "text": "Os homens maus não entendem o direito, \\par mas os que buscam a Iahweh entendem tudo. \\par",
+      "reference": "Pv 28:5"
+    },
+    "6": {
+      "text": "É melhor o pobre que se mantém íntegro \\par que o de conduta perversa, mesmo sendo rico. \\par",
+      "reference": "Pv 28:6"
+    },
+    "7": {
+      "text": "Quem guarda a lei é filho inteligente, \\par mas o amigo de libertinos envergonha seu pai. \\par",
+      "reference": "Pv 28:7"
+    },
+    "8": {
+      "text": "Quem multiplica seus bens com usura e interesse \\par multiplica-os para o que tem pena dos fracos. \\par",
+      "reference": "Pv 28:8"
+    },
+    "9": {
+      "text": "O que desvia o ouvido para não ouvir a lei, \\par até mesmo sua prece se torna abominável. \\par",
+      "reference": "Pv 28:9"
+    },
+    "10": {
+      "text": "Quem desvia os retos por mau caminho, \\par na sua própria cova cairá, \\par e os íntegros herdarão a felicidade. \\par",
+      "reference": "Pv 28:10"
+    },
+    "11": {
+      "text": "O rico é sábio aos seus próprios olhos, \\par mas o fraco inteligente o desmascara. \\par",
+      "reference": "Pv 28:11"
+    },
+    "12": {
+      "text": "Quando os justos triunfam, há grande glória; \\par quando os ímpios se levantam, cada um se esconde. \\par",
+      "reference": "Pv 28:12"
+    },
+    "13": {
+      "text": "Quem esconde suas faltas jamais tem sucesso, \\par mas quem as confessa e abandona obtém compaixão. \\par",
+      "reference": "Pv 28:13"
+    },
+    "14": {
+      "text": "Feliz o homem que vive sempre no temor, \\par pois quem endurece o coração cai na desgraça. \\par",
+      "reference": "Pv 28:14"
+    },
+    "15": {
+      "text": "Leão rugindo e urso pulando: \\par é o ímpio governando um povo fraco. \\par",
+      "reference": "Pv 28:15"
+    },
+    "16": {
+      "text": "Um príncipe sem inteligência multiplica as extorsões, \\par quem odeia o lucro prolonga os seus dias. \\par",
+      "reference": "Pv 28:16"
+    },
+    "17": {
+      "text": "Um homem culpado de assassínio \\par fugirá até o túmulo: não o segurem! \\par",
+      "reference": "Pv 28:17"
+    },
+    "18": {
+      "text": "Quem vive de modo íntegro será salvo, \\par mas quem se entorta em dois caminhos, num deles cairá. \\par",
+      "reference": "Pv 28:18"
+    },
+    "19": {
+      "text": "Quem cultiva sua terra sacia-se de pão, \\par quem persegue o vazio sacia-se de pobreza. \\par",
+      "reference": "Pv 28:19"
+    },
+    "20": {
+      "text": "O homem leal terá muitas bênçãos, \\par mas quem se apressa para se enriquecer não fica impune. \\par",
+      "reference": "Pv 28:20"
+    },
+    "21": {
+      "text": "Não é bom fazer acepção de pessoas, \\par mas, por um bocado de pão, o homem transgride. \\par",
+      "reference": "Pv 28:21"
+    },
+    "22": {
+      "text": "O homem de olho ávido corre atrás da riqueza, \\par e não sabe que a necessidade vai cair sobre ele. \\par",
+      "reference": "Pv 28:22"
+    },
+    "23": {
+      "text": "Quem repreende um homem depois achará favor, \\par mais do que aquele que o lisonjeia com a língua. \\par",
+      "reference": "Pv 28:23"
+    },
+    "24": {
+      "text": "Quem rouba seu pai e sua mãe, e diz: “Não é pecado!”, \\par é companheiro do bandido. \\par",
+      "reference": "Pv 28:24"
+    },
+    "25": {
+      "text": "O homem ávido provoca disputas, \\par mas quem confia em Iahweh prospera. \\par",
+      "reference": "Pv 28:25"
+    },
+    "26": {
+      "text": "Quem confia em seu bom senso é insensato, \\par quem procede com sabedoria será salvo. \\par",
+      "reference": "Pv 28:26"
+    },
+    "27": {
+      "text": "Para quem dá ao pobre não há necessidade, \\par mas quem dele esconde seus olhos terá muitas maldições. \\par",
+      "reference": "Pv 28:27"
+    },
+    "28": {
+      "text": "Quando os ímpios se levantam, cada um se esconde; \\par quando eles perecem, os justos se multiplicam. \\par",
+      "reference": "Pv 28:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

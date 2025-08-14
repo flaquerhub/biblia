@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 32,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 32 (31)\\par }{\\qc\\b\\i A confissão liberta do pecado\\par }{\\qc\\i De Davi. Poema.\\par } Feliz aquele cuja ofensa é absolvida, \\par cujo pecado é coberto. \\par",
+      "reference": "Sl 32:1"
+    },
+    "2": {
+      "text": "Feliz o homem a quem Iahweh \\par não atribui iniqüidade, \\par e em cujo espírito não há fraude. \\par",
+      "reference": "Sl 32:2"
+    },
+    "3": {
+      "text": "Enquanto calei, meus ossos se consumiam, \\par o dia todo rugindo, \\par",
+      "reference": "Sl 32:3"
+    },
+    "4": {
+      "text": "porque dia e noite a tua mão \\par pesava sobre mim; \\par meu coração tornou-se um feixe de palha \\par em pleno calor de verão. \\par",
+      "reference": "Sl 32:4"
+    },
+    "5": {
+      "text": "Confessei a ti o meu pecado, \\par e minha iniqüidade não te encobri; \\par eu disse: “Vou a Iahweh \\par confessar a minha iniqüidade!” \\par E tu absolveste a minha iniqüidade, \\par perdoaste o meu pecado. \\par",
+      "reference": "Sl 32:5"
+    },
+    "6": {
+      "text": "Assim, todo fiel suplicará a ti \\par no tempo da angústia. \\par Mesmo que as águas torrenciais transbordem, \\par jamais o atingirão. \\par",
+      "reference": "Sl 32:6"
+    },
+    "7": {
+      "text": "Tu és um refúgio para mim, \\par tu me preservas da angústia \\par e me envolves com cantos de libertação. \\par",
+      "reference": "Sl 32:7"
+    },
+    "8": {
+      "text": "Vou instruir-te, indicando o caminho a seguir, \\par com os olhos sobre ti, eu serei teu conselho. \\par",
+      "reference": "Sl 32:8"
+    },
+    "9": {
+      "text": "Não sejas como o cavalo ou o jumento, \\par que não compreende nem rédea nem freio: \\par deve-se avançar para domá-lo, \\par sem que ele se aproxime de ti. \\par",
+      "reference": "Sl 32:9"
+    },
+    "10": {
+      "text": "São muitos os tormentos do ímpio, \\par mas o amor envolve quem confia em Iahweh. \\par",
+      "reference": "Sl 32:10"
+    },
+    "11": {
+      "text": "Alegrai-vos em Iahweh, ó justos, e exultai, \\par dai gritos de alegria, todos os de coração reto. \\par",
+      "reference": "Sl 32:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

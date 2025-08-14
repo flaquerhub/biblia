@@ -1,0 +1,45 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 114,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 114 (113A)\\par }{\\qc\\b\\i Hino pascal\\par }Aleluia!\\par Quando Israel saiu do Egito \\par e a casa de Jacó de um povo bárbaro, \\par",
+      "reference": "Sl 114:1"
+    },
+    "2": {
+      "text": "Judá se tornou o seu santuário, \\par e Israel o seu domínio. \\par",
+      "reference": "Sl 114:2"
+    },
+    "3": {
+      "text": "O mar viu e fugiu, \\par o Jordão voltou atrás; \\par",
+      "reference": "Sl 114:3"
+    },
+    "4": {
+      "text": "os montes saltaram como carneiros, \\par e as colinas como cordeiros. \\par",
+      "reference": "Sl 114:4"
+    },
+    "5": {
+      "text": "Que tens, ó mar, para fugires assim, \\par e tu, Jordão, para que voltes atrás? \\par",
+      "reference": "Sl 114:5"
+    },
+    "6": {
+      "text": "As montanhas, para saltar como carneiros, \\par e as colinas como cordeiros? \\par",
+      "reference": "Sl 114:6"
+    },
+    "7": {
+      "text": "Treme, ó terra, frente ao Senhor, \\par frente à presença do Deus de Jacó: \\par",
+      "reference": "Sl 114:7"
+    },
+    "8": {
+      "text": "ele transforma as rochas em lago \\par e a pedreira em fontes de água. \\par",
+      "reference": "Sl 114:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

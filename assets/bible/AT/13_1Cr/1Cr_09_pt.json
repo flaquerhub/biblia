@@ -1,0 +1,189 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Jerusalém, cidade israelita e cidade santa\\par }Todo Israel foi repartido em grupos, e estava inscrito no livro dos reis de Israel e de Judá quando foi deportado para Babilônia por causa de suas infidelidades.",
+      "reference": "1Cr 9:1"
+    },
+    "2": {
+      "text": "Os primeiros a habitar em suas cidades e em seu patrimônio foram os filhos de Israel: os sacerdotes, os levitas e os “doados”;",
+      "reference": "1Cr 9:2"
+    },
+    "3": {
+      "text": "em Jerusalém moraram filhos de Judá, de Benjamim, de Efraim e de Manassés. \\par",
+      "reference": "1Cr 9:3"
+    },
+    "4": {
+      "text": "Otei, filho de Amiud, filho de Amri, filho de Omrai, filho de Bani, um dos filhos de Farés, filho de Judá.",
+      "reference": "1Cr 9:4"
+    },
+    "5": {
+      "text": "Dos selanitas, Asaías, o primogênito, e seus filhos.",
+      "reference": "1Cr 9:5"
+    },
+    "6": {
+      "text": "Dos filhos de Zara, Jeuel e seus irmãos: seiscentos e noventa homens. \\par",
+      "reference": "1Cr 9:6"
+    },
+    "7": {
+      "text": "Dos filhos de Benjamim: Salo, filho de Mosolam, filho de Oduías, filho de Asana;",
+      "reference": "1Cr 9:7"
+    },
+    "8": {
+      "text": "Joabnias, filho de Jeroam; Ela, filho de Ozi, filho de Mocori; Mosolam, filho de Safatias, filho de Reuel, filho de Jebanias.",
+      "reference": "1Cr 9:8"
+    },
+    "9": {
+      "text": "Tinham novecentos e cinqüenta e seis irmãos reunidos segundo sua parentela. Todos esses homens eram chefes, cada um de sua família. \\par",
+      "reference": "1Cr 9:9"
+    },
+    "10": {
+      "text": "Dos sacerdotes: Jedaías, Joiarib, Jaquin,",
+      "reference": "1Cr 9:10"
+    },
+    "11": {
+      "text": "Azarias, filho de Helcias, filho de Mosolam, filho de Sadoc, filho de Maraiot, filho de Aquitob, chefe do Templo de Deus.",
+      "reference": "1Cr 9:11"
+    },
+    "12": {
+      "text": "Adaías, filho de Jeroam, filho de Fassur, filho de Melquias; Maasai, filho de Adiel, filho de Jezra, filho de Mosolam, filho de Mosolamot, filho de Emer,",
+      "reference": "1Cr 9:12"
+    },
+    "13": {
+      "text": "e seus irmãos, chefes de família: mil setecentos e sessenta guerreiros valentes, ocupados no serviço do Templo de Deus. \\par",
+      "reference": "1Cr 9:13"
+    },
+    "14": {
+      "text": "Dos levitas: Semeías, filho de Hassub, filho de Ezricam, filho de Hasabias, dos filhos de Merari,",
+      "reference": "1Cr 9:14"
+    },
+    "15": {
+      "text": "Bacbacar, Hares, Galal. Matanias, filho de Micas, filho de Zecri, filho de Asaf;",
+      "reference": "1Cr 9:15"
+    },
+    "16": {
+      "text": "Abdias, filho de Semeías, filho de Galal, filho de Iditun; Baraquias, filho de Asa, filho de Elcana, que habitavam nas aldeias dos netofatitas. \\par",
+      "reference": "1Cr 9:16"
+    },
+    "17": {
+      "text": "Os porteiros: Selum, Acub, Telmon, Aimã, e seus irmãos. Selum, o chefe,",
+      "reference": "1Cr 9:17"
+    },
+    "18": {
+      "text": "permanece ainda hoje junto à porta real, a oriente. Eram estes os porteiros dos acampamentos dos levitas:",
+      "reference": "1Cr 9:18"
+    },
+    "19": {
+      "text": "Selum, filho de Coré, filho de Abiasaf, filho de Cora, e seus irmãos, os coreítas, da mesma família, dedicavam-se ao serviço litúrgico; guardavam a entrada da Tenda, e seus pais, responsáveis pelo acampamento de Iahweh, guardavam seu acesso.",
+      "reference": "1Cr 9:19"
+    },
+    "20": {
+      "text": "Finéias, filho de Eleazar, fora outrora seu chefe responsável (que Iahweh esteja com ele!).",
+      "reference": "1Cr 9:20"
+    },
+    "21": {
+      "text": "Zacarias, filho de Mosolamias, era porteiro na entrada da Tenda da Reunião.",
+      "reference": "1Cr 9:21"
+    },
+    "22": {
+      "text": "Os porteiros dos limiares pertenciam todos à elite; eram duzentos e doze. Estavam agrupados em suas aldeias. Foram eles que Davi e Samuel, o vidente, estabeleceram, devido à sua fidelidade.",
+      "reference": "1Cr 9:22"
+    },
+    "23": {
+      "text": "Juntamente com seus filhos, eram responsáveis pelas portas do Templo de Iahweh, pela casa da Tenda.",
+      "reference": "1Cr 9:23"
+    },
+    "24": {
+      "text": "Nos quatro pontos cardeais ficavam os porteiros: a leste, a oeste, ao norte e ao sul.",
+      "reference": "1Cr 9:24"
+    },
+    "25": {
+      "text": "Seus irmãos, que moravam nas suas aldeias vinham ter com eles, de tempos a tempos, por uma semana,",
+      "reference": "1Cr 9:25"
+    },
+    "26": {
+      "text": "pois os quatro chefes dos porteiros lá ficavam constantemente. Os levitas eram responsáveis pelas câmaras e pelas provisões da casa de Deus.",
+      "reference": "1Cr 9:26"
+    },
+    "27": {
+      "text": "Passavam a noite ao redor da casa de Deus, pois deviam guardá-la e abri-la todas as manhãs. \\par",
+      "reference": "1Cr 9:27"
+    },
+    "28": {
+      "text": "Alguns deles cuidavam dos objetos do culto; contavam-nos ao recolocá-los e ao retirá-los.",
+      "reference": "1Cr 9:28"
+    },
+    "29": {
+      "text": "Alguns outros eram responsáveis pela mobília, por toda a mobília sacra, pela flor da farinha, pelo vinho, pelo óleo, pelo incenso, e pelos perfumes,",
+      "reference": "1Cr 9:29"
+    },
+    "30": {
+      "text": "ao passo que os que preparavam a essência aromática para os perfumes eram sacerdotes. \\par",
+      "reference": "1Cr 9:30"
+    },
+    "31": {
+      "text": "Um dos levitas, Matatias – primogênito de Selum, o coreíta, – foi, em razão de sua fidelidade, encarregado da confecção das oferendas que se coziam na sertã.",
+      "reference": "1Cr 9:31"
+    },
+    "32": {
+      "text": "Entre seus irmãos, alguns caatitas estavam encarregados dos pães a serem apresentados cada sábado. \\par",
+      "reference": "1Cr 9:32"
+    },
+    "33": {
+      "text": "Eis os cantores, chefes de famílias levíticas. Moravam nas dependências do Templo, livres de outras funções, pois estavam em serviço dia e noite. \\par",
+      "reference": "1Cr 9:33"
+    },
+    "34": {
+      "text": "São esses os chefes das famílias levíticas, agrupados segundo sua parentela. Esses chefes moravam em Jerusalém. \\par",
+      "reference": "1Cr 9:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b 9. SAUL, PREDECESSOR DE DAVI\\par }{\\qc\\b\\i Origens de Saul\\par }Em Gabaon moravam o pai de Gabaon, Jeiel, cuja mulher chamava-se Maaca,",
+      "reference": "1Cr 9:35"
+    },
+    "36": {
+      "text": "e os filhos, Abdon, o primogênito, Sur, Cis, Baal, Ner, Nadab,",
+      "reference": "1Cr 9:36"
+    },
+    "37": {
+      "text": "Gedor, Aio, Zacarias, Macelot.",
+      "reference": "1Cr 9:37"
+    },
+    "38": {
+      "text": "Macelot gerou Samaam. Mas eles, ao contrário de seus irmãos, moravam em Jerusalém com seus irmãos. \\par",
+      "reference": "1Cr 9:38"
+    },
+    "39": {
+      "text": "Ner gerou Cis, Cis gerou Saul, Saul gerou Jônatas, Melquisua, Abinadab, Isbaal.",
+      "reference": "1Cr 9:39"
+    },
+    "40": {
+      "text": "Filho de Jônatas: Meribaal. Meribaal gerou Micas.",
+      "reference": "1Cr 9:40"
+    },
+    "41": {
+      "text": "Filhos de Micas: Fiton, Melec, Taraá.",
+      "reference": "1Cr 9:41"
+    },
+    "42": {
+      "text": "Aaz gerou Jara, Jara gerou Almat, Azmot e Zambri; Zambri gerou Mosa.",
+      "reference": "1Cr 9:42"
+    },
+    "43": {
+      "text": "Mosa gerou Banaá. \\par Rafaías, seu filho; Elasa, seu filho; Asel, seu filho.",
+      "reference": "1Cr 9:43"
+    },
+    "44": {
+      "text": "Asel teve seis filhos, cujos nomes são Ezricam, seu primogênito, Ismael, Sarias, Abdias, Hanã; esses são os filhos de Asel. \\par",
+      "reference": "1Cr 9:44"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 44
+}

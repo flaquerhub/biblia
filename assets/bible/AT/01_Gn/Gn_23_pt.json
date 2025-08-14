@@ -1,0 +1,93 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O túmulo dos Patriarcas\\par }A duração da vida de Sara foi de cento e vinte e sete anos,",
+      "reference": "Gn 23:1"
+    },
+    "2": {
+      "text": "e ela morreu em Cariat Arbe (que é Hebron), na terra de Canaã. Abraão veio cumprir o luto por Sara e chorá-la. \\par",
+      "reference": "Gn 23:2"
+    },
+    "3": {
+      "text": "Depois Abraão levantou-se diante de seu morto e falou assim aos filhos de Het:",
+      "reference": "Gn 23:3"
+    },
+    "4": {
+      "text": "“No meio de vós sou um estrangeiro e um residente. Concedei-me uma posse funerária, entre vós, para que leve meu morto e o enterre”.",
+      "reference": "Gn 23:4"
+    },
+    "5": {
+      "text": "Os filhos de Het deram esta resposta a Abraão:",
+      "reference": "Gn 23:5"
+    },
+    "6": {
+      "text": "“Meu senhor, ouve-nos! Tu és um príncipe de Deus entre nós; enterra teu morto na melhor de nossas sepulturas; ninguém te recusará sua sepultura a fim de que possas enterrar teu morto”. \\par",
+      "reference": "Gn 23:6"
+    },
+    "7": {
+      "text": "Abraão levantou-se e se inclinou diante dos homens da terra, os filhos de Het,",
+      "reference": "Gn 23:7"
+    },
+    "8": {
+      "text": "e assim lhes falou: “Se consentis que eu leve meu morto e o enterre, ouvi-me e intercedei por mim junto a Efron, filho de Seor,",
+      "reference": "Gn 23:8"
+    },
+    "9": {
+      "text": "a fim de que ele me ceda a gruta de Macpela, que lhe pertence e que está na extremidade de seu campo. Que ele ma dê por seu pleno valor, na vossa presença, como posse funerária”.",
+      "reference": "Gn 23:9"
+    },
+    "10": {
+      "text": "Ora, Efron estava sentado entre os filhos de Het, e Efron, o heteu, respondeu a Abraão, ouvindo-o os filhos de Het e todos os que entravam pela porta de sua cidade:",
+      "reference": "Gn 23:10"
+    },
+    "11": {
+      "text": "“Não, meu senhor, ouve-me! Eu te dou o campo e te dou também a gruta que nele está, faço-te este dom na presença dos filhos de meu povo. Enterra teu morto”. \\par",
+      "reference": "Gn 23:11"
+    },
+    "12": {
+      "text": "Abraão se inclinou diante dos homens da terra",
+      "reference": "Gn 23:12"
+    },
+    "13": {
+      "text": "e assim falou a Efron, diante dos homens da terra: “Se concordas, ouve-me, eu te peço! Darei o preço do campo, aceita-o de mim, e lá enterrarei meu morto”.",
+      "reference": "Gn 23:13"
+    },
+    "14": {
+      "text": "Efron respondeu a Abraão:",
+      "reference": "Gn 23:14"
+    },
+    "15": {
+      "text": "“Meu senhor, ouve-me; uma terra de quatrocentos siclos de prata, o que é isso entre mim e ti? Enterra teu morto”.",
+      "reference": "Gn 23:15"
+    },
+    "16": {
+      "text": "Abraão deu seu consentimento a Efron. Abraão pesou para Efron o dinheiro de que falara, diante dos filhos de Het: quatrocentos siclos de prata corrente entre os mercadores. \\par",
+      "reference": "Gn 23:16"
+    },
+    "17": {
+      "text": "Assim o campo de Efron, que está em Macpela, defronte de Mambré, o campo e a gruta que ali está, e todas as árvores que estão no campo, em seu limite,",
+      "reference": "Gn 23:17"
+    },
+    "18": {
+      "text": "passaram a ser propriedade de Abraão, diante dos filhos de Het, de todos os que entravam pela porta de sua cidade.",
+      "reference": "Gn 23:18"
+    },
+    "19": {
+      "text": "Em seguida Abraão enterrou Sara na gruta do campo de Macpela, defronte de Mambré (que é Hebron), na terra de Canaã.",
+      "reference": "Gn 23:19"
+    },
+    "20": {
+      "text": "Foi assim que o campo e a gruta que ali está foram adquiridos por Abraão dos filhos de Het, como posse funerária. \\par",
+      "reference": "Gn 23:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

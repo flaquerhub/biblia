@@ -1,0 +1,73 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. DESCRIÇÃO DAS TRÊS GRANDES TRIBOS A OESTE DO JORDÃO\\par }{\\qc\\b\\i Introdução\\par }Estas são as heranças que os filhos de Israel receberam na terra de Canaã, que lhes deram por herança o sacerdote Eleazar e Josué, filho de Nun, com os chefes de família das tribos dos filhos de Israel.",
+      "reference": "Js 14:1"
+    },
+    "2": {
+      "text": "Foi por sorte que receberam sua herança, conforme Iahweh havia ordenado por intermédio de Moisés, para as nove tribos e meia.",
+      "reference": "Js 14:2"
+    },
+    "3": {
+      "text": "Moisés já lhes havia dado herança, às duas tribos e meia, do outro lado do Jordão; mas aos levitas não havia dado herança entre eles.",
+      "reference": "Js 14:3"
+    },
+    "4": {
+      "text": "Os filhos de José, porém, formavam duas tribos, Manassés e Efraim, e não se deu na terra parte alguma aos levitas, senão cidades para nelas habitarem, com as pastagens para seu gado e a sua manutenção.",
+      "reference": "Js 14:4"
+    },
+    "5": {
+      "text": "Os filhos de Israel fizeram conforme Iahweh havia ordenado a Moisés, e dividiram a terra. \\par",
+      "reference": "Js 14:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i A parte de Caleb\\par }Os filhos de Judá vieram ter com Josué em Guilgal, e Caleb, filho de Jefoné, o cenezeu, lhe disse: “Bem sabes o que Iahweh disse a Moisés, homem de Deus, a meu e a teu respeito, em Cades Barne.",
+      "reference": "Js 14:6"
+    },
+    "7": {
+      "text": "Eu tinha quarenta anos quando Moisés, servo de Iahweh, me enviou de Cades Barne para espionar esta terra, e eu lhe fiz um relato sincero.",
+      "reference": "Js 14:7"
+    },
+    "8": {
+      "text": "Mas os irmãos que haviam subido comigo desencorajaram o povo, ao passo que eu obedeci perfeitamente a Iahweh meu Deus.",
+      "reference": "Js 14:8"
+    },
+    "9": {
+      "text": "Naquele dia, Moisés fez este juramento: ‘Certamente, a terra em que pisou o teu pé te pertencerá por herança, a ti e aos teus descendentes para sempre, porque obedecestes perfeitamente a Iahweh meu Deus’.",
+      "reference": "Js 14:9"
+    },
+    "10": {
+      "text": "Desde então, Iahweh me guardou com vida segundo sua promessa. Faz quarenta e cinco anos que Iahweh fez essa declaração a Moisés, quando Israel andava pelo deserto, e eis que agora estou com oitenta e cinco anos.",
+      "reference": "Js 14:10"
+    },
+    "11": {
+      "text": "Estou tão robusto hoje como no dia em que Moisés me confiou essa missão, minha força de hoje é como a minha força de então, para combater e para ir e vir.",
+      "reference": "Js 14:11"
+    },
+    "12": {
+      "text": "Agora, pois, que se me dê esta montanha de que me falou Iahweh naquele dia. Ouviste, naquele dia, que lá estavam os enacim e grandes cidades fortificadas; porém se Iahweh está comigo eu os expulsarei como disse Iahweh”. \\par",
+      "reference": "Js 14:12"
+    },
+    "13": {
+      "text": "Josué abençoou Caleb, filho de Jefoné, e lhe deu Hebron por herança.",
+      "reference": "Js 14:13"
+    },
+    "14": {
+      "text": "Assim Hebron permaneceu até hoje como herança de Caleb, filho de Jefoné, o cenezeu, porque seguiu sem desfalecimento Iahweh Deus de Israel. \\par",
+      "reference": "Js 14:14"
+    },
+    "15": {
+      "text": "Outrora, o nome de Hebron era Cariat-Arbe. Arbe era o maior homem entre os enacim.\\par E a terra descansou da guerra. \\par",
+      "reference": "Js 14:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

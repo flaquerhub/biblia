@@ -1,0 +1,137 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As classes dos sacerdotes\\par }Classes dos filhos de Aarão: filhos de Aarão: Nadab, Abiú, Eleazar e Itamar.",
+      "reference": "1Cr 24:1"
+    },
+    "2": {
+      "text": "Nadab e Abiú morreram na presença de seu pai, sem deixar filhos, e foram Eleazar e Itamar que se tornaram sacerdotes.",
+      "reference": "1Cr 24:2"
+    },
+    "3": {
+      "text": "Davi os dividiu em classes, bem como Sadoc, um dos filhos de Eleazar, e Aquimelec, um dos filhos de Itamar, e os recenseou segundo suas funções.",
+      "reference": "1Cr 24:3"
+    },
+    "4": {
+      "text": "Encontraram-se entre os filhos de Eleazar mais chefes que entre os filhos de Itamar; formaram-se dezesseis classes com os chefes de família dos filhos de Eleazar e oito com os chefes de família dos filhos de Itamar.",
+      "reference": "1Cr 24:4"
+    },
+    "5": {
+      "text": "Foram repartidos por sorte, tanto uns como os outros; e houve oficiais consagrados, oficiais de Deus, entre os filhos de Eleazar, como entre os filhos de Itamar.",
+      "reference": "1Cr 24:5"
+    },
+    "6": {
+      "text": "Um dos levitas, o escriba Semeías, filho de Natanael, inscreveu-os diante do rei, dos oficiais, do sacerdote Sadoc, de Aquimelec, filho de Abiatar, dos chefes de famílias sacerdotais e levíticas; tirava-se a sorte uma vez, para cada família dos filhos de Eleazar e de duas em duas vezes para os filhos de Itamar. \\par",
+      "reference": "1Cr 24:6"
+    },
+    "7": {
+      "text": "Joiarib foi o primeiro a ser sorteado, Jedeías o segundo,",
+      "reference": "1Cr 24:7"
+    },
+    "8": {
+      "text": "Harim o terceiro, Seorim o quarto,",
+      "reference": "1Cr 24:8"
+    },
+    "9": {
+      "text": "Melquias o quinto, Mainã o sexto,",
+      "reference": "1Cr 24:9"
+    },
+    "10": {
+      "text": "Acos o sétimo, Abias o oitavo,",
+      "reference": "1Cr 24:10"
+    },
+    "11": {
+      "text": "Jesua o nono, Sequenias o décimo,",
+      "reference": "1Cr 24:11"
+    },
+    "12": {
+      "text": "Eliasib o décimo primeiro, Jacim o décimo segundo,",
+      "reference": "1Cr 24:12"
+    },
+    "13": {
+      "text": "Hofa o décimo terceiro, Isbaal o décimo quarto,",
+      "reference": "1Cr 24:13"
+    },
+    "14": {
+      "text": "Belga o décimo quinto, Emer o décimo sexto,",
+      "reference": "1Cr 24:14"
+    },
+    "15": {
+      "text": "Hezir o décimo sétimo, Hafses o décimo oitavo,",
+      "reference": "1Cr 24:15"
+    },
+    "16": {
+      "text": "Fetatias o décimo nono, Ezequiel o vigésimo,",
+      "reference": "1Cr 24:16"
+    },
+    "17": {
+      "text": "Jaquin o vigésimo primeiro, Gamul o vigésimo segundo,",
+      "reference": "1Cr 24:17"
+    },
+    "18": {
+      "text": "Dalaías o vigésimo terceiro, Maazias o vigésimo quarto. \\par",
+      "reference": "1Cr 24:18"
+    },
+    "19": {
+      "text": "São esses os que foram escalados, segundo sua função, para entrarem no Templo de Iahweh, de acordo com o regulamento transmitido por Aarão, seu pai, como lho havia prescrito Iahweh, Deus de Israel. \\par",
+      "reference": "1Cr 24:19"
+    },
+    "20": {
+      "text": "Quanto aos outros filhos de Levi, os chefes foram: \\par Dos filhos de Amram: Subael. Dos filhos de Subael, Jeedias.",
+      "reference": "1Cr 24:20"
+    },
+    "21": {
+      "text": "Quanto a Roobias, dos filhos de Roobias o chefe era Jesias.",
+      "reference": "1Cr 24:21"
+    },
+    "22": {
+      "text": "Dos isaaritas, Solomot; dos filhos de Solomot, Jaat.",
+      "reference": "1Cr 24:22"
+    },
+    "23": {
+      "text": "Filhos de Hebron: Jerias o primeiro, Amarias o segundo, Jaaziel o terceiro, Jecmaam o quarto.",
+      "reference": "1Cr 24:23"
+    },
+    "24": {
+      "text": "Filhos de Oziel: Micas; dos filhos de Micas, Samir;",
+      "reference": "1Cr 24:24"
+    },
+    "25": {
+      "text": "irmão de Micas, Jesias; dos filhos de Jesias, Zacarias.",
+      "reference": "1Cr 24:25"
+    },
+    "26": {
+      "text": "Filhos de Merari: Mooli e Musi. Filhos de Jazias, seu filho;",
+      "reference": "1Cr 24:26"
+    },
+    "27": {
+      "text": "filhos de Merari da parte de Jazias, seu filho: Soam, Zacur, Hebri;",
+      "reference": "1Cr 24:27"
+    },
+    "28": {
+      "text": "de Mooli, Eleazar, que não teve filhos;",
+      "reference": "1Cr 24:28"
+    },
+    "29": {
+      "text": "de Cis: filho de Cis, Jerameel.",
+      "reference": "1Cr 24:29"
+    },
+    "30": {
+      "text": "Filhos de Musi: Mooli, Éder, Jerimot. \\par Foram esses os filhos de Levi, divididos segundo suas famílias.",
+      "reference": "1Cr 24:30"
+    },
+    "31": {
+      "text": "Como os filhos de Aarão, seus irmãos, eles sortearam na presença do rei Davi, de Sadoc, de Aquimelec e dos chefes de famílias sacerdotais e levíticas, tanto as famílias mais importantes como as menores. \\par",
+      "reference": "1Cr 24:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

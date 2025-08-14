@@ -1,0 +1,113 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. JUVENTUDE E VOCAÇÃO DE MOISÉS\\par }{\\qc\\b\\i O nascimento de Moisés\\par }Certo homem da casa de Levi for tomar por esposa uma descendente de Levi,",
+      "reference": "Ex 2:1"
+    },
+    "2": {
+      "text": "a qual concebeu e deu à luz um filho. Vendo que era bonito, escondeu-o por três meses.",
+      "reference": "Ex 2:2"
+    },
+    "3": {
+      "text": "E como não pudesse mais escondê-lo, tomou um cesto de papiro, calafetou-o com betume e pez, colocou dentro a criança e a expôs nos juncos, à beira do Rio.",
+      "reference": "Ex 2:3"
+    },
+    "4": {
+      "text": "De longe, uma irmã do menino observava o que lhe iria acontecer. \\par",
+      "reference": "Ex 2:4"
+    },
+    "5": {
+      "text": "Eis que a filha de Faraó desceu para se lavar no Rio, enquanto as suas criadas andavam à beira do Rio. Ela viu o cesto entre os juncos e mandou uma de suas servas apanhá-lo.",
+      "reference": "Ex 2:5"
+    },
+    "6": {
+      "text": "Abrindo-o, viu a criança: era um menino que chorava. Compadecida, disse: “É uma criança dos hebreus!”",
+      "reference": "Ex 2:6"
+    },
+    "7": {
+      "text": "Então a sua irmã disse à filha de Faraó: “Queres que eu vá e te chame uma mulher dos hebreus que possa criar esta criança?”",
+      "reference": "Ex 2:7"
+    },
+    "8": {
+      "text": "A filha de Faraó respondeu: “Vai”. Partiu, pois, a moça e chamou a mãe da criança.",
+      "reference": "Ex 2:8"
+    },
+    "9": {
+      "text": "A filha de Faraó lhe disse: “Leva esta criança e cria-ma e eu te darei a tua paga”. A mulher recebeu a criança e a criou.",
+      "reference": "Ex 2:9"
+    },
+    "10": {
+      "text": "Quando o menino cresceu, ela o entregou à filha de Faraó, a qual o adotou e lhe pôs o nome de Moisés, dizendo: “Eu o tirei das águas”. \\par",
+      "reference": "Ex 2:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A fuga de Moisés para Madiã\\par }Naqueles dias, Moisés, já crescido, saiu para ver os seus irmãos, e viu as tarefas que pesavam sobre eles; viu também um egípcio que feria um dos seus irmãos hebreus.",
+      "reference": "Ex 2:11"
+    },
+    "12": {
+      "text": "E como olhasse para uma e outra parte e visse que ninguém estava ali, matou o egípcio e o escondeu na areia.",
+      "reference": "Ex 2:12"
+    },
+    "13": {
+      "text": "No dia seguinte, voltou no momento em que dois hebreus estavam brigando, e disse ao agressor: “Por que feres o teu próximo?”",
+      "reference": "Ex 2:13"
+    },
+    "14": {
+      "text": "E ele respondeu: “Quem te constituiu nosso chefe e nosso juiz? Acaso queres matar-me como mataste ontem o egípcio?” Moisés teve medo e disse: “O fato já é conhecido!”",
+      "reference": "Ex 2:14"
+    },
+    "15": {
+      "text": "Faraó, tendo notícia do caso procurava matar Moisés. Mas este, fugindo da sua vista, retirou-se para a terra de Madiã e assentou-se junto a um poço. \\par",
+      "reference": "Ex 2:15"
+    },
+    "16": {
+      "text": "Ora, um sacerdote de Madiã tinha sete filhas. Elas, tendo vindo tirar água, depois de terem enchido os bebedouros queriam dar de beber ao rebanho de seu pai.",
+      "reference": "Ex 2:16"
+    },
+    "17": {
+      "text": "Sobrevieram uns pastores e as expulsaram dali. Então Moisés se levantou e defendendo as moças, deu de beber ao rebanho.",
+      "reference": "Ex 2:17"
+    },
+    "18": {
+      "text": "Elas voltaram para Ragüel, seu pai, e este lhes disse: “Por que voltastes mais cedo hoje?”",
+      "reference": "Ex 2:18"
+    },
+    "19": {
+      "text": "Responderam: “Um egípcio nos livrou da mão dos pastores e, além disso, tirou água conosco e deu de beber ao rebanho”.",
+      "reference": "Ex 2:19"
+    },
+    "20": {
+      "text": "–“Onde está ele?”, perguntou o pai. “Por que deixastes ir esse homem? Chamai-o para comer”.",
+      "reference": "Ex 2:20"
+    },
+    "21": {
+      "text": "Moisés decidiu ficar com ele, que deu a Moisés sua filha Séfora.",
+      "reference": "Ex 2:21"
+    },
+    "22": {
+      "text": "E ela deu à luz um filho, a quem ele chamou de Gersam, pois disse: “Sou um imigrante em terra estrangeira”. \\par",
+      "reference": "Ex 2:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b VOCAÇÃO DE MOISÉS\\par }{\\qc\\b\\i Deus lembra-se de Israel\\par }Muito tempo depois morreu o rei do Egito, e os filhos de Israel, gemendo sob o peso da servidão, clamaram; e do fundo da servidão o seu clamor subiu até Deus.",
+      "reference": "Ex 2:23"
+    },
+    "24": {
+      "text": "E Deus ouviu os seus gemidos; Deus lembrou-se da sua Aliança com Abraão, Isaac e Jacó.",
+      "reference": "Ex 2:24"
+    },
+    "25": {
+      "text": "Deus viu os filhos de Israel, e Deus conheceu... \\par",
+      "reference": "Ex 2:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

@@ -1,0 +1,161 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i De Cades ao Arnon\\par }Viramo-nos, então, partindo para o deserto, a caminho do mar de Suf, conforme Iahweh me ordenara. E durante muitos dias contornamos a montanha de Seir.",
+      "reference": "Dt 2:1"
+    },
+    "2": {
+      "text": "E Iahweh me disse:",
+      "reference": "Dt 2:2"
+    },
+    "3": {
+      "text": "‘Já rodeastes bastante esta montanha. Dirigi-vos para o norte!",
+      "reference": "Dt 2:3"
+    },
+    "4": {
+      "text": "Ordena ao povo: Vós estais passando pelas fronteiras dos vossos irmãos, os filhos de Esaú, que habitam em Seir. Eles vos temem, de modo que deveis ter muito cuidado:",
+      "reference": "Dt 2:4"
+    },
+    "5": {
+      "text": "não os ataqueis, pois nada vos darei da terra deles, nem sequer um pé do seu território; foi a Esaú que eu dei a montanha de Seir como propriedade.",
+      "reference": "Dt 2:5"
+    },
+    "6": {
+      "text": "Comprareis deles o alimento para comer, a preço de dinheiro; e também comprareis deles, a preço de dinheiro, a água para beber.",
+      "reference": "Dt 2:6"
+    },
+    "7": {
+      "text": "Pois Iahweh teu Deus te abençoou em todo trabalho da tua mão; ele acompanhou a tua caminhada por este grande deserto. Eis que durante quarenta anos Iahweh teu Deus esteve contigo e coisa alguma te faltou!’ \\par",
+      "reference": "Dt 2:7"
+    },
+    "8": {
+      "text": "Cruzamos o território dos nossos irmãos, os filhos de Esaú que habitam em Seir, e passamos pelo caminho da Arabá, de Elat e de Asiongaber. Depois viramo-nos, tomando o caminho do deserto de Moab.",
+      "reference": "Dt 2:8"
+    },
+    "9": {
+      "text": "Disse-me então Iahweh: ‘Não ataques Moab e não o provoques à luta, pois nada te darei da sua região. Eu dei Ar como propriedade aos filhos de Ló.",
+      "reference": "Dt 2:9"
+    },
+    "10": {
+      "text": "(Outrora os emim aí habitavam; eram um povo grande, numeroso e de alta estatura como os enacim.",
+      "reference": "Dt 2:10"
+    },
+    "11": {
+      "text": "Eram considerados como rafaim, assim como os enacim; os moabitas, porém, chamam-nos de emim.",
+      "reference": "Dt 2:11"
+    },
+    "12": {
+      "text": "Em Seir habitavam outrora os horreus; os filhos de Esaú, porém, os desalojaram e exterminaram, habitando no seu lugar, assim como Israel fez para se apossar da terra que Iahweh lhe dera.)",
+      "reference": "Dt 2:12"
+    },
+    "13": {
+      "text": "E agora, levantai acampamento e atravessai o ribeiro de Zared!’ \\par Atravessamos então o ribeiro de Zared.",
+      "reference": "Dt 2:13"
+    },
+    "14": {
+      "text": "De Cades Barne até à travessia do ribeiro de Zared nossa caminhada durou trinta e oito anos, até que se extinguisse do acampamento toda a geração de homens capacitados para a guerra, conforme Iahweh lhes tinha jurado.",
+      "reference": "Dt 2:14"
+    },
+    "15": {
+      "text": "A mão de Iahweh estava contra eles, eliminando-os do acampamento até à sua completa extinção. \\par",
+      "reference": "Dt 2:15"
+    },
+    "16": {
+      "text": "Quando todos os homens capacitados para a guerra se extinguiram do meio do povo, pela morte,",
+      "reference": "Dt 2:16"
+    },
+    "17": {
+      "text": "Iahweh me falou:",
+      "reference": "Dt 2:17"
+    },
+    "18": {
+      "text": "‘Hoje estás atravessando Ar, na fronteira de Moab,",
+      "reference": "Dt 2:18"
+    },
+    "19": {
+      "text": "e te aproximas dos filhos de Amon: não os ataques e não os provoques, pois nada te darei da terra dos filhos de Amon para possuir; foi aos filhos de Ló que eu a dei como propriedade.",
+      "reference": "Dt 2:19"
+    },
+    "20": {
+      "text": "(Era também considerada como terra dos rafaim; outrora os rafaim a habitavam, sendo que os amonitas chamavam-nos de zomzomim;",
+      "reference": "Dt 2:20"
+    },
+    "21": {
+      "text": "era um povo grande e numeroso, de estatura alta como os enacim; Iahweh, porém, exterminou-os da frente dos amonitas, que os desalojaram para habitar em seu lugar,",
+      "reference": "Dt 2:21"
+    },
+    "22": {
+      "text": "como fizera para os filhos de Esaú que habitam em Seir, exterminando os horreus da frente deles; eles desalojaram-nos e habitam no seu lugar até hoje.",
+      "reference": "Dt 2:22"
+    },
+    "23": {
+      "text": "Quanto aos aveus que habitavam nos campos até Gaza, os caftorim saíram de Cáftor e os exterminaram habitando depois em seu lugar).",
+      "reference": "Dt 2:23"
+    },
+    "24": {
+      "text": "Vamos! Levantai acampamento e atravessai o ribeiro Arnon. Eis que entrego em tua mão a Seon, rei de Hesebon, o amorreu, com sua terra. Começa a conquista! Provoca-o à luta!",
+      "reference": "Dt 2:24"
+    },
+    "25": {
+      "text": "A partir de hoje começo a espalhar o terror e o medo de ti em meio aos povos que existem sob o céu. Eles ouvirão a tua fama, tremerão de medo diante de ti e desfalecerão’. \\par",
+      "reference": "Dt 2:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i Conquista do reino de Seon\\par }Do deserto de Cademot enviei mensageiros a Seon, rei de Hesebon, com esta mensagem de paz:",
+      "reference": "Dt 2:26"
+    },
+    "27": {
+      "text": "‘Deixa-me passar por tua terra; seguirei sempre pelo caminho, sem me desviar para a direita ou para a esquerda.",
+      "reference": "Dt 2:27"
+    },
+    "28": {
+      "text": "Quanto ao alimento, tu o venderás a mim por dinheiro, e assim eu comerei; e também vender-me-ás por dinheiro a água para eu beber. Permite-me apenas atravessar a pé –",
+      "reference": "Dt 2:28"
+    },
+    "29": {
+      "text": "como no-lo permitiram os filhos de Esaú que habitam em Seir e os moabitas que habitam em Ar –, até que eu atravesse o Jordão, em direção à terra que Iahweh nosso Deus nos dará’. \\par",
+      "reference": "Dt 2:29"
+    },
+    "30": {
+      "text": "Seon, rei de Hesebon, todavia, não permitiu que passássemos pelo seu território, porque Iahweh teu Deus tornou o seu espírito obstinado e endureceu o seu coração, a fim de entregá-lo em tua mão, como hoje se vê.",
+      "reference": "Dt 2:30"
+    },
+    "31": {
+      "text": "Disse-me então Iahweh: ‘Eis que já comecei a entregar-te Seon, juntamente com sua terra. Começa a conquista para tomar posse da sua terra!’",
+      "reference": "Dt 2:31"
+    },
+    "32": {
+      "text": "Seon saiu ao nosso encontro com todo o seu povo, para batalhar em Jasa.",
+      "reference": "Dt 2:32"
+    },
+    "33": {
+      "text": "Iahweh nosso Deus no-lo entregou e nós o vencemos, bem como seus filhos e todo o seu povo.",
+      "reference": "Dt 2:33"
+    },
+    "34": {
+      "text": "Apossamo-nos então de todas as suas cidades e sacrificamos cada uma delas como anátema: homens, mulheres e crianças, sem deixar nenhum sobrevivente,",
+      "reference": "Dt 2:34"
+    },
+    "35": {
+      "text": "exceto o gado, que tomamos para nós como despojo, como também o saque das cidades que conquistamos.",
+      "reference": "Dt 2:35"
+    },
+    "36": {
+      "text": "Desde Aroer, que está à margem do vale do Arnon, com a cidade que está dentro do vale, até Galaad, não houve cidade inexpugnável para nós; Iahweh nosso Deus no-las entregou todas.",
+      "reference": "Dt 2:36"
+    },
+    "37": {
+      "text": "Somente da terra dos amonitas não te aproximaste, isto é, de toda a região do vale do Jaboc e das cidades da montanha, e de tudo o que Iahweh nosso Deus nos tinha proibido. \\par",
+      "reference": "Dt 2:37"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 37
+}

@@ -1,0 +1,77 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A pregação de Paulo em Corinto\\par }Eu mesmo, quando fui ter convosco, irmãos, não me apresentei com o prestígio da palavra ou da sabedoria para vos anunciar o mistério de Deus.",
+      "reference": "1Co 2:1"
+    },
+    "2": {
+      "text": "Pois não quis saber outra coisa entre vós a não ser Jesus Cristo, e Jesus Cristo crucificado.",
+      "reference": "1Co 2:2"
+    },
+    "3": {
+      "text": "Estive entre vós cheio de fraqueza, receio e tremor;",
+      "reference": "1Co 2:3"
+    },
+    "4": {
+      "text": "minha palavra e minha pregação nada tinham da persuasiva linguagem da sabedoria, mas eram uma demonstração de Espírito e poder,",
+      "reference": "1Co 2:4"
+    },
+    "5": {
+      "text": "a fim de que a vossa fé não se baseie sobre a sabedoria dos homens, mas sobre o poder de Deus. \\par",
+      "reference": "1Co 2:5"
+    },
+    "6": {
+      "text": "No entanto, é realmente de sabedoria que falamos entre os perfeitos, sabedoria que não é deste mundo nem dos príncipes deste mundo, votados à destruição.",
+      "reference": "1Co 2:6"
+    },
+    "7": {
+      "text": "Ensinamos a sabedoria de Deus, misteriosa e oculta, que Deus, antes dos séculos, de antemão destinou para a nossa glória.",
+      "reference": "1Co 2:7"
+    },
+    "8": {
+      "text": "Nenhum dos príncipes deste mundo a conheceu, pois, se a tivessem conhecido, não teriam crucificado o Senhor da Glória.",
+      "reference": "1Co 2:8"
+    },
+    "9": {
+      "text": "Mas, como está escrito: \\par {\\i o que os olhos não viram, \\par os ouvidos não ouviram \\par e o coração do homem não percebeu, \\par isso Deus preparou para aqueles que o amam.}\\par",
+      "reference": "1Co 2:9"
+    },
+    "10": {
+      "text": "A nós, porém, Deus o revelou pelo Espírito. Pois o Espírito sonda todas as coisas, até mesmo as profundidades de Deus.",
+      "reference": "1Co 2:10"
+    },
+    "11": {
+      "text": "Quem, pois, dentre os homens conhece o que é do homem, senão o espírito do homem que nele está? Da mesma forma, o que está em Deus, ninguém o conhece senão o Espírito de Deus.",
+      "reference": "1Co 2:11"
+    },
+    "12": {
+      "text": "Quanto a nós, não recebemos o espírito do mundo, mas o Espírito que vem de Deus, a fim de que conheçamos os dons da graça de Deus.",
+      "reference": "1Co 2:12"
+    },
+    "13": {
+      "text": "Desses dons não falamos segundo a linguagem ensinada pela sabedoria humana, mas segundo aquela que o Espírito ensina, exprimindo realidades espirituais em termos espirituais.",
+      "reference": "1Co 2:13"
+    },
+    "14": {
+      "text": "O homem psíquico não aceita o que vem do Espírito de Deus. É loucura para ele; não pode compreender, pois isso deve ser julgado espiritualmente.",
+      "reference": "1Co 2:14"
+    },
+    "15": {
+      "text": "O homem espiritual, ao contrário, julga a respeito de tudo e por ninguém é julgado. \\par",
+      "reference": "1Co 2:15"
+    },
+    "16": {
+      "text": "Pois {\\i quem conheceu o pensamento do Senhor \\par para poder instruí-lo?} \\par Nós, porém, temos o pensamento de Cristo. \\par",
+      "reference": "1Co 2:16"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 16
+}

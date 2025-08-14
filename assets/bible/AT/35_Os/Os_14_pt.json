@@ -1,0 +1,53 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "Samaria deverá expiar, \\par porque se revoltou contra o seu Deus. \\par Cairão pela espada, \\par seus filhos serão esmagados, \\par às suas mulheres grávidas serão abertos os ventres. \\par",
+      "reference": "Os 14:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b {\\i III. Conversão e renovação de Israel}\\par }{\\qc\\b\\i Retorno sincero de Israel a Iahweh\\par }Volta, Israel a Iahweh, teu Deus, \\par pois tropeçaste em tua falta. \\par",
+      "reference": "Os 14:2"
+    },
+    "3": {
+      "text": "Tomai convosco palavras \\par e voltai a Iahweh; \\par dizei-lhe: “Perdoa toda culpa, \\par aceita o que é bom. \\par Em lugar de touros \\par nós queremos oferecer nossos lábios. \\par",
+      "reference": "Os 14:3"
+    },
+    "4": {
+      "text": "A Assíria não nos salvará, \\par não montaremos a cavalo \\par e não diremos mais ‘Nosso Deus!’ à obra de nossas mãos, \\par porque é em ti que o órfão encontra misericórdia”. \\par",
+      "reference": "Os 14:4"
+    },
+    "5": {
+      "text": "Eu curarei a sua apostasia, \\par eu os amarei com generosidade, \\par pois a minha ira afastou-se dele. \\par",
+      "reference": "Os 14:5"
+    },
+    "6": {
+      "text": "Eu serei como o orvalho para Israel, \\par ele florescerá como o lírio, \\par lançará suas raízes como o cedro do Líbano; \\par",
+      "reference": "Os 14:6"
+    },
+    "7": {
+      "text": "seus galhos se espalharão, \\par seu esplendor será como o da oliveira \\par e seu perfume como o do Líbano. \\par",
+      "reference": "Os 14:7"
+    },
+    "8": {
+      "text": "Voltarão a sentar-se à minha sombra; \\par farão reviver o trigo, \\par florescerão como videira, \\par sua lembrança será como a do vinho do Líbano. \\par",
+      "reference": "Os 14:8"
+    },
+    "9": {
+      "text": "Efraim! Que tem ainda a ver com os ídolos? \\par Sou eu quem lhe responde e quem olha para ele. \\par Eu sou como um cipreste verdejante, \\par é de mim que procede o teu fruto. \\par",
+      "reference": "Os 14:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Advertência final\\par }Quem é sábio compreenda isto, \\par quem é inteligente reconheça-o! \\par Porque os caminhos de Iahweh são retos \\par e os justos caminharão neles. \\par Mas os rebeldes neles tropeçarão. \\par",
+      "reference": "Os 14:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

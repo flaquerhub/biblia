@@ -1,0 +1,85 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Prece do justo perseguido}\\par }{\\qc\\i Lamentação. De Davi. Ele a cantou para Iahweh, a propósito de Cuch, o benjaminita.\\par }",
+      "reference": "Sl 7:1"
+    },
+    "2": {
+      "text": "Iahweh, meu Deus, eu me abrigo em ti! \\par Salva-me de meus perseguidores todos! Liberta-me! \\par",
+      "reference": "Sl 7:2"
+    },
+    "3": {
+      "text": "Que não me apanhem, como um leão, \\par e me dilacerem, e ninguém me liberte! \\par",
+      "reference": "Sl 7:3"
+    },
+    "4": {
+      "text": "Iahweh, meu Deus, se eu fiz algo...\\par se em minhas mãos há injustiça, \\par",
+      "reference": "Sl 7:4"
+    },
+    "5": {
+      "text": "se paguei com o mal ao meu benfeitor, \\par se poupei sem razão o meu opressor, \\par",
+      "reference": "Sl 7:5"
+    },
+    "6": {
+      "text": "que o inimigo me persiga e alcance! \\par Que me pisoteie vivo por terra \\par e atire meu ventre contra a poeira! \\par",
+      "reference": "Sl 7:6"
+    },
+    "7": {
+      "text": "Levanta-te com tua ira, Iahweh! \\par Ergue-te contra o excesso dos meus opressores! \\par Desperta-te, Deus meu! \\par Decreta um julgamento! \\par",
+      "reference": "Sl 7:7"
+    },
+    "8": {
+      "text": "Que a assembléia dos povos te cerque; \\par assenta-te sobre ela, no mais alto. \\par",
+      "reference": "Sl 7:8"
+    },
+    "9": {
+      "text": "(Iahweh é o juiz dos povos.) \\par Julga-me, Iahweh, conforme a minha justiça, \\par e segundo a minha integridade. \\par",
+      "reference": "Sl 7:9"
+    },
+    "10": {
+      "text": "Põe fim à maldade dos ímpios \\par e confirma o justo, \\par pois tu sondas os corações e os rins,\\par Deus justo! \\par",
+      "reference": "Sl 7:10"
+    },
+    "11": {
+      "text": "O escudo que me cobre é Deus, \\par o salvador dos corações retos. \\par",
+      "reference": "Sl 7:11"
+    },
+    "12": {
+      "text": "Deus é um justo juiz, \\par lento para a cólera, \\par mas é Deus que ameaça a cada dia, \\par",
+      "reference": "Sl 7:12"
+    },
+    "13": {
+      "text": "caso não se convertam. \\par O inimigo afia sua espada, \\par retesa o arco e aponta; \\par",
+      "reference": "Sl 7:13"
+    },
+    "14": {
+      "text": "mas é para si que faz armas de morte \\par e fabrica suas flechas flamejantes. \\par",
+      "reference": "Sl 7:14"
+    },
+    "15": {
+      "text": "Ei-lo gerando a iniqüidade: \\par concebe a maldade e dá à luz a mentira. \\par",
+      "reference": "Sl 7:15"
+    },
+    "16": {
+      "text": "Ele cava e aprofunda um buraco, \\par mas cai na cova que fez. \\par",
+      "reference": "Sl 7:16"
+    },
+    "17": {
+      "text": "Sua maldade se volta contra ele, \\par sobre o crânio lhe cai a própria violência. \\par",
+      "reference": "Sl 7:17"
+    },
+    "18": {
+      "text": "Eu agradeço a Iahweh pela sua justiça, \\par e toco ao nome do Altíssimo. \\par",
+      "reference": "Sl 7:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

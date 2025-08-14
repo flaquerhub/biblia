@@ -1,0 +1,89 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Prudência e reflexão\\par }Não lutes com um grande, \\par para não caíres em suas mãos. \\par",
+      "reference": "Eclo 8:1"
+    },
+    "2": {
+      "text": "Não contendas com um rico, \\par para que não oponha a ti o seu peso, \\par porque o ouro perdeu a muitos \\par e seduziu o coração dos reis. \\par",
+      "reference": "Eclo 8:2"
+    },
+    "3": {
+      "text": "Não discutas com um falador, \\par não amontoes lenha ao fogo. \\par",
+      "reference": "Eclo 8:3"
+    },
+    "4": {
+      "text": "Não brinques com um mal-educado, \\par para que os teus antepassados não sejam desonrados. \\par",
+      "reference": "Eclo 8:4"
+    },
+    "5": {
+      "text": "Não desprezes o homem que abandonou o pecado, \\par lembra-te de que todos somos culpáveis. \\par",
+      "reference": "Eclo 8:5"
+    },
+    "6": {
+      "text": "Não desprezes um homem em sua velhice, \\par porque muitos de nós envelheceremos. \\par",
+      "reference": "Eclo 8:6"
+    },
+    "7": {
+      "text": "Não te alegres com uma morte: \\par lembra-te de que todos morrerão. \\par",
+      "reference": "Eclo 8:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Tradição\\par }Não desprezes o discurso dos sábios, \\par volta sempre às suas sentenças, \\par pois é deles que aprenderás a disciplina \\par e a arte de servir os poderosos. \\par",
+      "reference": "Eclo 8:8"
+    },
+    "9": {
+      "text": "Não te afastes do discurso dos anciãos, \\par porque eles mesmos aprenderam de seus pais, \\par e é deles que aprenderás o entendimento, \\par para responderes no tempo oportuno. \\par",
+      "reference": "Eclo 8:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i A prudência\\par }Não acendas o carvão do pecador, \\par para não seres queimado na sua chama. \\par",
+      "reference": "Eclo 8:10"
+    },
+    "11": {
+      "text": "Não te exaltes na presença de um violento, \\par para que não seja armada uma emboscada à tua boca. \\par",
+      "reference": "Eclo 8:11"
+    },
+    "12": {
+      "text": "Não emprestes a um homem mais forte do que tu: \\par se emprestaste, considera-o como perdido. \\par",
+      "reference": "Eclo 8:12"
+    },
+    "13": {
+      "text": "Não te tornes fiador além dos teus recursos: \\par se já o és, pensa como pagarás. \\par",
+      "reference": "Eclo 8:13"
+    },
+    "14": {
+      "text": "Não litigues contra um juiz, \\par porque decidirão a favor dele. \\par",
+      "reference": "Eclo 8:14"
+    },
+    "15": {
+      "text": "Não caminhes pela estrada com um aventureiro, \\par para não agravares teus males, \\par porque ele agirá segundo a sua vontade \\par e te perderás com ele por causa de sua loucura. \\par",
+      "reference": "Eclo 8:15"
+    },
+    "16": {
+      "text": "Não disputes com um violento, \\par não andes com ele pelo deserto, \\par pois, a seus olhos, o sangue é como nada \\par e lá onde não há socorro ele te matará. \\par",
+      "reference": "Eclo 8:16"
+    },
+    "17": {
+      "text": "Não confidencies com um ingênuo, \\par pois ele não é capaz de guardar uma só palavra. \\par",
+      "reference": "Eclo 8:17"
+    },
+    "18": {
+      "text": "Diante de um estranho não faças nada que deva ficar oculto, \\par porque não sabes o que ele divulgará. \\par",
+      "reference": "Eclo 8:18"
+    },
+    "19": {
+      "text": "Não abras o teu coração a quem quer que seja \\par e não pretendas obter suas boas graças. \\par",
+      "reference": "Eclo 8:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

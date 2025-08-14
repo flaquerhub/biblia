@@ -1,0 +1,45 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 121,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 121 (120)\\par }{\\qc\\b\\i O guarda de Israel\\par }{\\qc\\i Cântico para as subidas. \\par } Ergo os olhos aos montes: \\par de onde virá meu socorro? \\par",
+      "reference": "Sl 121:1"
+    },
+    "2": {
+      "text": "O meu socorro vem de Iahweh, \\par que fez o céu e a terra. \\par",
+      "reference": "Sl 121:2"
+    },
+    "3": {
+      "text": "Não te deixará tropeçar, \\par o teu guarda jamais dormirá! \\par",
+      "reference": "Sl 121:3"
+    },
+    "4": {
+      "text": "Sim, não dorme nem cochila \\par o guarda de Israel. \\par",
+      "reference": "Sl 121:4"
+    },
+    "5": {
+      "text": "Iahweh é teu guarda, tua sombra, \\par Iahweh está à tua direita. \\par",
+      "reference": "Sl 121:5"
+    },
+    "6": {
+      "text": "De dia o sol não te ferirá \\par nem a lua de noite. \\par",
+      "reference": "Sl 121:6"
+    },
+    "7": {
+      "text": "Iahweh te guarda de todo o mal, \\par ele guarda a tua vida: \\par",
+      "reference": "Sl 121:7"
+    },
+    "8": {
+      "text": "Iahweh guarda a tua partida e chegada, \\par desde agora e para sempre. \\par",
+      "reference": "Sl 121:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

@@ -1,0 +1,69 @@
+{
+  "book": 67,
+  "book_name": "Tobias",
+  "book_abbr": "Tb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Tobit",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. O cego}\\par }No reinado de Asaradon, pude voltar para minha casa e foi-me devolvida minha esposa Ana com meu filho Tobias. Em nossa festa de Pentecostes (a festa das Semanas), foi-me preparado um excelente almoço e reclinei-me para comer.",
+      "reference": "Tb 2:1"
+    },
+    "2": {
+      "text": "Quando puseram a mesa, com numerosos pratos, disse a meu filho Tobias: “Filho, vai procurar, entre os nossos irmãos deportados em Nínive, algum pobre de coração fiel, e traze-o aqui para comer conosco. Esperar-te-ei até que voltes, meu filho”.",
+      "reference": "Tb 2:2"
+    },
+    "3": {
+      "text": "Saiu, pois, Tobias à procura de algum pobre dentre nossos irmãos e quando regressou, disse: “Meu pai!” Respondi: “E então, filho?” Continuou Tobias: “Pai, há um homem do nosso povo que acaba de ser assassinado; foi estrangulado e depois lançado na praça do mercado e ainda está lá”.",
+      "reference": "Tb 2:3"
+    },
+    "4": {
+      "text": "Levantei-me imediatamente, deixei meu prato intato, fui tirar o homem da praça e o coloquei num quarto, esperando o pôr-do-sol para enterrá-lo.",
+      "reference": "Tb 2:4"
+    },
+    "5": {
+      "text": "Tornei a entrar, lavei-me e tomei a refeição na tristeza,",
+      "reference": "Tb 2:5"
+    },
+    "6": {
+      "text": "recordando-me das palavras que disse o profeta Amós contra Betel: \\par {\\i Vossas festas se converterão em luto \\par e todos os vossos cânticos em lamentações.}\\par",
+      "reference": "Tb 2:6"
+    },
+    "7": {
+      "text": "E eu chorei. Depois, quando o sol se pôs, saí, cavei uma fossa e o sepultei.",
+      "reference": "Tb 2:7"
+    },
+    "8": {
+      "text": "Os meus vizinhos diziam, rindo de mim: “Ele já não tem mais medo”. (É preciso lembrar que minha cabeça já fora posta a prêmio por tal motivo.) “Na primeira vez ele fugiu; e no entanto, ei-lo de novo a sepultar os mortos!” \\par",
+      "reference": "Tb 2:8"
+    },
+    "9": {
+      "text": "Naquela noite, tomei banho e fui para o pátio da casa e deitei-me junto ao muro do pátio, com o rosto descoberto por causa do calor.",
+      "reference": "Tb 2:9"
+    },
+    "10": {
+      "text": "Não reparei que havia pardais acima de mim no muro. Caiu-me nos olhos excremento quente, produzindo neles manchas brancas. Fui aos médicos para me tratar; mas quanto mais me aplicavam pomadas, mais as manchas me cegavam, até que fiquei completamente cego. Fiquei cego durante quatro anos, e todos os meus irmãos se afligiam por minha causa; e Aicar cuidou do meu sustento por dois anos, até que partiu para Elimaida. \\par",
+      "reference": "Tb 2:10"
+    },
+    "11": {
+      "text": "Naquela ocasião, minha mulher Ana começou a trabalhar como operária; fiava lã e recebia tela para tecer;",
+      "reference": "Tb 2:11"
+    },
+    "12": {
+      "text": "ela a entregava aos fregueses e estes lhes pagavam o preço. Ora no sétimo dia do mês de Distros, ela acabou uma encomenda e entregou-a aos fregueses; estes lhe pagaram o preço inteiro e ainda lhe deram um cabrito para um almoço.",
+      "reference": "Tb 2:12"
+    },
+    "13": {
+      "text": "Ao entrar em minha casa, o cabrito começou a balir. Chamei então minha esposa e perguntei-lhe: “Donde vem este cabrito? Não terá sido roubado? Devolve-o a seus donos, porque não podemos comer coisa roubada”.",
+      "reference": "Tb 2:13"
+    },
+    "14": {
+      "text": "Ela me disse: “É um presente que me foi dado além do meu salário!” Mas não acreditei nela e ordenei-lhe que o devolvesse a seus donos, envergonhando-me por causa dela. Então ela replicou: “Onde estão as tuas esmolas? Onde estão as tuas boas obras? Todos sabem o que isso te trouxe!” \\par",
+      "reference": "Tb 2:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

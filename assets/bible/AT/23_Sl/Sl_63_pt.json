@@ -1,0 +1,61 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 63,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 63 (62)\\par }{\\qc\\b\\i Desejo de Deus\\par }{\\qc\\i Salmo. De Davi. Quando estava no deserto de Judá. \\par }",
+      "reference": "Sl 63:1"
+    },
+    "2": {
+      "text": "Ó Deus, tu és o meu Deus, eu te procuro. \\par Minha alma tem sede de ti, \\par minha carne te deseja com ardor, \\par como terra seca, esgotada, sem água. \\par",
+      "reference": "Sl 63:2"
+    },
+    "3": {
+      "text": "Sim, eu te contemplava no santuário, \\par vendo teu poder e tua glória. \\par",
+      "reference": "Sl 63:3"
+    },
+    "4": {
+      "text": "Valendo teu amor mais que a vida, \\par meus lábios te glorificarão. \\par",
+      "reference": "Sl 63:4"
+    },
+    "5": {
+      "text": "Assim, vou-te bendizer em toda a minha vida, \\par e em teu nome levantar as minhas mãos; \\par",
+      "reference": "Sl 63:5"
+    },
+    "6": {
+      "text": "eu me saciarei como de óleo e gordura, \\par e com alegria nos lábios minha boca te louvará. \\par",
+      "reference": "Sl 63:6"
+    },
+    "7": {
+      "text": "Quando te recordo no meu leito, \\par passo vigílias meditando em ti; \\par",
+      "reference": "Sl 63:7"
+    },
+    "8": {
+      "text": "pois foste um socorro para mim, \\par e, à sombra de tuas asas, eu grito de alegria; \\par",
+      "reference": "Sl 63:8"
+    },
+    "9": {
+      "text": "minha vida está ligada a ti, \\par e tua direita me sustenta. \\par",
+      "reference": "Sl 63:9"
+    },
+    "10": {
+      "text": "Quanto aos que me querem destruir, \\par irão para as profundezas da terra; \\par",
+      "reference": "Sl 63:10"
+    },
+    "11": {
+      "text": "serão entregues à espada, \\par e vão tornar-se pasto dos chacais. \\par",
+      "reference": "Sl 63:11"
+    },
+    "12": {
+      "text": "Mas o rei vai alegrar-se em Deus; \\par quem por ele jura se felicitará, \\par pois a boca dos mentirosos será fechada. \\par",
+      "reference": "Sl 63:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

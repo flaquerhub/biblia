@@ -1,0 +1,101 @@
+{
+  "book": 8,
+  "book_name": "Rute",
+  "book_abbr": "Rt",
+  "book_category": "Histórico",
+  "book_english": "Ruth",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b RUTE E NOEMI\\par }No tempo em que os Juízes governavam, houve uma fome no país e um homem de Belém de Judá foi morar nos Campos de Moab, com sua mulher e seus dois filhos.",
+      "reference": "Rt 1:1"
+    },
+    "2": {
+      "text": "Esse homem chamava-se Elimelec, sua mulher, Noemi, e seus dois filhos, Maalon e Quelion; eram efrateus, de Belém de Judá. Chegando aos Campos de Moab, ali se estabeleceram.",
+      "reference": "Rt 1:2"
+    },
+    "3": {
+      "text": "Morreu Elimelec, marido de Noemi, e esta ficou só com seus dois filhos.",
+      "reference": "Rt 1:3"
+    },
+    "4": {
+      "text": "Eles tomaram por esposas mulheres moabitas, uma chamada Orfa, e a outra, Rute. Permaneceram lá uns dez anos.",
+      "reference": "Rt 1:4"
+    },
+    "5": {
+      "text": "Depois morreram também os dois, Maalon e Quelion, e Noemi ficou sozinha, sem filhos nem marido.",
+      "reference": "Rt 1:5"
+    },
+    "6": {
+      "text": "Então, com suas noras, preparou-se para voltar dos Campos de Moab, pois ficara sabendo nos Campos de Moab que Iahweh visitara seu povo dando-lhe pão.",
+      "reference": "Rt 1:6"
+    },
+    "7": {
+      "text": "Saiu, pois, com suas noras, do lugar onde tinha morado e puseram-se a caminho para voltar à terra de Judá. \\par",
+      "reference": "Rt 1:7"
+    },
+    "8": {
+      "text": "Noemi disse a suas duas noras: “Ide e voltai cada qual para a casa de sua mãe. Que Iahweh vos trate com a mesma bondade com que tratastes os que morreram e a mim mesma!",
+      "reference": "Rt 1:8"
+    },
+    "9": {
+      "text": "Que Iahweh conceda a cada uma de vós encontrar descanso na casa de um marido!” Abraçou-as, mas elas choravam em alta voz,",
+      "reference": "Rt 1:9"
+    },
+    "10": {
+      "text": "dizendo: “Não! Vamos voltar contigo para junto de teu povo”.",
+      "reference": "Rt 1:10"
+    },
+    "11": {
+      "text": "Noemi respondeu-lhes: “Voltai, minhas filhas; por que haveríeis de vir comigo? Porventura trago ainda em meu seio filhos que possam vir a ser vossos maridos?",
+      "reference": "Rt 1:11"
+    },
+    "12": {
+      "text": "Voltai, minhas filhas, parti, pois estou velha demais para tornar a casar-me! E mesmo que eu dissesse: ‘Ainda existe para mim esperança: esta noite mesmo estarei com meu marido e terei filhos’,",
+      "reference": "Rt 1:12"
+    },
+    "13": {
+      "text": "esperaríeis por eles até que crescessem? Renunciaríeis ao matrimônio? Não, minhas filhas! É grande a minha amargura por vossa causa, pois a mão de Iahweh pesa sobre mim”.",
+      "reference": "Rt 1:13"
+    },
+    "14": {
+      "text": "Elas choraram novamente em alta voz; depois Orfa abraçou sua sogra e voltou para junto de seu povo, mas Rute ficou em sua companhia. \\par",
+      "reference": "Rt 1:14"
+    },
+    "15": {
+      "text": "Disse-lhe então Noemi: “Olha, tua cunhada voltou para junto do seu povo e para seu deus; volta também com ela”.",
+      "reference": "Rt 1:15"
+    },
+    "16": {
+      "text": "Respondeu Rute: “Não insistas comigo para que te deixe, pois \\par para onde fores, irei também, \\par onde for tua moradia, será também a minha; \\par teu povo será o meu povo \\par e teu Deus será o meu Deus. \\par",
+      "reference": "Rt 1:16"
+    },
+    "17": {
+      "text": "Onde morreres, quero morrer \\par e ser sepultada. \\par Que Iahweh me mande este castigo \\par e acrescente mais este \\par se outra coisa, a não ser a morte, \\par me separar de ti!” \\par",
+      "reference": "Rt 1:17"
+    },
+    "18": {
+      "text": "Noemi, vendo que Rute estava firmemente decidida a acompanhá-la, não insistiu mais com ela. \\par",
+      "reference": "Rt 1:18"
+    },
+    "19": {
+      "text": "Partiram, pois, as duas e chegaram a Belém. À sua chegada, Belém inteira se alvoroçou e as mulheres diziam: “Esta é Noemi?”",
+      "reference": "Rt 1:19"
+    },
+    "20": {
+      "text": "Mas ela respondeu-lhes: “Não me chameis de Noemi; chamai-me de Mara, pois Shaddai me encheu de amargura.",
+      "reference": "Rt 1:20"
+    },
+    "21": {
+      "text": "Parti com as mãos cheias, e Iahweh me reconduz de mãos vazias! Por que haveríeis de me chamar de Noemi quando Iahweh se pronunciou contra mim e Shaddai me afligiu?” \\par",
+      "reference": "Rt 1:21"
+    },
+    "22": {
+      "text": "Foi assim que regressou Noemi, tendo consigo sua nora Rute, a moabita, que veio dos Campos de Moab. Chegaram a Belém no começo da colheita da cevada. \\par",
+      "reference": "Rt 1:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

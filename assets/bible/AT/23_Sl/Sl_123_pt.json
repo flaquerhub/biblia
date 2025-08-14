@@ -1,0 +1,29 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 123,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 123 (122)\\par }{\\qc\\b\\i Oração dos deserdados\\par }{\\qc\\i Cântico das subidas. \\par } A ti eu levanto meus olhos, \\par a ti, que habitas no céu; \\par",
+      "reference": "Sl 123:1"
+    },
+    "2": {
+      "text": "sim, como os olhos dos escravos \\par para a mão do seu senhor. \\par Como os olhos da escrava \\par para a mão da sua senhora, \\par assim estão nossos olhos \\par em Iahweh nosso Deus, \\par até que se compadeça de nós. \\par",
+      "reference": "Sl 123:2"
+    },
+    "3": {
+      "text": "Piedade, Iahweh! Tem piedade! \\par Estamos fartos, saciados de desprezo! \\par",
+      "reference": "Sl 123:3"
+    },
+    "4": {
+      "text": "Nossa vida está farta por demais \\par do sarcasmo dos satisfeitos! \\par (O desprezo é para os soberbos!) \\par",
+      "reference": "Sl 123:4"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 4
+}

@@ -1,0 +1,137 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As riquezas\\par }A insônia por causa da riqueza consome a carne, \\par a sua preocupação afugenta o sono. \\par",
+      "reference": "Eclo 31:1"
+    },
+    "2": {
+      "text": "As preocupações do dia não deixam dormir, \\par e mais do que uma doença grave tiram o sono. \\par",
+      "reference": "Eclo 31:2"
+    },
+    "3": {
+      "text": "O rico se afadiga em amontoar bens, \\par e, se descansa, é para saciar-se de prazeres. \\par",
+      "reference": "Eclo 31:3"
+    },
+    "4": {
+      "text": "O pobre se afadiga consumindo suas forças, \\par e, se descansa, cai na miséria. \\par",
+      "reference": "Eclo 31:4"
+    },
+    "5": {
+      "text": "Aquele que ama o ouro não escapa do pecado, \\par o que persegue o lucro ilude-se. \\par",
+      "reference": "Eclo 31:5"
+    },
+    "6": {
+      "text": "Muitas foram as vítimas do ouro, \\par a sua ruína era inevitável. \\par",
+      "reference": "Eclo 31:6"
+    },
+    "7": {
+      "text": "Pois é um laço para os que lhe sacrificam, \\par e todos os insensatos nele caem. \\par",
+      "reference": "Eclo 31:7"
+    },
+    "8": {
+      "text": "Feliz o rico que foi encontrado irrepreensível \\par e que não correu atrás do ouro. \\par",
+      "reference": "Eclo 31:8"
+    },
+    "9": {
+      "text": "Quem é este para que o felicitemos? \\par Porque fez maravilhas no meio de seu povo. \\par",
+      "reference": "Eclo 31:9"
+    },
+    "10": {
+      "text": "Quem sofreu tal prova e se revelou perfeito? \\par Isto será para ele motivo de glória. \\par Quem podia pecar e não pecou, \\par fazer o mal e não o fez? \\par",
+      "reference": "Eclo 31:10"
+    },
+    "11": {
+      "text": "Seus bens serão consolidados \\par e a assembléia publicará seus benefícios. \\par",
+      "reference": "Eclo 31:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Os banquetes\\par }Assentaste-te à mesa de um grande? \\par Nela não abras demais a boca, \\par não digas: “Que abundância!” \\par",
+      "reference": "Eclo 31:12"
+    },
+    "13": {
+      "text": "Lembra-te de que um olhar maldoso é coisa má: \\par pior do que o olho, que foi criado? \\par Por isso ele chora por qualquer motivo. \\par",
+      "reference": "Eclo 31:13"
+    },
+    "14": {
+      "text": "Não estendas a mão para onde teu hospedeiro olha, \\par não te encontres com ele no mesmo prato. \\par",
+      "reference": "Eclo 31:14"
+    },
+    "15": {
+      "text": "Compreende o próximo a partir de ti \\par e reflete sobre essas coisas. \\par",
+      "reference": "Eclo 31:15"
+    },
+    "16": {
+      "text": "Como um homem bem-educado, como o que te é apresentado \\par e não sejas voraz, não te tornes odioso. \\par",
+      "reference": "Eclo 31:16"
+    },
+    "17": {
+      "text": "Acaba primeiro por educação, \\par não sejas insaciável; caso contrário, serás excluído. \\par",
+      "reference": "Eclo 31:17"
+    },
+    "18": {
+      "text": "Se tiveres assentado em meio a muitos, \\par não estendas a tua mão antes deles. \\par",
+      "reference": "Eclo 31:18"
+    },
+    "19": {
+      "text": "Pouca coisa é suficiente a um homem bem-educado; \\par por isso, em seu leito, ele não fica sem ar. \\par",
+      "reference": "Eclo 31:19"
+    },
+    "20": {
+      "text": "Sono saudável tem aquele de estômago moderado, \\par levanta-se cedo e com boa disposição. \\par Insônia, vômitos, cólicas \\par são tributos do homem insaciável. \\par",
+      "reference": "Eclo 31:20"
+    },
+    "21": {
+      "text": "Mas se foste forçado a comer muito, \\par levanta-te e vomita, isso te aliviará. \\par",
+      "reference": "Eclo 31:21"
+    },
+    "22": {
+      "text": "Escuta-me, filho, e não me desprezes, \\par depois compreenderás as minhas palavras. \\par Em todas as tuas ações sê moderado, \\par e não serás atingido por nenhuma doença. \\par",
+      "reference": "Eclo 31:22"
+    },
+    "23": {
+      "text": "Todos os lábios bendizem o que é pródigo em banquetes, \\par e é fiel o testemunho de sua generosidade. \\par",
+      "reference": "Eclo 31:23"
+    },
+    "24": {
+      "text": "Toda a cidade murmura contra aquele que é mesquinho em banquetes, \\par e é exato o testemunho de sua mesquinhez. \\par",
+      "reference": "Eclo 31:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i O vinho\\par }Não te faças de valentão com o vinho, \\par porque o vinho arruinou a muita gente. \\par",
+      "reference": "Eclo 31:25"
+    },
+    "26": {
+      "text": "A fornalha põe à prova a têmpera do aço, \\par assim o vinho prova os corações nas disputas dos arrogantes. \\par",
+      "reference": "Eclo 31:26"
+    },
+    "27": {
+      "text": "O vinho é vida para o homem, \\par quando o bebe com moderação. \\par Que vida se vive quando falta o vinho? \\par Ele foi criado para a alegria dos homens. \\par",
+      "reference": "Eclo 31:27"
+    },
+    "28": {
+      "text": "Gozo do coração e alegria da alma: eis o que é o vinho, \\par bebido a seu tempo e o necessário. \\par",
+      "reference": "Eclo 31:28"
+    },
+    "29": {
+      "text": "Amargura para a alma: eis o que é o vinho, \\par bebido em excesso, por vício e por desafio. \\par",
+      "reference": "Eclo 31:29"
+    },
+    "30": {
+      "text": "O excesso de bebida aumenta o furor do insensato para sua perda, \\par diminui a sua força e provoca feridas. \\par",
+      "reference": "Eclo 31:30"
+    },
+    "31": {
+      "text": "Em um banquete não repreendas teu próximo, \\par não o desprezes na sua alegria, \\par não lhe digas palavras injuriosas, \\par não o apertes com reclamações. \\par",
+      "reference": "Eclo 31:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

@@ -1,0 +1,101 @@
+{
+  "book": 12,
+  "book_name": "2Reis",
+  "book_abbr": "2Rs",
+  "book_category": "Histórico",
+  "book_english": "2 Kings",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Reinado de Joás em Judá (835-796)\\par }Joás tinha sete anos quando começou a reinar.",
+      "reference": "2Rs 12:1"
+    },
+    "2": {
+      "text": "No sétimo ano de Jeú, Joás tornou-se rei e reinou quarenta anos em Jerusalém; sua mãe chamava-se Sebias e era de Bersabéia.",
+      "reference": "2Rs 12:2"
+    },
+    "3": {
+      "text": "Joás fez o que é agradável aos olhos de Iahweh, durante toda a sua vida, pois o sacerdote Joiada o havia educado.",
+      "reference": "2Rs 12:3"
+    },
+    "4": {
+      "text": "Contudo, os lugares altos não desapareceram e o povo continuou a oferecer sacrifícios e incenso sobre os lugares altos. \\par",
+      "reference": "2Rs 12:4"
+    },
+    "5": {
+      "text": "Joás disse aos sacerdotes: “Todo o dinheiro das oferendas sagradas que for trazido ao Templo de Iahweh, o dinheiro das taxas pessoais e todo o dinheiro oferecido espontaneamente ao Templo de Iahweh,",
+      "reference": "2Rs 12:5"
+    },
+    "6": {
+      "text": "recebam-no os sacerdotes, cada qual da mão dos seus conhecidos, e o empreguem no templo, para fazer as restaurações necessárias”.",
+      "reference": "2Rs 12:6"
+    },
+    "7": {
+      "text": "Ora, no vigésimo terceiro ano do rei Joás, os sacerdotes não tinham ainda restaurado o Templo:",
+      "reference": "2Rs 12:7"
+    },
+    "8": {
+      "text": "então Joás chamou o sacerdote Joiada e os outros sacerdotes e disse-lhes: “Por que não restaurais o Templo? Doravante, não recebereis mais o dinheiro dos vossos conhecidos, mas o dareis para os reparos do Templo”.",
+      "reference": "2Rs 12:8"
+    },
+    "9": {
+      "text": "Os sacerdotes concordaram em não mais receberem dinheiro do povo e em não serem mais os encarregados da restauração do Templo. \\par",
+      "reference": "2Rs 12:9"
+    },
+    "10": {
+      "text": "Então o sacerdote Joiada tomou um cofre, fez-lhe um buraco na tampa e o colocou ao lado do altar, à direita de quem entrava no Templo de Iahweh e os sacerdotes que guardavam os umbrais nele depositavam todo o dinheiro oferecido ao Templo de Iahweh.",
+      "reference": "2Rs 12:10"
+    },
+    "11": {
+      "text": "Quando viam que havia muito dinheiro no cofre, vinha o secretário real, fundia-se e contava-se o dinheiro que se achava no Templo de Iahweh.",
+      "reference": "2Rs 12:11"
+    },
+    "12": {
+      "text": "Uma vez conferido o dinheiro, era entregue aos empreiteiros contratados para as obras do Templo de Iahweh e estes o empregavam pagando os carpinteiros e os construtores que trabalhavam no Templo de Iahweh,",
+      "reference": "2Rs 12:12"
+    },
+    "13": {
+      "text": "os pedreiros e escultores, e na compra de madeira e pedras de cantaria, destinadas à restauração do Templo de Iahweh; em suma, para todas as despesas de restauração do Templo.",
+      "reference": "2Rs 12:13"
+    },
+    "14": {
+      "text": "Mas não se faziam no Templo de Iahweh taças de prata, cutelos, bacias para aspersão, trombetas, nem objeto algum de ouro ou de prata, com o dinheiro que era oferecido;",
+      "reference": "2Rs 12:14"
+    },
+    "15": {
+      "text": "este era entregue aos empreiteiros, que o empregavam na restauração do Templo de Iahweh.",
+      "reference": "2Rs 12:15"
+    },
+    "16": {
+      "text": "Nem se pediam contas dos homens aos quais era entregue o dinheiro para dá-lo aos operários, porque agiam com honestidade.",
+      "reference": "2Rs 12:16"
+    },
+    "17": {
+      "text": "O dinheiro oferecido pela expiação de um delito ou de um pecado não era destinado ao Templo de Iahweh, mas ficava para os sacerdotes. \\par",
+      "reference": "2Rs 12:17"
+    },
+    "18": {
+      "text": "Então Hazael, rei de Aram, partiu para combater Gat e tomou-a; depois resolveu subir para atacar Jerusalém.",
+      "reference": "2Rs 12:18"
+    },
+    "19": {
+      "text": "Joás, rei de Judá, tomou todos os objetos que haviam consagrado os reis de Judá, seus pais, Josafá, Jorão e Ocozias, e também os que ele próprio havia consagrado, bem como todo o ouro que se encontrava nos tesouros do Templo de Iahweh e do palácio real, e enviou tudo isso a Hazael, rei de Aram, o qual se retirou de Jerusalém. \\par",
+      "reference": "2Rs 12:19"
+    },
+    "20": {
+      "text": "O resto da história de Joás e todos os seus feitos, não está tudo escrito no livro dos Anais dos reis de Judá?",
+      "reference": "2Rs 12:20"
+    },
+    "21": {
+      "text": "Seus servos sublevaram-se e fizeram uma conspiração; mataram Joás em Bet-Melo...",
+      "reference": "2Rs 12:21"
+    },
+    "22": {
+      "text": "Jozacar, filho de Semaat, e Jozabad, filho de Somer, o feriram e ele morreu. Foi sepultado com seus pais na Cidade de Davi e seu filho Amasias reinou em seu lugar. \\par",
+      "reference": "2Rs 12:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

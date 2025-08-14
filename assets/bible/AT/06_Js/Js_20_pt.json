@@ -1,0 +1,49 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 4. CIDADES PRIVILEGIADAS\\par }{\\qc\\b\\i As cidades de refúgio\\par }Iahweh disse a Josué:",
+      "reference": "Js 20:1"
+    },
+    "2": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: Designai as cidades de refúgio de que vos falei por intermédio de Moisés,",
+      "reference": "Js 20:2"
+    },
+    "3": {
+      "text": "onde poderá refugiar-se o homicida que matar alguém por inadvertência (involuntariamente), e que vos servirão de refúgio contra o vingador do sangue.",
+      "reference": "Js 20:3"
+    },
+    "4": {
+      "text": "(É, portanto, para uma destas cidades que o homicida deverá fugir. Ele se deterá à entrada da porta da cidade e exporá o seu caso aos anciãos da cidade. Estes o receberão na sua cidade e lhe designarão um lugar onde habitará entre eles.",
+      "reference": "Js 20:4"
+    },
+    "5": {
+      "text": "Se o vingador do sangue o perseguir, não entregarão o homicida nas suas mãos, pois feriu o seu próximo involuntariamente, e não tinha antes ódio contra ele.",
+      "reference": "Js 20:5"
+    },
+    "6": {
+      "text": "Deverá permanecer nessa cidade) até que compareça em juízo diante da comunidade (até à morte do sumo sacerdote em exercício nesse tempo. Somente então poderá o homicida voltar à sua cidade e à sua casa, na cidade de onde fugiu)”. \\par",
+      "reference": "Js 20:6"
+    },
+    "7": {
+      "text": "Consagraram, pois, Cedes na Galiléia, na montanha de Neftali, Siquém na montanha de Efraim e Cariat-Arbe – que é Hebron – na montanha de Judá.",
+      "reference": "Js 20:7"
+    },
+    "8": {
+      "text": "Do outro lado do Jordão de Jericó, ao oriente, designaram no deserto, no planalto, Bosor da tribo de Rúben, Ramot em Galaad, da tribo de Gad, e Golã em Basã, da tribo de Manassés.",
+      "reference": "Js 20:8"
+    },
+    "9": {
+      "text": "Essas foram as cidades designadas para todos os filhos de Israel e para os estrangeiros que habitam entre eles, para que nelas possa refugiar-se todo aquele que haja matado alguém por inadvertência, e assim escape das mãos do vingador do sangue, até que compareça diante da comunidade. \\par",
+      "reference": "Js 20:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

@@ -1,0 +1,93 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os resgatados do Cordeiro\\par }Tive depois esta visão: eis que o Cordeiro estava de pé sobre o monte Sião com os cento e quarenta e quatro mil que traziam escrito sobre a fronte o nome dele e o nome de seu Pai.",
+      "reference": "Ap 14:1"
+    },
+    "2": {
+      "text": "E ouvi uma voz que vinha do céu, semelhante a um fragor de águas e ao ribombo de um forte trovão; a voz que eu ouvi era como o som de citaristas tocando suas cítaras.",
+      "reference": "Ap 14:2"
+    },
+    "3": {
+      "text": "Cantavam um cântico novo diante do trono, dos quatro Seres vivos e dos Anciãos. Ninguém podia aprender o cântico, exceto os cento e quarenta e quatro mil que foram resgatados da terra.",
+      "reference": "Ap 14:3"
+    },
+    "4": {
+      "text": "Estes são os que não se contaminaram com mulheres: são virgens. Estes {\\i seguem} o Cordeiro, onde quer que ele vá. Estes foram resgatados dentre os homens, como {\\i primícias para Deus} e para o Cordeiro.",
+      "reference": "Ap 14:4"
+    },
+    "5": {
+      "text": "{\\i Na sua boca jamais foi encontrada mentira}: são íntegros. \\par",
+      "reference": "Ap 14:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Os Anjos anunciam a hora do julgamento\\par }Vi depois outro Anjo que voava no meio do céu, com um evangelho eterno para anunciar aos habitantes da terra, a toda nação, tribo, língua e povo.",
+      "reference": "Ap 14:6"
+    },
+    "7": {
+      "text": "Ele dizia em alta voz: \\par “Temei a Deus e tributai-lhe glória, \\par pois chegou a hora do seu julgamento; \\par adorai {\\i aquele que fez \\par o céu e a terra, \\par o mar e as fontes}”. \\par",
+      "reference": "Ap 14:7"
+    },
+    "8": {
+      "text": "Outro Anjo, o segundo, continuou: \\par “{\\i Caiu, caiu \\par Babilônia, a Grande,} \\par a que embebedou todas as nações \\par com o vinho do furor”. \\par",
+      "reference": "Ap 14:8"
+    },
+    "9": {
+      "text": "Outro Anjo, ainda, o terceiro, seguiu-os, em alta voz: “Se alguém adora a Besta e a sua imagem, e recebe a marca sobre a fronte ou na mão,",
+      "reference": "Ap 14:9"
+    },
+    "10": {
+      "text": "esse também beberá o vinho do furor de Deus, derramado sem mistura na taça da sua ira; será atormentado {\\i com fogo e enxofre} diante dos santos Anjos e diante do Cordeiro.",
+      "reference": "Ap 14:10"
+    },
+    "11": {
+      "text": "{\\i A fumaça} do seu tormento {\\i sobe pelos séculos} dos séculos: os que adoram a Besta e a sua imagem, e quem quer que receba a marca do seu nome nunca têm descanso, dia e noite...",
+      "reference": "Ap 14:11"
+    },
+    "12": {
+      "text": "Nisto repousa a perseverança dos santos, os que guardam os mandamentos de Deus e a fé em Jesus”. \\par",
+      "reference": "Ap 14:12"
+    },
+    "13": {
+      "text": "Ouvi então uma voz do céu, dizendo: “Escreve: felizes os mortos, os que desde agora morrem no Senhor. Sim, diz o Espírito, que descansem de suas fadigas, pois suas obras os acompanham”. \\par",
+      "reference": "Ap 14:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i A ceifa e a vindima das nações\\par }Depois disso, olhei: havia {\\i uma nuvem branca, e sobre a nuvem alguém} sentado, {\\i semelhante a um Filho de Homem}, com uma coroa de ouro na cabeça e nas mãos uma foice afiada.",
+      "reference": "Ap 14:14"
+    },
+    "15": {
+      "text": "Nisto outro Anjo saiu do Templo, gritando em alta voz ao que estava sentado sobre a nuvem: “{\\i Lança tua foice} e ceifa. Chegou a hora da ceifa, pois {\\i a seara} da terra {\\i está madura}”.",
+      "reference": "Ap 14:15"
+    },
+    "16": {
+      "text": "O que estava sentado na nuvem lançou então sua foice sobre a terra, e a terra foi ceifada. \\par",
+      "reference": "Ap 14:16"
+    },
+    "17": {
+      "text": "Nisto saiu do templo que está no céu outro Anjo, também ele com uma foice afiada.",
+      "reference": "Ap 14:17"
+    },
+    "18": {
+      "text": "E outro Anjo, que tem poder sobre o fogo, saiu do altar e gritou em alta voz ao que segurava a foice afiada: “Lança a tua foice afiada e vindima os cachos da videira da terra, pois suas uvas amadureceram”.",
+      "reference": "Ap 14:18"
+    },
+    "19": {
+      "text": "O Anjo lançou então sua foice afiada na terra e vindimou a videira da terra, lançando-a depois no grande lagar do furor de Deus.",
+      "reference": "Ap 14:19"
+    },
+    "20": {
+      "text": "O lagar foi pisado fora da cidade e dele saiu sangue até chegar aos freios dos cavalos, numa extensão de mil e seiscentos estádios. \\par",
+      "reference": "Ap 14:20"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 20
+}

@@ -1,0 +1,65 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. O LIVRO DO EMANUEL\\par }{\\qc\\b\\i Vocação de Isaías\\par }No ano em que faleceu o rei Ozias, vi o Senhor sentado sobre um trono alto e elevado. A cauda da sua veste enchia o santuário. \\par",
+      "reference": "Is 6:1"
+    },
+    "2": {
+      "text": "Acima dele, em pé, estavam serafins, cada um com seis asas: com duas cobriam a face, com duas cobriam os pés e com duas voavam. \\par",
+      "reference": "Is 6:2"
+    },
+    "3": {
+      "text": "Eles clamavam uns para os outros e diziam: \\par “Santo, santo, santo é Iahweh dos Exércitos, \\par a sua glória enche toda a terra”. \\par",
+      "reference": "Is 6:3"
+    },
+    "4": {
+      "text": "À voz dos seus clamores os gonzos das portas oscilavam enquanto o Templo se enchia de fumaça.",
+      "reference": "Is 6:4"
+    },
+    "5": {
+      "text": "Então disse eu: \\par “Ai de mim, estou perdido! \\par Com efeito, sou um homem de lábios impuros \\par e vivo no meio de um povo de lábios impuros, \\par e os meus olhos viram o Rei, Iahweh dos Exércitos”. \\par",
+      "reference": "Is 6:5"
+    },
+    "6": {
+      "text": "Nisto, um dos serafins voou para junto de mim, trazendo na mão uma brasa que havia tirado do altar com uma tenaz.",
+      "reference": "Is 6:6"
+    },
+    "7": {
+      "text": "Com ela tocou-me os lábios e disse: \\par “Vê, isto tocou os teus lábios, \\par a tua iniqüidade está removida, \\par o teu pecado está perdoado”. \\par",
+      "reference": "Is 6:7"
+    },
+    "8": {
+      "text": "Em seguida ouvi a voz do Senhor que dizia: \\par “Quem hei de enviar? Quem irá por nós?”, \\par ao que respondi: “Eis-me aqui, envia-me a mim”. \\par",
+      "reference": "Is 6:8"
+    },
+    "9": {
+      "text": "Ele me disse: \\par “Vai e dize a este povo: \\par Podeis ouvir certamente, mas não haveis de entender; \\par podeis ver certamente, mas não haveis de compreender. \\par",
+      "reference": "Is 6:9"
+    },
+    "10": {
+      "text": "Embota o coração deste povo, \\par torna pesados os seus ouvidos, tapa-lhe os olhos, \\par para que não veja com os olhos, \\par e não ouça com os ouvidos, \\par e não suceda que o seu coração venha a compreender, \\par que ele se converta e consiga a cura”. \\par",
+      "reference": "Is 6:10"
+    },
+    "11": {
+      "text": "A isto perguntei: “Até quando, Senhor?” \\par Ele respondeu: “Até que as cidades fiquem desertas, por falta de habitantes, e as casas vazias, por falta de moradores; até que o solo se reduza a um ermo, a uma desolação;",
+      "reference": "Is 6:11"
+    },
+    "12": {
+      "text": "até que Iahweh remova para longe os seus homens e no seio da terra reine uma grande solidão. \\par",
+      "reference": "Is 6:12"
+    },
+    "13": {
+      "text": "E, se nela ficar um décimo, este tornará a ser desbastado como o terebinto e o carvalho, que, uma vez derrubados, deixam apenas um toco; esse toco será uma semente santa”. \\par",
+      "reference": "Is 6:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

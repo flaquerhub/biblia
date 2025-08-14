@@ -1,0 +1,73 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Terror das populações a oeste do Jordão\\par }Sucedeu que, ao ouvirem todos os reis dos amorreus que habitavam além do Jordão, ao ocidente, e todos os reis dos cananeus que habitavam junto ao mar, que Iahweh havia secado as águas do Jordão diante dos filhos de Israel até que tivessem passado, desfaleceu-se-lhes o coração e não houve mais alento neles diante dos filhos de Israel. \\par",
+      "reference": "Js 5:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i A circuncisão dos hebreus em Guilgal\\par }Nesse tempo Iahweh disse a Josué: “Faze facas de pedra e circuncida de novo os filhos de Israel (uma segunda vez)”.",
+      "reference": "Js 5:2"
+    },
+    "3": {
+      "text": "Josué fez então facas de pedra e circuncidou os filhos de Israel na colina dos Prepúcios. \\par",
+      "reference": "Js 5:3"
+    },
+    "4": {
+      "text": "Esta é a razão por que Josué os circuncidou: todo o povo que saiu do Egito, os homens, todos os homens de guerra, morreram no deserto, no caminho, depois da sua saída do Egito.",
+      "reference": "Js 5:4"
+    },
+    "5": {
+      "text": "Ora, todo o povo que saíra havia sido circuncidado; mas todo o povo que nascera no deserto, no caminho depois da sua saída do Egito, não havia sido circuncidado;",
+      "reference": "Js 5:5"
+    },
+    "6": {
+      "text": "porque os filhos de Israel andaram durante quarenta anos no deserto, até que pereceu toda a nação, os homens de guerra que saíram do Egito; visto que não obedeceram à voz de Iahweh, jurou-lhes Iahweh que não veriam a terra que aos seus pais havia jurado dar-nos, terra que mana leite e mel.",
+      "reference": "Js 5:6"
+    },
+    "7": {
+      "text": "Quanto a seus filhos, estabeleceu-os em seu lugar; a estes Josué circuncidou, visto que não haviam sido circuncidados no caminho.",
+      "reference": "Js 5:7"
+    },
+    "8": {
+      "text": "E quando toda a nação foi circuncidada, repousaram no seu lugar, no acampamento, até que sararam.",
+      "reference": "Js 5:8"
+    },
+    "9": {
+      "text": "Iahweh disse a Josué: “Hoje tirei de vós o opróbrio do Egito”. Aquele lugar foi chamado Guilgal, até hoje. \\par",
+      "reference": "Js 5:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Celebração da Páscoa\\par }Enquanto os filhos de Israel estavam acampados em Guilgal, celebraram a Páscoa, no décimo quarto dia do mês, à tarde, nas planícies de Jericó.",
+      "reference": "Js 5:10"
+    },
+    "11": {
+      "text": "No dia seguinte à Páscoa, comeram do produto do país, pão sem fermento e trigo tostado, naquele mesmo dia.",
+      "reference": "Js 5:11"
+    },
+    "12": {
+      "text": "Ao comerem o fruto da terra, no dia seguinte, cessou o maná. E os filhos de Israel não tiveram mais o maná, mas comeram do fruto da terra de Canaã, naquele ano. \\par",
+      "reference": "Js 5:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b 3. A CONQUISTA DE JERICÓ\\par }{\\qc\\b\\i Prelúdio: teofania\\par }Encontrando-se Josué perto de Jericó, levantou os olhos e viu um homem que se achava diante dele, com uma espada desembainhada na mão. Josué aproximou-se dele e disse-lhe: “És tu dos nossos ou dos nossos inimigos?”",
+      "reference": "Js 5:13"
+    },
+    "14": {
+      "text": "Ele respondeu: “Não! Mas sou chefe do exército de Iahweh e acabo de chegar”. Josué prostrou-se com o rosto em terra, adorou-o e disse-lhe: “Que tem a dizer o meu Senhor a seu servo?”",
+      "reference": "Js 5:14"
+    },
+    "15": {
+      "text": "O chefe do exército de Iahweh respondeu a Josué: “Descalça as sandálias dos teus pés, porque o lugar em que pisas é santo”. E assim fez Josué. \\par",
+      "reference": "Js 5:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

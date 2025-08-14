@@ -1,0 +1,129 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Segunda parte}\\par }{\\qc\\b\\i Prólogo\\par }Mais vale o bom nome do que o bom perfume; \\par o dia da morte do que o dia do nascimento. \\par",
+      "reference": "Ec 7:1"
+    },
+    "2": {
+      "text": "Mais vale ir a uma casa em luto \\par do que ir a uma casa em festa, \\par porque esse é o fim de todo homem; \\par deste modo, quem está vivo refletirá. \\par",
+      "reference": "Ec 7:2"
+    },
+    "3": {
+      "text": "Mais vale o desgosto do que o riso, \\par pois pode-se ter a face triste e o coração alegre. \\par",
+      "reference": "Ec 7:3"
+    },
+    "4": {
+      "text": "O coração dos sábios está na casa em luto, \\par o coração dos insensatos está na casa em festa. \\par",
+      "reference": "Ec 7:4"
+    },
+    "5": {
+      "text": "Mais vale ouvir a repreensão do sábio \\par do que o canto dos insensatos; \\par",
+      "reference": "Ec 7:5"
+    },
+    "6": {
+      "text": "pois, assim como os gravetos crepitam sob o caldeirão, \\par tal é o riso do insensato, \\par e isso também é vaidade. \\par",
+      "reference": "Ec 7:6"
+    },
+    "7": {
+      "text": "A opressão enlouquece o sábio, \\par e um suborno extravia seu coração. \\par",
+      "reference": "Ec 7:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i A sanção\\par }Mais vale o fim de uma coisa do que seu começo, \\par mais vale a paciência do que a pretensão. \\par",
+      "reference": "Ec 7:8"
+    },
+    "9": {
+      "text": "Não fiques irritado depressa, pois a irritação mora no peito dos insensatos.",
+      "reference": "Ec 7:9"
+    },
+    "10": {
+      "text": "Não digas: “Por que os tempos passados eram melhores que os de agora?” Não é a sabedoria que te faz levantar essa questão. \\par",
+      "reference": "Ec 7:10"
+    },
+    "11": {
+      "text": "A sabedoria é boa como uma herança, \\par e é vantajosa para aqueles que vêem o sol. \\par",
+      "reference": "Ec 7:11"
+    },
+    "12": {
+      "text": "Pois o abrigo da sabedoria é como o abrigo do dinheiro, \\par e a vantagem do conhecimento é que a sabedoria faz viver os que a possuem. \\par",
+      "reference": "Ec 7:12"
+    },
+    "13": {
+      "text": "Vê a obra de Deus: \\par quem poderá endireitar o que ele curvou? \\par",
+      "reference": "Ec 7:13"
+    },
+    "14": {
+      "text": "Em tempo de felicidade, sê feliz, \\par e no dia da desgraça reflete: \\par Deus fez tanto um como o outro, \\par para que o homem nada encontre atrás de si. \\par",
+      "reference": "Ec 7:14"
+    },
+    "15": {
+      "text": "Já vi de tudo em minha vida de vaidade: \\par o justo perecer na sua justiça \\par e o ímpio sobreviver na sua impiedade. \\par",
+      "reference": "Ec 7:15"
+    },
+    "16": {
+      "text": "Não sejas demasiadamente justo \\par e nem te tornes sábio demais: \\par por que irias te destruir? \\par",
+      "reference": "Ec 7:16"
+    },
+    "17": {
+      "text": "Não sejas demasiadamente ímpio \\par e nem te tornes insensato: \\par para que morrer antes do tempo? \\par",
+      "reference": "Ec 7:17"
+    },
+    "18": {
+      "text": "É bom que agarres um sem soltar o outro, \\par pois quem teme a Deus encontrará um e outro. \\par",
+      "reference": "Ec 7:18"
+    },
+    "19": {
+      "text": "A sabedoria torna o sábio mais forte do que dez chefes numa cidade. \\par",
+      "reference": "Ec 7:19"
+    },
+    "20": {
+      "text": "Não existe um homem tão justo sobre a terra que faça o bem sem jamais pecar. \\par",
+      "reference": "Ec 7:20"
+    },
+    "21": {
+      "text": "Não dês atenção a todas as palavras que dizem, assim não ouvirás teu servo te amaldiçoar, \\par",
+      "reference": "Ec 7:21"
+    },
+    "22": {
+      "text": "pois teu coração sabe que também tu amaldiçoaste ou outros muitas vezes. \\par",
+      "reference": "Ec 7:22"
+    },
+    "23": {
+      "text": "Coloquei tudo à prova pela sabedoria; pensei: “Vou tornar-me sábio”, mas a sabedoria está fora do meu alcance. \\par",
+      "reference": "Ec 7:23"
+    },
+    "24": {
+      "text": "O que passou está longe, \\par e profundo, profundo! Quem o achará? \\par",
+      "reference": "Ec 7:24"
+    },
+    "25": {
+      "text": "Em meu coração dediquei-me a conhecer, a raciocinar e a pesquisar a sabedoria e a reflexão, para reconhecer o mal como algo insensato e a insensatez como uma tolice. \\par",
+      "reference": "Ec 7:25"
+    },
+    "26": {
+      "text": "E descobri que a mulher é mais amarga do que a morte, \\par pois ela é uma armadilha, \\par seu coração é uma rede e seus braços, cadeias. \\par Quem agrada a Deus dela escapa, \\par mas o pecador a ela se prende. \\par",
+      "reference": "Ec 7:26"
+    },
+    "27": {
+      "text": "Eis o que encontro – diz Coélet – \\par ao examinar coisa por coisa para chegar a uma conclusão: \\par",
+      "reference": "Ec 7:27"
+    },
+    "28": {
+      "text": "estive pesquisando e nada concluí. \\par Entre mil encontrei apenas um homem, \\par porém, entre todas as mulheres, \\par não encontrei uma sequer. \\par",
+      "reference": "Ec 7:28"
+    },
+    "29": {
+      "text": "Eis a única conclusão a que cheguei: \\par Deus fez o homem reto, \\par este, porém, procura complicações sem conta. \\par",
+      "reference": "Ec 7:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

@@ -1,0 +1,73 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Riqueza e presunção\\par }Não confies em tuas riquezas \\par e não digas: “Sou auto-suficiente”. \\par",
+      "reference": "Eclo 5:1"
+    },
+    "2": {
+      "text": "Não sigas teu desejo nem tua força, \\par indo atrás das paixões do coração. \\par",
+      "reference": "Eclo 5:2"
+    },
+    "3": {
+      "text": "Não digas: “Quem dominará sobre mim?”, \\par porque o Senhor, que pune, te punirá. \\par",
+      "reference": "Eclo 5:3"
+    },
+    "4": {
+      "text": "Não digas: “Pequei: o que me aconteceu?”, \\par porque o Senhor é paciente. \\par",
+      "reference": "Eclo 5:4"
+    },
+    "5": {
+      "text": "Não seja tão seguro do perdão \\par para acumular pecado sobre pecado. \\par",
+      "reference": "Eclo 5:5"
+    },
+    "6": {
+      "text": "Não digas: “Sua misericórdia é grande \\par para perdoar meus inúmeros pecados”, \\par porque há nele misericórdia e cólera \\par e sua ira pousará sobre os pecadores. \\par",
+      "reference": "Eclo 5:6"
+    },
+    "7": {
+      "text": "Não demores a voltar para o Senhor \\par e não adies de um dia para o outro, \\par porque, de repente, a cólera do Senhor virá \\par e no dia do castigo perecerás. \\par",
+      "reference": "Eclo 5:7"
+    },
+    "8": {
+      "text": "Não confies nas riquezas injustas, \\par porque não te servirão para nada no dia da desgraça. \\par",
+      "reference": "Eclo 5:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Constância e domínio de si\\par }Não joeires a todos os ventos, \\par nem te metas por qualquer trilha \\par (assim faz o pecador de palavra dúplice). \\par",
+      "reference": "Eclo 5:9"
+    },
+    "10": {
+      "text": "Sê firme em teu sentimento \\par e seja uma a tua palavra. \\par",
+      "reference": "Eclo 5:10"
+    },
+    "11": {
+      "text": "Sê pronto para escutar, \\par mas lento para dizer a resposta. \\par",
+      "reference": "Eclo 5:11"
+    },
+    "12": {
+      "text": "Se sabes algo, responde a teu próximo; \\par se não, põe a tua mão sobre a boca. \\par",
+      "reference": "Eclo 5:12"
+    },
+    "13": {
+      "text": "Honra e confusão acompanham o loquaz, \\par e a língua do homem é a sua ruína. \\par",
+      "reference": "Eclo 5:13"
+    },
+    "14": {
+      "text": "Não te faças chamar de caluniador, \\par não armes uma emboscada com tua língua; \\par porque se para o ladrão existe a vergonha, \\par para o fingido existe uma sentença pior. \\par",
+      "reference": "Eclo 5:14"
+    },
+    "15": {
+      "text": "Evita as faltas tanto nas grandes como nas pequenas coisas, \\par e de amigo não te tornes inimigo. \\par",
+      "reference": "Eclo 5:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

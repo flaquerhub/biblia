@@ -1,0 +1,125 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Diferentes pecados\\par }Filho, pecaste? Não tornes a pecar, \\par e pede perdão pelas culpas passadas. \\par",
+      "reference": "Eclo 21:1"
+    },
+    "2": {
+      "text": "Foge do pecado como de uma serpente, \\par porque, se te aproximares, morder-te-á; \\par seus dentes são dentes de leão \\par que aos homens tiram a vida. \\par",
+      "reference": "Eclo 21:2"
+    },
+    "3": {
+      "text": "Toda transgressão é como espada de dois gumes, \\par sua ferida não tem cura. \\par",
+      "reference": "Eclo 21:3"
+    },
+    "4": {
+      "text": "O terror e a violência devastam a riqueza, \\par assim será devastada a casa do orgulhoso. \\par",
+      "reference": "Eclo 21:4"
+    },
+    "5": {
+      "text": "A oração do pobre vai direta aos ouvidos de Deus \\par e o seu julgamento virá sem demora. \\par",
+      "reference": "Eclo 21:5"
+    },
+    "6": {
+      "text": "O que odeia a repreensão segue as pegadas do pecador, \\par porém o que teme ao Senhor converter-se-á de coração. \\par",
+      "reference": "Eclo 21:6"
+    },
+    "7": {
+      "text": "De longe é conhecido o falador, \\par mas o sábio conhece quando ele tropeça. \\par",
+      "reference": "Eclo 21:7"
+    },
+    "8": {
+      "text": "Construir a própria casa com dinheiro de outros \\par é como amontoar pedras para a própria sepultura. \\par",
+      "reference": "Eclo 21:8"
+    },
+    "9": {
+      "text": "A assembléia dos pecadores é um monte de estopa, \\par seu fim será a chama e o fogo. \\par",
+      "reference": "Eclo 21:9"
+    },
+    "10": {
+      "text": "O caminho dos pecadores é bem pavimentado, \\par mas seu fim é o abismo do Xeol. \\par",
+      "reference": "Eclo 21:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i O sábio e o insensato\\par }O que guarda a lei domina seus instintos, \\par a perfeição do temor é a sabedoria. \\par",
+      "reference": "Eclo 21:11"
+    },
+    "12": {
+      "text": "Não conseguirá instruir-se quem não for sagaz, \\par porém há sagacidade cheia de amargor. \\par",
+      "reference": "Eclo 21:12"
+    },
+    "13": {
+      "text": "A ciência do sábio aumenta como uma inundação \\par e o seu conselho é como uma fonte viva. \\par",
+      "reference": "Eclo 21:13"
+    },
+    "14": {
+      "text": "O coração do insensato é como um vaso rachado, \\par não retém saber algum. \\par",
+      "reference": "Eclo 21:14"
+    },
+    "15": {
+      "text": "Se o inteligente ouve uma palavra sábia, \\par aprecia-a e acrescenta-lhe algo de seu; \\par o folgazão, ouvindo-a, despreza-a \\par e a joga para trás das costas. \\par",
+      "reference": "Eclo 21:15"
+    },
+    "16": {
+      "text": "A explicação do insensato é como um fardo pelo caminho, \\par porém nos lábios do inteligente encontra-se a graça. \\par",
+      "reference": "Eclo 21:16"
+    },
+    "17": {
+      "text": "A palavra do sensato é procurada na assembléia \\par e as suas palavras são meditadas no coração. \\par",
+      "reference": "Eclo 21:17"
+    },
+    "18": {
+      "text": "A sabedoria do estulto é como uma casa devastada \\par e a ciência do insensato é um discurso incoerente. \\par",
+      "reference": "Eclo 21:18"
+    },
+    "19": {
+      "text": "A disciplina para o estulto é como peias nos pés, \\par como algemas na mão direita. \\par",
+      "reference": "Eclo 21:19"
+    },
+    "20": {
+      "text": "O insensato, ao rir, levanta a voz \\par mas o riso do homem sagaz é raro e discreto. \\par",
+      "reference": "Eclo 21:20"
+    },
+    "21": {
+      "text": "A disciplina é como um enfeite de ouro para o sábio, \\par como um bracelete no braço direito. \\par",
+      "reference": "Eclo 21:21"
+    },
+    "22": {
+      "text": "O pé do estulto se apressa para entrar numa casa, \\par o homem experiente toma uma atitude modesta. \\par",
+      "reference": "Eclo 21:22"
+    },
+    "23": {
+      "text": "Da porta o estulto curva-se para olhar dentro da casa, \\par mas o educado fica do lado de fora. \\par",
+      "reference": "Eclo 21:23"
+    },
+    "24": {
+      "text": "É falta de educação ouvir à porta \\par e o prudente envergonha-se de o fazer. \\par",
+      "reference": "Eclo 21:24"
+    },
+    "25": {
+      "text": "Os lábios do falador repetem palavras dos outros, \\par mas as palavras dos prudentes são colocadas na balança. \\par",
+      "reference": "Eclo 21:25"
+    },
+    "26": {
+      "text": "Na boca do estulto está seu coração, \\par mas o coração do sábio é sua boca. \\par",
+      "reference": "Eclo 21:26"
+    },
+    "27": {
+      "text": "Quando o ímpio maldiz Satã, \\par ele maldiz a si próprio. \\par",
+      "reference": "Eclo 21:27"
+    },
+    "28": {
+      "text": "O murmurador suja-se \\par e é detestado pela vizinhança. \\par",
+      "reference": "Eclo 21:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

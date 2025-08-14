@@ -1,0 +1,153 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 34,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Renovação da Aliança. As tábuas da Lei\\par }Iahweh disse a Moisés: “Lavra duas tábuas de pedra, como as primeiras, sobe a mim na montanha, e eu escreverei as mesmas palavras que estavam nas primeiras tábuas, que quebraste.",
+      "reference": "Ex 34:1"
+    },
+    "2": {
+      "text": "Fica preparado de manhã; de madrugada subirás à montanha do Sinai e lá me esperarás, no cimo da montanha.",
+      "reference": "Ex 34:2"
+    },
+    "3": {
+      "text": "Ninguém subirá contigo, e não se verá ninguém em toda a montanha. Nem as ovelhas ou bois pastarão diante da montanha”.",
+      "reference": "Ex 34:3"
+    },
+    "4": {
+      "text": "Moisés lavrou duas tábuas de pedra como as primeiras, levantou-se de madrugada e subiu à montanha do Sinai, como Iahweh lhe havia ordenado, e levou nas mãos as duas tábuas de pedra.",
+      "reference": "Ex 34:4"
+    },
+    "5": {
+      "text": "Iahweh desceu na nuvem e ali esteve junto dele. \\par \\par {\\qc\\b\\i A aparição de Deus\\par } Ele invocou o nome de Iahweh.",
+      "reference": "Ex 34:5"
+    },
+    "6": {
+      "text": "Iahweh passou diante dele, e ele exclamou: \\par “Iahweh! Iahweh... \\par Deus de compaixão e de piedade, \\par lento para a cólera \\par e cheio de amor e fidelidade; \\par",
+      "reference": "Ex 34:6"
+    },
+    "7": {
+      "text": "que guarda o seu amor a milhares, \\par tolera a falta, a transgressão e o pecado, \\par mas a ninguém deixa impune \\par e castiga a falta dos pais nos filhos \\par e nos filhos dos seus filhos, \\par até a terceira e a quarta geração”. \\par",
+      "reference": "Ex 34:7"
+    },
+    "8": {
+      "text": "Imediatamente Moisés caiu de joelhos por terra e adorou;",
+      "reference": "Ex 34:8"
+    },
+    "9": {
+      "text": "depois ele disse: “Iahweh, se agora encontrei graça aos teus olhos, segue em nosso meio conosco, mesmo que este povo seja de cerviz dura. Perdoa as nossas faltas e os nossos pecados, e toma-nos por tua herança”. \\par",
+      "reference": "Ex 34:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i A Aliança\\par }Então ele disse: “Eis que faço uma aliança. Farei diante de todo o teu povo maravilhas como não se fizeram em toda a terra, nem em nação alguma. Todo este povo, no meio do qual estás, verá a obra de Iahweh, porque coisa temível é o que vou fazer contigo.",
+      "reference": "Ex 34:10"
+    },
+    "11": {
+      "text": "Fica atento para observar o que hoje te ordeno: expulsarei de diante de ti os amorreus, os cananeus, os heteus, os ferezeus, os heveus e os jebuseus.",
+      "reference": "Ex 34:11"
+    },
+    "12": {
+      "text": "Abstém-te de fazer aliança com os moradores da terra para onde vais, para que não te sejam uma cilada.",
+      "reference": "Ex 34:12"
+    },
+    "13": {
+      "text": "Ao contrário, derrubareis os seus altares, quebrareis as suas colunas e os seus postes sagrados:",
+      "reference": "Ex 34:13"
+    },
+    "14": {
+      "text": "Não adorarás outro deus. Pois Iahweh tem por nome Zeloso: é um Deus zeloso.",
+      "reference": "Ex 34:14"
+    },
+    "15": {
+      "text": "Não faças aliança com os moradores da terra. Não suceda que, em se prostituindo com os deuses deles e lhes sacrificando, alguém te convide e comas dos seus sacrifícios,",
+      "reference": "Ex 34:15"
+    },
+    "16": {
+      "text": "e tomes mulheres das suas filhas para os teus filhos, e suas filhas, prostituindo-se com seus deuses, façam que também os teus filhos se prostituam com os seus deuses. \\par",
+      "reference": "Ex 34:16"
+    },
+    "17": {
+      "text": "Não farás para ti deuses de metal fundido. \\par",
+      "reference": "Ex 34:17"
+    },
+    "18": {
+      "text": "Guardarás a festa dos Ázimos. Durante sete dias comerás ázimo, como te ordenei, no tempo fixado no mês de Abib, porque foi no mês de Abib que saíste do Egito. \\par",
+      "reference": "Ex 34:18"
+    },
+    "19": {
+      "text": "Todo o que sair por primeiro do seio materno é meu: todo macho, todo primogênito das tuas ovelhas e do teu gado.",
+      "reference": "Ex 34:19"
+    },
+    "20": {
+      "text": "O jumento, porém, que sair por primeiro do seio materno, tu o resgatarás com um cordeiro; se não o resgatares, quebrar-lhe-ás a nuca. Resgatarás todos os primogênitos dos teus filhos. Não comparecerás diante de mim de mãos vazias. \\par",
+      "reference": "Ex 34:20"
+    },
+    "21": {
+      "text": "Seis dias trabalharás; mas no sétimo descansarás, quer na aradura quer na colheita. \\par",
+      "reference": "Ex 34:21"
+    },
+    "22": {
+      "text": "Guardarás a festa das Semanas: as primícias da colheita do trigo e a festa da colheita na passagem de ano. \\par",
+      "reference": "Ex 34:22"
+    },
+    "23": {
+      "text": "Três vezes por ano todo homem do teu meio aparecerá perante o Senhor Iahweh, Deus de Israel. \\par",
+      "reference": "Ex 34:23"
+    },
+    "24": {
+      "text": "Porque expulsarei as nações de diante de ti, e alargarei o teu território; ninguém cobiçará a tua terra, quando subires para comparecer na presença de Iahweh teu Deus, três vezes por ano. \\par",
+      "reference": "Ex 34:24"
+    },
+    "25": {
+      "text": "Não oferecerás o sangue do meu sacrifício com pão levedado. Não ficará a vítima da festa da Páscoa da noite para a manhã. \\par",
+      "reference": "Ex 34:25"
+    },
+    "26": {
+      "text": "Trarás o melhor das primícias para a Casa de Iahweh teu Deus. Não cozerás o cabrito no leite da sua própria mãe”. \\par",
+      "reference": "Ex 34:26"
+    },
+    "27": {
+      "text": "Disse ainda Iahweh a Moisés: “Escreve estas palavras; porque segundo o teor destas palavras fiz aliança contigo e com Israel”. \\par",
+      "reference": "Ex 34:27"
+    },
+    "28": {
+      "text": "Moisés esteve ali com Iahweh quarenta dias e quarenta noites, sem comer pão nem beber água. Ele escreveu nas tábuas as palavras da aliança, as dez palavras. \\par",
+      "reference": "Ex 34:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Moisés desce da montanha\\par }Quando Moisés desceu da montanha do Sinai, trazendo nas mãos as duas tábuas do Testemunho, sim, quando desceu da montanha, não sabia que a pele de seu rosto resplandecia porque havia falado com ele.",
+      "reference": "Ex 34:29"
+    },
+    "30": {
+      "text": "Olhando Aarão e todos os filhos de Israel para Moisés, eis que a pele de seu rosto resplandecia; e tinham medo de aproximar-se dele.",
+      "reference": "Ex 34:30"
+    },
+    "31": {
+      "text": "Moisés, porém, os chamou; Aarão e os chefes da comunidade foram até ele, e Moisés lhes falou.",
+      "reference": "Ex 34:31"
+    },
+    "32": {
+      "text": "Depois aproximaram-se todos os filhos de Israel, e ordenou-lhes tudo o que Iahweh havia dito sobre a montanha do Sinai.",
+      "reference": "Ex 34:32"
+    },
+    "33": {
+      "text": "Quando Moisés terminou de lhes falar, colocou um véu sobre a face.",
+      "reference": "Ex 34:33"
+    },
+    "34": {
+      "text": "Quando Moisés entrava diante de Iahweh para falar com ele, retirava o véu, até o momento de sair. Ao sair, dizia aos filhos de Israel o que lhe havia sido ordenado,",
+      "reference": "Ex 34:34"
+    },
+    "35": {
+      "text": "e os filhos de Israel viam resplandecer o rosto de Moisés. Depois Moisés colocava o véu sobre a face, até que entrasse para falar com ele. \\par",
+      "reference": "Ex 34:35"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 35
+}

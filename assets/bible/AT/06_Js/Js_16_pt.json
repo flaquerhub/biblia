@@ -1,0 +1,53 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A tribo de Efraim\\par }A parte dos filhos de José começava ao oriente do Jordão de Jericó – as águas de Jericó –, que é o deserto que sobe de Jericó para a montanha de Betel;",
+      "reference": "Js 16:1"
+    },
+    "2": {
+      "text": "em seguida, partia de Betel em direção a Luza e passava em direção da fronteira dos araquitas em Atarot;",
+      "reference": "Js 16:2"
+    },
+    "3": {
+      "text": "depois descia a oeste em direção à fronteira dos jeflatitas até à fronteira de Bet-Horon Inferior e até Gazer, de onde se dirigia para o mar.",
+      "reference": "Js 16:3"
+    },
+    "4": {
+      "text": "Essa foi a herança dos filhos de José, Manassés e Efraim. \\par",
+      "reference": "Js 16:4"
+    },
+    "5": {
+      "text": "Quanto ao território dos filhos de Efraim segundo seus clãs a fronteira de sua herança era Atarot-Arac até Bet-Horon Superior,",
+      "reference": "Js 16:5"
+    },
+    "6": {
+      "text": "depois a fronteira se dirigia para o mar... o Macmetat ao norte, e a fronteira voltava ao oriente em direção a Tanat-Silo, que atravessava ao oriente em direção de Janoe;",
+      "reference": "Js 16:6"
+    },
+    "7": {
+      "text": "descia de Janoe a Atarot e a Naarata, tocava Jericó e atingia o Jordão.",
+      "reference": "Js 16:7"
+    },
+    "8": {
+      "text": "De Tafua, a fronteira ia em direção ao ocidente, à torrente de Caná, e se dirigia para o mar. Essa foi a herança da tribo dos filhos de Efraim, segundo suas famílias,",
+      "reference": "Js 16:8"
+    },
+    "9": {
+      "text": "além das cidades reservadas aos filhos de Efraim no meio da herança dos filhos de Manassés, todas aquelas cidades com as suas aldeias.",
+      "reference": "Js 16:9"
+    },
+    "10": {
+      "text": "Os cananeus que habitavam Gazer não foram expulsos e permaneceram no meio de Efraim até o dia de hoje, sujeitos a trabalhos forçados. \\par",
+      "reference": "Js 16:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

@@ -1,0 +1,105 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O batismo\\par }Que diremos, então? Que devemos permanecer no pecado a fim de que a graça atinja sua plenitude?",
+      "reference": "Rm 6:1"
+    },
+    "2": {
+      "text": "De modo algum! Nós, que morremos para o pecado, como haveríamos de viver ainda nele?",
+      "reference": "Rm 6:2"
+    },
+    "3": {
+      "text": "Ou não sabeis que todos os que fomos batizados em Cristo Jesus, é na sua morte que fomos batizados?",
+      "reference": "Rm 6:3"
+    },
+    "4": {
+      "text": "Portanto pelo batismo nós fomos sepultados com ele na morte para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim também nós vivamos vida nova. \\par",
+      "reference": "Rm 6:4"
+    },
+    "5": {
+      "text": "Porque se nos tornamos uma coisa só com ele por uma morte semelhante à sua, seremos uma coisa só com ele também por uma ressurreição semelhante à sua,",
+      "reference": "Rm 6:5"
+    },
+    "6": {
+      "text": "sabendo que nosso velho homem foi crucificado com ele para que fosse destruído este corpo de pecado, e assim não sirvamos mais ao pecado.",
+      "reference": "Rm 6:6"
+    },
+    "7": {
+      "text": "Com efeito, quem morreu, ficou livre do pecado. \\par",
+      "reference": "Rm 6:7"
+    },
+    "8": {
+      "text": "Mas se morremos com Cristo, temos fé que também viveremos com ele,",
+      "reference": "Rm 6:8"
+    },
+    "9": {
+      "text": "sabendo que Cristo, uma vez ressuscitado dentre os mortos, já não morre, a morte não tem mais domínio sobre ele.",
+      "reference": "Rm 6:9"
+    },
+    "10": {
+      "text": "Porque, morrendo, ele morreu para o pecado uma vez por todas; vivendo, ele vive para Deus.",
+      "reference": "Rm 6:10"
+    },
+    "11": {
+      "text": "Assim também vós considerai-vos mortos para o pecado e vivos para Deus em Cristo Jesus. \\par",
+      "reference": "Rm 6:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Serviço do pecado e serviço da justiça\\par }Portanto, que o pecado não impere mais em vosso corpo mortal, sujeitando-vos às suas paixões;",
+      "reference": "Rm 6:12"
+    },
+    "13": {
+      "text": "nem entregueis vossos membros, como armas de injustiça, ao pecado; pelo contrário, oferecei-vos a Deus como vivos provindos dos mortos e oferecei vossos membros como arma de justiça ao serviço de Deus.",
+      "reference": "Rm 6:13"
+    },
+    "14": {
+      "text": "E o pecado não vos dominará, porque não estais debaixo da Lei, mas sob a graça. \\par",
+      "reference": "Rm 6:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i O cristão é libertado da escravidão do pecado\\par }E daí? Vamos pecar, porque não estamos mais debaixo da Lei mas sob a graça? De modo algum!",
+      "reference": "Rm 6:15"
+    },
+    "16": {
+      "text": "Não sabeis que oferecendo-vos a alguém como escravos para obedecer, vos tornais escravos daquele a quem obedeceis, seja do pecado que leva à morte, seja da obediência que conduz à justiça?",
+      "reference": "Rm 6:16"
+    },
+    "17": {
+      "text": "Mas, graças a Deus, vós, outrora escravos do pecado, vos submetestes de coração à forma de doutrina à qual fostes entregue",
+      "reference": "Rm 6:17"
+    },
+    "18": {
+      "text": "e, assim, livres do pecado, vos tornastes servos da justiça.",
+      "reference": "Rm 6:18"
+    },
+    "19": {
+      "text": "– Emprego uma linguagem humana, em consideração de vossa fragilidade. Como outrora entregastes vossos membros à escravidão da impureza e da desordem para viver desregradamente, assim entregai agora vossos membros a serviço da justiça para a santificação. \\par",
+      "reference": "Rm 6:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Os frutos do pecado e da justiça\\par }Quando éreis escravos do pecado, estáveis livres em relação à justiça.",
+      "reference": "Rm 6:20"
+    },
+    "21": {
+      "text": "E que fruto colhestes então daquelas coisas de que agora vos envergonhais? Pois seu desfecho é a morte.",
+      "reference": "Rm 6:21"
+    },
+    "22": {
+      "text": "Mas agora, libertos do pecado e postos a serviço de Deus, tendes vosso fruto para a santificação e, como desfecho, a vida eterna.",
+      "reference": "Rm 6:22"
+    },
+    "23": {
+      "text": "Porque o salário do pecado é a morte, e a graça de Deus é a vida eterna em Cristo Jesus, nosso Senhor.\\par",
+      "reference": "Rm 6:23"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 23
+}

@@ -1,0 +1,93 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Volta do exílio e conversão\\par }Quando se cumprirem em ti todas estas palavras – a bênção e a maldição que eu te propus –, se as meditares em teu coração, em meio a todas as nações para onde Iahweh teu Deus te houver expulsado,",
+      "reference": "Dt 30:1"
+    },
+    "2": {
+      "text": "e quando te converteres a Iahweh teu Deus, obedecendo à sua voz conforme tudo o que hoje te ordeno, tu e teus filhos, com todo o teu coração e com toda a tua alma,",
+      "reference": "Dt 30:2"
+    },
+    "3": {
+      "text": "então Iahweh teu Deus mudará a tua sorte para melhor e se compadecerá de ti; Iahweh teu Deus voltará atrás e te reunirá de todos os povos entre os quais te havia dispersado.",
+      "reference": "Dt 30:3"
+    },
+    "4": {
+      "text": "Ainda que tivesses sido expulso para os confins do céu, de lá te reuniria Iahweh teu Deus, e de lá te tomaria",
+      "reference": "Dt 30:4"
+    },
+    "5": {
+      "text": "para te reintroduzir na terra que os teus pais possuíram, para que a possuas; ele te fará feliz e te multiplicará mais ainda que os teus pais. \\par",
+      "reference": "Dt 30:5"
+    },
+    "6": {
+      "text": "Iahweh teu Deus circuncidará o teu coração e o coração da tua descendência, para que ames a Iahweh teu Deus com todo o teu coração e com toda a tua alma, e vivas.",
+      "reference": "Dt 30:6"
+    },
+    "7": {
+      "text": "Iahweh teu Deus fará recair todas essas imprecações sobre os teus inimigos, sobre os que te odiaram e perseguiram.",
+      "reference": "Dt 30:7"
+    },
+    "8": {
+      "text": "Quanto a ti, voltarás a obedecer à voz de Iahweh teu Deus, pondo em prática todos os seus mandamentos que hoje te ordeno.",
+      "reference": "Dt 30:8"
+    },
+    "9": {
+      "text": "Iahweh teu Deus tornar-te-á próspero em todo trabalho da tua mão, no fruto do teu ventre, no fruto dos teus animais e no fruto do teu solo. Porque Iahweh voltará a se comprazer com a tua felicidade, assim como se comprazia com a felicidade dos teus pais,",
+      "reference": "Dt 30:9"
+    },
+    "10": {
+      "text": "caso obedeças à voz de Iahweh teu Deus, observando seus mandamentos e seus estatutos escritos neste livro da Lei, caso te convertas com todo o teu coração e com toda a tua alma a Iahweh teu Deus. \\par",
+      "reference": "Dt 30:10"
+    },
+    "11": {
+      "text": "Porque este mandamento que hoje te ordeno não é excessivo para ti, nem está fora do teu alcance.",
+      "reference": "Dt 30:11"
+    },
+    "12": {
+      "text": "Ele não está no céu, para que fiques dizendo: ‘Quem subiria por nós até o céu, para trazê-lo a nós, para que possamos ouvi-lo e pô-lo em prática?’",
+      "reference": "Dt 30:12"
+    },
+    "13": {
+      "text": "E não está no além-mar, para que fiques dizendo: ‘Quem atravessaria o mar por nós, para trazê-lo a nós, para que possamos ouvi-lo e pô-lo em prática?’",
+      "reference": "Dt 30:13"
+    },
+    "14": {
+      "text": "Sim, porque a palavra está muito perto de ti: está na tua boca e no teu coração, para que a ponhas em prática. \\par",
+      "reference": "Dt 30:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Os dois caminhos\\par }Eis que hoje estou colocando diante de ti a vida e a felicidade, a morte e a infelicidade. \\par",
+      "reference": "Dt 30:15"
+    },
+    "16": {
+      "text": "Se ouves os mandamentos de Iahweh teu deus que hoje te ordeno – amando a Iahweh teu Deus, andando em seus caminhos e observando seus mandamentos, seus estatutos e suas normas – viverás e te multiplicarás. Iahweh teu Deus te abençoará na terra em que estás entrando a fim de tomares posse dela.",
+      "reference": "Dt 30:16"
+    },
+    "17": {
+      "text": "Contudo, se o teu coração se desviar e não ouvires, e te deixares seduzir e te prostrares diante de outros deuses, e os servires,",
+      "reference": "Dt 30:17"
+    },
+    "18": {
+      "text": "eu hoje vos declaro: é certo que perecereis! Não prolongareis vossos dias sobre o solo em que, ao atravessar o Jordão, estás entrando para dele tomar posse.",
+      "reference": "Dt 30:18"
+    },
+    "19": {
+      "text": "Hoje tomo o céu e a terra como testemunhas contra vós: eu te propus a vida ou a morte, a bênção ou a maldição. Escolhe, pois, a vida, para que vivas tu e a tua descendência,",
+      "reference": "Dt 30:19"
+    },
+    "20": {
+      "text": "amando a Iahweh teu Deus, obedecendo à sua voz e apegando-te a ele. Porque disto depende a tua vida e o prolongamento dos teus dias. E assim poderás habitar sobre este solo que Iahweh jurara dar a teus pais, Abraão, Isaac e Jacó”. \\par",
+      "reference": "Dt 30:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

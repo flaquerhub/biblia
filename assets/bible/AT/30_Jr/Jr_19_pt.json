@@ -1,0 +1,73 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A bilha quebrada e a altercação com Fassur\\par }Assim disse Iahweh a Jeremias: Vai e compra uma bilha de oleiro. Toma contigo anciãos do povo e anciãos dos sacerdotes.",
+      "reference": "Jr 19:1"
+    },
+    "2": {
+      "text": "Sai em direção do vale de Ben-Enom, que está à entrada da porta dos Cacos. Lá proclamarás as palavras que eu te disser.",
+      "reference": "Jr 19:2"
+    },
+    "3": {
+      "text": "E dirás: Escutai a palavra de Iahweh, reis de Judá e habitantes de Jerusalém. Assim disse Iahweh dos Exércitos, Deus de Israel: eis que vou trazer uma desgraça sobre este lugar, que fará zunir os ouvidos de quem ouvir!",
+      "reference": "Jr 19:3"
+    },
+    "4": {
+      "text": "Porque eles me abandonaram, desvirtuaram este lugar, ofereceram nele incenso a deuses estrangeiros, que nem eles, nem seus pais nem os reis de Judá tinham conhecido, e encheram este lugar com o sangue dos inocentes.",
+      "reference": "Jr 19:4"
+    },
+    "5": {
+      "text": "Eles construíram lugares altos a Baal, para queimarem os seus filhos em holocausto a Baal, o que eu não tinha ordenado nem falado e nem jamais pensado!",
+      "reference": "Jr 19:5"
+    },
+    "6": {
+      "text": "Por isso, eis que dias virão – oráculo de Iahweh – em que não se chamará mais a este lugar Tofet ou vale de Ben-Enom, mas sim vale da Matança.",
+      "reference": "Jr 19:6"
+    },
+    "7": {
+      "text": "Esvaziarei os planos de Judá e de Jerusalém neste lugar e os farei cair pela espada diante de seus inimigos, pela mão daqueles que atentam contra a sua vida, e darei os seus cadáveres como alimento aos pássaros do céu e aos animais selvagens.",
+      "reference": "Jr 19:7"
+    },
+    "8": {
+      "text": "Eu farei desta cidade um objeto de pavor e de burla; cada um que passar por ela ficará estupefato e assobiará, por causa de todos os seus ferimentos.",
+      "reference": "Jr 19:8"
+    },
+    "9": {
+      "text": "Eu farei que eles devorem a carne de seus filhos e a carne de suas filhas: eles se devorarão mutuamente na angústia e na necessidade com que os oprimem os seus inimigos e aqueles que atentam contra a sua vida. \\par",
+      "reference": "Jr 19:9"
+    },
+    "10": {
+      "text": "Tu quebrarás a bilha diante dos olhos dos homens que foram contigo",
+      "reference": "Jr 19:10"
+    },
+    "11": {
+      "text": "e lhes dirás: Assim disse Iahweh dos Exércitos: Eu vou quebrar este povo e esta cidade como se quebra o vaso do oleiro, que não pode ser mais consertado. \\par Enterrarão em Tofet, por falta de lugar para enterrar.",
+      "reference": "Jr 19:11"
+    },
+    "12": {
+      "text": "Assim eu farei a este lugar – oráculo de Iahweh – e aos seus habitantes, para tornar esta cidade como Tofet.",
+      "reference": "Jr 19:12"
+    },
+    "13": {
+      "text": "As casas de Jerusalém e as casas dos reis de Judá serão impuras, como o lugar de Tofet: todas as casas em cujos terraços eles ofereceram incenso a todo o exército dos céus e derramaram libações a deuses estrangeiros! \\par",
+      "reference": "Jr 19:13"
+    },
+    "14": {
+      "text": "Jeremias retornou de Tofet, aonde Iahweh o tinha enviado para profetizar, e colocou-se no pátio do Templo de Iahweh e disse a todo o povo:",
+      "reference": "Jr 19:14"
+    },
+    "15": {
+      "text": "“Assim disse Iahweh dos Exércitos, Deus de Israel: Eis que eu vou trazer sobre esta cidade e todas as suas povoações toda a desgraça que eu falei contra ela, porque eles endureceram a sua cerviz e não ouviram as minhas palavras”. \\par",
+      "reference": "Jr 19:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

@@ -1,0 +1,225 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 89,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 89 (88)\\par }{\\qc\\b\\i Hino e prece ao Deus fiel\\par }{\\qc\\i Poema. De Etã, o ezraíta.\\par }",
+      "reference": "Sl 89:1"
+    },
+    "2": {
+      "text": "Vou cantar para sempre o amor de Iahweh, \\par minha boca anunciará tua verdade de geração em geração, \\par",
+      "reference": "Sl 89:2"
+    },
+    "3": {
+      "text": "pois disseste: o amor está edificado para sempre, \\par firmaste a tua verdade no céu. \\par",
+      "reference": "Sl 89:3"
+    },
+    "4": {
+      "text": "“Fiz uma aliança com meu eleito, \\par eu jurei ao meu servo Davi: \\par",
+      "reference": "Sl 89:4"
+    },
+    "5": {
+      "text": "estabeleci tua descendência para sempre, \\par de geração em geração construo um trono para ti”. {\\i Pausa} \\par",
+      "reference": "Sl 89:5"
+    },
+    "6": {
+      "text": "O céu celebra a tua maravilha, Iahweh, \\par por tua verdade, na assembléia dos santos. \\par",
+      "reference": "Sl 89:6"
+    },
+    "7": {
+      "text": "E quem, sobre as nuvens, é como Iahweh? \\par Dentre os filhos dos deuses, quem é como Iahweh? \\par",
+      "reference": "Sl 89:7"
+    },
+    "8": {
+      "text": "Deus é terrível no conselho dos santos, \\par grande e terrível com todos os que o cercam. \\par",
+      "reference": "Sl 89:8"
+    },
+    "9": {
+      "text": "Iahweh, Deus dos exércitos, quem é como tu? \\par És poderoso, Iahweh, e a tua verdade te envolve! \\par",
+      "reference": "Sl 89:9"
+    },
+    "10": {
+      "text": "És tu que dominas o orgulho do mar, \\par quando suas ondas se elevam, tu as amansas; \\par",
+      "reference": "Sl 89:10"
+    },
+    "11": {
+      "text": "esmagaste Raab como um cadáver, \\par dispersaste teus inimigos com teu braço poderoso. \\par",
+      "reference": "Sl 89:11"
+    },
+    "12": {
+      "text": "Teu é o céu, e a terra te pertence, \\par fundaste o mundo e o que nele existe; \\par",
+      "reference": "Sl 89:12"
+    },
+    "13": {
+      "text": "o norte e o meio-dia, tu os criaste, \\par Tabor e Hermon aclamam o teu nome. \\par",
+      "reference": "Sl 89:13"
+    },
+    "14": {
+      "text": "Tens um braço poderoso, \\par tua mão é forte, e tua direita elevada; \\par",
+      "reference": "Sl 89:14"
+    },
+    "15": {
+      "text": "Justiça e Direito são a base do teu trono, \\par Amor e Verdade precedem a tua face. \\par",
+      "reference": "Sl 89:15"
+    },
+    "16": {
+      "text": "Feliz o povo que sabe aclamar: \\par ele caminha à luz de tua face, Iahweh, \\par",
+      "reference": "Sl 89:16"
+    },
+    "17": {
+      "text": "exulta todo o dia com teu nome, \\par e se exalta com tua justiça. \\par",
+      "reference": "Sl 89:17"
+    },
+    "18": {
+      "text": "Sim, tu és o esplendor de sua força, \\par com teu favor tu nos levantas a fronte; \\par",
+      "reference": "Sl 89:18"
+    },
+    "19": {
+      "text": "pois o nosso escudo pertence a Iahweh, \\par o nosso rei pertence ao Santo de Israel. \\par",
+      "reference": "Sl 89:19"
+    },
+    "20": {
+      "text": "Outrora falaste numa visão, \\par dizendo aos teus fiéis: \\par “Prestei auxílio a um bravo, \\par exaltei um eleito dentre o povo. \\par",
+      "reference": "Sl 89:20"
+    },
+    "21": {
+      "text": "Encontrei o meu servo Davi \\par e o ungi com meu óleo santo; \\par",
+      "reference": "Sl 89:21"
+    },
+    "22": {
+      "text": "é a ele que minha mão estabeleceu, \\par e meu braço ainda mais o fortificou. \\par",
+      "reference": "Sl 89:22"
+    },
+    "23": {
+      "text": "O inimigo não poderá enganá-lo, \\par nem o perverso humilhá-lo; \\par",
+      "reference": "Sl 89:23"
+    },
+    "24": {
+      "text": "diante dele esmagarei seus opressores \\par e ferirei os que o odeiam. \\par",
+      "reference": "Sl 89:24"
+    },
+    "25": {
+      "text": "Estará com ele minha verdade e meu amor, \\par e por meu nome seu vigor se exaltará; \\par",
+      "reference": "Sl 89:25"
+    },
+    "26": {
+      "text": "colocarei sua mão sobre o mar, \\par e sua direita sobre os rios. \\par",
+      "reference": "Sl 89:26"
+    },
+    "27": {
+      "text": "Ele me invocará: Tu és meu pai, \\par meu Deus e meu rochedo salvador! \\par",
+      "reference": "Sl 89:27"
+    },
+    "28": {
+      "text": "Eu o tornarei meu primogênito, \\par o altíssimo sobre os reis da terra. \\par",
+      "reference": "Sl 89:28"
+    },
+    "29": {
+      "text": "Para sempre vou manter-lhe meu amor, \\par e minha aliança com ele será firme; \\par",
+      "reference": "Sl 89:29"
+    },
+    "30": {
+      "text": "vou estabelecer sua descendência para sempre, \\par e seu trono como os dias do céu. \\par",
+      "reference": "Sl 89:30"
+    },
+    "31": {
+      "text": "Se seus filhos abandonarem minha lei \\par e não andarem conforme as minhas normas, \\par",
+      "reference": "Sl 89:31"
+    },
+    "32": {
+      "text": "se profanarem meus estatutos \\par e não guardarem meus mandamentos, \\par",
+      "reference": "Sl 89:32"
+    },
+    "33": {
+      "text": "eu punirei sua transgressão com vara, \\par e suas culpas com açoites, \\par",
+      "reference": "Sl 89:33"
+    },
+    "34": {
+      "text": "mas sem deles retirar meu amor, \\par sem desmentir minha verdade. \\par",
+      "reference": "Sl 89:34"
+    },
+    "35": {
+      "text": "Jamais vou profanar minha aliança, \\par nem mudar o que saiu da minha boca; \\par",
+      "reference": "Sl 89:35"
+    },
+    "36": {
+      "text": "por minha santidade eu jurei uma vez: \\par jamais vou mentir a Davi! \\par",
+      "reference": "Sl 89:36"
+    },
+    "37": {
+      "text": "Sua descendência será perpétua, \\par e seu trono é como o sol à minha frente, \\par",
+      "reference": "Sl 89:37"
+    },
+    "38": {
+      "text": "é como a lua, firmada para sempre, \\par um verdadeiro testemunho nas nuvens”. \\par",
+      "reference": "Sl 89:38"
+    },
+    "39": {
+      "text": "Tu, porém, rejeitaste e desprezaste, \\par ficaste indignado com teu ungido, \\par",
+      "reference": "Sl 89:39"
+    },
+    "40": {
+      "text": "renegaste a aliança do teu servo, \\par até o chão profanaste sua coroa. \\par",
+      "reference": "Sl 89:40"
+    },
+    "41": {
+      "text": "Fizeste brechas em seus muros todos, \\par e arruinaste suas fortalezas; \\par",
+      "reference": "Sl 89:41"
+    },
+    "42": {
+      "text": "todos os que passavam no caminho o pilharam, \\par tornou-se um opróbrio para seus vizinhos. \\par",
+      "reference": "Sl 89:42"
+    },
+    "43": {
+      "text": "Exaltaste a direita dos seus opressores, \\par alegraste seus inimigos todos; \\par",
+      "reference": "Sl 89:43"
+    },
+    "44": {
+      "text": "quebraste sua espada contra a rocha, \\par não o sustentaste no combate. \\par",
+      "reference": "Sl 89:44"
+    },
+    "45": {
+      "text": "Removeste seu cetro de esplendor \\par e derrubaste seu trono por terra; \\par",
+      "reference": "Sl 89:45"
+    },
+    "46": {
+      "text": "encurtaste os dias da sua juventude \\par e o cobriste de vergonha. {\\i Pausa} \\par",
+      "reference": "Sl 89:46"
+    },
+    "47": {
+      "text": "Até quando te esconderás, ó Iahweh? Até o fim? \\par Vai arder como fogo tua cólera? \\par",
+      "reference": "Sl 89:47"
+    },
+    "48": {
+      "text": "Lembra-te de mim: quanto dura a vida? \\par Para qual vazio criaste os filhos de Adão? \\par",
+      "reference": "Sl 89:48"
+    },
+    "49": {
+      "text": "Quem viverá sem ver a morte, \\par para tirar sua vida das garras do Xeol? {\\i Pausa} \\par",
+      "reference": "Sl 89:49"
+    },
+    "50": {
+      "text": "Onde estão as primícias do teu amor, ó Senhor? \\par Juraste a Davi pela tua verdade. \\par",
+      "reference": "Sl 89:50"
+    },
+    "51": {
+      "text": "Lembra-te, Senhor, do opróbrio do teu servo, \\par levo em meu seio todas as afrontas dos povos; \\par",
+      "reference": "Sl 89:51"
+    },
+    "52": {
+      "text": "Iahweh, teus inimigos ultrajaram, \\par ultrajaram as pegadas do teu ungido! \\par",
+      "reference": "Sl 89:52"
+    },
+    "53": {
+      "text": "Bendito seja Iahweh para sempre! \\par Amém! Amém! \\par",
+      "reference": "Sl 89:53"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 53
+}

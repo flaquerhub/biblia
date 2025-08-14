@@ -1,0 +1,129 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "Feliz do marido que tem uma mulher excelente: \\par o número de seus dias será dobrado. \\par",
+      "reference": "Eclo 26:1"
+    },
+    "2": {
+      "text": "Uma mulher perfeita alegra o seu marido, \\par ele passará em paz os anos de sua vida. \\par",
+      "reference": "Eclo 26:2"
+    },
+    "3": {
+      "text": "Uma mulher excelente é uma boa sorte, \\par será dada aos que temem ao Senhor: \\par",
+      "reference": "Eclo 26:3"
+    },
+    "4": {
+      "text": "rico ou pobre, tem o coração satisfeito, \\par tem sempre um semblante alegre. \\par",
+      "reference": "Eclo 26:4"
+    },
+    "5": {
+      "text": "Com três coisas preocupa-se meu coração \\par e uma quarta me apavora: \\par uma calúnia na cidade, uma revolta do povo, \\par uma falsa acusação, tudo isso é pior que a morte. \\par",
+      "reference": "Eclo 26:5"
+    },
+    "6": {
+      "text": "Mas a mulher ciumenta causa ao coração sofrimento e aflição, \\par e o flagelo da língua é isto tudo acumulado. \\par",
+      "reference": "Eclo 26:6"
+    },
+    "7": {
+      "text": "Uma mulher má é uma canga de bois desajustada, \\par quem a subjuga é como quem pega um escorpião. \\par",
+      "reference": "Eclo 26:7"
+    },
+    "8": {
+      "text": "Motivo de grande indignação é uma mulher embriagada, \\par ela não poderá ocultar a sua inconveniência. \\par",
+      "reference": "Eclo 26:8"
+    },
+    "9": {
+      "text": "A libertinagem da mulher é vista na excitação dos olhos, \\par é conhecida nos seus olhares. \\par",
+      "reference": "Eclo 26:9"
+    },
+    "10": {
+      "text": "Reforça a tua vigilância em torno da filha audaciosa, \\par a fim de que, achando-se mal vigiada, ela não se aproveite disso. \\par",
+      "reference": "Eclo 26:10"
+    },
+    "11": {
+      "text": "Guarda-te bem da desavergonhada no olhar \\par e não te espantes se ela pecar contra ti. \\par",
+      "reference": "Eclo 26:11"
+    },
+    "12": {
+      "text": "Como um viajante sedento ela abre a boca, \\par bebe toda a água que encontra; \\par ela se assenta diante de qualquer estaca \\par e abre a aljava a toda flecha. \\par",
+      "reference": "Eclo 26:12"
+    },
+    "13": {
+      "text": "A graça de uma esposa alegra o seu marido \\par e sua ciência é para ele uma força. \\par",
+      "reference": "Eclo 26:13"
+    },
+    "14": {
+      "text": "Uma mulher silenciosa é um dom do Senhor, \\par não existe preço para a que é bem educada. \\par",
+      "reference": "Eclo 26:14"
+    },
+    "15": {
+      "text": "Graça sobre graça é uma mulher recatada, \\par aquela que é casta é de um valor inestimável. \\par",
+      "reference": "Eclo 26:15"
+    },
+    "16": {
+      "text": "Como o sol levantando-se sobre as montanhas do Senhor, \\par assim é o encanto da mulher na sua casa bem arrumada. \\par",
+      "reference": "Eclo 26:16"
+    },
+    "17": {
+      "text": "Uma lâmpada reluzindo sobre o candelabro sagrado, \\par assim é a beleza de seu rosto em um corpo bem acabado. \\par",
+      "reference": "Eclo 26:17"
+    },
+    "18": {
+      "text": "Colunas de ouro sobre base de prata, \\par assim são as belas pernas sobre calcanhares sólidos. \\par",
+      "reference": "Eclo 26:18"
+    },
+    "19": {
+      "text": "*",
+      "reference": "Eclo 26:19"
+    },
+    "20": {
+      "text": "*",
+      "reference": "Eclo 26:20"
+    },
+    "21": {
+      "text": "*",
+      "reference": "Eclo 26:21"
+    },
+    "22": {
+      "text": "*",
+      "reference": "Eclo 26:22"
+    },
+    "23": {
+      "text": "*",
+      "reference": "Eclo 26:23"
+    },
+    "24": {
+      "text": "*",
+      "reference": "Eclo 26:24"
+    },
+    "25": {
+      "text": "*",
+      "reference": "Eclo 26:25"
+    },
+    "26": {
+      "text": "*",
+      "reference": "Eclo 26:26"
+    },
+    "27": {
+      "text": "*",
+      "reference": "Eclo 26:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Coisas contristadoras\\par }Duas coisas entristecem meu coração \\par e uma terceira me encoleriza: \\par um guerreiro reduzido à miséria, \\par homens sensatos votados ao desprezo, \\par aquele que passa da justiça ao pecado; \\par o Senhor o destinará à espada. \\par",
+      "reference": "Eclo 26:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i O comércio\\par }Dificilmente um negociante afasta-se da culpa \\par e o comerciante não está isento de pecado. \\par",
+      "reference": "Eclo 26:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

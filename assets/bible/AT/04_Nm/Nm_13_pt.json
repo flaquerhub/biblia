@@ -1,0 +1,145 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Exploração de Canaã\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 13:1"
+    },
+    "2": {
+      "text": "“Envia homens, um de cada tribo, para explorar a terra de Canaã, que vou dar aos filhos de Israel. Enviareis todos aqueles que sejam seus príncipes”. \\par",
+      "reference": "Nm 13:2"
+    },
+    "3": {
+      "text": "Conforme a ordem de Iahweh, Moisés os enviou do deserto de Farã. Estes homens eram, todos eles, chefes dos filhos de Israel.",
+      "reference": "Nm 13:3"
+    },
+    "4": {
+      "text": "São estes os seus nomes: \\par Da tribo de Rúben, Samua, filho de Zacur; \\par",
+      "reference": "Nm 13:4"
+    },
+    "5": {
+      "text": "da tribo de Simeão, Safat, filho de Huri; \\par",
+      "reference": "Nm 13:5"
+    },
+    "6": {
+      "text": "da tribo de Judá, Caleb, filho de Jefoné; \\par",
+      "reference": "Nm 13:6"
+    },
+    "7": {
+      "text": "da tribo de Issacar, Igal, filho de José; \\par",
+      "reference": "Nm 13:7"
+    },
+    "8": {
+      "text": "da tribo de Efraim, Oséias, filho de Nun; \\par",
+      "reference": "Nm 13:8"
+    },
+    "9": {
+      "text": "da tribo de Benjamim, Falti, filho de Rafu;\\par",
+      "reference": "Nm 13:9"
+    },
+    "10": {
+      "text": "da tribo de Zabulon, Gediel, filho de Sodi; \\par",
+      "reference": "Nm 13:10"
+    },
+    "11": {
+      "text": "da tribo de José, da tribo de Manassés, Gadi, filho de Susi; \\par",
+      "reference": "Nm 13:11"
+    },
+    "12": {
+      "text": "da tribo de Dã, Amiel, filho de Gemali; \\par",
+      "reference": "Nm 13:12"
+    },
+    "13": {
+      "text": "da tribo de Aser, Setur, filho de Miguel; \\par",
+      "reference": "Nm 13:13"
+    },
+    "14": {
+      "text": "da tribo de Neftali, Naabi, filho de Vapsi; \\par",
+      "reference": "Nm 13:14"
+    },
+    "15": {
+      "text": "da tribo de Gad, Guel, filho de Maqui. \\par",
+      "reference": "Nm 13:15"
+    },
+    "16": {
+      "text": "Estes são os nomes dos homens que Moisés enviou para explorar a terra. E Moisés deu a Oséias, filho de Nun, o nome de Josué. \\par",
+      "reference": "Nm 13:16"
+    },
+    "17": {
+      "text": "Moisés os enviou para explorar a terra de Canaã: “Subi ao Negueb, e em seguida escalai a montanha.",
+      "reference": "Nm 13:17"
+    },
+    "18": {
+      "text": "Vede como é a terra; como é o povo que a habita, forte ou fraco, escasso ou numeroso;",
+      "reference": "Nm 13:18"
+    },
+    "19": {
+      "text": "como é a terra por ele habitada, boa ou má; como são as cidades por ele habitadas, campos ou fortalezas;",
+      "reference": "Nm 13:19"
+    },
+    "20": {
+      "text": "como é a terra, fértil ou estéril, se tem matas ou não. Sede corajosos. Trazei produtos da terra”. \\par Era a época das primeiras uvas.",
+      "reference": "Nm 13:20"
+    },
+    "21": {
+      "text": "Subiram eles para explorar a terra, desde o deserto de Sin até Roob, a Entrada de Emat.",
+      "reference": "Nm 13:21"
+    },
+    "22": {
+      "text": "Subiram pelo Negueb e chegaram a Hebron, onde se achavam Aimã, Sesai e Tolmai, os enacim. (Hebron havia sido fundada sete anos antes de Tânis do Egito).",
+      "reference": "Nm 13:22"
+    },
+    "23": {
+      "text": "E chegaram ao vale de Escol; lá cortaram um ramo de videira com um cacho de uvas que levaram sobre uma vara, transportada por dois homens; levaram também romãs e figos.",
+      "reference": "Nm 13:23"
+    },
+    "24": {
+      "text": "Chamou-se a este lugar de vale de Escol por causa do cacho que lá cortaram os filhos de Israel. \\par",
+      "reference": "Nm 13:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i O relato dos enviados\\par }Ao cabo de quarenta dias, voltaram da exploração da terra.",
+      "reference": "Nm 13:25"
+    },
+    "26": {
+      "text": "Vieram a Moisés, Aarão e a toda a comunidade de Israel, no deserto de Farã, em Cades. Fizeram-lhe o seu relato, bem como a toda a comunidade, e mostraram-lhes os produtos da terra. \\par",
+      "reference": "Nm 13:26"
+    },
+    "27": {
+      "text": "Relataram-lhes o seguinte: “Fomos à terra à qual nos enviastes. Na verdade é terra onde mana leite e mel; eis os seus produtos.",
+      "reference": "Nm 13:27"
+    },
+    "28": {
+      "text": "Contudo, o povo que a habita é poderoso; as cidades são fortificadas, muito grandes; também vimos ali os filhos de Enac.",
+      "reference": "Nm 13:28"
+    },
+    "29": {
+      "text": "Os amalecitas ocupam a região do Negueb; os heteus, os amorreus e os jebuseus, a montanha; os cananeus, a orla marítima e ao longo do Jordão”. \\par",
+      "reference": "Nm 13:29"
+    },
+    "30": {
+      "text": "Então Caleb fez calar o povo reunido diante de Moisés: “Devemos marchar”, disse ele, “e conquistar essa terra: realmente podemos fazer isso”.",
+      "reference": "Nm 13:30"
+    },
+    "31": {
+      "text": "Os homens que o haviam acompanhado disseram: “Não podemos marchar contra esse povo, visto que é mais forte do que nós”.",
+      "reference": "Nm 13:31"
+    },
+    "32": {
+      "text": "E puseram-se a difamar diante dos filhos de Israel a terra que haviam explorado: “A terra que fomos explorar é terra que devora os seus habitantes. Todos aqueles que lá vimos são homens de grande estatura.",
+      "reference": "Nm 13:32"
+    },
+    "33": {
+      "text": "Lá também vimos gigantes (os filhos de Enac, descendência de gigantes). Tínhamos a impressão de sermos gafanhotos diante deles e assim também lhes parecíamos”. \\par",
+      "reference": "Nm 13:33"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 33
+}

@@ -1,0 +1,33 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 127,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 127 (126)\\par }{\\qc\\b\\i Abandono à Providência\\par }{\\qc\\i Cântico das subidas. De Salomão.\\par } Se Iahweh não constrói a casa, \\par em vão labutam os seus construtores; \\par se Iahweh não guarda a cidade, \\par em vão vigiam os guardas. \\par",
+      "reference": "Sl 127:1"
+    },
+    "2": {
+      "text": "É inútil que madrugueis, \\par e que atraseis o vosso deitar \\par para comer o pão com duros trabalhos: \\par ao seu amado ele o dá enquanto dorme! \\par",
+      "reference": "Sl 127:2"
+    },
+    "3": {
+      "text": "Sim, os filhos são a herança de Iahweh, \\par é um salário o fruto do ventre! \\par",
+      "reference": "Sl 127:3"
+    },
+    "4": {
+      "text": "Como flechas na mão de um guerreiro \\par são os filhos da juventude. \\par",
+      "reference": "Sl 127:4"
+    },
+    "5": {
+      "text": "Feliz o homem \\par que encheu sua aljava com elas: \\par não ficará envergonhado frente às portas, \\par ao litigar com seus inimigos. \\par",
+      "reference": "Sl 127:5"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 5
+}

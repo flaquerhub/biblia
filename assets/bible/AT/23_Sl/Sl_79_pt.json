@@ -1,0 +1,65 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 79,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 79 (78)\\par }{\\qc\\b\\i Lamentação nacional\\par }{\\qc\\i Salmo. De Asaf.\\par } Ó Deus, as nações invadiram tua herança, \\par profanaram teu sagrado Templo, \\par fizeram de Jerusalém um monte de ruínas, \\par",
+      "reference": "Sl 79:1"
+    },
+    "2": {
+      "text": "deram os cadáveres dos teus servos \\par como alimento às aves do céu, \\par a carne dos teus fiéis às feras da terra. \\par",
+      "reference": "Sl 79:2"
+    },
+    "3": {
+      "text": "Derramaram o sangue deles como água \\par ao redor de Jerusalém, e ninguém para enterrar! \\par",
+      "reference": "Sl 79:3"
+    },
+    "4": {
+      "text": "Tornamo-nos ultraje para nossos vizinhos, \\par divertimento e zombaria para aqueles que nos cercam. \\par",
+      "reference": "Sl 79:4"
+    },
+    "5": {
+      "text": "Até quando vai tua ira, Iahweh? Até o fim? \\par Teu ciúme vai arder como um fogo? \\par",
+      "reference": "Sl 79:5"
+    },
+    "6": {
+      "text": "Derrama teu furor sobre estas nações \\par que não te conhecem, \\par sobre estes reinos \\par que não invocam teu nome. \\par",
+      "reference": "Sl 79:6"
+    },
+    "7": {
+      "text": "Pois eles devoraram Jacó \\par e devastaram sua moradia. \\par",
+      "reference": "Sl 79:7"
+    },
+    "8": {
+      "text": "Não recordes contra nós as faltas dos antepassados! \\par Que tua compaixão venha logo ao nosso encontro, \\par pois estamos muito enfraquecidos. \\par",
+      "reference": "Sl 79:8"
+    },
+    "9": {
+      "text": "Socorre-nos, ó Deus salvador nosso, \\par por causa da glória do teu nome! \\par Perdoa nossos pecados, ó Iahweh, \\par liberta-nos, por causa do teu nome! \\par",
+      "reference": "Sl 79:9"
+    },
+    "10": {
+      "text": "Por que diriam as nações: “Onde está o Deus deles?” \\par Que aos nossos olhos as nações reconheçam a vingança \\par do sangue dos teus servos, que foi derramado. \\par",
+      "reference": "Sl 79:10"
+    },
+    "11": {
+      "text": "Chegue à tua presença o gemido do cativo; \\par pela grandeza do teu braço, preserva os filhos da morte. \\par",
+      "reference": "Sl 79:11"
+    },
+    "12": {
+      "text": "Devolve aos nossos vizinhos sete vezes no seu peito \\par o ultraje com que te afrontaram, ó Senhor! \\par",
+      "reference": "Sl 79:12"
+    },
+    "13": {
+      "text": "Quanto a nós, teu povo, rebanho do teu pasto, \\par nós te celebramos para sempre, \\par e de geração em geração vamos proclamar teu louvor! \\par",
+      "reference": "Sl 79:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

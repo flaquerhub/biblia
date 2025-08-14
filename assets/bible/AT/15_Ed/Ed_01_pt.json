@@ -1,0 +1,57 @@
+{
+  "book": 15,
+  "book_name": "Esdras",
+  "book_abbr": "Ed",
+  "book_category": "Histórico",
+  "book_english": "Ezra",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i I. O retorno do Exílio e a reconstrução do Templo}\\par }{\\qc\\b\\i O retorno dos sionistas\\par }No primeiro ano de Ciro, rei da Pérsia, para cumprir a palavra de Iahweh pronunciada por Jeremias, Iahweh suscitou o espírito de Ciro, rei da Pérsia, que mandou proclamar de viva voz e por escrito, em todo o seu reino, o seguinte:",
+      "reference": "Ed 1:1"
+    },
+    "2": {
+      "text": "“Assim fala Ciro, rei da Pérsia: Iahweh, o Deus do céu, entregou-me todos os reinos da terra e me encarregou de construir-lhe um Templo em Jerusalém, na terra de Judá.",
+      "reference": "Ed 1:2"
+    },
+    "3": {
+      "text": "Todo aquele que dentre vós, pertence a seu povo, Deus esteja com ele e suba a Jerusalém, na terra de Judá e construa o Templo de Iahweh, o Deus de Israel – o Deus que reside em Jerusalém.",
+      "reference": "Ed 1:3"
+    },
+    "4": {
+      "text": "Que a todos os sobreviventes, em toda parte, a população dos lugares onde eles moram traga uma ajuda em prata, ouro, bens, animais e donativos espontâneos para o Templo de Deus que está em Jerusalém”. \\par",
+      "reference": "Ed 1:4"
+    },
+    "5": {
+      "text": "Então os chefes de família de Judá e de Benjamim, os sacerdotes e os levitas, todos aqueles que se sentiram animados por Deus, prepararam-se para ir edificar o Templo de Iahweh, em Jerusalém;",
+      "reference": "Ed 1:5"
+    },
+    "6": {
+      "text": "e todos os seus vizinhos trouxeram-lhes toda espécie de ajuda: prata, ouro, bens, animais e coisas preciosas, fora o que eles tinham oferecido voluntariamente. \\par",
+      "reference": "Ed 1:6"
+    },
+    "7": {
+      "text": "O rei Ciro mandou trazer os utensílios do Templo de Iahweh que Nabucodonosor havia transportado de Jerusalém e posto no templo de seu deus.",
+      "reference": "Ed 1:7"
+    },
+    "8": {
+      "text": "Ciro, rei da Pérsia, confiou-os às mãos de Mitrídates, o tesoureiro, que os entregou contados a Sasabassar, príncipe de Judá.",
+      "reference": "Ed 1:8"
+    },
+    "9": {
+      "text": "Eis o seu número: trinta cálices de ouro, mil cálices de prata, vinte e nove facas;",
+      "reference": "Ed 1:9"
+    },
+    "10": {
+      "text": "trinta copos de ouro, quatrocentos e dez copos de prata e mil outros utensílios.",
+      "reference": "Ed 1:10"
+    },
+    "11": {
+      "text": "Todos os objetos de ouro e prata somavam cinco mil e quatrocentos. Tudo isso Sasabassar levou, quando fez subir os exilados de Babilônia para Jerusalém. \\par",
+      "reference": "Ed 1:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

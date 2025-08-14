@@ -1,0 +1,65 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Ainda que eu falasse línguas, \\par as dos homens e as dos anjos, \\par se eu não tivesse a caridade, \\par seria como um bronze que soa \\par ou como um címbalo que tine. \\par",
+      "reference": "1Co 13:1"
+    },
+    "2": {
+      "text": "Ainda que eu tivesse o dom da profecia, \\par o conhecimento de todos os mistérios \\par e de toda a ciência, \\par ainda que tivesse toda a fé, \\par a ponto de transportar montanhas, \\par se não tivesse a caridade, \\par eu nada seria. \\par",
+      "reference": "1Co 13:2"
+    },
+    "3": {
+      "text": "Ainda que eu distribuísse \\par todos os meus bens aos famintos, \\par ainda que entregasse \\par o meu corpo às chamas, \\par se não tivesse a caridade, \\par isso nada me adiantaria. \\par",
+      "reference": "1Co 13:3"
+    },
+    "4": {
+      "text": "A caridade é paciente, \\par a caridade é prestativa, \\par não é invejosa, não se ostenta, \\par não se incha de orgulho. \\par",
+      "reference": "1Co 13:4"
+    },
+    "5": {
+      "text": "Nada faz de inconveniente, \\par não procura o seu próprio interesse, \\par não se irrita, não guarda rancor. \\par",
+      "reference": "1Co 13:5"
+    },
+    "6": {
+      "text": "Não se alegra com a injustiça, \\par mas se regozija com a verdade. \\par",
+      "reference": "1Co 13:6"
+    },
+    "7": {
+      "text": "Tudo desculpa, tudo crê, \\par tudo espera, tudo suporta. \\par",
+      "reference": "1Co 13:7"
+    },
+    "8": {
+      "text": "A caridade jamais passará. \\par Quanto às profecias, desaparecerão. \\par Quanto às línguas, cessarão. \\par Quanto à ciência, também desaparecerá. \\par",
+      "reference": "1Co 13:8"
+    },
+    "9": {
+      "text": "Pois o nosso conhecimento é limitado, \\par e limitada é a nossa profecia. \\par",
+      "reference": "1Co 13:9"
+    },
+    "10": {
+      "text": "Mas, quando vier a perfeição, \\par o que é limitado desaparecerá. \\par",
+      "reference": "1Co 13:10"
+    },
+    "11": {
+      "text": "Quando eu era criança, \\par falava como criança, \\par pensava como criança, \\par raciocinava como criança. \\par Depois que me tornei homem, \\par fiz desaparecer o que era próprio \\par da criança. \\par",
+      "reference": "1Co 13:11"
+    },
+    "12": {
+      "text": "Agora vemos em espelho \\par e de maneira confusa, \\par mas, depois, veremos face a face. \\par Agora o meu conhecimento é limitado, \\par mas, depois, conhecerei como sou conhecido. \\par",
+      "reference": "1Co 13:12"
+    },
+    "13": {
+      "text": "Agora, portanto, permanecem fé, \\par esperança, caridade, \\par estas três coisas. \\par A maior delas, porém, é a caridade. \\par",
+      "reference": "1Co 13:13"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 13
+}

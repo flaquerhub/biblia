@@ -1,0 +1,105 @@
+{
+  "book": 51,
+  "book_name": "Colossenses",
+  "book_abbr": "Cl",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Colossians",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Cuidado de Paulo pela fé dos colossenses\\par }E quero que saibais como é grande a luta em que me empenho por vós e pelos de Laodicéia, e por todos quantos não me conhecem pessoalmente,",
+      "reference": "Cl 2:1"
+    },
+    "2": {
+      "text": "para que sejam confortados os seus corações, unidos no amor, e para que eles cheguem à riqueza da plenitude do entendimento e à compreensão do mistério de Deus,",
+      "reference": "Cl 2:2"
+    },
+    "3": {
+      "text": "no qual se acham escondidos todos os tesouros da sabedoria e do conhecimento! \\par",
+      "reference": "Cl 2:3"
+    },
+    "4": {
+      "text": "Digo isto para que ninguém vos engane com argumentos capciosos,",
+      "reference": "Cl 2:4"
+    },
+    "5": {
+      "text": "pois, embora eu esteja ausente no corpo, no espírito estou convosco, alegrando-me ao ver a vossa boa ordem e a firmeza da vossa fé em Cristo. \\par",
+      "reference": "Cl 2:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b {\\i II. Advertência contra os erros}\\par }{\\qc\\b\\i Viver a verdadeira fé em Cristo não segundo vãs doutrinas\\par }Portanto, assim como recebestes a Cristo Jesus, o Senhor, assim nele andai,",
+      "reference": "Cl 2:6"
+    },
+    "7": {
+      "text": "arraigados nele, sobre ele edificados, e apoiados na fé, como aprendestes, e transbordando em ação de graças. \\par",
+      "reference": "Cl 2:7"
+    },
+    "8": {
+      "text": "Tomai cuidado para que ninguém vos escravize por vãs e enganosas especulações da “filosofia”, segundo a tradição dos homens, segundo os elementos do mundo, e não segundo Cristo. \\par",
+      "reference": "Cl 2:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Só Cristo é o verdadeiro Chefe dos homens e dos anjos\\par }Pois nele habita corporalmente toda a plenitude da divindade",
+      "reference": "Cl 2:9"
+    },
+    "10": {
+      "text": "e nele fostes levados à plenitude. Ele é a Cabeça de todo Principado e de toda Autoridade. \\par",
+      "reference": "Cl 2:10"
+    },
+    "11": {
+      "text": "Nele fostes circuncidados, por uma circuncisão não feita por mão de homem, mas pelo desvestimento da vossa natureza carnal: essa é a circuncisão de Cristo.",
+      "reference": "Cl 2:11"
+    },
+    "12": {
+      "text": "Fostes sepultados com ele no batismo, também com ele ressuscitastes, pela fé no poder de Deus, que o ressuscitou dos mortos.",
+      "reference": "Cl 2:12"
+    },
+    "13": {
+      "text": "Vós estáveis mortos pelas vossas faltas e pela incircuncisão da vossa carne e ele vos vivificou juntamente com Cristo. Ele nos perdoou todas as nossas faltas:",
+      "reference": "Cl 2:13"
+    },
+    "14": {
+      "text": "apagou, em detrimento das ordens legais, o título de dívida que existia contra nós; e o suprimiu, pregando-o na cruz,",
+      "reference": "Cl 2:14"
+    },
+    "15": {
+      "text": "na qual ele despojou os Principados e as Autoridades, expondo-os em espetáculo em face do mundo, levando-os em cortejo triunfal. \\par",
+      "reference": "Cl 2:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Contra a falsa ascese, segundo “os elementos do mundo”\\par }Portanto, ninguém vos julgue por questões de comida e de bebida, ou a respeito de festas anuais ou de lua nova ou de sábados,",
+      "reference": "Cl 2:16"
+    },
+    "17": {
+      "text": "que são apenas sombra de coisas que haviam de vir, mas a realidade é o corpo de Cristo.",
+      "reference": "Cl 2:17"
+    },
+    "18": {
+      "text": "Ninguém vos prive do prêmio, com engodo de humildade, de culto dos anjos, indagando de coisas que viu, inchado de vão orgulho em sua mente carnal,",
+      "reference": "Cl 2:18"
+    },
+    "19": {
+      "text": "ignorando a Cabeça, pela qual todo o Corpo, alimentado e coeso pelas juntas e ligamentos, realiza o seu crescimento em Deus. \\par",
+      "reference": "Cl 2:19"
+    },
+    "20": {
+      "text": "Se morrestes com Cristo para os elementos do mundo, por que é que vos sujeitais, como se ainda vivêsseis no mundo, a proibições como",
+      "reference": "Cl 2:20"
+    },
+    "21": {
+      "text": "“não pegues, não proves, não toques”?!",
+      "reference": "Cl 2:21"
+    },
+    "22": {
+      "text": "Tudo isso está fadado ao desaparecimento por desgaste, como {\\i preceitos e ensinamentos dos homens.}",
+      "reference": "Cl 2:22"
+    },
+    "23": {
+      "text": "Têm na verdade aparência de sabedoria pela religiosidade afetada, pela humildade e mortificação do corpo, mas não têm valor algum senão para satisfação da carne. \\par",
+      "reference": "Cl 2:23"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 23
+}

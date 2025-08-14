@@ -1,0 +1,57 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. As visões proféticas}\\par I. OS PRELÚDIOS DO “GRANDE DIA” DE DEUS\\par }{\\qc\\b\\i Deus entrega o destino do mundo ao Cordeiro\\par }Depois disso, tive uma visão: havia uma porta aberta no céu, e a primeira voz, que ouvira falar-me como trombeta, disse: Sobe até aqui, para que eu te mostre {\\i as coisas que devem acontecer} depois destas.",
+      "reference": "Ap 4:1"
+    },
+    "2": {
+      "text": "Fui imediatamente movido pelo Espírito: eis que havia um trono no céu, e {\\i no trono, Alguém sentado...}",
+      "reference": "Ap 4:2"
+    },
+    "3": {
+      "text": "O que estava sentado tinha o aspecto de uma pedra de jaspe e cornalina, e um arco-íris envolvia o trono com reflexos de esmeralda.",
+      "reference": "Ap 4:3"
+    },
+    "4": {
+      "text": "Ao redor desse trono estavam dispostos vinte e quatro tronos, e neles assentavam-se vinte e quatro Anciãos, vestidos de branco e com coroas de ouro sobre a cabeça.",
+      "reference": "Ap 4:4"
+    },
+    "5": {
+      "text": "Do trono saíam relâmpagos, vozes e trovões, e diante do trono ardiam sete lâmpadas de fogo: são os sete Espíritos de Deus.",
+      "reference": "Ap 4:5"
+    },
+    "6": {
+      "text": "À frente do trono, havia como que um mar vítreo, semelhante ao cristal. No meio do trono e ao seu redor estavam {\\i quatro Seres vivos, cheios de olhos} pela frente e por trás.",
+      "reference": "Ap 4:6"
+    },
+    "7": {
+      "text": "{\\i O primeiro} Ser vivo é semelhante a {\\i um leão}; {\\i o segundo} Ser vivo, a {\\i um touro}; {\\i o terceiro} tem a {\\i face} como {\\i de homem}; {\\i o quarto} Ser vivo é semelhante a {\\i uma águia} em vôo.",
+      "reference": "Ap 4:7"
+    },
+    "8": {
+      "text": "Os quatro Seres vivos têm {\\i cada um seis asas} e são {\\i cheios de olhos ao redor} e por dentro. E, dia e noite sem parar, proclamam: \\par “{\\i Santo, Santo, Santo, \\par Senhor, Deus todo-poderoso}, \\par ‘Aquele-que-era, Aquele-que-é e Aquele-que-vem’”. \\par",
+      "reference": "Ap 4:8"
+    },
+    "9": {
+      "text": "E, a cada vez que os Seres vivos dão glória, honra e ação de graças àquele que está sentado no trono e {\\i que vive pelos séculos dos séculos},",
+      "reference": "Ap 4:9"
+    },
+    "10": {
+      "text": "{\\i os vinte e quatro Anciãos se prostram diante daquele que está sentado no trono para adorarem aquele que vive pelos séculos dos séculos}, depondo suas coroas diante do trono e proclamando: \\par",
+      "reference": "Ap 4:10"
+    },
+    "11": {
+      "text": "“Digno és tu, Senhor e Deus nosso, \\par de receber a glória, a honra e o poder, \\par pois tu criaste todas as coisas; \\par por tua vontade elas não existiam e foram criadas”. \\par",
+      "reference": "Ap 4:11"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 11
+}

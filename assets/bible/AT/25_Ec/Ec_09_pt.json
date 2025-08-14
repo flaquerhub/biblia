@@ -1,0 +1,85 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O destino\\par }Sim! Em tudo isso coloquei todo o coração e experimentei isto, a saber, que os justos e os sábios com suas obras estão nas mãos de Deus. \\par O homem não conhece o amor nem o ódio, \\par diante dele ambos são",
+      "reference": "Ec 9:1"
+    },
+    "2": {
+      "text": "vaidade. \\par Assim, todos têm um mesmo destino, \\par tanto o justo como o ímpio, \\par o bom como o mau, \\par o puro como o impuro, \\par o que sacrifica como o que não sacrifica; \\par o bom como o pecador, \\par o que jura é como o que evita o juramento. \\par",
+      "reference": "Ec 9:2"
+    },
+    "3": {
+      "text": "Este é o mal que existe em tudo o que se faz debaixo do sol: o mesmo destino cabe a todos. O coração dos homens está cheio de maldade; enquanto vivem, seu coração está cheio de tolice, e seu fim é junto aos mortos. \\par",
+      "reference": "Ec 9:3"
+    },
+    "4": {
+      "text": "Ainda há esperança para quem está ligado a todos os vivos, \\par e um cão vivo vale mais do que um leão morto. \\par",
+      "reference": "Ec 9:4"
+    },
+    "5": {
+      "text": "Os vivos sabem ao menos que irão morrer; os mortos, porém, não sabem, e nem terão recompensa, porque sua memória cairá no esquecimento.",
+      "reference": "Ec 9:5"
+    },
+    "6": {
+      "text": "Seu amor, ódio e ciúme já pereceram, e eles nunca mais participarão de tudo o que se faz debaixo do sol. \\par",
+      "reference": "Ec 9:6"
+    },
+    "7": {
+      "text": "Vai, come teu pão com alegria \\par e bebe gostosamente o teu vinho, \\par porque Deus já aceitou tuas obras. \\par",
+      "reference": "Ec 9:7"
+    },
+    "8": {
+      "text": "Que tuas vestes sejam brancas em todo tempo \\par e nunca falte perfume sobre a tua cabeça. \\par",
+      "reference": "Ec 9:8"
+    },
+    "9": {
+      "text": "Desfruta a vida com a mulher amada \\par em todos os dias da vida de vaidade que Deus te concede debaixo do sol, \\par todos os teus dias de vaidade, \\par porque esta é a tua porção na vida \\par e no trabalho com que te afadiga debaixo do sol. \\par",
+      "reference": "Ec 9:9"
+    },
+    "10": {
+      "text": "Tudo o que te vem à mão para fazer, \\par faze-o conforme a tua capacidade, \\par pois, no Xeol para onde vais, \\par não existe obra, nem reflexão, nem conhecimento e nem sabedoria. \\par",
+      "reference": "Ec 9:10"
+    },
+    "11": {
+      "text": "Observei outra coisa debaixo do sol: \\par a corrida não depende dos mais ligeiros, \\par nem a batalha dos heróis, \\par o pão não depende dos sábios, \\par nem a riqueza dos inteligentes, \\par nem o favor das pessoas cultas, \\par pois oportunidade e chance acontecem a eles todos. \\par",
+      "reference": "Ec 9:11"
+    },
+    "12": {
+      "text": "Com efeito, o homem não conhece o seu tempo. \\par Como peixes presos na rede traiçoeira, \\par como pássaros presos na armadilha, \\par assim também os filhos dos homens se enredam no tempo da desgraça, \\par quando ela cai de surpresa sobre eles. \\par",
+      "reference": "Ec 9:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Sabedoria e insensatez\\par }Também vi essa sabedoria debaixo do sol, e ela me parece importante: \\par",
+      "reference": "Ec 9:13"
+    },
+    "14": {
+      "text": "Havia uma cidade pequena com poucos habitantes. Um grande rei veio contra ela, cercou-a e levantou contra ela obras de assédio.",
+      "reference": "Ec 9:14"
+    },
+    "15": {
+      "text": "Nela encontrou um homem pobre e sábio, que salvou a cidade com sua sabedoria, mas ninguém se lembrou desse homem pobre.",
+      "reference": "Ec 9:15"
+    },
+    "16": {
+      "text": "E eu digo: \\par Mais vale a sabedoria do que a força, \\par mas a sabedoria do pobre é desprezada \\par e ninguém dá ouvidos às suas palavras. \\par",
+      "reference": "Ec 9:16"
+    },
+    "17": {
+      "text": "Palavras calmas de sábios são mais ouvidas do que gritos de quem comanda insensatos. \\par",
+      "reference": "Ec 9:17"
+    },
+    "18": {
+      "text": "Mais vale sabedoria do que armas, \\par mas um só pecado anula muita coisa boa. \\par",
+      "reference": "Ec 9:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

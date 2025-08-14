@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 148,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Louvor cósmico}\\par }Aleluia! \\par Louvai a Iahweh no céu, \\par louvai-o nas alturas; \\par",
+      "reference": "Sl 148:1"
+    },
+    "2": {
+      "text": "louvai-o todos os anjos, \\par louvai-o, seus exércitos todos! \\par",
+      "reference": "Sl 148:2"
+    },
+    "3": {
+      "text": "Louvai-o, sol e lua, \\par louvai-o, astros todos de luz, \\par",
+      "reference": "Sl 148:3"
+    },
+    "4": {
+      "text": "louvai-o, céus dos céus \\par e águas acima dos céus! \\par",
+      "reference": "Sl 148:4"
+    },
+    "5": {
+      "text": "Louvem o nome de Iahweh, \\par pois ele mandou e foram criados; \\par",
+      "reference": "Sl 148:5"
+    },
+    "6": {
+      "text": "fixou-os eternamente, para sempre, \\par deu-lhes uma lei que jamais passará. \\par",
+      "reference": "Sl 148:6"
+    },
+    "7": {
+      "text": "Louvai a Iahweh na terra, \\par monstros marinhos e abismos todos, \\par",
+      "reference": "Sl 148:7"
+    },
+    "8": {
+      "text": "raio e granizo, neve e bruma, \\par e furacão cumpridor da sua palavra; \\par",
+      "reference": "Sl 148:8"
+    },
+    "9": {
+      "text": "montes e todas as colinas, \\par árvore frutífera e todos os cedros, \\par",
+      "reference": "Sl 148:9"
+    },
+    "10": {
+      "text": "fera selvagem e o gado todo, \\par réptil e pássaro que voa, \\par",
+      "reference": "Sl 148:10"
+    },
+    "11": {
+      "text": "reis da terra e todos os povos, \\par príncipes e juízes todos da terra, \\par",
+      "reference": "Sl 148:11"
+    },
+    "12": {
+      "text": "jovens e também as donzelas, \\par os velhos com as crianças! \\par",
+      "reference": "Sl 148:12"
+    },
+    "13": {
+      "text": "Louvem o nome de Iahweh: \\par é o único nome sublime, \\par sua majestade vai além da terra e do céu, \\par",
+      "reference": "Sl 148:13"
+    },
+    "14": {
+      "text": "e ele reforça o vigor do seu povo! \\par Louvor de todos os seus fiéis, \\par dos filhos de Israel, \\par seu povo íntimo. \\par",
+      "reference": "Sl 148:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

@@ -1,0 +1,105 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 33,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A ordem para a partida\\par }Iahweh disse a Moisés: “Vai, sobe daqui, tu e o povo que fizeste subir do Egito, para a terra que prometi com juramente a Abraão, Isaac e Jacó, dizendo: Eu a darei à tua descendência.",
+      "reference": "Ex 33:1"
+    },
+    "2": {
+      "text": "Enviarei adiante de ti um anjo e expulsarei os cananeus, os amorreus, os heteus, os ferezeus, os heveus e os jebuseus.",
+      "reference": "Ex 33:2"
+    },
+    "3": {
+      "text": "Sobe para uma terra que mana leite e mel. Eu não subirei no meio de ti, porque és povo de cerviz dura, para não te exterminar no meio do caminho”.",
+      "reference": "Ex 33:3"
+    },
+    "4": {
+      "text": "Quando o povo ouviu essas duras palavras, pôs-se a prantear, e nenhum deles pôs os seus enfeites.",
+      "reference": "Ex 33:4"
+    },
+    "5": {
+      "text": "Iahweh disse a Moisés: “Dize aos filhos de Israel: sois um povo de cerviz dura; se por um momento subisse em vosso meio, eu vos exterminaria. Agora, pois, retirai os vossos enfeites, para saber o que devo fazer-vos”.",
+      "reference": "Ex 33:5"
+    },
+    "6": {
+      "text": "Então, desde o monte Horeb os filhos de Israel deixaram os seus enfeites. \\par",
+      "reference": "Ex 33:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i A Tenda\\par }Moisés tomou a Tenda e a armou para ele, fora do acampamento, longe do acampamento. Haviam-lhe dado o nome de Tenda da Reunião. Quem quisesse interrogar a Iahweh ia até a Tenda da Reunião, que estava fora do acampamento.",
+      "reference": "Ex 33:7"
+    },
+    "8": {
+      "text": "Quando Moisés se dirigia para a Tenda, todo o povo se levantava, cada um permanecia de pé, na entrada da sua tenda, e seguia Moisés com o olhar, até que ele entrasse na Tenda.",
+      "reference": "Ex 33:8"
+    },
+    "9": {
+      "text": "E acontecia que quando Moisés entrava na Tenda, baixava a coluna de nuvem, parava à entrada da Tenda, e Ele falava com Moisés.",
+      "reference": "Ex 33:9"
+    },
+    "10": {
+      "text": "Quando o povo via a coluna de nuvem parada à entrada da Tenda, todo o povo se levantava e cada um se prosternava à porta da própria tenda.",
+      "reference": "Ex 33:10"
+    },
+    "11": {
+      "text": "Iahweh, então falava com Moisés face a face, como um homem fala com o outro. Depois ele voltava para o acampamento. Mas seu servidor Josué, filho de Nun, moço ainda, não se afastava do interior da Tenda. \\par",
+      "reference": "Ex 33:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Oração de Moisés\\par }Moisés disse a Iahweh: “Tu me disseste: ‘Faze subir este povo’, mas não me revelaste quem mandarás comigo. Contudo disseste: ‘Conheço-te pelo nome, e encontraste graça aos meus olhos’.",
+      "reference": "Ex 33:12"
+    },
+    "13": {
+      "text": "Agora, pois, se encontrei graça aos teus olhos, mostra-me o teu caminho, e que eu te conheça e encontre graça aos teus olhos; e considera que esta nação é teu povo”.",
+      "reference": "Ex 33:13"
+    },
+    "14": {
+      "text": "Iahweh disse: “Eu mesmo irei e te darei descanso”.",
+      "reference": "Ex 33:14"
+    },
+    "15": {
+      "text": "Disse Moisés: “Se não vieres tu mesmo, não nos faças sair daqui.",
+      "reference": "Ex 33:15"
+    },
+    "16": {
+      "text": "Como se poderá saber que encontramos graça aos teus olhos, eu e o teu povo? Não será pelo fato de ires conosco? Assim seremos distintos, eu e o teu povo, de todos os povos da face da terra”.",
+      "reference": "Ex 33:16"
+    },
+    "17": {
+      "text": "Iahweh disse a Moisés: “Farei ainda o que disseste porque encontraste graça aos meus olhos e conheço-te pelo nome”. \\par",
+      "reference": "Ex 33:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Moisés sobre a montanha\\par }Moisés respondeu a Iahweh: “Rogo-te que me mostres a tua glória”.",
+      "reference": "Ex 33:18"
+    },
+    "19": {
+      "text": "Ele replicou: “Farei passar diante de ti toda a minha beleza, e diante de ti pronunciarei o nome de Iahweh. Terei piedade de quem eu quiser ter piedade e terei compaixão de quem eu quiser ter compaixão”.",
+      "reference": "Ex 33:19"
+    },
+    "20": {
+      "text": "E acrescentou: “Não poderás ver a minha face, porque o homem não pode ver-me e continuar vivendo”.",
+      "reference": "Ex 33:20"
+    },
+    "21": {
+      "text": "E Iahweh disse ainda: “Eis aqui um lugar junto a mim; põe-te sobre a rocha.",
+      "reference": "Ex 33:21"
+    },
+    "22": {
+      "text": "Quando passar a minha glória, colocar-te-ei na fenda da rocha e cobrir-te-ei com a palma da mão até que eu tenha passado.",
+      "reference": "Ex 33:22"
+    },
+    "23": {
+      "text": "Depois tirarei a palma da mão e me verás pelas costas. Minha face, porém, não se pode ver”. \\par",
+      "reference": "Ex 33:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

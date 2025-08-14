@@ -1,0 +1,157 @@
+{
+  "book": 15,
+  "book_name": "Esdras",
+  "book_abbr": "Ed",
+  "book_category": "Histórico",
+  "book_english": "Ezra",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Eis, com sua genealogia, os chefes de família que subiram comigo de Babilônia no reinado de Artaxerxes:",
+      "reference": "Ed 8:1"
+    },
+    "2": {
+      "text": "dos filhos de Finéias: Gersam; dos filhos de Itamar: Daniel; dos filhos de Davi: Hatus,",
+      "reference": "Ed 8:2"
+    },
+    "3": {
+      "text": "filho de Sequenias; dos filhos de Faros: Zacarias, com o qual foram registrados cento e cinqüenta varões;",
+      "reference": "Ed 8:3"
+    },
+    "4": {
+      "text": "dos filhos de Faat-Moab: Elioenai, filho de Zaraías, e com ele duzentos varões;",
+      "reference": "Ed 8:4"
+    },
+    "5": {
+      "text": "dos filhos de Zetua: Sequenias, filho de Jaaziel, e com ele trezentos varões;",
+      "reference": "Ed 8:5"
+    },
+    "6": {
+      "text": "dos filhos de Adin: Abed, filho de Jônatas, e com ele cinqüenta varões;",
+      "reference": "Ed 8:6"
+    },
+    "7": {
+      "text": "dos filhos de Elam: Isaías, filho de Atalia, e com ele setenta varões;",
+      "reference": "Ed 8:7"
+    },
+    "8": {
+      "text": "dos filhos de Safatias: Zebedias, filho de Miguel, e com ele oitenta varões;",
+      "reference": "Ed 8:8"
+    },
+    "9": {
+      "text": "dos filhos de Joab: Abdias, filho de Jaiel, e com ele duzentos e dezoito varões;",
+      "reference": "Ed 8:9"
+    },
+    "10": {
+      "text": "dos filhos de Bani: Salomit, filho de Josfias, e com eles cento e sessenta varões;",
+      "reference": "Ed 8:10"
+    },
+    "11": {
+      "text": "dos filhos de Bebai: Zacarias, filho de Bebai, e com ele vinte e oito varões;",
+      "reference": "Ed 8:11"
+    },
+    "12": {
+      "text": "dos filhos de Azgad: Joanã, filho de Ectã, e com ele cento e dez varões;",
+      "reference": "Ed 8:12"
+    },
+    "13": {
+      "text": "dos filhos de Adonicam: os mais novos, cujos nomes são: Elifalet, Jeiel e Semeías, e com eles sessenta varões;",
+      "reference": "Ed 8:13"
+    },
+    "14": {
+      "text": "e dos filhos de Beguai: Utai, filho de Zabud, e com ele setenta varões. \\par",
+      "reference": "Ed 8:14"
+    },
+    "15": {
+      "text": "Reuni-os junto ao rio que corre para Aava e lá acampamos três dias. Encontrei ali homens do povo e sacerdotes, mas não encontrei nenhum levita.",
+      "reference": "Ed 8:15"
+    },
+    "16": {
+      "text": "Então mandei procurar Eliezer, Ariel, Semeías, Elnatã, Jarib, Elnatã, Natã, Zacarias e Mosolam, homens sábios,",
+      "reference": "Ed 8:16"
+    },
+    "17": {
+      "text": "e os enviei a Ado, chefe da localidade de Casfia; ditei-lhes as palavras que deviam dirigir a Ado e a seus irmãos, residentes na localidade de Casfia: que nos enviassem ministros para o Templo de nosso Deus.",
+      "reference": "Ed 8:17"
+    },
+    "18": {
+      "text": "E, graças à mão benfazeja de nosso Deus, que estava sobre nós, eles nos apresentaram um homem prudente, dos filhos de Mooli, filho de Levi, filho de Israel, Serebias, com seus filhos e irmãos: dezoito homens;",
+      "reference": "Ed 8:18"
+    },
+    "19": {
+      "text": "e ainda Hasabias e com ele seu irmão Isaías, dos filhos de Merari, como também seus filhos: vinte homens.",
+      "reference": "Ed 8:19"
+    },
+    "20": {
+      "text": "E entre os “doados” que Davi e os chefes tinham posto a serviço dos levitas: duzentos e vinte “doados”. Todos foram registrados nominalmente. \\par",
+      "reference": "Ed 8:20"
+    },
+    "21": {
+      "text": "Ali, perto do rio Aava, proclamei um jejum, para nos humilharmos diante de nosso Deus e lhe pedirmos uma boa viagem para nós, para as nossas famílias e para todos os nossos bens.",
+      "reference": "Ed 8:21"
+    },
+    "22": {
+      "text": "Porque eu teria vergonha de pedir ao rei uma escolta e cavaleiros para nos resguardar do inimigo durante a viagem; ao contrário, tínhamos declarado ao rei: “A mão de nosso Deus se estende benignamente sobre todos os que o buscam; mas seu poder e sua ira se abatem sobre todos os que o abandonam”.",
+      "reference": "Ed 8:22"
+    },
+    "23": {
+      "text": "Jejuamos, pois, invocando nosso Deus nessa intenção, e ele nos ouviu. \\par",
+      "reference": "Ed 8:23"
+    },
+    "24": {
+      "text": "Escolhi doze chefes dos sacerdotes, isto é, Serebias e Hasabias e com eles dez de seus irmãos;",
+      "reference": "Ed 8:24"
+    },
+    "25": {
+      "text": "pesei diante deles a prata, o ouro e os utensílios, oferenda que o rei, seus conselheiros, seus príncipes e todo o Israel que se achava lá tinham feito para o Templo de nosso Deus.",
+      "reference": "Ed 8:25"
+    },
+    "26": {
+      "text": "Pesei, portanto, e entreguei nas mãos deles seiscentos e cinqüenta talentos de prata, cem utensílios de prata de dois talentos, cem talentos de ouro,",
+      "reference": "Ed 8:26"
+    },
+    "27": {
+      "text": "vinte taças de ouro de mil daricos e dois vasos de um bronze muito claro e brilhante, que eram preciosos como se fossem de ouro.",
+      "reference": "Ed 8:27"
+    },
+    "28": {
+      "text": "Declarei-lhes: “Sois consagrados a Iahweh; estes utensílios são sagrados; esta prata e este ouro são dedicados a Iahweh, o Deus de vossos pais.",
+      "reference": "Ed 8:28"
+    },
+    "29": {
+      "text": "Sede vigilantes em guardá-los até que possais pesá-los diante dos chefes dos sacerdotes e dos levitas e dos chefes de famílias de Israel, em Jerusalém, nas salas do Templo de Iahweh”.",
+      "reference": "Ed 8:29"
+    },
+    "30": {
+      "text": "Os sacerdotes e os levitas tomaram então a seus cuidados a prata, o ouro e os utensílios assim pesados, para transportá-los para Jerusalém, para o Templo de nosso Deus. \\par",
+      "reference": "Ed 8:30"
+    },
+    "31": {
+      "text": "No dia doze do primeiro mês, deixamos o rio Aava e fomos para Jerusalém: a mão de nosso Deus estava sobre nós, e na estrada protegeu-nos dos ataques dos inimigos e dos salteadores.",
+      "reference": "Ed 8:31"
+    },
+    "32": {
+      "text": "Chegamos a Jerusalém e lá descansamos três dias.",
+      "reference": "Ed 8:32"
+    },
+    "33": {
+      "text": "No quarto dia, a prata, o ouro e os utensílios foram pesados no Templo de nosso Deus e entregues nas mãos do sacerdote Meremot, filho de Urias, ajudado por Eleazar, filho de Finéias, e pelos levitas Jozabad, filho de Josué, e Noadaías, filho de Benui.",
+      "reference": "Ed 8:33"
+    },
+    "34": {
+      "text": "Tudo foi entregue conforme o número e o peso; e o peso total foi registrado. \\par Naquele tempo,",
+      "reference": "Ed 8:34"
+    },
+    "35": {
+      "text": "os que voltaram do Exílio, os exilados, ofereceram em holocausto ao Deus de Israel doze touros por todo o Israel, noventa e seis carneiros, setenta e dois cordeiros, doze bodes pelo pecado: tudo isso em holocausto a Iahweh. \\par",
+      "reference": "Ed 8:35"
+    },
+    "36": {
+      "text": "E entregaram os decretos do rei aos sátrapas e aos governadores da Transeufratênia, os quais deram seu apoio ao povo e ao Templo de Deus. \\par",
+      "reference": "Ed 8:36"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 36
+}

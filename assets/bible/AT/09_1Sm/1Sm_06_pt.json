@@ -1,0 +1,97 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Devolução da Arca\\par }A Arca de Iahweh esteve sete meses na terra dos filisteus.",
+      "reference": "1Sm 6:1"
+    },
+    "2": {
+      "text": "Os filisteus chamaram os sacerdotes e os adivinhos e lhes perguntaram: “Que devemos fazer com a Arca de Iahweh? Dizei-nos como havemos de devolvê-la ao seu lugar”.",
+      "reference": "1Sm 6:2"
+    },
+    "3": {
+      "text": "Eles responderam: “Se quereis devolver a Arca do Deus de Israel, não a envieis vazia, porém mandai com ela uma reparação. Então sereis curados e sabereis por que a sua mão não se retira de vós”.",
+      "reference": "1Sm 6:3"
+    },
+    "4": {
+      "text": "Então perguntaram: “Qual deve ser a reparação que lhe pagaremos?” Responderam-lhes: “De acordo com o número dos príncipes dos filisteus, cinco tumores de ouro e cinco ratos de ouro, porque foi essa a praga que vós e os vossos príncipes sofrestes.",
+      "reference": "1Sm 6:4"
+    },
+    "5": {
+      "text": "Fazei imagens dos vossos tumores e imagens dos vossos ratos, que devastam a terra, e dai glória ao Deus de Israel. Talvez ele alivie a sua mão de cima de vós, do vosso deus e da vossa terra.",
+      "reference": "1Sm 6:5"
+    },
+    "6": {
+      "text": "Por que endureceríeis o vosso coração como o fizeram os egípcios e Faraó? Porventura, depois de os haver Deus tratado tão mal, não os deixaram partir?",
+      "reference": "1Sm 6:6"
+    },
+    "7": {
+      "text": "Agora, pois, tomai e preparai um carro novo e duas vacas com cria, sobre os quais não tenha ainda sido posta canga; atrelai as vacas ao carro e mandai os bezerros de volta ao curral.",
+      "reference": "1Sm 6:7"
+    },
+    "8": {
+      "text": "Tomai, então, a Arca de Iahweh e colocai-a no carro. Quanto aos objetos de ouro que lhe pagais como reparação, colocá-los-eis num cofre, ao lado da Arca, e a deixareis partir.",
+      "reference": "1Sm 6:8"
+    },
+    "9": {
+      "text": "Notai: se tomar o caminho da sua terra, por Bet-Sames, foi ele quem nos causou este grande mal; se não, então saberemos que não foi a sua mão que nos atingiu, e o que nos aconteceu foi acidental”. \\par",
+      "reference": "1Sm 6:9"
+    },
+    "10": {
+      "text": "Assim fizeram: tomaram duas vacas com cria e as atrelaram ao carro, mas deixaram os bezerros no curral.",
+      "reference": "1Sm 6:10"
+    },
+    "11": {
+      "text": "Puseram a Arca de Iahweh no carro, e também o cofre com os ratos de ouro e as imagens dos seus tumores. \\par",
+      "reference": "1Sm 6:11"
+    },
+    "12": {
+      "text": "As vacas tomaram diretamente o caminho de Bet-Sames e mantiveram-no, mugindo, sem se desviar nem para a direita nem para a esquerda. Os príncipes dos filisteus as seguiram até aos confins de Bet-Sames. \\par",
+      "reference": "1Sm 6:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i A Arca em Bet-Sames\\par }Estavam os de Bet-Sames fazendo a sega do trigo no vale. Quando olharam, viram a Arca e foram alegremente ao seu encontro.",
+      "reference": "1Sm 6:13"
+    },
+    "14": {
+      "text": "O carro chegou ao campo de Josué de Bet-Sames, e parou no lugar onde havia uma grande pedra. Racharam a madeira do carro e ofereceram as vacas em holocausto a Iahweh.",
+      "reference": "1Sm 6:14"
+    },
+    "15": {
+      "text": "Os levitas tinham descido a Arca de Iahweh e o cofre que estava ao lado dela e que continha os objetos de ouro, e tinham depositado tudo sobre a grande pedra. Naquele dia, o povo de Bet-Sames ofereceu holocaustos e sacrifícios a Iahweh.",
+      "reference": "1Sm 6:15"
+    },
+    "16": {
+      "text": "Os cinco príncipes dos filisteus, tendo visto isso, voltaram a Acaron, no mesmo dia.",
+      "reference": "1Sm 6:16"
+    },
+    "17": {
+      "text": "Os tumores de ouro que os filisteus pagaram em reparação a Iahweh foram: um por Azoto, um por Gaza, um por Ascalon, um por Gat e um por Acaron.",
+      "reference": "1Sm 6:17"
+    },
+    "18": {
+      "text": "Os ratos de ouro, por todas as cidades dos filisteus: das dos cinco príncipes, das praças fortes até às aldeias do campo. A grande pedra, sobre a qual a Arca de Iahweh foi colocada, está ainda hoje no campo de Josué de Bet-Sames como testemunha.",
+      "reference": "1Sm 6:18"
+    },
+    "19": {
+      "text": "Os filhos de Jeconias, do povo de Bet-Sames, não se regozijaram quando viram a Arca de Iahweh, e Iahweh castigou setenta dentre eles. O povo ficou de luto, porque Iahweh lhe tinha dado tão duro castigo. \\par",
+      "reference": "1Sm 6:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i A Arca em Cariat-Iarim\\par }Então, os habitantes de Bet-Sames disseram: “Quem poderá estar em pé na presença de Iahweh, o Deus santo? Para quem irá ele agora, saindo daqui?”",
+      "reference": "1Sm 6:20"
+    },
+    "21": {
+      "text": "Enviaram mensageiros aos habitantes de Cariat-Iarim, com estas palavras: “Os filisteus restituíram a Arca de Iahweh. Descei, e fazei-a subir até vós”. \\par",
+      "reference": "1Sm 6:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

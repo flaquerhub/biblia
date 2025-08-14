@@ -1,0 +1,149 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 46,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Saída de Jacó para o Egito\\par }Israel partiu com tudo o que possuía. Chegando a Bersabéia, ofereceu sacrifícios ao Deus de seu pai Isaac,",
+      "reference": "Gn 46:1"
+    },
+    "2": {
+      "text": "e Deus disse a Israel, numa visão noturna: “Jacó! Jacó!” E ele respondeu: “Eis-me aqui”.",
+      "reference": "Gn 46:2"
+    },
+    "3": {
+      "text": "Deus retomou: “Eu sou El, o Deus de teu pai. Não tenhas medo de descer ao Egito, porque lá eu farei de ti uma grande nação.",
+      "reference": "Gn 46:3"
+    },
+    "4": {
+      "text": "Eu descerei contigo ao Egito, eu te farei voltar a subir, e José te fechará os olhos”.",
+      "reference": "Gn 46:4"
+    },
+    "5": {
+      "text": "Jacó partiu de Bersabéia, e os filhos de Israel fizeram seu pai Jacó, seus netos e suas mulheres subir nos carros que o Faraó enviara para levá-los. \\par",
+      "reference": "Gn 46:5"
+    },
+    "6": {
+      "text": "Eles tomaram seus rebanhos e tudo o que tinham adquirido na terra de Canaã e vieram para o Egito, Jacó e todos os seus descendentes com ele:",
+      "reference": "Gn 46:6"
+    },
+    "7": {
+      "text": "seus filhos e os filhos de seus filhos, suas filhas e as filhas de seus filhos; todos os seus descendentes ele os levou consigo para o Egito. \\par",
+      "reference": "Gn 46:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i A família de Jacó\\par }Eis os nomes dos filhos de Jacó que vieram para o Egito, Jacó e seus filhos. Rúben, o mais velho de Jacó,",
+      "reference": "Gn 46:8"
+    },
+    "9": {
+      "text": "e os filhos de Rúben: Henoc, Falu, Hesron, Carmi.",
+      "reference": "Gn 46:9"
+    },
+    "10": {
+      "text": "Os filhos de Simeão: Jamuel, Jamin, Aod, Jaquin, Soar e Saul, o filho da cananéia.",
+      "reference": "Gn 46:10"
+    },
+    "11": {
+      "text": "Os filhos de Levi: Gérson, Caat e Merari.",
+      "reference": "Gn 46:11"
+    },
+    "12": {
+      "text": "Os filhos de Judá: Her, Onã, Sela, Farés e Zara (mas Her e Onã morreram na terra de Canaã), e os filhos de Farés, Hesron e Hamul.",
+      "reference": "Gn 46:12"
+    },
+    "13": {
+      "text": "Os filhos de Issacar: Tola, Fua, Jasub e Semron.",
+      "reference": "Gn 46:13"
+    },
+    "14": {
+      "text": "Os filhos de Zabulon: Sared, Elon, Jaelel.",
+      "reference": "Gn 46:14"
+    },
+    "15": {
+      "text": "Esses são os filhos que Lia gerou a Jacó em Padã-Aram, além de sua filha Dina; ao todo, filhos e filhas, trinta e três pessoas. \\par",
+      "reference": "Gn 46:15"
+    },
+    "16": {
+      "text": "Os filhos de Gad: Safon, Hagi, Suni, Esebon, Eri, Arodi e Areli.",
+      "reference": "Gn 46:16"
+    },
+    "17": {
+      "text": "Os filhos de Aser: Jamne, Jesua, Jessui, Beria e sua irmã Sara; os filhos de Beria: Héber e Melquiel.",
+      "reference": "Gn 46:17"
+    },
+    "18": {
+      "text": "Esses são os filhos de Zelfa, que Labão deu à sua filha Lia; ela gerou esses para Jacó, dezesseis pessoas. \\par",
+      "reference": "Gn 46:18"
+    },
+    "19": {
+      "text": "Os filhos de Raquel, mulher de Jacó: José e Benjamim.",
+      "reference": "Gn 46:19"
+    },
+    "20": {
+      "text": "José teve como filhos no Egito Manassés e Efraim, nascidos de Asenet, filha de Putifar, sacerdote de On.",
+      "reference": "Gn 46:20"
+    },
+    "21": {
+      "text": "Os filhos de Benjamim: Bela, Bocor, Asbel, Gera, Naamã, Equi, Ros, Mofim, Ofim e Ared.",
+      "reference": "Gn 46:21"
+    },
+    "22": {
+      "text": "Esses são os filhos que Raquel gerou para Jacó, ao todo catorze pessoas. \\par",
+      "reference": "Gn 46:22"
+    },
+    "23": {
+      "text": "Os filhos de Dã: Husim.",
+      "reference": "Gn 46:23"
+    },
+    "24": {
+      "text": "Os filhos de Neftali: Jasiel, Guni, Jeser e Selém.",
+      "reference": "Gn 46:24"
+    },
+    "25": {
+      "text": "Esses são os filhos de Bala, que Labão deu à sua filha Raquel; esses ela gerou para Jacó, ao todo sete pessoas. \\par",
+      "reference": "Gn 46:25"
+    },
+    "26": {
+      "text": "Os que vieram com Jacó para o Egito, seus descendentes, sem contar as mulheres dos filhos de Jacó, eram ao todo sessenta e seis.",
+      "reference": "Gn 46:26"
+    },
+    "27": {
+      "text": "Os filhos de José que lhe nasceram no Egito eram em número de dois. Total das pessoas da família de Jacó que vieram para o Egito: setenta. \\par",
+      "reference": "Gn 46:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i A acolhida de José\\par }Israel enviou Judá na frente a José, para que este comparecesse diante dele em Gessen, e eles chegaram à terra de Gessen.",
+      "reference": "Gn 46:28"
+    },
+    "29": {
+      "text": "José preparou seu carro e subiu ao encontro de seu pai Israel em Gessen. Ao vê-lo, lançou-se ao seu pescoço e, beijando-o, chorou longamente.",
+      "reference": "Gn 46:29"
+    },
+    "30": {
+      "text": "Israel disse a José: “Agora posso morrer, depois que vi teu rosto e que ainda estás vivo!” \\par",
+      "reference": "Gn 46:30"
+    },
+    "31": {
+      "text": "Então José disse a seus irmãos e à família de seu pai: “Vou subir para comunicar ao Faraó e lhe dizer: ‘Meus irmãos e a família de meu pai, que estavam na terra de Canaã, vieram para junto de mim.",
+      "reference": "Gn 46:31"
+    },
+    "32": {
+      "text": "Estes homens são pastores – eles se ocupam com rebanhos – e trouxeram suas ovelhas e seus bois e tudo o que lhes pertence’.",
+      "reference": "Gn 46:32"
+    },
+    "33": {
+      "text": "Assim, quando o Faraó vos chamar e vos perguntar: ‘Qual é a vossa profissão?’,",
+      "reference": "Gn 46:33"
+    },
+    "34": {
+      "text": "vós respondereis: ‘Teus servos se ocuparam de rebanhos desde sua mais tenra idade até agora, tanto nós como nossos pais’. Deste modo podereis permanecer na terra de Gessen”. Com efeito, os egípcios têm horror aos pastores. \\par",
+      "reference": "Gn 46:34"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 34
+}

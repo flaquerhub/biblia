@@ -1,0 +1,25 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 134,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 134 (133)\\par }{\\qc\\b\\i Para a festa noturna\\par }{\\qc\\i Cântico das subidas.\\par } E agora, bendizei a Iahweh, \\par servos todos de Israel! \\par Vós que servis na casa de Iahweh pelas noites, \\par nos átrios da casa do nosso Deus. \\par",
+      "reference": "Sl 134:1"
+    },
+    "2": {
+      "text": "Levantai vossas mãos para o santuário \\par e bendizei a Iahweh! \\par",
+      "reference": "Sl 134:2"
+    },
+    "3": {
+      "text": "Que Iahweh te abençoe de Sião, \\par ele que fez o céu e a terra! \\par",
+      "reference": "Sl 134:3"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 3
+}

@@ -1,0 +1,205 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Pedro vai à casa de um centurião romano\\par }Vivia em Cesaréia um homem chamado Cornélio, centurião da coorte itálica.",
+      "reference": "At 10:1"
+    },
+    "2": {
+      "text": "Era piedoso e temente a Deus, com toda a sua casa; dava muitas esmolas ao povo e orava a Deus constantemente. \\par",
+      "reference": "At 10:2"
+    },
+    "3": {
+      "text": "Ele viu claramente, em visão, cerca da nona hora do dia, o Anjo do Senhor entrando em sua casa e chamando-o: “Cornélio!”",
+      "reference": "At 10:3"
+    },
+    "4": {
+      "text": "Fixando os olhos nele e cheio de temor, perguntou-lhe: “Que há, Senhor?” E o Anjo lhe disse: “Tuas orações e tuas esmolas subiram até a presença de Deus e ele se lembrou de ti.",
+      "reference": "At 10:4"
+    },
+    "5": {
+      "text": "Agora, pois, envia alguns homens a Jope e manda chamar Simão, cognominado Pedro.",
+      "reference": "At 10:5"
+    },
+    "6": {
+      "text": "Ele está hospedado em casa de certo Simão, curtidor, que se encontra junto ao mar”.",
+      "reference": "At 10:6"
+    },
+    "7": {
+      "text": "Assim que se retirou o Anjo que lhe falara, Cornélio chamou dois de seus empregados, bem como um soldado piedoso, daqueles que estavam a seu serviço,",
+      "reference": "At 10:7"
+    },
+    "8": {
+      "text": "explicou-lhes tudo e enviou-os a Jope. \\par",
+      "reference": "At 10:8"
+    },
+    "9": {
+      "text": "No dia seguinte, enquanto caminhavam e estando já perto da cidade, Pedro subiu ao terraço da casa, por volta da sexta hora, para orar.",
+      "reference": "At 10:9"
+    },
+    "10": {
+      "text": "Sentindo fome, quis comer. Enquanto lhe preparavam alimento, sobreveio-lhe um êxtase.",
+      "reference": "At 10:10"
+    },
+    "11": {
+      "text": "Viu o céu aberto e um objeto que descia, semelhante a um grande lençol, baixado à terra pelas quatro pontas.",
+      "reference": "At 10:11"
+    },
+    "12": {
+      "text": "Dentro havia todos os quadrúpedes e répteis da terra, e aves do céu.",
+      "reference": "At 10:12"
+    },
+    "13": {
+      "text": "Uma voz lhe falou: “Levanta-te, Pedro, imola e come!”",
+      "reference": "At 10:13"
+    },
+    "14": {
+      "text": "Pedro, porém, replicou: “De modo nenhum, Senhor, pois jamais comi coisa alguma profana e impura!”",
+      "reference": "At 10:14"
+    },
+    "15": {
+      "text": "De novo, pela segunda vez, a voz lhe falou: “Ao que Deus purificou, não chames tu de profano”.",
+      "reference": "At 10:15"
+    },
+    "16": {
+      "text": "Sucedeu isto por três vezes, e logo o objeto foi recolhido ao céu. \\par",
+      "reference": "At 10:16"
+    },
+    "17": {
+      "text": "Enquanto Pedro, no seu íntimo, hesitava sobre o significado da visão que tivera, os homens enviados por Cornélio, tendo perguntado pela casa de Simão, pararam junto à porta.",
+      "reference": "At 10:17"
+    },
+    "18": {
+      "text": "Chamaram e se informaram se era ali que se hospedava Simão, cognominado Pedro.",
+      "reference": "At 10:18"
+    },
+    "19": {
+      "text": "Entretanto, meditando ainda Pedro sobre a visão, disse-lhe o Espírito: “Alguns homens estão aí, à tua procura.",
+      "reference": "At 10:19"
+    },
+    "20": {
+      "text": "Desce, pois, e vai com eles sem hesitação, porque fui eu que os enviei”.",
+      "reference": "At 10:20"
+    },
+    "21": {
+      "text": "Descendo então Pedro ao encontro desses homens, disse: “Aqui me tendes; sou eu a quem procurais. Qual o motivo da vossa vinda?”",
+      "reference": "At 10:21"
+    },
+    "22": {
+      "text": "E responderam: “O centurião Cornélio, homem justo e temente a Deus, de quem toda a nação judaica dá bom testemunho, recebeu de um santo anjo o aviso para chamar-te à sua casa, para ouvir as palavras que tens a dizer”.",
+      "reference": "At 10:22"
+    },
+    "23": {
+      "text": "Convidando-os então a entrar, deu-lhes hospitalidade. \\par No dia seguinte, levantou-se e partiu com eles. Alguns dos irmãos que eram de Jope acompanharam-no.",
+      "reference": "At 10:23"
+    },
+    "24": {
+      "text": "Mais um dia, e entrou em Cesaréia. Cornélio estava aguardando-os, e tinha convidado seus parentes e amigos mais íntimos.",
+      "reference": "At 10:24"
+    },
+    "25": {
+      "text": "Quando Pedro estava para entrar, Cornélio saiu-lhe ao encontro e prostrou-se a seus pés, adorando-o.",
+      "reference": "At 10:25"
+    },
+    "26": {
+      "text": "Mas Pedro reergueu-o, dizendo: “Levanta-te, pois eu também sou apenas um homem”.",
+      "reference": "At 10:26"
+    },
+    "27": {
+      "text": "E, falando amigavelmente com ele, entrou. Encontrando muitos ali reunidos,",
+      "reference": "At 10:27"
+    },
+    "28": {
+      "text": "assim lhes falou: “Bem sabeis que é ilícito a um judeu relacionar-se com um estrangeiro ou mesmo dirigir-se à sua casa. Mas Deus acaba de mostrar-me que a nenhum homem se deve chamar de profano ou impuro.",
+      "reference": "At 10:28"
+    },
+    "29": {
+      "text": "Por isso vim sem hesitar, logo que chamado. Pergunto, pois: Por que razão me chamastes?”",
+      "reference": "At 10:29"
+    },
+    "30": {
+      "text": "Cornélio respondeu: “Faz hoje três dias, por esta mesma hora, estava eu fazendo a oração pela hora nona em minha casa, quando diante de mim postou-se um homem de vestes resplandecentes.",
+      "reference": "At 10:30"
+    },
+    "31": {
+      "text": "E disse-me: ‘Cornélio, tua oração foi ouvida e tuas esmolas foram lembradas diante de Deus.",
+      "reference": "At 10:31"
+    },
+    "32": {
+      "text": "Manda, pois, alguém a Jope, a chamar Simão, cognominado Pedro. Ele está hospedado em casa de Simão, o curtidor, à beira-mar’.",
+      "reference": "At 10:32"
+    },
+    "33": {
+      "text": "Imediatamente mandei chamar-te, e tiveste a bondade de vir. Aqui estamos, pois, todos nós, diante de ti, para ouvir tudo o que te foi ordenado por Deus”. \\par",
+      "reference": "At 10:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Discurso de Pedro em casa de Cornélio\\par }Tomando então a palavra, Pedro falou: “Dou-me conta, em verdade, de que Deus não faz acepção de pessoas,",
+      "reference": "At 10:34"
+    },
+    "35": {
+      "text": "mas que, em qualquer nação, quem o teme e pratica a justiça, lhe é agradável. \\par",
+      "reference": "At 10:35"
+    },
+    "36": {
+      "text": "Ele enviou a palavra aos filhos de Israel, {\\i dando-lhes a boa nova da paz} por Jesus Cristo, que é o Senhor de todos.",
+      "reference": "At 10:36"
+    },
+    "37": {
+      "text": "Sabeis o que aconteceu por toda a Judéia: Jesus de Nazaré, começando pela Galiléia, depois do batismo proclamado por João,",
+      "reference": "At 10:37"
+    },
+    "38": {
+      "text": "como {\\i Deus o ungiu com o Espírito Santo} e com poder, ele que passou fazendo o bem e curando a todos os que estavam dominados pelo diabo, porque Deus estava com ele.",
+      "reference": "At 10:38"
+    },
+    "39": {
+      "text": "E nós somos testemunhas de tudo o que fez na região dos judeus e em Jerusalém, ele, a quem no entanto mataram, suspendendo-o ao madeiro.",
+      "reference": "At 10:39"
+    },
+    "40": {
+      "text": "Mas Deus o ressuscitou ao terceiro dia e concedeu-lhe que se tornasse visível,",
+      "reference": "At 10:40"
+    },
+    "41": {
+      "text": "não a todo o povo, ma às testemunhas anteriormente designadas por Deus, isto é, a nós, que comemos e bebemos com ele, após sua ressurreição dentre os mortos.",
+      "reference": "At 10:41"
+    },
+    "42": {
+      "text": "E ordenou-nos que proclamássemos ao Povo e déssemos testemunho de que ele é o juiz dos vivos e dos mortos, como tal constituído por Deus.",
+      "reference": "At 10:42"
+    },
+    "43": {
+      "text": "Dele todos os profetas dão testemunho de que, por meio de seu nome, receberá a remissão dos pecados todo aquele que nele crer”. \\par",
+      "reference": "At 10:43"
+    },
+    "44": {
+      "text": "\\par {\\qc\\b\\i Batismo dos primeiros gentios\\par }Pedro estava ainda falando estas coisas, quando o Espírito Santo caiu sobre todos os que ouviam a Palavra.",
+      "reference": "At 10:44"
+    },
+    "45": {
+      "text": "E os fiéis que eram da circuncisão, que tinham vindo com Pedro, ficaram estupefatos de verem que também sobre os gentios se derramara o dom do Espírito Santo,",
+      "reference": "At 10:45"
+    },
+    "46": {
+      "text": "pois ouviam-nos falar em línguas e engrandecer a Deus. Então disse Pedro:",
+      "reference": "At 10:46"
+    },
+    "47": {
+      "text": "“Poderia alguém recusar a água do batismo para estes, que receberam o Espírito Santo assim como nós?”",
+      "reference": "At 10:47"
+    },
+    "48": {
+      "text": "E determinou que fossem batizados em nome de Jesus Cristo. Pediram-lhe então que permanecesse ali por alguns dias. \\par",
+      "reference": "At 10:48"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 48
+}

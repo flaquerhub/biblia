@@ -1,0 +1,53 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Visão do livro\\par }Ele me disse: “Filho do homem, põe-te de pé que vou falar contigo”.",
+      "reference": "Ez 2:1"
+    },
+    "2": {
+      "text": "Enquanto falava, entrou em mim o espírito e me pôs de pé. Então ouvi aquele que falava comigo.",
+      "reference": "Ez 2:2"
+    },
+    "3": {
+      "text": "Com efeito, ele me disse: “Filho do homem, vou enviar-te aos filhos de Israel, a esses rebeldes que se rebelaram contra mim. Sim, eles e os seus pais se revoltaram contra mim até o dia de hoje.",
+      "reference": "Ez 2:3"
+    },
+    "4": {
+      "text": "Os filhos são insolentes e de coração empedernido. Envio-te a eles para que lhes digas: ‘Assim diz o Senhor Iahweh’:",
+      "reference": "Ez 2:4"
+    },
+    "5": {
+      "text": "Quer escutem, quer deixem de escutar – com efeito, são uma casa de rebeldes –, saberão, ao menos, que um profeta esteve com eles.",
+      "reference": "Ez 2:5"
+    },
+    "6": {
+      "text": "Quanto a ti, filho do homem, não tenhas medo deles nem das suas palavras. Não tenhas medo porque eles se opõem a ti e te menosprezam ou porque estás sentado sobre escorpiões. Não tenhas medo das suas palavras, nem fiques apavorado com o seu olhar, pois são uma casa de rebeldes.",
+      "reference": "Ez 2:6"
+    },
+    "7": {
+      "text": "Transmitir-lhes-ás as minhas palavras, quer escutem, quer não escutem, pois são uma casa de rebeldes. \\par",
+      "reference": "Ez 2:7"
+    },
+    "8": {
+      "text": "Tu, filho do homem, ouve o que te digo, não sejas rebelde como esta casa de rebeldes. Abre a boca e come o que te estou dando”. \\par",
+      "reference": "Ez 2:8"
+    },
+    "9": {
+      "text": "Olhei e eis uma mão que se estendia para mim e nela um volume enrolado.",
+      "reference": "Ez 2:9"
+    },
+    "10": {
+      "text": "Ele abriu-o na minha presença. Estava escrito no verso e no reverso. Nele estava escrito: “Lamentações, gemidos e prantos”. \\par",
+      "reference": "Ez 2:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

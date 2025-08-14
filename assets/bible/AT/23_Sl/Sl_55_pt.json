@@ -1,0 +1,109 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 55,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 55 (54)\\par }{\\qc\\b\\i Prece do caluniado\\par }{\\qc\\i Do mestre de canto. Com instrumentos de corda. Poema. De Davi.\\par }",
+      "reference": "Sl 55:1"
+    },
+    "2": {
+      "text": "Dá ouvido à minha prece, ó Deus, \\par não te furtes à minha súplica! \\par",
+      "reference": "Sl 55:2"
+    },
+    "3": {
+      "text": "Dá-me atenção e responde-me: \\par estou divagando em meu lamento! \\par Estremeço",
+      "reference": "Sl 55:3"
+    },
+    "4": {
+      "text": "à voz do inimigo, \\par frente aos gritos do ímpio; \\par fazem recair males sobre mim, \\par e me acusam com raiva. \\par",
+      "reference": "Sl 55:4"
+    },
+    "5": {
+      "text": "Meu coração se contorce dentro de mim, \\par e sobre mim caem terrores mortais; \\par",
+      "reference": "Sl 55:5"
+    },
+    "6": {
+      "text": "medo e tremor me penetram, \\par e um calafrio me envolve. \\par",
+      "reference": "Sl 55:6"
+    },
+    "7": {
+      "text": "E eu digo: \\par Quem me dera ter asas como pomba \\par para eu sair voando e pousar... \\par",
+      "reference": "Sl 55:7"
+    },
+    "8": {
+      "text": "Sim, eu fugiria para longe \\par e pernoitaria no deserto. \\par",
+      "reference": "Sl 55:8"
+    },
+    "9": {
+      "text": "Encontraria logo um refúgio \\par contra o vento da calúnia \\par e o furacão",
+      "reference": "Sl 55:9"
+    },
+    "10": {
+      "text": "que devora, Senhor, \\par e a torrente de sua língua. \\par Sim, eu vejo a violência \\par e a discórdia na cidade: \\par",
+      "reference": "Sl 55:10"
+    },
+    "11": {
+      "text": "dia e noite elas rondam \\par por cima de suas muralhas. \\par Dentro dela há maldade e tormento, \\par",
+      "reference": "Sl 55:11"
+    },
+    "12": {
+      "text": "dentro dela há ruína; \\par a opressão e a fraude \\par nunca se afastam de sua praça. \\par",
+      "reference": "Sl 55:12"
+    },
+    "13": {
+      "text": "Se um inimigo me insultasse, \\par eu poderia suportar; \\par se meu adversário se elevasse contra mim, \\par eu me esconderia dele. \\par",
+      "reference": "Sl 55:13"
+    },
+    "14": {
+      "text": "Mas és tu, um homem como eu, \\par meu amigo, meu confidente, \\par",
+      "reference": "Sl 55:14"
+    },
+    "15": {
+      "text": "a quem me unia uma doce intimidade \\par na casa de Deus! \\par Que andem em meio ao tumulto! \\par",
+      "reference": "Sl 55:15"
+    },
+    "16": {
+      "text": "Caia sobre eles a Morte! \\par Desçam vivos ao Xeol, \\par pois o mal se hospeda junto deles! \\par",
+      "reference": "Sl 55:16"
+    },
+    "17": {
+      "text": "Eu, porém, invoco a Deus, \\par e Iahweh me salva; \\par",
+      "reference": "Sl 55:17"
+    },
+    "18": {
+      "text": "de tarde, pela manhã e ao meio-dia \\par eu me queixo, gemendo. \\par Ele ouve o meu grito, \\par",
+      "reference": "Sl 55:18"
+    },
+    "19": {
+      "text": "em paz ele resgata minha vida \\par da guerra que me fazem, \\par pois estão em processo contra mim. \\par",
+      "reference": "Sl 55:19"
+    },
+    "20": {
+      "text": "Deus ouvirá e os humilhará, \\par ele que está entronizado desde a origem; \\par para eles não existe emenda: \\par eles não temem a Deus! \\par",
+      "reference": "Sl 55:20"
+    },
+    "21": {
+      "text": "Ele estende as mãos contra seus aliados, \\par violando sua aliança; \\par",
+      "reference": "Sl 55:21"
+    },
+    "22": {
+      "text": "sua boca é mais lisa do que o creme, \\par mas no seu coração está a guerra; \\par são suaves como óleo suas palavras, \\par porém são espadas fora da bainha. \\par",
+      "reference": "Sl 55:22"
+    },
+    "23": {
+      "text": "Descarrega teu fardo em Iahweh \\par e ele cuidará de ti; \\par ele jamais permitirá \\par que o justo tropece. \\par",
+      "reference": "Sl 55:23"
+    },
+    "24": {
+      "text": "E tu, ó Deus, tu os faz descer \\par para o poço profundo, \\par estes homens sanguinários e impostores, \\par antes da metade dos seus dias. \\par Quanto a mim, eu confio em ti! \\par",
+      "reference": "Sl 55:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

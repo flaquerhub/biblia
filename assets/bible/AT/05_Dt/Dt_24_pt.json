@@ -1,0 +1,101 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O divórcio\\par }Quando um homem tiver tomado uma mulher e consumado o matrimônio, mas esta logo depois não encontra mais graça a seus olhos, porque viu nela algo de inconveniente, ele lhe escreverá então uma ata de divórcio e a entregará, deixando-a sair de sua casa em liberdade.",
+      "reference": "Dt 24:1"
+    },
+    "2": {
+      "text": "Tendo saído de sua casa, se ela começa a pertencer a um outro,",
+      "reference": "Dt 24:2"
+    },
+    "3": {
+      "text": "e se também este a repudia, e lhe escreve e entrega em mãos uma ata de divórcio, e a deixa ir de sua casa em liberdade (ou se este outro homem que a tinha esposado vem a morrer),",
+      "reference": "Dt 24:3"
+    },
+    "4": {
+      "text": "o primeiro marido que a tinha repudiado não poderá retomá-la como esposa, após ela ter-se tornado impura: isto seria um ato abominável diante de Iahweh. E tu não deverias fazer pecar a terra que Iahweh teu Deus te dará como herança. \\par",
+      "reference": "Dt 24:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Medidas de proteção\\par }Quando um homem for recém-casado, não deverá ir para a guerra, nem será requisitado para qualquer coisa. Ele ficará em casa, de licença por um ano, alegrando a esposa que tomou. \\par",
+      "reference": "Dt 24:5"
+    },
+    "6": {
+      "text": "Não tomarás como penhor as duas mós, nem mesmo a mó de cima, pois assim estarias penhorando uma vida. \\par",
+      "reference": "Dt 24:6"
+    },
+    "7": {
+      "text": "Se alguém for pego em flagrante seqüestrando um dos irmãos, dentre os filhos de Israel – para explorá-lo ou vendê-lo – tal seqüestrador será morto. Deste modo extirparás o mal do teu meio. \\par",
+      "reference": "Dt 24:7"
+    },
+    "8": {
+      "text": "Quando houver lepra, cuida de pôr diligentemente em prática tudo o que os sacerdotes levitas vos ensinarem; cuidareis de pôr em prática o que eu lhes tiver ordenado.",
+      "reference": "Dt 24:8"
+    },
+    "9": {
+      "text": "Lembra-te do que Iahweh teu Deus fez a Maria no caminho, quando saístes do Egito. \\par",
+      "reference": "Dt 24:9"
+    },
+    "10": {
+      "text": "Quando fizeres algum empréstimo ao teu próximo, não entrarás em sua casa para lhe tirar o penhor.",
+      "reference": "Dt 24:10"
+    },
+    "11": {
+      "text": "Ficarás do lado de fora, e o homem a quem fizeste o empréstimo virá para fora trazer-te o penhor.",
+      "reference": "Dt 24:11"
+    },
+    "12": {
+      "text": "Se for um pobre, porém, não irás dormir conservando o seu penhor;",
+      "reference": "Dt 24:12"
+    },
+    "13": {
+      "text": "ao pôr-do-sol deverás devolver sem falta o penhor, para que ele durma com o seu manto e te abençoe. É, quanto a ti, isso será um ato de justiça diante de Iahweh teu Deus. \\par",
+      "reference": "Dt 24:13"
+    },
+    "14": {
+      "text": "Não oprimirás um assalariado pobre, necessitado, seja ele um dos teus irmãos ou um estrangeiro que mora em tua terra, em tua cidade.",
+      "reference": "Dt 24:14"
+    },
+    "15": {
+      "text": "Pagar-lhe-ás o salário a cada dia, antes que o sol se ponha, porque ele é pobre e disso depende a sua vida. Deste modo, ele não clamará a Iahweh contra ti, e em ti não haverá pecado. \\par",
+      "reference": "Dt 24:15"
+    },
+    "16": {
+      "text": "Os pais não serão mortos em lugar dos filhos, nem os filhos em lugar dos pais. Cada um será executado por seu próprio crime. \\par",
+      "reference": "Dt 24:16"
+    },
+    "17": {
+      "text": "Não perverterás o direito do estrangeiro e do órfão, nem tomarás como penhor a roupa da viúva.",
+      "reference": "Dt 24:17"
+    },
+    "18": {
+      "text": "Recorda que foste escravo na terra do Egito, e que Iahweh teu Deus de lá te resgatou. É por isso que eu te ordeno agir deste modo. \\par",
+      "reference": "Dt 24:18"
+    },
+    "19": {
+      "text": "Quando estiveres ceifando a colheita em teu campo e esqueceres um feixe, não voltes para pegá-lo: ele é do estrangeiro, do órfão e da viúva, para que Iahweh teu Deus te abençoe em todo trabalho das tuas mãos. \\par",
+      "reference": "Dt 24:19"
+    },
+    "20": {
+      "text": "Quando sacudires os frutos da tua oliveira, não repasses os ramos: o resto será do estrangeiro, do órfão e da viúva. \\par",
+      "reference": "Dt 24:20"
+    },
+    "21": {
+      "text": "Quando vindimares a tua vinha, não voltes a rebuscá-la: o resto será do estrangeiro, do órfão e da viúva. \\par",
+      "reference": "Dt 24:21"
+    },
+    "22": {
+      "text": "Recorda que foste escravo na terra do Egito. É por isso que eu te ordeno agir deste modo. \\par",
+      "reference": "Dt 24:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

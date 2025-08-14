@@ -1,0 +1,61 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Há um outro mal que observo debaixo do sol e que é grave para o homem:",
+      "reference": "Ec 6:1"
+    },
+    "2": {
+      "text": "a um, Deus concede riquezas, recursos e honra, e nada lhe falta de tudo o que poderia desejar; Deus, porém, não lhe permite desfrutar estas coisas; é um estrangeiro que as desfruta. Isso é vaidade e sofrimento cruel.",
+      "reference": "Ec 6:2"
+    },
+    "3": {
+      "text": "Outro, porém, teve cem filhos e viveu por muitos anos; apesar de ter vivido muitos anos, nunca se saciou de felicidade, e nem sequer teve sepultura. Pois eu digo que um aborto é mais feliz do que ele. \\par",
+      "reference": "Ec 6:3"
+    },
+    "4": {
+      "text": "Ele chega na vaidade e se vai para as trevas, e as trevas sepultam seu nome. \\par",
+      "reference": "Ec 6:4"
+    },
+    "5": {
+      "text": "Não viu o sol e nem o conhece: há mais repouso para ele do que para o outro. \\par",
+      "reference": "Ec 6:5"
+    },
+    "6": {
+      "text": "E mesmo que alguém vivesse duas vezes mil anos, não veria a felicidade; não vão todos para o mesmo lugar? \\par",
+      "reference": "Ec 6:6"
+    },
+    "7": {
+      "text": "Todo trabalho do homem é para sua boca e, no entanto, seu apetite nunca está satisfeito. \\par",
+      "reference": "Ec 6:7"
+    },
+    "8": {
+      "text": "Que vantagem tem o sábio sobre o insensato, ou sobre o pobre aquele que sabe conduzir-se diante dos vivos? \\par",
+      "reference": "Ec 6:8"
+    },
+    "9": {
+      "text": "Mais vale o que os olhos vêem do que a agitação do desejo. Isso também é vaidade e correr atrás do vento. \\par",
+      "reference": "Ec 6:9"
+    },
+    "10": {
+      "text": "O que aconteceu já recebeu um nome, e sabe-se o que é um homem: não pode contestar ao que é mais forte do que ele. \\par",
+      "reference": "Ec 6:10"
+    },
+    "11": {
+      "text": "Quanto mais palavras, tanto mais vaidade. Qual a vantagem para o homem? \\par",
+      "reference": "Ec 6:11"
+    },
+    "12": {
+      "text": "Quem sabe o que convém ao homem durante a sua vida, ao longo dos dias contados de sua vida de vaidade, que passam como sombra? Quem anunciará ao homem o que vai acontecer depois dele debaixo do sol? \\par",
+      "reference": "Ec 6:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

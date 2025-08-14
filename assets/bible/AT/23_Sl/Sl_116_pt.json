@@ -1,0 +1,89 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 116,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 116 (114-115)\\par }{\\qc\\b\\i Ação de graças\\par }Aleluia!\\par Eu amo a Iahweh, porque ele ouve \\par minha voz suplicante, \\par",
+      "reference": "Sl 116:1"
+    },
+    "2": {
+      "text": "ele inclina seu ouvido para mim \\par no dia em que eu o invoco. \\par",
+      "reference": "Sl 116:2"
+    },
+    "3": {
+      "text": "Cercavam-me laços de morte, \\par eram redes do Xeol: \\par caí em angústia e aflição. \\par",
+      "reference": "Sl 116:3"
+    },
+    "4": {
+      "text": "Então invoquei o nome de Iahweh: \\par “Ah! Iahweh, liberta minha vida!” \\par",
+      "reference": "Sl 116:4"
+    },
+    "5": {
+      "text": "Iahweh é justo e clemente, \\par nosso Deus é compassivo; \\par",
+      "reference": "Sl 116:5"
+    },
+    "6": {
+      "text": "Iahweh protege os simples: \\par eu fraquejava e ele me salvou. \\par",
+      "reference": "Sl 116:6"
+    },
+    "7": {
+      "text": "Volta ao repouso, ó minha vida, \\par pois Iahweh foi bondoso contigo: \\par",
+      "reference": "Sl 116:7"
+    },
+    "8": {
+      "text": "libertou minha vida da morte, \\par meus olhos das lágrimas \\par e meus pés de uma queda. \\par",
+      "reference": "Sl 116:8"
+    },
+    "9": {
+      "text": "Caminharei na presença de Iahweh \\par na terra dos vivos. \\par",
+      "reference": "Sl 116:9"
+    },
+    "10": {
+      "text": "Eu tinha fé, mesmo ao dizer: \\par “Estou por demais arrasado!” \\par",
+      "reference": "Sl 116:10"
+    },
+    "11": {
+      "text": "Em meu apuro eu dizia: \\par “Os homens são todos mentirosos!” \\par",
+      "reference": "Sl 116:11"
+    },
+    "12": {
+      "text": "Como retribuirei a Iahweh \\par todo o bem que me fez? \\par",
+      "reference": "Sl 116:12"
+    },
+    "13": {
+      "text": "Erguerei o cálice da salvação \\par invocando o nome de Iahweh. \\par",
+      "reference": "Sl 116:13"
+    },
+    "14": {
+      "text": "Cumprirei a Iahweh os meus votos, \\par na presença de todo o seu povo! \\par",
+      "reference": "Sl 116:14"
+    },
+    "15": {
+      "text": "É valiosa aos olhos de Iahweh \\par a morte dos seus fiéis. \\par",
+      "reference": "Sl 116:15"
+    },
+    "16": {
+      "text": "Ah! Iahweh, porque sou teu servo, \\par teu servo, filho de tua serva, \\par rompeste os meus grilhões. \\par",
+      "reference": "Sl 116:16"
+    },
+    "17": {
+      "text": "Vou te oferecer um sacrifício de louvor, \\par invocando o nome de Iahweh. \\par",
+      "reference": "Sl 116:17"
+    },
+    "18": {
+      "text": "Cumprirei a Iahweh os meus votos, \\par na presença de todo o seu povo, \\par",
+      "reference": "Sl 116:18"
+    },
+    "19": {
+      "text": "nos átrios da casa de Iahweh, \\par no meio de ti, Jerusalém! \\par",
+      "reference": "Sl 116:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

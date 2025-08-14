@@ -1,0 +1,93 @@
+{
+  "book": 54,
+  "book_name": "1Timóteo",
+  "book_abbr": "1Tm",
+  "book_category": "Epístolas Pastorais",
+  "book_english": "1 Timothy",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Endereço\\par }Paulo, apóstolo de Cristo Jesus, por ordem de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança,",
+      "reference": "1Tm 1:1"
+    },
+    "2": {
+      "text": "a Timóteo, meu verdadeiro filho na fé: graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor. \\par",
+      "reference": "1Tm 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i A ameaça dos falsos doutores\\par }Se eu te recomendei permanecer em Éfeso, quando estava de viagem para a Macedônia, foi para admoestares alguns a não ensinarem outra doutrina,",
+      "reference": "1Tm 1:3"
+    },
+    "4": {
+      "text": "nem se ocuparem com fábulas e genealogias sem fim, as quais favorecem mais as discussões do que o desígnio de Deus, que se realiza na fé.",
+      "reference": "1Tm 1:4"
+    },
+    "5": {
+      "text": "A finalidade desta admoestação é a caridade, que procede de um coração puro, de uma boa consciência e de uma fé sem hipocrisia.",
+      "reference": "1Tm 1:5"
+    },
+    "6": {
+      "text": "Desviando-se alguns desta linha, perderam-se num palavreado frívolo,",
+      "reference": "1Tm 1:6"
+    },
+    "7": {
+      "text": "pretendendo passar por doutores da Lei, quando não sabem nem o que dizem e nem o que afirmam tão fortemente. \\par",
+      "reference": "1Tm 1:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i O verdadeiro papel da Lei\\par }Sabemos, com efeito, que a Lei é boa, conquanto seja usada segundo as regras,",
+      "reference": "1Tm 1:8"
+    },
+    "9": {
+      "text": "sabendo que ela não é destinada ao justo, mas aos iníquos e rebeldes, ímpios e pecadores, sacrílegos e profanadores, parricidas e matricidas, homicidas,",
+      "reference": "1Tm 1:9"
+    },
+    "10": {
+      "text": "impudicos, pederastas, mercadores de escravos, mentirosos, perjuros e para tudo o que se oponha à sã doutrina,",
+      "reference": "1Tm 1:10"
+    },
+    "11": {
+      "text": "segundo o evangelho de glória do Deus bendito, que me foi confiado. \\par",
+      "reference": "1Tm 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Paulo e sua vocação\\par }Sou agradecido para com aquele que me deu força, Cristo Jesus, nosso Senhor, que me julgou fiel, tomando-me para o seu serviço,",
+      "reference": "1Tm 1:12"
+    },
+    "13": {
+      "text": "a mim que outrora era blasfemo, perseguidor e insolente. Mas obtive misericórdia, porque agi por ignorância, na incredulidade.",
+      "reference": "1Tm 1:13"
+    },
+    "14": {
+      "text": "Superabundou, porém, para mim, a graça de nosso Senhor, com a fé e o amor que há em Cristo Jesus.",
+      "reference": "1Tm 1:14"
+    },
+    "15": {
+      "text": "Fiel é esta palavra e digna de toda aceitação: Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o primeiro.",
+      "reference": "1Tm 1:15"
+    },
+    "16": {
+      "text": "Se me foi feita misericórdia, foi para que em mim primeiro Cristo Jesus demonstrasse toda a sua longanimidade, como exemplo para quantos nele hão de crer para a vida eterna. \\par",
+      "reference": "1Tm 1:16"
+    },
+    "17": {
+      "text": "Ao Rei dos séculos, \\par ao Deus incorruptível, invisível e único, \\par honra e glória \\par pelos séculos dos séculos. Amém! \\par",
+      "reference": "1Tm 1:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Timóteo diante de suas responsabilidades\\par }Esta é a instrução que te confio, Timóteo, meu filho, segundo as profecias pronunciadas outrora sobre ti: combate, firmado nelas, o bom combate,",
+      "reference": "1Tm 1:18"
+    },
+    "19": {
+      "text": "com fé e boa consciência; pois alguns, rejeitando a boa consciência, vieram a naufragar na fé.",
+      "reference": "1Tm 1:19"
+    },
+    "20": {
+      "text": "Dentre esses se encontram Himeneu e Alexandre, os quais entreguei a Satanás, a fim de que aprendam a não mais blasfemar. \\par",
+      "reference": "1Tm 1:20"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 20
+}

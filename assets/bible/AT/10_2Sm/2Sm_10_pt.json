@@ -1,0 +1,89 @@
+{
+  "book": 10,
+  "book_name": "2Samuel",
+  "book_abbr": "2Sm",
+  "book_category": "Histórico",
+  "book_english": "2 Samuel",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b B. A GUERRA AMONITA. NASCIMENTO DE SALOMÃO\\par }{\\qc\\b\\i Insulto aos embaixadores de Davi\\par }Depois disso, aconteceu que o rei dos amonitas morreu, e o seu filho Hanon reinou em seu lugar.",
+      "reference": "2Sm 10:1"
+    },
+    "2": {
+      "text": "Davi pensou: “Usarei para com Hanon, filho de Naás, da mesma benevolência que teve seu pai para comigo”, e mandou Davi seus servos apresentar-lhe pêsames pela morte do pai. Mas logo que os servos de Davi chegaram ao território dos amonitas,",
+      "reference": "2Sm 10:2"
+    },
+    "3": {
+      "text": "os príncipes dos amonitas disseram a Hanon, seu senhor: “Pensas que Davi quer honrar teu pai, porque te enviou portadores de pêsames? Não será antes para observar a cidade, para conhecer as suas defesas e depois a arruinar, que Davi te enviou os seus servos?”",
+      "reference": "2Sm 10:3"
+    },
+    "4": {
+      "text": "Então Hanon prendeu os servos de Davi e lhes fez rapar a metade da barba e rasgou metade das suas vestes até às nádegas, e os despediu.",
+      "reference": "2Sm 10:4"
+    },
+    "5": {
+      "text": "Logo que Davi teve notícia do ocorrido, mandou alguém ao seu encontro, porque estavam envergonhados, e o rei lhes enviou esta mensagem: “Ficai em Jericó até que cresça a vossa barba, e então vinde”. \\par",
+      "reference": "2Sm 10:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Primeira expedição militar amonita\\par }Quando os amonitas viram que se tinham tornado odiosos a Davi, mandaram mensageiros para tomarem a seu soldo os arameus de Bet-Roob e os arameus de Soba, vinte mil homens a pé, o rei de Maaca com mil homens, e o príncipe de Tob com doze mil homens.",
+      "reference": "2Sm 10:6"
+    },
+    "7": {
+      "text": "Quando Davi soube disso, enviou Joab com todo o exército, os valentes.",
+      "reference": "2Sm 10:7"
+    },
+    "8": {
+      "text": "Os amonitas saíram e puseram-se em linha de combate à entrada da porta, ao passo que os arameus de Soba e de Roob e os homens de Tob e de Maaca ficaram à parte, em campo aberto.",
+      "reference": "2Sm 10:8"
+    },
+    "9": {
+      "text": "Joab, vendo que iam avançar contra ele simultaneamente pela frente e pela retaguarda, escolheu os melhores de Israel e os pôs em linha de batalha contra os arameus.",
+      "reference": "2Sm 10:9"
+    },
+    "10": {
+      "text": "Confiou a seu irmão Abisaí o resto do exército e o colocou em linha de batalha contra os amonitas.",
+      "reference": "2Sm 10:10"
+    },
+    "11": {
+      "text": "E disse: “Se os arameus me estiverem vencendo, tu virás em meu auxílio; se os amonitas prevalecerem sobre ti, eu irei socorrer-te.",
+      "reference": "2Sm 10:11"
+    },
+    "12": {
+      "text": "Sede corajosos, e mostremo-nos fortes pelo nosso povo e pelas cidades do nosso Deus. Que Iahweh faça o que lhe parecer bom!”",
+      "reference": "2Sm 10:12"
+    },
+    "13": {
+      "text": "Joab e a tropa que estava com ele avançaram contra os arameus, que fugiram diante deles.",
+      "reference": "2Sm 10:13"
+    },
+    "14": {
+      "text": "Quando os amonitas viram que os arameus tinham fugido, recuaram também diante de Abisaí, e entraram na cidade. Então Joab voltou da guerra contra os amonitas e reentrou em Jerusalém. \\par",
+      "reference": "2Sm 10:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Vitória sobre os arameus\\par }Vendo que tinham sido vencidos diante de Israel, os arameus concentraram as suas forças.",
+      "reference": "2Sm 10:15"
+    },
+    "16": {
+      "text": "Adadezer enviou mensageiros e mobilizou os arameus que estavam do outro lado do Rio, os quais chegaram a Helam, tendo à sua frente Sobac, o chefe do exército de Adadezer.",
+      "reference": "2Sm 10:16"
+    },
+    "17": {
+      "text": "Isso foi relatado a Davi, que reuniu todo o Israel, passou o Jordão e chegou a Helam. Os arameus dispuseram-se em linha diante de Davi e deram-lhe batalha.",
+      "reference": "2Sm 10:17"
+    },
+    "18": {
+      "text": "Mas os arameus fugiram diante de Israel, e Davi destruiu setecentos carros deles e matou quarenta mil homens; ele venceu também a Sobac, seu general, que morreu naquele mesmo lugar.",
+      "reference": "2Sm 10:18"
+    },
+    "19": {
+      "text": "Assim que todos os reis vassalos de Adadezer viram que tinham sido vencidos por Israel, assinaram a paz com Israel e lhes ficaram sujeitos. Desde então, os arameus não mais se atreveram a socorrer os amonitas. \\par",
+      "reference": "2Sm 10:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

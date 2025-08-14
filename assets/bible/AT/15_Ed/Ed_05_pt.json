@@ -1,0 +1,81 @@
+{
+  "book": 15,
+  "book_name": "Esdras",
+  "book_abbr": "Ed",
+  "book_category": "Histórico",
+  "book_english": "Ezra",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Então os profetas Ageu e Zacarias, filho de Ado, puseram-se a profetizar aos judeus que estavam na Judéia e em Jerusalém, em nome do Deus de Israel que os inspirava.",
+      "reference": "Ed 5:1"
+    },
+    "2": {
+      "text": "E Zorobabel, filho de Salatiel, e Josué, filho de Josedec, começaram a construir o Templo de Deus em Jerusalém: os profetas de Deus estavam com eles, dando-lhes apoio.",
+      "reference": "Ed 5:2"
+    },
+    "3": {
+      "text": "Por esta época, Tatanai, governador da Transeufratênia, Setar-Buzanai e seus colegas vieram ter com eles e lhes perguntaram: “Quem vos deu permissão para reconstruir este templo e restaurar estas paredes?",
+      "reference": "Ed 5:3"
+    },
+    "4": {
+      "text": "Quais os nomes das pessoas que estão fazendo esta construção?”",
+      "reference": "Ed 5:4"
+    },
+    "5": {
+      "text": "Mas Deus tinha os olhos voltados para os anciãos dos judeus: não foram obrigados a parar o trabalho, aguardando que chegasse um relatório a Dario, que então mandaria uma ordem oficial sobre a questão. \\par",
+      "reference": "Ed 5:5"
+    },
+    "6": {
+      "text": "Cópia da carta que Tatanai, governador da Transeufratênia, Setar-Buzanai e seus colegas, as autoridades da Transeufratênia, mandaram ao rei Dario.",
+      "reference": "Ed 5:6"
+    },
+    "7": {
+      "text": "Enviaram-lhe um relatório, nestes termos: “Ao rei Dario, toda a paz!",
+      "reference": "Ed 5:7"
+    },
+    "8": {
+      "text": "Saiba o rei que estivemos no distrito de Judá, no templo do grande Deus: ele está sendo reconstruído com pedras enormes e suas paredes estão sendo revestidas de madeira; o trabalho está sendo executado com diligência e progride nas mãos dessa gente.",
+      "reference": "Ed 5:8"
+    },
+    "9": {
+      "text": "Interrogamos, pois, a estes anciãos, e falamos-lhes: ‘Quem vos deu permissão para reconstruirdes este templo e restaurardes estas paredes?’",
+      "reference": "Ed 5:9"
+    },
+    "10": {
+      "text": "Pedimos também os nomes deles para te relatar; pudemos assim transcrever os nomes dos homens que chefiam esta gente. \\par",
+      "reference": "Ed 5:10"
+    },
+    "11": {
+      "text": "Eis a resposta que nos deram: ‘Somos os servidores do Deus do céu e da terra; estamos reconstruindo um Templo que ficou de pé, outrora, por muitos anos, e que um grande rei de Israel construiu e terminou.",
+      "reference": "Ed 5:11"
+    },
+    "12": {
+      "text": "Mas porque nossos pais irritaram o Deus do céu, este os entregou nas mãos de Nabucodonosor, o caldeu, rei de Babilônia, que destruiu este Templo e deportou o povo para Babilônia.",
+      "reference": "Ed 5:12"
+    },
+    "13": {
+      "text": "Entretanto, no primeiro ano de Ciro, rei da Babilônia, o próprio rei Ciro deu ordem de se reconstruir este Templo de Deus;",
+      "reference": "Ed 5:13"
+    },
+    "14": {
+      "text": "além disso, o rei Ciro retirou do santuário de Babilônia os utensílios de ouro e prata do Templo de Deus, que Nabucodonosor retirara do santuário de Jerusalém e transportara para o templo de Babilônia; e mandou entregá-los a Sesabassar, que ele nomeou governador;",
+      "reference": "Ed 5:14"
+    },
+    "15": {
+      "text": "e disse-lhe: – Toma estes utensílios, vai depositá-los no santuário de Jerusalém e que o Templo de Deus seja reconstruído em seu lugar primitivo.",
+      "reference": "Ed 5:15"
+    },
+    "16": {
+      "text": "Este Sesabassar veio, pois, colocou os fundamentos do Templo de Deus em Jerusalém; e desde aquela época até o presente está sendo construído, mas ainda não está acabado. \\par",
+      "reference": "Ed 5:16"
+    },
+    "17": {
+      "text": "Agora, pois, se o rei acha conveniente, que se investigue nos tesouros do rei, em Babilônia, para se descobrir se de fato foi dada por Ciro a ordem de se reconstruir o Templo de Deus em Jerusalém. E que o rei depois nos faça saber qual é a sua decisão sobre o assunto”. \\par",
+      "reference": "Ed 5:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

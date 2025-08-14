@@ -1,0 +1,81 @@
+{
+  "book": 22,
+  "book_name": "Cântico dos Cânticos",
+  "book_abbr": "Ct",
+  "book_category": "Poético",
+  "book_english": "Song of Songs",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Título e Prólogo}\\par }O mais belo cântico de Salomão. \\par",
+      "reference": "Ct 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i A amada\\par }Que me beije com beijos de sua boca! \\par Teus amores são melhores do que o vinho, \\par",
+      "reference": "Ct 1:2"
+    },
+    "3": {
+      "text": "o odor dos teus perfumes é suave, \\par teu nome é como um óleo escorrendo, \\par e as donzelas se enamoram de ti... \\par",
+      "reference": "Ct 1:3"
+    },
+    "4": {
+      "text": "Arrasta-me contigo, corramos! \\par Leva-me, ó rei, aos teus aposentos \\par e exultemos! Alegremo-nos em ti! \\par Mais que ao vinho, celebremos teus amores! \\par Com razão se enamoram de ti... \\par",
+      "reference": "Ct 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b {\\i Primeiro poema}\\par }{\\qc\\b\\i A amada\\par }Sou morena, mas formosa, \\par ó filhas de Jerusalém, \\par como as tendas de Cedar \\par e os pavilhões de Salma. \\par",
+      "reference": "Ct 1:5"
+    },
+    "6": {
+      "text": "Não olheis eu ser morena: \\par foi o sol que me queimou; \\par os filhos de minha mãe \\par se voltaram contra mim, \\par fazendo-me guardar as vinhas, \\par e minha vinha, a minha \\par eu não a pude guardar. \\par",
+      "reference": "Ct 1:6"
+    },
+    "7": {
+      "text": "Avisa-me, amado de minha alma, \\par onde apascentas, onde descansas \\par o rebanho ao meio-dia, \\par para que eu não vague perdida \\par entre os rebanhos dos teus companheiros. \\par",
+      "reference": "Ct 1:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Coro\\par }Se não sabes, \\par ó mais bela das mulheres, \\par segue o rastro das ovelhas, \\par leva as cabras a pastar \\par junto às tendas dos pastores. \\par",
+      "reference": "Ct 1:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i O amado\\par }Minha amada, eu te comparo \\par à égua atrelada ao carro do Faraó! \\par",
+      "reference": "Ct 1:9"
+    },
+    "10": {
+      "text": "Que beleza tuas faces entre os brincos, \\par teu pescoço, com colares! \\par",
+      "reference": "Ct 1:10"
+    },
+    "11": {
+      "text": "Far-te-emos pingentes de ouro \\par cravejados de prata. \\par",
+      "reference": "Ct 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Dueto\\par }– Enquanto o rei está em seu divã \\par meu nardo difunde seu perfume. \\par",
+      "reference": "Ct 1:12"
+    },
+    "13": {
+      "text": "Um saquinho de mirra \\par é para mim meu amado \\par repousando entre meus seios; \\par",
+      "reference": "Ct 1:13"
+    },
+    "14": {
+      "text": "meu amado é para mim \\par um cacho de cipro florido \\par entre as vinhas de Engadi. \\par",
+      "reference": "Ct 1:14"
+    },
+    "15": {
+      "text": "– Como és bela, minha amada, \\par como és bela!... \\par Teus olhos são pombas. \\par",
+      "reference": "Ct 1:15"
+    },
+    "16": {
+      "text": "– Como és belo, meu amado, \\par e que doçura! \\par",
+      "reference": "Ct 1:16"
+    },
+    "17": {
+      "text": "– As vigas da nossa casa são de cedro, \\par e seu teto, de ciprestes. \\par",
+      "reference": "Ct 1:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

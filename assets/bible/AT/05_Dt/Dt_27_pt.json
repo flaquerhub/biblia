@@ -1,0 +1,117 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Inscrição da Lei e cerimônias cultuais\\par }Moisés e os anciãos de Israel ordenaram então ao povo: “Observai todos os mandamentos que hoje vos ordeno.",
+      "reference": "Dt 27:1"
+    },
+    "2": {
+      "text": "No dia em que atravessardes o Jordão para entrardes na terra que Iahweh teu Deus te dará, erigirás grandes pedras e as caiarás.",
+      "reference": "Dt 27:2"
+    },
+    "3": {
+      "text": "E sobre elas escreverás todas as palavras desta Lei, quando atravessares para entrar na terra que Iahweh teu Deus te dará, uma terra onde mana leite e mel, conforme te falou Iahweh, Deus dos teus pais. \\par",
+      "reference": "Dt 27:3"
+    },
+    "4": {
+      "text": "Após ter atravessado o Jordão erigireis estas pedras, conforme hoje vos ordeno, sobre o monte Ebal, e as caiarás.",
+      "reference": "Dt 27:4"
+    },
+    "5": {
+      "text": "E lá edificarás um altar para Iahweh teu Deus, um altar de pedras não trabalhadas por ferro;",
+      "reference": "Dt 27:5"
+    },
+    "6": {
+      "text": "é com pedras brutas que irás edificar o altar de Iahweh teu Deus, e sobre ele oferecerás holocaustos a Iahweh teu Deus.",
+      "reference": "Dt 27:6"
+    },
+    "7": {
+      "text": "Oferecerás ali sacrifícios de comunhão e comerás, alegrando-te diante de Iahweh teu Deus.",
+      "reference": "Dt 27:7"
+    },
+    "8": {
+      "text": "Sobre essas pedras escreverás todas as palavras desta Lei, gravando-as bem”. \\par",
+      "reference": "Dt 27:8"
+    },
+    "9": {
+      "text": "A seguir, Moisés e os sacerdotes levitas falaram a todo Israel: \\par “Fica em silêncio e ouve, ó Israel: hoje te tornaste o povo de Iahweh teu Deus.",
+      "reference": "Dt 27:9"
+    },
+    "10": {
+      "text": "Portanto, obedecerás à voz de Iahweh teu Deus e porás em prática os mandamentos e os estatutos que hoje te ordeno”. \\par",
+      "reference": "Dt 27:10"
+    },
+    "11": {
+      "text": "E naquele dia Moisés deu a seguinte ordem ao povo: \\par",
+      "reference": "Dt 27:11"
+    },
+    "12": {
+      "text": "“Eis os que se postarão sobre o monte Garizim para abençoar o povo, quando tiverdes atravessado o Jordão: Simeão, Levi, Judá, Issacar, José e Benjamim.",
+      "reference": "Dt 27:12"
+    },
+    "13": {
+      "text": "E eis o s que se postarão sobre o monte Ebal para a maldição: Rúben, Gad, Aser, Zabulon, Dã e Neftali.",
+      "reference": "Dt 27:13"
+    },
+    "14": {
+      "text": "Os levitas tomarão a palavra e, em alta voz, dirão a todos os homens de Israel: \\par",
+      "reference": "Dt 27:14"
+    },
+    "15": {
+      "text": "‘Maldito seja o homem que faz um ídolo esculpido ou fundido, abominação para Iahweh, obra de artesão, e o põe em lugar secreto!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:15"
+    },
+    "16": {
+      "text": "‘Maldito seja aquele que desonra seu pai e sua mãe!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:16"
+    },
+    "17": {
+      "text": "‘Maldito seja aquele que desloca a fronteira do seu vizinho!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:17"
+    },
+    "18": {
+      "text": "‘Maldito seja aquele que extravia um cego no caminho!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:18"
+    },
+    "19": {
+      "text": "‘Maldito seja aquele que perverte o direito do estrangeiro, do órfão e da viúva!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:19"
+    },
+    "20": {
+      "text": "‘Maldito seja aquele que se deita com a mulher do sei pai, pois retira dela o pano do manto do seu pai!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:20"
+    },
+    "21": {
+      "text": "‘Maldito seja aquele que se deita com um animal!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:21"
+    },
+    "22": {
+      "text": "‘Maldito seja aquele que deita com sua irmã, filha de seu pai ou filha de sua mãe!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:22"
+    },
+    "23": {
+      "text": "‘Maldito seja aquele que deita com sua sogra!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:23"
+    },
+    "24": {
+      "text": "‘Maldito seja aquele que fere o seu próximo às escondidas!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:24"
+    },
+    "25": {
+      "text": "‘Maldito seja aquele que aceita suborno para matar uma pessoa inocente!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:25"
+    },
+    "26": {
+      "text": "‘Maldito seja aquele que não mantém as palavras desta Lei, não pondo-as em prática!’ E todo o povo dirá: ‘Amém!’ \\par",
+      "reference": "Dt 27:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

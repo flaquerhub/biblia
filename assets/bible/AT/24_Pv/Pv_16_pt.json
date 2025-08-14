@@ -1,0 +1,145 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Ao homem os projetos do coração, \\par de Iahweh vem a resposta da língua. \\par",
+      "reference": "Pv 16:1"
+    },
+    "2": {
+      "text": "Todos os caminhos do homem são puros a seus olhos, \\par mas Iahweh pesa os espíritos. \\par",
+      "reference": "Pv 16:2"
+    },
+    "3": {
+      "text": "Recomenda a Iahweh tuas obras, \\par e teus projetos irão se realizar.\\par",
+      "reference": "Pv 16:3"
+    },
+    "4": {
+      "text": "Iahweh tudo faz em vista de um fim, \\par e até o ímpio para o dia da desgraça. \\par",
+      "reference": "Pv 16:4"
+    },
+    "5": {
+      "text": "Abominação para Iahweh: todo coração altivo; \\par certamente não ficará impune. \\par",
+      "reference": "Pv 16:5"
+    },
+    "6": {
+      "text": "Com amor e fidelidade expia-se a culpa, \\par pelo temor de Iahweh o mal é afastado. \\par",
+      "reference": "Pv 16:6"
+    },
+    "7": {
+      "text": "Quando Iahweh aprova os caminhos de um homem, \\par ele o reconcilia até mesmo com seus inimigos. \\par",
+      "reference": "Pv 16:7"
+    },
+    "8": {
+      "text": "Mais vale pouco com justiça, \\par do que muitos ganhos sem o direito. \\par",
+      "reference": "Pv 16:8"
+    },
+    "9": {
+      "text": "O coração do homem planeja o seu caminho, \\par mas é Iahweh que firma os seus passos. \\par",
+      "reference": "Pv 16:9"
+    },
+    "10": {
+      "text": "O oráculo está nos lábios do rei; \\par num julgamento, sua boca é sem defeito. \\par",
+      "reference": "Pv 16:10"
+    },
+    "11": {
+      "text": "A balança e os pratos justos são de Iahweh, \\par todos os pesos da bolsa são sua obra. \\par",
+      "reference": "Pv 16:11"
+    },
+    "12": {
+      "text": "Abominação para os reis é praticar o mal, \\par porque sobre a justiça o trono se firma. \\par",
+      "reference": "Pv 16:12"
+    },
+    "13": {
+      "text": "Os lábios justos ganham o favor do rei, \\par ele ama quem fala com retidão. \\par",
+      "reference": "Pv 16:13"
+    },
+    "14": {
+      "text": "O furor do rei é mensageiro de morte, \\par mas o homem sábio o aplaca. \\par",
+      "reference": "Pv 16:14"
+    },
+    "15": {
+      "text": "Na luz da face do rei está a vida; \\par seu favor é nuvem que traz chuva. \\par",
+      "reference": "Pv 16:15"
+    },
+    "16": {
+      "text": "Melhor do que o ouro é adquirir sabedoria, \\par e adquirir discernimento é melhor do que a prata. \\par",
+      "reference": "Pv 16:16"
+    },
+    "17": {
+      "text": "O caminho dos homens retos é evitar o mal; \\par quem vigia seu caminho guarda sua vida. \\par",
+      "reference": "Pv 16:17"
+    },
+    "18": {
+      "text": "A arrogância precede a ruína, \\par e o espírito altivo, a queda. \\par",
+      "reference": "Pv 16:18"
+    },
+    "19": {
+      "text": "É melhor ser humilde com os pobres \\par do que repartir o despojo com os soberbos. \\par",
+      "reference": "Pv 16:19"
+    },
+    "20": {
+      "text": "Quem é atento à palavra encontra a felicidade, \\par quem confia em Iahweh é feliz. \\par",
+      "reference": "Pv 16:20"
+    },
+    "21": {
+      "text": "Um coração sábio tem fama de inteligente, \\par a doçura dos lábios aumenta o saber. \\par",
+      "reference": "Pv 16:21"
+    },
+    "22": {
+      "text": "Fonte de vida é a sensatez para quem a possui, \\par a disciplina dos estultos é estultícia. \\par",
+      "reference": "Pv 16:22"
+    },
+    "23": {
+      "text": "O coração do sábio faz sua boca sensata, \\par e seus lábios ricos em experiência. \\par",
+      "reference": "Pv 16:23"
+    },
+    "24": {
+      "text": "As palavras amáveis são um favo de mel: \\par doce para o paladar e força para os ossos. \\par",
+      "reference": "Pv 16:24"
+    },
+    "25": {
+      "text": "Há caminhos que parecem retos, \\par mas afinal são caminhos para a morte. \\par",
+      "reference": "Pv 16:25"
+    },
+    "26": {
+      "text": "A fome do operário trabalha para ele, \\par porque sua boca o estimula. \\par",
+      "reference": "Pv 16:26"
+    },
+    "27": {
+      "text": "O homem malvado produz desgraça, \\par e leva nos lábios fogo abrasador. \\par",
+      "reference": "Pv 16:27"
+    },
+    "28": {
+      "text": "O homem pervertido semeia discórdias, \\par e o difamador divide os amigos.\\par",
+      "reference": "Pv 16:28"
+    },
+    "29": {
+      "text": "O homem violento seduz o seu próximo \\par e o guia pelo mau caminho. \\par",
+      "reference": "Pv 16:29"
+    },
+    "30": {
+      "text": "O que fecha os olhos para meditar disparates, \\par o que morde os lábios, já fez o mal. \\par",
+      "reference": "Pv 16:30"
+    },
+    "31": {
+      "text": "Nobre coroa são as cãs, \\par ela se encontra no caminho da justiça. \\par",
+      "reference": "Pv 16:31"
+    },
+    "32": {
+      "text": "Mais vale um homem lento para a ira do que um herói, \\par e um homem senhor de si do que o conquistador de uma cidade. \\par",
+      "reference": "Pv 16:32"
+    },
+    "33": {
+      "text": "A sorte se joga na orla da veste, \\par mas de Iahweh depende o julgamento. \\par",
+      "reference": "Pv 16:33"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 33
+}

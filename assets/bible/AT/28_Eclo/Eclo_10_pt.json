@@ -1,0 +1,137 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O governante\\par }Um governante sábio educa o seu povo, \\par e a autoridade de um homem inteligente é bem estabelecida. \\par",
+      "reference": "Eclo 10:1"
+    },
+    "2": {
+      "text": "Qual o governante do povo, tais os seus ministros; \\par qual o que governa a cidade, tais todos os seus habitantes. \\par",
+      "reference": "Eclo 10:2"
+    },
+    "3": {
+      "text": "Um rei sem instrução arruinará seu povo, \\par uma cidade será construída graças à inteligência dos chefes. \\par",
+      "reference": "Eclo 10:3"
+    },
+    "4": {
+      "text": "Nas mãos do Senhor está o governo do mundo: \\par ele suscita, no tempo oportuno, o homem que convém. \\par",
+      "reference": "Eclo 10:4"
+    },
+    "5": {
+      "text": "O sucesso de um homem está nas mãos do Senhor, \\par é ele que dá ao escriba a sua glória. \\par",
+      "reference": "Eclo 10:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Contra o orgulho\\par }Não guardes rancor de teu próximo, por nenhuma injustiça, \\par e não faças nada num movimento de paixão. \\par",
+      "reference": "Eclo 10:6"
+    },
+    "7": {
+      "text": "O orgulho é odioso tanto ao Senhor como aos homens, \\par e ambos têm horror da injustiça. \\par",
+      "reference": "Eclo 10:7"
+    },
+    "8": {
+      "text": "O poder passa de uma nação a outra \\par pela injustiça, pela violência e pela riqueza. \\par",
+      "reference": "Eclo 10:8"
+    },
+    "9": {
+      "text": "De que se orgulha quem é terra e cinza, \\par um ser que, vivendo, tem já as vísceras repugnantes? \\par",
+      "reference": "Eclo 10:9"
+    },
+    "10": {
+      "text": "Uma longa doença zomba do médico, \\par quem hoje é rei, amanhã morrerá. \\par",
+      "reference": "Eclo 10:10"
+    },
+    "11": {
+      "text": "Quando um homem morre, herda \\par insetos, feras e vermes. \\par",
+      "reference": "Eclo 10:11"
+    },
+    "12": {
+      "text": "O princípio do orgulho é o afastar-se do Senhor \\par e ter o coração longe do Criador. \\par",
+      "reference": "Eclo 10:12"
+    },
+    "13": {
+      "text": "Porque o princípio do orgulho é o pecado \\par e o que o possui difunde abominação. \\par Por isso, o Senhor lhe inflige tremendos golpes \\par e o destrói completamente. \\par",
+      "reference": "Eclo 10:13"
+    },
+    "14": {
+      "text": "O Senhor derruba o trono dos poderosos \\par e assenta os mansos em seus lugares. \\par",
+      "reference": "Eclo 10:14"
+    },
+    "15": {
+      "text": "O Senhor arranca a raiz dos orgulhosos \\par e planta os humildes em seu lugar. \\par",
+      "reference": "Eclo 10:15"
+    },
+    "16": {
+      "text": "O Senhor destrói o território das nações \\par e aniquila-as até o subsolo. \\par",
+      "reference": "Eclo 10:16"
+    },
+    "17": {
+      "text": "Ele as extirpa, as aniquila \\par e elimina do mundo as suas lembranças. \\par",
+      "reference": "Eclo 10:17"
+    },
+    "18": {
+      "text": "O orgulho não foi feito para o homem, \\par nem o furor para os nascidos de mulher. \\par",
+      "reference": "Eclo 10:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i As pessoas dignas de honra\\par }Qual a raça digna de honra? A raça dos homens. \\par Qual a raça digna de honra? A dos que temem ao Senhor. \\par Qual a raça digna de menosprezos? A raça dos homens. \\par Qual a raça digna de menosprezos? A dos que transgridem a lei. \\par",
+      "reference": "Eclo 10:19"
+    },
+    "20": {
+      "text": "Entre os irmãos, é honrado o seu chefe, \\par os que temem ao Senhor são honrados por ele. \\par",
+      "reference": "Eclo 10:20"
+    },
+    "21": {
+      "text": "*",
+      "reference": "Eclo 10:21"
+    },
+    "22": {
+      "text": "Rico, honrado ou pobre, \\par a sua glória é o temor do Senhor. \\par",
+      "reference": "Eclo 10:22"
+    },
+    "23": {
+      "text": "Não é justo desprezar um pobre inteligente, \\par não convém honrar um pecador. \\par",
+      "reference": "Eclo 10:23"
+    },
+    "24": {
+      "text": "O nobre, o juiz, o poderoso são dignos de honra, \\par mas nenhum deles é maior do que aquele que teme ao Senhor. \\par",
+      "reference": "Eclo 10:24"
+    },
+    "25": {
+      "text": "Homens livres serão súditos de um escravo sensato \\par e o homem sábio não se queixa disso. \\par",
+      "reference": "Eclo 10:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i Humildade e verdade\\par }Não te julgues muito hábil para o teu trabalho, \\par nem te glories no tempo de tua penúria. \\par",
+      "reference": "Eclo 10:26"
+    },
+    "27": {
+      "text": "É melhor um homem que trabalha e tem tudo em abundância \\par do que aquele que se gloria e carece de alimento. \\par",
+      "reference": "Eclo 10:27"
+    },
+    "28": {
+      "text": "Filho, honra-te com a modéstia \\par e aprecia-te segundo o teu valor. \\par",
+      "reference": "Eclo 10:28"
+    },
+    "29": {
+      "text": "Quem justificará aquele que prejudica a si próprio? \\par E quem estimará aquele que se menospreza? \\par",
+      "reference": "Eclo 10:29"
+    },
+    "30": {
+      "text": "O pobre é honrado por seu saber \\par e o rico, por suas riquezas. \\par",
+      "reference": "Eclo 10:30"
+    },
+    "31": {
+      "text": "O que foi honrado na pobreza quanto não o será na riqueza? \\par O que foi menosprezado na riqueza quanto não o será na pobreza? \\par",
+      "reference": "Eclo 10:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

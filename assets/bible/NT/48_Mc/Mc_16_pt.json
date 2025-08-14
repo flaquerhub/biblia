@@ -1,0 +1,93 @@
+{
+  "book": 41,
+  "book_name": "Marcos",
+  "book_abbr": "Mc",
+  "book_category": "Evangelhos",
+  "book_english": "Mark",
+  "testament": "NT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O túmulo vazio. Mensagem do Anjo\\par }Passado o sábado, Maria Madalena e Maria, mãe de Tiago, e Salomé compraram aromas para ir ungi-lo.",
+      "reference": "Mc 16:1"
+    },
+    "2": {
+      "text": "De madrugada, no primeiro dia da semana, elas foram ao túmulo ao nascer do sol. \\par",
+      "reference": "Mc 16:2"
+    },
+    "3": {
+      "text": "E diziam entre si: “Quem rolará a pedra da entrada do túmulo para nós?”",
+      "reference": "Mc 16:3"
+    },
+    "4": {
+      "text": "E erguendo os olhos, viram que a pedra já fora removida. Ora, a pedra era muito grande.",
+      "reference": "Mc 16:4"
+    },
+    "5": {
+      "text": "Tendo entrado no túmulo, elas viram um jovem sentado à direita, vestido com uma túnica branca, e ficaram cheias de espanto.",
+      "reference": "Mc 16:5"
+    },
+    "6": {
+      "text": "Ele, porém, lhes disse: “Não vos espanteis! Estais procurando Jesus d Nazaré, o Crucificado. Ressuscitou, não está aqui. Vede o lugar onde o puseram.",
+      "reference": "Mc 16:6"
+    },
+    "7": {
+      "text": "Mas ide dizer aos seus discípulos e a Pedro que ele vos precede na Galiléia. Lá o vereis, como vos tinha dito”.",
+      "reference": "Mc 16:7"
+    },
+    "8": {
+      "text": "Elas saíram e fugiram do túmulo, pois um tremor e um estupor se apossaram delas. E nada contaram a ninguém, pois tinham medo... \\par",
+      "reference": "Mc 16:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Aparições de Jesus ressuscitado\\par }Ora, tendo ressuscitado na madrugada do primeiro dia da semana, ele apareceu primeiro a Maria Madalena, de quem havia expulsado sete demônios.",
+      "reference": "Mc 16:9"
+    },
+    "10": {
+      "text": "Ela foi anunciá-lo àqueles que tinham estado em companhia dele e que estavam aflitos e choravam.",
+      "reference": "Mc 16:10"
+    },
+    "11": {
+      "text": "Eles, ouvindo que ele estava vivo e que fora visto por ela, não creram. \\par",
+      "reference": "Mc 16:11"
+    },
+    "12": {
+      "text": "Depois disso, ele se manifestou de outra forma a dois deles, enquanto caminhavam para o campo.",
+      "reference": "Mc 16:12"
+    },
+    "13": {
+      "text": "Eles foram anunciar aos restantes, mas nem nestes creram. \\par",
+      "reference": "Mc 16:13"
+    },
+    "14": {
+      "text": "Finalmente, ele se manifestou aos Onze, quando estavam à mesa, e censurou-lhes a incredulidade e a dureza de coração, porque não haviam dado crédito aos que o tinham visto ressuscitado. \\par",
+      "reference": "Mc 16:14"
+    },
+    "15": {
+      "text": "E disse-lhes: “Ide por todo o mundo, proclamai o Evangelho a toda criatura.",
+      "reference": "Mc 16:15"
+    },
+    "16": {
+      "text": "Aquele que crer e for batizado será salvo; o que não crer será condenado.",
+      "reference": "Mc 16:16"
+    },
+    "17": {
+      "text": "Estes são os sinais que acompanharão aos que tiverem crido: em meu nome expulsarão demônios, falarão em novas línguas,",
+      "reference": "Mc 16:17"
+    },
+    "18": {
+      "text": "pegarão em serpentes, e se beberem algum veneno mortífero, nada sofrerão; imporão as mãos sobre os enfermos, e estes ficarão curados”. \\par",
+      "reference": "Mc 16:18"
+    },
+    "19": {
+      "text": "Ora, o Senhor Jesus, depois de lhes ter falado, foi {\\i arrebatado ao céu e sentou-se à direita de Deus.}",
+      "reference": "Mc 16:19"
+    },
+    "20": {
+      "text": "E eles saíram a pregar por toda parte, agindo com eles o Senhor, e confirmando a Palavra por meio de sinais que a acompanhavam. \\par",
+      "reference": "Mc 16:20"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 20
+}

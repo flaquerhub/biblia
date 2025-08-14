@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 61,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 61 (60)\\par }{\\qc\\b\\i Prece de um exilado\\par }{\\qc\\i Do mestre de canto. Com instrumentos de corda. De Davi. \\par }",
+      "reference": "Sl 61:1"
+    },
+    "2": {
+      "text": "Ó Deus, ouve o meu grito, \\par atende à minha prece! \\par",
+      "reference": "Sl 61:2"
+    },
+    "3": {
+      "text": "Dos confins da terra eu te invoco \\par com o coração desfalecido. \\par Eleva-me sobre a rocha! Conduze-me! \\par",
+      "reference": "Sl 61:3"
+    },
+    "4": {
+      "text": "Porque és um abrigo para mim, \\par torre forte à frente do inimigo. \\par",
+      "reference": "Sl 61:4"
+    },
+    "5": {
+      "text": "Vou habitar em tua tenda para sempre, \\par abrigar-me ao amparo de tuas asas. {\\i Pausa} \\par",
+      "reference": "Sl 61:5"
+    },
+    "6": {
+      "text": "Pois tu, ó Deus, ouves os meus votos, \\par e me dás a herança dos que temem o teu nome. \\par",
+      "reference": "Sl 61:6"
+    },
+    "7": {
+      "text": "Acrescenta dias aos dias do rei, \\par sejam seus anos gerações e gerações. \\par",
+      "reference": "Sl 61:7"
+    },
+    "8": {
+      "text": "Permaneça sempre em presença de Deus, \\par e Amor e Fidelidade o protejam. \\par",
+      "reference": "Sl 61:8"
+    },
+    "9": {
+      "text": "Assim eu tocarei ao teu nome sem cessar, \\par dia por dia cumprindo meus votos. \\par",
+      "reference": "Sl 61:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

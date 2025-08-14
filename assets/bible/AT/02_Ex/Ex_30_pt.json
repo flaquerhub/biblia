@@ -1,0 +1,165 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O altar dos perfumes\\par }Farás também um altar para queimares nele o incenso, de madeira de acácia o farás.",
+      "reference": "Ex 30:1"
+    },
+    "2": {
+      "text": "Terá um côvado de comprimento e um de largura, será quadrado, e terá a altura de dois côvados; os chifres formarão uma só peça com ele.",
+      "reference": "Ex 30:2"
+    },
+    "3": {
+      "text": "Cobrirás de ouro puro a sua parte superior, as paredes ao redor e os chifres; e lhe farás uma moldura de ouro ao redor.",
+      "reference": "Ex 30:3"
+    },
+    "4": {
+      "text": "Far-lhe-ás duas argolas de ouro debaixo da moldura, de ambos os lados as farás; nelas se enfiarão os varais para se levar o altar.",
+      "reference": "Ex 30:4"
+    },
+    "5": {
+      "text": "Farás os varais de madeira de acácia e os cobrirás de ouro.",
+      "reference": "Ex 30:5"
+    },
+    "6": {
+      "text": "Porás o altar defronte do véu que está diante da arca do Testemunho – diante do propiciatório que está sobre o Testemunho – onde me encontrarei contigo.",
+      "reference": "Ex 30:6"
+    },
+    "7": {
+      "text": "Aarão fará fumegar sobre ele o incenso aromático; cada manhã, quando preparar as lâmpadas, ele o fará fumegar.",
+      "reference": "Ex 30:7"
+    },
+    "8": {
+      "text": "Quando Aarão acender as lâmpadas, ao crepúsculo, o fará fumegar. Será um incenso perpétuo diante de Iahweh, pelas vossas gerações.",
+      "reference": "Ex 30:8"
+    },
+    "9": {
+      "text": "Não oferecereis sobre ele incenso profano, nem holocausto, nem oblação, nem derramareis sobre ele nenhuma libação.",
+      "reference": "Ex 30:9"
+    },
+    "10": {
+      "text": "Uma vez no ano Aarão realizará sobre os chifres do altar o rito da expiação: com o sangue do sacrifício pelo pecado, no dia da Expiação, uma vez por ano, ele fará a expiação por si, pelas vossas gerações. Está consagrado de modo especial a Iahweh”. \\par",
+      "reference": "Ex 30:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i O tributo para o culto\\par }Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 30:11"
+    },
+    "12": {
+      "text": "“Quando fizeres o recenseamento dos filhos de Israel, cada um pagará a Iahweh um resgate por sua pessoa, para que não haja entre eles nenhuma praga, quando os recenseares.",
+      "reference": "Ex 30:12"
+    },
+    "13": {
+      "text": "Todo o que estiver submetido ao recenseamento dará meio siclo, na base do siclo do santuário: vinte geras por siclo. Esse meio siclo é o seu tributo a Iahweh.",
+      "reference": "Ex 30:13"
+    },
+    "14": {
+      "text": "Todo o que estiver sujeito ao recenseamento, de vinte anos para cima, dará o tributo a Iahweh.",
+      "reference": "Ex 30:14"
+    },
+    "15": {
+      "text": "O rico não dará mais e o pobre não dará menos do que meio siclo, ao pagar o tributo a Iahweh em resgate por vossas pessoas.",
+      "reference": "Ex 30:15"
+    },
+    "16": {
+      "text": "Tomarás o dinheiro do resgate dos filhos de Israel e o entregarás para o serviço da Tenda da Reunião; ele será para os filhos de Israel um memorial diante de Iahweh, para o resgate de vossas pessoas”. \\par",
+      "reference": "Ex 30:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i A bacia\\par }Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 30:17"
+    },
+    "18": {
+      "text": "“Farás uma bacia de bronze, com a base também de bronze, para as abluções. Colocá-la-ás entre a Tenda da Reunião e o altar, e a encherás de água,",
+      "reference": "Ex 30:18"
+    },
+    "19": {
+      "text": "com a qual Aarão e os seus filhos lavarão as mãos e os pés.",
+      "reference": "Ex 30:19"
+    },
+    "20": {
+      "text": "Quando entrarem na Tenda da Reunião, lavar-se-ão com água, para que não morram, e também quando se aproximarem do altar para oficiar, para fazer fumegar uma oferenda queimada para Iahweh.",
+      "reference": "Ex 30:20"
+    },
+    "21": {
+      "text": "Lavarão as mãos e os pés, e não morrerão. Isto será um decreto perpétuo para ele e para a sua descendência, de geração em geração”. \\par",
+      "reference": "Ex 30:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i O óleo da unção\\par }Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 30:22"
+    },
+    "23": {
+      "text": "“Quanto a ti, procura bálsamo de primeira qualidade: quinhentos siclos de mirra virgem; a metade, ou seja, duzentos e cinqüenta, de cinamomo balsâmico, e outros duzentos e cinqüenta de cálamo balsâmico;",
+      "reference": "Ex 30:23"
+    },
+    "24": {
+      "text": "quinhentos siclos de cássia, segundo o peso do siclo do santuário, e um hin de azeite de oliveira.",
+      "reference": "Ex 30:24"
+    },
+    "25": {
+      "text": "Com tudo isso farás um óleo para a unção sagrada, um perfume aromático, trabalho de perfumista. Será o óleo para a unção sagrada.",
+      "reference": "Ex 30:25"
+    },
+    "26": {
+      "text": "Com ele ungirás a Tenda da Reunião e a arca do Testemunho,",
+      "reference": "Ex 30:26"
+    },
+    "27": {
+      "text": "a mesa com todos os seus acessórios, o candelabro com todos os seus acessórios, o altar dos perfumes,",
+      "reference": "Ex 30:27"
+    },
+    "28": {
+      "text": "o altar dos holocaustos com todos os seus acessórios, e a bacia com a sua base.",
+      "reference": "Ex 30:28"
+    },
+    "29": {
+      "text": "Consagrarás essas coisas e serão muito santas; quem as tocar ficará santificado.",
+      "reference": "Ex 30:29"
+    },
+    "30": {
+      "text": "Ungirás também a Aarão e a seus filhos e os consagrarás para que exerçam o sacerdócio em minha honra.",
+      "reference": "Ex 30:30"
+    },
+    "31": {
+      "text": "E falarás aos filhos de Israel, dizendo: Isto será para vós e para as vossas gerações um óleo de unção sagrada.",
+      "reference": "Ex 30:31"
+    },
+    "32": {
+      "text": "Não será derramado sobre o corpo de nenhum homem e, quanto à sua composição, não fareis outro semelhante a ele. Isto é coisa sagrada, coisa sagrada para vós.",
+      "reference": "Ex 30:32"
+    },
+    "33": {
+      "text": "Quem fizer outro parecido e colocá-lo sobre um profano, será retirado do seu povo”. \\par",
+      "reference": "Ex 30:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i O perfume\\par }Iahweh disse a Moisés: “Procura aromas: estoraque, craveiro e gálbano, aromas e incenso puro: cada um em quantidade igual.",
+      "reference": "Ex 30:34"
+    },
+    "35": {
+      "text": "Com eles farás um perfume, uma composição aromática, obra de perfumista, misturando com sal puro e santo.",
+      "reference": "Ex 30:35"
+    },
+    "36": {
+      "text": "Pulverizarás uma parte dele e a colocarás diante do Testemunho, na Tenda da Reunião, onde me encontro contigo, e será para vós uma coisa muito santa.",
+      "reference": "Ex 30:36"
+    },
+    "37": {
+      "text": "Não fareis para vós nenhum perfume de composição semelhante à que deves fazer. Será para vós coisa santa, consagrada a Iahweh.",
+      "reference": "Ex 30:37"
+    },
+    "38": {
+      "text": "Quem fizer um como este, para o cheirar, será retirado do seu povo”. \\par",
+      "reference": "Ex 30:38"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 38
+}

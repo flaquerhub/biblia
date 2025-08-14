@@ -1,0 +1,81 @@
+{
+  "book": 47,
+  "book_name": "2Coríntios",
+  "book_abbr": "2Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Corinthians",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Resolvi o seguinte: não voltarei a ter convosco na tristeza.",
+      "reference": "2Co 2:1"
+    },
+    "2": {
+      "text": "Pois, se vos causo tristeza, quem me proporcionará alegria senão aquele que eu tiver entristecido?",
+      "reference": "2Co 2:2"
+    },
+    "3": {
+      "text": "A finalidade da minha carta era evitar que, ao chegar, eu experimentasse tristeza da parte daqueles que me deveriam proporcionar alegria. Estou convencido, no que vos diz respeito, de que a minha alegria é também a de todos vós.",
+      "reference": "2Co 2:3"
+    },
+    "4": {
+      "text": "Por isto, foi em grande tribulação e com o coração angustiado que vos escrevi em meio a muitas lágrimas, não para vos entristecer, mas para que conheçais o amor transbordante que tenho para convosco. \\par",
+      "reference": "2Co 2:4"
+    },
+    "5": {
+      "text": "Se alguém causou tristeza, não foi a mim, mas em certa medida (não exageremos) a todos vós.",
+      "reference": "2Co 2:5"
+    },
+    "6": {
+      "text": "Para tal homem, basta a censura infligida pela maioria.",
+      "reference": "2Co 2:6"
+    },
+    "7": {
+      "text": "Eis por que, muito ao contrário, perdoai-lhe e consolai-o, a fim de que não seja absorvido por tristeza excessiva.",
+      "reference": "2Co 2:7"
+    },
+    "8": {
+      "text": "Sendo assim, exorto-vos a que deis provas de amor para com ele,",
+      "reference": "2Co 2:8"
+    },
+    "9": {
+      "text": "pois, ao vos escrever, eu tinha em mira pôr à prova a vossa obediência e averiguar se era total.",
+      "reference": "2Co 2:9"
+    },
+    "10": {
+      "text": "Àquele a quem perdoais eu perdôo! Se perdoei – na medida em que tinha de perdoar –, eu o fiz em vosso favor, na plena presença de Cristo,",
+      "reference": "2Co 2:10"
+    },
+    "11": {
+      "text": "a fim de que não sejamos iludidos por Satanás. Pois não ignoramos as intenções dele. \\par",
+      "reference": "2Co 2:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i De Trôade à Macedônia. Digressão: o ministério apostólico\\par }Cheguei então a Trôade para lá pregar o evangelho de Cristo, e, embora o Senhor me tivesse aberto uma porta grande,",
+      "reference": "2Co 2:12"
+    },
+    "13": {
+      "text": "não tive repouso de espírito, pois não encontrei Tito, meu irmão. Por conseguinte, despedi-me deles e parti par a Macedônia. \\par",
+      "reference": "2Co 2:13"
+    },
+    "14": {
+      "text": "Graças sejam dadas a Deus, que por Cristo nos carrega sempre em seu triunfo e, por nós, expande em toda parte o perfume do seu conhecimento.",
+      "reference": "2Co 2:14"
+    },
+    "15": {
+      "text": "Em verdade, somos para Deus o bom odor de Cristo, entre aqueles que se salvam e aqueles que se perdem;",
+      "reference": "2Co 2:15"
+    },
+    "16": {
+      "text": "para uns, odor que da morte leva à morte; para outros, odor que da vida leva à vida. E quem estaria à altura de tal missão?",
+      "reference": "2Co 2:16"
+    },
+    "17": {
+      "text": "Não somos como aqueles muitos que falsificam a palavra de Deus; é, antes, com sinceridade, como enviados de Deus, que falamos, na presença de Deus, em Cristo. \\par",
+      "reference": "2Co 2:17"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 17
+}

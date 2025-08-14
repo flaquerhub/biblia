@@ -1,0 +1,93 @@
+{
+  "book": 52,
+  "book_name": "1Tessalonicenses",
+  "book_abbr": "1Ts",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Thessalonians",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A atitude de Paulo durante sua estada em Tessalônica\\par }Bem sabeis, irmãos, que não foi inútil a nossa estada entre vós. \\par",
+      "reference": "1Ts 2:1"
+    },
+    "2": {
+      "text": "Sabeis que sofremos e fomos insultados em Filipos. Decidimos, contudo, confiados em nosso Deus, anunciar-vos o evangelho de Deus, no meio de grandes lutas.",
+      "reference": "1Ts 2:2"
+    },
+    "3": {
+      "text": "Pois a nossa exortação nada tem de intenções enganosas, de motivos espúrios, nem de astúcias.",
+      "reference": "1Ts 2:3"
+    },
+    "4": {
+      "text": "Uma vez que Deus nos achou dignos de confiar-nos o evangelho, falamos não para agradar aos homens, mas, sim, a Deus, que {\\i perscruta o nosso coração.}",
+      "reference": "1Ts 2:4"
+    },
+    "5": {
+      "text": "Eu não me apresentei com adulações, como sabeis; nem com secreta ganância, Deus é testemunha!",
+      "reference": "1Ts 2:5"
+    },
+    "6": {
+      "text": "Tampouco procuramos o elogio dos homens, quer vosso quer de outrem,",
+      "reference": "1Ts 2:6"
+    },
+    "7": {
+      "text": "ainda que nós, na qualidade de apóstolo de Cristo, pudéssemos fazer valer a nossa autoridade. Pelo contrário apresentamo-nos no meio de vós cheios de bondade, como uma mãe que acaricia os seus filhinhos.",
+      "reference": "1Ts 2:7"
+    },
+    "8": {
+      "text": "Tanto bem vos queríamos que desejávamos dar-vos não somente o evangelho de Deus, mas até a própria vida, de tanto amor que vos tínhamos.",
+      "reference": "1Ts 2:8"
+    },
+    "9": {
+      "text": "Ainda vos lembrais, meus irmãos, dos nossos trabalhos e fadigas. Trabalhamos de noite e de dia, para não sermos pesados a nenhum de vós. Foi assim que pregamos o evangelho de Deus.",
+      "reference": "1Ts 2:9"
+    },
+    "10": {
+      "text": "Vós sois testemunhas, e Deus também o é, de quão puro, justo e irrepreensível tem sido o nosso modo de proceder para convosco, os fiéis.",
+      "reference": "1Ts 2:10"
+    },
+    "11": {
+      "text": "Bem sabeis que exortamos a cada um de vós como um pai a seus filhos;",
+      "reference": "1Ts 2:11"
+    },
+    "12": {
+      "text": "nós vos exortávamos, vos encorajávamos e vos conjurávamos a viver de maneira digna de Deus, que vos chama aos seu Reino e à sua glória. \\par",
+      "reference": "1Ts 2:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i A fé e a paciência dos tessalonicenses\\par }Por esta razão é que sem cessar agradecemos a Deus por terdes acolhido a sua Palavra, que vos pregamos não como palavra humana, mas como na verdade é, Palavra de Deus que está produzindo efeito em vós, os fiéis.",
+      "reference": "1Ts 2:13"
+    },
+    "14": {
+      "text": "Irmãos, vós fostes imitadores das Igrejas de Deus que estão na Judéia, em Cristo Jesus; pois que da parte dos vossos conterrâneos tivestes de sofrer o mesmo que aquelas Igrejas sofreram da parte dos judeus.",
+      "reference": "1Ts 2:14"
+    },
+    "15": {
+      "text": "Eles mataram o Senhor Jesus e os profetas, e nos têm perseguido a nós. Desagradam a Deus e são inimigos de toda gente.",
+      "reference": "1Ts 2:15"
+    },
+    "16": {
+      "text": "Querem impedir-nos de pregar aos gentios para que se salvem; e com isto {\\i enchem a medida dos seus pecados}, até que a ira acabe por cair sobre eles. \\par",
+      "reference": "1Ts 2:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i A preocupação do Apóstolo\\par }Nós, porém, irmãos, privados por um momento de vossa companhia, não de coração mas só de vista, desejamos muitos vos rever.",
+      "reference": "1Ts 2:17"
+    },
+    "18": {
+      "text": "Quisemos ir visitar-vos – eu mesmo, Paulo, quis fazê-lo muitas vezes –, mas Satanás me impediu.",
+      "reference": "1Ts 2:18"
+    },
+    "19": {
+      "text": "Pois, quem é, senão vós, a nossa esperança, a nossa alegria, {\\i a coroa de glória}, diante do Senhor Jesus no dia da sua Vinda?",
+      "reference": "1Ts 2:19"
+    },
+    "20": {
+      "text": "Sim, sois vós a nossa glória e a alegria nossa! \\par",
+      "reference": "1Ts 2:20"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 20
+}

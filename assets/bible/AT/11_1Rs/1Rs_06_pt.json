@@ -1,0 +1,165 @@
+{
+  "book": 11,
+  "book_name": "1Reis",
+  "book_abbr": "1Rs",
+  "book_category": "Histórico",
+  "book_english": "1 Kings",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A construção do Templo\\par }No ano quatrocentos e oitenta após a saída dos filhos de Israel da terra do Egito, no quarto ano do reinado de Salomão sobre Israel, no mês de {\\i Ziv}, que é o segundo mês, ele construiu o Templo de Iahweh.",
+      "reference": "1Rs 6:1"
+    },
+    "2": {
+      "text": "O Templo que o rei Salomão edificou para Iahweh tinha sessenta côvados de comprimento, vinte de largura e vinte e cinco de altura.",
+      "reference": "1Rs 6:2"
+    },
+    "3": {
+      "text": "O {\\i Ulam} diante do {\\i Hekal} do Templo tinha vinte côvados de comprimento no sentido da largura do Templo e dez côvados de largura no sentido do comprimento do Templo.",
+      "reference": "1Rs 6:3"
+    },
+    "4": {
+      "text": "Fez no Templo janelas oblíquas com grades.",
+      "reference": "1Rs 6:4"
+    },
+    "5": {
+      "text": "Encostado à parede do Templo, ele fez um anexo em torno do {\\i Hekal} e do {\\i Debir}, e fez aposentos laterais ao redor.",
+      "reference": "1Rs 6:5"
+    },
+    "6": {
+      "text": "O andar térreo tinha cinco côvados de largura, o intermediário seis côvados e o terceiro sete côvados, pois ele tinha feito encostas em torno do Templo do lado de fora, de modo que as vigas não se prendiam às paredes do Templo.",
+      "reference": "1Rs 6:6"
+    },
+    "7": {
+      "text": "(O Templo foi construído com pedras já talhadas; de modo que não se ouviu barulho de martelo, de cinzel, nem de qualquer outro instrumento de ferro no Templo, durante sua construção).",
+      "reference": "1Rs 6:7"
+    },
+    "8": {
+      "text": "A entrada para o andar inferior situava-se no ângulo direito do Templo e por meio de escadas em caracol subia-se ao andar intermediário e, deste, ao terceiro.",
+      "reference": "1Rs 6:8"
+    },
+    "9": {
+      "text": "Terminada a construção do Templo, cobriu-o com um teto de pranchões de cedro.",
+      "reference": "1Rs 6:9"
+    },
+    "10": {
+      "text": "E construiu um anexo a todo o Templo; tinha cinco côvados de altura e estava ligado ao Templo por traves de cedro.",
+      "reference": "1Rs 6:10"
+    },
+    "11": {
+      "text": "A palavra de Iahweh foi então dirigida a Salomão:",
+      "reference": "1Rs 6:11"
+    },
+    "12": {
+      "text": "“Quanto a esta casa que estás construindo, se procederes segundo os meus estatutos, se observares as minhas normas e seguires fielmente os meus mandamentos, eu cumprirei em teu favor a minha palavra, que dei a teu pai Davi,",
+      "reference": "1Rs 6:12"
+    },
+    "13": {
+      "text": "e habitarei no meio dos filhos de Israel e não abandonarei meu povo, Israel”.",
+      "reference": "1Rs 6:13"
+    },
+    "14": {
+      "text": "Salomão edificou o Templo e o concluiu. \\par",
+      "reference": "1Rs 6:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i A decoração interna. O Santo dos Santos\\par }Forrou com placas de cedro o lado interno das paredes do Templo – desde o pavimento até as vigas do teto, revestiu com madeira o interior – e cobriu com tábuas de cipreste o assoalho do Templo.",
+      "reference": "1Rs 6:15"
+    },
+    "16": {
+      "text": "Construiu os vinte côvados a partir do fundo do Templo com tábuas de cedro, desde o pavimento até as vigas, e eles foram separados do Templo para formarem o {\\i Debir}, ou Santo dos Santos.",
+      "reference": "1Rs 6:16"
+    },
+    "17": {
+      "text": "O Templo, isto é, o {\\i Hekal}, diante do {\\i Debir}, tinha quarenta côvados.",
+      "reference": "1Rs 6:17"
+    },
+    "18": {
+      "text": "No interior do Templo, o cedro era esculpido com flores e festões; tudo era de cedro e não se via pedra alguma.",
+      "reference": "1Rs 6:18"
+    },
+    "19": {
+      "text": "Salomão dispôs um {\\i Debir} no interior do Templo, para nele colocar a Arca da Aliança de Iahweh.",
+      "reference": "1Rs 6:19"
+    },
+    "20": {
+      "text": "O {\\i Debir} tinha vinte côvados de comprimento, vinte côvados de largura e vinte côvados de altura; revestiu-o de ouro puríssimo. Fez um altar de cedro",
+      "reference": "1Rs 6:20"
+    },
+    "21": {
+      "text": "diante do {\\i Debir} e o revestiu de ouro.",
+      "reference": "1Rs 6:21"
+    },
+    "22": {
+      "text": "Ele revestiu de ouro o Templo todo, que ficou inteiramente coberto de ouro. \\par",
+      "reference": "1Rs 6:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Os querubins\\par }No {\\i Debir}, ele fez dois querubins de oliveira selvagem.... Ele tinha dez côvados de altura.",
+      "reference": "1Rs 6:23"
+    },
+    "24": {
+      "text": "Uma asa do querubim tinha cinco côvados e a outra asa do querubim também tinha cinco côvados, ou seja, de uma extremidade à outra das asas havia a distância de dez côvados.",
+      "reference": "1Rs 6:24"
+    },
+    "25": {
+      "text": "O segundo querubim tinha também dez côvados; ambos os querubins tinham a mesma dimensão e o mesmo formato.",
+      "reference": "1Rs 6:25"
+    },
+    "26": {
+      "text": "A altura de um querubim era de dez côvados, e essa também era a altura do outro.",
+      "reference": "1Rs 6:26"
+    },
+    "27": {
+      "text": "Colocou os querubins no meio da sala interior; tinham as asas estendidas, de sorte que a asa de um tocava uma parede e a asa do outro tocava a outra parede e suas asas se tocavam uma na outra, no meio da sala.",
+      "reference": "1Rs 6:27"
+    },
+    "28": {
+      "text": "Revestiu de ouro os querubins.",
+      "reference": "1Rs 6:28"
+    },
+    "29": {
+      "text": "Em todas as paredes do Templo, ao redor, tanto no interior como no exterior, mandou esculpir figuras de querubins, palmas e flores.",
+      "reference": "1Rs 6:29"
+    },
+    "30": {
+      "text": "Cobriu de ouro o pavimento do Templo, no interior e no exterior. \\par",
+      "reference": "1Rs 6:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i As portas. O pátio\\par }Ele fez as portas do {\\i Debir} com vigas de madeiras de oliveira selagem; seu enquadramento tinha cinco ângulos;",
+      "reference": "1Rs 6:31"
+    },
+    "32": {
+      "text": "os dois batentes eram de oliveira selvagem. Mandou esculpir neles figuras de querubins, palmeiras e flores e cobriu-as de ouro; mandou cobrir de ouro os querubins e as palmeiras.",
+      "reference": "1Rs 6:32"
+    },
+    "33": {
+      "text": "Da mesma forma, para a porta do {\\i Hekal}, fez vigas de madeira de oliveira selvagem; seu enquadramento tinha quatro ângulos;",
+      "reference": "1Rs 6:33"
+    },
+    "34": {
+      "text": "os dois batentes eram de cipreste: tanto um como o outro tinham painéis giratórios.",
+      "reference": "1Rs 6:34"
+    },
+    "35": {
+      "text": "Mandou esculpir neles querubins, palmeiras e flores, revestidos de ouro ajustado sobre a escultura. \\par",
+      "reference": "1Rs 6:35"
+    },
+    "36": {
+      "text": "Construiu o muro do pátio interior com três fileiras de pedras talhadas e uma fileira de pranchões de cedro. \\par",
+      "reference": "1Rs 6:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i Datas\\par }No quarto ano, no mês de {\\i Ziv}, foram lançados os alicerces do Templo;",
+      "reference": "1Rs 6:37"
+    },
+    "38": {
+      "text": "no décimo primeiro ano, no mês de {\\i Bul} – oitavo mês –, o Templo foi concluído em todas as suas partes, conforme o projeto. Salomão levou sete anos para construí-lo. \\par",
+      "reference": "1Rs 6:38"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 38
+}

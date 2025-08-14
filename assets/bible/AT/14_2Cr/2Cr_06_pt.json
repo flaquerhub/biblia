@@ -1,0 +1,181 @@
+{
+  "book": 14,
+  "book_name": "2Crônicas",
+  "book_abbr": "2Cr",
+  "book_category": "Histórico",
+  "book_english": "2 Chronicles",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Então Salomão disse: \\par “Iahweh decidiu habitar a Nuvem obscura. \\par",
+      "reference": "2Cr 6:1"
+    },
+    "2": {
+      "text": "E eu construí para ti uma casa principesca, uma residência em que habitarás para sempre”. \\par",
+      "reference": "2Cr 6:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Discurso de Salomão ao povo\\par }Depois, o rei se voltou e abençoou toda a assembléia de Israel. Toda a assembléia de Israel mantinha-se de pé;",
+      "reference": "2Cr 6:3"
+    },
+    "4": {
+      "text": "e ele disse: “Bendito seja Iahweh, Deus de Israel, que realizou por sua mão o que com sua boca prometera a meu pai Davi, dizendo:",
+      "reference": "2Cr 6:4"
+    },
+    "5": {
+      "text": "‘Desde o dia em que fiz sair meu povo da terra do Egito, não escolhi uma cidade, dentre todas as tribos de Israel, para nela se construir uma Casa onde estaria meu Nome, e não escolhi um homem para ser chefe de Israel, meu povo.",
+      "reference": "2Cr 6:5"
+    },
+    "6": {
+      "text": "Mas escolhi Jerusalém para que meu Nome aí estivesse e escolhi Davi para comandar Israel, meu povo’. \\par",
+      "reference": "2Cr 6:6"
+    },
+    "7": {
+      "text": "Meu pai Davi teve a intenção de construir uma Casa para o Nome de Iahweh, Deus de Israel,",
+      "reference": "2Cr 6:7"
+    },
+    "8": {
+      "text": "mas Iahweh disse a meu pai Davi: ‘Planejaste edificar uma Casa para meu Nome e fizeste bem.",
+      "reference": "2Cr 6:8"
+    },
+    "9": {
+      "text": "Contudo, não serás tu quem edificará esta Casa, e sim teu filho, saído de tuas entranhas, que construirá a Casa para meu Nome’.",
+      "reference": "2Cr 6:9"
+    },
+    "10": {
+      "text": "Iahweh realizou a palavra que dissera: sucedi a meu pai Davi e tomei posse do trono de Israel como prometera Iahweh, construí a Casa para o Nome de Iahweh, Deus de Israel,",
+      "reference": "2Cr 6:10"
+    },
+    "11": {
+      "text": "e nela coloquei a Arca, na qual se acha a Aliança que Iahweh concluiu com os filhos de Israel”. \\par",
+      "reference": "2Cr 6:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Oração pessoal de Salomão\\par }Em seguida, Salomão postou-se diante do altar de Iahweh, na presença de toda a assembléia de Israel, e estendeu as mãos.",
+      "reference": "2Cr 6:12"
+    },
+    "13": {
+      "text": "Ora, Salomão mandara fazer um estrado de bronze, que pusera no meio do pátio; tinha cinco côvados de comprimento, cinco de largura e três de altura. Salomão subiu a ele e ajoelhou-se diante de toda a assembléia de Israel. Estendeu as mãos para o céu",
+      "reference": "2Cr 6:13"
+    },
+    "14": {
+      "text": "e disse: “Iahweh, Deus de Israel! Não existe nenhum Deus semelhante a ti nos céus nem na terra; tu que guardas a Aliança e conservas o amor para com teus servos, quando caminham de todo o coração diante de ti.",
+      "reference": "2Cr 6:14"
+    },
+    "15": {
+      "text": "Cumpriste a teu servo Davi, meu pai, a promessa que lhe havias feito, e o que disseste com tua boca, executaste hoje com tua mão.",
+      "reference": "2Cr 6:15"
+    },
+    "16": {
+      "text": "E agora, Iahweh, Deus de Israel, mantém a teu servo Davi, meu pai, a promessa que lhe fizeste, ao dizer: ‘Jamais te faltará um descendente diante de mim, que se assente no trono de Israel, contanto que teus filhos atendam ao seu procedimento e sigam a minha lei como procedeste diante de mim’.",
+      "reference": "2Cr 6:16"
+    },
+    "17": {
+      "text": "Agora, pois, Iahweh, Deus de Israel, que se cumpra a palavra que disseste a teu servo Davi!",
+      "reference": "2Cr 6:17"
+    },
+    "18": {
+      "text": "Mas será verdade que Deus habita com os homens nesta terra? Se os céus e os céus dos céus não o podem conter, muito menos esta Casa que construí!",
+      "reference": "2Cr 6:18"
+    },
+    "19": {
+      "text": "Sê atento à prece e à súplica de teu servo, Iahweh, meu Deus, escuta o clamor e a prece que teu servo faz diante de ti!",
+      "reference": "2Cr 6:19"
+    },
+    "20": {
+      "text": "Que teus olhos estejam abertos dia e noite sobre esta Casa, sobre este lugar onde prometeste colocar teu Nome. Ouve a prece que teu servo fará neste lugar. \\par",
+      "reference": "2Cr 6:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Oração pelo povo\\par }Escuta as súplicas de teu servo e de teu povo Israel, quando orarem neste lugar. Escuta do lugar em que resides, escuta e perdoa. \\par",
+      "reference": "2Cr 6:21"
+    },
+    "22": {
+      "text": "Se alguém pecar contra seu próximo e este pronunciar sobre ele um juramento imprecatório e o mandar jurar ante teu altar nesta Casa,",
+      "reference": "2Cr 6:22"
+    },
+    "23": {
+      "text": "escuta do céu e age! Julga teus servos: dá ao culpado o que ele merece, fazendo recair sobre ele o peso da sua falta e declara justo o inocente, tratando-o segundo a sua justiça. \\par",
+      "reference": "2Cr 6:23"
+    },
+    "24": {
+      "text": "Se o teu povo Israel for vencido pelo inimigo, por haver pecado contra ti, e depois se converter e louvar o teu Nome, orar e suplicar diante de ti nesta Casa,",
+      "reference": "2Cr 6:24"
+    },
+    "25": {
+      "text": "escuta do céu, perdoa o pecado de Israel, teu povo, e reconduze-o ao país que lhe deste, a ele e a seus pais. \\par",
+      "reference": "2Cr 6:25"
+    },
+    "26": {
+      "text": "Quando o céu se fechar e não houver chuva por terem eles pecado contra ti, se rezarem neste lugar, louvarem teu Nome e se arrependerem de seu pecado, por os teres afligido,",
+      "reference": "2Cr 6:26"
+    },
+    "27": {
+      "text": "escuta do céu, perdoa o pecado dos teus servos e de Israel, teu povo – tu lhes indicarás o caminho reto que devem seguir –, e rega com a chuva tua terra que deste em herança a teu povo. \\par",
+      "reference": "2Cr 6:27"
+    },
+    "28": {
+      "text": "Quando o país sofrer a fome, a peste, a mela e a ferrugem; quando sobrevierem os gafanhotos ou os pulgões; quando o inimigo deste povo cercar uma de suas portas, quando houver qualquer calamidade ou epidemia,",
+      "reference": "2Cr 6:28"
+    },
+    "29": {
+      "text": "seja qual for a oração ou a súplica, seja de um homem qualquer ou de todo o Israel, teu povo, se sentirem sua desgraça e sua dor e erguerem as mãos para esta Casa,",
+      "reference": "2Cr 6:29"
+    },
+    "30": {
+      "text": "escuta do céu onde resides, perdoa e retribui a cada um segundo seu proceder, pois conheces seu coração – és o único que conheces o coração dos homens –,",
+      "reference": "2Cr 6:30"
+    },
+    "31": {
+      "text": "a fim de que te respeitem e sigam teus caminhos por todos os dias que viverem sobre a terra que deste a nossos pais. \\par",
+      "reference": "2Cr 6:31"
+    },
+    "32": {
+      "text": "Mesmo o estrangeiro, que não pertence a Israel, teu povo, se vier de um país longínquo por causa da grandeza do teu Nome, da tua mão forte e de teu braço estendido, quando vier orar nesta Casa,",
+      "reference": "2Cr 6:32"
+    },
+    "33": {
+      "text": "escuta do céu onde resides, atende todos os pedidos do estrangeiro, a fim de que todos os povos da terra reconheçam teu Nome e te temam como o faz Israel, teu povo, e saibam eles que esta Casa que edifiquei traz o teu Nome. \\par",
+      "reference": "2Cr 6:33"
+    },
+    "34": {
+      "text": "Se teu povo sair à guerra contra seus inimigos, pelo caminho que os enviares, e eles orarem, voltados para a cidade que escolheste e para a Casa que construí para teu Nome,",
+      "reference": "2Cr 6:34"
+    },
+    "35": {
+      "text": "escuta do céu sua prece e sua súplica e faze-lhe justiça. \\par",
+      "reference": "2Cr 6:35"
+    },
+    "36": {
+      "text": "Quando tiverem pecado contra ti – pois não há pessoa alguma que não peque –, e irritado contra eles, os entregares ao inimigo e seus vencedores os levarem cativos para uma terra longínqua ou próxima,",
+      "reference": "2Cr 6:36"
+    },
+    "37": {
+      "text": "se eles caírem em si, na terra para onde houverem sido levados, se arrependerem e te suplicarem na terra do seu cativeiro, dizendo: ‘Pecamos, agimos mal, nós nos pervertemos’,",
+      "reference": "2Cr 6:37"
+    },
+    "38": {
+      "text": "se retornarem a ti de todo o seu coração e de toda a sua alma na terra do seu cativeiro aonde tiverem sido deportados e se orarem voltados para o país que deste a seus pais, para a cidade que escolheste e para a Casa que construí para teu Nome,",
+      "reference": "2Cr 6:38"
+    },
+    "39": {
+      "text": "escuta do céu onde resides, escuta sua prece e sua súplica, faze-lhes justiça e perdoa a teu povo os pecados cometidos contra ti. \\par",
+      "reference": "2Cr 6:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i Conclusão da prece\\par }Agora, ó meu Deus, que teus olhos estejam abertos e teus ouvidos atentos às orações feitas neste lugar!",
+      "reference": "2Cr 6:40"
+    },
+    "41": {
+      "text": "E agora, \\par Levanta-te, Iahweh Deus, \\par e vem para o teu repouso, tu e a Arca da tua força! \\par Que teus sacerdotes, Iahweh Deus, \\par se revistam de salvação \\par e que teus fiéis se alegrem na felicidade! \\par",
+      "reference": "2Cr 6:41"
+    },
+    "42": {
+      "text": "Iahweh Deus, não te afastes de teu ungido, \\par lembra-te do amor que tiveste para com o teu servo Davi!” \\par",
+      "reference": "2Cr 6:42"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 42
+}

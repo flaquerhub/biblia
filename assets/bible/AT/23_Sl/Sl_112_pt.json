@@ -1,0 +1,53 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 112,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 112 (111)\\par }{\\qc\\b\\i Elogio do justo\\par }Aleluia! \\par",
+      "reference": "Sl 112:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Alef\\par } Feliz o homem que teme a Iahweh \\par \\par {\\qc\\b\\i Bet\\par } e se compraz em seus mandamentos! \\par \\par {\\qc\\b\\i Guimel\\par }Sua descendência será poderosa na terra, \\par",
+      "reference": "Sl 112:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Dalet\\par } a descendência dos retos será abençoada. \\par \\par {\\qc\\b\\i Hê\\par }Na sua casa há abundância e riqueza, \\par",
+      "reference": "Sl 112:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Waw\\par } sua justiça permanece para sempre. \\par \\par {\\qc\\b\\i Záin\\par }Ele brilha na treva como luz para os retos, \\par",
+      "reference": "Sl 112:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Het\\par } ele é piedade, compaixão e justiça. \\par \\par {\\qc\\b\\i Tet\\par }Feliz quem tem piedade e empresta, \\par",
+      "reference": "Sl 112:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Yod\\par } e conduz seus negócios com justiça. \\par \\par {\\qc\\b\\i Kaf\\par }Eis que ele jamais vacilará, \\par",
+      "reference": "Sl 112:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par } a memória do justo é para sempre! \\par \\par {\\qc\\b\\i Mem\\par }Ele nunca teme as más notícias: \\par",
+      "reference": "Sl 112:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Nun\\par } seu coração é firme, confiante em Iahweh; \\par \\par {\\qc\\b\\i Samec\\par }seu coração está seguro, nada teme, \\par",
+      "reference": "Sl 112:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Áin\\par } ele se confronta com seus opressores. \\par \\par {\\qc\\b\\i Pê\\par }Ele distribui aos indigentes com largueza; \\par",
+      "reference": "Sl 112:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Çade\\par } sua justiça permanece para sempre, \\par \\par {\\qc\\b\\i Qof\\par } sua força se exalta em glória. \\par \\par {\\qc\\b\\i Resh\\par }O ímpio olha e se desgosta, \\par \\par {\\qc\\b\\i Shin\\par } range os dentes e definha. \\par \\par {\\qc\\b\\i Taw\\par } A ambição dos ímpios vai fracassar. \\par",
+      "reference": "Sl 112:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

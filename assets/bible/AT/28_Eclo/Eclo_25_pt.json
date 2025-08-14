@@ -1,0 +1,117 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Provérbios\\par }Há três coisas que minha alma deseja, \\par que são agradáveis ao Senhor e aos homens: \\par a concórdia entre irmãos, a amizade entre vizinhos, \\par um marido e uma mulher que vivam bem. \\par",
+      "reference": "Eclo 25:1"
+    },
+    "2": {
+      "text": "Mas minha alma detesta três tipos de pessoa; \\par irrito-me profundamente com o seu viver: \\par o pobre orgulhoso, o rico mentiroso, \\par o ancião adúltero e estulto. \\par",
+      "reference": "Eclo 25:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Os anciãos\\par }Se não acumulaste na juventude, \\par como queres encontrar em tua velhice? \\par",
+      "reference": "Eclo 25:3"
+    },
+    "4": {
+      "text": "Como é belo para os cabelos brancos saber julgar \\par e para os anciãos conhecer o conselho! \\par",
+      "reference": "Eclo 25:4"
+    },
+    "5": {
+      "text": "Como é bela a sabedoria dos anciãos \\par e nas pessoas honradas a reflexão e o conselho! \\par",
+      "reference": "Eclo 25:5"
+    },
+    "6": {
+      "text": "A coroa dos anciãos é uma rica experiência; \\par a sua glória, o temor do Senhor. \\par",
+      "reference": "Eclo 25:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Provérbio numérico\\par }Há nove coisas que considero felizes em meu coração \\par e uma décima que declaro com a língua: \\par um homem que encontra alegria em seus filhos, \\par o que vive e vê a ruína dos seus inimigos; \\par",
+      "reference": "Eclo 25:7"
+    },
+    "8": {
+      "text": "feliz o que vive com uma mulher sensata, \\par o que não trabalha com o boi e o burro, \\par aquele que não peca por palavra, \\par aquele que não serve alguém indigno dele; \\par",
+      "reference": "Eclo 25:8"
+    },
+    "9": {
+      "text": "feliz o que encontrou a prudência \\par e que fala para quem escuta; \\par",
+      "reference": "Eclo 25:9"
+    },
+    "10": {
+      "text": "como é grande o que encontrou a sabedoria, \\par mas ninguém ultrapassa o que teme ao Senhor. \\par",
+      "reference": "Eclo 25:10"
+    },
+    "11": {
+      "text": "O temor do Senhor excede a tudo, \\par a quem será comparado aquele que o possui? \\par",
+      "reference": "Eclo 25:11"
+    },
+    "12": {
+      "text": "*",
+      "reference": "Eclo 25:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i As mulheres\\par }Qualquer ferida, menos a do coração; \\par qualquer malícia, menos a da mulher; \\par",
+      "reference": "Eclo 25:13"
+    },
+    "14": {
+      "text": "qualquer miséria, menos a causada pelo adversário; \\par qualquer injustiça, menos a que vem do inimigo. \\par",
+      "reference": "Eclo 25:14"
+    },
+    "15": {
+      "text": "Não há pior veneno do que o veneno da serpente, \\par não há pior cólera do que a cólera do inimigo. \\par",
+      "reference": "Eclo 25:15"
+    },
+    "16": {
+      "text": "Prefiro morar com um leão ou um dragão \\par a morar com uma mulher perversa. \\par",
+      "reference": "Eclo 25:16"
+    },
+    "17": {
+      "text": "A perversidade de uma mulher muda a sua fisionomia, \\par obscurece-lhe o rosto como o de um urso. \\par",
+      "reference": "Eclo 25:17"
+    },
+    "18": {
+      "text": "O seu marido senta-se entre amigos \\par e contra a vontade geme amargamente. \\par",
+      "reference": "Eclo 25:18"
+    },
+    "19": {
+      "text": "Pouca maldade é comparada com a da mulher, \\par caia sobre ela a sorte dos pecadores. \\par",
+      "reference": "Eclo 25:19"
+    },
+    "20": {
+      "text": "Como uma ladeira arenosa para os pés de um velho, \\par assim é uma mulher faladeira para um marido tranqüilo. \\par",
+      "reference": "Eclo 25:20"
+    },
+    "21": {
+      "text": "Não te deixes prender pela beleza de uma mulher, \\par não te apaixones por uma mulher. \\par",
+      "reference": "Eclo 25:21"
+    },
+    "22": {
+      "text": "É motivo de ira, descaramento e grande vergonha \\par uma mulher que sustenta o seu marido. \\par",
+      "reference": "Eclo 25:22"
+    },
+    "23": {
+      "text": "Coração abatido, semblante triste, coração ferido: \\par eis a obra de uma mulher má. \\par Mãos inertes, joelhos vacilantes, \\par assim é a mulher que não proporciona felicidade ao marido. \\par",
+      "reference": "Eclo 25:23"
+    },
+    "24": {
+      "text": "Foi pela mulher que começou o pecado, \\par por sua culpa todos morremos. \\par",
+      "reference": "Eclo 25:24"
+    },
+    "25": {
+      "text": "Não dês saída à água, \\par nem liberdade de falar à mulher má. \\par",
+      "reference": "Eclo 25:25"
+    },
+    "26": {
+      "text": "Se ela não obedece ao dedo e ao olho, \\par separa-te dela. \\par",
+      "reference": "Eclo 25:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

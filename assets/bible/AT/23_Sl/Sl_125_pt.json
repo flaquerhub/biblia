@@ -1,0 +1,33 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 125,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 125 (124)\\par }{\\qc\\b\\i Deus protege os seus\\par }{\\qc\\i Cântico das subidas. \\par } Os que confiam em Iahweh são como o monte Sião: \\par nunca se abala, está firme para sempre. \\par",
+      "reference": "Sl 125:1"
+    },
+    "2": {
+      "text": "Jerusalém... as montanhas a envolvem, \\par e Iahweh envolve o seu povo, \\par desde agora e para sempre. \\par",
+      "reference": "Sl 125:2"
+    },
+    "3": {
+      "text": "O cetro do ímpio não permanecerá \\par sobre a parte dos justos, \\par para que a mão dos justos \\par não se estenda ao crime. \\par",
+      "reference": "Sl 125:3"
+    },
+    "4": {
+      "text": "Faze o bem, Iahweh, aos bons, \\par aos corações retos; \\par",
+      "reference": "Sl 125:4"
+    },
+    "5": {
+      "text": "e os que se desviam por trilhas tortuosas, \\par que Iahweh os expulse com os malfeitores. \\par Paz sobre Israel! \\par",
+      "reference": "Sl 125:5"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 5
+}

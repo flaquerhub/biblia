@@ -1,0 +1,97 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A vida do profeta como sinal\\par }A palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Jr 16:1"
+    },
+    "2": {
+      "text": "Não tomes para ti mulher e não tenhas filhos e filhas neste lugar.",
+      "reference": "Jr 16:2"
+    },
+    "3": {
+      "text": "Porque assim disse Iahweh a respeito dos filhos e das filhas que nascerem neste lugar, e a respeito de suas mães que os conceberem e a respeito de seus pais que os gerarem nesta terra.",
+      "reference": "Jr 16:3"
+    },
+    "4": {
+      "text": "Eles morrerão de doenças mortais, não serão lamentados nem enterrados; servirão de esterco sobre o solo. Perecerão pela espada e pela fome, e seus cadáveres serão alimento para os pássaros do céu e para os animais selvagens. \\par",
+      "reference": "Jr 16:4"
+    },
+    "5": {
+      "text": "Porque assim disse Iahweh: Não entres em uma casa de luto, não vás lamentar e não lhes apresentes o teu pesar, porque eu irei retirar a minha paz deste povo – oráculo de Iahweh –, o amor e a compaixão.",
+      "reference": "Jr 16:5"
+    },
+    "6": {
+      "text": "Grandes e pequenos morrerão nesta terra, eles não serão enterrados, nem lamentados; por eles não se fará incisão nem tonsura.",
+      "reference": "Jr 16:6"
+    },
+    "7": {
+      "text": "Não partirão o pão ao que está de luto para consolá-lo por um morto; não lhe oferecerão o cálice de consolação por seu pai e por sua mãe. \\par",
+      "reference": "Jr 16:7"
+    },
+    "8": {
+      "text": "Não entres, também, em uma casa em festa para te assentares com eles a comer e a beber.",
+      "reference": "Jr 16:8"
+    },
+    "9": {
+      "text": "Porque assim disse Iahweh dos Exércitos, o Deus de Israel: Eis que vou fazer cessar neste lugar, aos vossos olhos e em vossos dias, o grito de júbilo e o grito de alegria, o grito do noivo e o grito da noiva. \\par",
+      "reference": "Jr 16:9"
+    },
+    "10": {
+      "text": "Quando tiveres anunciado a esse povo todas estas palavras e eles te disserem: “Por que anunciou Iahweh, contra nós, toda esta grande desgraça? Qual é a nossa falta? Que pecado cometemos contra Iahweh, nosso Deus?”",
+      "reference": "Jr 16:10"
+    },
+    "11": {
+      "text": "Então tu lhes dirás: “Porque vossos pais me abandonaram – oráculo de Iahweh –, seguiram outros deuses, os serviram e se prostraram diante deles. Mas a mim eles abandonaram e não guardaram a minha Lei!",
+      "reference": "Jr 16:11"
+    },
+    "12": {
+      "text": "Mas vós fizestes pior que vossos pais. Eis que cada um de vós seguiu a obstinação de seu coração perverso, sem me ouvir.",
+      "reference": "Jr 16:12"
+    },
+    "13": {
+      "text": "Eu vos lançarei para fora desta terra, numa terra que vós e vossos pais não conhecestes; servireis lá a outros deuses, de dia e de noite, pois eu não usarei mais misericórdia convosco”. \\par",
+      "reference": "Jr 16:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i A volta dos dispersos de Israel\\par }Por isso, eis que dias virão – oráculo de Iahweh – em que não se dirá mais: “Viva Iahweh, que fez subir os filhos de Israel da terra do Egito!”",
+      "reference": "Jr 16:14"
+    },
+    "15": {
+      "text": "Mas sim: “Viva Iahweh, que fez subir os filhos de Israel da terra do Norte e de todas as regiões, para onde os tinha dispersado”. Eu os reconduzirei à terra que dera a seus pais. \\par",
+      "reference": "Jr 16:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Anúncio de invasão\\par }Eis que vou enviar muitos pescadores – oráculo de Iahweh –, e os pescarão; depois muitos caçadores, e os caçarão de todas as montanhas, de todas as colinas e das fendas dos rochedos.",
+      "reference": "Jr 16:16"
+    },
+    "17": {
+      "text": "Porque meus olhos estarão em todos os seus caminhos: eles não podem esconder-se de mim, e a sua falta não se oculta a meus olhos.",
+      "reference": "Jr 16:17"
+    },
+    "18": {
+      "text": "Eu retribuirei em dobro a sua falta e o seu pecado, porque eles profanaram a minha terra com o cadáver de seus horrores e encheram a minha herança com suas abominações. \\par",
+      "reference": "Jr 16:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i A conversão das nações\\par }Iahweh, minha força e minha fortaleza, \\par meu refúgio no dia da tribulação! \\par Para ti acorrem as nações \\par das extremidades da terra. Elas dirão: \\par Nossos pais não herdaram senão mentira, \\par vazio que não serve para nada. \\par",
+      "reference": "Jr 16:19"
+    },
+    "20": {
+      "text": "Pode um homem fazer para si deuses? \\par Eles não são deuses! \\par",
+      "reference": "Jr 16:20"
+    },
+    "21": {
+      "text": "Por isso, eis que vou fazê-los conhecer, \\par desta vez eu os farei conhecer \\par minha mão e o meu poder, \\par e eles conhecerão que o meu Nome é Iahweh. \\par",
+      "reference": "Jr 16:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

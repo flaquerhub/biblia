@@ -1,0 +1,33 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 43,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 43 (42)\\par }Julga-me, ó Deus, defende minha causa \\par contra uma nação sem piedade! \\par Do homem iníquo e fraudulento \\par liberta-me! \\par",
+      "reference": "Sl 43:1"
+    },
+    "2": {
+      "text": "Sim, tu és o meu Deus forte: \\par por que me rejeitas? \\par Por que devo andar pesaroso \\par pela opressão do inimigo? \\par",
+      "reference": "Sl 43:2"
+    },
+    "3": {
+      "text": "Envia tua luz e tua verdade: \\par elas me guiarão, \\par levando-me à tua montanha sagrada, \\par às tuas Moradias. \\par",
+      "reference": "Sl 43:3"
+    },
+    "4": {
+      "text": "Eu irei ao altar de Deus, \\par ao Deus que me alegra. \\par Vou exultar e celebrar-te com a harpa, \\par ó Deus, o meu Deus! \\par",
+      "reference": "Sl 43:4"
+    },
+    "5": {
+      "text": "Por que te curvas, ó minha alma, \\par gemendo dentro de mim? \\par Espera em Deus, eu ainda o louvarei, \\par a salvação da minha face e meu Deus! \\par",
+      "reference": "Sl 43:5"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 5
+}

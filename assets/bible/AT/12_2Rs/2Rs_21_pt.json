@@ -1,0 +1,117 @@
+{
+  "book": 12,
+  "book_name": "2Reis",
+  "book_abbr": "2Rs",
+  "book_category": "Histórico",
+  "book_english": "2 Kings",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. DOIS REIS ÍMPIOS\\par }{\\qc\\b\\i Reinado de Manassés em Judá (687-642)\\par }Manassés tinha doze anos quando começou a reinar e reinou cinqüenta e cinco anos em Jerusalém; sua mãe chamava-se Hafsiba.",
+      "reference": "2Rs 21:1"
+    },
+    "2": {
+      "text": "Ele fez o mal aos olhos de Iahweh, imitando as abominações das nações que Iahweh havia expulsado de diante dos filhos de Israel.",
+      "reference": "2Rs 21:2"
+    },
+    "3": {
+      "text": "Reconstruiu os lugares altos que Ezequias, seu pai, havia destruído, ergueu altares a Baal, fabricou um poste sagrado, como havia feito Acab, rei de Israel, e prostrou-se diante de todo o exército do céu e lhe prestou culto.",
+      "reference": "2Rs 21:3"
+    },
+    "4": {
+      "text": "Construiu altares no Templo de Iahweh, do qual Iahweh dissera: “É em Jerusalém que colocarei meu Nome”. \\par",
+      "reference": "2Rs 21:4"
+    },
+    "5": {
+      "text": "Edificou altares para todo o exército do céu nos dois pátios do Templo de Iahweh.",
+      "reference": "2Rs 21:5"
+    },
+    "6": {
+      "text": "Fez passar seu filho pelo fogo. Praticou encantamentos e a adivinhação, estabeleceu necromantes e adivinhos e multiplicou as ações que Iahweh considera más, provocando assim sua ira.",
+      "reference": "2Rs 21:6"
+    },
+    "7": {
+      "text": "Colocou o ídolo de Aserá, que mandara esculpir, no Templo, do qual Iahweh dissera a Davi e a seu filho Salomão: “Neste Templo e em Jerusalém, cidade que escolhi entre todas as tribos de Israel, colocarei meu Nome para sempre.",
+      "reference": "2Rs 21:7"
+    },
+    "8": {
+      "text": "Não mais farei com que o pé de Israel vagueie longe da terra que dei a seus pais, contanto que se dediquem a praticar tudo quanto lhes ordenei, segundo toda a Lei que meu servo Moisés determinou para eles”.",
+      "reference": "2Rs 21:8"
+    },
+    "9": {
+      "text": "Mas eles não obedeceram, Manassés os corrompeu, a tal ponto que fizeram mais mal que as nações que Iahweh havia exterminado diante dos filhos de Israel. \\par",
+      "reference": "2Rs 21:9"
+    },
+    "10": {
+      "text": "Então Iahweh falou, por intermédio dos seus servos, os profetas, dizendo:",
+      "reference": "2Rs 21:10"
+    },
+    "11": {
+      "text": "“Já que Manassés, rei de Judá, cometeu essas abominações, procedendo ainda pior que tudo o que tinham feito antes dele os amorreus, e fez pecar também Judá com seus ídolos,",
+      "reference": "2Rs 21:11"
+    },
+    "12": {
+      "text": "assim fala Iahweh, Deus de Israel: Eis que faço cair sobre Jerusalém e sobre Judá uma desgraça tal, que fará retinir os dois ouvidos de todos que dela ouvirem falar.",
+      "reference": "2Rs 21:12"
+    },
+    "13": {
+      "text": "Passarei sobre Jerusalém o mesmo cordel que passei sobre Samaria, o mesmo nível que usei para a casa de Acab; limparei Jerusalém como se limpa um prato, que se vira para baixo depois de haver limpado.",
+      "reference": "2Rs 21:13"
+    },
+    "14": {
+      "text": "Abandonarei os restos de minha herança, entregá-los-ei nas mãos de seus inimigos, e eles servirão de presa e de espólio a todos os seus inimigos,",
+      "reference": "2Rs 21:14"
+    },
+    "15": {
+      "text": "porque fizeram o mal aos meus olhos e provocaram minha ira, desde o dia em que seus pais saíram do Egito até hoje”. \\par",
+      "reference": "2Rs 21:15"
+    },
+    "16": {
+      "text": "Manassés derramou também o sangue inocente em quantidade tão grande, que inundou Jerusalém de um lado a outro, sem falar nos pecados que fez Judá cometer, procedendo mal aos olhos de Iahweh. \\par",
+      "reference": "2Rs 21:16"
+    },
+    "17": {
+      "text": "O resto da história de Manassés, tudo o que fez, os pecados que cometeu, não está tudo escrito no livro dos Anais dos reis de Judá?",
+      "reference": "2Rs 21:17"
+    },
+    "18": {
+      "text": "Manassés adormeceu com seus pais e foi sepultado no jardim de seu palácio, o jardim de Oza; seu filho Amon reinou em seu lugar. \\par",
+      "reference": "2Rs 21:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Reinado de Amon em Judá (642-640)\\par }Amon tinha vinte e dois anos quando começou a reinar e reinou dois anos em Jerusalém; sua mãe chamava-se Mesalemet; era filha de Harus e natural de Jeteba.",
+      "reference": "2Rs 21:19"
+    },
+    "20": {
+      "text": "Ele fez o mal aos olhos de Iahweh, como havia feito seu pai Manassés.",
+      "reference": "2Rs 21:20"
+    },
+    "21": {
+      "text": "Seguiu em tudo a conduta de seu pai, prestou culto aos ídolos que ele havia servido e prostrou-se diante deles.",
+      "reference": "2Rs 21:21"
+    },
+    "22": {
+      "text": "Abandonou a Iahweh, Deus de seus pais, e não seguiu o caminho de Iahweh. \\par",
+      "reference": "2Rs 21:22"
+    },
+    "23": {
+      "text": "Os servos de Amon conspiraram contra ele e mataram o rei no seu palácio.",
+      "reference": "2Rs 21:23"
+    },
+    "24": {
+      "text": "Mas o povo da terra matou todos os que haviam conspirado contra o rei Amon e proclamou rei em seu lugar seu filho Josias. \\par",
+      "reference": "2Rs 21:24"
+    },
+    "25": {
+      "text": "O resto da história de Amon, tudo o que fez, não está escrito no livro dos Anais dos reis de Judá?",
+      "reference": "2Rs 21:25"
+    },
+    "26": {
+      "text": "Sepultaram-no no túmulo do seu pai, no jardim de Oza, e seu filho Josias reinou em seu lugar. \\par",
+      "reference": "2Rs 21:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

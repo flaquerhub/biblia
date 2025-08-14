@@ -1,0 +1,73 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. As primeiras missões}\\par }{\\qc\\b\\i Instituição dos Sete\\par }Naqueles dias, aumentando o número dos discípulos, surgiram murmurações dos helenistas contra os hebreus. Isto porque, diziam aqueles, suas viúvas estavam sendo esquecidas na distribuição diária.",
+      "reference": "At 6:1"
+    },
+    "2": {
+      "text": "Os Doze convocaram então a multidão dos discípulos e disseram: “Não é conveniente que abandonemos a Palavra de Deus para servir às mesas.",
+      "reference": "At 6:2"
+    },
+    "3": {
+      "text": "Procurai, antes, entre vós, irmãos, sete homens de boa reputação, repletos do Espírito e de sabedoria, e nós os encarregaremos desta tarefa.",
+      "reference": "At 6:3"
+    },
+    "4": {
+      "text": "Quanto a nós, permaneceremos assíduos à oração e ao ministério da Palavra”.",
+      "reference": "At 6:4"
+    },
+    "5": {
+      "text": "A proposta agradou a toda a multidão. E escolheram Estêvão, homem cheio de fé e do Espírito Santo, Filipe, Prócoro, Nicanor, Timon, Pármenas e Nicolau, prosélito de Antioquia.",
+      "reference": "At 6:5"
+    },
+    "6": {
+      "text": "Apresentaram-nos aos apóstolos e, tendo orado, impuseram-lhes as mãos. \\par",
+      "reference": "At 6:6"
+    },
+    "7": {
+      "text": "E a palavra do Senhor crescia. O número dos discípulos multiplicava-se enormemente em Jerusalém, e considerável grupo de sacerdotes obedecia à fé. \\par",
+      "reference": "At 6:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Prisão de Estêvão\\par }Estêvão, cheio de graça e de poder, operava prodígios e grandes sinais entre o povo.",
+      "reference": "At 6:8"
+    },
+    "9": {
+      "text": "Intervieram então alguns da sinagoga chamada dos Libertos, dos cireneus e alexandrinos, dos da Cilícia e da Ásia, e puseram-se a discutir com Estêvão.",
+      "reference": "At 6:9"
+    },
+    "10": {
+      "text": "Mas não podiam resistir à sabedoria e ao Espírito com o qual ele falava.",
+      "reference": "At 6:10"
+    },
+    "11": {
+      "text": "Subornaram então alguns para dizerem: “Ouvimo-lo pronunciar palavras blasfemas contra Moisés e contra Deus”.",
+      "reference": "At 6:11"
+    },
+    "12": {
+      "text": "Amotinaram assim o povo, os anciãos e os escribas e, chegando de improviso, arrebataram-no e o levaram à presença do Sinédrio.",
+      "reference": "At 6:12"
+    },
+    "13": {
+      "text": "Lá apresentaram testemunhas falsas que depuseram: “Este homem não cessa de falar contra este lugar santo e contra a Lei.",
+      "reference": "At 6:13"
+    },
+    "14": {
+      "text": "Pois ouvimo-lo dizer repetidamente que esse Jesus, o Nazareu, destruirá este Lugar e modificará os costumes que Moisés nos transmitiu”.",
+      "reference": "At 6:14"
+    },
+    "15": {
+      "text": "Todos os membros do Sinédrio, com os olhos fixos nele, tiveram a impressão de ver em seu rosto o rosto de um anjo. \\par",
+      "reference": "At 6:15"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 15
+}

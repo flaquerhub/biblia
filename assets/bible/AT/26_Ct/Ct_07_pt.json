@@ -1,0 +1,69 @@
+{
+  "book": 22,
+  "book_name": "Cântico dos Cânticos",
+  "book_abbr": "Ct",
+  "book_category": "Poético",
+  "book_english": "Song of Songs",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Coro\\par }Volta-te, volta-te. \\par Sulamita, \\par volta-te, volta-te...\\par queremos te contemplar! \\par \\par {\\qc\\b\\i Sulamita\\par } “Que olhais na Sulamita, \\par quando baila entre dois coros?” \\par",
+      "reference": "Ct 7:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i O amado\\par }Os teus pés... \\par como são belos nas sandálias, \\par ó filha de nobres; \\par as curvas dos teus quadris, \\par que parecem colares, \\par obras de um artista. \\par",
+      "reference": "Ct 7:2"
+    },
+    "3": {
+      "text": "Teu umbigo... essa taça redonda \\par onde o vinho nunca falta; \\par teu ventre, monte de trigo \\par rodeado de açucenas; \\par",
+      "reference": "Ct 7:3"
+    },
+    "4": {
+      "text": "teus seios, dois filhotes, \\par filhos gêmeos de gazela; \\par",
+      "reference": "Ct 7:4"
+    },
+    "5": {
+      "text": "teu pescoço, uma torre de marfim; \\par teus olhos, as piscinas de Hesebon \\par junto às portas de Bat-Rabim. \\par Teu nariz, como a torre do Líbano \\par voltada para Damasco; \\par",
+      "reference": "Ct 7:5"
+    },
+    "6": {
+      "text": "tua cabeça que se alteia como o Carmelo, \\par e teus cabelos cor de púrpura, \\par enlaçando um rei nas tranças. \\par",
+      "reference": "Ct 7:6"
+    },
+    "7": {
+      "text": "Como és bela, \\par quão formosa, \\par que amor delicioso! \\par",
+      "reference": "Ct 7:7"
+    },
+    "8": {
+      "text": "Tens o talhe da palmeira, \\par e teus seios são os cachos. \\par",
+      "reference": "Ct 7:8"
+    },
+    "9": {
+      "text": "Pensei: “Vou subir à palmeira \\par para colher dos seus frutos!” \\par Sim, teus seios são cachos de uva, \\par e o sopro das tuas narinas perfuma \\par como o aroma das maçãs. \\par",
+      "reference": "Ct 7:9"
+    },
+    "10": {
+      "text": "Tua boca é um vinho delicioso \\par que se derrama na minha \\par molhando-me lábios e dentes. \\par",
+      "reference": "Ct 7:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A amada\\par }Eu sou do meu amado, \\par seu desejo o traz a mim. \\par",
+      "reference": "Ct 7:11"
+    },
+    "12": {
+      "text": "Vem, meu amado, \\par vamos ao campo, \\par pernoitemos sob os cedros; \\par",
+      "reference": "Ct 7:12"
+    },
+    "13": {
+      "text": "madruguemos pelas vinhas, \\par vejamos se a vinha floresce, \\par se os botões estão se abrindo, \\par se as romeiras vão florindo: \\par lá te darei meu amor... \\par",
+      "reference": "Ct 7:13"
+    },
+    "14": {
+      "text": "As mandrágoras exalam seu perfume; \\par à nossa porta há todos os frutos: \\par frutos novos, frutos secos, \\par que eu tinha guardado, \\par meu amado, para ti. \\par",
+      "reference": "Ct 7:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

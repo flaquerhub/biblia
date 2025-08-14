@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Apelo matinal do justo perseguido}\\par }{\\qc\\i Salmo de Davi. Quando fugia de seu filho Absalão. \\par }",
+      "reference": "Sl 3:1"
+    },
+    "2": {
+      "text": "Iahweh, quão numerosos são meus opressores, \\par numerosos os que se levantam contra mim, \\par",
+      "reference": "Sl 3:2"
+    },
+    "3": {
+      "text": "numerosos os que dizem a meu respeito: \\par “Onde está sua salvação em Deus?” \\par",
+      "reference": "Sl 3:3"
+    },
+    "4": {
+      "text": "Mas tu, Iahweh, és o escudo que me protege, \\par minha glória e que me ergue a cabeça. \\par",
+      "reference": "Sl 3:4"
+    },
+    "5": {
+      "text": "Em alta voz eu grito a Iahweh, \\par e ele me responde do seu monte sagrado. \\par",
+      "reference": "Sl 3:5"
+    },
+    "6": {
+      "text": "Eu me deito e logo adormeço. \\par Desperto, pois é Iahweh quem me sustenta. \\par",
+      "reference": "Sl 3:6"
+    },
+    "7": {
+      "text": "Não temo o povo em multidão \\par que em cerco se instala contra mim. \\par",
+      "reference": "Sl 3:7"
+    },
+    "8": {
+      "text": "Levanta-te, Iahweh! Salva-me, Deus meu! \\par Pois golpeias no queixo meus inimigos todos, \\par e quebra os dentes dos ímpios. \\par",
+      "reference": "Sl 3:8"
+    },
+    "9": {
+      "text": "A salvação vem de Iahweh! \\par E sobre o teu povo, a tua bênção! \\par",
+      "reference": "Sl 3:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

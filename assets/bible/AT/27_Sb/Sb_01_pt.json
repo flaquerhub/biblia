@@ -1,0 +1,77 @@
+{
+  "book": 69,
+  "book_name": "Sabedoria",
+  "book_abbr": "Sb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Wisdom",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i I. A Sabedoria e o destino humano}\\par }{\\qc\\b\\i Procurar a Deus e fugir do pecado\\par }Amai a justiça, vós que julgais a terra,\\par pensai no Senhor com retidão, \\par procurai-o com simplicidade de coração, \\par",
+      "reference": "Sb 1:1"
+    },
+    "2": {
+      "text": "porque ele se deixa encontrar por aqueles que não o tentam, \\par ele se revela aos que não lhe recusam a fé. \\par",
+      "reference": "Sb 1:2"
+    },
+    "3": {
+      "text": "Pois os pensamentos tortuosos afastam de Deus \\par e o Poder, posto à prova, confunde os insensatos. \\par",
+      "reference": "Sb 1:3"
+    },
+    "4": {
+      "text": "A Sabedoria não entra numa alma maligna, \\par ela não habita num corpo devedor ao pecado.\\par",
+      "reference": "Sb 1:4"
+    },
+    "5": {
+      "text": "Pois o espírito santo, o educador, foge da duplicidade, \\par ele se retira diante dos pensamentos sem sentido, \\par ele se ofusca quando sobrevém a injustiça. \\par",
+      "reference": "Sb 1:5"
+    },
+    "6": {
+      "text": "A Sabedoria é um espírito amigo dos homens, \\par não deixa impune o blasfemo por seus propósitos; \\par porque Deus é a testemunha de seus rins, \\par perscruta seu coração segundo a verdade \\par e ouve o que diz a sua língua. \\par",
+      "reference": "Sb 1:6"
+    },
+    "7": {
+      "text": "O espírito do Senhor enche o universo, \\par dá consistência a todas as coisas, \\par não ignora nenhum som. \\par",
+      "reference": "Sb 1:7"
+    },
+    "8": {
+      "text": "Por isso quem fala iniquamente não tem desculpa, \\par não poderá eludir a Justiça vingadora. \\par",
+      "reference": "Sb 1:8"
+    },
+    "9": {
+      "text": "Indagar-se-á sobre os planos do ímpio, \\par o barulho de suas palavras irá até o Senhor, \\par como prova de seus crimes. \\par",
+      "reference": "Sb 1:9"
+    },
+    "10": {
+      "text": "Um ouvido cioso ouve tudo, \\par nem o rumor dos murmúrios lhe escapa. \\par",
+      "reference": "Sb 1:10"
+    },
+    "11": {
+      "text": "Guardai-vos, pois, do murmúrio inútil, \\par poupai à vossa língua a maledicência; \\par não há frase furtiva que caia no vazio, \\par a boca mentirosa mata a alma. \\par",
+      "reference": "Sb 1:11"
+    },
+    "12": {
+      "text": "Não procureis a morte com vossa vida extraviada, \\par não vos proporcioneis a ruína \\par com as obras de vossas mãos. \\par",
+      "reference": "Sb 1:12"
+    },
+    "13": {
+      "text": "Pois Deus não fez a morte \\par nem tem prazer em destruir os viventes. \\par",
+      "reference": "Sb 1:13"
+    },
+    "14": {
+      "text": "Tudo criou para que subsista; \\par são salutares as criaturas do mundo: \\par nelas não há veneno de morte, \\par e o Hades não reina sobre a terra. \\par",
+      "reference": "Sb 1:14"
+    },
+    "15": {
+      "text": "Porque a justiça é imortal. \\par",
+      "reference": "Sb 1:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i A vida segundo os ímpios\\par }Mas os ímpios a chamam com gestos e com vozes, \\par por ela se consomem, crendo-a sua amiga, \\par fazem pacto com ela, \\par pois merecem ser de seu partido. \\par",
+      "reference": "Sb 1:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

@@ -1,0 +1,85 @@
+{
+  "book": 59,
+  "book_name": "Tiago",
+  "book_abbr": "Tg",
+  "book_category": "Epístolas Gerais",
+  "book_english": "James",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra a intemperança na linguagem\\par }Não queirais todos ser mestres, pois sabeis que estamos sujeitos a mais severo julgamento,",
+      "reference": "Tg 3:1"
+    },
+    "2": {
+      "text": "porque todos nós tropeçamos freqüentemente. \\par Aquele que não peca no falar é realmente um homem perfeito, capaz de refrear todo o seu corpo.",
+      "reference": "Tg 3:2"
+    },
+    "3": {
+      "text": "Quando pomos freio na boca dos cavalos, a fim de que nos obedeçam, conseguimos dirigir todo o seu corpo.",
+      "reference": "Tg 3:3"
+    },
+    "4": {
+      "text": "Notai que também os navios, por maiores que sejam, e impelidos por ventos impetuosos, são, entretanto, conduzidos por um pequeno leme para onde quer que a vontade do timoneiro os dirija.",
+      "reference": "Tg 3:4"
+    },
+    "5": {
+      "text": "Assim também a língua, embora seja um pequeno membro do corpo, se jacta de grandes feitos! Notai como um pequeno fogo incendeia uma floresta imensa.",
+      "reference": "Tg 3:5"
+    },
+    "6": {
+      "text": "Ora, também a língua é um fogo. Como o mundo do mal, a língua está posta entre os nossos membros maculando o corpo inteiro e pondo em chamas o ciclo da criação, inflamada como está pela geena.",
+      "reference": "Tg 3:6"
+    },
+    "7": {
+      "text": "Com efeito, toda espécie de feras, de aves, de répteis e de animais marinhos é domada e tem sido domada pela espécie humana.",
+      "reference": "Tg 3:7"
+    },
+    "8": {
+      "text": "Mas a língua, ninguém consegue domá-la: ela é um mal irrequieto e está cheia de veneno mortífero.",
+      "reference": "Tg 3:8"
+    },
+    "9": {
+      "text": "Com ela bendizemos ao Senhor, nosso Pai, e com ela maldizemos os homens feitos à semelhança de Deus.",
+      "reference": "Tg 3:9"
+    },
+    "10": {
+      "text": "Da mesma boca provêm bênção e maldição. Ora, tal não deve acontecer, meus irmãos.",
+      "reference": "Tg 3:10"
+    },
+    "11": {
+      "text": "Porventura uma fonte jorra, pelo mesmo olheiro, água doce e água salobra?",
+      "reference": "Tg 3:11"
+    },
+    "12": {
+      "text": "Porventura, meus irmãos, pode uma figueira produzir azeitonas ou uma videira produzir figos? Assim, uma fonte de água salgada não pode produzir água doce. \\par",
+      "reference": "Tg 3:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i A verdadeira e a falsa sabedoria\\par }Quem dentre vós é sábio e entendido? Mostre pelo seu bom comportamento as suas obras repassadas de docilidade e sabedoria.",
+      "reference": "Tg 3:13"
+    },
+    "14": {
+      "text": "Mas, se tendes inveja amarga e preocupações egoísticas no vosso coração, não vos orgulheis nem mintais contra a verdade,",
+      "reference": "Tg 3:14"
+    },
+    "15": {
+      "text": "porque esta sabedoria não vem do alto; antes, é terrena, animal e demoníaca.",
+      "reference": "Tg 3:15"
+    },
+    "16": {
+      "text": "Com efeito, onde há inveja e preocupação egoística, aí estão as desordens e toda sorte de más ações.",
+      "reference": "Tg 3:16"
+    },
+    "17": {
+      "text": "Por outra parte, a sabedoria que vem do alto é, antes de tudo, pura, depois pacífica, indulgente, conciliadora, cheia de misericórdia e de bons frutos, isenta de parcialidade e de hipocrisia.",
+      "reference": "Tg 3:17"
+    },
+    "18": {
+      "text": "Um fruto de justiça é semeado pacificamente para aqueles que promovem a paz. \\par",
+      "reference": "Tg 3:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

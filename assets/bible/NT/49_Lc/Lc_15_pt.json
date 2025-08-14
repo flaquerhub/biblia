@@ -1,0 +1,141 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As três parábolas da misericórdia\\par }Todos os publicanos e pecadores estavam se aproximando para ouvi-lo.",
+      "reference": "Lc 15:1"
+    },
+    "2": {
+      "text": "Os fariseus e os escribas, porém, murmuravam: “Esse homem recebe os pecadores e come com eles!”",
+      "reference": "Lc 15:2"
+    },
+    "3": {
+      "text": "Contou-lhes, então, esta parábola: \\par",
+      "reference": "Lc 15:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i A ovelha perdida\\par }“Qual de vós, tendo cem ovelhas e perder uma, não abandona as noventa e nove no deserto e vai em busca daquela que se perdeu, até encontrá-la?",
+      "reference": "Lc 15:4"
+    },
+    "5": {
+      "text": "E achando-a, alegre a coloca sobre os ombros",
+      "reference": "Lc 15:5"
+    },
+    "6": {
+      "text": "e, de volta para casa, convoca os amigos e os vizinhos, dizendo-lhes: ‘Alegrai-vos comigo, porque encontrei a minha ovelha perdida!’",
+      "reference": "Lc 15:6"
+    },
+    "7": {
+      "text": "Eu vos digo que do mesmo modo haverá mais alegria no céu por um só pecador que se arrependa, do que por noventa e nove justos que não precisam de arrependimento. \\par",
+      "reference": "Lc 15:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i A dracma perdida\\par }Ou qual a mulher que, tendo dez dracmas e perder uma, não acende uma lâmpada, varre a casa e procura cuidadosamente até encontrá-la?",
+      "reference": "Lc 15:8"
+    },
+    "9": {
+      "text": "E encontrando-a, convoca as amigas e vizinhas, e diz: ‘Alegrai-vos comigo, porque encontrei a dracma que havia perdido!’",
+      "reference": "Lc 15:9"
+    },
+    "10": {
+      "text": "Eu vos digo que, do mesmo modo, há alegria diante dos anjos de Deus por um só pecador que se arrependa”. \\par",
+      "reference": "Lc 15:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i O filho perdido e o filho fiel: o “filho pródigo”\\par }Disse ainda: “Um homem tinha dois filhos.",
+      "reference": "Lc 15:11"
+    },
+    "12": {
+      "text": "O mais jovem disse ao pai: ‘Pai, dá-me a parte da herança que me cabe’. E o pai dividiu os bens entre eles.",
+      "reference": "Lc 15:12"
+    },
+    "13": {
+      "text": "Poucos dias depois, ajuntando todos os seus haveres, o filho mais jovem partiu para uma região longínqua e ali dissipou sua herança numa vida devassa. \\par",
+      "reference": "Lc 15:13"
+    },
+    "14": {
+      "text": "E gastou tudo. Sobreveio àquela região uma grande fome e ele começou a passar privações.",
+      "reference": "Lc 15:14"
+    },
+    "15": {
+      "text": "Foi, então, empregar-se com um dos homens daquela região, que o mandou para seus campos cuidar dos porcos.",
+      "reference": "Lc 15:15"
+    },
+    "16": {
+      "text": "Ele queria matar a fome com as bolotas que os porcos comiam, mas ninguém lhas dava.",
+      "reference": "Lc 15:16"
+    },
+    "17": {
+      "text": "E caindo em si, disse: ‘Quantos empregados de meu pai têm pão com fartura, e eu aqui, morrendo de fome!",
+      "reference": "Lc 15:17"
+    },
+    "18": {
+      "text": "Vou-me embora, procurar o meu pai e dizer-lhe: Pai, pequei contra o Céu e contra ti;",
+      "reference": "Lc 15:18"
+    },
+    "19": {
+      "text": "já não sou digno de ser chamado teu filho. Trata-me como um dos teus empregados’.",
+      "reference": "Lc 15:19"
+    },
+    "20": {
+      "text": "Partiu, então, e foi ao encontro de seu pai. \\par Ele estava ainda ao longe, quando seu pai viu-o, encheu-se de compaixão, correu e lançou-se-lhe ao pescoço, cobrindo-o de beijos.",
+      "reference": "Lc 15:20"
+    },
+    "21": {
+      "text": "O filho, então, disse-lhe: ‘Pai, pequei contra o Céu e contra ti; já não sou digno de ser chamado teu filho’.",
+      "reference": "Lc 15:21"
+    },
+    "22": {
+      "text": "Mas o pai disse aos seus servos: ‘Ide depressa, trazei a melhor túnica e revesti-o com ela, ponde-lhe um anel no dedo e sandálias nos pés.",
+      "reference": "Lc 15:22"
+    },
+    "23": {
+      "text": "Trazei o novilho cevado e matai-o; comamos e festejemos,",
+      "reference": "Lc 15:23"
+    },
+    "24": {
+      "text": "pois este meu filho estava morto e tornou a viver; estava perdido e foi reencontrado!’ E começaram a festejar. \\par",
+      "reference": "Lc 15:24"
+    },
+    "25": {
+      "text": "Seu filho mais velho estava no campo. Quando voltava, já perto de casa ouviu músicas e danças.",
+      "reference": "Lc 15:25"
+    },
+    "26": {
+      "text": "Chamando um servo, perguntou-lhe o que estava acontecendo.",
+      "reference": "Lc 15:26"
+    },
+    "27": {
+      "text": "Este lhe disse: ‘É teu irmão que voltou e teu pai matou o novilho cevado, porque o recuperou com saúde’.",
+      "reference": "Lc 15:27"
+    },
+    "28": {
+      "text": "Então ele ficou com muita raiva e não queria entrar. Seu pai saiu para suplicar-lhe.",
+      "reference": "Lc 15:28"
+    },
+    "29": {
+      "text": "Ele, porém, respondeu a seu pai: ‘Há tantos anos que eu te sirvo, e jamais transgredi um só dos teus mandamentos, e nunca me deste um cabrito para festejar com meus amigos.",
+      "reference": "Lc 15:29"
+    },
+    "30": {
+      "text": "Contudo, veio esse teu filho, que devorou teus bens com prostitutas, e para ele matas o novilho cevado!’ \\par",
+      "reference": "Lc 15:30"
+    },
+    "31": {
+      "text": "Mas o pai lhe disse: ‘Filho, tu estás sempre comigo, e tudo o que é meu é teu.",
+      "reference": "Lc 15:31"
+    },
+    "32": {
+      "text": "Mas era preciso que festejássemos e nos alegrássemos, pois esse teu irmão estava morto e tornou a viver; ele estava perdido e foi reencontrado!’” \\par",
+      "reference": "Lc 15:32"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 32
+}

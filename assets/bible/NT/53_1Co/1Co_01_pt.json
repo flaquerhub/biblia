@@ -1,0 +1,137 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Preâmbulo}\\par }{\\qc\\b\\i Endereço e saudação. Ação de graças\\par }Paulo chamado a ser apóstolo de Cristo Jesus por vontade de Deus, e Sóstenes, o irmão,",
+      "reference": "1Co 1:1"
+    },
+    "2": {
+      "text": "à Igreja de Deus, que está em Corinto, àqueles que foram santificados em Cristo Jesus, chamados a ser santos, com todos os que em qualquer lugar invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso.",
+      "reference": "1Co 1:2"
+    },
+    "3": {
+      "text": "Graça e paz a vós da parte de Deus nosso Pai e do Senhor Jesus Cristo! \\par",
+      "reference": "1Co 1:3"
+    },
+    "4": {
+      "text": "Dou incessantemente graças a Deus a vosso respeito, em vista da graça de Deus que vos foi dada em Cristo Jesus.",
+      "reference": "1Co 1:4"
+    },
+    "5": {
+      "text": "Pois fostes nele cumulados de todas as riquezas, todas as da palavra e todas as do conhecimento.",
+      "reference": "1Co 1:5"
+    },
+    "6": {
+      "text": "Na verdade, o testemunho de Cristo tornou-se firme em vós,",
+      "reference": "1Co 1:6"
+    },
+    "7": {
+      "text": "a tal ponto que nenhum dom vos falte, a vós que esperais a Revelação de nosso Senhor Jesus Cristo.",
+      "reference": "1Co 1:7"
+    },
+    "8": {
+      "text": "É ele também que vos fortalecerá até o fim, para que sejais irrepreensíveis no Dia de nosso Senhor Jesus Cristo.",
+      "reference": "1Co 1:8"
+    },
+    "9": {
+      "text": "É fiel o Deus que vos chamou à comunhão, com o seu Filho Jesus Cristo, nosso Senhor. \\par",
+      "reference": "1Co 1:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b {\\i I. Divisões e escândalos}\\par 1. OS PARTIDOS NA IGREJA DE CORINTO\\par }{\\qc\\b\\i As divisões entre os fiéis\\par }Eu vos exorto, irmãos, em nome de nosso Senhor Jesus Cristo: guardai a concórdia uns com os outros, de sorte que não haja divisões entre vós; sede estreitamente unidos no mesmo espírito e no mesmo modo de pensar.",
+      "reference": "1Co 1:10"
+    },
+    "11": {
+      "text": "Com efeito, meus irmãos, pessoas da casa de Cloé me informaram que existem rixas entre vós.",
+      "reference": "1Co 1:11"
+    },
+    "12": {
+      "text": "Explico-me: cada um de vós diz: “Eu sou de Paulo!”, ou “Eu sou de Apolo!”, ou “Eu sou de Cefas!”, ou “Eu sou de Cristo!”",
+      "reference": "1Co 1:12"
+    },
+    "13": {
+      "text": "Cristo estaria dividido? Paulo teria sido crucificado em vosso favor? Ou fostes batizados em nome de Paulo?",
+      "reference": "1Co 1:13"
+    },
+    "14": {
+      "text": "Dou graças a Deus por não ter batizado ninguém de vós a não ser Crispo e Caio.",
+      "reference": "1Co 1:14"
+    },
+    "15": {
+      "text": "Assim ninguém pode dizer que foi batizado em meu nome.",
+      "reference": "1Co 1:15"
+    },
+    "16": {
+      "text": "É verdade, batizei também a família de Estéfanas; quanto ao mais, não me recordo de ter batizado algum outro de vós. \\par",
+      "reference": "1Co 1:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Sabedoria do mundo e sabedoria cristã\\par }Pois não foi para batizar que Cristo me enviou, mas para anunciar o Evangelho, sem recorrer à sabedoria da linguagem, a fim de que não se torne inútil a cruz de Cristo.",
+      "reference": "1Co 1:17"
+    },
+    "18": {
+      "text": "Com efeito, a linguagem da cruz é loucura para aqueles que se perdem, mas para aqueles que se salvam, para nós, é poder de Deus.",
+      "reference": "1Co 1:18"
+    },
+    "19": {
+      "text": "Pois está escrito: \\par {\\i Destruirei a sabedoria dos sábios \\par e rejeitarei a inteligência dos inteligentes. }\\par",
+      "reference": "1Co 1:19"
+    },
+    "20": {
+      "text": "{\\i Onde está o sábio? Onde está o homem culto?} \\par Onde está o argumentador deste século? Deus não tornou louca a sabedoria deste século?",
+      "reference": "1Co 1:20"
+    },
+    "21": {
+      "text": "Com efeito, visto que o mundo por meio da sabedoria não reconheceu a Deus na sabedoria de Deus, aprouve a Deus pela loucura da pregação salvar aqueles que crêem.",
+      "reference": "1Co 1:21"
+    },
+    "22": {
+      "text": "Os judeus pedem sinais, e os gregos andam em busca de sabedoria;",
+      "reference": "1Co 1:22"
+    },
+    "23": {
+      "text": "nós, porém, anunciamos Cristo crucificado, que para os judeus é escândalo, para os gentios é loucura,",
+      "reference": "1Co 1:23"
+    },
+    "24": {
+      "text": "mas para aqueles que são chamados, tanto judeus como gregos, é Cristo, poder de Deus e sabedoria de Deus.",
+      "reference": "1Co 1:24"
+    },
+    "25": {
+      "text": "Pois o que é loucura de Deus é mais sábio do que os homens, e o que é fraqueza de Deus é mais forte do que os homens. \\par",
+      "reference": "1Co 1:25"
+    },
+    "26": {
+      "text": "Vede, pois, quem sois, irmãos, vós que recebestes o chamado de Deus; não há entre vós muitos sábios segundo a carne, nem muitos poderosos, nem muitos de família prestigiosa.",
+      "reference": "1Co 1:26"
+    },
+    "27": {
+      "text": "Mas o que é loucura no mundo, Deus o escolheu para confundir os sábios; e, o que é fraqueza no mundo, Deus o escolheu para confundir o que é forte;",
+      "reference": "1Co 1:27"
+    },
+    "28": {
+      "text": "e, o que no mundo é vil e desprezado, o que não é, Deus escolheu para reduzir a nada o que é,",
+      "reference": "1Co 1:28"
+    },
+    "29": {
+      "text": "a fim de que nenhuma criatura se possa vangloriar diante de Deus.",
+      "reference": "1Co 1:29"
+    },
+    "30": {
+      "text": "Ora, é por ele que vós sois em Cristo Jesus, que se tornou para nós sabedoria proveniente de Deus, justiça, santificação e redenção,",
+      "reference": "1Co 1:30"
+    },
+    "31": {
+      "text": "a fim de que, como diz a Escritura, {\\i aquele que se gloria, se glorie no Senhor.}\\par",
+      "reference": "1Co 1:31"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 31
+}

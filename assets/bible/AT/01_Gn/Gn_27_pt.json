@@ -1,0 +1,197 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Jacó intercepta a bênção de Isaac\\par }Isaac tornou-se velho e seus olhos se enfraqueceram a ponto de não mais enxergar. Ele chamou seu filho mais velho, Esaú: “Meu filho!”, disse-lhe, e este respondeu: “Sim!”",
+      "reference": "Gn 27:1"
+    },
+    "2": {
+      "text": "Ele retomou: “Vês, estou velho e não conheço o dia de minha morte.",
+      "reference": "Gn 27:2"
+    },
+    "3": {
+      "text": "Agora, toma tuas armas, tua aljava e teu arco, sai ao campo e apanha-me uma caça.",
+      "reference": "Gn 27:3"
+    },
+    "4": {
+      "text": "Faze-me um bom prato, como eu gosto e traze-mo, a fim de que eu coma e minha alma te abençoe antes que eu morra”. –",
+      "reference": "Gn 27:4"
+    },
+    "5": {
+      "text": "Ora, Rebeca ouvia enquanto Isaac falava com seu filho Esaú. – Esaú foi, pois, ao campo apanhar uma caça para seu pai. \\par",
+      "reference": "Gn 27:5"
+    },
+    "6": {
+      "text": "Rebeca disse a seu filho Jacó: “Ouvi teu pai dizer a teu irmão Esaú:",
+      "reference": "Gn 27:6"
+    },
+    "7": {
+      "text": "‘Traze-me uma caça e faze-me um bom prato, eu comerei e te abençoarei diante de Iahweh antes de morrer’.",
+      "reference": "Gn 27:7"
+    },
+    "8": {
+      "text": "Agora, ouve-me e faze como te ordeno.",
+      "reference": "Gn 27:8"
+    },
+    "9": {
+      "text": "Vai ao rebanho e traze-me de lá dois belos cabritos, e prepararei para teu pai um bom prato, como ele gosta.",
+      "reference": "Gn 27:9"
+    },
+    "10": {
+      "text": "Tu o apresentarás a teu pai e ele comerá, a fim de que te abençoe antes de morrer”. \\par",
+      "reference": "Gn 27:10"
+    },
+    "11": {
+      "text": "Jacó disse à sua mãe Rebeca: “Vê: meu irmão Esaú é peludo, e eu tenho a pele muito lisa.",
+      "reference": "Gn 27:11"
+    },
+    "12": {
+      "text": "Talvez meu pai me apalpe: verá que zombei dele e atrairei sobre mim a maldição em lugar da bênção”.",
+      "reference": "Gn 27:12"
+    },
+    "13": {
+      "text": "Mas sua mãe lhe respondeu: “Caia sobre mim tua maldição, meu filho! Obedece-me, vai e traze-me os cabritos”.",
+      "reference": "Gn 27:13"
+    },
+    "14": {
+      "text": "Ele foi buscá-los e os trouxe para a sua mãe que preparou um bom prato, a gosto de seu pai.",
+      "reference": "Gn 27:14"
+    },
+    "15": {
+      "text": "Rebeca tomou as mais belas roupas de Esaú, seu filho mais velho, que tinha em casa, e com elas revestiu Jacó, seu filho mais novo.",
+      "reference": "Gn 27:15"
+    },
+    "16": {
+      "text": "Com a pele dos cabritos ela lhe cobriu os braços e a parte lisa do pescoço.",
+      "reference": "Gn 27:16"
+    },
+    "17": {
+      "text": "Depois colocou o prato e o pão que preparara nas mãos de seu filho Jacó. \\par",
+      "reference": "Gn 27:17"
+    },
+    "18": {
+      "text": "Jacó foi a seu pai e disse: “Meu pai!” Este respondeu: “Sim! Quem és tu, meu filho?”",
+      "reference": "Gn 27:18"
+    },
+    "19": {
+      "text": "Jacó disse a seu pai: “Sou Esaú, teu primogênito; fiz o que me ordenaste. Levanta-te, por favor, assenta-te e come de minha caça, a fim de que tua alma me abençoe”.",
+      "reference": "Gn 27:19"
+    },
+    "20": {
+      "text": "Isaac disse a Jacó: “Como a encontraste depressa, meu filho!” E ele respondeu: “É que Iahweh teu Deus me foi propício”.",
+      "reference": "Gn 27:20"
+    },
+    "21": {
+      "text": "Isaac disse a Jacó: “Aproxima-te, pois, para que te apalpe, meu filho, para saber se és ou não o meu filho Esaú”. \\par",
+      "reference": "Gn 27:21"
+    },
+    "22": {
+      "text": "Jacó aproximou-se de seu pai Isaac, que o apalpou e disse: “A voz é a de Jacó, mas os braços são os de Esaú!”",
+      "reference": "Gn 27:22"
+    },
+    "23": {
+      "text": "Ele não o reconheceu porque seus braços estavam peludos como os de Esaú, seu irmão, e ele o abençoou.",
+      "reference": "Gn 27:23"
+    },
+    "24": {
+      "text": "Disse: “Tu és meu filho Esaú?” E o outro respondeu: “Sim”.",
+      "reference": "Gn 27:24"
+    },
+    "25": {
+      "text": "Isaac retomou: “Serve-me e que eu coma da caça de meu filho, a fim de que minha alma te abençoe”. Ele o serviu e Isaac comeu, apresentou-lhe vinho e ele bebeu.",
+      "reference": "Gn 27:25"
+    },
+    "26": {
+      "text": "Seu pai Isaac lhe disse: “Aproxima-te e beija-me, meu filho!”",
+      "reference": "Gn 27:26"
+    },
+    "27": {
+      "text": "Ele se aproximou e beijou o pai, que respirou o odor de suas roupas. Ele o abençoou assim: \\par “Sim, o odor de meu filho \\par é como o odor de um campo fértil \\par que Iahweh abençoou. \\par",
+      "reference": "Gn 27:27"
+    },
+    "28": {
+      "text": "Que Deus te dê \\par o orvalho do céu \\par e as gorduras da terra, \\par trigo e vinho em abundância! \\par",
+      "reference": "Gn 27:28"
+    },
+    "29": {
+      "text": "Que os povos te sirvam, \\par que nações se prostrem diante de ti! \\par Sê um senhor para teus irmãos, \\par que se prostrem diante de ti os filhos de tua mãe! \\par Maldito seja quem te amaldiçoar! \\par Bendito seja quem te abençoar!” \\par",
+      "reference": "Gn 27:29"
+    },
+    "30": {
+      "text": "Isaac tinha acabado de abençoar a Jacó e Jacó acabava de sair de junto de seu pai Isaac, quando seu irmão Esaú voltou da caça.",
+      "reference": "Gn 27:30"
+    },
+    "31": {
+      "text": "Também ele preparou um bom prato e o trouxe a seu pai. Ele lhe disse: “Que meu pai se levante e coma da caça de seu filho, a fim de que tua alma me abençoe!”",
+      "reference": "Gn 27:31"
+    },
+    "32": {
+      "text": "Seu pai Isaac lhe perguntou: “Quem és tu?” – “Sou teu filho primogênito, Esaú”, respondeu ele.",
+      "reference": "Gn 27:32"
+    },
+    "33": {
+      "text": "Então Isaac estremeceu com grande emoção e disse: “Quem é, pois, aquele que apanhou a caça e ma trouxe? Confiando, eu comi antes que tu viesses e o abençoei, e ele ficará abençoado!”",
+      "reference": "Gn 27:33"
+    },
+    "34": {
+      "text": "Quando Esaú ouviu as palavras de seu pai, gritou com muita força e amargor e disse ao pai: “Abençoa-me também, meu pai!”",
+      "reference": "Gn 27:34"
+    },
+    "35": {
+      "text": "Mas este respondeu: “Teu irmão veio com astúcia e tomou tua bênção”.",
+      "reference": "Gn 27:35"
+    },
+    "36": {
+      "text": "Esaú retomou: “Com razão se chama Jacó: é a segunda vez que me enganou. Ele tomou meu direito de primogenitura e eis que agora tomou minha bênção!” Mas, acrescentou, “não reservaste nenhuma bênção para mim?",
+      "reference": "Gn 27:36"
+    },
+    "37": {
+      "text": "Isaac, tomando a palavra, respondeu a Esaú: “Eu o estabeleci teu senhor, dei-lhe todos os seus irmãos como servos e o provi de trigo e de vinho. Que poderia eu fazer por ti, meu filho?”",
+      "reference": "Gn 27:37"
+    },
+    "38": {
+      "text": "Esaú disse a seu pai: “É, pois, tua única bênção, meu pai? Abençoa-me também, meu pai!” Isaac ficou silencioso e Esaú se pôs a chorar.",
+      "reference": "Gn 27:38"
+    },
+    "39": {
+      "text": "Então seu pai Isaac tomou a palavra e disse: \\par “Longe das gorduras da terra \\par será tua morada, \\par longe do orvalho que cai do céu. \\par",
+      "reference": "Gn 27:39"
+    },
+    "40": {
+      "text": "Tu viverás de tua espada, \\par servirás a teu irmão. \\par Mas, quando te libertares, sacudirás seu jugo de tua cerviz”. \\par",
+      "reference": "Gn 27:40"
+    },
+    "41": {
+      "text": "Esaú passou a odiar a Jacó por causa da bênção que seu pai lhe dera, e disse consigo mesmo: “Estão próximos os dias de luto de meu pai. Então matarei meu irmão Jacó”.",
+      "reference": "Gn 27:41"
+    },
+    "42": {
+      "text": "Quando foram relatadas a Rebeca as palavras de Esaú, seu filho mais velho, ela chamou Jacó, seu filho mais novo, e lhe disse: “Teu irmão Esaú quer vingar-se de ti, matando-te.",
+      "reference": "Gn 27:42"
+    },
+    "43": {
+      "text": "Agora, meu filho, ouve-me: parte, foge para junto de meu irmão Labão, em Harã.",
+      "reference": "Gn 27:43"
+    },
+    "44": {
+      "text": "Habitarás com ele algum tempo, até que se passe o furor de teu irmão,",
+      "reference": "Gn 27:44"
+    },
+    "45": {
+      "text": "até que a cólera de teu irmão se desvie de ti e esqueça o que lhe fizeste; então te mandarei buscar. Por que vos perderia os dois num só dia?” \\par",
+      "reference": "Gn 27:45"
+    },
+    "46": {
+      "text": "\\par {\\qc\\b\\i Isaac envia Jacó a Labão\\par }Rebeca disse a Isaac: “Estou aborrecida com a vida por causa das filhas de Het. Se Jacó se casar com uma das filhas de Het, como estas, uma das jovens da terra, que me importa a vida?” \\par",
+      "reference": "Gn 27:46"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 46
+}

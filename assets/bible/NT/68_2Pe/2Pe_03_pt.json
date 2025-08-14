@@ -1,0 +1,85 @@
+{
+  "book": 61,
+  "book_name": "2Pedro",
+  "book_abbr": "2Pe",
+  "book_category": "Epístolas Gerais",
+  "book_english": "2 Peter",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O Dia do Senhor: os profetas e os apóstolos\\par }Amados, esta já é a segunda carta que vos escrevo, procurando em ambas despertar o vosso pensamento sadio com algumas admoestações,",
+      "reference": "2Pe 3:1"
+    },
+    "2": {
+      "text": "a fim de vos trazer à memória as palavras preditas pelos santos profetas e o mandamento dos vossos apóstolos, a eles confiado pelo Senhor e Salvador. \\par",
+      "reference": "2Pe 3:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Os falsos doutores\\par }Antes de mais nada, deveis saber que nos últimos dias virão escarnecedores com os seus escárnios e levando uma vida desenfreada, de acordo com as suas próprias concupiscências.",
+      "reference": "2Pe 3:3"
+    },
+    "4": {
+      "text": "O seu tema será: “Em que ficou a promessa da sua vinda? De fato, desde que os pais morreram, tudo continua como desde o princípio da criação!”",
+      "reference": "2Pe 3:4"
+    },
+    "5": {
+      "text": "Mas eles fingem não perceber que existiram outrora céus e terra, esta tirada da água, e estabelecida no meio da água pela Palavra de Deus,",
+      "reference": "2Pe 3:5"
+    },
+    "6": {
+      "text": "e que por essas mesmas causas o mundo de então pereceu, submergido pela água.",
+      "reference": "2Pe 3:6"
+    },
+    "7": {
+      "text": "Ora, os céus e a terra de agora estão reservados pela mesma Palavra ao fogo, aguardando o dia do Julgamento e da destruição dos homens ímpios. \\par",
+      "reference": "2Pe 3:7"
+    },
+    "8": {
+      "text": "Há, contudo, uma coisa, amados, que não deveis esquecer: é que para o Senhor um dia é como mil anos e {\\i mil anos como um dia.}",
+      "reference": "2Pe 3:8"
+    },
+    "9": {
+      "text": "O Senhor não tarda a cumprir a sua promessa, como pensam alguns, entendendo que há demora; o que ele está é usando de paciência convosco, porque não quer que ninguém se perca, mas que todos venham a converter-se.",
+      "reference": "2Pe 3:9"
+    },
+    "10": {
+      "text": "O Dia do Senhor chegará como ladrão e então os céus se desfarão com estrondo, os elementos, devorados pelas chamas, se dissolverão e a terra, juntamente com as suas obras, será consumida. \\par",
+      "reference": "2Pe 3:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Novo apelo à santidade. Doxologia\\par }Se todo este mundo está fadado a desfazer-se assim, qual não deve ser a santidade do vosso viver e da vossa piedade,",
+      "reference": "2Pe 3:11"
+    },
+    "12": {
+      "text": "enquanto esperais e apressais a vinda do Dia de Deus, no qual os céus, ardendo em chamas, se dissolverão e os elementos, consumidos pelo fogo, se fundirão?",
+      "reference": "2Pe 3:12"
+    },
+    "13": {
+      "text": "O que nós esperamos, conforme a sua promessa, são novos céus e nova terra, onde habitará a justiça. \\par",
+      "reference": "2Pe 3:13"
+    },
+    "14": {
+      "text": "Assim, visto que tendes esta esperança, esforçai-vos ardorosamente para que ele vos encontre em paz, vivendo uma vida sem mácula e irrepreensível.",
+      "reference": "2Pe 3:14"
+    },
+    "15": {
+      "text": "Considerai a longanimidade de nosso Senhor como a nossa salvação, conforme também o nosso amado irmão Paulo vos escreveu, segundo a sabedoria que lhe foi dada.",
+      "reference": "2Pe 3:15"
+    },
+    "16": {
+      "text": "Isto mesmo faz ele em todas as suas cartas, ao falar nelas desse tema. É verdade que em suas cartas se encontram alguns pontos difíceis de entender, que os ignorantes e vacilantes torcem, como fazem com as demais Escrituras, para a sua própria perdição. \\par",
+      "reference": "2Pe 3:16"
+    },
+    "17": {
+      "text": "Vós, portanto, amados, sabendo-o de antemão, precavei-vos, para não suceder que, levados pelo engano desses ímpios, venhais a cair da vossa firmeza.",
+      "reference": "2Pe 3:17"
+    },
+    "18": {
+      "text": "Crescei na graça e no conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja a glória agora e até o dia da eternidade! Amém. \\par",
+      "reference": "2Pe 3:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

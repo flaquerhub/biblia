@@ -1,0 +1,61 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i O drama messiânico}\\par }Por que as nações se amotinam, \\par e os povos meditam em vão? \\par",
+      "reference": "Sl 2:1"
+    },
+    "2": {
+      "text": "Os reis da terra se insurgem, \\par e, unidos, os príncipes conspiram \\par contra Iahweh e contra o seu Messias: \\par",
+      "reference": "Sl 2:2"
+    },
+    "3": {
+      "text": "“Rebentemos seus grilhões, \\par sacudamos de nós suas algemas!” \\par",
+      "reference": "Sl 2:3"
+    },
+    "4": {
+      "text": "O que habita nos céus ri, \\par o Senhor se diverte à custa deles. \\par",
+      "reference": "Sl 2:4"
+    },
+    "5": {
+      "text": "E depois lhes fala com ira, \\par confundindo-os com seu furor: \\par",
+      "reference": "Sl 2:5"
+    },
+    "6": {
+      "text": "“Fui eu que consagrei o meu rei \\par sobre Sião, minha montanha sagrada!” \\par",
+      "reference": "Sl 2:6"
+    },
+    "7": {
+      "text": "Vou proclamar o decreto de Iahweh: \\par Ele me disse: “Tu és meu filho, \\par eu hoje te gerei. \\par",
+      "reference": "Sl 2:7"
+    },
+    "8": {
+      "text": "Pede, e eu te darei as nações como herança, \\par os confins da terra como propriedade. \\par",
+      "reference": "Sl 2:8"
+    },
+    "9": {
+      "text": "Tu as quebrarás com um cetro de ferro, \\par como um vaso de oleiro as despedaçarás”. \\par",
+      "reference": "Sl 2:9"
+    },
+    "10": {
+      "text": "E agora, reis, sede prudentes; \\par deixai-vos corrigir, juízes da terra. \\par",
+      "reference": "Sl 2:10"
+    },
+    "11": {
+      "text": "Servi a Iahweh com temor, \\par",
+      "reference": "Sl 2:11"
+    },
+    "12": {
+      "text": "beijai seus pés com tremor, \\par para que não se irrite e pereçais no caminho, \\par pois sua ira se acende depressa. \\par Felizes aqueles que nele se abrigam! \\par",
+      "reference": "Sl 2:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

@@ -1,0 +1,105 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Quanto a mim, irmãos, não vos pude falar como a homens espirituais, mas tão-somente como a homens carnais, como a crianças em Cristo.",
+      "reference": "1Co 3:1"
+    },
+    "2": {
+      "text": "Dei-vos a beber leite, não alimento sólido, pois não o podíeis suportar. Mas nem mesmo agora podeis,",
+      "reference": "1Co 3:2"
+    },
+    "3": {
+      "text": "visto que ainda sois carnais. Com efeito, se há entre vós invejas e rixas, não sois carnais e não vos comportais de maneira meramente humana?",
+      "reference": "1Co 3:3"
+    },
+    "4": {
+      "text": "Quando alguém declara: “Eu sou de Paulo”, e outro diz: “Eu sou de Apolo”, não procedeis de maneira meramente humana? \\par",
+      "reference": "1Co 3:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i A verdadeira função dos pregadores\\par }Quem é, portanto, Apolo? Quem é Paulo? Servidores, pelos quais fostes levados à fé; cada um deles agiu segundo os dons que o Senhor lhe concedeu.",
+      "reference": "1Co 3:5"
+    },
+    "6": {
+      "text": "Eu plantei; Apolo regou; mas era Deus quem fazia crescer.",
+      "reference": "1Co 3:6"
+    },
+    "7": {
+      "text": "Assim, pois, aquele que planta nada é; aquele que rega nada é; mas importa tão-somente Deus, que dá o crescimento.",
+      "reference": "1Co 3:7"
+    },
+    "8": {
+      "text": "Aquele que planta e aquele que rega são iguais entre si; mas cada um receberá seu próprio salário, segundo a medida do seu trabalho.",
+      "reference": "1Co 3:8"
+    },
+    "9": {
+      "text": "Nós somos cooperadores de Deus, e vós sois a seara de Deus, o edifício de Deus. \\par",
+      "reference": "1Co 3:9"
+    },
+    "10": {
+      "text": "Segundo a graça que Deus me deu, como bom arquiteto, lancei o fundamento; outro constrói por cima. Mas cada um veja como constrói.",
+      "reference": "1Co 3:10"
+    },
+    "11": {
+      "text": "Quanto ao fundamento, ninguém pode colocar outro diverso do que foi posto: Jesus Cristo.",
+      "reference": "1Co 3:11"
+    },
+    "12": {
+      "text": "Se alguém sobre esse fundamento constrói com ouro, prata, pedras preciosas, madeira, feno ou palha,",
+      "reference": "1Co 3:12"
+    },
+    "13": {
+      "text": "a obra de cada um será posta em evidência. O Dia torná-la-á conhecida, pois ele se manifestará pelo fogo e o fogo provará o que vale a obra de cada um.",
+      "reference": "1Co 3:13"
+    },
+    "14": {
+      "text": "Se a obra construída sobre o fundamento subsistir, o operário receberá uma recompensa.",
+      "reference": "1Co 3:14"
+    },
+    "15": {
+      "text": "Aquele, porém, cuja obra for queimada perderá a recompensa. Ele mesmo, entretanto, será salvo, mas como que através do fogo. \\par",
+      "reference": "1Co 3:15"
+    },
+    "16": {
+      "text": "Não sabeis que sois um templo de Deus e que o Espírito de Deus habita em vós?",
+      "reference": "1Co 3:16"
+    },
+    "17": {
+      "text": "Se alguém destrói o templo de Deus, Deus o destruirá. Pois o templo de Deus é santo e esse templo sois vós. \\par",
+      "reference": "1Co 3:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Conclusões\\par }Ninguém se iluda: se alguém dentre vós julga ser sábio aos olhos deste mundo, torne-se louco para ser sábio;",
+      "reference": "1Co 3:18"
+    },
+    "19": {
+      "text": "pois a sabedoria deste mundo é loucura diante de Deus. Com efeito, está escrito: \\par {\\i Ele apanha os sábios em sua própria astúcia.}\\par",
+      "reference": "1Co 3:19"
+    },
+    "20": {
+      "text": "E ainda: \\par {\\i O Senhor conhece os raciocínios dos }sábios; sabe {\\i que são vãos.}\\par",
+      "reference": "1Co 3:20"
+    },
+    "21": {
+      "text": "Por conseguinte, ninguém procure nos homens motivo de orgulho, pois tudo pertence a vós:",
+      "reference": "1Co 3:21"
+    },
+    "22": {
+      "text": "Paulo, Apolo, Cefas, o mundo, a vida, a morte, as coisas presentes e as futuras. Tudo é vosso;",
+      "reference": "1Co 3:22"
+    },
+    "23": {
+      "text": "mas vós sois de Cristo, e Cristo é de Deus. \\par",
+      "reference": "1Co 3:23"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 23
+}

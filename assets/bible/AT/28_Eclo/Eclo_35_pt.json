@@ -1,0 +1,109 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 35,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Lei e sacrifícios\\par }Observar a lei é multiplicar as oferendas, \\par cumprir os mandamentos é oferecer sacrifícios de comunhão. \\par",
+      "reference": "Eclo 35:1"
+    },
+    "2": {
+      "text": "Mostrar-se generoso é fazer uma oblação de flor de farinha, \\par dar esmola é oferecer um sacrifício de louvor. \\par",
+      "reference": "Eclo 35:2"
+    },
+    "3": {
+      "text": "O que agrada ao Senhor é o afastar-se do mal, \\par o afastar-se da injustiça é um sacrifício expiatório. \\par",
+      "reference": "Eclo 35:3"
+    },
+    "4": {
+      "text": "Não te apresentes diante do Senhor de mãos vazias, \\par porque tudo isso se faz por causa de um preceito. \\par",
+      "reference": "Eclo 35:4"
+    },
+    "5": {
+      "text": "A oferenda do justo alegra o altar, \\par seu perfume sobe ao Altíssimo. \\par",
+      "reference": "Eclo 35:5"
+    },
+    "6": {
+      "text": "O sacrifício do justo é agradável, \\par a sua memória não será esquecida. \\par",
+      "reference": "Eclo 35:6"
+    },
+    "7": {
+      "text": "Glorifica o Senhor com generosidade, \\par não regateies as tuas primícias. \\par",
+      "reference": "Eclo 35:7"
+    },
+    "8": {
+      "text": "Em todas as tuas oferendas mostra um semblante alegre, \\par consagra o dízimo com alegria. \\par",
+      "reference": "Eclo 35:8"
+    },
+    "9": {
+      "text": "Dá ao Altíssimo conforme ele te deu, \\par com generosidade, segundo as tuas posses. \\par",
+      "reference": "Eclo 35:9"
+    },
+    "10": {
+      "text": "Pois o Senhor retribui a dádiva, \\par dar-te-á em troca sete vezes mais. \\par",
+      "reference": "Eclo 35:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A justiça divina\\par }Não tentes corrompê-lo com presentes, porque ele não os receberá, \\par não te apóies num sacrifício injusto. \\par",
+      "reference": "Eclo 35:11"
+    },
+    "12": {
+      "text": "Pois o Senhor é um juiz \\par que não faz acepção de pessoas. \\par",
+      "reference": "Eclo 35:12"
+    },
+    "13": {
+      "text": "Ele não considera as pessoas em detrimento do pobre, \\par ouve o apelo do oprimido. \\par",
+      "reference": "Eclo 35:13"
+    },
+    "14": {
+      "text": "Não despreza a súplica do órfão, \\par nem da viúva que derrama o seu pranto. \\par",
+      "reference": "Eclo 35:14"
+    },
+    "15": {
+      "text": "Não correm as lágrimas da viúva pelas faces \\par e o seu grito não é contra aquele que as provoca? \\par",
+      "reference": "Eclo 35:15"
+    },
+    "16": {
+      "text": "Aquele que serve a Deus de todo o seu coração é acolhido \\par e o seu apelo sobe até as nuvens. \\par",
+      "reference": "Eclo 35:16"
+    },
+    "17": {
+      "text": "A oração do humilde penetra as nuvens \\par e, enquanto não chega lá, ele não se consola. \\par",
+      "reference": "Eclo 35:17"
+    },
+    "18": {
+      "text": "Não se retirará daí enquanto o Altíssimo não puser nela os olhos, \\par fizer justiça aos justos, restabelecer a equidade. \\par",
+      "reference": "Eclo 35:18"
+    },
+    "19": {
+      "text": "O Senhor não tarda \\par e nem tem paciência com eles, \\par",
+      "reference": "Eclo 35:19"
+    },
+    "20": {
+      "text": "enquanto não quebrar o espinhaço dos cruéis \\par e tomar vingança das nações, \\par",
+      "reference": "Eclo 35:20"
+    },
+    "21": {
+      "text": "enquanto não exterminar a multidão dos orgulhosos \\par e quebrar o cetro dos injustos, \\par",
+      "reference": "Eclo 35:21"
+    },
+    "22": {
+      "text": "enquanto não retribuir a cada um segundo suas ações, \\par e julgar as ações humanas segundo suas intenções, \\par",
+      "reference": "Eclo 35:22"
+    },
+    "23": {
+      "text": "enquanto não fizer justiça a seu povo \\par e alegrá-lo com a sua misericórdia. \\par",
+      "reference": "Eclo 35:23"
+    },
+    "24": {
+      "text": "Oportuna é a sua misericórdia por ocasião da tribulação, \\par é como a nuvem de chuva no tempo da seca. \\par",
+      "reference": "Eclo 35:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

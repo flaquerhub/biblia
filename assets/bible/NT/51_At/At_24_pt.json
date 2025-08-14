@@ -1,0 +1,121 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Processo diante de Félix\\par }Cinco dias depois, desceu o sumo sacerdote Ananias com alguns anciãos e um advogado, certo Tertulo, os quais, diante do governador, representaram contra Paulo.",
+      "reference": "At 24:1"
+    },
+    "2": {
+      "text": "Tendo sido este chamado, Tertulo iniciou a acusação nestes termos: “Gozando de paz profunda por teu intermédio, e tendo-se processado melhorias para este povo por tua providência,",
+      "reference": "At 24:2"
+    },
+    "3": {
+      "text": "tudo isto reconhecemos, ó excelentíssimo Félix, sempre e em toda parte, com toda a gratidão.",
+      "reference": "At 24:3"
+    },
+    "4": {
+      "text": "Mas, para que eu não te detenha por muito tempo, peço-te nos escutes por um instante, com a tua reconhecida benevolência.",
+      "reference": "At 24:4"
+    },
+    "5": {
+      "text": "Verificamos que este homem é uma peste: ele suscita conflitos entre todos os judeus do mundo inteiro, e é um dos da linha-de-frente da seita dos nazareus.",
+      "reference": "At 24:5"
+    },
+    "6": {
+      "text": "Tentou mesmo profanar o Templo, e por isso o detivemos. [",
+      "reference": "At 24:6"
+    },
+    "7": {
+      "text": "]",
+      "reference": "At 24:7"
+    },
+    "8": {
+      "text": "É de sua boca que poderás, tu mesmo, interrogando-o, certificar-te de todas as coisas de que nós o estamos acusando”.",
+      "reference": "At 24:8"
+    },
+    "9": {
+      "text": "Apoiavam-no também os judeus, sustentando que as coisas eram mesmo assim. \\par",
+      "reference": "At 24:9"
+    },
+    "10": {
+      "text": "Então, tendo o governador feito sinal para que falasse, Paulo respondeu: \\par \\par {\\qc\\b\\i Defesa de Paulo perante o governador romano\\par } “Ciente de que há muitos anos és o juiz desta nação, de bom ânimo passo a defender a minha causa.",
+      "reference": "At 24:10"
+    },
+    "11": {
+      "text": "Tu podes assegurar-te do seguinte: não há mais de doze dias que subi a Jerusalém em peregrinação.",
+      "reference": "At 24:11"
+    },
+    "12": {
+      "text": "Ora, nem no Templo, nem nas sinagogas, nem pela cidade, viu-me alguém discutindo com outrem ou provocando motins entre a multidão.",
+      "reference": "At 24:12"
+    },
+    "13": {
+      "text": "Eles não podem provar-te aquilo de que agora me acusam. \\par",
+      "reference": "At 24:13"
+    },
+    "14": {
+      "text": "Isto, porém, confesso-te: é segundo o Caminho, a que chamam de seita, que eu sirvo ao Deus de meus pais, crendo em tudo o que está conforme a Lei e se encontra escrito nos Profetas.",
+      "reference": "At 24:14"
+    },
+    "15": {
+      "text": "E tenho em Deus a esperança, que também eles acalentam, de que há de acontecer a ressurreição, tanto de justos como de injustos.",
+      "reference": "At 24:15"
+    },
+    "16": {
+      "text": "Eis porque também eu me esforço por manter uma consciência irrepreensível constantemente, diante de Deus e diante dos homens. \\par",
+      "reference": "At 24:16"
+    },
+    "17": {
+      "text": "Depois de muitos anos, vim trazer esmolas para o meu povo e também apresentar ofertas.",
+      "reference": "At 24:17"
+    },
+    "18": {
+      "text": "Foi ao fazê-las que me encontraram no Templo, já purificado, sem ajuntamento e sem tumulto.",
+      "reference": "At 24:18"
+    },
+    "19": {
+      "text": "Alguns judeus da Ásia, porém... são eles que deveriam apresentar-se a ti e acusar-me, caso tivessem algo contra mim.",
+      "reference": "At 24:19"
+    },
+    "20": {
+      "text": "Ou digam estes, que aqui estão, se encontraram algum delito em mim ao comparecer eu perante o Sinédrio.",
+      "reference": "At 24:20"
+    },
+    "21": {
+      "text": "A não ser que se trate desta única palavra que bradei, de pé, no meio deles: ‘É por causa da ressurreição dos mortos que estou sendo julgado, hoje, diante de vós!’” \\par",
+      "reference": "At 24:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Detenção de Paulo em Cesaréia\\par }Félix, que era muito bem informado no que concerne ao Caminho, reenviou-os para outra audiência, dizendo: “Quando o tribuno Lísias descer, julgarei a vossa questão”.",
+      "reference": "At 24:22"
+    },
+    "23": {
+      "text": "E ordenou ao centurião que o mantivesse detido, mas lhe desse bom tratamento, e a nenhum dos seus impedisse de prestar-lhe assistência. \\par",
+      "reference": "At 24:23"
+    },
+    "24": {
+      "text": "Alguns dias depois, veio Félix com sua mulher Drusila, que era judia. Mandou chamar Paulo e ouviu-o falar sobre a fé em Cristo Jesus.",
+      "reference": "At 24:24"
+    },
+    "25": {
+      "text": "Mas, como Paulo se pusesse a discorrer sobre a justiça, a continência e o julgamento futuro, Félix ficou amedrontado e interrompeu: “Por agora, retira-te. Quando tiver mais tempo, mandarei chamar-te”.",
+      "reference": "At 24:25"
+    },
+    "26": {
+      "text": "Ele esperava, além disso, que Paulo lhe desse dinheiro; por isso, mandava chamá-lo freqüentemente e conversava com ele. \\par",
+      "reference": "At 24:26"
+    },
+    "27": {
+      "text": "Passados dois anos, Félix teve como sucessor Pórcio Festo. Entretanto, querendo agradar aos judeus, Félix mantivera Paulo encarcerado. \\par",
+      "reference": "At 24:27"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 27
+}

@@ -1,0 +1,233 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os anos santos. A. O ano sabático\\par }Iahweh falou a Moisés no monte Sinai; disse-lhe: \\par",
+      "reference": "Lv 25:1"
+    },
+    "2": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: \\par Quando entrardes na terra que eu vos dou, a terra guardará um sábado para Iahweh.",
+      "reference": "Lv 25:2"
+    },
+    "3": {
+      "text": "Durante seis anos semearás o teu campo; durante seis anos podarás a tua vinha e recolherás os produtos dela.",
+      "reference": "Lv 25:3"
+    },
+    "4": {
+      "text": "Mas no sétimo ano a terra terá seu repouso sabático, um sábado para Iahweh: não semearás o teu campo e não podarás a tua vinha,",
+      "reference": "Lv 25:4"
+    },
+    "5": {
+      "text": "não ceifarás as tuas espigas, que não serão reunidas em feixes, e não vindimarás as tuas uvas das vinhas, que não serão podadas. Será para a terra um ano de repouso.",
+      "reference": "Lv 25:5"
+    },
+    "6": {
+      "text": "O próprio sábado da terra vos nutrirá, a ti, ao teu servo, à tua serva, ao teu empregado, ao teu hóspede, enfim a todos aqueles que residem contigo.",
+      "reference": "Lv 25:6"
+    },
+    "7": {
+      "text": "Também ao teu gado e aos animais da tua terra, todos os seus produtos servirão de alimento. \\par",
+      "reference": "Lv 25:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i B. O ano do jubileu\\par }Contarás sete semanas de anos, sete vezes sete anos, isto é, o tempo de sete semanas de anos, quarenta e nove anos.",
+      "reference": "Lv 25:8"
+    },
+    "9": {
+      "text": "No sétimo mês, no décimo dia do mês, farás vibrar o toque da trombeta; no dia das Expiações, fareis soar a trombeta em todo o país.",
+      "reference": "Lv 25:9"
+    },
+    "10": {
+      "text": "Declarareis santo o qüinquagésimo ano e proclamareis a libertação de todos os moradores da terra. Será para vós um jubileu: cada um de vós retornará a seu patrimônio, e cada um de vós voltará ao seu clã.",
+      "reference": "Lv 25:10"
+    },
+    "11": {
+      "text": "O qüinquagésimo ano será para vós um ano jubilar: não semeareis, nem ceifareis as espigas que não forem reunidas em feixe, e não vindimareis as cepas que tiverem brotado livremente.",
+      "reference": "Lv 25:11"
+    },
+    "12": {
+      "text": "O jubileu será para vós coisa santa e comereis o produto dos campos. \\par",
+      "reference": "Lv 25:12"
+    },
+    "13": {
+      "text": "Neste ano do jubileu, tornará cada um à sua possessão.",
+      "reference": "Lv 25:13"
+    },
+    "14": {
+      "text": "Se venderes ao teu compatriota ou dele comprares, que ninguém prejudique a seu irmão!",
+      "reference": "Lv 25:14"
+    },
+    "15": {
+      "text": "Segundo o número dos anos decorridos depois do jubileu, comprarás de teu compatriota e segundo o número dos anos das colheitas, ele te estabelecerás o preço da venda.",
+      "reference": "Lv 25:15"
+    },
+    "16": {
+      "text": "Quanto maior o número de anos, mais aumentarás o preço, e quanto menor o número de anos, mais o reduzirás, pois ele te vende um determinado número de colheitas.",
+      "reference": "Lv 25:16"
+    },
+    "17": {
+      "text": "Ninguém dentre vós oprima seu compatriota, mas tenha o temor de teu Deus, pois eu sou Iahweh vosso Deus. \\par",
+      "reference": "Lv 25:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Garantia divina para o ano sabático\\par }Guardareis os meus estatutos e as minhas normas; guardá-los-eis, pondo-os em prática, e desse modo habitareis na terra em segurança.",
+      "reference": "Lv 25:18"
+    },
+    "19": {
+      "text": "A terra dará o seu fruto: comê-los-eis com fartura e habitareis em segurança. \\par",
+      "reference": "Lv 25:19"
+    },
+    "20": {
+      "text": "Se disserdes: ‘Que comeremos neste sétimo ano se não semearmos e não colhermos os nossos produtos?’ –",
+      "reference": "Lv 25:20"
+    },
+    "21": {
+      "text": "eu estabeleço a minha bênção no que colherdes no sexto ano, de modo que vos garanta produtos por três anos.",
+      "reference": "Lv 25:21"
+    },
+    "22": {
+      "text": "Quando semeardes, no oitavo ano, podereis ainda comer dos produtos antigos, até o nono ano; até que venham os produtos desse ano, comereis dos antigos. \\par",
+      "reference": "Lv 25:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Resgate das propriedades\\par }A terra não será vendida perpetuamente, pois que a terra me pertence e vós sois para mim estrangeiros e hóspedes.",
+      "reference": "Lv 25:23"
+    },
+    "24": {
+      "text": "Para toda propriedade que possuirdes, estabelecereis o direito de resgate para a terra.",
+      "reference": "Lv 25:24"
+    },
+    "25": {
+      "text": "Se o teu irmão cair na pobreza e tiver de vender algo do seu patrimônio, o seu parente mais próximo virá a ele, a fim de exercer seus direitos de família sobre aquilo que vende o seu irmão.",
+      "reference": "Lv 25:25"
+    },
+    "26": {
+      "text": "Aquele que não tem ninguém para exercer esse direito, e desde que haja encontrado recursos para fazer o resgate,",
+      "reference": "Lv 25:26"
+    },
+    "27": {
+      "text": "poderá calcular os anos que deverá durar a venda, e assim restituirá ao comprador o montante referente ao tempo que ainda resta e retomará a sua propriedade.",
+      "reference": "Lv 25:27"
+    },
+    "28": {
+      "text": "Se não tiver meios para realizar essa restituição, a propriedade vendida permanecerá com aquele que a comprou, até o ano do jubileu. No jubileu, o comprador a liberará, para que volte ao seu próprio possuidor. \\par",
+      "reference": "Lv 25:28"
+    },
+    "29": {
+      "text": "Quando alguém vender uma casa de moradia em uma cidade com muralhas, terá o direito de resgate, até o final do ano que se segue à venda; o seu direito de resgate durará um ano",
+      "reference": "Lv 25:29"
+    },
+    "30": {
+      "text": "e, se não for feito o resgate no final do ano, a casa na cidade com muralhas será propriedade daquele que a adquiriu e dos seus descendentes, para sempre: não será liberada no jubileu.",
+      "reference": "Lv 25:30"
+    },
+    "31": {
+      "text": "Contudo, as casas das aldeias sem muralhas serão consideradas como situadas no campo e haverá para elas direito de resgate e o comprador deverá liberá-las no jubileu. \\par",
+      "reference": "Lv 25:31"
+    },
+    "32": {
+      "text": "Quanto às cidades dos levitas, às casas das cidades de sua possessão, têm eles um direito perpétuo de resgate.",
+      "reference": "Lv 25:32"
+    },
+    "33": {
+      "text": "Se é um levita que sofre o efeito do direito de resgate, no jubileu ele deixará a propriedade vendida para voltar à sua casa na cidade em que ele tem um título de propriedade. As casas das cidades dos levitas são realmente propriedade deles no meio dos filhos de Israel,",
+      "reference": "Lv 25:33"
+    },
+    "34": {
+      "text": "e os campos de cultura ao redor dessas cidades não poderão ser vendidos, pois são propriedades deles para sempre. \\par",
+      "reference": "Lv 25:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b\\i Resgate das pessoas\\par }Se o teu irmão que vive contigo achar-se em dificuldade e não tiver com que te pagar, tu o sustentarás como a um estrangeiro ou hóspede, e ele viverá contigo.",
+      "reference": "Lv 25:35"
+    },
+    "36": {
+      "text": "Não tomarás dele nem juros nem usuras, mas terás o temor do teu Deus, e que o teu irmão viva contigo.",
+      "reference": "Lv 25:36"
+    },
+    "37": {
+      "text": "Não lhe emprestarás dinheiro a juros, nem lhe darás alimento para receber usura:",
+      "reference": "Lv 25:37"
+    },
+    "38": {
+      "text": "eu sou Iahweh vosso Deus, que vos tirei da terra do Egito para vos dar a terra de Canaã para ser o vosso Deus. \\par",
+      "reference": "Lv 25:38"
+    },
+    "39": {
+      "text": "Se o teu irmão se tornar pobre, estando contigo, e vender-se a ti, não lhe imporás trabalho de escravo;",
+      "reference": "Lv 25:39"
+    },
+    "40": {
+      "text": "será para ti como um assalariado ou hóspede e trabalhará contigo até o ano do jubileu.",
+      "reference": "Lv 25:40"
+    },
+    "41": {
+      "text": "Então sairá da tua casa, ele e seus filhos, e voltará ao seu clã e à propriedade de seus pais.",
+      "reference": "Lv 25:41"
+    },
+    "42": {
+      "text": "Na verdade, eles são meus servos, pois os fiz sair da terra do Egito, e não devem ser vendidos como se vende um escravo.",
+      "reference": "Lv 25:42"
+    },
+    "43": {
+      "text": "Não o dominarás com tirania, mas terás o temor de teu Deus. \\par",
+      "reference": "Lv 25:43"
+    },
+    "44": {
+      "text": "Os servos e as servas que tiveres deverão vir das nações que vos circundam; delas podereis adquirir servos e servas.",
+      "reference": "Lv 25:44"
+    },
+    "45": {
+      "text": "Também podereis adquiri-los dentre os filhos dos hóspedes que habitam entre vós, bem como das suas famílias que vivem convosco e que nasceram na vossa terra: serão vossa propriedade",
+      "reference": "Lv 25:45"
+    },
+    "46": {
+      "text": "e deixá-los-eis como herança a vossos filhos depois de vós, para que os possuam como propriedade perpétua. Tê-los-eis como escravos; mas sobre os vossos irmãos, os filhos de Israel, pessoa alguma exercerá poder de domínio. \\par",
+      "reference": "Lv 25:46"
+    },
+    "47": {
+      "text": "E se o estrangeiro ou o hóspede que vive contigo se enriquecer e teu irmão que vive junto dele se empobrecer e se vender ao estrangeiro ou ao hóspede ou ao descendente da família de alguém que reside entre vós,",
+      "reference": "Lv 25:47"
+    },
+    "48": {
+      "text": "gozará do direito de resgate, mesmo depois de vendido, e um dos seus irmãos poderá resgatá-lo.",
+      "reference": "Lv 25:48"
+    },
+    "49": {
+      "text": "O seu tio paterno poderá resgatá-lo, ou o seu primo, ou um dos membros da sua família; ou se conseguir recursos, poderá resgatar-se a si mesmo.",
+      "reference": "Lv 25:49"
+    },
+    "50": {
+      "text": "Ajustará com aquele que o comprou e fará a conta dos anos compreendidos entre o ano da venda e o ano do jubileu; o total do preço da venda será calculado segundo o número dos anos, contando-se-lhe os dias como os de um assalariado.",
+      "reference": "Lv 25:50"
+    },
+    "51": {
+      "text": "Se faltarem ainda muitos anos, pagará o valor do seu resgate de acordo com o número dos anos, isto é, uma parte do seu preço de venda.",
+      "reference": "Lv 25:51"
+    },
+    "52": {
+      "text": "Se restarem poucos anos até ao jubileu, será de acordo com a proporção dos anos que calculará o que deve pagar pelo seu resgate,",
+      "reference": "Lv 25:52"
+    },
+    "53": {
+      "text": "como se fosse assalariado contratado por ano. Não o tratarás com dureza, diante de ti. \\par",
+      "reference": "Lv 25:53"
+    },
+    "54": {
+      "text": "Se não for resgatado por nenhuma destas formas, será no ano do jubileu que sairá livre, tanto ele como os seus filhos com ele.",
+      "reference": "Lv 25:54"
+    },
+    "55": {
+      "text": "Pois é de mim que os filhos de Israel são servos; são servos meus que fiz sair da terra do Egito. Eu sou Iahweh vosso Deus. \\par",
+      "reference": "Lv 25:55"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 55
+}

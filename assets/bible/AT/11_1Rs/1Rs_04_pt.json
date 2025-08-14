@@ -1,0 +1,93 @@
+{
+  "book": 11,
+  "book_name": "1Reis",
+  "book_abbr": "1Rs",
+  "book_category": "Histórico",
+  "book_english": "1 Kings",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os principais chefes de Salomão\\par }O rei Salomão reinava sobre todo o Israel,",
+      "reference": "1Rs 4:1"
+    },
+    "2": {
+      "text": "e estes eram os seus principais chefes: \\par Azarias, filho de Sadoc, sacerdote. \\par",
+      "reference": "1Rs 4:2"
+    },
+    "3": {
+      "text": "Eliaf e Aías, filhos de Sisa, secretários. \\par Josafá, filho de Ailud, arauto. \\par",
+      "reference": "1Rs 4:3"
+    },
+    "4": {
+      "text": "Banaías, filho de Joiada, chefe do exército. \\par Sadoc e Abiatar, sacerdotes. \\par",
+      "reference": "1Rs 4:4"
+    },
+    "5": {
+      "text": "Azarias, filho de Natã, chefe dos prefeitos. \\par Zabud, filho de Natã, amigo do rei. \\par",
+      "reference": "1Rs 4:5"
+    },
+    "6": {
+      "text": "Aisar, prefeito do palácio. \\par Eliab, filho de Joab, chefe do exército. \\par Adoram, filho de Abda, chefe da corvéia. \\par",
+      "reference": "1Rs 4:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Os prefeitos de Salomão\\par }Salomão tinha doze prefeitos sobre todo Israel, que proviam o rei e sua casa; cada um cuidava do abastecimento durante um mês do ano. \\par",
+      "reference": "1Rs 4:7"
+    },
+    "8": {
+      "text": "Eis os seus nomes: \\par Filho de Hur, na montanha de Efraim. \\par",
+      "reference": "1Rs 4:8"
+    },
+    "9": {
+      "text": "Filho de Decar, em Maces, Salebim, Bet-Sames, Aialon, Bet-Hanã. \\par",
+      "reference": "1Rs 4:9"
+    },
+    "10": {
+      "text": "Filho de Hesed, em Arubot, ao qual pertencia Soco e toda a terra de Héfer. \\par",
+      "reference": "1Rs 4:10"
+    },
+    "11": {
+      "text": "Filho de Abinadab: todo o distrito de Dor. Era casado com Tabaat, filha de Salomão. \\par",
+      "reference": "1Rs 4:11"
+    },
+    "12": {
+      "text": "Baana, filho de Ailud, em Tanac e Meguido até além de Jecmaam e todo o Betsã abaixo de Jezrael, desde Betsã até Bet-Meula, perto de Sartã. \\par",
+      "reference": "1Rs 4:12"
+    },
+    "13": {
+      "text": "Filho de Gaber, em Ramot de Galaad; ele tinha as aldeias de Jair, filho de Manassés, que estão em Galaad; possuía também o território de Argob que está em Basã, sessenta grandes cidades, muradas e com ferrolhos de bronze. \\par",
+      "reference": "1Rs 4:13"
+    },
+    "14": {
+      "text": "Ainadab, filho de Ado, em Maanaim. \\par",
+      "reference": "1Rs 4:14"
+    },
+    "15": {
+      "text": "Aquimaás em Neftali, que também se casou com uma filha de Salomão, de nome Basemat. \\par",
+      "reference": "1Rs 4:15"
+    },
+    "16": {
+      "text": "Baana, filho de Husi, em Aser e nos rochedos. \\par",
+      "reference": "1Rs 4:16"
+    },
+    "17": {
+      "text": "Josafá, filho de Farué, em Issacar. \\par",
+      "reference": "1Rs 4:17"
+    },
+    "18": {
+      "text": "Semei, filho de Ela, em Benjamim. \\par",
+      "reference": "1Rs 4:18"
+    },
+    "19": {
+      "text": "Gaber, filho de Uri, na região de Gad, terra de Seon, rei dos amorreus, e de Og, rei de Basã. \\par Além deles, havia um prefeito que permanecia na terra. \\par",
+      "reference": "1Rs 4:19"
+    },
+    "20": {
+      "text": "{\\cf15 [Veja 5:5]}",
+      "reference": "1Rs 4:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

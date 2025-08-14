@@ -1,0 +1,101 @@
+{
+  "book": 71,
+  "book_name": "Baruc",
+  "book_abbr": "Br",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Baruch",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Introdução}\\par }{\\qc\\b\\i Baruc e a assembléia dos judeus em Babilônia\\par }Eis as palavras do livro, escritas em Babilônia por Baruc, filho de Nerias, filho de Maasias, filho de Sedecias, filho de Asadias, filho de Helcias,",
+      "reference": "Br 1:1"
+    },
+    "2": {
+      "text": "no quinto ano, no sétimo dia do mês, na época em que os caldeus tomaram Jerusalém e a fizeram passar pelo fogo. \\par",
+      "reference": "Br 1:2"
+    },
+    "3": {
+      "text": "Baruc fez a leitura das palavras deste livro na presença de Jeconias, filho de Joaquim, rei de Judá, e diante de todo o povo que acorrera a ouvir o livro:",
+      "reference": "Br 1:3"
+    },
+    "4": {
+      "text": "diante dos dignitários e dos príncipes, diante dos anciãos e de todo o povo, diante de todos os que residiam em Babilônia, às margens do rio Sud, do menor ao maior.",
+      "reference": "Br 1:4"
+    },
+    "5": {
+      "text": "E eles choraram e jejuaram, orando diante do Senhor.",
+      "reference": "Br 1:5"
+    },
+    "6": {
+      "text": "E fizeram uma coleta em dinheiro, segundo as posses de cada um,",
+      "reference": "Br 1:6"
+    },
+    "7": {
+      "text": "enviando-a depois a Jerusalém, ao sacerdote Joaquim, filho de Helcias, filho de Salom, bem como aos outros sacerdotes e a todo o povo que com ele se achava em Jerusalém.",
+      "reference": "Br 1:7"
+    },
+    "8": {
+      "text": "Foi então que Baruc recuperou os utensílios da casa do Senhor, arrebatados ao Templo, para mandá-los de volta à terra de Judá, no décimo dia do mês de Sivã. Eram os utensílios que tinham sido mandados fazer por Sedecias, filho de Josias, rei de Judá,",
+      "reference": "Br 1:8"
+    },
+    "9": {
+      "text": "depois de Nabucodonosor, rei de Babilônia, ter deportado Jeconias conduzindo-o de Jerusalém para Babilônia junto com os chefes, os serralheiros, os dignitários e o povo da terra. \\par",
+      "reference": "Br 1:9"
+    },
+    "10": {
+      "text": "Eis o que escreveram: Estamos enviando-vos dinheiro. Com o montante comprai vítimas para os holocaustos e oblações pelo pecado, além de incenso. Preparai as oferendas e apresentai-as sobre o altar do Senhor nosso Deus.",
+      "reference": "Br 1:10"
+    },
+    "11": {
+      "text": "Orai pela vida de Nabucodonosor, rei de Babilônia, bem como pela vida de Baltazar, seu filho, para que seus dias sobre a terra sejam como os dias do céu.",
+      "reference": "Br 1:11"
+    },
+    "12": {
+      "text": "E o Senhor nos dará força e iluminará nossos olhos, a fim de vivermos à sombra de Nabucodonosor, rei de Babilônia, e à sombra de Baltazar, seu filho, servindo-os por muitos dias, para encontrarmos graça diante deles.",
+      "reference": "Br 1:12"
+    },
+    "13": {
+      "text": "Rezai também por nós ao Senhor nosso Deus, porque pecamos contra o Senhor, nosso Deus, e até o dia de hoje o furor e a ira do Senhor não se afastaram de nós.",
+      "reference": "Br 1:13"
+    },
+    "14": {
+      "text": "Enfim, lede este livro que vos remetemos, para que façais sua leitura pública na casa do Senhor, no dia da Festa e nos dias oportunos.",
+      "reference": "Br 1:14"
+    },
+    "15": {
+      "text": "Eis o que direis: \\par \\par {\\qc\\b {\\i I. Oração dos exilados}\\par }\\par \\par {\\qc\\b\\i A confissão dos pecados\\par } Ao Senhor nosso Deus a justiça, mas a nós a vergonha no rosto, como acontece hoje. A nós, homens de Judá e habitantes de Jerusalém,",
+      "reference": "Br 1:15"
+    },
+    "16": {
+      "text": "aos nossos reis e chefes, aos nossos sacerdotes e profetas e aos nossos pais,",
+      "reference": "Br 1:16"
+    },
+    "17": {
+      "text": "porque pecamos diante do Senhor.",
+      "reference": "Br 1:17"
+    },
+    "18": {
+      "text": "Fomos desobedientes para com ele; não escutamos a voz do Senhor nosso Deus, para andarmos segundo os preceitos que o Senhor havia dado aos nossos olhos.",
+      "reference": "Br 1:18"
+    },
+    "19": {
+      "text": "Desde o dia em que o Senhor fez sair nossos pais da terra do Egito, até o dia de hoje, temos sido indóceis para com o Senhor nosso Deus e rebeldes, recusando-nos a ouvir sua voz.",
+      "reference": "Br 1:19"
+    },
+    "20": {
+      "text": "Por isso, como acontece hoje, acompanham-nos as desgraças e a maldição que o Senhor anunciou a seu servo Moisés, no dia em que fez sair do Egito nossos pais a fim de nos dar uma terra que mana leite e mel.",
+      "reference": "Br 1:20"
+    },
+    "21": {
+      "text": "Não escutamos a voz do Senhor nosso Deus, segundo todas as palavras dos profetas que nos enviou;",
+      "reference": "Br 1:21"
+    },
+    "22": {
+      "text": "mas nos entregamos, cada um seguindo o pendor do seu perverso coração, a servir outros deuses, fazendo o que é mau aos olhos do Senhor nosso Deus. \\par",
+      "reference": "Br 1:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

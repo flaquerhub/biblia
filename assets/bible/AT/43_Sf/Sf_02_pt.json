@@ -1,0 +1,73 @@
+{
+  "book": 36,
+  "book_name": "Sofonias",
+  "book_abbr": "Sf",
+  "book_category": "Profético",
+  "book_english": "Zephaniah",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Conclusão: apelo à conversão\\par }Amontoai-vos, amontoai-vos, \\par ó nação, não tenhas vergonha, \\par",
+      "reference": "Sf 2:1"
+    },
+    "2": {
+      "text": "antes que sejais espalhados, \\par como a palha que desaparece em um dia, \\par antes que venha sobre vós \\par a ardente ira de Iahweh \\par (antes que venha sobre vós \\par o dia da ira de Iahweh). \\par",
+      "reference": "Sf 2:2"
+    },
+    "3": {
+      "text": "Procurai a Iahweh \\par vós todos, os pobres da terra, \\par que realizais a sua ordem. \\par Procurai a justiça, \\par procurai a pobreza: \\par talvez sejais protegidos \\par no dia da ira de Iahweh. \\par",
+      "reference": "Sf 2:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b {\\i II. Contra as nações}\\par }{\\qc\\b\\i Inimigo no ocidente: os filisteus\\par }Sim, Gaza será abandonada, \\par Ascalon será um deserto. \\par Azoto, em pleno meio-dia, será expulsa, \\par Acaron será desarraigada. \\par",
+      "reference": "Sf 2:4"
+    },
+    "5": {
+      "text": "Ai dos habitantes da liga do mar, \\par da nação dos cereteus! \\par A palavra de Iahweh contra vós: \\par “Canaã, terra dos filisteus, \\par eu te destruirei até que não haja mais habitante!” \\par",
+      "reference": "Sf 2:5"
+    },
+    "6": {
+      "text": "A liga do mar será transformada em pastagens, \\par em prado para os pastores \\par e em aprisco para as ovelhas. \\par",
+      "reference": "Sf 2:6"
+    },
+    "7": {
+      "text": "E a liga pertencerá \\par ao resto da casa de Judá; \\par ali eles apascentarão, \\par à tarde repousarão nas casas de Ascalon: \\par porque Iahweh, o seu Deus, os visitará \\par e mudará o seu destino. \\par",
+      "reference": "Sf 2:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Inimigo no oriente: Moab e Amon\\par }Eu ouvi o insulto de Moab \\par e os sarcasmos dos filhos de Amon, \\par quando insultaram o meu povo \\par e se vangloriaram por causa de seu território. \\par",
+      "reference": "Sf 2:8"
+    },
+    "9": {
+      "text": "Por isso, por minha vida, oráculo de Iahweh dos Exércitos, \\par Deus de Israel: \\par “Sim, Moab será como Sodoma, \\par e os filhos de Amon como Gomorra: \\par um terreno de cardos, um montão de sal, \\par um deserto para sempre. \\par O resto do meu povo os saqueará, \\par e o que sobrar de minha nação será o seu herdeiro”. \\par",
+      "reference": "Sf 2:9"
+    },
+    "10": {
+      "text": "Isto lhes acontecerá por causa do seu orgulho, \\par porque lançaram insultos e se vangloriaram \\par contra o povo de Iahweh dos Exércitos. \\par",
+      "reference": "Sf 2:10"
+    },
+    "11": {
+      "text": "Iahweh será terrível contra eles! \\par Quando ele suprimir todos os deuses da terra, \\par prostrar-se-ão diante dele, \\par cada uma em seu lugar, \\par todas as ilhas das nações. \\par",
+      "reference": "Sf 2:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Inimigo no sul: a Etiópia\\par }Vós, também, etíopes: \\par “Eles serão os traspassados pela minha espada”. \\par",
+      "reference": "Sf 2:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Inimigo ao norte: Assíria\\par }Ele estenderá a sua mão contra o Norte \\par e destruirá a Assíria; \\par fará de Nínive uma devastação, \\par uma terra árida como o deserto. \\par",
+      "reference": "Sf 2:13"
+    },
+    "14": {
+      "text": "Em seu seio repousarão os rebanhos, \\par animais de toda a espécie, \\par até o pelicano, até o ouriço \\par passarão a noite entre os seus capitéis, \\par a coruja gritará na janela, \\par e o corvo na soleira, \\par porque o cedro foi arrancado. \\par",
+      "reference": "Sf 2:14"
+    },
+    "15": {
+      "text": "Esta é a cidade alegre \\par que habitava em segurança, \\par que dizia em seu coração: \\par “Eu e mais ninguém!” \\par Como se tornou desolação, \\par um abrigo para animais selvagens? \\par Quem passa por ela assobia, \\par agita a mão. \\par",
+      "reference": "Sf 2:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

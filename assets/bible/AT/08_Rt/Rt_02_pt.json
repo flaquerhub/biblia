@@ -1,0 +1,105 @@
+{
+  "book": 8,
+  "book_name": "Rute",
+  "book_abbr": "Rt",
+  "book_category": "Histórico",
+  "book_english": "Ruth",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b RUTE NOS CAMPOS DE BOOZ\\par }Noemi tinha um parente por parte de seu marido, pessoa importante, do clã de Elimelec, cujo nome era Booz. \\par",
+      "reference": "Rt 2:1"
+    },
+    "2": {
+      "text": "Rute, a moabita, disse a Noemi: “Permite que eu vá ao campo respigar atrás daquele que me acolher favoravelmente”. Ela lhe respondeu: “Vai, minha filha”.",
+      "reference": "Rt 2:2"
+    },
+    "3": {
+      "text": "Ela partiu, pois, foi respigar no campo atrás dos segadores. Por felicidade, entrou ela na parte do campo pertencente a Booz, do clã de Elimelec.",
+      "reference": "Rt 2:3"
+    },
+    "4": {
+      "text": "Naquele momento, Booz estava chegando de Belém e disse aos segadores: “Que Iahweh esteja convosco!”, e eles responderam-lhe: “Que Iahweh te abençoe!”",
+      "reference": "Rt 2:4"
+    },
+    "5": {
+      "text": "Booz perguntou depois ao seu servo, o feitor dos segadores: “De quem é esta jovem?”",
+      "reference": "Rt 2:5"
+    },
+    "6": {
+      "text": "E o servo, feitor dos segadores, respondeu: “Esta jovem é a moabita, que voltou com Noemi dos Campos de Moab.",
+      "reference": "Rt 2:6"
+    },
+    "7": {
+      "text": "Ela pediu: ‘Permiti que eu respigue e recolha entre os feixes de trigo atrás dos segadores’. Veio, pois, e ficou: desde cedo até agora ela não descansou senão um pouco no abrigo”. \\par",
+      "reference": "Rt 2:7"
+    },
+    "8": {
+      "text": "Booz disse a Rute: “Estás ouvindo, minha filha? Não vás respigar noutro campo, não te afastes daqui, mas fica na companhia das minhas criadas.",
+      "reference": "Rt 2:8"
+    },
+    "9": {
+      "text": "Observa o terreno que os homens estiverem ceifando e vai atrás deles. Acaso não ordenei aos servos para não te molestarem? Quando tiveres sede, vai procurar os cântaros e bebe da água que os servos tiverem buscado”.",
+      "reference": "Rt 2:9"
+    },
+    "10": {
+      "text": "Então Rute, caindo com o rosto em terra, prostrou-se e disse-lhe: “Por que encontrei favor a teus olhos, de modo que te tenhas interessado por mim, que não passo de uma estrangeira?”",
+      "reference": "Rt 2:10"
+    },
+    "11": {
+      "text": "Em resposta, Booz lhe disse: “Foi-me contado tudo o que fizeste por tua sogra após a morte do teu marido, e como deixaste pai e mãe e tua terra natal para vires morar no meio de um povo que antes não conhecias.",
+      "reference": "Rt 2:11"
+    },
+    "12": {
+      "text": "Que Iahweh te retribua o que fizeste e que recebas uma farta recompensa da parte de Iahweh, Deus de Israel, sob cujas asas vieste buscar refúgio!”",
+      "reference": "Rt 2:12"
+    },
+    "13": {
+      "text": "Ela respondeu: “Possa eu ser bem acolhida por ti, meu senhor! Pois me confortaste e falaste benignamente à tua serva, embora eu não seja sequer como uma de tuas servas”. \\par",
+      "reference": "Rt 2:13"
+    },
+    "14": {
+      "text": "Na hora da refeição, Booz disse a Rute: “Vem cá, come deste pão e molha teu bocado no vinagre”. Ela sentou-se junto aos segadores e Booz também lhe fez uma polenta de grão torrado. Depois de ter comido à vontade, ainda sobrou.",
+      "reference": "Rt 2:14"
+    },
+    "15": {
+      "text": "E quando ela se levantou para respigar, Booz ordenou a seus servos: “Deixai-a a respigar também entre os feixes e não a molesteis.",
+      "reference": "Rt 2:15"
+    },
+    "16": {
+      "text": "E cuidai também que caiam algumas espigas de vossos feixes, e deixai-as para que ela as ajunte e não a censureis”.",
+      "reference": "Rt 2:16"
+    },
+    "17": {
+      "text": "Rute respigou no campo até à tarde, e depois bateu as espigas que tinha colhido; deu quase um almude de cevada. \\par",
+      "reference": "Rt 2:17"
+    },
+    "18": {
+      "text": "Ela carregou-o e voltou para a cidade, e sua sogra viu o que ela tinha recolhido; Rute tirou e deu-lhe o que guardara depois de ter comido à vontade.",
+      "reference": "Rt 2:18"
+    },
+    "19": {
+      "text": "Perguntou-lhe a sogra: “Onde respigaste hoje, onde trabalhaste? Bendito aquele que por ti se interessou!” Rute contou à sua sogra com quem tinha trabalhado; ela disse: “O homem com quem trabalhei hoje chama-se Booz”.",
+      "reference": "Rt 2:19"
+    },
+    "20": {
+      "text": "Noemi disse à sua nora: “Que ele seja abençoado por Iahweh, que não cessa de usar de misericórdia para com os vivos e os mortos!” E acrescentou: “Esse homem é nosso parente próximo, é um dos que têm sobre nós direito de resgate”.",
+      "reference": "Rt 2:20"
+    },
+    "21": {
+      "text": "Rute, a moabita, disse: “Ele me falou também: Fica com meus servos até que terminem toda a colheita”.",
+      "reference": "Rt 2:21"
+    },
+    "22": {
+      "text": "E Noemi respondeu a Rute, sua nora: “É bom, minha filha, que estejas na companhia de suas servas, pois assim não te maltratarão num outro campo”.",
+      "reference": "Rt 2:22"
+    },
+    "23": {
+      "text": "Assim ficou ela no meio das servas de Booz, respigando até o fim da colheita da cevada e do trigo. E morava com sua sogra. \\par",
+      "reference": "Rt 2:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

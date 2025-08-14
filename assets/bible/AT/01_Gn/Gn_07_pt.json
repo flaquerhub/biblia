@@ -1,0 +1,109 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Iahweh disse a Noé: “Entra na arca, tu e toda a tua família, porque és o único justo que vejo diante de mim no meio desta geração.",
+      "reference": "Gn 7:1"
+    },
+    "2": {
+      "text": "De todos os animais puros, tomarás sete pares, o macho e sua fêmea; dos animais que não são puros, tomarás um casal, o macho e sua fêmea",
+      "reference": "Gn 7:2"
+    },
+    "3": {
+      "text": "(e também das aves do céu, sete pares, o macho e sua fêmea), para perpetuarem a raça sobre toda a terra.",
+      "reference": "Gn 7:3"
+    },
+    "4": {
+      "text": "Porque, daqui a sete dias, farei chover sobre a terra durante quarenta dias e quarenta noites, e farei desaparecer da superfície do solo todos os seres que eu fiz”.",
+      "reference": "Gn 7:4"
+    },
+    "5": {
+      "text": "Noé fez tudo o que Iahweh lhe ordenara. \\par",
+      "reference": "Gn 7:5"
+    },
+    "6": {
+      "text": "Noé tinha seiscentos anos quando veio o dilúvio, as águas sobre a terra. \\par",
+      "reference": "Gn 7:6"
+    },
+    "7": {
+      "text": "Noé – com seus filhos, sua mulher e as mulheres de seus filhos – entrou na arca para escapar das águas do dilúvio.",
+      "reference": "Gn 7:7"
+    },
+    "8": {
+      "text": "(Dos animais puros e dos animais que não são puros, das aves e de tudo o que rasteja sobre o solo,",
+      "reference": "Gn 7:8"
+    },
+    "9": {
+      "text": "um casal entrou na arca de Noé, um macho e uma fêmea, como Deus ordenara a Noé.)",
+      "reference": "Gn 7:9"
+    },
+    "10": {
+      "text": "Passados sete dias chegaram as águas do dilúvio sobre a terra. \\par",
+      "reference": "Gn 7:10"
+    },
+    "11": {
+      "text": "No ano seiscentos da vida de Noé, no segundo mês, no décimo sétimo dia do segundo mês, nesse dia jorraram todas as fontes do grande abismo e abriram-se as comportas do céu.",
+      "reference": "Gn 7:11"
+    },
+    "12": {
+      "text": "A chuva caiu sobre a terra durante quarenta dias e quarenta noites. \\par",
+      "reference": "Gn 7:12"
+    },
+    "13": {
+      "text": "Nesse mesmo dia, Noé e seus filhos, Sem, Cam e Jafé, com a mulher de Noé, e as três mulheres de seus filhos, entraram na arca,",
+      "reference": "Gn 7:13"
+    },
+    "14": {
+      "text": "e com eles as feras de toda espécie, os animais domésticos de toda espécie, os répteis de toda espécie que rastejam sobre a terra, os pássaros de toda espécie, todas as aves, tudo o que tem asas.",
+      "reference": "Gn 7:14"
+    },
+    "15": {
+      "text": "Com Noé, entrou na arca um casal de tudo o que é carne, que tem sopro de vida,",
+      "reference": "Gn 7:15"
+    },
+    "16": {
+      "text": "e os que entraram eram um macho e uma fêmea de tudo o que é carne, conforme Deus lhe ordenara.\\par E Iahweh fechou a porta por fora. \\par",
+      "reference": "Gn 7:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i A inundação\\par }Durante quarenta dias houve o dilúvio sobre a terra; cresceram as águas e ergueram a arca, que ficou elevada acima da terra.",
+      "reference": "Gn 7:17"
+    },
+    "18": {
+      "text": "As águas subiram e cresceram muito sobre a terra e a arca flutuava sobre as águas.",
+      "reference": "Gn 7:18"
+    },
+    "19": {
+      "text": "As águas subiram cada vez mais sobre a terra e as mais altas montanhas que estão sob todo o céu foram cobertas.",
+      "reference": "Gn 7:19"
+    },
+    "20": {
+      "text": "As águas subiram quinze côvados mais alto, cobrindo as montanhas.",
+      "reference": "Gn 7:20"
+    },
+    "21": {
+      "text": "Pereceu então toda carne que se move sobre a terra: aves, animais domésticos, feras, tudo o que fervilha sobre a terra, e todos os homens.",
+      "reference": "Gn 7:21"
+    },
+    "22": {
+      "text": "Morreu tudo o que tinha um sopro de vida nas narinas. Isto é, tudo o que estava em terra firme.",
+      "reference": "Gn 7:22"
+    },
+    "23": {
+      "text": "Assim desapareceram todos os seres que estavam na superfície do solo, desde o homem até os animais, os répteis e as aves do céu: eles foram extintos da terra; ficou somente Noé e os que estavam com ele na arca.",
+      "reference": "Gn 7:23"
+    },
+    "24": {
+      "text": "A enchente sobre a terra durou cento e cinqüenta dias. \\par",
+      "reference": "Gn 7:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

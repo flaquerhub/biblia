@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 75,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 75 (74)\\par }{\\qc\\b\\i Julgamento total e universal\\par }{\\qc\\i Do mestre de canto. “Não destruas”. Salmo. De Asaf. Cântico. \\par }",
+      "reference": "Sl 75:1"
+    },
+    "2": {
+      "text": "Nós te celebramos, ó Deus, nós te celebramos, \\par invocando teu nome, contando as tuas maravilhas. \\par",
+      "reference": "Sl 75:2"
+    },
+    "3": {
+      "text": "“No momento que eu tiver decidido, \\par eu próprio vou julgar com retidão; \\par",
+      "reference": "Sl 75:3"
+    },
+    "4": {
+      "text": "trema a terra e seus habitantes todos; \\par eu mesmo firmei suas colunas. \\par",
+      "reference": "Sl 75:4"
+    },
+    "5": {
+      "text": "Eu disse aos arrogantes: Não sejais arrogantes! \\par e aos ímpios: Não levanteis a fronte, \\par",
+      "reference": "Sl 75:5"
+    },
+    "6": {
+      "text": "não levanteis altivamente a vossa fronte, \\par não faleis retesando a nuca”. \\par",
+      "reference": "Sl 75:6"
+    },
+    "7": {
+      "text": "Porque não é do nascente nem do poente, \\par nem do deserto nem das montanhas \\par",
+      "reference": "Sl 75:7"
+    },
+    "8": {
+      "text": "que Deus vem como juiz. \\par A um ele abaixa, a outro eleva, \\par",
+      "reference": "Sl 75:8"
+    },
+    "9": {
+      "text": "pois na mão de Iahweh há uma taça \\par cujo vinho espuma, cheio de mistura; \\par ele o derramará, até às escorias o sugarão, \\par e todos os ímpios da terra o sorverão. \\par",
+      "reference": "Sl 75:9"
+    },
+    "10": {
+      "text": "Quanto a mim, vou anunciar para sempre, \\par vou tocar para o Deus de Jacó. \\par",
+      "reference": "Sl 75:10"
+    },
+    "11": {
+      "text": "Vou quebrar a fronte de todos os ímpios, \\par e a fronte do justo se levantará. \\par",
+      "reference": "Sl 75:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

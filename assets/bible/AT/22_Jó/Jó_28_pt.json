@@ -1,0 +1,125 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 4. ELOGIO DA SABEDORIA\\par }{\\qc\\b\\i A sabedoria é inacessível ao homem\\par }A prata tem as minas, \\par o ouro, um lugar onde é depurado. \\par",
+      "reference": "Jó 28:1"
+    },
+    "2": {
+      "text": "O ferro extrai-se da terra, \\par ao fundir-se a pedra, sai o bronze. \\par",
+      "reference": "Jó 28:2"
+    },
+    "3": {
+      "text": "Impõe-se um limite às trevas, \\par sonda-se até o extremo limite \\par a pedra escura e sombria. \\par",
+      "reference": "Jó 28:3"
+    },
+    "4": {
+      "text": "Estrangeiros perfuram as grutas \\par em lugares não freqüentados, \\par e suspensos balançam longe dos homens. \\par",
+      "reference": "Jó 28:4"
+    },
+    "5": {
+      "text": "A terra, que produz o pão, \\par por baixo é devorada pelo fogo. \\par",
+      "reference": "Jó 28:5"
+    },
+    "6": {
+      "text": "Suas pedras são jazidas de safiras, \\par seus torrões encerram pepitas de ouro. \\par",
+      "reference": "Jó 28:6"
+    },
+    "7": {
+      "text": "Tais veredas não as conhece o abutre, \\par nem as divisa o olho do falcão; \\par",
+      "reference": "Jó 28:7"
+    },
+    "8": {
+      "text": "não as percorrem as feras arrogantes, \\par nem as atravessa o leão. \\par",
+      "reference": "Jó 28:8"
+    },
+    "9": {
+      "text": "O homem lança mão da pederneira, \\par desarraiga as montanhas pela raiz. \\par",
+      "reference": "Jó 28:9"
+    },
+    "10": {
+      "text": "Na rocha abre galerias, \\par o olhar atento a tudo o que é precioso. \\par",
+      "reference": "Jó 28:10"
+    },
+    "11": {
+      "text": "Explora as nascentes dos rios \\par e traz à luz o que está oculto. \\par",
+      "reference": "Jó 28:11"
+    },
+    "12": {
+      "text": "Mas a Sabedoria, donde provém ela? \\par Onde está o lugar da Inteligência? \\par",
+      "reference": "Jó 28:12"
+    },
+    "13": {
+      "text": "O homem não lhe conhece o caminho, \\par nem se encontra na terra dos mortais. \\par",
+      "reference": "Jó 28:13"
+    },
+    "14": {
+      "text": "Diz o Abismo: “Não está em mim”, \\par responde o Mar: “Não está comigo”. \\par",
+      "reference": "Jó 28:14"
+    },
+    "15": {
+      "text": "Não se compra com o ouro mais fino, \\par nem se troca a peso de prata, \\par",
+      "reference": "Jó 28:15"
+    },
+    "16": {
+      "text": "não se paga com ouro de Ofir, \\par com ônix precioso ou safiras. \\par",
+      "reference": "Jó 28:16"
+    },
+    "17": {
+      "text": "Não a igualam o ouro, nem o vidro, \\par não se paga com vasos de ouro fino. \\par",
+      "reference": "Jó 28:17"
+    },
+    "18": {
+      "text": "Quanto ao coral e ao cristal, nem falar! \\par É melhor pescar a Sabedoria do que as pérolas. \\par",
+      "reference": "Jó 28:18"
+    },
+    "19": {
+      "text": "Não se iguala ao topázio de Cuch, \\par nem se compra com o ouro mais puro. \\par",
+      "reference": "Jó 28:19"
+    },
+    "20": {
+      "text": "Donde vem, pois, a Sabedoria? \\par Onde está o lugar da Inteligência? \\par",
+      "reference": "Jó 28:20"
+    },
+    "21": {
+      "text": "Está oculta aos olhos dos mortais \\par e até às aves do céu está escondida. \\par",
+      "reference": "Jó 28:21"
+    },
+    "22": {
+      "text": "A Perdição e a Morte confessam: \\par “O rumor de sua fama chegou até nós”. \\par",
+      "reference": "Jó 28:22"
+    },
+    "23": {
+      "text": "Só Deus conhece o caminho para ela, \\par só ele sabe o seu lugar. \\par",
+      "reference": "Jó 28:23"
+    },
+    "24": {
+      "text": "(Pois contempla os limites do orbe \\par e vê quanto há debaixo do céu.) \\par",
+      "reference": "Jó 28:24"
+    },
+    "25": {
+      "text": "Quando assinalou seu peso ao vento \\par e regulou a medida das águas, \\par",
+      "reference": "Jó 28:25"
+    },
+    "26": {
+      "text": "quando impôs uma lei à chuva \\par e uma rota para o relâmpago e o trovão, \\par",
+      "reference": "Jó 28:26"
+    },
+    "27": {
+      "text": "ele a viu e avaliou, \\par penetrou-a e examinou-a. \\par",
+      "reference": "Jó 28:27"
+    },
+    "28": {
+      "text": "E disse ao homem: \\par “O temor do Senhor, eis a Sabedoria; \\par fugir do mal, eis a Inteligência”. \\par",
+      "reference": "Jó 28:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

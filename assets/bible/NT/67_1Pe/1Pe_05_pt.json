@@ -1,0 +1,69 @@
+{
+  "book": 60,
+  "book_name": "1Pedro",
+  "book_abbr": "1Pe",
+  "book_category": "Epístolas Gerais",
+  "book_english": "1 Peter",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Admoestações: aos presbíteros\\par }Aos presbíteros que estão entre vós, exorto eu, que sou presbítero como eles e testemunha dos sofrimentos de Cristo e participante da glória que há de ser revelada.",
+      "reference": "1Pe 5:1"
+    },
+    "2": {
+      "text": "Apascentai o rebanho de Deus que vos foi confiado, cuidando dele, não como por coação, mas de livre vontade, como Deus o quer, nem por torpe ganância, mas por devoção,",
+      "reference": "1Pe 5:2"
+    },
+    "3": {
+      "text": "nem como senhores daqueles que vos couberam por sorte, mas, antes, como modelos do rebanho.",
+      "reference": "1Pe 5:3"
+    },
+    "4": {
+      "text": "Assim, quando aparecer o supremo pastor, recebereis a coroa imarcescível da glória. \\par",
+      "reference": "1Pe 5:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Aos fiéis\\par }Do mesmo modo, vós, jovens, sujeitai-vos aos anciãos. Revesti-vos todos de humildade em vossas relações mútuas, \\par {\\i porque Deus resiste aos soberbos, \\par mas dá graça aos humildes.}\\par",
+      "reference": "1Pe 5:5"
+    },
+    "6": {
+      "text": "Humilhai-vos sob a poderosa mão de Deus, para que na ocasião própria vos exalte;",
+      "reference": "1Pe 5:6"
+    },
+    "7": {
+      "text": "{\\i lançai sobre ele toda a vossa preocupação, porque é ele que cuida de vós.}",
+      "reference": "1Pe 5:7"
+    },
+    "8": {
+      "text": "Sede sóbrios e vigilantes! Eis que o vosso adversário, o diabo, vos rodeia como um leão a rugir, procurando a quem devorar.",
+      "reference": "1Pe 5:8"
+    },
+    "9": {
+      "text": "Resisti-lhe, firmes na fé, sabendo que a mesma espécie de sofrimento atinge os vossos irmãos espalhados pelo mundo.",
+      "reference": "1Pe 5:9"
+    },
+    "10": {
+      "text": "Depois de terdes sofrido um pouco, o Deus de toda a graça, aquele que vos chamou para a sua glória eterna em Cristo, vos restaurará, vos firmará, vos fortalecerá e vos tornará inabaláveis.",
+      "reference": "1Pe 5:10"
+    },
+    "11": {
+      "text": "A ele seja todo o poder pelos séculos dos séculos! Amém. \\par",
+      "reference": "1Pe 5:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Último aviso. Saudações\\par }Por Silvano, que eu considero irmão fiel, vos escrevi em poucas palavras, exortando-vos e testificando que esta é a verdadeira graça de Deus, na qual deveis permanecer firmes. \\par",
+      "reference": "1Pe 5:12"
+    },
+    "13": {
+      "text": "A que está em Babilônia, eleita como vós, vos saúda, como também Marcos, o meu filho. \\par",
+      "reference": "1Pe 5:13"
+    },
+    "14": {
+      "text": "Saudai-vos uns aos outros com o ósculo da caridade. A paz esteja com todos vós os que estais em Cristo! \\par",
+      "reference": "1Pe 5:14"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 14
+}

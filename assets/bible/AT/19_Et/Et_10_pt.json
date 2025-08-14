@@ -1,0 +1,25 @@
+{
+  "book": 17,
+  "book_name": "Ester",
+  "book_abbr": "Et",
+  "book_category": "Histórico",
+  "book_english": "Esther",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Elogio de Mardoqueu\\par }O rei Assuero impôs tributo sobre o continente e as ilhas do mar.",
+      "reference": "Et 10:1"
+    },
+    "2": {
+      "text": "Todos os seus atos de poder e de valor, bem como o relato da grandeza de Mardoqueu, a quem havia exaltado, tudo isso está consignado no livro das Crônicas dos reis dos medos e dos persas. \\par",
+      "reference": "Et 10:2"
+    },
+    "3": {
+      "text": "Pois o judeu Mardoqueu era o primeiro depois do rei Assuero. Era um homem considerado pelos judeus e amado pela multidão de seus irmãos, pois procurava o bem de seu povo e preocupava-se com a felicidade de sua raça. \\par {\\super (3a)} {\\i E disse Mardoqueu: “Tudo isto vem de Deus! } {\\super (3b)} {\\i Se recordo o sonho que tive a esse respeito, nada foi omitido: } {\\super (3c)} {\\i nem a pequena fonte que se converteu em rio, nem a luz que brilha, nem o sol, nem a abundância das águas. Ester é esse rio, ela que se casou com o rei, que a fez rainha. } {\\super (3d)} {\\i Os dois dragões somos Amã e eu. } {\\super (3e)} {\\i Os povos são aqueles que se coligaram para destruir os judeus. } {\\super (3f)} {\\i Meu povo é Israel, aqueles que invocaram a Deus e foram salvos. Sim, o Senhor salvou o seu povo, o Senhor nos arrebatou de todos esses males. Deus realizou prodígios e maravilhas como jamais houve entre as nações. } {\\super (3g)} {\\i Por isso estabeleceu dois destinos: um em favor de seu povo, outro para as nações. } {\\super (3h)} {\\i Esses destinos se realizaram na terra, no tempo e no dia determinados segundo seus desígnios e diante de todos os povos. } {\\super (3i)} {\\i Deus se recordou do seu povo, fez justiça à sua herança } {\\super (3j)} {\\i para que esses dias, o décimo quarto e o décimo quinto do mês de Adar, sejam doravante dias de assembléia, de regozijo e alegria diante de Deus, para todas as gerações e perpetuamente, em Israel, seu povo”.}\\par \\par {\\qc\\b\\i Nota sobre a tradução grega do livro\\par } {\\super (3k)} {\\i No quarto ano de Ptolomeu e de Cleópatra, Dositeu, que se dizia sacerdote e levita, assim como seu filho Ptolomeu, trouxeram a presente carta concernente aos Purim. Eles a deram como autêntica e traduzida por Lisímaco, filho de Ptolomeu, da comunidade de Jerusalém.} \\par",
+      "reference": "Et 10:3"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 3
+}

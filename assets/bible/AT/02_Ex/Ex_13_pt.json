@@ -1,0 +1,101 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os primogênitos\\par }Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 13:1"
+    },
+    "2": {
+      "text": "“Consagra-me todo primogênito, todo o que abre o útero materno, entre os filhos de Israel. Homem ou animal, será meu”. \\par",
+      "reference": "Ex 13:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Os Ázimos\\par }Moisés disse ao povo: “Lembrai-vos deste dia, em que saístes do Egito, da casa da escravidão; pois com mão forte Iahweh vos tirou de lá; e, por isso, não comereis pão fermentado.",
+      "reference": "Ex 13:3"
+    },
+    "4": {
+      "text": "Hoje é o mês de Abib, e estais saindo.",
+      "reference": "Ex 13:4"
+    },
+    "5": {
+      "text": "Quando Iahweh te houver introduzido na terra dos cananeus, dos heteus, dos amorreus, dos heveus e dos jebuseus, que jurou a teus pais te dar, terra que mana leite e mel, guardarás este rito neste mês.",
+      "reference": "Ex 13:5"
+    },
+    "6": {
+      "text": "Comerás pães ázimos durante sete dias, e no sétimo dia haverá uma festa para Iahweh.",
+      "reference": "Ex 13:6"
+    },
+    "7": {
+      "text": "Durante sete dias comer-se-ão pães ázimos; não haverá em tua casa nada de fermentado, nem em todo o teu território.",
+      "reference": "Ex 13:7"
+    },
+    "8": {
+      "text": "Naquele dia, assim falarás a teu filho: ‘Eis o que Iahweh fez por mim, quando saí do Egito’.",
+      "reference": "Ex 13:8"
+    },
+    "9": {
+      "text": "E será como sinal na tua mão, um memorial entre os teus olhos, para que a lei de Iahweh esteja na tua boca; pois Iahweh te tirou do Egito com mão forte.",
+      "reference": "Ex 13:9"
+    },
+    "10": {
+      "text": "Observarás esta lei no tempo determinado, de ano em ano. \\par",
+      "reference": "Ex 13:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Os primogênitos\\par }Quando Iahweh te houver introduzido na terra dos cananeus, como jurou a ti e a teus pais, quando ta tiver dado,",
+      "reference": "Ex 13:11"
+    },
+    "12": {
+      "text": "apartarás para Iahweh todo ser que sair por primeiro do útero materno, e todo primogênito dos animais que tiveres: os machos serão para Iahweh.",
+      "reference": "Ex 13:12"
+    },
+    "13": {
+      "text": "Todo primogênito da jumenta, porém, tu o resgatarás com um cordeiro; se não o resgatares, tu lhe quebrarás a nuca; mas todo primogênito do homem, entre teus filhos, tu o resgatarás.",
+      "reference": "Ex 13:13"
+    },
+    "14": {
+      "text": "E quando amanhã o teu filho te perguntar: ‘Que é isso?’, responder-lhe-ás: ‘Iahweh tirou-nos do Egito, da casa da escravidão, com mão forte.",
+      "reference": "Ex 13:14"
+    },
+    "15": {
+      "text": "Pois tendo-se obstinado Faraó e não querendo deixar-nos partir, Iahweh matou todos os primogênitos na terra do Egito, desde o primogênito do homem até o primogênito dos animais. É por isso que sacrifico a Iahweh todo macho que sai por primeiro do útero materno e resgato todo primogênito de meus filhos’.",
+      "reference": "Ex 13:15"
+    },
+    "16": {
+      "text": "Isto será, pois, como um sinal na tua mão e como um frontal entre os teus olhos, porque Iahweh nos tirou do Egito com mão forte”. \\par",
+      "reference": "Ex 13:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b 4. A SAÍDA DO EGITO\\par }{\\qc\\b\\i A saída dos israelitas\\par }Ora, quando Faraó deixou o povo partir, Deus não o fez ir pelo caminho no país dos filisteus, apesar de ser mais perto, porque Deus achara que diante dos combates o povo poderia se arrepender e voltar para o Egito.",
+      "reference": "Ex 13:17"
+    },
+    "18": {
+      "text": "Deus, então, fez o povo dar a volta pelo caminho do deserto do mar dos Juncos; e os filhos de Israel saíram bem armados do Egito.",
+      "reference": "Ex 13:18"
+    },
+    "19": {
+      "text": "Moisés levou consigo os ossos de José, pois havia este feito os filhos de Israel jurar solenemente, dizendo: “Deus haverá de vos visitar, e então levai daqui convosco os meus ossos”. \\par",
+      "reference": "Ex 13:19"
+    },
+    "20": {
+      "text": "E, tendo saído de Sucot, acamparam-se em Etam, à entrada do deserto. \\par",
+      "reference": "Ex 13:20"
+    },
+    "21": {
+      "text": "E Iahweh ia adiante deles, de dia numa coluna de nuvem, para lhes mostrar o caminho, e de noite numa coluna de fogo, para os alumiar, a fim de que caminhassem de dia e de noite.",
+      "reference": "Ex 13:21"
+    },
+    "22": {
+      "text": "Nunca se retirou de diante do povo a coluna de nuvem durante o dia, nem a coluna de fogo, durante a noite. \\par",
+      "reference": "Ex 13:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

@@ -1,0 +1,221 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Nascimento de Jesus e visita dos pastores\\par }Naqueles dias, apareceu um edito de César Augusto, ordenando o recenseamento de todo o mundo habitado.",
+      "reference": "Lc 2:1"
+    },
+    "2": {
+      "text": "Esse recenseamento foi o primeiro enquanto Quirino era governador da Síria.",
+      "reference": "Lc 2:2"
+    },
+    "3": {
+      "text": "E todos iam se alistar, cada um na própria cidade.",
+      "reference": "Lc 2:3"
+    },
+    "4": {
+      "text": "Também José subiu da cidade de Nazaré, na Galiléia, para a Judéia, na cidade de Davi, chamada Belém, por ser da casa e da família de Davi,",
+      "reference": "Lc 2:4"
+    },
+    "5": {
+      "text": "para se inscrever com Maria, sua mulher, que estava grávida.",
+      "reference": "Lc 2:5"
+    },
+    "6": {
+      "text": "Enquanto lá estavam, completaram-se os dias do parto,",
+      "reference": "Lc 2:6"
+    },
+    "7": {
+      "text": "e ela deu à luz o seu filho primogênito, envolveu-o com faixas e reclinou-o numa manjedoura, porque não havia um lugar para eles na sala. \\par",
+      "reference": "Lc 2:7"
+    },
+    "8": {
+      "text": "Na mesma região havia uns pastores que estavam nos campos e que durante as vigílias da noite montavam guarda a seu rebanho.",
+      "reference": "Lc 2:8"
+    },
+    "9": {
+      "text": "O Anjo do Senhor apareceu-lhes e a glória do Senhor envolveu-os de luz; e ficaram tomados de grande temor.",
+      "reference": "Lc 2:9"
+    },
+    "10": {
+      "text": "O anjo, porém, disse-lhes: “Não temais! Eis que eu vos anuncio uma grande alegria, que será para todo o povo:",
+      "reference": "Lc 2:10"
+    },
+    "11": {
+      "text": "Nasceu-vos hoje um Salvador, que é o Cristo-Senhor, na cidade de Davi.",
+      "reference": "Lc 2:11"
+    },
+    "12": {
+      "text": "Isto vos servirá de sinal: encontrareis um recém-nascido envolto em faixas deitado numa manjedoura”.",
+      "reference": "Lc 2:12"
+    },
+    "13": {
+      "text": "E de repente juntou-se ao anjo uma multidão do exército celeste a louvar a Deus dizendo: \\par",
+      "reference": "Lc 2:13"
+    },
+    "14": {
+      "text": "“Glória a Deus no mais alto dos céus \\par e paz na terra aos homens que ele ama!” \\par",
+      "reference": "Lc 2:14"
+    },
+    "15": {
+      "text": "Quando os anjos os deixaram, em direção ao céu, os pastores disseram entre si: “Vamos já a Belém e vejamos o que aconteceu, o que o Senhor nos deu a conhecer”.",
+      "reference": "Lc 2:15"
+    },
+    "16": {
+      "text": "Foram então às pressas, e encontraram Maria, José e o recém-nascido deitado na manjedoura.",
+      "reference": "Lc 2:16"
+    },
+    "17": {
+      "text": "Vendo-o, contaram o que lhes fora dito a respeito do menino;",
+      "reference": "Lc 2:17"
+    },
+    "18": {
+      "text": "e todos os que os ouviam ficavam maravilhados com as palavras dos pastores.",
+      "reference": "Lc 2:18"
+    },
+    "19": {
+      "text": "Maria, contudo, conservava cuidadosamente todos esses acontecimentos e os meditava em seu coração.",
+      "reference": "Lc 2:19"
+    },
+    "20": {
+      "text": "E os pastores voltaram, glorificando e louvando a Deus por tudo o que tinham visto e ouvido, conforme lhes fora dito. \\par",
+      "reference": "Lc 2:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Circuncisão de Jesus\\par }Quando se completaram os oito dias para a circuncisão do menino, foi-lhe dado o nome de Jesus, conforme o chamou o anjo, antes de ser concebido. \\par",
+      "reference": "Lc 2:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Apresentação de Jesus no Templo\\par }Quando {\\i se completaram os dias para a purificação deles,} segundo a Lei de Moisés, levaram-no a Jerusalém a fim de apresentá-lo ao Senhor,",
+      "reference": "Lc 2:22"
+    },
+    "23": {
+      "text": "conforme está escrito na Lei do Senhor: {\\i Todo macho que abre o útero será consagrado ao Senhor,}",
+      "reference": "Lc 2:23"
+    },
+    "24": {
+      "text": "e para oferecer em sacrifício, como vem dito na Lei do Senhor, {\\i um par de rolas ou dois pombinhos.}",
+      "reference": "Lc 2:24"
+    },
+    "25": {
+      "text": "E havia em Jerusalém um homem chamado Simeão que era justo e piedoso; ele esperava a consolação de Israel e o Espírito Santo estava nele.",
+      "reference": "Lc 2:25"
+    },
+    "26": {
+      "text": "Fora-lhe revelado pelo Espírito Santo que não veria a morte antes de ver o Cristo do Senhor.",
+      "reference": "Lc 2:26"
+    },
+    "27": {
+      "text": "Movido pelo Espírito, ele veio ao Templo, e quando os pais trouxeram o menino Jesus para cumprir as prescrições da Lei a seu respeito,",
+      "reference": "Lc 2:27"
+    },
+    "28": {
+      "text": "ele o tomou nos braços e bendisse a Deus, dizendo: \\par",
+      "reference": "Lc 2:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i O Nunc Dimittis \\par }“Agora, Soberano Senhor, podes despedir \\par em paz o teu servo, segundo a tua palavra; \\par",
+      "reference": "Lc 2:29"
+    },
+    "30": {
+      "text": "porque meus olhos {\\i viram tua salvação, }\\par",
+      "reference": "Lc 2:30"
+    },
+    "31": {
+      "text": "que preparaste{\\i  em face de todos os povos, }\\par",
+      "reference": "Lc 2:31"
+    },
+    "32": {
+      "text": "{\\i luz para iluminar as nações, }\\par e glória de teu povo, Israel”. \\par",
+      "reference": "Lc 2:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Profecia de Simeão\\par }Seu pai e sua mãe estavam admirados com o que diziam dele.",
+      "reference": "Lc 2:33"
+    },
+    "34": {
+      "text": "Simeão abençoou-os e disse a Maria, a mãe: “Eis que este menino foi colocado para a queda e para o soerguimento de muitos em Israel, e como um sinal de contradição –",
+      "reference": "Lc 2:34"
+    },
+    "35": {
+      "text": "e a ti, uma espada traspassará tua alma! – para que se revelem os pensamentos íntimos de muitos corações”. \\par",
+      "reference": "Lc 2:35"
+    },
+    "36": {
+      "text": "\\par {\\qc\\b\\i Profecia de Ana\\par }Havia também uma profetisa chamada Ana, de idade muito avançada, filha de Fanuel, da tribo de Aser. Após a virgindade, vivera sete anos com o marido;",
+      "reference": "Lc 2:36"
+    },
+    "37": {
+      "text": "ficou viúva e chegou aos oitenta e quatro anos. Não deixava o Templo, servindo a Deus dia e noite com jejuns e orações.",
+      "reference": "Lc 2:37"
+    },
+    "38": {
+      "text": "Como chegasse nessa mesma hora, agradecia a Deus e falava do menino a todos os que esperavam a redenção de Jerusalém. \\par",
+      "reference": "Lc 2:38"
+    },
+    "39": {
+      "text": "\\par {\\qc\\b\\i Vida oculta de Jesus em Nazaré\\par }Terminando de fazer tudo conforme a Lei do Senhor, voltaram à Galiléia, para Nazaré, sua cidade.",
+      "reference": "Lc 2:39"
+    },
+    "40": {
+      "text": "E o menino crescia, tornava-se robusto, enchia-se de sabedoria; e a graça de Deus estava com ele. \\par",
+      "reference": "Lc 2:40"
+    },
+    "41": {
+      "text": "\\par {\\qc\\b\\i Jesus entre os doutores\\par }Seus pais iam todos os anos a Jerusalém para a festa da Páscoa.",
+      "reference": "Lc 2:41"
+    },
+    "42": {
+      "text": "Quando o menino completou doze anos, segundo o costume, subiram para a festa.",
+      "reference": "Lc 2:42"
+    },
+    "43": {
+      "text": "Terminados os dias, eles voltaram, mas o menino Jesus ficou em Jerusalém, sem que seus pais o notassem.",
+      "reference": "Lc 2:43"
+    },
+    "44": {
+      "text": "Pensando que ele estivesse na caravana, andaram o caminho de um dia, e puseram-se a procurá-lo entre os parentes e conhecidos.",
+      "reference": "Lc 2:44"
+    },
+    "45": {
+      "text": "E não o encontrando, voltaram a Jerusalém à sua procura. \\par",
+      "reference": "Lc 2:45"
+    },
+    "46": {
+      "text": "Três dias depois, eles o encontraram no Templo, sentado em meio aos doutores, ouvindo-os e interrogando-os;",
+      "reference": "Lc 2:46"
+    },
+    "47": {
+      "text": "e todos os que o ouviam ficavam extasiados com sua inteligência e com suas respostas.",
+      "reference": "Lc 2:47"
+    },
+    "48": {
+      "text": "Ao vê-lo, ficaram surpresos, e sua mãe lhe disse: “Meu filho, por que agiste assim conosco? Olha que teu pai e eu, aflitos, te procurávamos”.",
+      "reference": "Lc 2:48"
+    },
+    "49": {
+      "text": "Ele respondeu: “Por que me procuráveis? Não sabíeis que devo estar na casa de meu Pai?”",
+      "reference": "Lc 2:49"
+    },
+    "50": {
+      "text": "Eles, porém, não compreenderam a palavra que ele lhes dissera. \\par",
+      "reference": "Lc 2:50"
+    },
+    "51": {
+      "text": "\\par {\\qc\\b\\i Ainda a vida oculta em Nazaré\\par }Desceu então com eles para Nazaré e era-lhes submisso. Sua mãe, porém, conservava a lembrança de todos esses fatos em seu coração.",
+      "reference": "Lc 2:51"
+    },
+    "52": {
+      "text": "E Jesus {\\i crescia} em sabedoria, em estatura e {\\i em graça, diante de Deus e diante dos homens.} \\par",
+      "reference": "Lc 2:52"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 52
+}

@@ -1,0 +1,121 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Castigos – A. Faltas cultuais\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 20:1"
+    },
+    "2": {
+      "text": "“Dirás aos filhos de Israel: \\par Todo filho de Israel, ou estrangeiro que habita em Israel, que der um de seus filhos a Moloc, será morto. O povo da terra o apedrejará,",
+      "reference": "Lv 20:2"
+    },
+    "3": {
+      "text": "e eu me voltarei contra esse homem e o exterminarei do meio do seu povo, pois, havendo entregue um dos seus filhos a Moloc, contaminou o meu santuário e profanou meu santo nome.",
+      "reference": "Lv 20:3"
+    },
+    "4": {
+      "text": "Se o povo da terra fechar os olhos a respeito do homem que entregar um dos seus filhos a Moloc e não o matar,",
+      "reference": "Lv 20:4"
+    },
+    "5": {
+      "text": "eu mesmo me voltarei contra esse homem e contra o seu clã. Eu os exterminarei do meio do seu povo, tanto a ele como a todos aqueles que depois dele se prostituírem a Moloc. \\par",
+      "reference": "Lv 20:5"
+    },
+    "6": {
+      "text": "Aquele que recorrer aos necromantes e aos adivinhos para se prostituir com eles, voltar-me-ei contra esse homem e o exterminarei do meio do seu povo. \\par",
+      "reference": "Lv 20:6"
+    },
+    "7": {
+      "text": "Vós, porém, vos santificareis e sereis santos, pois eu sou Iahweh vosso Deus. \\par",
+      "reference": "Lv 20:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i B. Faltas contra a família\\par }Guardareis os meus estatutos e os praticareis, pois sou eu, Iahweh, que vos santifico.",
+      "reference": "Lv 20:8"
+    },
+    "9": {
+      "text": "Portanto: \\par Quem amaldiçoar a seu pai ou a sua mãe deverá morrer. Visto que ele amaldiçoou a seu pai ou a sua mãe, o seu sangue cairá sobre ele mesmo. \\par",
+      "reference": "Lv 20:9"
+    },
+    "10": {
+      "text": "O homem que cometer adultério com a mulher do seu próximo deverá morrer, tanto ele como a sua cúmplice. \\par",
+      "reference": "Lv 20:10"
+    },
+    "11": {
+      "text": "O homem que se deitar com a mulher de seu pai descobriu a nudez de seu pai. Ambos deverão morrer, o seu sangue cairá sobre eles. \\par",
+      "reference": "Lv 20:11"
+    },
+    "12": {
+      "text": "O homem que se deitar com a sua nora será morto juntamente com ela. Estão contaminados, e o seu sangue cairá sobre eles. \\par",
+      "reference": "Lv 20:12"
+    },
+    "13": {
+      "text": "O homem que se deita com outro homem como se fosse uma mulher, ambos cometeram uma abominação, deverão morrer, e o seu sangue cairá sobre eles. \\par",
+      "reference": "Lv 20:13"
+    },
+    "14": {
+      "text": "O homem que toma por esposa uma mulher e a mãe dela, comete um incesto. Serão queimados, ele e elas, para que não haja incesto no meio de vós. \\par",
+      "reference": "Lv 20:14"
+    },
+    "15": {
+      "text": "O homem que se deitar com um animal deverá morrer, e matareis o animal. \\par",
+      "reference": "Lv 20:15"
+    },
+    "16": {
+      "text": "A mulher que se aproximar de um animal qualquer, para se unir a ele, será morta, assim como o animal. Deverão morrer, e o seu sangue cairá sobre eles. \\par",
+      "reference": "Lv 20:16"
+    },
+    "17": {
+      "text": "O homem que tomar por esposa sua irmã, a filha de seu pai ou a filha de suma mãe, e vir a nudez dela e ela vir a dele, comete uma ignomínia. Serão exterminados na presença dos membros do seu povo, pois descobriu a nudez de sua irmã, e levará o peso da sua falta. \\par",
+      "reference": "Lv 20:17"
+    },
+    "18": {
+      "text": "O homem que se deitar com uma mulher durante as regras dela e descobrir a sua nudez, põe a descoberto a fonte do seu sangue, e ela mesma descobriu a fonte do seu sangue; serão ambos eliminados do meio do seu povo. \\par",
+      "reference": "Lv 20:18"
+    },
+    "19": {
+      "text": "Não descobrirás a nudez da irmã da tua mãe e nem a nudez da irmã de teu pai. Assim, pôs a descoberto a sua própria carne, e levarão o peso da sua falta. \\par",
+      "reference": "Lv 20:19"
+    },
+    "20": {
+      "text": "O homem que se deitar com a mulher de seu tio paterno descobriu a nudez deste, e levarão o peso da sua falta e morrerão sem filhos. \\par",
+      "reference": "Lv 20:20"
+    },
+    "21": {
+      "text": "O homem que toma por esposa a mulher de seu irmão comete uma torpeza, pois descobriu a nudez de seu irmão, e morrerão sem filhos. \\par",
+      "reference": "Lv 20:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Exortação final\\par }Guardareis todos os meus estatutos, todas as minhas normas e os poreis em prática; assim não vos vomitará a terra à qual vos conduzo para nela habitardes.",
+      "reference": "Lv 20:22"
+    },
+    "23": {
+      "text": "Não seguireis os estatutos das nações que eu expulso de diante de vós, pois elas praticaram todas estas coisas e, por isso, me aborreci delas.",
+      "reference": "Lv 20:23"
+    },
+    "24": {
+      "text": "Também vos tenho dito: Tomareis posse do seu solo, que eu mesmo vos dou por possessão, uma terra que mana leite e mel. \\par Eu, Iahweh, vosso Deus, vos separei desses povos.",
+      "reference": "Lv 20:24"
+    },
+    "25": {
+      "text": "Fareis distinção entre o animal puro e o impuro, entre a ave pura e a impura. Não vos torneis vós mesmos imundos com animais, aves e com tudo o que rasteja sobre a terra, pois eu vos fiz pô-los à parte, como impuros. \\par",
+      "reference": "Lv 20:25"
+    },
+    "26": {
+      "text": "Sereis consagrados a mim, pois eu, Iahweh, sou santo e vos separei de todos os povos para serdes meus. \\par",
+      "reference": "Lv 20:26"
+    },
+    "27": {
+      "text": "O homem ou a mulher que, entre vós forem necromantes ou adivinhos serão mortos, serão apedrejados, e o seu sangue cairá sobre eles”. \\par",
+      "reference": "Lv 20:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

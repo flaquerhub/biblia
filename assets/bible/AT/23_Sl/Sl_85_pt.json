@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 85,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 85 (84)\\par }{\\qc\\b\\i Oração pela paz e pela justiça\\par }{\\qc\\i Do mestre de canto. Dos filhos de Coré. Salmo. \\par }",
+      "reference": "Sl 85:1"
+    },
+    "2": {
+      "text": "Favoreceste, Iahweh, a tua terra, \\par fizeste voltar os cativos de Jacó; \\par",
+      "reference": "Sl 85:2"
+    },
+    "3": {
+      "text": "perdoaste a iniqüidade do teu povo, \\par encobriste todo seu pecado; {\\i Pausa} \\par",
+      "reference": "Sl 85:3"
+    },
+    "4": {
+      "text": "reprimiste teu furor todo, \\par refreaste o ardor da tua ira. \\par",
+      "reference": "Sl 85:4"
+    },
+    "5": {
+      "text": "Faze-nos voltar, ó Deus salvador nosso, \\par renuncia ao teu rancor contra nós! \\par",
+      "reference": "Sl 85:5"
+    },
+    "6": {
+      "text": "Ficarás irado conosco para sempre, \\par de geração em geração prolongando tua ira? \\par",
+      "reference": "Sl 85:6"
+    },
+    "7": {
+      "text": "Não voltarás para nos vivificar, \\par e para teu povo se alegrar contigo? \\par",
+      "reference": "Sl 85:7"
+    },
+    "8": {
+      "text": "Mostra-nos teu amor, ó Iahweh, \\par e concede-nos tua salvação. \\par",
+      "reference": "Sl 85:8"
+    },
+    "9": {
+      "text": "Vou ouvir o que Iahweh Deus diz, \\par porque ele fala de paz, \\par ao seu povo e seus fiéis, \\par para que não voltem à insensatez. \\par",
+      "reference": "Sl 85:9"
+    },
+    "10": {
+      "text": "Sua salvação está próxima dos que o temem, \\par e a Glória habitará em nossa terra. \\par",
+      "reference": "Sl 85:10"
+    },
+    "11": {
+      "text": "Amor e Verdade se encontram, \\par Justiça e Paz se abraçam; \\par",
+      "reference": "Sl 85:11"
+    },
+    "12": {
+      "text": "da terra germinará a Verdade, \\par e a Justiça se inclinará do céu. \\par",
+      "reference": "Sl 85:12"
+    },
+    "13": {
+      "text": "Ó próprio Iahweh dará a felicidade, \\par e nossa terra dará seu fruto. \\par",
+      "reference": "Sl 85:13"
+    },
+    "14": {
+      "text": "A Justiça caminhará à sua frente, \\par e com seus passos traçará um caminho. \\par",
+      "reference": "Sl 85:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

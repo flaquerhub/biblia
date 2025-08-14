@@ -1,0 +1,109 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A queda\\par }A serpente era o mais astuto de todos os animais dos campos, que Iahweh Deus tinha feito. Ela disse à mulher: “Então Deus disse: Vós não podeis comer de todas as árvores do jardim?”",
+      "reference": "Gn 3:1"
+    },
+    "2": {
+      "text": "A mulher respondeu à serpente: “Nós podemos comer do fruto das árvores do jardim.",
+      "reference": "Gn 3:2"
+    },
+    "3": {
+      "text": "Mas do fruto da árvore que está no meio do jardim, Deus disse: Dele não comereis, nele não tocareis, sob pena de morte”.",
+      "reference": "Gn 3:3"
+    },
+    "4": {
+      "text": "A serpente disse então à mulher: “Não, não morrereis!",
+      "reference": "Gn 3:4"
+    },
+    "5": {
+      "text": "Mas Deus sabe que, no dia em que dele comerdes, vossos olhos se abrirão e vós sereis como deuses, versados no bem e no mal”.",
+      "reference": "Gn 3:5"
+    },
+    "6": {
+      "text": "A mulher viu que a árvore era boa ao apetite e formosa à vista, e que essa árvore era desejável para adquirir discernimento. Tomou-lhe do fruto e comeu. Deu-o também a seu marido, que com ela estava e ele comeu.",
+      "reference": "Gn 3:6"
+    },
+    "7": {
+      "text": "Então abriram-se os olhos dos dois e perceberam que estavam nus; entrelaçaram folhas de figueira e se cingiram. \\par",
+      "reference": "Gn 3:7"
+    },
+    "8": {
+      "text": "Eles ouviram o passo de Iahweh Deus que passeava no jardim à brisa do dia e o homem e sua mulher se esconderam da presença de Iahweh Deus, entre as árvores do jardim.",
+      "reference": "Gn 3:8"
+    },
+    "9": {
+      "text": "Iahweh Deus chamou o homem: “Onde estás?”, disse ele.",
+      "reference": "Gn 3:9"
+    },
+    "10": {
+      "text": "“Ouvi teu passo no jardim”, respondeu o homem; “tive medo porque estou nu, e me escondi”.",
+      "reference": "Gn 3:10"
+    },
+    "11": {
+      "text": "Ele retomou: “E quem te fez saber que estavas nu? Comeste, então, da árvore que te proibi de comer!”",
+      "reference": "Gn 3:11"
+    },
+    "12": {
+      "text": "O homem respondeu: “A mulher que puseste junto de mim me deu da árvore, e eu comi!”",
+      "reference": "Gn 3:12"
+    },
+    "13": {
+      "text": "Iahweh Deus disse à mulher: “Que fizeste?” E a mulher respondeu: “A serpente me seduziu e eu comi”. \\par",
+      "reference": "Gn 3:13"
+    },
+    "14": {
+      "text": "Então Iahweh Deus disse à serpente: \\par “Porque fizeste isso \\par és maldita entre todos os animais domésticos \\par e todas as feras selvagens. \\par Caminharás sobre teu ventre \\par e comerás poeira \\par todos os dias de tua vida. \\par",
+      "reference": "Gn 3:14"
+    },
+    "15": {
+      "text": "Porei hostilidade entre ti e a mulher, \\par entre tua linhagem e a linhagem dela. \\par Ela te esmagará a cabeça \\par e tu lhe ferirás o calcanhar”. \\par",
+      "reference": "Gn 3:15"
+    },
+    "16": {
+      "text": "À mulher ele disse: \\par “Multiplicarei as dores de tuas gravidezes, \\par na dor darás à luz filhos. \\par Teu desejo te impelirá ao teu marido \\par e ele te dominará”. \\par",
+      "reference": "Gn 3:16"
+    },
+    "17": {
+      "text": "Ao homem, ele disse: \\par “Porque escutaste a voz de tua mulher \\par e comeste da árvore que eu te proibira comer, \\par maldito é o solo por causa de ti! \\par Com sofrimento dele te nutrirás \\par todos os dias de tua vida. \\par",
+      "reference": "Gn 3:17"
+    },
+    "18": {
+      "text": "Ele produzirá para ti espinhos e cardos, \\par e comerás a erva dos campos. \\par",
+      "reference": "Gn 3:18"
+    },
+    "19": {
+      "text": "Com o suor de teu rosto \\par comerás teu pão \\par até que retornes ao solo, \\par pois dele foste tirado. \\par Pois tu és pó \\par e ao pó tornarás”. \\par",
+      "reference": "Gn 3:19"
+    },
+    "20": {
+      "text": "O homem chamou sua mulher “Eva”, por ser a mãe de todos os viventes.",
+      "reference": "Gn 3:20"
+    },
+    "21": {
+      "text": "Iahweh Deus fez para o homem e sua mulher túnicas de pele, e os vestiu.",
+      "reference": "Gn 3:21"
+    },
+    "22": {
+      "text": "Depois disse Iahweh Deus: “Se o homem já é como um de nós, versado no bem e no mal, que agora ele não estenda a mão e colha também da árvore da vida, e coma e viva para sempre!”",
+      "reference": "Gn 3:22"
+    },
+    "23": {
+      "text": "E Iahweh Deus o expulsou do jardim de Éden para cultivar o solo de onde fora tirado.",
+      "reference": "Gn 3:23"
+    },
+    "24": {
+      "text": "Ele baniu o homem e colocou, diante do jardim de Éden, os querubins e a chama da espada fulgurante para guardar o caminho da árvore da vida. \\par",
+      "reference": "Gn 3:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

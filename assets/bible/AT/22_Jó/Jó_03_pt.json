@@ -1,0 +1,117 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Diálogo}\\par 1. PRIMEIRO CICLO DE DISCURSOS\\par }{\\qc\\b\\i Jó amaldiçoa o dia do nascimento\\par }Enfim, Jó abriu a boca e amaldiçoou o dia do seu nascimento. \\par",
+      "reference": "Jó 3:1"
+    },
+    "2": {
+      "text": "Jó tomou a palavra e disse: \\par",
+      "reference": "Jó 3:2"
+    },
+    "3": {
+      "text": "Pereça o dia em que nasci, \\par a noite em que se disse: “Um menino foi concebido!” \\par",
+      "reference": "Jó 3:3"
+    },
+    "4": {
+      "text": "Esse dia, que se torne trevas, \\par que Deus do alto não se ocupe dele, \\par que sobre ele não brilhe a luz! \\par",
+      "reference": "Jó 3:4"
+    },
+    "5": {
+      "text": "Que o reclamem as trevas e sombras espessas, \\par que uma nuvem pouse sobre ele, \\par que um eclipse o aterrorize! \\par",
+      "reference": "Jó 3:5"
+    },
+    "6": {
+      "text": "Sim, que dele se apodere a escuridão, \\par que não se some aos dias do ano, \\par que não entre na conta dos meses! \\par",
+      "reference": "Jó 3:6"
+    },
+    "7": {
+      "text": "Que essa noite fique estéril, \\par que não penetrem ali os gritos de júbilo! \\par",
+      "reference": "Jó 3:7"
+    },
+    "8": {
+      "text": "Que a amaldiçoem os que amaldiçoam o dia, \\par os entendidos em conjurar Leviatã! \\par",
+      "reference": "Jó 3:8"
+    },
+    "9": {
+      "text": "Que se escureçam as estrelas da sua aurora, \\par que espere pela luz que não vem, \\par que não veja as pálpebras da alvorada. \\par",
+      "reference": "Jó 3:9"
+    },
+    "10": {
+      "text": "Porque não fechou as portas do ventre \\par para esconder à minha vista tanta miséria. \\par",
+      "reference": "Jó 3:10"
+    },
+    "11": {
+      "text": "Por que não morri ao deixar o ventre materno, \\par ou pereci ao sair das entranhas? \\par",
+      "reference": "Jó 3:11"
+    },
+    "12": {
+      "text": "Por que me recebeu um regaço \\par e seios me deram de mamar? \\par",
+      "reference": "Jó 3:12"
+    },
+    "13": {
+      "text": "Agora dormiria tranqüilo, \\par descansaria em paz, \\par",
+      "reference": "Jó 3:13"
+    },
+    "14": {
+      "text": "com os reis e os ministros da terra \\par que construíram suas moradias em lugares desolados; \\par",
+      "reference": "Jó 3:14"
+    },
+    "15": {
+      "text": "ou como os nobres que amontoaram ouro \\par e prata em seus mausoléus. \\par",
+      "reference": "Jó 3:15"
+    },
+    "16": {
+      "text": "Que eu fosse como um aborto escondido, que não existisse agora, \\par como crianças que não viram a luz. \\par",
+      "reference": "Jó 3:16"
+    },
+    "17": {
+      "text": "Ali acaba o tumulto dos ímpios, \\par ali repousam os que estão esgotados. \\par",
+      "reference": "Jó 3:17"
+    },
+    "18": {
+      "text": "Com eles descansam os prisioneiros, \\par sem ouvir a voz do capataz. \\par",
+      "reference": "Jó 3:18"
+    },
+    "19": {
+      "text": "Confundem-se pequenos e grandes, \\par e o escravo livra-se de seu amo. \\par",
+      "reference": "Jó 3:19"
+    },
+    "20": {
+      "text": "Por que foi dada a luz a quem o trabalho oprime, \\par e a vida a quem a amargura aflige, \\par",
+      "reference": "Jó 3:20"
+    },
+    "21": {
+      "text": "a quem anseia pela morte que não vem, \\par a quem a procura com afinco como um tesouro, \\par",
+      "reference": "Jó 3:21"
+    },
+    "22": {
+      "text": "a quem se alegraria em frente do túmulo \\par e exultaria ao ser sepultado, \\par",
+      "reference": "Jó 3:22"
+    },
+    "23": {
+      "text": "ao homem que não encontra seu caminho, \\par porque Deus o cercou de todos os lados? \\par",
+      "reference": "Jó 3:23"
+    },
+    "24": {
+      "text": "Por alimento tenho soluços, \\par e os gemidos vêm-me como água. \\par",
+      "reference": "Jó 3:24"
+    },
+    "25": {
+      "text": "Sucede-me o que mais temia, \\par o que mais me aterrava acontece-me. \\par",
+      "reference": "Jó 3:25"
+    },
+    "26": {
+      "text": "Vivo sem paz e sem descanso, \\par eu não repouso: o que vem é agitação! \\par",
+      "reference": "Jó 3:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

@@ -1,0 +1,97 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As promessas e a aliança divinas\\par }Depois desses acontecimentos, a palavra de Iahweh foi dirigida a Abrão, numa visão: \\par “Não temas, Abrão! Eu sou o teu escudo, tua recompensa será muito grande”. \\par",
+      "reference": "Gn 15:1"
+    },
+    "2": {
+      "text": "Abrão respondeu: “Meu Senhor Iahweh, que me darás? Continuo sem filho...”",
+      "reference": "Gn 15:2"
+    },
+    "3": {
+      "text": "Abrão disse: “Eis que não me deste descendência e um dos servos de minha casa será meu herdeiro”.",
+      "reference": "Gn 15:3"
+    },
+    "4": {
+      "text": "Então foi-lhe dirigida esta palavra de Iahweh: “Não será esse o teu herdeiro, mas alguém saído de teu sangue”.",
+      "reference": "Gn 15:4"
+    },
+    "5": {
+      "text": "Ele o conduziu para fora e disse: “Ergue os olhos para o céu e conta as estrelas, se as podes contar”, e acrescentou: “Assim será a tua posteridade”.",
+      "reference": "Gn 15:5"
+    },
+    "6": {
+      "text": "Abrão creu em Iahweh, e lhe foi tido em conta de justiça. \\par",
+      "reference": "Gn 15:6"
+    },
+    "7": {
+      "text": "Ele lhe disse: “Eu sou Iahweh que te fez sair de Ur dos caldeus, para te dar esta terra como herança”.",
+      "reference": "Gn 15:7"
+    },
+    "8": {
+      "text": "Abrão respondeu: “Meu Senhor Iahweh, como saberei que hei de possuí-la?”",
+      "reference": "Gn 15:8"
+    },
+    "9": {
+      "text": "Ele lhe disse: “Procura-me uma novilha de três anos, uma cabra de três anos, um cordeiro de três anos, uma rola e um pombinho”.",
+      "reference": "Gn 15:9"
+    },
+    "10": {
+      "text": "Ele lhe trouxe todos esses animais, partiu-os pelo meio e colocou cada metade em face da outra; entretanto, não partiu as aves.",
+      "reference": "Gn 15:10"
+    },
+    "11": {
+      "text": "As aves de rapina desceram sobre os cadáveres, mas Abrão as expulsou. \\par",
+      "reference": "Gn 15:11"
+    },
+    "12": {
+      "text": "Quando o sol ia se pôr, um torpor caiu sobre Abrão e eis que foi tomado de grande pavor.",
+      "reference": "Gn 15:12"
+    },
+    "13": {
+      "text": "Iahweh disse a Abrão: “Sabe, com certeza, que teus descendentes serão estrangeiros numa terra que não será a deles. Lá eles serão escravos, serão oprimidos durante quatrocentos anos.",
+      "reference": "Gn 15:13"
+    },
+    "14": {
+      "text": "Mas eu julgarei a nação à qual serão sujeitos, e em seguida sairão com grandes bens.",
+      "reference": "Gn 15:14"
+    },
+    "15": {
+      "text": "Quanto a ti, em paz, irás para os teus pais, serás sepultado numa velhice feliz.",
+      "reference": "Gn 15:15"
+    },
+    "16": {
+      "text": "É na quarta geração que eles voltarão para cá, porque até lá a iniqüidade dos amorreus não terá atingido o seu cúmulo”. \\par",
+      "reference": "Gn 15:16"
+    },
+    "17": {
+      "text": "Quando o sol se pôs e estenderam-se as trevas, eis que uma fogueira fumegante e uma tocha de fogo passaram entre os animais divididos.",
+      "reference": "Gn 15:17"
+    },
+    "18": {
+      "text": "Naquele dia Iahweh estabeleceu uma aliança com Abrão nestes termos: \\par “À tua posteridade darei esta terra, \\par do Rio do Egito até o Grande Rio, \\par o rio Eufrates,",
+      "reference": "Gn 15:18"
+    },
+    "19": {
+      "text": "os quenitas, os cenezeus, os cadmoneus,",
+      "reference": "Gn 15:19"
+    },
+    "20": {
+      "text": "os heteus, os ferezeus, os rafaim,",
+      "reference": "Gn 15:20"
+    },
+    "21": {
+      "text": "os amorreus, os cananeus, os gergeseus e os jebuseus”. \\par",
+      "reference": "Gn 15:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

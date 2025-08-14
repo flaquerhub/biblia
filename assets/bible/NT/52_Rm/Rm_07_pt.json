@@ -1,0 +1,113 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O cristão livre da Lei\\par }Ou não sabeis, irmãos, – falo a versados em lei – que a lei domina o homem só enquanto ele está vivo?",
+      "reference": "Rm 7:1"
+    },
+    "2": {
+      "text": "Assim, a mulher casada está ligada por lei ao marido enquanto ele vive; se o marido vier a falecer, ela ficará livre da lei do marido.",
+      "reference": "Rm 7:2"
+    },
+    "3": {
+      "text": "Por isso, estando vivo o marido, ela será chamada adúltera se for viver com outro homem. Se, porém, o marido morrer, ela ficará livre da lei, de sorte que, passando a ser de outro homem, não será adúltera.",
+      "reference": "Rm 7:3"
+    },
+    "4": {
+      "text": "De modo análogo também vós, meus irmãos, pelo corpo de Cristo fostes mortos para a Lei, para pertencerdes a outro, àquele que ressuscitou dentre os mortos, a fim de produzirmos frutos para Deus.",
+      "reference": "Rm 7:4"
+    },
+    "5": {
+      "text": "Quando estávamos na carne, as paixões pecaminosas que através da Lei operavam em nossos membros produziram frutos de morte.",
+      "reference": "Rm 7:5"
+    },
+    "6": {
+      "text": "Agora, porém, estamos livres da Lei, tendo morrido para o que nos mantinha cativos, e assim podermos servir em novidade de espírito e não na caducidade da letra. \\par",
+      "reference": "Rm 7:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Papel da Lei\\par }Que diremos, então? Que a Lei é pecado? De modo algum! Entretanto, eu não conheci o pecado senão através da Lei, pois eu não teria conhecido a concupiscência se a Lei tivesse dito: {\\i Não cobiçarás.}",
+      "reference": "Rm 7:7"
+    },
+    "8": {
+      "text": "Mas o pecado, aproveitando da situação, através do preceito engendrou em mim toda espécie de concupiscência: pois, sem a Lei, o pecado está morto. \\par",
+      "reference": "Rm 7:8"
+    },
+    "9": {
+      "text": "Outrora eu vivia sem Lei; mas, sobrevindo o preceito, o pecado reviveu",
+      "reference": "Rm 7:9"
+    },
+    "10": {
+      "text": "e eu morri. Verificou-se assim que o preceito, dado para a vida, produziu a morte.",
+      "reference": "Rm 7:10"
+    },
+    "11": {
+      "text": "Pois o pecado aproveitou a ocasião, e, servindo-se do preceito, me {\\i seduziu} e por meio dele me matou. \\par",
+      "reference": "Rm 7:11"
+    },
+    "12": {
+      "text": "De modo que a Lei é santa, e santo, justo e bom é o preceito.",
+      "reference": "Rm 7:12"
+    },
+    "13": {
+      "text": "Portanto, uma coisa boa se transformou em morte para mim? De modo algum. Mas foi o pecado que, para se revelar pecado, produziu em mim a morte através do que é bom. Para que o pecado, através do preceito, aparecesse em toda sua virulência. \\par",
+      "reference": "Rm 7:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i A luta interior\\par }Sabemos que a Lei é espiritual; mas eu sou carnal, vendido como escravo ao pecado.",
+      "reference": "Rm 7:14"
+    },
+    "15": {
+      "text": "Realmente não consigo entender o que faço; pois não pratico o que quero, mas faço o que detesto.",
+      "reference": "Rm 7:15"
+    },
+    "16": {
+      "text": "Ora, se faço o que não quero, eu reconheço que a Lei é boa.",
+      "reference": "Rm 7:16"
+    },
+    "17": {
+      "text": "Na realidade, não sou mais eu que pratico a ação, mas o pecado que habita em mim.",
+      "reference": "Rm 7:17"
+    },
+    "18": {
+      "text": "Eu sei que o bem não mora em mim, isto é, na minha carne. Pois o querer o bem está ao meu alcance, não porém o praticá-lo.",
+      "reference": "Rm 7:18"
+    },
+    "19": {
+      "text": "Com efeito, não faço o bem que eu quero, mas pratico o mal que não quero.",
+      "reference": "Rm 7:19"
+    },
+    "20": {
+      "text": "Ora, se eu faço o que não quero, já não sou eu que estou agindo, e sim o pecado que habita em mim. \\par",
+      "reference": "Rm 7:20"
+    },
+    "21": {
+      "text": "Verifico pois esta lei: quando eu quero fazer o bem, é o mal que se me apresenta.",
+      "reference": "Rm 7:21"
+    },
+    "22": {
+      "text": "Eu me comprazo na lei de Deus segundo o homem interior;",
+      "reference": "Rm 7:22"
+    },
+    "23": {
+      "text": "mas percebo outra lei em meus membros, que peleja contra a lei da minha razão e que me acorrenta à lei do pecado que existe em meus membros. \\par",
+      "reference": "Rm 7:23"
+    },
+    "24": {
+      "text": "Infeliz de mim! Quem me libertará deste corpo de morte?",
+      "reference": "Rm 7:24"
+    },
+    "25": {
+      "text": "Graças sejam dadas a Deus, por Jesus Cristo Senhor nosso. \\par Assim, pois, sou eu mesmo que pela razão sirvo à lei de Deus e pela carne à lei do pecado. \\par",
+      "reference": "Rm 7:25"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 25
+}

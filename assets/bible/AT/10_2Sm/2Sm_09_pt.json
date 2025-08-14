@@ -1,0 +1,65 @@
+{
+  "book": 10,
+  "book_name": "2Samuel",
+  "book_abbr": "2Sm",
+  "book_category": "Histórico",
+  "book_english": "2 Samuel",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 3. A FAMÍLIA DE DAVI E AS INTRIGAS PELA SUCESSÃO\\par A. MERIBAAL\\par }{\\qc\\b\\i Bondade de Davi para com o filho de Jônatas\\par }Davi perguntou: “Haverá ainda algum sobrevivente da família de Saul, para que eu o trate com bondade por amor a Jônatas?”",
+      "reference": "2Sm 9:1"
+    },
+    "2": {
+      "text": "Ora, a família de Saul tinha um servo chamado Siba. Trouxeram-no a Davi, e o rei lhe perguntou: “És Siba?” – “Para te servir”, respondeu ele.",
+      "reference": "2Sm 9:2"
+    },
+    "3": {
+      "text": "Perguntou-lhe o rei: “Não ficou alguém da família de Saul, para que eu o trate com bondade semelhante à de Deus?” Siba respondeu ao rei: “Há ainda um filho de Jônatas que é aleijado de ambos os pés”.",
+      "reference": "2Sm 9:3"
+    },
+    "4": {
+      "text": "–“Onde está ele?”, perguntou o rei, e Siba respondeu ao rei: “Está na casa de Maquir, filho de Amiel, em Lo-Dabar”.",
+      "reference": "2Sm 9:4"
+    },
+    "5": {
+      "text": "O rei Davi mandou buscá-lo na casa de Maquir, filho de Amiel, de Lo-Dabar. \\par",
+      "reference": "2Sm 9:5"
+    },
+    "6": {
+      "text": "Ao chegar perto de Davi, Meribaal, filho de Jônatas, filho de Saul, caiu com o rosto em terra e se prostrou. Davi disse: “Meribaal!” Ele respondeu: “Sou eu, para te servir”.",
+      "reference": "2Sm 9:6"
+    },
+    "7": {
+      "text": "Davi lhe disse: “Não tenhas medo, porque eu quero tratar-te com bondade, por amor a teu pai, Jônatas. Eu te restituirei todas as terras de Saul, teu avô, e comerás sempre à minha mesa”.",
+      "reference": "2Sm 9:7"
+    },
+    "8": {
+      "text": "Meribaal se prostrou e disse: “Quem é este teu servo, para que trates com misericórdia a um cão morto como eu?” \\par",
+      "reference": "2Sm 9:8"
+    },
+    "9": {
+      "text": "Depois o rei chamou Siba, o servo de Saul, e lhe disse: “Tudo o que pertencia a Saul e à sua família, eu o dou ao filho do teu senhor.",
+      "reference": "2Sm 9:9"
+    },
+    "10": {
+      "text": "Tu trabalharás a terra para ele, tu com os teus filhos e os teus escravos, e recolherás os frutos que garantirão à família do teu senhor o pão que comerá; quanto a Meribaal, o filho do teu senhor, tomará sempre as suas refeições à minha mesa”. Ora, Siba tinha quinze filhos e vinte escravos.",
+      "reference": "2Sm 9:10"
+    },
+    "11": {
+      "text": "Siba respondeu ao rei: “O teu servo fará tudo o que o rei meu senhor ordenou a seu servo”. \\par Portanto, Meribaal comia à mesa de Davi, como um dos filhos do rei.",
+      "reference": "2Sm 9:11"
+    },
+    "12": {
+      "text": "Meribaal tinha um filho pequeno chamado Micas. Todos os que moravam com Siba estavam a serviço de Meribaal.",
+      "reference": "2Sm 9:12"
+    },
+    "13": {
+      "text": "Mas Meribaal morava em Jerusalém, pois comia sempre à mesa do rei, e era aleijado de ambos os pés. \\par",
+      "reference": "2Sm 9:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

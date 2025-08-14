@@ -1,0 +1,57 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Davi é despedido pelos chefes dos filisteus\\par }Os filisteus concentraram todas as suas tropas em Afec, e Israel acampou junto à fonte que existe em Jezrael.",
+      "reference": "1Sm 29:1"
+    },
+    "2": {
+      "text": "Os príncipes dos filisteus desfilaram por centenas e por milhares, enquanto Davi e os seus homens iam à retaguarda com Aquis.",
+      "reference": "1Sm 29:2"
+    },
+    "3": {
+      "text": "Os príncipes dos filisteus se perguntaram: “Que estão fazendo aqui estes hebreus?”, e Aquis respondeu aos príncipes dos filisteus: “É Davi, o servo de Saul, rei de Israel! Há um ano ou dois que está comigo e não encontrei nele nenhum motivo de censura, desde o dia em que entrou ao meu serviço até agora”.",
+      "reference": "1Sm 29:3"
+    },
+    "4": {
+      "text": "Os príncipes dos filisteus se opuseram a ele e lhe disseram: “Manda que este homem vá embora, que volte ao lugar em que o colocastes antes. Não venha ele conosco à batalha, para que não se volte contra nós no combate. Pois, como agradaria ele mais ao seu senhor senão com a cabeça dos homens que temos aqui?",
+      "reference": "1Sm 29:4"
+    },
+    "5": {
+      "text": "Por acaso não é este aquele Davi de quem se cantava dançando: \\par ‘Saul matou mil \\par mas Davi matou dez mil’?” \\par",
+      "reference": "1Sm 29:5"
+    },
+    "6": {
+      "text": "Então Aquis mandou chamar a Davi e lhe disse: “Tão certo como vive Iahweh, tu és leal e eu gostaria que entrasses e saísses comigo no acampamento, porquanto nada de desonroso achei em ti, desde o primeiro dia até hoje. Mas não és bem visto pelos príncipes.",
+      "reference": "1Sm 29:6"
+    },
+    "7": {
+      "text": "Por isso, volta e vai em paz, para que não desagrades aos príncipes dos filisteus”. \\par",
+      "reference": "1Sm 29:7"
+    },
+    "8": {
+      "text": "Davi respondeu a Aquis: “Que te fiz eu de censurável, desde o dia em que entrei ao teu serviço até agora, que me impeça de combater ao lado do meu senhor e rei contra os meus inimigos?”",
+      "reference": "1Sm 29:8"
+    },
+    "9": {
+      "text": "Respondeu Aquis a Davi: “É verdade que tu me tens sido agradável como um anjo de Deus. Só que os príncipes dos filisteus disseram: ‘Não é possível que ele vá à guerra conosco!’",
+      "reference": "1Sm 29:9"
+    },
+    "10": {
+      "text": "Parte, portanto, amanhã cedo com aqueles servos do teu senhor que vieram contigo, e ide para o lugar que vos indiquei. Não guardes no teu coração nenhum ressentimento, porque tu me és agradável. Levantai-vos de madrugada e parti bem cedo de manhã”. \\par",
+      "reference": "1Sm 29:10"
+    },
+    "11": {
+      "text": "Davi e os seus homens se levantaram bem cedo, para partirem pela manhã, e voltarem à terra dos filisteus. E os filisteus subiram a Jezrael. \\par",
+      "reference": "1Sm 29:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

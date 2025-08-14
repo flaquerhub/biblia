@@ -1,0 +1,85 @@
+{
+  "book": 55,
+  "book_name": "2Timóteo",
+  "book_abbr": "2Tm",
+  "book_category": "Epístolas Pastorais",
+  "book_english": "2 Timothy",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Endereço e ação de graças\\par }Paulo, apóstolo de Cristo Jesus, por vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,",
+      "reference": "2Tm 1:1"
+    },
+    "2": {
+      "text": "a Timóteo, meu filho amado: graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor. \\par",
+      "reference": "2Tm 1:2"
+    },
+    "3": {
+      "text": "Dou graças a Deus, a quem sirvo em continuidade com meus antepassados, com consciência pura, quando sem cessar, noite e dia, me recordo de ti em minhas orações.",
+      "reference": "2Tm 1:3"
+    },
+    "4": {
+      "text": "Lembrado de tuas lágrimas, desejo ardentemente rever-te, para transbordar de alegria.",
+      "reference": "2Tm 1:4"
+    },
+    "5": {
+      "text": "Evoco a lembrança da fé sem hipocrisia que há em ti, a mesma que habitou primeiramente em tua avó Lóide e em tua mãe Eunice e que, estou convencido, reside também em ti. \\par",
+      "reference": "2Tm 1:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i As graças recebidas por Timóteo\\par }Por este motivo, eu te exorto a reavivar o dom de Deus que há em ti pela imposição das minhas mãos.",
+      "reference": "2Tm 1:6"
+    },
+    "7": {
+      "text": "Pois Deus não nos deu um espírito de medo, mas um espírito de força, de amor e de sobriedade.",
+      "reference": "2Tm 1:7"
+    },
+    "8": {
+      "text": "Não te envergonhes, pois, de dar testemunho de nosso Senhor, nem de mim, seu prisioneiro; pelo contrário, participa do meu sofrimento pelo evangelho, confiando no poder de Deus,",
+      "reference": "2Tm 1:8"
+    },
+    "9": {
+      "text": "que nos salvou e nos chamou com uma vocação santa, não em virtude de nossas obras, mas em virtude do seu próprio desígnio e graça. Essa graça, que nos foi dada em Cristo Jesus, antes dos tempos eternos,",
+      "reference": "2Tm 1:9"
+    },
+    "10": {
+      "text": "foi manifestada agora pela Aparição de nosso Salvador, o Cristo Jesus. Ele não só destruiu a morte, mas também fez brilhar a vida e a imortalidade pelo evangelho,",
+      "reference": "2Tm 1:10"
+    },
+    "11": {
+      "text": "para o qual eu fui constituído pregador, apóstolo e doutor. \\par",
+      "reference": "2Tm 1:11"
+    },
+    "12": {
+      "text": "Eis por que sofro estas coisas. Todavia não me envergonho, porque eu sei em quem coloquei a minha fé, e estou certo de que ele tem poder para guardar o meu depósito, até aquele Dia. \\par",
+      "reference": "2Tm 1:12"
+    },
+    "13": {
+      "text": "Toma por modelo as sãs palavras que de mim ouviste, com fé e com o amor que está em Cristo Jesus.",
+      "reference": "2Tm 1:13"
+    },
+    "14": {
+      "text": "Guarda o bom depósito, por meio do Espírito Santo que habita em nós. \\par",
+      "reference": "2Tm 1:14"
+    },
+    "15": {
+      "text": "Tu sabes que todos os da Ásia me abandonaram, dentre eles Figelo e Hermógenes.",
+      "reference": "2Tm 1:15"
+    },
+    "16": {
+      "text": "Que o Senhor conceda misericórdia à família de Onesíforo, porque ele muitas vezes me confortou e não se envergonhou de minhas cadeias;",
+      "reference": "2Tm 1:16"
+    },
+    "17": {
+      "text": "ao contrário, quando chegou a Roma, me procurou solicitamente até me encontrar.",
+      "reference": "2Tm 1:17"
+    },
+    "18": {
+      "text": "Que o Senhor lhe conceda achar misericórdia junto ao Senhor naquele Dia. Tu sabes, melhor do que eu, de todos os serviços que me prestou em Éfeso. \\par",
+      "reference": "2Tm 1:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

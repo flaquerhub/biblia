@@ -1,0 +1,137 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. O Código Deuteronômico}\\par }São estes os estatutos e as normas que cuidareis de pôr em prática na terra cuja posse Iahweh, Deus dos teus pais te dará, durante todos os dias em que viverdes sobre a terra. \\par",
+      "reference": "Dt 12:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i O lugar do culto\\par }Devereis destruir todos os lugares em que as nações que ireis conquistar tinham servido aos seus deuses, sobre os altos montes, sobre as colinas e sob toda árvore verdejante.",
+      "reference": "Dt 12:2"
+    },
+    "3": {
+      "text": "Demolireis seus altares, despedaçareis suas estelas, queimareis seus postes sagrados e esmagareis os ídolos dos seus deuses, fazendo com que o nome deles desapareça de tal lugar. \\par",
+      "reference": "Dt 12:3"
+    },
+    "4": {
+      "text": "Em relação a Iahweh vosso Deus não agireis desse modo.",
+      "reference": "Dt 12:4"
+    },
+    "5": {
+      "text": "Pelo contrário: buscá-lo-eis somente no lugar que Iahweh vosso Deus houver escolhido, dentre todas as vossas tribos, para aí colocar o seu nome e aí fazê-lo habitar.",
+      "reference": "Dt 12:5"
+    },
+    "6": {
+      "text": "Levareis para lá vossos holocaustos e vossos sacrifícios, vossos dízimos e os dons das vossas mãos, vossos sacrifícios votivos e vossos sacrifícios espontâneos, os primogênitos das vossas vacas e das vossas ovelhas.",
+      "reference": "Dt 12:6"
+    },
+    "7": {
+      "text": "E comereis lá, diante de Iahweh vosso Deus, alegrando-vos com todo o empreendimento da vossa mão, vós e vossas famílias, com o que Iahweh teu Deus te houver abençoado. \\par",
+      "reference": "Dt 12:7"
+    },
+    "8": {
+      "text": "Não procedereis conforme procedemos aqui hoje: cada um fazendo o que lhe parece bom,",
+      "reference": "Dt 12:8"
+    },
+    "9": {
+      "text": "pois até agora ainda não entrastes no lugar de repouso e na herança que Iahweh teu Deus te dará.",
+      "reference": "Dt 12:9"
+    },
+    "10": {
+      "text": "Atravessareis o Jordão e habitareis na terra que Iahweh vosso Deus vos dará como herança: ele vos protegerá de todos os vossos inimigos ao redor, para que habiteis em segurança.",
+      "reference": "Dt 12:10"
+    },
+    "11": {
+      "text": "É no lugar que Iahweh vosso Deus houver escolhido para aí fazer habitar o seu nome que trareis tudo o que eu vos ordenei: vossos holocaustos, vossos sacrifícios, vossos dízimos, os dons das vossas mãos e todas as oferendas escolhidas que tiverdes prometido como voto a Iahweh.",
+      "reference": "Dt 12:11"
+    },
+    "12": {
+      "text": "Alegrar-vos-eis diante de Iahweh vosso Deus, vós, vossos filhos e vossas filhas, vossos servos e vossas servas, e o levita que mora em vossas cidades, pois ele não tem parte nem herança convosco. \\par",
+      "reference": "Dt 12:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Precisões sobre os sacrifícios\\par }Fica atento a ti mesmo! Não oferecerás teus holocaustos em qualquer lugar que vejas,",
+      "reference": "Dt 12:13"
+    },
+    "14": {
+      "text": "pois é só no lugar que Iahweh houver escolhido, numa das tuas tribos, que deverás oferecer teu holocaustos; é lá que deverás pôr em prática tudo o que eu te ordeno. \\par",
+      "reference": "Dt 12:14"
+    },
+    "15": {
+      "text": "Entretanto, quando quiseres, poderás imolar e comer da carne em cada uma das tuas cidades, conforme a bênção que Iahweh teu Deus te houver concedido. Poderás comer tanto o puro como o impuro, assim como se come a gazela e o cervo;",
+      "reference": "Dt 12:15"
+    },
+    "16": {
+      "text": "o sangue, porém, não o comereis: tu o derramarás por terra como água. \\par",
+      "reference": "Dt 12:16"
+    },
+    "17": {
+      "text": "Não poderás comer em tuas cidades o dízimo do teu trigo, do teu vinho novo e do teu óleo, nem os primogênitos das tuas vacas e ovelhas, nem algo dos sacrifícios votivos que hajas prometido, ou dos teus sacrifícios espontâneos, ou ainda dos dons da tua mão.",
+      "reference": "Dt 12:17"
+    },
+    "18": {
+      "text": "Tu os comerás diante de Iahweh teu Deus, somente no lugar que Iahweh teu Deus houver escolhido, tu, teu filho e tua filha, teu servo e tua serva, e o levita que habita contigo. E te alegrarás diante de Iahweh teu Deus de todo o empreendimento da tua mão.",
+      "reference": "Dt 12:18"
+    },
+    "19": {
+      "text": "Fica atento a ti mesmo! Nunca abandones o levita em tua terra, todos os teus dias. \\par",
+      "reference": "Dt 12:19"
+    },
+    "20": {
+      "text": "Quando Iahweh teu Deus tiver alargado teu território, conforme te falara, e disseres: ‘Eu queria comer carne!’, caso desejes comer carne, podes comer carne o quanto queiras.",
+      "reference": "Dt 12:20"
+    },
+    "21": {
+      "text": "Se o lugar escolhido por Iahweh teu Deus para aí colocar o seu nome estiver muito longe de ti, poderás então imolar das vacas e ovelhas que Iahweh teu Deus te houver dado, conforme te ordenei. Poderás comer nas tuas cidades o quanto desejares.",
+      "reference": "Dt 12:21"
+    },
+    "22": {
+      "text": "Do mesmo modo como se come a gazela e o cervo, assim as comerás: o puro junto com o impuro.",
+      "reference": "Dt 12:22"
+    },
+    "23": {
+      "text": "Sê firme, contudo, para não comeres o sangue, porque o sangue é a vida. Portanto, não comas a vida com a carne.",
+      "reference": "Dt 12:23"
+    },
+    "24": {
+      "text": "Jamais o comerás! Derrama-o por terra como água.",
+      "reference": "Dt 12:24"
+    },
+    "25": {
+      "text": "Não o comas, para que tudo corra bem a ti e a teus filhos depois de ti, pois deste modo estarás fazendo o que é reto aos olhos de Iahweh.",
+      "reference": "Dt 12:25"
+    },
+    "26": {
+      "text": "Todavia, das coisas que te pertencem, tomarás o que tiveres consagrado, bem como teus sacrifícios votivos, e irás ao lugar que Iahweh houver escolhido.",
+      "reference": "Dt 12:26"
+    },
+    "27": {
+      "text": "Oferecerás teus holocaustos – a carne e o sangue – sobre o altar de Iahweh teu Deus: o sangue dos teus sacrifícios será derramado sobre o altar de Iahweh teu Deus, e comerás a carne.",
+      "reference": "Dt 12:27"
+    },
+    "28": {
+      "text": "Ouve com atenção, para pores em prática todas as coisas que te ordeno, para que tudo corra bem a ti e a teus filhos depois de ti, para sempre, pois estarás fazendo o que é bom e reto aos olhos de Iahweh teu Deus. \\par",
+      "reference": "Dt 12:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Contra os cultos cananeus\\par }Quando Iahweh teu Deus houver destruído as nações para onde te diriges, para te apoderares delas, e as tiveres conquistado e habitares em suas terras,",
+      "reference": "Dt 12:29"
+    },
+    "30": {
+      "text": "fica atento a ti mesmo! Não te deixes seduzir, não vás seguir o que ele havia exterminado da tua frente; não procures pelos seus deuses, dizendo: ‘Como estas nações serviam os seus deuses? Vou fazer o mesmo!’",
+      "reference": "Dt 12:30"
+    },
+    "31": {
+      "text": "Não procederás deste modo para com Iahweh teu Deus! Pois elas faziam a seus deuses tudo o que é abominação para Iahweh, tudo o que ele detesta: por seus deuses chegaram até a queimar os próprios filhos e filhas! \\par",
+      "reference": "Dt 12:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

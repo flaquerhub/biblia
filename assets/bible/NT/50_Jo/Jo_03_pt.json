@@ -1,0 +1,157 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O encontro com Nicodemos\\par }Havia, entre os fariseus, um homem chamado Nicodemos, um notável entre os judeus.",
+      "reference": "Jo 3:1"
+    },
+    "2": {
+      "text": "À noite ele veio encontrar Jesus e lhe disse: “Rabi, sabemos que vens da parte de Deus como um mestre, pois ninguém pode fazer os sinais que fazes, se Deus não estiver com ele”.",
+      "reference": "Jo 3:2"
+    },
+    "3": {
+      "text": "Jesus lhe respondeu: \\par “Em verdade, em verdade, te digo: \\par quem não nascer do alto \\par não pode ver o Reino de Deus”. \\par",
+      "reference": "Jo 3:3"
+    },
+    "4": {
+      "text": "Disse-lhe Nicodemos: “Como pode um homem nascer, sendo já velho? Poderá entrar uma segunda vez no seio de sua mãe e nascer?”",
+      "reference": "Jo 3:4"
+    },
+    "5": {
+      "text": "Respondeu-lhe Jesus: \\par “Em verdade, em verdade, te digo: \\par quem não nascer da água e do Espírito \\par não pode entrar o Reino de Deus. \\par",
+      "reference": "Jo 3:5"
+    },
+    "6": {
+      "text": "O que nasceu da carne é carne, \\par o que nasceu do Espírito é espírito. \\par",
+      "reference": "Jo 3:6"
+    },
+    "7": {
+      "text": "Não te admires de eu te haver dito: \\par deveis nascer do alto. \\par",
+      "reference": "Jo 3:7"
+    },
+    "8": {
+      "text": "O vento sopra onde quer \\par e ouves o seu ruído, \\par mas não sabes de onde vem \\par nem para onde vai. \\par Assim acontece com todo aquele \\par que nasceu do Espírito”. \\par",
+      "reference": "Jo 3:8"
+    },
+    "9": {
+      "text": "Perguntou-lhe Nicodemos: “Como isso pode acontecer?”",
+      "reference": "Jo 3:9"
+    },
+    "10": {
+      "text": "Respondeu-lhe Jesus: “És o mestre de Israel e ignoras essas coisas? \\par",
+      "reference": "Jo 3:10"
+    },
+    "11": {
+      "text": "Em verdade, em verdade, te digo: \\par falamos do que sabemos \\par e damos testemunho do que vimos, \\par porém não acolheis o nosso testemunho. \\par",
+      "reference": "Jo 3:11"
+    },
+    "12": {
+      "text": "Se não credes \\par quando vos falo das coisas da terra, \\par como ireis crer \\par quando vos falar das coisas do céu? \\par",
+      "reference": "Jo 3:12"
+    },
+    "13": {
+      "text": "Ninguém subiu ao céu, \\par a não ser aquele que desceu do céu, \\par o Filho do Homem. \\par",
+      "reference": "Jo 3:13"
+    },
+    "14": {
+      "text": "Como Moisés levantou \\par a serpente no deserto, \\par assim é necessário que seja levantado \\par o Filho do Homem, \\par",
+      "reference": "Jo 3:14"
+    },
+    "15": {
+      "text": "a fim de que todo aquele que crer \\par tenha nele vida eterna. \\par",
+      "reference": "Jo 3:15"
+    },
+    "16": {
+      "text": "Pois Deus amou tanto o mundo, \\par que entregou o seu Filho único, \\par para que todo o que nele crê não pereça, \\par mas tenha vida eterna. \\par",
+      "reference": "Jo 3:16"
+    },
+    "17": {
+      "text": "Pois Deus não enviou o seu Filho \\par ao mundo para julgar o mundo, \\par mas para que o mundo seja salvo por ele. \\par",
+      "reference": "Jo 3:17"
+    },
+    "18": {
+      "text": "Quem nele crê não é julgado; \\par quem não crê, já está julgado, \\par porque não creu \\par no Nome do Filho único de Deus. \\par",
+      "reference": "Jo 3:18"
+    },
+    "19": {
+      "text": "Este é o julgamento: \\par a luz veio ao mundo, \\par mas os homens preferiram \\par as trevas à luz, \\par porque as suas obras eram más. \\par",
+      "reference": "Jo 3:19"
+    },
+    "20": {
+      "text": "Pois quem faz o mal \\par odeia a luz e não vem para a luz, \\par para que suas obras não sejam demonstradas como culpáveis. \\par",
+      "reference": "Jo 3:20"
+    },
+    "21": {
+      "text": "Mas quem pratica a verdade \\par vem para a luz, \\par para que se manifeste \\par que suas obras são feitas em Deus”. \\par",
+      "reference": "Jo 3:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Ministério de Jesus na Judéia. Último testemunho de João\\par }Depois disso, Jesus veio com os seus discípulos para o território da Judéia e permaneceu ali com eles e batizava.",
+      "reference": "Jo 3:22"
+    },
+    "23": {
+      "text": "João também batizava em Enon, perto de Salim, pois lá as águas eram abundantes e muitos se apresentavam para serem batizados.",
+      "reference": "Jo 3:23"
+    },
+    "24": {
+      "text": "João ainda não fora encarcerado. \\par",
+      "reference": "Jo 3:24"
+    },
+    "25": {
+      "text": "Originou-se uma discussão entre os discípulos de João e um certo judeu a respeito da purificação;",
+      "reference": "Jo 3:25"
+    },
+    "26": {
+      "text": "eles vieram encontrar João e lhe disseram: “Rabi, aquele que estava contigo do outro lado do Jordão, de quem deste testemunho, está batizando e todos vão a ele”.",
+      "reference": "Jo 3:26"
+    },
+    "27": {
+      "text": "João respondeu: \\par “Um homem nada pode receber \\par a não ser que lhe tenha sido dado do céu. \\par",
+      "reference": "Jo 3:27"
+    },
+    "28": {
+      "text": "Vós mesmos sois testemunhas \\par de que eu disse: \\par ‘Não sou eu o Cristo, \\par mas sou enviado adiante dele’. \\par",
+      "reference": "Jo 3:28"
+    },
+    "29": {
+      "text": "Quem tem a esposa é o esposo; \\par mas o amigo do esposo, \\par que está presente e o ouve, \\par é tomado de alegria à voz do esposo. \\par Essa é a minha alegria e ela é completa! \\par",
+      "reference": "Jo 3:29"
+    },
+    "30": {
+      "text": "É necessário que ele cresça \\par e eu diminua. \\par",
+      "reference": "Jo 3:30"
+    },
+    "31": {
+      "text": "Aquele que vem do alto \\par está acima de todos; \\par o que é da terra \\par é terrestre e fala como terrestre. \\par Aquele que vem do céu \\par",
+      "reference": "Jo 3:31"
+    },
+    "32": {
+      "text": "dá testemunho do que viu e ouviu, \\par mas ninguém acolhe o seu testemunho. \\par",
+      "reference": "Jo 3:32"
+    },
+    "33": {
+      "text": "Quem acolhe o seu testemunho \\par certifica que Deus é verdadeiro. \\par",
+      "reference": "Jo 3:33"
+    },
+    "34": {
+      "text": "Com efeito, aquele que Deus enviou \\par fala as palavras de Deus, \\par pois ele dá o Espírito sem medida. \\par",
+      "reference": "Jo 3:34"
+    },
+    "35": {
+      "text": "O Pai ama o Filho \\par e tudo entregou em sua mão. \\par",
+      "reference": "Jo 3:35"
+    },
+    "36": {
+      "text": "Quem crê no Filho tem vida eterna. \\par Quem recusa crer no Filho não verá a vida.\\par Pelo contrário, a ira de Deus permanece sobre ele”. \\par",
+      "reference": "Jo 3:36"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 36
+}

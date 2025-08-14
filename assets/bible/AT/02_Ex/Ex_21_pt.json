@@ -1,0 +1,161 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Leis acerca dos escravos\\par }Eis as leis que lhes proporás:",
+      "reference": "Ex 21:1"
+    },
+    "2": {
+      "text": "Quando comprares um escravo hebreu, seis anos ele servirá; mas no sétimo sairá livre, sem nada pagar.",
+      "reference": "Ex 21:2"
+    },
+    "3": {
+      "text": "Se veio só, sozinho sairá; se era casado, com ele sairá a esposa.",
+      "reference": "Ex 21:3"
+    },
+    "4": {
+      "text": "Se o seu senhor lhe der mulher, e esta der à luz filhos e filhas, a mulher e seus filhos serão do senhor, e ele sairá sozinho.",
+      "reference": "Ex 21:4"
+    },
+    "5": {
+      "text": "Mas se o escravo disser: ‘Eu amo a meu senhor, minha mulher e meus filhos, não quero ficar livre’,",
+      "reference": "Ex 21:5"
+    },
+    "6": {
+      "text": "o seu senhor fá-lo-á aproximar-se de Deus, e o fará encostar-se à porta e às ombreiras e lhe furará a orelha com uma sovela: e ele ficará seu escravo para sempre.",
+      "reference": "Ex 21:6"
+    },
+    "7": {
+      "text": "Se alguém vender sua filha como serva, esta não sairá como saem os escravos.",
+      "reference": "Ex 21:7"
+    },
+    "8": {
+      "text": "Se ela desagradar ao seu senhor, ao qual estava destinada, este a fará resgatar; não poderá vendê-la a um povo estrangeiro, usando de fraude para com ela.",
+      "reference": "Ex 21:8"
+    },
+    "9": {
+      "text": "Se a destinar a seu filho, este a tratará segundo o costume em vigor para as filhas.",
+      "reference": "Ex 21:9"
+    },
+    "10": {
+      "text": "Se tomar para si uma outra mulher, não diminuirá o alimento, nem a vestimenta, nem os direitos conjugais da primeira.",
+      "reference": "Ex 21:10"
+    },
+    "11": {
+      "text": "Se a frustrar nessas três coisas, ela sairá sem pagar nada, sem dar dinheiro algum. \\par",
+      "reference": "Ex 21:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Homicídio\\par }Quem ferir a outro e causar a sua morte, será morto.",
+      "reference": "Ex 21:12"
+    },
+    "13": {
+      "text": "Se não lhe armou cilada, mas Deus lhe permitiu caísse em suas mãos, eu te designarei um lugar no qual possa se refugiar.",
+      "reference": "Ex 21:13"
+    },
+    "14": {
+      "text": "Se alguém matar outro por astúcia, tu o arrancarás até mesmo do meu altar, para que morra. \\par",
+      "reference": "Ex 21:14"
+    },
+    "15": {
+      "text": "Quem ferir o seu pai ou a sua mãe, será morto.",
+      "reference": "Ex 21:15"
+    },
+    "16": {
+      "text": "Quem raptar alguém e o vender, ou for achado na sua mão, será morto.",
+      "reference": "Ex 21:16"
+    },
+    "17": {
+      "text": "Quem amaldiçoar o seu pai ou a sua mãe, será morto. \\par",
+      "reference": "Ex 21:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Golpes e ferimentos\\par }Se alguns discutirem entre si e um ferir o outro com uma pedra ou com o punho, e ele não morrer, mas for para o leito,",
+      "reference": "Ex 21:18"
+    },
+    "19": {
+      "text": "se ele se levantar e andar, ainda que apoiado no seu bordão, então será absolvido aquele que o feriu; somente lhe pagará o tempo que perdeu e o fará curar-se totalmente. \\par",
+      "reference": "Ex 21:19"
+    },
+    "20": {
+      "text": "Se alguém ferir o seu escravo ou a sua serva com uma vara, e o ferido morrer debaixo de sua mão, será punido.",
+      "reference": "Ex 21:20"
+    },
+    "21": {
+      "text": "Mas, se sobreviver um dia ou dois, não será punido, porque é dinheiro seu. \\par",
+      "reference": "Ex 21:21"
+    },
+    "22": {
+      "text": "Se homens brigarem, e ferirem mulher grávida, e forem causa de aborto, sem maior dano, o culpado será obrigado a indenizar o que lhe exigir o marido da mulher; e pagará o que os árbitros determinarem.",
+      "reference": "Ex 21:22"
+    },
+    "23": {
+      "text": "Mas se houver dano grave, então darás vida por vida,",
+      "reference": "Ex 21:23"
+    },
+    "24": {
+      "text": "olho por olho, dente por dente, pé por pé,",
+      "reference": "Ex 21:24"
+    },
+    "25": {
+      "text": "queimadura por queimadura, ferida por ferida, golpe por golpe. \\par",
+      "reference": "Ex 21:25"
+    },
+    "26": {
+      "text": "Se alguém ferir o olho do seu escravo ou o olho da sua serva, e o inutilizar, deixá-lo-á livre pelo seu olho.",
+      "reference": "Ex 21:26"
+    },
+    "27": {
+      "text": "Se fizer cair um dente do seu escravo ou um dente da sua serva, dar-lhe-á liberdade pelo seu dente. \\par",
+      "reference": "Ex 21:27"
+    },
+    "28": {
+      "text": "Se algum boi chifrar homem ou mulher e causar sua morte, o boi será apedrejado e não comerão a sua carne; mas o dono do boi será absolvido.",
+      "reference": "Ex 21:28"
+    },
+    "29": {
+      "text": "Se o boi, porém, já antes marrava e o dono foi avisado, e não o guardou, o boi será apedrejado e o seu dono será morto.",
+      "reference": "Ex 21:29"
+    },
+    "30": {
+      "text": "Se lhe for exigido resgate, dará então como resgate da sua vida tudo o que lhe for exigido.",
+      "reference": "Ex 21:30"
+    },
+    "31": {
+      "text": "Que tenha chifrado um filho, que tenha chifrado uma filha, esse julgamento lhe será aplicado.",
+      "reference": "Ex 21:31"
+    },
+    "32": {
+      "text": "Se o boi ferir um escravo ou uma serva, dar-se-ão trinta siclos de prata ao senhor destes, e o boi será apedrejado. \\par",
+      "reference": "Ex 21:32"
+    },
+    "33": {
+      "text": "Se alguém deixar aberto um buraco, ou se alguém cavar um buraco e não o tapar, e nele cair um boi ou um jumento,",
+      "reference": "Ex 21:33"
+    },
+    "34": {
+      "text": "o dono do buraco o pagará, pagará em dinheiro ao seu dono, mas o animal morto será seu.",
+      "reference": "Ex 21:34"
+    },
+    "35": {
+      "text": "Se o boi de alguém ferir o boi de um outro, e o boi ferido morrer, venderão o boi vivo e repartirão o seu valor; e dividirão entre si o boi morto.",
+      "reference": "Ex 21:35"
+    },
+    "36": {
+      "text": "Se, porém, o dono sabia que o boi marrava já há algum tempo e não o guardou, pagará boi por boi; mas o boi morto será seu. \\par",
+      "reference": "Ex 21:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i Roubos de animais\\par }Se alguém roubar um boi ou uma ovelha e o abater ou vender, restituirá cinco bois por um boi e quatro ovelhas por uma ovelha. \\par",
+      "reference": "Ex 21:37"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 37
+}

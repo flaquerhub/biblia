@@ -1,0 +1,33 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Oséias retoma a esposa infiel e a põe à prova. Explicação do símbolo\\par }Disse-me Iahweh: “Vai novamente, ama uma mulher que ama um outro e que comete adultério, como Iahweh ama os filhos de Israel, embora estes se voltem para os deuses estrangeiros e gostem dos bolos de passa”.",
+      "reference": "Os 3:1"
+    },
+    "2": {
+      "text": "Comprei-a por quinze siclos de prata e um hômer e meio de cevada",
+      "reference": "Os 3:2"
+    },
+    "3": {
+      "text": "e lhe disse: “Por muitos dias ficarás em casa para mim, não te prostituirás nem te entregarás a homem algum, e eu farei o mesmo contigo”. \\par",
+      "reference": "Os 3:3"
+    },
+    "4": {
+      "text": "Porque, por muitos dias ficarão os filhos de Israel sem rei, sem chefe, sem sacrifício, sem estela, sem efod e sem terafim.",
+      "reference": "Os 3:4"
+    },
+    "5": {
+      "text": "Depois disso os filhos de Israel voltarão e procurarão a Iahweh, seu Deus, e a Davi, seu rei; voltarão tremendo a Iahweh e a seus bens no fim dos dias. \\par",
+      "reference": "Os 3:5"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 5
+}

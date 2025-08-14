@@ -1,0 +1,165 @@
+{
+  "book": 16,
+  "book_name": "Neemias",
+  "book_abbr": "Ne",
+  "book_category": "Histórico",
+  "book_english": "Nehemiah",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os voluntários na reconstrução\\par }Eliasib, o sumo sacerdote, e seus irmãos, os sacerdotes, puseram-se a trabalhar e construíram a porta das Ovelhas, fizeram as vigas, fixaram os batentes, as fechaduras e as trancas, e continuaram até à torre dos Cem e até à torre de Hananeel.",
+      "reference": "Ne 3:1"
+    },
+    "2": {
+      "text": "Junto deles, o povo de Jericó trabalhou na construção; e mais adiante, Zacur, filho de Imri.",
+      "reference": "Ne 3:2"
+    },
+    "3": {
+      "text": "Os filhos de Asená construíram a porta dos Peixes; fizeram as vigas, fixaram os batentes, as fechaduras e as trancas.",
+      "reference": "Ne 3:3"
+    },
+    "4": {
+      "text": "Junto deles, fez a restauração Meremot, filho de Urias, filho de Acus; junto dele, trabalhou Mosolam, filho de Baraquias, filho de Mesezebel; mais além, trabalhou Sadoc, filho de Baana.",
+      "reference": "Ne 3:4"
+    },
+    "5": {
+      "text": "Junto dele, trabalhou na restauração o povo de Técua, mas os seus notáveis se recusaram a submeter-se ao serviço dos seus senhores.",
+      "reference": "Ne 3:5"
+    },
+    "6": {
+      "text": "Quanto à porta do bairro Novo, Joiada, filho de Fasea, e Mosolam, filho de Besodias, a restauraram; fizeram as vigas, fixaram os batentes, as fechaduras, e as trancas.",
+      "reference": "Ne 3:6"
+    },
+    "7": {
+      "text": "Ao lado deles, restauraram Meltias de Gabaon e Jadon de Meronot, bem como o povo de Gabaon e de Masfa, à custa do governador da Transeufratênia.",
+      "reference": "Ne 3:7"
+    },
+    "8": {
+      "text": "Junto deles, restaurou Oziel, membro da corporação dos ourives, e, mais além, restaurou Hananias, da corporação dos perfumistas: eles reforçaram Jerusalém até a muralha larga.",
+      "reference": "Ne 3:8"
+    },
+    "9": {
+      "text": "Junto deles, restaurou Rafaías, filho de Hur, chefe da metade do distrito de Jerusalém.",
+      "reference": "Ne 3:9"
+    },
+    "10": {
+      "text": "Ao lado, trabalhava Jedaías, filho de Haromaf, defronte de sua casa; ao lado dele, trabalhou Hatus, filho de Hasebonias.",
+      "reference": "Ne 3:10"
+    },
+    "11": {
+      "text": "Melquias, filho de Herem e Hasub, filho de Faat-Moab, reconstruíram o setor seguinte até à torre dos Fornos.",
+      "reference": "Ne 3:11"
+    },
+    "12": {
+      "text": "Junto deles, restaurou Selum, filho de Aloés, chefe da metade do distrito de Jerusalém, trabalhando ele e seus filhos.",
+      "reference": "Ne 3:12"
+    },
+    "13": {
+      "text": "Hanun e os habitantes de Zanoe restauraram a porta do Vale: construíram-na, puseram-lhe os batentes, as fechaduras e as trancas e refizeram mil côvados de muro, até a porta do Esterco.",
+      "reference": "Ne 3:13"
+    },
+    "14": {
+      "text": "Melquias, filho de Recab, chefe do distrito de Bet-Acarem, restaurou a porta do Esterco junto com seus filhos: fixou seus batentes, suas fechaduras e trancas. \\par",
+      "reference": "Ne 3:14"
+    },
+    "15": {
+      "text": "Selum, filho de Col-Hoza, chefe do distrito de Masfa, restaurou a porta da Fonte: construiu-a, cobriu-a, fixou seus batentes, suas fechaduras e trancas. Reconstruiu também o muro da piscina de Siloé, ao lado do jardim do rei, até a escada que desce da Cidade de Davi.",
+      "reference": "Ne 3:15"
+    },
+    "16": {
+      "text": "Depois dele, Neemias, filho de Azboc, chefe da metade do distrito de Betsur, fez a restauração até defronte dos túmulos de Davi, até a cisterna construída e até a Casa dos Heróis.",
+      "reference": "Ne 3:16"
+    },
+    "17": {
+      "text": "Depois deles, trabalharam os levitas: Reum, filho de Bani; ao lado dele, restaurou Hasabias, chefe da metade do distrito de Ceila, para seu distrito;",
+      "reference": "Ne 3:17"
+    },
+    "18": {
+      "text": "junto a ele, restauraram seus irmãos: Benui, filho de Henadad, chefe da metade do distrito de Ceila:",
+      "reference": "Ne 3:18"
+    },
+    "19": {
+      "text": "ao seu lado, Azer, filho de Jesua, chefe de Masfa, restaurou um outro setor, defronte da subida do Arsenal, na Esquina. \\par",
+      "reference": "Ne 3:19"
+    },
+    "20": {
+      "text": "Depois dele, Baruc, filho de Zabai, reconstruiu outro setor, desde a Esquina até a porta da casa de Eliasib, o sumo sacerdote.",
+      "reference": "Ne 3:20"
+    },
+    "21": {
+      "text": "Depois dele, Meremot, filho de Urias, filho de Acos restaurou outro setor, desde a entrada da casa de Aliasib até sua extremidade.",
+      "reference": "Ne 3:21"
+    },
+    "22": {
+      "text": "Depois dele, trabalharam na restauração os sacerdotes que moravam na planície.",
+      "reference": "Ne 3:22"
+    },
+    "23": {
+      "text": "Depois deles, Benjamim e Hasub, restauraram diante de suas casas. Depois deles, Azarias, filho de Maasias, filho de Ananias, restaurou ao lado da sua casa.",
+      "reference": "Ne 3:23"
+    },
+    "24": {
+      "text": "Depois dele, Benui, filho de Henadad, restaurou outro setor, desde a casa de Azarias até à Esquina e ao Ângulo.",
+      "reference": "Ne 3:24"
+    },
+    "25": {
+      "text": "Depois dele, Falel, filho de Ozi, restaurou em frente à Esquina e à torre que sobressai acima do Palácio real superior e está situada no pátio do cárcere. Depois dele, Fadaías, filho de Faros, restaurou",
+      "reference": "Ne 3:25"
+    },
+    "26": {
+      "text": "até defronte da porta das Águas, ao oriente, e até à torre que sobressai.",
+      "reference": "Ne 3:26"
+    },
+    "27": {
+      "text": "Depois dele, o povo de Técua restaurou outro setor, em frente da grande torre que sobressai e até o muro de Ofel. \\par",
+      "reference": "Ne 3:27"
+    },
+    "28": {
+      "text": "A partir da porta dos Cavalos, os sacerdotes trabalharam nas restaurações, cada um em frente de sua casa.",
+      "reference": "Ne 3:28"
+    },
+    "29": {
+      "text": "Depois deles, Sadoc, filho de Hemer, restaurou diante de sua casa. Depois dele, restaurou Semaías, filho de Sequenias, guardião da porta do Oriente.",
+      "reference": "Ne 3:29"
+    },
+    "30": {
+      "text": "Depois deles, Hananias, filho de Selemias, e Hanun, sexto filho de Selef, restauraram outro setor. Depois dele, Mosolam, filho de Baraquias, restaurou diante de seu aposento.",
+      "reference": "Ne 3:30"
+    },
+    "31": {
+      "text": "Depois dele, Melquias, da corporação dos ourives, restaurou até a morada dos “doados” e dos comerciantes, em frente da porta do vigia, até à sala alta do Ângulo.",
+      "reference": "Ne 3:31"
+    },
+    "32": {
+      "text": "E entre a sala alta do Ângulo e a porta das Ovelhas restauraram os ourives e os comerciantes. \\par",
+      "reference": "Ne 3:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Reações dos inimigos dos judeus\\par }Logo que Sanabalat soube que estávamos reconstruindo a muralha, encolerizou-se e mostrou-se muito irritado. Escarneceu dos judeus,",
+      "reference": "Ne 3:33"
+    },
+    "34": {
+      "text": "e exclamou diante de seus irmãos e diante da aristocracia da Samaria: “Que estão fazendo esses pobres judeus?... Vão desistir? Ou sacrificar? Ou terminar num dia? Farão viver estas pedras, tiradas de montões de escombros e já calcinadas?”",
+      "reference": "Ne 3:34"
+    },
+    "35": {
+      "text": "Tobias, o amonita, que estava a seu lado, disse: “Isso que eles estão construindo, se uma raposa subir aí, derrubará sua muralha de pedras!”",
+      "reference": "Ne 3:35"
+    },
+    "36": {
+      "text": "Ouve, ó nosso Deus, como somos desprezados! Faze recair seus insultos sobre sua cabeça. Entrega-os ao desprezo numa terra de escravidão!",
+      "reference": "Ne 3:36"
+    },
+    "37": {
+      "text": "Não perdoes seu pecado e que sua iniqüidade e seu pecado não sejam cancelados diante de ti: pois ofenderam os construtores! \\par",
+      "reference": "Ne 3:37"
+    },
+    "38": {
+      "text": "Ora reconstruímos a muralha que foi restaurada por completo até meia altura. O povo trabalhava de bom coração. \\par",
+      "reference": "Ne 3:38"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 38
+}

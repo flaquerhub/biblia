@@ -1,0 +1,145 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O Decálogo\\par }Moisés convocou todo Israel e disse: \\par “Ouve, o Israel, os estatutos e as normas que hoje proclamo aos vossos ouvidos. Vós os aprendereis e cuidareis de pô-los em prática. \\par",
+      "reference": "Dt 5:1"
+    },
+    "2": {
+      "text": "Iahweh nosso Deus concluiu conosco uma Aliança no Horeb.",
+      "reference": "Dt 5:2"
+    },
+    "3": {
+      "text": "Iahweh não concluiu esta Aliança com nossos pais, mas conosco, conosco que estamos hoje aqui, todos vivos.",
+      "reference": "Dt 5:3"
+    },
+    "4": {
+      "text": "Iahweh falou convosco face a face, do meio do fogo, sobre a montanha.",
+      "reference": "Dt 5:4"
+    },
+    "5": {
+      "text": "Eu estava então entre Iahweh e vós, para vos anunciar a palavra de Iahweh, pois ficastes com medo do fogo e não subistes à montanha. Ele disse: \\par",
+      "reference": "Dt 5:5"
+    },
+    "6": {
+      "text": "‘Eu sou Iahweh teu Deus, aquele que te fez sair da terra do Egito, da casa da escravidão. \\par",
+      "reference": "Dt 5:6"
+    },
+    "7": {
+      "text": "Não terás outros deuses diante de mim. \\par",
+      "reference": "Dt 5:7"
+    },
+    "8": {
+      "text": "Não farás para ti imagem esculpida, de nada que se assemelhe ao que existe lá em cima, no céu, ou cá embaixo na terra, ou nas águas que estão debaixo da terra.",
+      "reference": "Dt 5:8"
+    },
+    "9": {
+      "text": "Não te prostrarás diante desses deuses nem os servirás, porque eu, Iahweh teu Deus, sou um Deus ciumento, que puno a iniqüidade dos pais sobre os filhos, até a terceira e a quarta geração dos que me odeiam,",
+      "reference": "Dt 5:9"
+    },
+    "10": {
+      "text": "mas que também ajo com amor até a milésima geração para com aqueles que me amam e guardam os meus mandamentos. \\par",
+      "reference": "Dt 5:10"
+    },
+    "11": {
+      "text": "Não pronunciarás em vão o nome de Iahweh teu Deus, pois Iahweh não deixará impune aquele que pronunciar em vão o seu nome. \\par",
+      "reference": "Dt 5:11"
+    },
+    "12": {
+      "text": "Guardarás o dia de sábado para santificá-lo, conforme ordenou Iahweh teu Deus.",
+      "reference": "Dt 5:12"
+    },
+    "13": {
+      "text": "Trabalharás durante seis dias e farás toda a tua obra;",
+      "reference": "Dt 5:13"
+    },
+    "14": {
+      "text": "o sétimo dia, porém, é o sábado de Iahweh teu Deus. Não farás nenhum trabalho, nem tu, nem teu filho, nem tua filha, nem teu escravo, nem tua escrava, nem teu boi, nem teu jumento, nem qualquer dos teus animais, nem o estrangeiro que está em tuas portas. Deste modo o teu escravo e a tua escrava poderão repousar como tu.",
+      "reference": "Dt 5:14"
+    },
+    "15": {
+      "text": "Recorda que foste escravo na terra do Egito, e que Iahweh teu Deus te fez sair de lá com mão forte e braço estendido. É por isso que Iahweh teu Deus te ordenou guardar o dia de sábado. \\par",
+      "reference": "Dt 5:15"
+    },
+    "16": {
+      "text": "Honra teu pai e tua mãe, conforme te ordenou Iahweh teu Deus, para que os teus dias se prolonguem e tudo corra bem na terra que Iahweh teu Deus te dá. \\par",
+      "reference": "Dt 5:16"
+    },
+    "17": {
+      "text": "Não matarás. \\par",
+      "reference": "Dt 5:17"
+    },
+    "18": {
+      "text": "Não cometerás adultério. \\par",
+      "reference": "Dt 5:18"
+    },
+    "19": {
+      "text": "Não roubarás. \\par",
+      "reference": "Dt 5:19"
+    },
+    "20": {
+      "text": "Não apresentarás um falso testemunho contra o teu próximo. \\par",
+      "reference": "Dt 5:20"
+    },
+    "21": {
+      "text": "Não cobiçarás a mulher do teu próximo; nem desejarás para ti a casa do teu próximo, nem o seu campo, nem o seu escravo, nem a sua escrava, nem o seu boi, nem o seu jumento, nem coisa alguma que pertença a teu próximo’. \\par",
+      "reference": "Dt 5:21"
+    },
+    "22": {
+      "text": "Tais foram as palavras que, em alta voz, Iahweh dirigiu a toda a vossa assembléia no monte, do meio do fogo, em meio a trevas, nuvens e escuridão. Sem nada acrescentar, escreveu-as sobre duas tábuas de pedra e as entregou a mim. \\par",
+      "reference": "Dt 5:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Mediação de Moisés\\par }Contudo, quando ouvistes a voz que vinha do meio das trevas, enquanto a montanha ardia em fogo, vós todos, chefes de vossas tribos e anciãos, vos aproximastes de mim",
+      "reference": "Dt 5:23"
+    },
+    "24": {
+      "text": "para dizer: ‘Eis que Iahweh nosso Deus nos mostrou sua glória e sua grandeza, e nós ouvimos a sua voz do meio do fogo. Hoje vimos que Deus pode falar ao homem, sem que este deixe de viver.",
+      "reference": "Dt 5:24"
+    },
+    "25": {
+      "text": "E agora, por que iríamos morrer? Este grande fogo vai nos devorar! Se continuarmos a ouvir a voz de Iahweh nosso Deus nós vamos morrer!",
+      "reference": "Dt 5:25"
+    },
+    "26": {
+      "text": "Com efeito, quem dentre todos os seres carnais pôde, como nós, ouvir a voz do Deus vivo, falando do meio do fogo, e permanecer vivo?",
+      "reference": "Dt 5:26"
+    },
+    "27": {
+      "text": "Aproxima-te para ouvir tudo o que Iahweh nosso Deus vai dizer. Tu nos dirás tudo o que Iahweh nosso Deus te falar. Nós ouviremos e poremos em prática’. \\par",
+      "reference": "Dt 5:27"
+    },
+    "28": {
+      "text": "Iahweh ouviu o tom das vossas palavras quando falastes comigo, e me disse: ‘Ouvi o tom das palavras que este povo te dirigiu. Tudo o que falaram é muito bom!",
+      "reference": "Dt 5:28"
+    },
+    "29": {
+      "text": "Oxalá o seu coração fosse sempre assim, para temer-me e observar continuamente todos os meus mandamentos, de modo que tudo corresse bem para eles e seus filhos, para sempre!",
+      "reference": "Dt 5:29"
+    },
+    "30": {
+      "text": "Vai e dize-lhes: Voltai às vossas tendas!",
+      "reference": "Dt 5:30"
+    },
+    "31": {
+      "text": "Tu, porém, permanece aqui comigo, para que eu te diga todos os mandamentos, os estatutos e as normas que lhes ensinarás, a fim de que os pratiquem na terra cuja posse eu lhes darei’. \\par",
+      "reference": "Dt 5:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i O amor de Iahweh, essência da Lei\\par }Observai, portanto, para agirdes conforme vos ordenou Iahweh vosso Deus. Não vos desvieis, nem para a direita, nem para a esquerda.",
+      "reference": "Dt 5:32"
+    },
+    "33": {
+      "text": "Andareis em todo o caminho que Iahweh vosso Deus vos ordenou, para que vivais, sendo felizes e prolongando os vossos dias na terra que ides conquistar. \\par",
+      "reference": "Dt 5:33"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 33
+}

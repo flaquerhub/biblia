@@ -1,0 +1,189 @@
+{
+  "book": 41,
+  "book_name": "Marcos",
+  "book_abbr": "Mc",
+  "book_category": "Evangelhos",
+  "book_english": "Mark",
+  "testament": "NT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Parábola dos vinhateiros homicidas\\par }Começou a falar-lhes em parábolas: “Um homem {\\i plantou uma vinha, cercou-a de uma sebe, abriu um lagar, construiu uma torre.} Depois disso, arrendou-a a alguns vinhateiros e partiu de viagem.",
+      "reference": "Mc 12:1"
+    },
+    "2": {
+      "text": "No tempo oportuno, enviou um servo aos vinhateiros para que recebesse uma parte dos frutos da vinha.",
+      "reference": "Mc 12:2"
+    },
+    "3": {
+      "text": "Eles, porém, o agarraram e espancaram, e mandaram-no de volta sem nada.",
+      "reference": "Mc 12:3"
+    },
+    "4": {
+      "text": "Enviou-lhes de novo outro servo. Mas bateram-lhe na cabeça e o insultaram.",
+      "reference": "Mc 12:4"
+    },
+    "5": {
+      "text": "Enviou ainda um outro, e a esse mataram. Depois mandou muitos outros. Bateram nuns, mataram os outros.",
+      "reference": "Mc 12:5"
+    },
+    "6": {
+      "text": "Restava-lhe ainda alguém: o filho amado. Enviou-o por último, dizendo: ‘Eles respeitarão meu filho’.",
+      "reference": "Mc 12:6"
+    },
+    "7": {
+      "text": "Aqueles vinhateiros, porém, disseram entre si: ‘Este é o herdeiro. Vamos, matemo-lo, e a herança será nossa’.",
+      "reference": "Mc 12:7"
+    },
+    "8": {
+      "text": "E agarrando-o, mataram-no e o lançaram fora da vinha.",
+      "reference": "Mc 12:8"
+    },
+    "9": {
+      "text": "Que fará o dono da vinha? Virá e destruirá os vinhateiros e dará a vinha a outros.",
+      "reference": "Mc 12:9"
+    },
+    "10": {
+      "text": "Não lestes esta Escritura: \\par {\\i ‘A pedra que os construtores rejeitaram \\par tornou-se a pedra angular; }\\par",
+      "reference": "Mc 12:10"
+    },
+    "11": {
+      "text": "{\\i isso é obra do Senhor, \\par e é maravilha aos nossos olhos’}?”\\par",
+      "reference": "Mc 12:11"
+    },
+    "12": {
+      "text": "Procuravam prendê-lo, mas ficaram com medo da multidão, pois perceberam que ele contara a parábola a respeito deles. E deixando-o, foram embora. \\par",
+      "reference": "Mc 12:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i O imposto a César\\par }Enviaram-lhe, então, alguns dos fariseus e dos herodianos para enredá-lo com alguma palavra.",
+      "reference": "Mc 12:13"
+    },
+    "14": {
+      "text": "Vindo eles, disseram-lhe: “Mestre, sabemos que és verdadeiro e não dás preferência a ninguém, pois não consideras os homens pelas aparências, mas ensinas, de fato, o caminho de Deus. É lícito pagar imposto a César ou não? Pagamos ou não pagamos?”",
+      "reference": "Mc 12:14"
+    },
+    "15": {
+      "text": "Ele, porém, conhecendo a sua hipocrisia, disse: “Por que me pondes à prova? Trazei-me um denário para que eu o veja”.",
+      "reference": "Mc 12:15"
+    },
+    "16": {
+      "text": "Eles trouxeram. E ele disse: “De quem é esta imagem e a inscrição?” Responderam-lhe: “De César”.",
+      "reference": "Mc 12:16"
+    },
+    "17": {
+      "text": "Então Jesus disse-lhes: “O que é de César, devolvei a César; o que é de Deus, a Deus”. E muito se admiraram dele. \\par",
+      "reference": "Mc 12:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i A ressurreição dos mortos\\par }Então foram até ele alguns saduceus – os quais dizem não existir ressurreição – e o interrogavam:",
+      "reference": "Mc 12:18"
+    },
+    "19": {
+      "text": "“Mestre, Moisés deixou-nos escrito: {\\i Se alguém tiver irmão que morra deixando mulher sem filhos, tomará ele a viúva e suscitará descendência para o seu irmão.}",
+      "reference": "Mc 12:19"
+    },
+    "20": {
+      "text": "Havia sete irmãos. O primeiro tomou mulher e morreu sem deixar descendência.",
+      "reference": "Mc 12:20"
+    },
+    "21": {
+      "text": "O segundo tomou-a e morreu sem deixar descendência. E o mesmo sucedeu ao terceiro.",
+      "reference": "Mc 12:21"
+    },
+    "22": {
+      "text": "E os sete não deixaram descendência. Depois de todos também a mulher morreu.",
+      "reference": "Mc 12:22"
+    },
+    "23": {
+      "text": "Na ressurreição, quando ressuscitarem, de qual deles será a mulher? Pois que os sete a tiveram por mulher”.",
+      "reference": "Mc 12:23"
+    },
+    "24": {
+      "text": "Jesus disse-lhes: “Não é por isso que errais, desconhecendo tanto as Escrituras como o poder de Deus?",
+      "reference": "Mc 12:24"
+    },
+    "25": {
+      "text": "Pois quando ressuscitarem dos mortos, nem eles se casam, nem elas se dão em casamento, mas são como os anjos nos céus.",
+      "reference": "Mc 12:25"
+    },
+    "26": {
+      "text": "Quanto aos mortos que hão de ressurgir, não lestes no livro de Moisés, no trecho sobre a sarça, como Deus lhe disse: {\\i Eu sou o Deus de Abraão, o Deus de Isaac e o Deus de Jacó}?",
+      "reference": "Mc 12:26"
+    },
+    "27": {
+      "text": "Ora, ele não é Deus de mortos, mas sim de vivos. Errais muito!” \\par",
+      "reference": "Mc 12:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i O primeiro mandamento\\par }Um dos escribas que ouvira a discussão, reconhecendo que respondera muito bem, perguntou-lhe: “Qual é o primeiro de todos os mandamentos?”",
+      "reference": "Mc 12:28"
+    },
+    "29": {
+      "text": "Jesus respondeu: “O primeiro é: {\\i Ouve, ó Israel, o Senhor nosso Deus é o único Senhor, }",
+      "reference": "Mc 12:29"
+    },
+    "30": {
+      "text": "{\\i e amarás o Senhor teu Deus de todo teu coração, de toda tua alma,} de todo teu entendimento, {\\i e com toda a tua força.}",
+      "reference": "Mc 12:30"
+    },
+    "31": {
+      "text": "O segundo é este: {\\i Amarás o teu próximo como a ti mesmo.} Não existe outro mandamento maior do que esses”.",
+      "reference": "Mc 12:31"
+    },
+    "32": {
+      "text": "O escriba disse-lhe: “Muito bem, Mestre, tens razão de dizer que {\\i ele é o único e não existe outro além dele, }",
+      "reference": "Mc 12:32"
+    },
+    "33": {
+      "text": "{\\i e amá-lo de todo o coração, de toda a inteligência e com toda a força, e amar o próximo como a si mesmo} é mais do que todos {\\i os holocaustos} e todos {\\i os sacrifícios}”.",
+      "reference": "Mc 12:33"
+    },
+    "34": {
+      "text": "Jesus, vendo que ele respondera com inteligência, disse-lhe: “Tu não estás longe do Reino de Deus”. E ninguém mais ousava interrogá-lo. \\par",
+      "reference": "Mc 12:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b\\i O Cristo filho e Senhor de Davi\\par }E prosseguiu Jesus ensinando no Templo, dizendo: “Como podem os escribas dizer que o Messias é filho de Davi?",
+      "reference": "Mc 12:35"
+    },
+    "36": {
+      "text": "O próprio Davi disse, pelo Espírito Santo: {\\i O Senhor disse ao meu Senhor: \\par Senta-te à minha direita \\par até que eu ponha os teus inimigos \\par debaixo dos teus pés. }\\par",
+      "reference": "Mc 12:36"
+    },
+    "37": {
+      "text": "O próprio Davi o chama Senhor; como pode, então, ser seu filho?” E a numerosa multidão o escutava com prazer! \\par",
+      "reference": "Mc 12:37"
+    },
+    "38": {
+      "text": "\\par {\\qc\\b\\i Os escribas julgados por Jesus\\par }E dizia no seu ensinamento: “Guardai-vos dos escribas que gostam de circular de toga, de ser saudados nas praças públicas,",
+      "reference": "Mc 12:38"
+    },
+    "39": {
+      "text": "e de ocupar os primeiros lugares nas sinagogas e os lugares de honra nos banquetes;",
+      "reference": "Mc 12:39"
+    },
+    "40": {
+      "text": "mas devoram as casas das viúvas e simulam fazer longas preces. Esses receberão condenação mais severa”. \\par",
+      "reference": "Mc 12:40"
+    },
+    "41": {
+      "text": "\\par {\\qc\\b\\i O óbolo da viúva\\par }E, sentado frente ao Tesouro do Templo, observava como a multidão lançava pequenas moedas no Tesouro, e muitos ricos lançavam muitas moedas.",
+      "reference": "Mc 12:41"
+    },
+    "42": {
+      "text": "Vindo uma pobre viúva, lançou duas moedinhas, isto é, um quadrante.",
+      "reference": "Mc 12:42"
+    },
+    "43": {
+      "text": "E chamando a si os discípulos, disse-lhes: “Em verdade eu vos digo que esta viúva que é pobre lançou mais do que todos os que ofereceram moedas ao Tesouro.",
+      "reference": "Mc 12:43"
+    },
+    "44": {
+      "text": "Pois todos os outros deram do que lhes sobrava. Ela, porém, na sua penúria, ofereceu tudo o que tinha, tudo o que possuía para viver”. \\par",
+      "reference": "Mc 12:44"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 44
+}

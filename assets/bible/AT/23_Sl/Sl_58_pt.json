@@ -1,0 +1,61 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 58,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 58 (57)\\par }{\\qc\\b\\i O Juiz dos juízes terrestres\\par }{\\qc\\i Do mestre de canto. “Não destruas”. De Davi. À meia-voz. \\par }",
+      "reference": "Sl 58:1"
+    },
+    "2": {
+      "text": "É verdade que opinais com justiça, ó seres divinos? \\par Que julgais retamente os filhos de Adão? \\par",
+      "reference": "Sl 58:2"
+    },
+    "3": {
+      "text": "Longe disso! É de coração que praticais a injustiça, \\par pesando sobre a terra a violência de vossas mãos. \\par",
+      "reference": "Sl 58:3"
+    },
+    "4": {
+      "text": "Os ímpios se desviaram desde o seio materno, \\par desde o ventre já falam mentiras; \\par",
+      "reference": "Sl 58:4"
+    },
+    "5": {
+      "text": "têm veneno como veneno de serpente, \\par são como víbora surda, que tapa os ouvidos \\par",
+      "reference": "Sl 58:5"
+    },
+    "6": {
+      "text": "para não ouvir a voz dos encantadores, \\par do mais hábil em praticar encantamentos. \\par",
+      "reference": "Sl 58:6"
+    },
+    "7": {
+      "text": "Ó Deus, quebra-lhes os dentes na boca, \\par arranca as presas dos leõezinhos, ó Iahweh! \\par",
+      "reference": "Sl 58:7"
+    },
+    "8": {
+      "text": "Que se diluam como água escorrendo, \\par murchem como erva pisada, \\par",
+      "reference": "Sl 58:8"
+    },
+    "9": {
+      "text": "como lesma derretendo ao caminhar, \\par como aborto que não chega a ver o sol! \\par",
+      "reference": "Sl 58:9"
+    },
+    "10": {
+      "text": "Antes que lancem espinhos como espinheiro, \\par verdes ou secos, que o furacão os carregue! \\par",
+      "reference": "Sl 58:10"
+    },
+    "11": {
+      "text": "Que o justo se alegre ao ver a vingança, \\par e lave seus pés no sangue do ímpio. \\par",
+      "reference": "Sl 58:11"
+    },
+    "12": {
+      "text": "E comentem: “Sim! Existe um fruto para o justo! \\par De fato! Existe um Deus que faz justiça sobre a terra!” \\par",
+      "reference": "Sl 58:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

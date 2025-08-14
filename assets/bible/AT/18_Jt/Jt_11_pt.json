@@ -1,0 +1,105 @@
+{
+  "book": 68,
+  "book_name": "Judite",
+  "book_abbr": "Jt",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Judith",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Primeira entrevista de Judite e Holofernes\\par }Disse-lhe Holofernes: “Confia, mulher, não temas em teu coração! Jamais maltratei homem algum que escolheu servir a Nabucodonosor, rei de toda a terra.",
+      "reference": "Jt 11:1"
+    },
+    "2": {
+      "text": "Agora mesmo, se teu povo, que habita a montanha, não me menosprezasse, eu não levantaria a lança contra ele. Eles mesmos é que fizeram isso.",
+      "reference": "Jt 11:2"
+    },
+    "3": {
+      "text": "Agora dize-me por que fugiste deles e vieste até nós... Em todo caso, vens para tua salvação! Confia! Viverás esta noite e as seguintes também.",
+      "reference": "Jt 11:3"
+    },
+    "4": {
+      "text": "Não haverá quem te maltrate; pelo contrário, tratar-te-ão bem, como aos servos do meu senhor, o rei Nabucodonosor”. \\par",
+      "reference": "Jt 11:4"
+    },
+    "5": {
+      "text": "Disse-lhe então Judite: “Acolhe favoravelmente as palavras de tua escrava e possa a tua serva falar na tua presença. Nesta noite não falarei mentira alguma ao meu senhor.",
+      "reference": "Jt 11:5"
+    },
+    "6": {
+      "text": "Se seguires os conselhos de tua serva, Deus levará a bom termo tua empresa e o meu senhor não fracassará em seus planos.",
+      "reference": "Jt 11:6"
+    },
+    "7": {
+      "text": "Viva Nabucodonosor, rei de toda a terra, que te enviou para corrigir todo ser vivente, e viva seu poder! Pois, graças a ti, não são apenas os homens que o servem, mas, por causa de tua força, também as feras do campo, os rebanhos e os pássaros do céu viverão para Nabucodonosor e para toda a sua casa! \\par",
+      "reference": "Jt 11:7"
+    },
+    "8": {
+      "text": "Com efeito, ouvimos falar de tua sabedoria e da sagacidade de teu espírito. Foi anunciado em toda a terra que, em todo o reino, só tu és bom, poderoso por tua ciência e admirável pelas campanhas militares.",
+      "reference": "Jt 11:8"
+    },
+    "9": {
+      "text": "E agora, conhecemos o discurso que fez Aquior no teu Conselho. Os homens de Betúlia o pouparam, e ele contou-lhes tudo o que disse diante de ti.",
+      "reference": "Jt 11:9"
+    },
+    "10": {
+      "text": "Por isso, senhor poderoso, não desprezes a palavra dele, mas deposita-a em teu coração, pois é verdadeira. Certamente nossa raça não será castigada e a espada não prevalecerá contra ela, a não ser que peque contra o seu Deus.",
+      "reference": "Jt 11:10"
+    },
+    "11": {
+      "text": "E agora, para que o meu senhor não se torne rejeitado e fracassado, a morte virá sobre as suas cabeças. O pecado se apoderou deles, pecado com o qual irritam o seu Deus, sempre que fazem uma desordem.",
+      "reference": "Jt 11:11"
+    },
+    "12": {
+      "text": "Quando lhes faltaram víveres e escasseou a água, resolveram lançar mão de seu rebanho e decidiram consumir tudo o que, por suas leis, Deus havia determinado que não comessem.",
+      "reference": "Jt 11:12"
+    },
+    "13": {
+      "text": "Até mesmo as primícias do trigo, os dízimos do vinho e do azeite – coisas consagradas e por eles reservadas aos sacerdotes que, em Jerusalém, estão diante da face do nosso Deus – resolveram consumi-los, o que nem com a mão alguém do povo pode tocar.",
+      "reference": "Jt 11:13"
+    },
+    "14": {
+      "text": "Enviaram a Jerusalém, onde os habitantes fizeram o mesmo, algumas pessoas encarregadas de lhes trazerem a permissão do Conselho.",
+      "reference": "Jt 11:14"
+    },
+    "15": {
+      "text": "Assim será: tão logo recebam a permissão e a executem, serão entregues a ti, naquele mesmo dia. \\par",
+      "reference": "Jt 11:15"
+    },
+    "16": {
+      "text": "Logo que eu, tua serva, compreendi tudo isso, fugi da presença deles. Deus enviou-me para realizar contigo coisas com as quais toda a terra se assombrará, quando as ouvir.",
+      "reference": "Jt 11:16"
+    },
+    "17": {
+      "text": "Porque tua serva é piedosa e serve, noite e dia, ao Deus do céu. Agora permanecerei junto de ti, meu senhor. Eu, tua serva, sairei toda noite, à escarpa. Rezarei a Deus e ele me dirá quando consumaram o seu pecado.",
+      "reference": "Jt 11:17"
+    },
+    "18": {
+      "text": "Vindo, eu to anunciarei; sairás, então, com todo o teu exército, e não haverá entre eles quem te resista.",
+      "reference": "Jt 11:18"
+    },
+    "19": {
+      "text": "Conduzir-te-ei através de toda a Judéia até chegar diante de Jerusalém. Colocarei teu trono no meio dela. Então, conduzirás a todos, como ovelhas que não têm pastor, e não haverá nem mesmo um só cão para rosnar diante de ti. Essas coisas me foram ditas previamente, foram-me anunciadas e eu fui enviada para revelá-las a ti”. \\par",
+      "reference": "Jt 11:19"
+    },
+    "20": {
+      "text": "Suas palavras agradaram a Holofernes e a todos os seus ajudantes de campo. Admiraram sua sabedoria e disseram:",
+      "reference": "Jt 11:20"
+    },
+    "21": {
+      "text": "“De um extremo a outro da terra não existe mulher semelhante em beleza e em inteligência no falar!”",
+      "reference": "Jt 11:21"
+    },
+    "22": {
+      "text": "E Holofernes lhe disse: “Deus fez bem ao enviar-te na frente do povo. Em nossas mãos estará o poder, e entre aqueles que desprezaram o meu senhor, o extermínio.",
+      "reference": "Jt 11:22"
+    },
+    "23": {
+      "text": "E tu, que és bela de aspecto e hábil em tuas palavras, se fizeres conforme disseste, o teu Deus será o meu Deus e tu te sentarás no palácio de Nabucodonosor e serás célebre em toda a terra”. \\par",
+      "reference": "Jt 11:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

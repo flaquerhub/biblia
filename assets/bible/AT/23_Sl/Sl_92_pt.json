@@ -1,0 +1,77 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 92,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 92 (91)\\par }{\\qc\\b\\i Cântico do justo\\par }{\\qc\\i Salmo. Cântico. Para o dia de sábado.\\par }",
+      "reference": "Sl 92:1"
+    },
+    "2": {
+      "text": "É bom celebrar a Iahweh \\par e tocar ao teu nome, ó Altíssimo; \\par",
+      "reference": "Sl 92:2"
+    },
+    "3": {
+      "text": "anunciar pela manhã teu amor \\par e tua fidelidade pelas noites; \\par",
+      "reference": "Sl 92:3"
+    },
+    "4": {
+      "text": "com a lira de dez cordas e a cítara, \\par e as vibrações da harpa. \\par",
+      "reference": "Sl 92:4"
+    },
+    "5": {
+      "text": "Pois tu me alegras com teus atos, Iahweh, \\par eu exulto com as obras de tuas mãos: \\par",
+      "reference": "Sl 92:5"
+    },
+    "6": {
+      "text": "“Quão grandes são tuas obras, ó Iahweh, \\par e teus projetos, quão profundos!” \\par",
+      "reference": "Sl 92:6"
+    },
+    "7": {
+      "text": "O imbecil nada compreende, \\par disso nada entende o idiota. \\par",
+      "reference": "Sl 92:7"
+    },
+    "8": {
+      "text": "Ainda que os ímpios brotem como erva, \\par e todos os malfeitores floresçam, \\par eles serão para sempre destruídos, \\par",
+      "reference": "Sl 92:8"
+    },
+    "9": {
+      "text": "e tu, Iahweh, tu és elevado para sempre! \\par",
+      "reference": "Sl 92:9"
+    },
+    "10": {
+      "text": "Eis que teus inimigos perecem, \\par e os malfeitores todos se dispersam; \\par",
+      "reference": "Sl 92:10"
+    },
+    "11": {
+      "text": "tu me dás o vigor de um touro \\par e espalhas óleo novo sobre mim; \\par",
+      "reference": "Sl 92:11"
+    },
+    "12": {
+      "text": "meu olho vê aqueles que me espreitam, \\par meus ouvidos escutam os malfeitores. \\par",
+      "reference": "Sl 92:12"
+    },
+    "13": {
+      "text": "O justo brota como a palmeira, \\par cresce como um cedro do Líbano.\\par",
+      "reference": "Sl 92:13"
+    },
+    "14": {
+      "text": "Plantados na casa de Iahweh, \\par brotam nos átrios do nosso Deus.\\par",
+      "reference": "Sl 92:14"
+    },
+    "15": {
+      "text": "Eles dão fruto mesmo na velhice, \\par são cheios de seiva e verdejantes, \\par",
+      "reference": "Sl 92:15"
+    },
+    "16": {
+      "text": "para anunciar que Iahweh é reto: \\par meu Rochedo, nele não há injustiça. \\par",
+      "reference": "Sl 92:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

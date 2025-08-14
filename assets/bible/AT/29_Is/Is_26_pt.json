@@ -1,0 +1,97 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Hino de ação de graças\\par }Naquele dia, cantar-se-á este cântico na terra de Judá: \\par Temos uma cidade forte; \\par para nossa salvação ele nos deu muro e antemuro. \\par",
+      "reference": "Is 26:1"
+    },
+    "2": {
+      "text": "Abri as portas da cidade, para que entre uma nação justa, \\par que observa a fidelidade! \\par",
+      "reference": "Is 26:2"
+    },
+    "3": {
+      "text": "Está decidido: tu manterás a paz, \\par sim, a paz, porque a ti foi ela confiada. \\par",
+      "reference": "Is 26:3"
+    },
+    "4": {
+      "text": "Ponde a vossa confiança em Iahweh para todo o sempre, \\par porque Iahweh é uma rocha eterna. \\par",
+      "reference": "Is 26:4"
+    },
+    "5": {
+      "text": "Com efeito, ele abateu os habitantes das alturas, a cidade inacessível; \\par ele fê-la vir abaixo, vir abaixo até o solo, \\par fê-la lamber o pó. \\par",
+      "reference": "Is 26:5"
+    },
+    "6": {
+      "text": "Ela será pisada aos pés: \\par pisá-la-ão os pés dos pobres e os passos dos fracos. \\par",
+      "reference": "Is 26:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Salmo\\par }A vereda do justo é reta, \\par tu aplanas o trilho reto do justo. \\par",
+      "reference": "Is 26:7"
+    },
+    "8": {
+      "text": "Sim, Iahweh, na vereda dos teus julgamentos pomos a nossa esperança; \\par o teu nome e a lembrança de ti resumem todo o desejo da nossa alma. \\par",
+      "reference": "Is 26:8"
+    },
+    "9": {
+      "text": "A minha alma suspira por ti de noite, \\par sim, no meu íntimo, o meu espírito te busca, \\par pois quando os teus julgamentos se manifestam na terra, \\par os habitantes do mundo aprendem a justiça. \\par",
+      "reference": "Is 26:9"
+    },
+    "10": {
+      "text": "De fato, se o ímpio recebe graça, sem que aprenda a justiça, \\par mesmo na terra da retidão, ele praticará o mal, \\par sem ver a majestade de Iahweh. \\par",
+      "reference": "Is 26:10"
+    },
+    "11": {
+      "text": "Iahweh, a tua mão está levantada, mas eles não a vêem! \\par Eles verão o teu zelo pelo teu povo e ficarão confundidos; \\par sim, o fogo preparado para aos teus adversários os consumirá. \\par",
+      "reference": "Is 26:11"
+    },
+    "12": {
+      "text": "Iahweh, tu nos asseguras a paz; \\par na verdade, todas as nossas obras tu as realizas para nós. \\par",
+      "reference": "Is 26:12"
+    },
+    "13": {
+      "text": "Ó Iahweh, nosso Deus, ao lado de ti temos tido outros senhores, \\par mas, apegados a ti, só ao teu nome invocamos. \\par",
+      "reference": "Is 26:13"
+    },
+    "14": {
+      "text": "Os mortos não reviverão, as sombras não ressurgirão, \\par porque tu as visitaste e as exterminaste, \\par tu destruíste toda a sua memória. \\par",
+      "reference": "Is 26:14"
+    },
+    "15": {
+      "text": "Expandiste a nossa nação, ó Iahweh, \\par expandiste a nossa nação e te cobriste de glória. \\par Alargaste todas as fronteiras da terra. \\par",
+      "reference": "Is 26:15"
+    },
+    "16": {
+      "text": "Iahweh, na angústia eles te buscaram, \\par entregaram-se à oração, \\par porque o teu castigo os atingiu. \\par",
+      "reference": "Is 26:16"
+    },
+    "17": {
+      "text": "Como a mulher grávida, ao aproximar-se a hora do parto, \\par se contorce e, nas suas dores, dá gritos, \\par assim nos encontrávamos nós na tua presença, ó Iahweh: \\par",
+      "reference": "Is 26:17"
+    },
+    "18": {
+      "text": "Concebemos e tivemos as dores de parto, \\par mas quando demos à luz, eis que era vento: \\par não asseguramos a salvação para a terra; \\par não nasceram novos habitantes para o mundo. \\par",
+      "reference": "Is 26:18"
+    },
+    "19": {
+      "text": "Os teus mortos tornarão a viver, os teus cadáveres ressurgirão. \\par Despertai e cantai, vós que habitais o pó, \\par porque o teu orvalho será um orvalho luminoso, \\par e a terra dará à luz sombras. \\par",
+      "reference": "Is 26:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i A passagem do Senhor\\par }Eia, povo meu, entra nos teus aposentos \\par e fecha as tuas portas sobre ti; \\par esconde-te por um pouco de tempo, \\par até que a cólera tenha passado. \\par",
+      "reference": "Is 26:20"
+    },
+    "21": {
+      "text": "Porque Iahweh está para sair do seu domicílio, \\par a fim de punir o crime dos habitantes da terra; \\par e a terra descobrirá os seus crimes de sangue, \\par ela não continuará a esconder os seus assassinados. \\par",
+      "reference": "Is 26:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

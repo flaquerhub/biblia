@@ -1,0 +1,109 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "Quem vive isolado segue seu bel-prazer \\par e se exalta contra todo conselho. \\par",
+      "reference": "Pv 18:1"
+    },
+    "2": {
+      "text": "O insensato não gosta da inteligência, \\par mas de publicar o que pensa. \\par",
+      "reference": "Pv 18:2"
+    },
+    "3": {
+      "text": "Onde entra a impiedade, entra o desprezo, \\par com a ignomínia, o opróbrio. \\par",
+      "reference": "Pv 18:3"
+    },
+    "4": {
+      "text": "As palavras de um homem são águas profundas, \\par a fonte da sabedoria é manancial que jorra. \\par",
+      "reference": "Pv 18:4"
+    },
+    "5": {
+      "text": "Não é bom favorecer o ímpio \\par para declinar o justo num julgamento. \\par",
+      "reference": "Pv 18:5"
+    },
+    "6": {
+      "text": "Os lábios do insensato provocam querela, \\par sua boca provoca os golpes. \\par",
+      "reference": "Pv 18:6"
+    },
+    "7": {
+      "text": "A boca do insensato é sua ruína, \\par e seus lábios, uma armadilha para sua vida. \\par",
+      "reference": "Pv 18:7"
+    },
+    "8": {
+      "text": "As palavras do que murmura são guloseimas \\par que descem até o fundo do ventre. \\par",
+      "reference": "Pv 18:8"
+    },
+    "9": {
+      "text": "O homem preguiçoso no seu trabalho \\par é irmão do destruidor. \\par",
+      "reference": "Pv 18:9"
+    },
+    "10": {
+      "text": "O nome de Iahweh é uma torre forte: \\par aí acorre o justo, e está protegido. \\par",
+      "reference": "Pv 18:10"
+    },
+    "11": {
+      "text": "A fortuna do rico é sua fortaleza: \\par e pensa que é alta muralha. \\par",
+      "reference": "Pv 18:11"
+    },
+    "12": {
+      "text": "Antes da ruína, o coração se exalta, \\par e antes da honra, a pobreza. \\par",
+      "reference": "Pv 18:12"
+    },
+    "13": {
+      "text": "O que responde antes de escutar \\par terá a estultícia e a confusão. \\par",
+      "reference": "Pv 18:13"
+    },
+    "14": {
+      "text": "O espírito do homem pode agüentar a doença, \\par mas o espírito abatido, quem o levantará? \\par",
+      "reference": "Pv 18:14"
+    },
+    "15": {
+      "text": "O coração inteligente adquire o conhecimento, \\par o ouvido dos Sábios procura o conhecimento. \\par",
+      "reference": "Pv 18:15"
+    },
+    "16": {
+      "text": "O dom que um homem faz lhe abre caminho \\par e o conduz à presença dos grandes. \\par",
+      "reference": "Pv 18:16"
+    },
+    "17": {
+      "text": "O primeiro que se defende tem razão, \\par até que chegue o outro e o conteste. \\par",
+      "reference": "Pv 18:17"
+    },
+    "18": {
+      "text": "A sorte coloca um fim nas querelas, \\par e decide entre os poderosos. \\par",
+      "reference": "Pv 18:18"
+    },
+    "19": {
+      "text": "Um irmão ofendido é pior do que uma fortaleza, \\par e as querelas são como os batentes do portal. \\par",
+      "reference": "Pv 18:19"
+    },
+    "20": {
+      "text": "Com o fruto da boca se sacia o ventre, \\par sacia-se com o produto dos lábios. \\par",
+      "reference": "Pv 18:20"
+    },
+    "21": {
+      "text": "Morte e vida estão em poder da língua, \\par aqueles que a escolhem comerão do seu fruto. \\par",
+      "reference": "Pv 18:21"
+    },
+    "22": {
+      "text": "Encontrar uma mulher é encontrar a felicidade, \\par é obter um favor de Iahweh. \\par",
+      "reference": "Pv 18:22"
+    },
+    "23": {
+      "text": "O pobre fala suplicando, \\par o rico responde duramente. \\par",
+      "reference": "Pv 18:23"
+    },
+    "24": {
+      "text": "Há amigos que levam à ruína, \\par e há amigos mais queridos do que um irmão. \\par",
+      "reference": "Pv 18:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

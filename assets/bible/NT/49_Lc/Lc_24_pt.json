@@ -1,0 +1,225 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i VII. Após a ressurreição}\\par }{\\qc\\b\\i O sepulcro vazio. Mensagem do anjo\\par }No primeiro dia da semana, muito cedo ainda, elas foram à tumba, levando os aromas que tinham preparado.",
+      "reference": "Lc 24:1"
+    },
+    "2": {
+      "text": "Encontraram a pedra do túmulo removida,",
+      "reference": "Lc 24:2"
+    },
+    "3": {
+      "text": "mas, ao entrar, não encontraram o corpo do Senhor Jesus.",
+      "reference": "Lc 24:3"
+    },
+    "4": {
+      "text": "E aconteceu que, estando perplexas com isso, dois homens se postaram diante delas, com veste fulgurante.",
+      "reference": "Lc 24:4"
+    },
+    "5": {
+      "text": "Cheias de medo, inclinaram o rosto para o chão; eles, porém, disseram: “Por que procurais Aquele que vive entre os mortos?",
+      "reference": "Lc 24:5"
+    },
+    "6": {
+      "text": "Ele não está aqui; ressuscitou. Lembrai-vos de como vos falou, quando ainda estava na Galiléia:",
+      "reference": "Lc 24:6"
+    },
+    "7": {
+      "text": "‘É preciso que o Filho do Homem seja entregue às mãos dos pecadores, seja crucificado, e ressuscite ao terceiro dia’”.",
+      "reference": "Lc 24:7"
+    },
+    "8": {
+      "text": "E elas se lembraram de suas palavras. \\par",
+      "reference": "Lc 24:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Os apóstolos recusam o testemunho das mulheres\\par }Ao voltarem do túmulo, anunciaram tudo isso aos Onze, bem como a todos os outros.",
+      "reference": "Lc 24:9"
+    },
+    "10": {
+      "text": "Eram Maria Madalena, Joana e Maria, mãe de Tiago. As outras mulheres que estavam com elas disseram-no também aos apóstolos;",
+      "reference": "Lc 24:10"
+    },
+    "11": {
+      "text": "essas palavras, porém, lhes pareceram desvario, e não lhes deram crédito. \\par",
+      "reference": "Lc 24:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Pedro junto ao túmulo\\par }Pedro, contudo, levantou-se e correu ao túmulo. Inclinando-se, porém, viu apenas os lençóis. E voltou para casa, muito surpreso com o que acontecera. \\par",
+      "reference": "Lc 24:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Os dois discípulos de Emaús\\par }Eis que dois deles viajavam nesse mesmo dia para um povoado chamado Emaús, a sessenta estádios de Jerusalém;",
+      "reference": "Lc 24:13"
+    },
+    "14": {
+      "text": "e conversavam sobre todos esses acontecimentos.",
+      "reference": "Lc 24:14"
+    },
+    "15": {
+      "text": "Ora, enquanto conversavam e discutiam entre si, o próprio Jesus aproximou-se e pôs-se a caminhar com eles;",
+      "reference": "Lc 24:15"
+    },
+    "16": {
+      "text": "seus olhos, porém, estavam impedidos de reconhecê-lo.",
+      "reference": "Lc 24:16"
+    },
+    "17": {
+      "text": "Ele lhes disse: “Que palavras são essas que trocais enquanto ides caminhando?” E eles pararam, com o rosto sombrio. \\par",
+      "reference": "Lc 24:17"
+    },
+    "18": {
+      "text": "Um deles, chamado Cléofas, lhe perguntou: “Tu és o único forasteiro em Jerusalém que ignora os fatos que nela aconteceram nestes dias?”",
+      "reference": "Lc 24:18"
+    },
+    "19": {
+      "text": "–“Quais?”, disse-lhes ele. Responderam: “O que aconteceu a Jesus, o Nazareno, que foi um profeta poderoso em obra e em palavra, diante de Deus e diante de todo o povo;",
+      "reference": "Lc 24:19"
+    },
+    "20": {
+      "text": "nossos chefes dos sacerdotes e nossos chefes o entregaram para ser condenado à morte e o crucificaram.",
+      "reference": "Lc 24:20"
+    },
+    "21": {
+      "text": "Nós esperávamos que fosse ele quem iria redimir Israel; mas, com tudo isso, faz três dias que todas essas coisas aconteceram!",
+      "reference": "Lc 24:21"
+    },
+    "22": {
+      "text": "É verdade que algumas mulheres, que são dos nossos, nos assustaram. Tendo ido muito cedo ao túmulo",
+      "reference": "Lc 24:22"
+    },
+    "23": {
+      "text": "e não tendo encontrado o corpo, voltaram dizendo que tinham tido uma visão de anjos a declararem que ele está vivo.",
+      "reference": "Lc 24:23"
+    },
+    "24": {
+      "text": "Alguns dos nossos foram ao túmulo e encontraram as coisas tais como as mulheres haviam dito; mas não o viram!” \\par",
+      "reference": "Lc 24:24"
+    },
+    "25": {
+      "text": "Ele, então lhes disse: “Insensatos e lentos de coração para crer tudo o que os profetas anunciaram!",
+      "reference": "Lc 24:25"
+    },
+    "26": {
+      "text": "Não era preciso que o Cristo sofresse tudo isso e entrasse em sua glória?”",
+      "reference": "Lc 24:26"
+    },
+    "27": {
+      "text": "E, começando por Moisés e por todos os Profetas, interpretou-lhes em todas as Escrituras o que a ele dizia respeito. \\par",
+      "reference": "Lc 24:27"
+    },
+    "28": {
+      "text": "Aproximando-se do povoado para onde iam, Jesus simulou que ia mais adiante.",
+      "reference": "Lc 24:28"
+    },
+    "29": {
+      "text": "Eles, porém, insistiram, dizendo: “Permanece conosco, pois cai a tarde e o dia já declina”. Entrou então para ficar com eles.",
+      "reference": "Lc 24:29"
+    },
+    "30": {
+      "text": "E, uma vez à mesa com eles, tomou o pão, abençoou-o, depois partiu-o e distribuiu-o a eles.",
+      "reference": "Lc 24:30"
+    },
+    "31": {
+      "text": "Então seus olhos se abriram e o reconheceram; ele, porém, ficou invisível diante deles.",
+      "reference": "Lc 24:31"
+    },
+    "32": {
+      "text": "E disseram um ao outro: “Não ardia o nosso coração quando ele nos falava pelo caminho, quando nos explicava as Escrituras?” \\par",
+      "reference": "Lc 24:32"
+    },
+    "33": {
+      "text": "Naquela mesma hora, levantaram-se e voltaram para Jerusalém. Acharam aí reunidos os Onze e seus companheiros,",
+      "reference": "Lc 24:33"
+    },
+    "34": {
+      "text": "que disseram: “É verdade! O Senhor ressuscitou e apareceu a Simão!”",
+      "reference": "Lc 24:34"
+    },
+    "35": {
+      "text": "E eles narraram os acontecimentos do caminho e como o haviam reconhecido na fração do pão. \\par",
+      "reference": "Lc 24:35"
+    },
+    "36": {
+      "text": "\\par {\\qc\\b\\i Jesus aparece aos apóstolos\\par }Falavam ainda, quando ele próprio se apresentou no meio deles e disse: “A paz esteja convosco!”",
+      "reference": "Lc 24:36"
+    },
+    "37": {
+      "text": "Tomados de espanto e temor, imaginavam ver um espírito.",
+      "reference": "Lc 24:37"
+    },
+    "38": {
+      "text": "Mas ele disse: “Por que estais perturbados e por que surgem tais dúvidas em vossos corações?",
+      "reference": "Lc 24:38"
+    },
+    "39": {
+      "text": "Vede minhas mãos e meus pés: sou eu! Apalpai-me e entendei que um espírito não tem carne, nem ossos, como estais vendo que eu tenho”.",
+      "reference": "Lc 24:39"
+    },
+    "40": {
+      "text": "Dizendo isso, mostrou-lhes as mãos e os pés.",
+      "reference": "Lc 24:40"
+    },
+    "41": {
+      "text": "E como, por causa da alegria, não podiam acreditar ainda e permaneciam surpresos, disse-lhes: “Tendes o que comer?”",
+      "reference": "Lc 24:41"
+    },
+    "42": {
+      "text": "Apresentaram-lhe um pedaço de peixe assado.",
+      "reference": "Lc 24:42"
+    },
+    "43": {
+      "text": "Tomou-o, então, e comeu-o diante deles. \\par",
+      "reference": "Lc 24:43"
+    },
+    "44": {
+      "text": "\\par {\\qc\\b\\i Últimas instruções aos apóstolos\\par }Depois disse-lhes: “São estas as palavras que eu vos falei, quando ainda estava convosco: era preciso que se cumprisse tudo o que está escrito sobre mim na Lei de Moisés, nos Profetas e nos Salmos”.",
+      "reference": "Lc 24:44"
+    },
+    "45": {
+      "text": "Então abriu-lhes a mente para que entendessem as Escrituras,",
+      "reference": "Lc 24:45"
+    },
+    "46": {
+      "text": "e disse-lhes: “Assim está escrito que o Cristo devia sofrer e ressuscitar dos mortos ao terceiro dia,",
+      "reference": "Lc 24:46"
+    },
+    "47": {
+      "text": "e que, em seu Nome, fosse proclamado o arrependimento para a remissão dos pecados a todas as nações, a começar por Jerusalém.",
+      "reference": "Lc 24:47"
+    },
+    "48": {
+      "text": "Vós sois testemunhas disso. \\par",
+      "reference": "Lc 24:48"
+    },
+    "49": {
+      "text": "Eis que eu vos enviarei o que meu Pai prometeu. Por isso, permanecei na cidade até serdes revestidos da força do Alto”. \\par",
+      "reference": "Lc 24:49"
+    },
+    "50": {
+      "text": "\\par {\\qc\\b\\i A ascensão\\par }Depois, levou-os até Betânia e, erguendo as mãos, abençoou-os.",
+      "reference": "Lc 24:50"
+    },
+    "51": {
+      "text": "E enquanto os abençoava, distanciou-se deles e era elevado ao céu.",
+      "reference": "Lc 24:51"
+    },
+    "52": {
+      "text": "Eles se prostraram diante dele, e depois voltaram a Jerusalém com grande alegria,",
+      "reference": "Lc 24:52"
+    },
+    "53": {
+      "text": "e estavam continuamente no Templo, louvando a Deus. \\par",
+      "reference": "Lc 24:53"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 53
+}

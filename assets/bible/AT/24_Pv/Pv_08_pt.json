@@ -1,0 +1,157 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Segundo discurso da Sabedoria\\par }A Sabedoria não chama? \\par O Entendimento não levanta a voz? \\par",
+      "reference": "Pv 8:1"
+    },
+    "2": {
+      "text": "Nos montículos, ao lado do caminho, \\par em pé junto às veredas, \\par",
+      "reference": "Pv 8:2"
+    },
+    "3": {
+      "text": "junto às portas da cidade, \\par gritando nos caminhos de chegada: \\par",
+      "reference": "Pv 8:3"
+    },
+    "4": {
+      "text": "a vós, homens, eu chamo, \\par dirijo-me aos filhos de Adão: \\par",
+      "reference": "Pv 8:4"
+    },
+    "5": {
+      "text": "os ingênuos aprendam a sagacidade, \\par os insensatos adquiram um coração. \\par",
+      "reference": "Pv 8:5"
+    },
+    "6": {
+      "text": "Escutai, porque direi coisas importantes, \\par abrirei meus lábios com palavras retas. \\par",
+      "reference": "Pv 8:6"
+    },
+    "7": {
+      "text": "O céu de minha boca murmura a Verdade, \\par e meus lábios aborrecem o mal. \\par",
+      "reference": "Pv 8:7"
+    },
+    "8": {
+      "text": "Todas as sentenças minhas são justas, \\par nenhuma é desatinada ou tortuosa. \\par",
+      "reference": "Pv 8:8"
+    },
+    "9": {
+      "text": "São leais para quem sabe discernir, \\par e retas para quem encontrou o conhecimento. \\par",
+      "reference": "Pv 8:9"
+    },
+    "10": {
+      "text": "Acolhei minha disciplina, e não o dinheiro; \\par o conhecimento, mais valioso do que o ouro; \\par",
+      "reference": "Pv 8:10"
+    },
+    "11": {
+      "text": "porque a Sabedoria é melhor do que as pérolas, \\par e nenhuma jóia lhe é comparável! \\par",
+      "reference": "Pv 8:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Auto-elogio da Sabedoria: a Sabedoria régia\\par }Eu, a Sabedoria, moro com a sagacidade, \\par e possuo o conhecimento da reflexão. \\par",
+      "reference": "Pv 8:12"
+    },
+    "13": {
+      "text": "(O temor de Iahweh odeia o mal.) \\par Detesto o orgulho e a soberba, \\par o mau caminho e a boca falsa. \\par",
+      "reference": "Pv 8:13"
+    },
+    "14": {
+      "text": "Eu possuo o conselho e a prudência, \\par são minhas a inteligência e a fortaleza. \\par",
+      "reference": "Pv 8:14"
+    },
+    "15": {
+      "text": "É por mim que reinam os reis, \\par e que os príncipes decretam a justiça; \\par",
+      "reference": "Pv 8:15"
+    },
+    "16": {
+      "text": "por mim governam os governadores, \\par e os nobres dão sentenças justas. \\par",
+      "reference": "Pv 8:16"
+    },
+    "17": {
+      "text": "Eu amo os que me amam, \\par e os que madrugam por mim hão de me encontrar. \\par",
+      "reference": "Pv 8:17"
+    },
+    "18": {
+      "text": "Comigo estão a riqueza e a honra, \\par os bens estáveis e a justiça. \\par",
+      "reference": "Pv 8:18"
+    },
+    "19": {
+      "text": "O meu fruto é melhor do que o ouro, do que o ouro puro, \\par o meu lucro vale mais do que a prata de lei. \\par",
+      "reference": "Pv 8:19"
+    },
+    "20": {
+      "text": "Eu caminho pela senda da justiça \\par e ando pelas veredas do direito. \\par",
+      "reference": "Pv 8:20"
+    },
+    "21": {
+      "text": "Para levar o bem aos que me amam, \\par e encher os seus tesouros. \\par",
+      "reference": "Pv 8:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i A Sabedoria criadora\\par }Iahweh me criou, primícias de sua obra, \\par de seus feitos mais antigos. \\par",
+      "reference": "Pv 8:22"
+    },
+    "23": {
+      "text": "Desde a eternidade fui estabelecida, \\par desde o princípio, antes da origem da terra. \\par",
+      "reference": "Pv 8:23"
+    },
+    "24": {
+      "text": "Quando os abismos não existiam, eu fui gerada, \\par quando não existiam, os mananciais das águas. \\par",
+      "reference": "Pv 8:24"
+    },
+    "25": {
+      "text": "Antes que as montanhas fossem implantadas, \\par antes das colinas, eu fui gerada; \\par",
+      "reference": "Pv 8:25"
+    },
+    "26": {
+      "text": "ele ainda não havia feito a terra e a erva, \\par nem os primeiros elementos do mundo. \\par",
+      "reference": "Pv 8:26"
+    },
+    "27": {
+      "text": "Quando firmava os céus, lá eu estava, \\par quando traçava a abóbada sobre a face do abismo; \\par",
+      "reference": "Pv 8:27"
+    },
+    "28": {
+      "text": "quando condensava as nuvens no alto, \\par quando se enchiam as fontes do abismo; \\par",
+      "reference": "Pv 8:28"
+    },
+    "29": {
+      "text": "quando punha um limite ao mar: \\par e as águas não ultrapassavam o seu mandamento, \\par quando assentava os fundamentos da terra. \\par",
+      "reference": "Pv 8:29"
+    },
+    "30": {
+      "text": "Eu estava junto com ele como o mestre-de-obras, \\par eu era o seu encanto todos os dias, \\par todo o tempo brincava em sua presença: \\par",
+      "reference": "Pv 8:30"
+    },
+    "31": {
+      "text": "brincava na superfície da terra, \\par e me alegrava com os homens. \\par",
+      "reference": "Pv 8:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i O convite supremo\\par }Portanto, meus filhos, escutai-me: \\par felizes os que guardam os meus caminhos! \\par",
+      "reference": "Pv 8:32"
+    },
+    "33": {
+      "text": "Escutai a disciplina, e tornai-vos sábios, \\par não a desprezeis. \\par",
+      "reference": "Pv 8:33"
+    },
+    "34": {
+      "text": "Feliz o homem que me escuta, \\par velando em minhas portas a cada dia,\\par guardando os batentes de minha porta! \\par",
+      "reference": "Pv 8:34"
+    },
+    "35": {
+      "text": "Quem me encontra encontra a vida, \\par e goza do favor de Iahweh. \\par",
+      "reference": "Pv 8:35"
+    },
+    "36": {
+      "text": "Quem peca contra mim fere a si mesmo, \\par todo o que me odeia ama a morte. \\par",
+      "reference": "Pv 8:36"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 36
+}

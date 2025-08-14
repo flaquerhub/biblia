@@ -1,0 +1,33 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 93,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 93 (92)\\par }{\\qc\\b\\i O Deus majestoso\\par }Iahweh é rei, vestido de majestade, \\par Iahweh está vestido, envolto em poder. \\par Sim, o mundo está firme, jamais tremerá. \\par",
+      "reference": "Sl 93:1"
+    },
+    "2": {
+      "text": "Teu trono está firme desde a origem, \\par e desde sempre tu existes. \\par",
+      "reference": "Sl 93:2"
+    },
+    "3": {
+      "text": "Levantam os rios, Iahweh, \\par levantam os rios sua voz, \\par levantam os rios seu rumor; \\par",
+      "reference": "Sl 93:3"
+    },
+    "4": {
+      "text": "mais que o estrondo das águas torrenciais, \\par mais imponente que a ressaca do mar, \\par é imponente Iahweh, nas alturas. \\par",
+      "reference": "Sl 93:4"
+    },
+    "5": {
+      "text": "Teus testemunhos são firmes de fato, \\par a santidade é o adorno de tua casa, \\par por dias sem fim, ó Iahweh! \\par",
+      "reference": "Sl 93:5"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 5
+}

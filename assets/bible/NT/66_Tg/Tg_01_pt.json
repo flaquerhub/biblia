@@ -1,0 +1,121 @@
+{
+  "book": 59,
+  "book_name": "Tiago",
+  "book_abbr": "Tg",
+  "book_category": "Epístolas Gerais",
+  "book_english": "James",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Endereço e saudação\\par }Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos da Dispersão: saudações! \\par",
+      "reference": "Tg 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i O benefício das provações\\par }Meus irmãos, tende por motivo de grande alegria o serdes submetidos a múltiplas provações,",
+      "reference": "Tg 1:2"
+    },
+    "3": {
+      "text": "pois sabeis que a vossa fé, bem provada, leva à perseverança;",
+      "reference": "Tg 1:3"
+    },
+    "4": {
+      "text": "mas é preciso que a perseverança produza uma obra perfeita, a fim de serdes perfeitos e íntegros sem nenhuma deficiência. \\par",
+      "reference": "Tg 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i A súplica confiante\\par }Se alguém dentre vós tem falta de sabedoria, peça-a a Deus, que a concede generosamente a todos, sem recriminações, e ela ser-lhe-á dada,",
+      "reference": "Tg 1:5"
+    },
+    "6": {
+      "text": "contanto que peça com fé, sem duvidar, porque aquele que duvida é semelhante às ondas do mar, impelidas e agitadas pelo vento.",
+      "reference": "Tg 1:6"
+    },
+    "7": {
+      "text": "Não pense tal pessoa que vai receber alguma coisa do Senhor,",
+      "reference": "Tg 1:7"
+    },
+    "8": {
+      "text": "dúbio e inconstante como é em tudo o que faz. \\par",
+      "reference": "Tg 1:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i A sorte do rico\\par }Glorie-se o irmão de humilde condição na sua exaltação,",
+      "reference": "Tg 1:9"
+    },
+    "10": {
+      "text": "mas o rico na sua humilhação, porque passará {\\i como a flor da erva.}",
+      "reference": "Tg 1:10"
+    },
+    "11": {
+      "text": "Com efeito, basta que surja o sol com o seu calor e logo {\\i seca a erva e sua flor cai} e desaparece a beleza do seu viço! Eis como acabará por perecer o rico no meio dos seus negócios! \\par",
+      "reference": "Tg 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A provação\\par }Bem-aventurado o homem {\\i que suporta com paciência} a provação! Porque, uma vez provado, receberá a coroa da vida, que o Senhor prometeu aos que o amam. \\par",
+      "reference": "Tg 1:12"
+    },
+    "13": {
+      "text": "Ninguém, ao ser tentado, deve dizer: “É Deus que me está tentando”, pois Deus não pode ser tentado pelo mal e a ninguém tenta.",
+      "reference": "Tg 1:13"
+    },
+    "14": {
+      "text": "Antes, cada qual é tentado pela própria concupiscência, que o arrasta e seduz.",
+      "reference": "Tg 1:14"
+    },
+    "15": {
+      "text": "Em seguida a concupiscência, tendo concebido, dá à luz o pecado, e o pecado, atingindo a maturidade, gera a morte. \\par",
+      "reference": "Tg 1:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Receber a Palavra e pô-la em prática\\par }Meus amados irmãos, não vos enganeis:",
+      "reference": "Tg 1:16"
+    },
+    "17": {
+      "text": "todo dom precioso e toda dádiva perfeita vêm do alto e descem do Pai das luzes, no qual não há mudança nem sombra de variação.",
+      "reference": "Tg 1:17"
+    },
+    "18": {
+      "text": "Por vontade própria ele nos gerou por uma palavra de verdade, a fim de sermos como que as primícias dentre as suas criaturas. \\par",
+      "reference": "Tg 1:18"
+    },
+    "19": {
+      "text": "Isso podeis saber com certeza, meus amados irmãos. Que seja cada um de vós {\\i pronto para ouvir}, mas {\\i tardio} para falar e {\\i tardio} para encolerizar-se;",
+      "reference": "Tg 1:19"
+    },
+    "20": {
+      "text": "pois a cólera do homem não é capaz de cumprir a justiça de Deus.",
+      "reference": "Tg 1:20"
+    },
+    "21": {
+      "text": "Por essa razão, renunciando a toda imundície e a todos os vestígios de maldade, recebei com docilidade a Palavra que foi plantada em vossos corações e é capaz de salvar as vossas vidas. \\par",
+      "reference": "Tg 1:21"
+    },
+    "22": {
+      "text": "Tornai-vos praticantes da Palavra e não simples ouvintes, enganando-vos a vós mesmos!",
+      "reference": "Tg 1:22"
+    },
+    "23": {
+      "text": "Com efeito, aquele que ouve a Palavra e não a pratica assemelha-se a um homem que, observando o seu rosto no espelho,",
+      "reference": "Tg 1:23"
+    },
+    "24": {
+      "text": "se limita a observar-se e vai-se embora, esquecendo-se logo da sua aparência.",
+      "reference": "Tg 1:24"
+    },
+    "25": {
+      "text": "Mas aquele que considera atentamente a Lei perfeita da liberdade e nela persevera, não sendo um ouvinte esquecido, antes, praticando o que ela ordena, esse é bem-aventurado naquilo que faz. \\par",
+      "reference": "Tg 1:25"
+    },
+    "26": {
+      "text": "Se alguém pensa ser religioso, mas não refreia a sua língua, antes se engana a si mesmo, saiba que a sua religião é vã.",
+      "reference": "Tg 1:26"
+    },
+    "27": {
+      "text": "Com efeito, a religião pura e sem mácula diante de Deus, nosso Pai, consiste nisto: visitar os órfãos e as viúvas em suas tribulações e guardar-se livre da corrupção do mundo. \\par",
+      "reference": "Tg 1:27"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 27
+}

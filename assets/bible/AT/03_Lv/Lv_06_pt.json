@@ -1,0 +1,105 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O sacerdócio e os sacrifícios – A. O holocausto\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 6:1"
+    },
+    "2": {
+      "text": "“Ordena a Aarão e a seus filhos o seguinte: \\par Este é o ritual do holocausto. (É o holocausto que se encontra sobre o braseiro do altar, durante a noite até a manhã e que o fogo do altar deve consumir). \\par",
+      "reference": "Lv 6:2"
+    },
+    "3": {
+      "text": "O sacerdote vestirá sua túnica de linho e com um calção de linho cobrirá o seu corpo. Depois retirará a cinza gordurosa do holocausto queimado pelo fogo sobre o altar e a depositará ao lado do altar.",
+      "reference": "Lv 6:3"
+    },
+    "4": {
+      "text": "Retirará, então, as suas vestes; vestirá outras e transportará esta cinza gordurosa para um lugar puro, fora do acampamento. \\par",
+      "reference": "Lv 6:4"
+    },
+    "5": {
+      "text": "O fogo que consome o holocausto sobre o altar não se apagará jamais. Cada manhã o sacerdote lhe acrescentará mais lenha. Sobre ele disporá o holocausto e nele queimará as gorduras dos sacrifícios de comunhão.",
+      "reference": "Lv 6:5"
+    },
+    "6": {
+      "text": "Um fogo perpétuo arderá sobre o altar, sem jamais apagar-se. \\par",
+      "reference": "Lv 6:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i B. A oblação\\par }Este é o ritual da oblação: \\par Após haver um dos filhos de Aarão trazido a oblação diante do altar, na presença de Iahweh,",
+      "reference": "Lv 6:7"
+    },
+    "8": {
+      "text": "e separado um punhado de flor de farinha (com azeite e todo o incenso que a ela se acrescentou), e após ter queimado no altar o memorial de perfume de agradável odor a Iahweh,",
+      "reference": "Lv 6:8"
+    },
+    "9": {
+      "text": "Aarão e seus filhos comerão a parte restante, em forma de pães sem levedura. Comê-la-ão em um lugar puro, no átrio da Tenda da Reunião.",
+      "reference": "Lv 6:9"
+    },
+    "10": {
+      "text": "Não se cozerá com levedo a porção das minhas oferendas queimadas que lhes dou. É uma porção santíssima, como o sacrifício pelo pecado e o sacrifício de reparação.",
+      "reference": "Lv 6:10"
+    },
+    "11": {
+      "text": "Todo varão dentre os filhos de Aarão poderá comer dessa porção das oferendas queimadas de Iahweh (é uma lei perpétua para todos os vossos descendentes), e todo o que nela tocar será sagrado”. \\par",
+      "reference": "Lv 6:11"
+    },
+    "12": {
+      "text": "Iahweh falou a Moisés e disse-lhe: \\par",
+      "reference": "Lv 6:12"
+    },
+    "13": {
+      "text": "“Esta é a oferenda que Aarão e seus filhos farão a Iahweh, no dia da sua unção: um décimo de medida de flor de farinha como oblação perpétua, metade de manhã e metade de tarde.",
+      "reference": "Lv 6:13"
+    },
+    "14": {
+      "text": "Será preparada na assadeira, com azeite, bem mexida; trarás a massa na forma de oblação, em diversos pedaços que oferecerás em perfume de agradável odor a Iahweh.",
+      "reference": "Lv 6:14"
+    },
+    "15": {
+      "text": "O sacerdote que entre seus filhos receber a unção procederá do mesmo modo. É uma lei perpétua. \\par Esta oblação será queimada inteiramente para Iahweh.",
+      "reference": "Lv 6:15"
+    },
+    "16": {
+      "text": "Toda oblação feita por um sacerdote deve ser um sacrifício completo; dela não se comerá”. \\par",
+      "reference": "Lv 6:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i C. O sacrifício pelo pecado\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Lv 6:17"
+    },
+    "18": {
+      "text": "“Fala a Aarão e a seus filhos e dize-lhes: \\par O ritual do sacrifício pelo pecado é o seguinte: \\par A vítima será imolada diante de Iahweh, no mesmo lugar onde se imola o holocausto. É coisa santíssima.",
+      "reference": "Lv 6:18"
+    },
+    "19": {
+      "text": "O sacerdote que oferecer este sacrifício a comerá. Comê-la-á em um lugar sagrado, no átrio da Tenda da Reunião.",
+      "reference": "Lv 6:19"
+    },
+    "20": {
+      "text": "Todo aquele que tocar a carne da vítima será sagrado e, se o sangue salpicar as vestes, a mancha será lavada em um lugar sagrado.",
+      "reference": "Lv 6:20"
+    },
+    "21": {
+      "text": "O vaso de argila em que a carne for cozida será quebrado e, se for cozida em um vaso de bronze, este será esfregado e bem lavado na água.",
+      "reference": "Lv 6:21"
+    },
+    "22": {
+      "text": "Todo varão entre os sacerdotes poderá comer dela; é coisa santíssima;",
+      "reference": "Lv 6:22"
+    },
+    "23": {
+      "text": "mas não se comerá nenhuma das vítimas oferecidas pelo pecado, cujo sangue tenha sido levado à Tenda da Reunião para fazer expiação no santuário: serão queimadas no fogo. \\par",
+      "reference": "Lv 6:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

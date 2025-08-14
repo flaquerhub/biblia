@@ -1,0 +1,57 @@
+{
+  "book": 14,
+  "book_name": "2Crônicas",
+  "book_abbr": "2Cr",
+  "book_category": "Histórico",
+  "book_english": "2 Chronicles",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "Josafá voltou são e salvo para casa, em Jerusalém.",
+      "reference": "2Cr 19:1"
+    },
+    "2": {
+      "text": "Jéu, filho de Hanani o vidente, saiu ao seu encontro e disse ao rei Josafá: “Deve-se levar auxílio ao ímpio? Amarias aqueles que odeiam Iahweh, para assim atrair sobre ti sua cólera?",
+      "reference": "2Cr 19:2"
+    },
+    "3": {
+      "text": "Todavia, foi encontrado em ti algo de bom, pois eliminaste da terra as aserás e aplicaste teu coração na procura de Deus”. \\par",
+      "reference": "2Cr 19:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Reformas judiciárias\\par }Josafá, rei de Judá, depois de uma permanência em Jerusalém, saiu de novo em viagem através do seu povo, desde Bersabéia até a montanha de Efraim, a fim de conduzi-lo a Iahweh, o Deus de seus pais.",
+      "reference": "2Cr 19:4"
+    },
+    "5": {
+      "text": "Estabeleceu juízes na terra para todas as cidades fortificadas de Judá, em cada cidade.",
+      "reference": "2Cr 19:5"
+    },
+    "6": {
+      "text": "Disse a esses juízes: “Vede bem o que fazeis, porque não administrais a justiça em nome dos homens mas no nome de Iahweh, que está convosco quando pronunciais uma sentença.",
+      "reference": "2Cr 19:6"
+    },
+    "7": {
+      "text": "Que o temor de Iahweh agora esteja sobre vós! Cuidado com o que fazeis, pois Iahweh nosso Deus não consente nem nas fraudes, nem nos privilégios, nem aceita suborno”. \\par",
+      "reference": "2Cr 19:7"
+    },
+    "8": {
+      "text": "Além disso, Josafá estabeleceu em Jerusalém sacerdotes, levitas e chefes de famílias israelitas, para promulgar as sentenças de Iahweh e julgar os processos. Moravam em Jerusalém",
+      "reference": "2Cr 19:8"
+    },
+    "9": {
+      "text": "e Josafá lhes deu assim suas prescrições: “Desempenhareis tais funções no temor de Iahweh, na fidelidade e integridade de coração.",
+      "reference": "2Cr 19:9"
+    },
+    "10": {
+      "text": "Seja qual for o processo que introduzirem diante de vós vossos irmãos residentes em suas cidades: questões de assassínio, de contestação sobre a Lei, sobre um mandamento, sobre estatutos ou normas, vós as resolvereis, para que eles não se tornem culpados diante de Iahweh e sua ira não se inflame contra vós e contra vossos irmãos; agindo assim não sereis culpados. \\par",
+      "reference": "2Cr 19:10"
+    },
+    "11": {
+      "text": "Tereis Amarias, sacerdote-chefe, para vos controlar no tocante a todos os assuntos de Iahweh, e Zabadias filho de Ismael, chefe da casa de Judá, para todo assunto do rei. Os levitas vos servirão de escribas. Sede firmes, ponde isso em prática e Iahweh estará lá com a felicidade”. \\par",
+      "reference": "2Cr 19:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

@@ -1,0 +1,101 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 38,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Doença e cura de Ezequias\\par }Por aquele tempo, adoeceu Ezequias de uma enfermidade mortal. O profeta Isaías, filho de Amós, veio procurá-lo e lhe disse: “Assim diz Iahweh: Dá as tuas últimas ordens à tua casa porque hás de morrer; não te recuperarás”.",
+      "reference": "Is 38:1"
+    },
+    "2": {
+      "text": "Ezequias voltou-se para a parede e orou a Iahweh",
+      "reference": "Is 38:2"
+    },
+    "3": {
+      "text": "e disse: “Ah, Iahweh, lembra-te de que tenho andado na tua presença com fidelidade e de coração inteiro, e fiz o que é agradável aos teus olhos”. E chorou Ezequias abundantemente. \\par",
+      "reference": "Is 38:3"
+    },
+    "4": {
+      "text": "Então veio a palavra de Iahweh a Isaías:",
+      "reference": "Is 38:4"
+    },
+    "5": {
+      "text": "“Vai dizer a Ezequias: Eis a palavra de Iahweh, o Deus de teu pai Davi: Ouvi a tua oração e vi as tuas lágrimas. Pois bem, eu te curarei; dentro de três dias, subirás ao Templo de Iahweh. Acrescentarei quinze anos à tua vida.",
+      "reference": "Is 38:5"
+    },
+    "6": {
+      "text": "Das mãos do rei da Assíria te livrarei, a ti e a esta cidade, e a esta cidade assegurarei a proteção”. \\par {\\super (21)}Então disse Isaías: “Tome-se uma pasta de figos e aplique-se como emplastro sobre o abscesso e ele viverá”. {\\super (22)}Ezequias perguntou: “Qual o sinal de que subirei ao Templo de Iahweh?”",
+      "reference": "Is 38:6"
+    },
+    "7": {
+      "text": "Ao que respondeu Isaías: “Eis o sinal da parte de Iahweh de que ele cumprirá a palavra que pronunciou.",
+      "reference": "Is 38:7"
+    },
+    "8": {
+      "text": "Eu farei recuar dez degraus a sombra que o sol avançou sobre os degraus da câmara alta de Acaz – dez degraus para trás”. O sol recuou dez degraus sobre os degraus que tinha avançado. \\par",
+      "reference": "Is 38:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Cântico de Ezequias\\par }Cântico de Ezequias, rei de Judá, por ocasião da sua enfermidade e da sua cura: \\par",
+      "reference": "Is 38:9"
+    },
+    "10": {
+      "text": "Disse eu: No meio dos meus dias \\par eu me vou. \\par Para o resto dos meus anos \\par ficarei postado às portas do Xeol. \\par",
+      "reference": "Is 38:10"
+    },
+    "11": {
+      "text": "Eu disse: Não tornarei a ver Iahweh \\par na terra dos viventes, \\par já não contemplarei a ninguém \\par entre os habitantes do mundo. \\par",
+      "reference": "Is 38:11"
+    },
+    "12": {
+      "text": "A minha morada foi arrancada, removida para longe de mim, \\par como uma tenda de pastores; \\par como um tecelão enrolei a minha vida, \\par da urdidura ele me separou. \\par Dia e noite me consumiste. \\par",
+      "reference": "Is 38:12"
+    },
+    "13": {
+      "text": "Clamei até o amanhecer, \\par como um leão quebra ele todos os meus ossos; \\par dia e noite tu me consumias. \\par",
+      "reference": "Is 38:13"
+    },
+    "14": {
+      "text": "Pipilo como a andorinha, \\par gemo como a pomba; \\par os meus olhos se cansam de olhar para o alto. \\par Senhor, estou oprimido, socorre-me! \\par",
+      "reference": "Is 38:14"
+    },
+    "15": {
+      "text": "Que falarei? Que hei de dizer-lhe? \\par Foi ele que o fez. \\par Caminharei todos os anos da minha vida \\par curtindo a amargura da minha alma. \\par",
+      "reference": "Is 38:15"
+    },
+    "16": {
+      "text": "O Senhor está sobre eles; eles vivem \\par e tudo o que está neles é vida do seu espírito. \\par Tu, restaura-me, faze-me viver. \\par",
+      "reference": "Is 38:16"
+    },
+    "17": {
+      "text": "Com isto a minha amargura se transformou em bem-estar. \\par Tu preservaste a minha alma \\par do abismo da destruição. \\par Lançaste atrás de ti todos os meus pecados. \\par",
+      "reference": "Is 38:17"
+    },
+    "18": {
+      "text": "Com efeito, não é o Xeol que te louva, \\par nem a morte que te glorifica, \\par pois já não esperam em tua fidelidade \\par aqueles que descem à cova. \\par",
+      "reference": "Is 38:18"
+    },
+    "19": {
+      "text": "Os vivos, só os vivos é que te louvam, \\par como estou fazendo hoje. \\par O pai dá a conhecer aos filhos \\par a tua fidelidade. \\par",
+      "reference": "Is 38:19"
+    },
+    "20": {
+      "text": "Ó Iahweh, salva-me \\par e faremos ressoar as nossas harpas \\par todos os dias da nossa vida \\par no Templo de Iahweh. \\par",
+      "reference": "Is 38:20"
+    },
+    "21": {
+      "text": "{\\cf15 [Veja v. 6]}",
+      "reference": "Is 38:21"
+    },
+    "22": {
+      "text": "{\\cf15 [Veja v. 6]}",
+      "reference": "Is 38:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

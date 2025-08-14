@@ -1,0 +1,65 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "Naquele dia, punirá Iahweh, \\par com a sua espada dura, grande e forte, \\par a Leviatã, serpente escorregadia, \\par a Leviatã, serpente tortuosa, \\par e matará o monstro que habita o mar. \\par",
+      "reference": "Is 27:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i A vinha de Iahweh\\par }Naquele dia, haveis de cantar a vinha graciosa.",
+      "reference": "Is 27:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i  \\par }Eu, Iahweh, sou o seu guarda, \\par rego-a continuamente; \\par para que não a danifiquem, \\par vigio-a noite e dia. \\par",
+      "reference": "Is 27:3"
+    },
+    "4": {
+      "text": "– Já não tenho muro. \\par Quem me reduzirá a um espinheiro ou a um sarçal? \\par – Na guerra, hei de pisá-la e de pôr-lhe fogo. \\par",
+      "reference": "Is 27:4"
+    },
+    "5": {
+      "text": "Ou então que busquem a minha proteção, \\par façam as pazes comigo, \\par sim, façam as pazes comigo. \\par",
+      "reference": "Is 27:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Graça e castigo\\par }Nos dias vindouros, Jacó criará raízes, \\par Israel brotará e se cobrirá de flores, \\par o mundo inteiro terá uma grande colheita. \\par",
+      "reference": "Is 27:6"
+    },
+    "7": {
+      "text": "Porventura ele o feriu como o feriram aqueles que o feriam? \\par Porventura matou ele como mataram os seus assassinos? \\par",
+      "reference": "Is 27:7"
+    },
+    "8": {
+      "text": "Ao tocá-la, ao rejeitá-la, tu exerceste um julgamento; \\par ele expeliu-a com o seu sopro violento, como o vento oriental. \\par",
+      "reference": "Is 27:8"
+    },
+    "9": {
+      "text": "Porque, com isto, será expiada a iniqüidade de Jacó. \\par Este será o fruto que ele há de recolher da renúncia ao seu pecado, \\par quando reduzir todas as pedras do altar a pedaços, \\par como pedras de calcário, \\par quando as estelas e os altares de incenso já não permanecerem de pé. \\par",
+      "reference": "Is 27:9"
+    },
+    "10": {
+      "text": "Com efeito, a cidade fortificada ficou reduzida a solidão, \\par a uma campina largada e abandonada como um deserto, \\par onde pastarão os novilhos e aí se deitarão, \\par destruindo os seus ramos. \\par",
+      "reference": "Is 27:10"
+    },
+    "11": {
+      "text": "Ao secarem, os galhos são quebrados; \\par vêm mulheres e os levam para queimar. \\par Este povo não é inteligente, \\par por isto o seu criador não tem compaixão dele; \\par aquele que o modelou não lhe mostrou misericórdia. \\par",
+      "reference": "Is 27:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Retorno dos israelitas\\par }Sucederá naquele dia que Iahweh fará uma debulha, \\par desde a corrente do Rio até o canal do Egito, \\par e vós, filhos de Israel, sereis respigados um por um. \\par",
+      "reference": "Is 27:12"
+    },
+    "13": {
+      "text": "Sucederá naquele dia que se tocará uma grande trombeta, \\par e os que andam perdidos na terra da Assíria, \\par bem como os que estão desterrados na terra do Egito, virão \\par e adorarão a Iahweh no monte santo, em Jerusalém. \\par",
+      "reference": "Is 27:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

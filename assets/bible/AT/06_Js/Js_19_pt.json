@@ -1,0 +1,217 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A tribo de Simeão\\par }A segunda sorte saiu para Simeão, para a tribo dos filhos de Simeão, segundo seus clãs: a sua herança foi no meio da herança dos filhos de Judá.",
+      "reference": "Js 19:1"
+    },
+    "2": {
+      "text": "Receberam por herança, Bersabéia, Saba, Molada,",
+      "reference": "Js 19:2"
+    },
+    "3": {
+      "text": "Haser-Sual, Bela, Asem,",
+      "reference": "Js 19:3"
+    },
+    "4": {
+      "text": "Eltolad, Betul, Horma,",
+      "reference": "Js 19:4"
+    },
+    "5": {
+      "text": "Siceleg, Bet-Marcabot, Haser-Susa,",
+      "reference": "Js 19:5"
+    },
+    "6": {
+      "text": "Bet-Lebaot e Saroem: treze cidades e suas aldeias;",
+      "reference": "Js 19:6"
+    },
+    "7": {
+      "text": "Ain, Remon, Atar, Asã: quatro cidades e suas aldeias,",
+      "reference": "Js 19:7"
+    },
+    "8": {
+      "text": "com todas as aldeias situadas ao redor dessas cidades até Baalat-Beer e Ramá do Negueb. Essa foi a herança da tribo dos filhos de Simeão segundo suas famílias.",
+      "reference": "Js 19:8"
+    },
+    "9": {
+      "text": "A herança dos filhos de Simeão foi tomada da sorte dos filhos de Judá, porque a parte dos filhos de Judá era muito grande para eles; os filhos de Simeão receberam, portanto, sua herança no meio da herança dos filhos de Judá. \\par",
+      "reference": "Js 19:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i A tribo de Zabulon\\par }A terceira sorte coube aos filhos de Zabulon, segundo seus clãs: o território de sua herança se estendia até Sadud;",
+      "reference": "Js 19:10"
+    },
+    "11": {
+      "text": "sua fronteira subia ao ocidente em direção a Merala, tocava Debaset e chegava à torrente que está diante de Jecnaam.",
+      "reference": "Js 19:11"
+    },
+    "12": {
+      "text": "A fronteira voltava de Sadud em direção ao oriente, onde nasce o sol, até à fronteira de Ceselet-Tabor, avançava em direção a Daberet e subia a Jáfia.",
+      "reference": "Js 19:12"
+    },
+    "13": {
+      "text": "Dali passava em direção ao oriente, no levante, em direção a Gat-Héfer e Etacasim, chegava a Remon e voltava em direção a Noa.",
+      "reference": "Js 19:13"
+    },
+    "14": {
+      "text": "A fronteira norte se voltava em direção de Hanaton, e seu ponto terminal era no vale de Jectael;",
+      "reference": "Js 19:14"
+    },
+    "15": {
+      "text": "com Catet, Naalol, Semeron, Jeral e Belém: doze cidades com suas aldeias.",
+      "reference": "Js 19:15"
+    },
+    "16": {
+      "text": "Essa foi a herança dos filhos de Zabulon, segundo seus clãs: essas cidades com suas aldeias. \\par",
+      "reference": "Js 19:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i A tribo de Issacar\\par }A quarta sorte caiu para Issacar, para os filhos de Issacar, segundo seus clãs.",
+      "reference": "Js 19:17"
+    },
+    "18": {
+      "text": "O seu território estendia-se em direção de Jezrael e compreendia Casalot, Suném,",
+      "reference": "Js 19:18"
+    },
+    "19": {
+      "text": "Hafaraim, Seon, Anaarat,",
+      "reference": "Js 19:19"
+    },
+    "20": {
+      "text": "Daberat, Cesion, Abes,",
+      "reference": "Js 19:20"
+    },
+    "21": {
+      "text": "Ramet, En-Ganim, En-Hada e Bet-Fases.",
+      "reference": "Js 19:21"
+    },
+    "22": {
+      "text": "A fronteira tocava o Tabor, Seesima e Bet-Sames, e o ponto terminal da fronteira era o Jordão: dezesseis cidades com suas aldeias.",
+      "reference": "Js 19:22"
+    },
+    "23": {
+      "text": "Essa foi a herança dos filhos de Issacar, segundo seus clãs: as cidades e suas aldeias. \\par",
+      "reference": "Js 19:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i A tribo de Aser\\par }A quinta sorte caiu para a tribo dos filhos de Aser, segundo seus clãs.",
+      "reference": "Js 19:24"
+    },
+    "25": {
+      "text": "O seu território compreendia: Halcat, Cali, Beten, Acsaf,",
+      "reference": "Js 19:25"
+    },
+    "26": {
+      "text": "Elmelec, Amaad e Messal; tocava o Carmelo a oeste e a torrente do Labanat.",
+      "reference": "Js 19:26"
+    },
+    "27": {
+      "text": "Do lado do nascer do sol, ia até Bet-Dagon, tocava Zabulon, o vale de Jeftael ao norte, Bet-Emec e Neiel, chegando a Cabul à esquerda,",
+      "reference": "Js 19:27"
+    },
+    "28": {
+      "text": "com Abdon, Roob, Hamon e Caná até Sidônia-a-Grande. Depois a fronteira ia em direção a Ramá e até à cidade da fortaleza de Tiro;",
+      "reference": "Js 19:28"
+    },
+    "29": {
+      "text": "a fronteira ia em seguida a Hosa e seu ponto terminal era, no mar, Maaleb e Aczib,",
+      "reference": "Js 19:29"
+    },
+    "30": {
+      "text": "com Aco, Afec e Roob: vinte e duas cidades com suas aldeias.",
+      "reference": "Js 19:30"
+    },
+    "31": {
+      "text": "Essa foi a herança da tribo dos filhos de Aser, segundo seus clãs: essas cidades e suas aldeias. \\par",
+      "reference": "Js 19:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i A tribo de Neftali\\par }Para os filhos de Neftali saiu a sexta sorte, para os filhos de Neftali segundo seus clãs.",
+      "reference": "Js 19:32"
+    },
+    "33": {
+      "text": "A sua fronteira ia de Helef e do Carvalho de Saananim, com Adami-Neceb e Jebnael, até Lecum, e o seu ponto terminal era o Jordão.",
+      "reference": "Js 19:33"
+    },
+    "34": {
+      "text": "Ao ocidente a fronteira passava em Aznot-Tabor, chegava a Hucoca e tocava Zabulon ao sul, Aser a oeste e o Jordão a leste.",
+      "reference": "Js 19:34"
+    },
+    "35": {
+      "text": "As cidades fortificadas eram: Assedim, Ser, Emat, Recat, Quineret,",
+      "reference": "Js 19:35"
+    },
+    "36": {
+      "text": "Edema, Rama, Hasor,",
+      "reference": "Js 19:36"
+    },
+    "37": {
+      "text": "Cedes, Edrai, En-Hasor,",
+      "reference": "Js 19:37"
+    },
+    "38": {
+      "text": "Jeron, Magdalel, Horém, Bet-Anat, e Bet-Sames: dezenove cidades e suas aldeias.",
+      "reference": "Js 19:38"
+    },
+    "39": {
+      "text": "Essa foi a herança dos filhos de Neftali segundo seus clãs: as cidades e suas aldeias. \\par",
+      "reference": "Js 19:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i A tribo de Dã\\par }A sétima sorte saiu para a tribo dos filhos de Dã, segundo seus clãs.",
+      "reference": "Js 19:40"
+    },
+    "41": {
+      "text": "O território de sua herança compreendia: Saraá, Estaol, Ir-Sames,",
+      "reference": "Js 19:41"
+    },
+    "42": {
+      "text": "Salebim, Aialon, Silata,",
+      "reference": "Js 19:42"
+    },
+    "43": {
+      "text": "Elon, Tamna, Acaron,",
+      "reference": "Js 19:43"
+    },
+    "44": {
+      "text": "Eltece, Gebeton, Baalat,",
+      "reference": "Js 19:44"
+    },
+    "45": {
+      "text": "Azor, Benê-Barac e Gat-Remon;",
+      "reference": "Js 19:45"
+    },
+    "46": {
+      "text": "e, em direção ao mar, Jarcon com o território que está diante de Jope.",
+      "reference": "Js 19:46"
+    },
+    "47": {
+      "text": "Perdeu-se, contudo, o território dos filhos de Dã, e assim os filhos de Dã subiram para combater Lesem, que capturaram e passaram ao fio da espada. Tomando posse dela, aí se estabeleceram e deram a Lesem o nome de Dã, do nome de seu antepassado Dã. \\par",
+      "reference": "Js 19:47"
+    },
+    "48": {
+      "text": "Essa foi a herança da tribo dos filhos de Dã, segundo seus clãs: essas cidades e suas aldeias. \\par",
+      "reference": "Js 19:48"
+    },
+    "49": {
+      "text": "Havendo terminado a repartição da terra segundo as suas fronteiras, os filhos de Israel deram a Josué, filho de Nun, uma herança no meio deles;",
+      "reference": "Js 19:49"
+    },
+    "50": {
+      "text": "segundo a ordem de Iahweh, deram-lhe a cidade que ele pedira, Tamnat-Saraá, na montanha de Efraim; ele reconstruiu a cidade e nela se estabeleceu. \\par",
+      "reference": "Js 19:50"
+    },
+    "51": {
+      "text": "Essas são as partes da herança que o sacerdote Eleazar, Josué, filho de Nun, e os chefes de família repartiram por sorte entre as tribos dos filhos de Israel em Silo, na presença de Iahweh, à entrada da Tenda da Reunião. Assim concluiu-se a partilha da terra. \\par",
+      "reference": "Js 19:51"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 51
+}

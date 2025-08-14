@@ -1,0 +1,85 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 45,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 45 (44)\\par }{\\qc\\b\\i Epitalâmio real\\par }{\\qc\\i Do mestre de canto. Sobre a ária “Os lírios...” Dos filhos de Coré. Poema. Canto de amor.\\par }",
+      "reference": "Sl 45:1"
+    },
+    "2": {
+      "text": "Meu coração transborda num belo poema, \\par eu dedico a minha obra a um rei, \\par minha língua é a pena de um escriba habilidoso. \\par",
+      "reference": "Sl 45:2"
+    },
+    "3": {
+      "text": "És o mais belo dos filhos dos homens, \\par a graça escorre dos teus lábios, \\par porque Deus te abençoa para sempre. \\par",
+      "reference": "Sl 45:3"
+    },
+    "4": {
+      "text": "Cinge a tua espada sobre a coxa, ó valente, \\par com majestade e esplendor;",
+      "reference": "Sl 45:4"
+    },
+    "5": {
+      "text": "vai, cavalga \\par pela causa da verdade, da pobreza e da justiça. \\par Tendes a corda do arco, tornando terrível a tua direita! \\par",
+      "reference": "Sl 45:5"
+    },
+    "6": {
+      "text": "Tuas flechas são agudas, os povos submetem-se a ti, \\par os inimigos do rei perdem a coragem. \\par",
+      "reference": "Sl 45:6"
+    },
+    "7": {
+      "text": "Teu trono é de Deus, para sempre e eternamente! \\par O cetro do teu reino é cetro de retidão! \\par",
+      "reference": "Sl 45:7"
+    },
+    "8": {
+      "text": "Amas a justiça e odeias a impiedade. \\par Eis por que Deus, o teu Deus, te ungiu \\par com o óleo da alegria, como a nenhum dos teus rivais; \\par",
+      "reference": "Sl 45:8"
+    },
+    "9": {
+      "text": "mirra e aloés perfumam tuas vestes. \\par Nos palácios de marfim, o som das cordas te alegra. \\par",
+      "reference": "Sl 45:9"
+    },
+    "10": {
+      "text": "Entre as tuas amadas estão as filhas do rei; \\par à tua direita uma dama, ornada com ouro de Ofir. \\par",
+      "reference": "Sl 45:10"
+    },
+    "11": {
+      "text": "Ouve, ó filha, vê e inclina teu ouvido: \\par esquece o teu povo e a casa do teu pai, \\par",
+      "reference": "Sl 45:11"
+    },
+    "12": {
+      "text": "que o rei se apaixone por tua beleza: \\par prostra-te à sua frente, pois ele é o teu senhor! \\par",
+      "reference": "Sl 45:12"
+    },
+    "13": {
+      "text": "A filha de Tiro alegrará teu rosto com seus presentes, \\par e os povos mais ricos",
+      "reference": "Sl 45:13"
+    },
+    "14": {
+      "text": "com muitas jóias \\par cravejadas de ouro. \\par Vestida",
+      "reference": "Sl 45:14"
+    },
+    "15": {
+      "text": "com brocados, a filha do rei é levada \\par para dentro, até o rei, com séquito de virgens. \\par Introduzem as companheiras a ela destinadas, \\par",
+      "reference": "Sl 45:15"
+    },
+    "16": {
+      "text": "e com júbilo e alegria elas entram no palácio. \\par",
+      "reference": "Sl 45:16"
+    },
+    "17": {
+      "text": "Em lugar de teus pais virão teus filhos, \\par e os farás príncipes sobre a terra toda. \\par",
+      "reference": "Sl 45:17"
+    },
+    "18": {
+      "text": "Vou comemorar teu nome de geração em geração, \\par e os povos te louvarão para sempre e eternamente. \\par",
+      "reference": "Sl 45:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

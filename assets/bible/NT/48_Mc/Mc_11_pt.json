@@ -1,0 +1,145 @@
+{
+  "book": 41,
+  "book_name": "Marcos",
+  "book_abbr": "Mc",
+  "book_category": "Evangelhos",
+  "book_english": "Mark",
+  "testament": "NT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i IV. O ministério de Jesus em Jerusalém}\\par }{\\qc\\b\\i Entrada messiânica em Jerusalém\\par }Ao se aproximarem de Jerusalém, diante de Betfagé e de Betânia, perto do monte das Oliveiras, enviou dois dos seus discípulos,",
+      "reference": "Mc 11:1"
+    },
+    "2": {
+      "text": "dizendo-lhes: “Ide ao povoado que está à vossa frente. Entrando nele, encontrareis imediatamente um jumentinho amarrado, que ninguém montou ainda. Soltai-o e trazei-o.",
+      "reference": "Mc 11:2"
+    },
+    "3": {
+      "text": "E se alguém vos disser: ‘Por que fazeis isso?’, dizei: ‘O Senhor precisa dele, e logo o mandará de volta’”.",
+      "reference": "Mc 11:3"
+    },
+    "4": {
+      "text": "Foram, e acharam um jumentinho amarrado na rua junto a uma porta, e o soltaram.",
+      "reference": "Mc 11:4"
+    },
+    "5": {
+      "text": "Alguns dos que ali se encontravam disseram: “Por que soltais o jumentinho?”",
+      "reference": "Mc 11:5"
+    },
+    "6": {
+      "text": "Responderam como Jesus havia dito, e eles os deixaram partir.",
+      "reference": "Mc 11:6"
+    },
+    "7": {
+      "text": "Levaram a Jesus o jumentinho, sobre o qual puseram suas vestes. E ele o montou.",
+      "reference": "Mc 11:7"
+    },
+    "8": {
+      "text": "Muitos estenderam suas vestes pelo caminho, outros puseram ramos que haviam apanhado nos campos.",
+      "reference": "Mc 11:8"
+    },
+    "9": {
+      "text": "Os que iam à frente dele e os que o seguiam clamavam: {\\i “Hosana! Bendito o que vem em nome do Senhor!}",
+      "reference": "Mc 11:9"
+    },
+    "10": {
+      "text": "Bendito o Reino que vem, do nosso pai Davi! {\\i Hosana} no mais alto dos céus!”",
+      "reference": "Mc 11:10"
+    },
+    "11": {
+      "text": "Entrou no Templo, em Jerusalém e, tendo observado tudo, como fosse já tarde, saiu para Betânia com os Doze. \\par",
+      "reference": "Mc 11:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A figueira estéril\\par }No dia seguinte, quando saíam de Betânia, teve fome.",
+      "reference": "Mc 11:12"
+    },
+    "13": {
+      "text": "Ao ver, à distância, uma figueira coberta de folhagem, foi ver se acharia algum fruto. Mas nada encontrou senão folhas, pois não era tempo de figos.",
+      "reference": "Mc 11:13"
+    },
+    "14": {
+      "text": "Dirigindo-se à arvore, disse: “Ninguém jamais coma do teu fruto”. E os seus discípulos o ouviam. \\par",
+      "reference": "Mc 11:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Os vendedores expulsos do Templo\\par }Chegaram a Jerusalém. E entrando no Templo, ele começou a expulsar os vendedores e os compradores que lá estavam: virou as mesas dos cambistas e as cadeiras dos que vendiam pombas,",
+      "reference": "Mc 11:15"
+    },
+    "16": {
+      "text": "e não permitia que ninguém carregasse objetos através do Templo.",
+      "reference": "Mc 11:16"
+    },
+    "17": {
+      "text": "E ensinava-lhes, dizendo: “Não está escrito: {\\i Minha casa será chamada casa de oração para todos os povos}? Vós, porém, fizestes dela {\\i um covil de ladrões!}”",
+      "reference": "Mc 11:17"
+    },
+    "18": {
+      "text": "Os chefes dos sacerdotes e os escribas ouviram isso e procuravam como o matariam; eles o temiam, pois toda a multidão estava maravilhada com o seu ensinamento.",
+      "reference": "Mc 11:18"
+    },
+    "19": {
+      "text": "Ao entardecer, ele se dirigiu para fora da cidade. \\par",
+      "reference": "Mc 11:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i A figueira seca. Fé e oração\\par }Passando por ali de manhã, viram a figueira seca até as raízes.",
+      "reference": "Mc 11:20"
+    },
+    "21": {
+      "text": "Pedro se lembrou e disse-lhe: “Rabi, olha a figueira que amaldiçoaste: secou”.",
+      "reference": "Mc 11:21"
+    },
+    "22": {
+      "text": "Jesus respondeu-lhes: “Tende fé em Deus.",
+      "reference": "Mc 11:22"
+    },
+    "23": {
+      "text": "Em verdade vos digo, se alguém disser a esta montanha: ergue-te e lança-te ao mar, e não duvidar no coração, mas crer que o que diz se realiza, assim lhe acontecerá.",
+      "reference": "Mc 11:23"
+    },
+    "24": {
+      "text": "Por isso vos digo: tudo quanto suplicardes e pedirdes, crede que recebestes, e assim será para vós.",
+      "reference": "Mc 11:24"
+    },
+    "25": {
+      "text": "E quando estiverdes orando, se tiverdes alguma coisa contra alguém, perdoai-lhe, para que também o vosso Pai que está nos céus vos perdoe as vossas ofensas”. [",
+      "reference": "Mc 11:25"
+    },
+    "26": {
+      "text": "]. \\par",
+      "reference": "Mc 11:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Questões dos judeus sobre a autoridade de Jesus\\par }Foram de novo a Jerusalém, e enquanto ele circulava no Templo, aproximaram-se os chefes dos sacerdotes, os escribas e os anciãos,",
+      "reference": "Mc 11:27"
+    },
+    "28": {
+      "text": "e lhe perguntavam: “Com que autoridade fazes estas coisas? Ou, quem te concedeu esta autoridade para fazê-las?”",
+      "reference": "Mc 11:28"
+    },
+    "29": {
+      "text": "Jesus respondeu: “Eu vou propor-vos uma só questão. Respondei-me, e eu vos direi com que autoridade faço estas coisas.",
+      "reference": "Mc 11:29"
+    },
+    "30": {
+      "text": "O batismo de João era do Céu ou dos homens? Respondei-me”.",
+      "reference": "Mc 11:30"
+    },
+    "31": {
+      "text": "Eles arrazoavam uns com os outros, dizendo: “Se respondermos ‘Do Céu’, ele dirá: ‘Por que então não crestes nele?’ Mas se respondermos ‘Dos homens’?”",
+      "reference": "Mc 11:31"
+    },
+    "32": {
+      "text": "Temiam a multidão, pois todos pensavam que João era de fato um profeta.",
+      "reference": "Mc 11:32"
+    },
+    "33": {
+      "text": "Diante disso, responderam a Jesus: “Não sabemos”. Jesus então lhes disse: “Nem eu vos digo com que autoridade faço estas coisas”. \\par",
+      "reference": "Mc 11:33"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 33
+}

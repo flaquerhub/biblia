@@ -1,0 +1,137 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Deveres para com os pais\\par }Filhos, escutai-me, sou vosso pai, \\par e fazei o que eu vos digo para serdes salvos. \\par",
+      "reference": "Eclo 3:1"
+    },
+    "2": {
+      "text": "Pois o Senhor glorifica o pai nos filhos \\par e fortalece a autoridade da mãe sobre a prole. \\par",
+      "reference": "Eclo 3:2"
+    },
+    "3": {
+      "text": "Aquele que respeita o pai obtém o perdão dos pecados, \\par",
+      "reference": "Eclo 3:3"
+    },
+    "4": {
+      "text": "o que honra a sua mãe é como quem ajunta um tesouro. \\par",
+      "reference": "Eclo 3:4"
+    },
+    "5": {
+      "text": "Aquele que respeita o pai encontrará alegria nos filhos \\par e no dia de sua oração será atendido. \\par",
+      "reference": "Eclo 3:5"
+    },
+    "6": {
+      "text": "Aquele que honra o pai viverá muito, \\par e o que obedece ao Senhor alegrará sua mãe. \\par",
+      "reference": "Eclo 3:6"
+    },
+    "7": {
+      "text": "{\\i Quem teme o Senhor honra seu pai. }\\par Ele servirá a seus pais como ao seu Senhor. \\par",
+      "reference": "Eclo 3:7"
+    },
+    "8": {
+      "text": "Em atos e palavras respeita teu pai, \\par a fim de que venha sobre ti sua bênção. \\par",
+      "reference": "Eclo 3:8"
+    },
+    "9": {
+      "text": "Porque a bênção do pai consolida a casa dos filhos, \\par mas a maldição da mãe desenraíza os alicerces. \\par",
+      "reference": "Eclo 3:9"
+    },
+    "10": {
+      "text": "Não te glories com a desonra de teu pai, \\par porque não é nenhuma glória para ti a desonra do pai. \\par",
+      "reference": "Eclo 3:10"
+    },
+    "11": {
+      "text": "Pois a glória do homem está na honra de seu pai, \\par e é infâmia para os filhos a má reputação da mãe. \\par",
+      "reference": "Eclo 3:11"
+    },
+    "12": {
+      "text": "Filho, cuida de teu pai na velhice, \\par não o desgostes em vida. \\par",
+      "reference": "Eclo 3:12"
+    },
+    "13": {
+      "text": "Mesmo se a sua inteligência faltar, sê indulgente com ele, \\par não o menosprezes, tu que estás em pleno vigor. \\par",
+      "reference": "Eclo 3:13"
+    },
+    "14": {
+      "text": "Pois uma caridade feita a um pai não será esquecida, \\par e no lugar dos teus pecados ela valerá como reparação. \\par",
+      "reference": "Eclo 3:14"
+    },
+    "15": {
+      "text": "No dia de tua provação, o Senhor lembrar-se-á de ti, \\par como a geada ao sol, assim os teus pecados serão dissolvidos. \\par",
+      "reference": "Eclo 3:15"
+    },
+    "16": {
+      "text": "É como um blasfemador, aquele que despreza seu pai, \\par e um amaldiçoado pelo Senhor aquele que irrita a sua mãe. \\par",
+      "reference": "Eclo 3:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i A humildade\\par }Filho, conduze teus negócios com doçura \\par e serás amado mais do que um homem generoso. \\par",
+      "reference": "Eclo 3:17"
+    },
+    "18": {
+      "text": "Quandto mais fores importante, tanto mais humilha-te \\par para achares graça diante do Senhor; \\par",
+      "reference": "Eclo 3:18"
+    },
+    "19": {
+      "text": "*",
+      "reference": "Eclo 3:19"
+    },
+    "20": {
+      "text": "Pois grande é a potência do Senhor, \\par mas ele é glorificado pelos humildes. \\par",
+      "reference": "Eclo 3:20"
+    },
+    "21": {
+      "text": "Não procures o que é muito difícil para ti, \\par não investigues o que vai além de tuas forças. \\par",
+      "reference": "Eclo 3:21"
+    },
+    "22": {
+      "text": "Aplica-te àquilo que te é acessível \\par e não te ocupes com coisas misteriosas. \\par",
+      "reference": "Eclo 3:22"
+    },
+    "23": {
+      "text": "Não te aflijas com aquilo que te ultrapassa, \\par pois foi mostrado a ti mais do que o homem pode compreender. \\par",
+      "reference": "Eclo 3:23"
+    },
+    "24": {
+      "text": "Porque o seu preconceito extraviou a muitos \\par e as más suposições desviaram os seus pensamentos. \\par",
+      "reference": "Eclo 3:24"
+    },
+    "25": {
+      "text": "*",
+      "reference": "Eclo 3:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i O orgulho\\par }Um coração obstinado terá mau fim \\par e o que ama o perigo nele cairá. \\par",
+      "reference": "Eclo 3:26"
+    },
+    "27": {
+      "text": "Um coração obstinado acumula sofrimentos, \\par o pecador acrescenta pecado a pecado. \\par",
+      "reference": "Eclo 3:27"
+    },
+    "28": {
+      "text": "Para a desgraça do orgulhoso não existe remédio, \\par porque a árvore da perversidade enraizou-se nele. \\par",
+      "reference": "Eclo 3:28"
+    },
+    "29": {
+      "text": "O coração prudente medita a parábola, \\par um ouvido que o escute é o desejo do sábio. \\par",
+      "reference": "Eclo 3:29"
+    },
+    "30": {
+      "text": "\\par {\\qc\\b\\i Caridade para com os pobres\\par }A água apaga a chama, \\par a esmola expia os pecados. \\par",
+      "reference": "Eclo 3:30"
+    },
+    "31": {
+      "text": "Quem retribui com favores pensa no futuro, \\par no dia de sua queda encontrará apoio. \\par",
+      "reference": "Eclo 3:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

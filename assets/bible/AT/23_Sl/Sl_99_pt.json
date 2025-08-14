@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 99,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 99 (98)\\par }{\\qc\\b\\i Deus é rei justo e santo\\par }Iahweh é rei: os povos estremecem! \\par Ele se assenta em querubins: a terra se abala! \\par",
+      "reference": "Sl 99:1"
+    },
+    "2": {
+      "text": "Iahweh é grande em Sião. \\par Ele é excelso sobre os povos todos; \\par",
+      "reference": "Sl 99:2"
+    },
+    "3": {
+      "text": "que celebrem teu nome, grande e terrível: \\par ele é Santo! \\par",
+      "reference": "Sl 99:3"
+    },
+    "4": {
+      "text": "A força de um rei é amar o Direito. \\par És tu que firmaste a retidão; \\par em Jacó, Direito e Justiça és tu que fizeste. \\par",
+      "reference": "Sl 99:4"
+    },
+    "5": {
+      "text": "Exaltai a Iahweh: nosso Deus \\par e prostrai-vos à frente do seu pedestal: \\par ele é Santo! \\par",
+      "reference": "Sl 99:5"
+    },
+    "6": {
+      "text": "Moisés e Aarão, dentre seus sacerdotes, \\par e Samuel, dentre os que invocavam seu nome, \\par invocavam a Iahweh e ele lhes respondia. \\par",
+      "reference": "Sl 99:6"
+    },
+    "7": {
+      "text": "Falava com eles da coluna de nuvem, \\par e eles guardavam os seus testemunhos, \\par a Lei que lhes dera. \\par",
+      "reference": "Sl 99:7"
+    },
+    "8": {
+      "text": "Iahweh, nosso Deus, tu lhes respondias, \\par eras para eles um Deus de perdão, \\par mas que se vingava de suas maldades. \\par",
+      "reference": "Sl 99:8"
+    },
+    "9": {
+      "text": "Exaltai a Iahweh nosso Deus, \\par prostrai-vos perante o seu monte sagrado, \\par porque Iahweh nosso Deus é Santo! \\par",
+      "reference": "Sl 99:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

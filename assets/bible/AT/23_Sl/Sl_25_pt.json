@@ -1,0 +1,101 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 25 (24)\\par }{\\qc\\b\\i Súplica no perigo\\par }{\\qc\\i De Davi.\\par } \\par {\\qc\\b\\i Alef\\par } A ti, Iahweh, eu me elevo, \\par",
+      "reference": "Sl 25:1"
+    },
+    "2": {
+      "text": "ó meu Deus. \\par",
+      "reference": "Sl 25:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Bet\\par } Eu confio em ti, que eu não seja envergonhado, \\par que meus inimigos não triunfem contra mim! \\par \\par {\\qc\\b\\i Guimel\\par }Os que esperam em ti não ficam envergonhados, \\par ficam envergonhados os que traem sem motivo. \\par",
+      "reference": "Sl 25:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Dalet\\par }Mostra-me teus caminhos, Iahweh, \\par ensina-me tuas veredas. \\par",
+      "reference": "Sl 25:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Hê\\par }Guia-me com tua verdade, ensina-me, \\par pois tu és o meu Deus salvador. \\par",
+      "reference": "Sl 25:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Waw\\par } Eu espero em ti o dia todo. \\par \\par {\\qc\\b\\i Záin\\par }Recorda a tua compaixão, ó Iahweh, \\par e o teu amor, que existem desde sempre. \\par",
+      "reference": "Sl 25:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Het\\par }Não recordes meus desvios da juventude, \\par lembra-te de mim, conforme o teu amor \\par por causa da tua bondade, Iahweh. \\par",
+      "reference": "Sl 25:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Tet\\par }Iahweh é bondade e retidão, \\par e aponta o caminho aos pecadores; \\par",
+      "reference": "Sl 25:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Yod\\par }encaminha os pobres conforme o direito \\par e ensina seu caminho aos infelizes. \\par",
+      "reference": "Sl 25:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Kaf\\par }As sendas de Iahweh são todas amor e verdade, \\par para os que guardam sua aliança e seus preceitos. \\par",
+      "reference": "Sl 25:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par }Por causa do teu nome, Iahweh, \\par perdoa minha falta, pois é grande. \\par",
+      "reference": "Sl 25:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Mem\\par }Qual o homem que teme a Iahweh? \\par Ele o instrui sobre o caminho a seguir; \\par",
+      "reference": "Sl 25:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Nun\\par }sua vida repousará feliz \\par e sua descendência possuirá a terra. \\par",
+      "reference": "Sl 25:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Samec\\par }O segredo de Iahweh é para aqueles que o temem, \\par fazendo-os conhecer a sua aliança. \\par",
+      "reference": "Sl 25:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Áin\\par }Meus olhos estão sempre em Iahweh, \\par pois ele tira os meus pés da rede. \\par",
+      "reference": "Sl 25:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Pê\\par }Volta-te para mim, tem piedade de mim, \\par pois solitário estou, e infeliz. \\par",
+      "reference": "Sl 25:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Çade\\par }Alivia as angústias do meu coração, \\par tira-me das minhas aflições. \\par",
+      "reference": "Sl 25:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Qof\\par }Vê minha fadiga e miséria \\par e perdoa meus pecados todos. \\par",
+      "reference": "Sl 25:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Resh\\par }Vê meus inimigos que se multiplicam, \\par e o ódio violento com que me odeiam. \\par",
+      "reference": "Sl 25:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Shin\\par }Guarda-me a vida! Liberta-me! \\par Que eu não seja envergonhado por abrigar-me em ti! \\par",
+      "reference": "Sl 25:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Taw\\par }Que a integridade e a retidão me preservem, \\par pois em ti eu espero, Iahweh! \\par",
+      "reference": "Sl 25:21"
+    },
+    "22": {
+      "text": "Ó Deus, resgata Israel \\par de toda as suas angústias! \\par",
+      "reference": "Sl 25:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

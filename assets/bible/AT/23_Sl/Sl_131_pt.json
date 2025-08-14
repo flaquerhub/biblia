@@ -1,0 +1,25 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 131,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 131 (130)\\par }{\\qc\\b\\i O espírito de infância\\par }{\\qc\\i Cântico das subidas. De Davi.\\par }\\par Iahweh, meu coração não se eleva, \\par nem meus olhos se alteiam; \\par não ando atrás de grandezas, \\par nem de maravilhas que me ultrapassam. \\par",
+      "reference": "Sl 131:1"
+    },
+    "2": {
+      "text": "Não! Fiz calar e repousar meus desejos, \\par como criança desmamada no colo de sua mãe, \\par como criança desmamada estão em mim meus desejos. \\par",
+      "reference": "Sl 131:2"
+    },
+    "3": {
+      "text": "Israel, põe tua esperança em Iahweh, \\par desde agora e para sempre! \\par",
+      "reference": "Sl 131:3"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 3
+}

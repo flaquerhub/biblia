@@ -1,0 +1,273 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "Iahweh falou a Moisés e a Eleazar, filho de Aarão, o sacerdote. Disse: \\par",
+      "reference": "Nm 26:1"
+    },
+    "2": {
+      "text": "“Fazei o recenseamento de toda a comunidade dos filhos de Israel, segundo suas casas patriarcais: todos aqueles que têm de vinte anos para cima, aptos para o serviço militar em Israel”. \\par",
+      "reference": "Nm 26:2"
+    },
+    "3": {
+      "text": "Portanto, Moisés e Eleazar, o sacerdote, os recensearam, nas estepes de Moab, junto do Jordão, em direção a Jericó. \\par",
+      "reference": "Nm 26:3"
+    },
+    "4": {
+      "text": "(Conforme Iahweh ordenou a Moisés e aos filhos de Israel, quando saíram da terra do Egito). Homens de vinte anos para cima: \\par",
+      "reference": "Nm 26:4"
+    },
+    "5": {
+      "text": "Rúben, primogênito de Israel. Os filhos de Rúben: de Henoc, o clã henoquita; de Falu, o clã faluíta;",
+      "reference": "Nm 26:5"
+    },
+    "6": {
+      "text": "de Hesron, o clã hesronita; de Carmi, o clã carmita.",
+      "reference": "Nm 26:6"
+    },
+    "7": {
+      "text": "Esses eram os clãs rubenitas. Formavam o total de quarenta e três mil e setecentos e trinta recenseados. \\par",
+      "reference": "Nm 26:7"
+    },
+    "8": {
+      "text": "Os filhos de Falu: Eliab.",
+      "reference": "Nm 26:8"
+    },
+    "9": {
+      "text": "Os filhos de Eliab: Namuel, Datã e Abiram. Estes são Datã e Abiram, homens de destaque na comunidade, que se sublevaram contra Moisés e Aarão; estavam na companhia de Coré quando este se sublevou contra Iahweh.",
+      "reference": "Nm 26:9"
+    },
+    "10": {
+      "text": "A terra abriu a boca e os devorou (assim como Coré, pereceu igualmente este grupo), quando o fogo consumiu os duzentos e cinqüenta homens. Foram eles um sinal.",
+      "reference": "Nm 26:10"
+    },
+    "11": {
+      "text": "Os filhos de Coré, contudo, não pereceram. \\par",
+      "reference": "Nm 26:11"
+    },
+    "12": {
+      "text": "Os filhos de Simeão, segundo os seus clãs: de Namuel, o clã namuelita; de Jamin, o clã jaminita; de Jaquin, o clã jaquinita;",
+      "reference": "Nm 26:12"
+    },
+    "13": {
+      "text": "de Zara, o clã zaraíta; de Saul, o clã saulita.",
+      "reference": "Nm 26:13"
+    },
+    "14": {
+      "text": "Esses eram os clãs simeonitas. Formavam o total de vinte e dois mil e duzentos recenseados. \\par",
+      "reference": "Nm 26:14"
+    },
+    "15": {
+      "text": "Os filhos de Gad, segundo seus clãs: de Sefon, o clã sefonita; de Agi, o clã agita; de Suni, o clã sunita;",
+      "reference": "Nm 26:15"
+    },
+    "16": {
+      "text": "de Ozni, o clã oznita; de Heri, o clã herita;",
+      "reference": "Nm 26:16"
+    },
+    "17": {
+      "text": "de Arod, o clã arodita; de Areli, o clã arelita.",
+      "reference": "Nm 26:17"
+    },
+    "18": {
+      "text": "Esses eram os clãs dos filhos de Gad. Formavam o total de quarenta mil e quinhentos recenseados. \\par",
+      "reference": "Nm 26:18"
+    },
+    "19": {
+      "text": "Os filhos de Judá: Her e Onã. Her e Onã morreram na terra de Canaã.",
+      "reference": "Nm 26:19"
+    },
+    "20": {
+      "text": "Dos filhos de Judá, saíram os clãs: de Sela, o clã selaíta; de Farés, o clã faresita; de Zaré, o clã zareíta.",
+      "reference": "Nm 26:20"
+    },
+    "21": {
+      "text": "Os filhos de Farés foram: de Hesron, o clã hesronita; de Hamul, o clã hamulita.",
+      "reference": "Nm 26:21"
+    },
+    "22": {
+      "text": "Esses foram os clãs de Judá. Formavam o total de setenta e seis mil e quinhentos recenseados. \\par",
+      "reference": "Nm 26:22"
+    },
+    "23": {
+      "text": "Os filhos de Issacar, segundo seus clãs: de Tola, o clã tolaíta; de Fuá, o clã fuaíta;",
+      "reference": "Nm 26:23"
+    },
+    "24": {
+      "text": "de Jasub, o clã jasubita; de Semron, o clã semronita.",
+      "reference": "Nm 26:24"
+    },
+    "25": {
+      "text": "Esses eram os clãs de Issacar. Formavam o total de sessenta e quatro mil e trezentos recenseados. \\par",
+      "reference": "Nm 26:25"
+    },
+    "26": {
+      "text": "Os filhos de Zabulon, segundo seus clãs: de Sared, o clã saredita; de Elon, o clã elonita; de Jalel, o clã jalelita.",
+      "reference": "Nm 26:26"
+    },
+    "27": {
+      "text": "Esses eram os clãs de Zabulon. Formavam o total de sessenta mil e quinhentos recenseados. \\par",
+      "reference": "Nm 26:27"
+    },
+    "28": {
+      "text": "Os filhos de José, segundo seus clãs: Manassés e Efraim. \\par",
+      "reference": "Nm 26:28"
+    },
+    "29": {
+      "text": "Os filhos de Manassés: de Maquir, o clã maquirita; e Maquir gerou a Galaad; de Galaad, o clã galaadita.",
+      "reference": "Nm 26:29"
+    },
+    "30": {
+      "text": "Estes são os filhos de Galaad: de Jezer, o clã jezerita; de Helec, o clã helequita;",
+      "reference": "Nm 26:30"
+    },
+    "31": {
+      "text": "Asriel, o clã asrielita; Siquém, o clã siquemita;",
+      "reference": "Nm 26:31"
+    },
+    "32": {
+      "text": "Semida, o clã semidaíta; Héfer, o clã heferita.",
+      "reference": "Nm 26:32"
+    },
+    "33": {
+      "text": "Salfaad, filho de Héfer, não teve filhos, mas apenas filhas; estes são os nomes das filhas de Salfaad: Maala, Noa, Hegla, Melca e Tersa.",
+      "reference": "Nm 26:33"
+    },
+    "34": {
+      "text": "Esses eram os clãs de Manassés. Formavam o total de cinqüenta e dois mil e setecentos recenseados. \\par",
+      "reference": "Nm 26:34"
+    },
+    "35": {
+      "text": "Estes são os filhos de Efraim, segundo os seus clãs: de Sutala, o clã sutalaíta; de Bequer, o clã bequerita; de Teen, o clã teenita.",
+      "reference": "Nm 26:35"
+    },
+    "36": {
+      "text": "Estes são os filhos de Sutala: de Herã, o clã heranita.",
+      "reference": "Nm 26:36"
+    },
+    "37": {
+      "text": "Esses eram os clãs de Efraim. Formavam o total de trinta e dois mil e quinhentos recenseados. \\par Esses eram os filhos de José, segundo os seus clãs. \\par",
+      "reference": "Nm 26:37"
+    },
+    "38": {
+      "text": "Os filhos de Benjamim, segundo seus clãs: de Bela, o clã belaíta; de Asbel, o clã asbelita; de Airam, o clã airamita;",
+      "reference": "Nm 26:38"
+    },
+    "39": {
+      "text": "de Sufam, o clã sufamita; de Hufam, o clã hufamita.",
+      "reference": "Nm 26:39"
+    },
+    "40": {
+      "text": "Bela teve os filhos Ared e Naamã: de Ared, o clã aredita; de Naamã, o clã naamanita.",
+      "reference": "Nm 26:40"
+    },
+    "41": {
+      "text": "Esses eram os filhos de Benjamim, segundo os seus clãs. Formavam o total de quarenta e cinco mil e seiscentos recenseados. \\par",
+      "reference": "Nm 26:41"
+    },
+    "42": {
+      "text": "Estes são os filhos de Dã, segundo seus clãs: de Suam, o clã suamita. Esses eram os filhos de Dã, segundo os seus clãs.",
+      "reference": "Nm 26:42"
+    },
+    "43": {
+      "text": "Todos os clãs suamitas formavam o total de sessenta e quatro mil e quatrocentos recenseados. \\par",
+      "reference": "Nm 26:43"
+    },
+    "44": {
+      "text": "Os filhos de Aser, segundo os seus clãs: de Jemna, o clã jemnaíta; de Jessui, o clã jessuíta; de Beria, o clã beraíta.",
+      "reference": "Nm 26:44"
+    },
+    "45": {
+      "text": "Dos filhos de Beria: de Héber, o clã heberita; de Melquiel, o clã melquielita.",
+      "reference": "Nm 26:45"
+    },
+    "46": {
+      "text": "O nome da filha de Aser era Sara.",
+      "reference": "Nm 26:46"
+    },
+    "47": {
+      "text": "Esses eram os clãs dos filhos de Aser. Formavam o total de cinqüenta e três mil e quatrocentos recenseados. \\par",
+      "reference": "Nm 26:47"
+    },
+    "48": {
+      "text": "Os filhos de Neftali, segundo os seus clãs: de Jasiel, o clã jasielita; de Guni, o clã gunita;",
+      "reference": "Nm 26:48"
+    },
+    "49": {
+      "text": "de Jeser, o clã jeserita; de Selém, o clã selemita.",
+      "reference": "Nm 26:49"
+    },
+    "50": {
+      "text": "Esses eram os clãs de Neftali, repartidos segundo seus clãs. Os filhos de Neftali formavam o total de quarenta e cinco mil e quatrocentos recenseados. \\par",
+      "reference": "Nm 26:50"
+    },
+    "51": {
+      "text": "Os filhos de Israel eram, portanto, seiscentos e um mil, setecentos e trinta recenseados. \\par",
+      "reference": "Nm 26:51"
+    },
+    "52": {
+      "text": "Iahweh falou a Moisés e disse:",
+      "reference": "Nm 26:52"
+    },
+    "53": {
+      "text": "“A estes a terra será distribuída em herança, segundo o número dos inscritos.",
+      "reference": "Nm 26:53"
+    },
+    "54": {
+      "text": "Àquele que tem um número maior tu darás uma propriedade maior e àquele que tem um número menor tu darás uma propriedade menor; a cada um a sua herança, em proporção ao número dos seus recenseados.",
+      "reference": "Nm 26:54"
+    },
+    "55": {
+      "text": "Todavia, a divisão da terra se fará por meio de sortes. Segundo o número dos nomes das tribos patriarcais, se receberá a herança;",
+      "reference": "Nm 26:55"
+    },
+    "56": {
+      "text": "a herança de cada tribo será repartida por sortes, tendo em conta o maior ou menor número”. \\par",
+      "reference": "Nm 26:56"
+    },
+    "57": {
+      "text": "\\par {\\qc\\b\\i Recenseamento dos levitas\\par }Estes são os levitas recenseados, segundo seus clãs: de Gérson, o clã gersonita; de Caat, o clã caatita; de Merari, o clã merarita. \\par",
+      "reference": "Nm 26:57"
+    },
+    "58": {
+      "text": "Estes são os clãs levitas: o clã lobnita, o clã hebronita, o clã moolita, o clã musita, o clã coreíta. \\par Caat gerou Amram.",
+      "reference": "Nm 26:58"
+    },
+    "59": {
+      "text": "A mulher de Amram se chamava Jocabed, filha de Levi, que lhe nasceu no Egito. Ela gerou para Amram: Aarão, Moisés e Maria, irmã deles.",
+      "reference": "Nm 26:59"
+    },
+    "60": {
+      "text": "Aarão gerou Nadab e Abiú, Eleazar e Itamar.",
+      "reference": "Nm 26:60"
+    },
+    "61": {
+      "text": "Nadab e Abiú morreram quando levaram um fogo irregular perante Iahweh. \\par",
+      "reference": "Nm 26:61"
+    },
+    "62": {
+      "text": "Ao todo foram recenseados vinte e três mil homens, da idade de um mês para cima. Pois não haviam sido recenseados com os filhos de Israel, não tendo recebido herança no meio deles. \\par",
+      "reference": "Nm 26:62"
+    },
+    "63": {
+      "text": "Esses foram os homens que Moisés e Eleazar, o sacerdote, recensearam, sendo que ambos fizeram o recenseamento dos filhos de Israel nas estepes de Moab, junto do Jordão, na direção de Jericó.",
+      "reference": "Nm 26:63"
+    },
+    "64": {
+      "text": "Nenhum deles estava entre aqueles que Moisés e Aarão, o sacerdote, haviam recenseado, ao numerarem os filhos de Israel no deserto do Sinai;",
+      "reference": "Nm 26:64"
+    },
+    "65": {
+      "text": "pois Iahweh dissera a respeito deles: todos estes morrerão no deserto e não ficará nenhum, à exceção de Caleb, filho de Jefoné, e de Josué, filho de Nun. \\par",
+      "reference": "Nm 26:65"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 65
+}

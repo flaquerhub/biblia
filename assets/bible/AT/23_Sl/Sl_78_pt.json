@@ -1,0 +1,301 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 78,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 78 (77)\\par }{\\qc\\b\\i As lições da história de Israel\\par }{\\qc\\i Poema. De Asaf.\\par } Povo meu, escuta minha lei, \\par dá ouvido às palavras de minha boca; \\par",
+      "reference": "Sl 78:1"
+    },
+    "2": {
+      "text": "vou abrir minha boca numa parábola, \\par vou expor enigmas do passado. \\par",
+      "reference": "Sl 78:2"
+    },
+    "3": {
+      "text": "O que nós ouvimos e conhecemos, \\par o que nos contaram nossos pais, \\par",
+      "reference": "Sl 78:3"
+    },
+    "4": {
+      "text": "não o esconderemos a seus filhos; \\par nós o contaremos à geração seguinte: \\par os louvores de Iahweh e seu poder, \\par e as maravilhas que realizou; \\par",
+      "reference": "Sl 78:4"
+    },
+    "5": {
+      "text": "ele firmou um testemunho em Jacó \\par e colocou uma lei em Israel, \\par ordenando a nossos pais \\par que os transmitissem aos seus filhos, \\par",
+      "reference": "Sl 78:5"
+    },
+    "6": {
+      "text": "para que a geração seguinte os conhecesse, \\par os filhos que iriam nascer: \\par que se levantem e os contem a seus filhos, \\par",
+      "reference": "Sl 78:6"
+    },
+    "7": {
+      "text": "para que ponham em Deus sua confiança, \\par não se esqueçam dos feitos de Deus \\par e observem seus mandamentos; \\par",
+      "reference": "Sl 78:7"
+    },
+    "8": {
+      "text": "para que não sejam como seus pais, \\par uma geração desobediente e rebelde, \\par geração de coração inconstante, \\par cujo espírito não era fiel a Deus. \\par",
+      "reference": "Sl 78:8"
+    },
+    "9": {
+      "text": "Os filhos de Efraim, arqueiros equipados, \\par no dia do combate debandaram; \\par",
+      "reference": "Sl 78:9"
+    },
+    "10": {
+      "text": "não guardaram a aliança de Deus, \\par recusaram andar em sua lei; \\par",
+      "reference": "Sl 78:10"
+    },
+    "11": {
+      "text": "esqueceram-se de seus grandes feitos \\par e das maravilhas que lhes mostrara. \\par",
+      "reference": "Sl 78:11"
+    },
+    "12": {
+      "text": "Frente a seus pais ele realizou a maravilha, \\par na terra do Egito, no campo de Tânis. \\par",
+      "reference": "Sl 78:12"
+    },
+    "13": {
+      "text": "Dividiu o mar e os fez atravessar, \\par barrando as águas como num dique. \\par",
+      "reference": "Sl 78:13"
+    },
+    "14": {
+      "text": "De dia guiou-os com a nuvem, \\par e com a luz de um fogo toda a noite; \\par",
+      "reference": "Sl 78:14"
+    },
+    "15": {
+      "text": "fendeu rochedos pelo deserto \\par e deu-lhes a beber como do grande Abismo; \\par",
+      "reference": "Sl 78:15"
+    },
+    "16": {
+      "text": "da pedra fez brotar torrentes \\par e as águas desceram como rios. \\par",
+      "reference": "Sl 78:16"
+    },
+    "17": {
+      "text": "Mas continuaram pecando contra ele, \\par rebelando-se contra o Altíssimo na estepe; \\par",
+      "reference": "Sl 78:17"
+    },
+    "18": {
+      "text": "tentaram a Deus em seus corações, \\par pedindo comida conforme seu gosto. \\par",
+      "reference": "Sl 78:18"
+    },
+    "19": {
+      "text": "E falaram contra Deus: \\par “Acaso Deus poderia \\par preparar uma mesa no deserto? \\par",
+      "reference": "Sl 78:19"
+    },
+    "20": {
+      "text": "Com efeito, ele feriu o rochedo, \\par as águas correm e as torrentes transbordam: \\par acaso também pode dar o pão \\par ou fornecer carne ao seu povo?” \\par",
+      "reference": "Sl 78:20"
+    },
+    "21": {
+      "text": "Ouvindo isso, Iahweh se enfureceu; \\par um fogo acendeu-se contra Jacó, \\par e a Ira levantou-se contra Israel, \\par",
+      "reference": "Sl 78:21"
+    },
+    "22": {
+      "text": "porque eles não tinham fé em Deus, \\par nem confiavam em sua salvação. \\par",
+      "reference": "Sl 78:22"
+    },
+    "23": {
+      "text": "Contudo, ordenou às nuvens do alto \\par e abriu as portas do céu; \\par",
+      "reference": "Sl 78:23"
+    },
+    "24": {
+      "text": "para os alimentar fez chover o maná, \\par deu para eles o trigo do céu; \\par",
+      "reference": "Sl 78:24"
+    },
+    "25": {
+      "text": "cada um comeu do pão dos Fortes; \\par mandou-lhes provisões em fartura. \\par",
+      "reference": "Sl 78:25"
+    },
+    "26": {
+      "text": "Fez soprar no céu o vento leste, \\par e com seu poder trouxe o vento sul; \\par",
+      "reference": "Sl 78:26"
+    },
+    "27": {
+      "text": "sobre eles fez chover carne como pó, \\par aves numerosas como areia do mar, \\par",
+      "reference": "Sl 78:27"
+    },
+    "28": {
+      "text": "fazendo-as cair no meio do seu acampamento, \\par ao redor das suas tendas. \\par",
+      "reference": "Sl 78:28"
+    },
+    "29": {
+      "text": "Eles comeram e ficaram saciados, \\par pois ele os serviu conforme queriam. \\par",
+      "reference": "Sl 78:29"
+    },
+    "30": {
+      "text": "Não haviam satisfeito o apetite, \\par tinham ainda a comida na boca, \\par",
+      "reference": "Sl 78:30"
+    },
+    "31": {
+      "text": "quando a ira de Deus elevou-se contra eles: \\par ele massacrou seus mais fortes, \\par prostrou a juventude de Israel. \\par",
+      "reference": "Sl 78:31"
+    },
+    "32": {
+      "text": "Apesar disso, continuaram a pecar, \\par não tinham fé em suas maravilhas: \\par",
+      "reference": "Sl 78:32"
+    },
+    "33": {
+      "text": "ele consumiu seus dias num sopro \\par e seus anos num terror. \\par",
+      "reference": "Sl 78:33"
+    },
+    "34": {
+      "text": "Quando os matava então o buscavam, \\par convertiam-se e o procuravam; \\par",
+      "reference": "Sl 78:34"
+    },
+    "35": {
+      "text": "recordavam que Deus era seu rochedo, \\par que o Deus Altíssimo era seu redentor. \\par",
+      "reference": "Sl 78:35"
+    },
+    "36": {
+      "text": "Eles o adulavam com a boca, \\par mas com a língua o enganavam; \\par",
+      "reference": "Sl 78:36"
+    },
+    "37": {
+      "text": "seu coração não era sincero com ele, \\par não tinham fé na sua aliança. \\par",
+      "reference": "Sl 78:37"
+    },
+    "38": {
+      "text": "Ele, porém, compassivo, \\par perdoava as faltas e não os destruía; \\par reprimia sua ira muitas vezes \\par e não despertava todo seu furor. \\par",
+      "reference": "Sl 78:38"
+    },
+    "39": {
+      "text": "Lembra-se de que eram apenas carne, \\par um vento que vai, sem nunca voltar. \\par",
+      "reference": "Sl 78:39"
+    },
+    "40": {
+      "text": "Quantas vezes o afrontaram no deserto \\par e o ofenderam em lugares solitários! \\par",
+      "reference": "Sl 78:40"
+    },
+    "41": {
+      "text": "Voltavam a tentar a Deus, \\par a irritar o Santo de Israel; \\par",
+      "reference": "Sl 78:41"
+    },
+    "42": {
+      "text": "não se lembravam de sua mão \\par que um dia os resgatou do adversário, \\par",
+      "reference": "Sl 78:42"
+    },
+    "43": {
+      "text": "quando operou seus sinais no Egito \\par e seus prodígios no campo de Tânis; \\par",
+      "reference": "Sl 78:43"
+    },
+    "44": {
+      "text": "quando transformou em sangue seus canais \\par e sua torrentes, privando-os de beber. \\par",
+      "reference": "Sl 78:44"
+    },
+    "45": {
+      "text": "Enviou-lhes moscas que os devoravam \\par e rãs que os devastavam; \\par",
+      "reference": "Sl 78:45"
+    },
+    "46": {
+      "text": "entregou às larvas suas colheitas \\par e seu trabalho aos gafanhotos; \\par",
+      "reference": "Sl 78:46"
+    },
+    "47": {
+      "text": "destruiu sua vinha com granizo \\par e seus sicômoros com geada; \\par",
+      "reference": "Sl 78:47"
+    },
+    "48": {
+      "text": "abandonou seu gado à saraiva, \\par e aos relâmpagos o seu rebanho. \\par",
+      "reference": "Sl 78:48"
+    },
+    "49": {
+      "text": "Lançou contra eles o fogo de sua ira: \\par cólera, furor e aflição, \\par anjos portadores de desgraças; \\par",
+      "reference": "Sl 78:49"
+    },
+    "50": {
+      "text": "deu livre curso à sua ira: \\par da morte não mais os preservou, \\par mas à peste entregou a sua vida. \\par",
+      "reference": "Sl 78:50"
+    },
+    "51": {
+      "text": "Feriu todo primogênito no Egito, \\par as primícias da raça nas tendas de Cam. \\par",
+      "reference": "Sl 78:51"
+    },
+    "52": {
+      "text": "Fez seu povo partir como um rebanho \\par e como ovelhas conduziu-os no deserto. \\par",
+      "reference": "Sl 78:52"
+    },
+    "53": {
+      "text": "Guiou-os com segurança e não temeram, \\par e o mar recobriu seus inimigos. \\par",
+      "reference": "Sl 78:53"
+    },
+    "54": {
+      "text": "Introduziu-os em suas fronteiras sagradas, \\par a montanha que sua direita conquistara; \\par",
+      "reference": "Sl 78:54"
+    },
+    "55": {
+      "text": "expulsou as nações da sua frente, \\par com o cordel delimitou-lhes uma herança, \\par e pôs em suas tendas as tribos de Israel. \\par",
+      "reference": "Sl 78:55"
+    },
+    "56": {
+      "text": "Mas tentavam, afrontavam o Deus Altíssimo, \\par recusando guardar seus testemunhos; \\par",
+      "reference": "Sl 78:56"
+    },
+    "57": {
+      "text": "desviavam-se, traíam como seus pais, \\par voltavam atrás como um arco infiel; \\par",
+      "reference": "Sl 78:57"
+    },
+    "58": {
+      "text": "com seus lugares altos o indignavam, \\par e o enciumavam com seus ídolos. \\par",
+      "reference": "Sl 78:58"
+    },
+    "59": {
+      "text": "Deus ouviu e ficou enfurecido, \\par e rejeitou completamente a Israel; \\par",
+      "reference": "Sl 78:59"
+    },
+    "60": {
+      "text": "abandonou sua morada em Silo, \\par a tenda em que habitava entre os homens. \\par",
+      "reference": "Sl 78:60"
+    },
+    "61": {
+      "text": "Entregou sua força ao cativeiro \\par e seu esplendor à mão do opressor; \\par",
+      "reference": "Sl 78:61"
+    },
+    "62": {
+      "text": "abandonou seu povo à espada, \\par enfureceu-se contra sua herança. \\par",
+      "reference": "Sl 78:62"
+    },
+    "63": {
+      "text": "Seus jovens foram devorados pelo fogo \\par e suas virgens não tiveram canto de núpcias; \\par",
+      "reference": "Sl 78:63"
+    },
+    "64": {
+      "text": "seus sacerdotes caíram sob a espada \\par e suas viúvas não entoaram lamentações. \\par",
+      "reference": "Sl 78:64"
+    },
+    "65": {
+      "text": "E o Senhor acordou como um homem que dormia, \\par como um valente embriagado pelo vinho, \\par",
+      "reference": "Sl 78:65"
+    },
+    "66": {
+      "text": "feriu seus opressores pelas costas \\par e para sempre entregou-os à vergonha. \\par",
+      "reference": "Sl 78:66"
+    },
+    "67": {
+      "text": "Rejeitou a tenda de José \\par e não elegeu a tribo de Efraim; \\par",
+      "reference": "Sl 78:67"
+    },
+    "68": {
+      "text": "elegeu a tribo de Judá \\par e o monte Sião, que ele ama. \\par",
+      "reference": "Sl 78:68"
+    },
+    "69": {
+      "text": "Construiu seu santuário como as alturas, \\par como a terra que fundou para sempre. \\par",
+      "reference": "Sl 78:69"
+    },
+    "70": {
+      "text": "Escolheu a Davi, seu servo, \\par tirou-o do aprisco das ovelhas; \\par",
+      "reference": "Sl 78:70"
+    },
+    "71": {
+      "text": "da companhia das ovelhas fê-lo vir \\par para apascentar Jacó, seu povo, \\par e Israel, sua herança, \\par",
+      "reference": "Sl 78:71"
+    },
+    "72": {
+      "text": "ele os apascentou com coração íntegro \\par e conduziu-os com mão sábia. \\par",
+      "reference": "Sl 78:72"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 72
+}

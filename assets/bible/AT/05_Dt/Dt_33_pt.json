@@ -1,0 +1,129 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 33,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As bênçãos de Moisés\\par }Esta é a bênção com que Moisés, homem de Deus, abençoou os filhos de Israel, antes de morrer: \\par",
+      "reference": "Dt 33:1"
+    },
+    "2": {
+      "text": "“Iahweh veio do Sinai, \\par alvoreceu para eles de Seir, \\par resplandeceu do monte Farã. \\par Dos grupos de Cades veio a eles, \\par desde o sul até às encostas. \\par",
+      "reference": "Dt 33:2"
+    },
+    "3": {
+      "text": "Tu, que amas os antepassados, \\par todos os santos estão em tua mão. \\par Eles se prostraram aos teus pés \\par e correram sob a tua direção. \\par",
+      "reference": "Dt 33:3"
+    },
+    "4": {
+      "text": "(Moisés prescreveu-nos uma lei.) \\par A assembléia de Jacó entra em sua herança! \\par",
+      "reference": "Dt 33:4"
+    },
+    "5": {
+      "text": "Houve um rei em Jesurun, \\par quando os chefes do povo se reuniram \\par juntamente com as tribos de Israel. \\par",
+      "reference": "Dt 33:5"
+    },
+    "6": {
+      "text": "Que Rúben viva e não morra, \\par e subsista o número pequeno dos seus homens! \\par",
+      "reference": "Dt 33:6"
+    },
+    "7": {
+      "text": "Eis o que ele diz a Judá: \\par Ouve, Iahweh, a voz de Judá \\par e introduze-o em seu povo. \\par Que suas mãos defendam seu direito, \\par e o auxiliarás contra os inimigos. \\par",
+      "reference": "Dt 33:7"
+    },
+    "8": {
+      "text": "A Levi ele diz: \\par Dá a Levi teus {\\i Urim} \\par e teus {\\i Tummim} ao homem que amas, \\par que puseste à prova em Massa \\par e querelaste junto às águas de Meriba. \\par",
+      "reference": "Dt 33:8"
+    },
+    "9": {
+      "text": "Ele diz de seu pai e mãe: \\par ‘Nunca os vi’. \\par Ele não reconhece mais seus irmãos \\par e ignora seus filhos. \\par Sim, eles observaram a tua palavra \\par e mantêm a tua Aliança. \\par",
+      "reference": "Dt 33:9"
+    },
+    "10": {
+      "text": "Eles ensinam tuas normas a Jacó \\par e tua Lei a Israel. \\par Eles oferecem incenso às tuas narinas \\par e holocaustos sobre o teu altar. \\par",
+      "reference": "Dt 33:10"
+    },
+    "11": {
+      "text": "Abençoa a sua força, ó Iahweh, \\par e aprecia a obra de suas mãos. \\par Fere os rins dos seus adversários \\par e dos que o odeiam, para que não se levantem! \\par",
+      "reference": "Dt 33:11"
+    },
+    "12": {
+      "text": "A Benjamim ele diz: \\par O amado de Iahweh repousa tranqüilo junto a ele; \\par o Altíssimo o protege todo o dia \\par e habita entre as tuas encostas. \\par",
+      "reference": "Dt 33:12"
+    },
+    "13": {
+      "text": "A José ele diz: \\par Sua terra é bendita de Iahweh: \\par dele é o melhor orvalho do céu \\par e do abismo subterrâneo; \\par",
+      "reference": "Dt 33:13"
+    },
+    "14": {
+      "text": "o melhor dos produtos do sol \\par e o melhor do que cresce nas luas; \\par",
+      "reference": "Dt 33:14"
+    },
+    "15": {
+      "text": "as primícias dos montes antigos \\par e o melhor das colinas de outrora; \\par",
+      "reference": "Dt 33:15"
+    },
+    "16": {
+      "text": "o melhor da terra e do seu produto, \\par e o favor do que habita na Sarça. \\par Que a cabeleira abunde sobre a cabeça de José, \\par sobre a fronte do consagrado entre os irmãos! \\par",
+      "reference": "Dt 33:16"
+    },
+    "17": {
+      "text": "Ele é seu touro primogênito, a glória lhe pertence. \\par Seus chifres são chifres de búfalo: \\par com eles investe contra os povos \\par até as extremidades da terra. \\par São estas as miríades de Efraim, \\par e estes os milhares de Manassés. \\par",
+      "reference": "Dt 33:17"
+    },
+    "18": {
+      "text": "A Zabulon ele diz: \\par Sê feliz em tuas expedições, Zabulon, \\par e tu, Issacar, em tuas tendas! \\par",
+      "reference": "Dt 33:18"
+    },
+    "19": {
+      "text": "Sobre a montanha em que os povos invocam, \\par ali oferecem sacrifícios de justiça, \\par pois exploram as riquezas marinhas \\par e os tesouros escondidos na areia. \\par",
+      "reference": "Dt 33:19"
+    },
+    "20": {
+      "text": "A Gad ele diz: \\par Bendito aquele que dá espaço a Gad! \\par Ele repousa como leoa, \\par após destroçar braço, face e crânio. \\par",
+      "reference": "Dt 33:20"
+    },
+    "21": {
+      "text": "Ele reserva as primícias para si, \\par pois lá coube-lhe a parte do chefe. \\par Ele veio a ser chefe do povo, \\par executando a justiça de Iahweh \\par e suas normas sobre Israel. \\par",
+      "reference": "Dt 33:21"
+    },
+    "22": {
+      "text": "A Dã ele diz: \\par Dã é um filhote de leão \\par que se arroja de Basã. \\par",
+      "reference": "Dt 33:22"
+    },
+    "23": {
+      "text": "A Neftali ele diz: \\par Neftali é saciado de favores \\par e repleto das bênçãos de Iahweh: \\par ele toma posse do mar e do sul. \\par",
+      "reference": "Dt 33:23"
+    },
+    "24": {
+      "text": "A Aser ele diz: \\par Bendito seja Aser entre os filhos, \\par seja o favorito entre os irmãos, \\par e que no óleo banhe o seu pé! \\par",
+      "reference": "Dt 33:24"
+    },
+    "25": {
+      "text": "Sejam de ferro e bronze teus ferrolhos \\par e tua segurança perdure por teus dias! \\par",
+      "reference": "Dt 33:25"
+    },
+    "26": {
+      "text": "Ninguém é como o Deus de Jesurun: \\par ele cavalga pelo céu em teu auxílio, \\par e pelas nuvens, com a sua majestade! \\par",
+      "reference": "Dt 33:26"
+    },
+    "27": {
+      "text": "O Deus de outrora é o teu refúgio. \\par Cá embaixo, ele é o braço antigo \\par que expulsa o inimigo da tua frente, \\par e diz: ‘Extermina!’ \\par",
+      "reference": "Dt 33:27"
+    },
+    "28": {
+      "text": "Israel habita em segurança. \\par A fonte de Jacó fica à parte, \\par numa terra de trigo e vinho, \\par sob um céu que destila orvalho. \\par",
+      "reference": "Dt 33:28"
+    },
+    "29": {
+      "text": "Feliz és tu, ó Israel! \\par Quem é como tu, povo vencedor? \\par Em Iahweh está o escudo que te socorre \\par e a espada que te leva ao triunfo. \\par Teus inimigos vão querer bajular-te, \\par mas tu pisarás suas costas”. \\par",
+      "reference": "Dt 33:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

@@ -1,0 +1,89 @@
+{
+  "book": 60,
+  "book_name": "1Pedro",
+  "book_abbr": "1Pe",
+  "book_category": "Epístolas Gerais",
+  "book_english": "1 Peter",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Rompimento com o pecado\\par }Pois que Cristo sofreu na carne, deveis também vós munir-vos desta convicção: aquele que sofreu na carne rompeu com o pecado,",
+      "reference": "1Pe 4:1"
+    },
+    "2": {
+      "text": "a fim de viver o resto dos seus dias na carne, não mais de acordo com as paixões humanas, mas segundo a vontade de Deus.",
+      "reference": "1Pe 4:2"
+    },
+    "3": {
+      "text": "Já é muito que no tempo passado tenhais realizado a vontade dos gentios, levando uma vida de dissoluções, de cobiças, de embriaguez, de glutonarias, de bebedeiras e de idolatrias abomináveis.",
+      "reference": "1Pe 4:3"
+    },
+    "4": {
+      "text": "Agora estranham que não vos entregueis à mesma torrente de perdição, e vos cobrem de injúrias,",
+      "reference": "1Pe 4:4"
+    },
+    "5": {
+      "text": "mas disto hão de dar contas àquele que está prestes a julgar os vivos e os mortos.",
+      "reference": "1Pe 4:5"
+    },
+    "6": {
+      "text": "Eis por que o evangelho foi pregado também aos mortos, a fim de que sejam julgados como os homens na carne, mas vivam no espírito, segundo Deus. \\par",
+      "reference": "1Pe 4:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i À espera da Parusia\\par }O fim de todas as coisas está próximo. Levai, pois, uma vida de autodomínio e de sobriedade, dedicada à oração.",
+      "reference": "1Pe 4:7"
+    },
+    "8": {
+      "text": "Acima de tudo, cultivai, com todo o ardor, o amor mútuo, porque {\\i o amor cobre uma multidão de pecados.}",
+      "reference": "1Pe 4:8"
+    },
+    "9": {
+      "text": "Sede hospitaleiros uns para com os outros, sem murmurar.",
+      "reference": "1Pe 4:9"
+    },
+    "10": {
+      "text": "Todos vós, conforme o dom que cada um recebeu, consagrai-vos ao serviço uns dos outros, como bons dispenseiros da multiforme graça de Deus.",
+      "reference": "1Pe 4:10"
+    },
+    "11": {
+      "text": "Se alguém fala, faça-o como se pronunciasse palavras de Deus. Alguém presta um serviço? Faça-o com a capacidade que Deus lhe concedeu, a fim de que em tudo seja Deus glorificado por Jesus Cristo, a quem pertencem a glória e o poder pelos séculos dos séculos. Amém. \\par",
+      "reference": "1Pe 4:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Felizes aqueles que sofrem com Cristo\\par }Amados, não vos alarmeis com o incêndio que lavra entre vós, para a vossa provação, como se algo de estranho vos estivesse acontecendo;",
+      "reference": "1Pe 4:12"
+    },
+    "13": {
+      "text": "antes, na medida em que participais dos sofrimentos de Cristo, alegrai-vos, para que também na revelação da sua glória possais ter uma alegria transbordante.",
+      "reference": "1Pe 4:13"
+    },
+    "14": {
+      "text": "Bem-aventurados sois, se sofreis injúrias por causa do nome de Cristo, porque o Espírito de glória, {\\i o Espírito de Deus repousa sobre vós.}",
+      "reference": "1Pe 4:14"
+    },
+    "15": {
+      "text": "Mas ninguém dentre vós queira sofrer como assassino e ladrão, ou malfeitor ou como delator,",
+      "reference": "1Pe 4:15"
+    },
+    "16": {
+      "text": "mas, se sofre como cristão, não se envergonhe, antes glorifique a Deus por esse nome.",
+      "reference": "1Pe 4:16"
+    },
+    "17": {
+      "text": "Com efeito, é tempo de começar o julgamento pela casa de Deus. Ora, se ele começa por nós, qual será o fim dos que se recusam a obedecer ao evangelho de Deus? \\par",
+      "reference": "1Pe 4:17"
+    },
+    "18": {
+      "text": "{\\i Se o justo com dificuldade consegue salvar-se, \\par em que situação ficará o ímpio e pecador}? \\par",
+      "reference": "1Pe 4:18"
+    },
+    "19": {
+      "text": "Assim, aqueles que sofrem segundo a vontade de Deus confiam as suas almas ao fiel Criador, dedicando-se à prática do bem. \\par",
+      "reference": "1Pe 4:19"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 19
+}

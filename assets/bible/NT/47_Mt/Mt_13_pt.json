@@ -1,0 +1,245 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. DISCURSO DAS PARÁBOLAS\\par }{\\qc\\b\\i Introdução\\par }Naquele dia, saindo Jesus de Casa, sentou-se à beira-mar.",
+      "reference": "Mt 13:1"
+    },
+    "2": {
+      "text": "Em torno dele reuniu-se uma grande multidão. Por isso, entrou num barco e sentou-se, enquanto a multidão estava em pé na praia.",
+      "reference": "Mt 13:2"
+    },
+    "3": {
+      "text": "E disse-lhes muitas coisas em parábolas: \\par",
+      "reference": "Mt 13:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Parábola do semeador\\par }“Eis que o semeador saiu para semear. E ao semear, uma parte da semente caiu à beira do caminho e as aves vieram e a comeram.",
+      "reference": "Mt 13:4"
+    },
+    "5": {
+      "text": "Outra parte caiu em lugares pedregosos, onde não havia muita terra. Logo brotou, porque a terra era pouco profunda.",
+      "reference": "Mt 13:5"
+    },
+    "6": {
+      "text": "Mas, ao surgir o sol, queimou-se e, por não ter raiz, secou.",
+      "reference": "Mt 13:6"
+    },
+    "7": {
+      "text": "Outra ainda caiu entre os espinhos. Os espinhos cresceram e a abafaram.",
+      "reference": "Mt 13:7"
+    },
+    "8": {
+      "text": "Outra parte, finalmente, caiu em terra boa e produziu fruto, uma cem, outra sessenta e outra trinta.",
+      "reference": "Mt 13:8"
+    },
+    "9": {
+      "text": "Quem tem ouvidos, ouça!” \\par",
+      "reference": "Mt 13:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Por que Jesus fala em parábolas\\par }Aproximando-se os discípulos, perguntaram-lhe: “Por que lhes falas em parábolas?”",
+      "reference": "Mt 13:10"
+    },
+    "11": {
+      "text": "Jesus respondeu: “Porque a vós foi dado conhecer os mistérios do Reino dos Céus, mas a eles não.",
+      "reference": "Mt 13:11"
+    },
+    "12": {
+      "text": "Pois àquele que tem, lhe será dado e lhe será dado em abundância, mas ao que não tem, mesmo o que tem lhe será tirado.",
+      "reference": "Mt 13:12"
+    },
+    "13": {
+      "text": "É por isso que lhes falo em parábolas: porque vêem sem ver e ouvem sem ouvir nem entender.",
+      "reference": "Mt 13:13"
+    },
+    "14": {
+      "text": "É neles que se cumpre a profecia de Isaías, que diz:\\par {\\i Certamente haveis de ouvir, \\par e jamais entendereis. \\par Certamente haveis de enxergar, \\par e jamais vereis. }\\par",
+      "reference": "Mt 13:14"
+    },
+    "15": {
+      "text": "{\\i Porque o coração deste povo se tornou insensível. \\par E eles ouviram de má vontade, \\par e fecharam os olhos, \\par para não acontecer que vejam com os olhos, \\par e ouçam com os ouvidos, \\par e entendam com o coração, e se convertam, \\par e assim eu os cure.}\\par",
+      "reference": "Mt 13:15"
+    },
+    "16": {
+      "text": "Mas felizes os vossos olhos, porque vêem, e os vossos ouvidos, porque ouvem.",
+      "reference": "Mt 13:16"
+    },
+    "17": {
+      "text": "Em verdade vos digo que muitos profetas e justos desejaram ver o que vedes e não viram, e ouvir o que ouvis e não ouviram. \\par",
+      "reference": "Mt 13:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Explicação da parábola do semeador\\par }Ouvi, portanto, a parábola do semeador.",
+      "reference": "Mt 13:18"
+    },
+    "19": {
+      "text": "Todo aquele que ouve a Palavra do Reino e não a entende, vem o Maligno e arrebata o que foi semeado no seu coração. Esse é o que foi semeado à beira do caminho.",
+      "reference": "Mt 13:19"
+    },
+    "20": {
+      "text": "O que foi semeado em lugares pedregosos é aquele que ouve a Palavra e a recebe imediatamente com alegria,",
+      "reference": "Mt 13:20"
+    },
+    "21": {
+      "text": "mas não tem raiz em si mesmo, é de momento: quando surge uma tribulação ou uma perseguição por causa da Palavra, logo sucumbe.",
+      "reference": "Mt 13:21"
+    },
+    "22": {
+      "text": "O que foi semeado entre os espinhos é aquele que ouve a Palavra, mas os cuidados do mundo e a sedução da riqueza sufocam a Palavra e ela se torna infrutífera.",
+      "reference": "Mt 13:22"
+    },
+    "23": {
+      "text": "O que foi semeado em terra boa é aquele que ouve a Palavra e a entende. Esse dá fruto, produzindo à razão de cem, de sessenta e de trinta”. \\par",
+      "reference": "Mt 13:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Parábola do joio\\par }Propôs-lhes outra parábola: “O Reino dos Céus é semelhante a um homem que semeou boa semente no seu campo.",
+      "reference": "Mt 13:24"
+    },
+    "25": {
+      "text": "Enquanto todos dormiam, veio o seu inimigo e semeou o joio no meio do trigo e foi-se embora.",
+      "reference": "Mt 13:25"
+    },
+    "26": {
+      "text": "Quando o trigo cresceu e começou a granar, apareceu também o joio.",
+      "reference": "Mt 13:26"
+    },
+    "27": {
+      "text": "Os servos do proprietário foram procurá-lo e lhe disseram: ‘Senhor, não semeaste boa semente no teu campo? Como então está cheio de joio?’",
+      "reference": "Mt 13:27"
+    },
+    "28": {
+      "text": "Ao que este respondeu: ‘Um inimigo é que fez isso’. Os servos perguntaram-lhe: ‘Queres, então, que vamos arrancá-lo?’",
+      "reference": "Mt 13:28"
+    },
+    "29": {
+      "text": "Ele respondeu: ‘Não, para não acontecer que, ao arrancar o joio, com ele arranqueis também o trigo.",
+      "reference": "Mt 13:29"
+    },
+    "30": {
+      "text": "Deixai-os crescer juntos até a colheita. No tempo da colheita, direi aos ceifeiros: ‘Arrancai primeiro o joio e atai-o em feixes para ser queimado; quanto ao trigo, recolhei-o no meu celeiro’”. \\par",
+      "reference": "Mt 13:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Parábola do grão de mostarda\\par }Propôs-lhes outra parábola, dizendo: “O Reino dos Céus é semelhante a um grão de mostarda que um homem tomou e semeou no seu campo.",
+      "reference": "Mt 13:31"
+    },
+    "32": {
+      "text": "Embora seja o menor de todas as sementes, quando cresce é a maior das hortaliças e torna-se árvore, a tal ponto que {\\i as aves do céu se abrigam nos seus ramos}”. \\par",
+      "reference": "Mt 13:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Parábola do fermento\\par }Contou-lhes outra parábola: “O Reino dos Céus é semelhante ao fermento que uma mulher tomou e pôs em três medidas de farinha, até que tudo ficasse fermentado”. \\par",
+      "reference": "Mt 13:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i As multidões só entendem parábolas\\par }Jesus falou tudo isso às multidões por parábolas. E sem parábolas nada lhes falava,",
+      "reference": "Mt 13:34"
+    },
+    "35": {
+      "text": "para que se cumprisse o que foi dito pelo profeta: \\par {\\i Abrirei a boca em parábolas; \\par proclamarei coisas ocultas desde a fundação do mundo.}\\par",
+      "reference": "Mt 13:35"
+    },
+    "36": {
+      "text": "\\par {\\qc\\b\\i Explicação da parábola do joio\\par }Então, deixando as multidões, entrou em casa. E os discípulos chegaram-se a ele, pedindo-lhe: “Explica-nos a parábola do joio no campo”.",
+      "reference": "Mt 13:36"
+    },
+    "37": {
+      "text": "Ele respondeu: “O que semeia a boa semente é o Filho do Homem.",
+      "reference": "Mt 13:37"
+    },
+    "38": {
+      "text": "O campo é o mundo. A boa semente são os filhos do Reino. O joio são os filhos do Maligno.",
+      "reference": "Mt 13:38"
+    },
+    "39": {
+      "text": "O inimigo que o semeou é o Diabo. A colheita é o fim do mundo. Os ceifadores são os anjos.",
+      "reference": "Mt 13:39"
+    },
+    "40": {
+      "text": "Da mesma forma que se junta o joio e se queima no fogo, assim será no fim do mundo:",
+      "reference": "Mt 13:40"
+    },
+    "41": {
+      "text": "o Filho do Homem enviará seus anjos e eles apanharão do seu Reino {\\i todos os escândalos e os que praticam a iniqüidade}",
+      "reference": "Mt 13:41"
+    },
+    "42": {
+      "text": "e os lançarão na fornalha ardente. Ali haverá choro e ranger de dentes.",
+      "reference": "Mt 13:42"
+    },
+    "43": {
+      "text": "Então {\\i os justos brilharão} como o sol no Reino de seu Pai. O que tem ouvidos, ouça! \\par",
+      "reference": "Mt 13:43"
+    },
+    "44": {
+      "text": "\\par {\\qc\\b\\i Parábola do tesouro e da pérola\\par }O Reino dos Céus é semelhante a um tesouro escondido no campo; um homem o acha e torna a esconder e, na sua alegria, vai, vende tudo o que possui e compra aquele campo. \\par",
+      "reference": "Mt 13:44"
+    },
+    "45": {
+      "text": "O Reino dos Céus é ainda semelhante a um negociante que anda em busca de pérolas finas.",
+      "reference": "Mt 13:45"
+    },
+    "46": {
+      "text": "Ao achar uma pérola de grande valor, vai, vende tudo o que possui e a compra. \\par",
+      "reference": "Mt 13:46"
+    },
+    "47": {
+      "text": "\\par {\\qc\\b\\i Parábola da rede\\par }O Reino dos Céus é ainda semelhante a uma rede lançada ao mar, que apanha de tudo.",
+      "reference": "Mt 13:47"
+    },
+    "48": {
+      "text": "Quando está cheia, puxam-na para a praia e, sentados, juntam o que é bom em vasilhas, mas o que não presta, deitam fora.",
+      "reference": "Mt 13:48"
+    },
+    "49": {
+      "text": "Assim será no fim do mundo: virão os anjos e separarão os maus dentre os justos",
+      "reference": "Mt 13:49"
+    },
+    "50": {
+      "text": "e os lançarão na fornalha ardente. Ali haverá choro e ranger de dentes. \\par",
+      "reference": "Mt 13:50"
+    },
+    "51": {
+      "text": "\\par {\\qc\\b\\i Conclusão\\par }Entendestes todas essas coisas?” Responderam-lhe: “Sim”.",
+      "reference": "Mt 13:51"
+    },
+    "52": {
+      "text": "Então lhes disse: “Por isso, todo escriba que se tornou discípulo do Reino dos Céus é semelhante a um pai de família que do seu tesouro tira coisas novas e velhas”. \\par",
+      "reference": "Mt 13:52"
+    },
+    "53": {
+      "text": "\\par {\\qc\\b {\\i V. A Igreja, primícias do Reino dos Céus}\\par 1. PARTE NARRATIVA\\par }{\\qc\\b\\i Visita a Nazaré\\par }Quando Jesus acabou de proferir essas parábolas, partiu dali",
+      "reference": "Mt 13:53"
+    },
+    "54": {
+      "text": "e, dirigindo-se para a sua pátria, pôs-se a ensinar as pessoas que estavam na sinagoga, de tal sorte que elas se maravilhavam e diziam: “De onde lhe vêm essa sabedoria e esses milagres?",
+      "reference": "Mt 13:54"
+    },
+    "55": {
+      "text": "Não é ele o filho do carpinteiro? Não se chama a mãe dele Maria e os seus irmãos Tiago, José, Simão e Judas?",
+      "reference": "Mt 13:55"
+    },
+    "56": {
+      "text": "E as suas irmãs não vivem todas entre nós? Donde então lhe vêm todas essas coisas?”",
+      "reference": "Mt 13:56"
+    },
+    "57": {
+      "text": "E se escandalizavam dele. Mas Jesus lhes disse: “Não há profeta sem honra, exceto em sua pátria e em sua casa”.",
+      "reference": "Mt 13:57"
+    },
+    "58": {
+      "text": "E não fez ali muitos milagres, por causa da incredulidade deles. \\par",
+      "reference": "Mt 13:58"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 58
+}

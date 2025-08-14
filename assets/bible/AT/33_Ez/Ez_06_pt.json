@@ -1,0 +1,69 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra os montes de Israel\\par }A palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Ez 6:1"
+    },
+    "2": {
+      "text": "Filho do homem, volta a tua face para os montes de Israel e profetiza contra eles.",
+      "reference": "Ez 6:2"
+    },
+    "3": {
+      "text": "Dir-lhes-ás: Montes de Israel, ouvi a palavra do Senhor Iahweh. Eis o que diz o Senhor Iahweh aos montes, às colinas, às ravinas e aos vales: Eu estou para trazer contra vós a espada para destruir os vossos lugares altos.",
+      "reference": "Ez 6:3"
+    },
+    "4": {
+      "text": "Os vossos altares ficarão devastados, os vossos altares de incenso serão despedaçados: farei cair os vossos trespassados perante os vossos ídolos imundos,",
+      "reference": "Ez 6:4"
+    },
+    "5": {
+      "text": "porei os cadáveres dos filhos de Israel diante dos seus ídolos imundos e espalharei os seus ossos ao redor dos seus altares.",
+      "reference": "Ez 6:5"
+    },
+    "6": {
+      "text": "Em todos os lugares onde habitais, as cidades serão arrasadas e os lugares altos ficarão desertos, a fim de que os vossos altares sejam destruídos e fiquem desertos, e os vossos ídolos imundos sejam despedaçados e desapareçam, e os vossos altares de incenso sejam reduzidos a pedaços e as vossas ações aniquiladas.",
+      "reference": "Ez 6:6"
+    },
+    "7": {
+      "text": "Muitos dentre vós cairão trespassados e sabereis que eu sou Iahweh. \\par",
+      "reference": "Ez 6:7"
+    },
+    "8": {
+      "text": "Mas para que entre vós haja sobreviventes da espada no meio das nações, espalhados em meio às nações, deixar-vos-ei um resto.",
+      "reference": "Ez 6:8"
+    },
+    "9": {
+      "text": "Então os vossos sobreviventes no meio das nações por onde tiverem sido levados cativos – quando eu tiver quebrado o seu coração prostituído que me abandonara, e os seus olhos prostituídos com ídolos imundos – se lembrarão de mim. Sentirão asco de si mesmos pelo mal que fizeram, por todas as suas abominações.",
+      "reference": "Ez 6:9"
+    },
+    "10": {
+      "text": "Saberão então que eu sou Iahweh e que não foi em vão que lhes falei que havia de infligir-lhes todo este mal. \\par",
+      "reference": "Ez 6:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Os pecados de Israel\\par }Assim diz o Senhor Iahweh: Bate as mãos, pateia com os pés, lamenta todas as abominações da casa de Israel, a qual há de cair pela espada, pela fome e pela peste!",
+      "reference": "Ez 6:11"
+    },
+    "12": {
+      "text": "Os que estão longe morrerão pela peste, enquanto os que estão perto hão de cair à espada; os que sobreviverem e forem poupados morrerão de fome. Deste modo cumprirei a minha ira contra eles.",
+      "reference": "Ez 6:12"
+    },
+    "13": {
+      "text": "Ficareis sabendo que eu sou Iahweh, quando os seus trespassados forem encontrados entre os seus ídolos imundos, em torno dos seus altares, sobre toda a colina elevada, no cume de todos os montes, debaixo de toda árvore viçosa, debaixo de todo carvalho frondoso, nos lugares em que costumam oferecer o perfume destinado a apaziguar todos os seus ídolos imundos.",
+      "reference": "Ez 6:13"
+    },
+    "14": {
+      "text": "Estenderei a mão contra eles e reduzirei a terra a um ermo e a uma solidão desde o deserto até Rebla, enfim, onde quer que habitem, e saberão que eu sou Iahweh. \\par",
+      "reference": "Ez 6:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

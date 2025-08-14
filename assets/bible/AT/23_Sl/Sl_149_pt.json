@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 149,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Hino triunfal}\\par }Aleluia! \\par Cantai a Iahweh um cântico novo, \\par seu louvor na assembléia dos fiéis! \\par",
+      "reference": "Sl 149:1"
+    },
+    "2": {
+      "text": "Alegre-se Israel com aquele que o fez, \\par os filhos de Sião festejem o seu rei! \\par",
+      "reference": "Sl 149:2"
+    },
+    "3": {
+      "text": "Louvem seu nome com danças, \\par toquem para ele cítara e tambor! \\par",
+      "reference": "Sl 149:3"
+    },
+    "4": {
+      "text": "Sim, pois Iahweh gosta do seu povo, \\par e adorna os pobres com salvação! \\par",
+      "reference": "Sl 149:4"
+    },
+    "5": {
+      "text": "Que os fiéis exultem de glória, \\par e do seu lugar cantem com júbilo, \\par",
+      "reference": "Sl 149:5"
+    },
+    "6": {
+      "text": "com exaltações a Deus na garganta, \\par e nas mãos a espada de dois gumes; \\par",
+      "reference": "Sl 149:6"
+    },
+    "7": {
+      "text": "para tomar vingança entre os povos \\par e aplicar o castigo entre as nações; \\par",
+      "reference": "Sl 149:7"
+    },
+    "8": {
+      "text": "para prender seus reis com algemas \\par e seus nobres com grilhões de ferro: \\par",
+      "reference": "Sl 149:8"
+    },
+    "9": {
+      "text": "cumprir neles a sentença prescrita \\par é uma honra para todos os seus fiéis! \\par",
+      "reference": "Sl 149:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

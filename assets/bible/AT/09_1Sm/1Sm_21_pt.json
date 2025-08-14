@@ -1,0 +1,77 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Então Davi se levantou e partiu, e Jônatas voltou à cidade. \\par",
+      "reference": "1Sm 21:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i A parada em Nob\\par }Davi chegou a Nob e foi ao sacerdote Aquimelec, que veio tremendo ao encontro de Davi e lhe perguntou: “Por que vieste sozinho e não há ninguém contigo?”",
+      "reference": "1Sm 21:2"
+    },
+    "3": {
+      "text": "Davi respondeu ao sacerdote Aquimelec: “O rei me deu uma ordem e disse: ‘Que ninguém saiba de que missão te encarreguei e que ordem te dei’. Quanto aos meus homens, marquei encontros com eles em certo lugar.",
+      "reference": "1Sm 21:3"
+    },
+    "4": {
+      "text": "Agora, se tens cinco pães à mão, dá-nos, ou o que achares”.",
+      "reference": "1Sm 21:4"
+    },
+    "5": {
+      "text": "Respondeu o sacerdote: “Não tenho à mão pão comum, mas só pão consagrado – com a condição de que os teus homens não tenham tido contato com mulheres”. \\par",
+      "reference": "1Sm 21:5"
+    },
+    "6": {
+      "text": "Davi respondeu ao sacerdote: “Certamente, as mulheres nos foram proibidas, como sempre que parto em campanha, e as coisas dos homens conservam-se em estado de pureza. Trata-se de uma viagem profana, mas, de fato, hoje eles se mantêm em estado de pureza quanto à coisa”.",
+      "reference": "1Sm 21:6"
+    },
+    "7": {
+      "text": "Então o sacerdote lhe deu o que havia sido consagrado, porque não havia outro pão, salvo o de oblação, o que se retira de diante de Iahweh para ser substituído por pão quente, quando aquele é retirado. \\par",
+      "reference": "1Sm 21:7"
+    },
+    "8": {
+      "text": "Ora, naquele mesmo dia estava ali um dos servos de Saul, retido perante Iahweh; ele se chamava Doeg, o edomita, e era o mais robusto dos pastores de Saul. \\par",
+      "reference": "1Sm 21:8"
+    },
+    "9": {
+      "text": "Davi disse a Aquimelec: “Há por aqui, à tua mão, uma lança ou uma espada? Eu não trouxe comigo nem a minha espada nem as minhas armas, porque a ordem do rei era urgente”.",
+      "reference": "1Sm 21:9"
+    },
+    "10": {
+      "text": "Respondeu o sacerdote: “A espada de Golias, o filisteu, que mataste no vale do Terebinto, está ali, embrulhada num manto, atrás do efod. Se quiseres, toma-a; não há outra por aqui”. Davi disse: “Não existe outra igual; dá-ma”. \\par",
+      "reference": "1Sm 21:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Davi entre os filisteus\\par }Naquele dia, levantou-se Davi e fugiu para longe de Saul, e foi a Aquis, rei de Gat.",
+      "reference": "1Sm 21:11"
+    },
+    "12": {
+      "text": "Mas os servos de Aquis disseram: “Não é este Davi, o rei da terra? Não era para ele que se cantavam as danças: \\par ‘Saul matou mil \\par mas Davi matou dez mil?’” \\par",
+      "reference": "1Sm 21:12"
+    },
+    "13": {
+      "text": "Davi considerou essas palavras e ficou com muito medo de Aquis, rei de Gat.",
+      "reference": "1Sm 21:13"
+    },
+    "14": {
+      "text": "Então ele se fez de insensato diante deles, fingiu-se de louco nas suas mãos: tamborilava nos batentes da porta e deixava a saliva escorrer pela barba. \\par",
+      "reference": "1Sm 21:14"
+    },
+    "15": {
+      "text": "Aquis disse aos que o serviam: “Bem vedes que este homem está louco! Por que o trouxestes à minha presença?",
+      "reference": "1Sm 21:15"
+    },
+    "16": {
+      "text": "Será que tenho falta de loucos, para que me trouxésseis mais este para me aborrecer com suas doidices? Vai ele entrar na minha casa?” \\par",
+      "reference": "1Sm 21:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

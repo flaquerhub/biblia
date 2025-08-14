@@ -1,0 +1,209 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A infidelidade de Fegor e a verdadeira sabedoria\\par }Agora, pois, ó Israel, ouve os estatutos e as normas que eu hoje vos ensino a praticar, a fim de que vivais e entreis para possuir a terra que vos dará Iahweh, o Deus dos vossos pais.",
+      "reference": "Dt 4:1"
+    },
+    "2": {
+      "text": "Nada acrescentareis ao que eu vos ordeno, e nada tirareis também: observareis os mandamentos de Iahweh vosso Deus tais como vo-los prescrevo.",
+      "reference": "Dt 4:2"
+    },
+    "3": {
+      "text": "Vossos olhos foram testemunhas do que Iahweh fez em Baal-Fegor: Iahweh Deus exterminou do teu meio todos os que seguiram o Baal de Fegor;",
+      "reference": "Dt 4:3"
+    },
+    "4": {
+      "text": "quanto a vós, porém, permanecestes apegados a Iahweh vosso Deus, e hoje estais todos vivos.",
+      "reference": "Dt 4:4"
+    },
+    "5": {
+      "text": "Eis que vos ensinei estatutos e normas, conforme Iahweh meu Deus me ordenara, para que os coloqueis em prática na terra em que estais entrando, a fim de tomardes posse dela.",
+      "reference": "Dt 4:5"
+    },
+    "6": {
+      "text": "Portanto, cuidai de pô-los em prática, pois isto vos tornará sábios e inteligentes aos olhos dos povos. Ao ouvir todos esses estatutos, eles vão dizer: ‘Só existe um povo sábio e inteligente: é esta grande nação!’",
+      "reference": "Dt 4:6"
+    },
+    "7": {
+      "text": "De fato! Qual a grande nação cujos deuses lhe estejam tão próximos como Iahweh nosso Deus, todas as vezes que o invocamos?",
+      "reference": "Dt 4:7"
+    },
+    "8": {
+      "text": "E qual a grande nação que tenha estatutos e normas tão justas como toda esta Lei que eu vos proponho hoje? \\par",
+      "reference": "Dt 4:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i A revelação do Horeb e suas exigências\\par }Apenas fica atento a ti mesmo! Presta muita atenção em tua vida, para não te esqueceres das coisas que os teus olhos viram, e para que elas nunca se apartem do teu coração, em nenhum dia da tua vida. Ensina-as aos teus filhos e aos teus netos.",
+      "reference": "Dt 4:9"
+    },
+    "10": {
+      "text": "No dia em que estavas diante de Iahweh teu Deus no Horeb – quando Iahweh me disse: ‘Reúne-me o povo, para que eu os faça ouvir minhas palavras e aprendam a temer-me por todo o tempo em que viverem sobre a terra, e as ensinem aos seus filhos’ –,",
+      "reference": "Dt 4:10"
+    },
+    "11": {
+      "text": "vós vos aproximastes, postando-vos ao pé da montanha. A montanha ardia em fogo até ao céu, em meio a trevas, nuvens e escuridão retumbante.",
+      "reference": "Dt 4:11"
+    },
+    "12": {
+      "text": "Então Iahweh vos falou do meio do fogo. Ouvíeis o som das palavras, mas nenhuma forma distinguistes: nada, além de uma voz!",
+      "reference": "Dt 4:12"
+    },
+    "13": {
+      "text": "Ele vos revelou então a Aliança que vos ordenara cumprir: as Dez Palavras, escrevendo-as em duas tábuas de pedra.",
+      "reference": "Dt 4:13"
+    },
+    "14": {
+      "text": "Nessa mesma ocasião Iahweh ordenou-me ensinar-vos estatutos e normas, para que os cumprais na terra para a qual passais, a fim de tomardes posse dela. \\par",
+      "reference": "Dt 4:14"
+    },
+    "15": {
+      "text": "Ficai muito atentos a vós mesmos! Uma vez que nenhuma forma vistes no dia em que Iahweh vos falou no Horeb, do meio do fogo,",
+      "reference": "Dt 4:15"
+    },
+    "16": {
+      "text": "não vos pervertais, fazendo para vós uma imagem esculpida em forma de ídolo: uma figura de homem ou de mulher,",
+      "reference": "Dt 4:16"
+    },
+    "17": {
+      "text": "figura de algum animal terrestre, de algum pássaro que voa no céu,",
+      "reference": "Dt 4:17"
+    },
+    "18": {
+      "text": "de algum réptil que rasteja sobre o solo, ou figura de algum peixe que há nas águas que estão sob a terra.",
+      "reference": "Dt 4:18"
+    },
+    "19": {
+      "text": "Levantando teus olhos ao céu e vendo o sol, a lua, as estrelas e todo o exército do céu, não te deixes seduzir para adorá-los e servi-los! São coisas que Iahweh teu Deus repartiu entre todos os povos que vivem sob o céu. \\par",
+      "reference": "Dt 4:19"
+    },
+    "20": {
+      "text": "Quanto a vós, porém, Iahweh vos tomou e vos fez sair do Egito, daquela fornalha de ferro, para que fôsseis o povo da sua herança, como hoje se vê. \\par",
+      "reference": "Dt 4:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Perspectivas de castigo e conversão\\par }Por vossa causa Iahweh enfureceu-se contra mim, jurando que eu não atravessaria o Jordão e não entraria na boa terra que Iahweh teu Deus te dará como herança!",
+      "reference": "Dt 4:21"
+    },
+    "22": {
+      "text": "Eis que eu vou morrer nesta terra, sem atravessar o Jordão. Vós, porém, atravessareis e tomareis posse daquela boa terra.",
+      "reference": "Dt 4:22"
+    },
+    "23": {
+      "text": "Ficai atentos a vós mesmos, para não vos esquecerdes da Aliança que Iahweh vosso Deus concluiu convosco, e não fazerdes uma imagem esculpida de qualquer coisa que Iahweh teu Deus te proibiu,",
+      "reference": "Dt 4:23"
+    },
+    "24": {
+      "text": "pois teu Deus Iahweh é um fogo devorador. Ele é um Deus ciumento. \\par",
+      "reference": "Dt 4:24"
+    },
+    "25": {
+      "text": "Quando tiverdes gerado filhos e netos, e fordes velhos na terra, e vos corromperdes, fazendo uma imagem esculpida qualquer, praticando o que é mau aos olhos de Iahweh teu Deus, de modo a irritá-lo,",
+      "reference": "Dt 4:25"
+    },
+    "26": {
+      "text": "eu tomo hoje o céu e a terra como testemunhas contra vós: sereis depressa e completamente exterminados da face da terra da qual ides tomar posse ao atravessardes o Jordão. Não prolongareis vossos dias sobre ela, pois sereis completamente aniquilados.",
+      "reference": "Dt 4:26"
+    },
+    "27": {
+      "text": "Iahweh vos dispersará entre os povos e restará de vós apenas um pequeno número, no meio das nações para onde Iahweh vos tiver conduzido.",
+      "reference": "Dt 4:27"
+    },
+    "28": {
+      "text": "Lá servireis a deuses feitos por mãos humanas, de madeira e de pedra, que não podem ver ou ouvir, comer ou cheirar. \\par",
+      "reference": "Dt 4:28"
+    },
+    "29": {
+      "text": "De lá, então, irás procurar Iahweh teu Deus, e o encontrarás, se o procurares com todo o teu coração e com toda a tua alma.",
+      "reference": "Dt 4:29"
+    },
+    "30": {
+      "text": "Na tua angústia todas estas coisas te atingirão; no fim dos tempos, porém, tu te voltarás para Iahweh teu Deus e obedecerás à sua voz;",
+      "reference": "Dt 4:30"
+    },
+    "31": {
+      "text": "pois Iahweh teu Deus é um Deus misericordioso: na te abandonará e não te destruirá, pois nunca vai se esquecer da Aliança que concluiu com os teus pais por meio de um juramento. \\par",
+      "reference": "Dt 4:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i Grandeza da escolha divina\\par }Interroga, pois, os tempos passados, que te precederam, desde o dia em que Deus criou o homem sobre a terra: de uma ponta do céu até a outra existiu já uma coisa tão grande como esta? Ouviu-se algo de semelhante?",
+      "reference": "Dt 4:32"
+    },
+    "33": {
+      "text": "Existe um povo que tenha ouvido a voz do Deus vivo falando do meio do fogo, como tu a ouviste, e que tenha permanecido vivo?",
+      "reference": "Dt 4:33"
+    },
+    "34": {
+      "text": "Ou um Deus que tenha vindo para tomar para si uma nação do meio de outra nação, com provas, sinais, prodígios e combates, com mão forte e braço estendido, por meio de grandes terrores – como tudo o que Iahweh vosso Deus realizou no Egito, em vosso favor, aos vossos olhos? \\par",
+      "reference": "Dt 4:34"
+    },
+    "35": {
+      "text": "Foi a ti que ele mostrou tudo isso, para que soubesses que Iahweh é o único Deus. Além dele não existe outro!",
+      "reference": "Dt 4:35"
+    },
+    "36": {
+      "text": "Do céu ele fez com que ouvisses a sua voz, para te instruir; ele te fez ver o seu grande fogo sobre a terra e ouviste suas palavras do meio do fogo.",
+      "reference": "Dt 4:36"
+    },
+    "37": {
+      "text": "E porque ele amava teus pais, e depois deles escolheu a sua descendência, ele próprio te fez sair do Egito por meio de sua presença e de sua grande força;",
+      "reference": "Dt 4:37"
+    },
+    "38": {
+      "text": "desalojou nações maiores e mais poderosas do que tu, para te introduzir na sua terra e dá-la a ti em herança, como hoje se vê. \\par",
+      "reference": "Dt 4:38"
+    },
+    "39": {
+      "text": "Portanto, reconhece hoje e medita em teu coração: Iahweh é o único Deus, tanto no alto de céu, como cá embaixo, na terra. Não existe outro!",
+      "reference": "Dt 4:39"
+    },
+    "40": {
+      "text": "Observa seus estatutos e seus mandamentos que eu hoje te ordeno, para que tudo corra bem a ti e aos teus filhos depois de ti, e para que prolongues teus dias sobre a terra que Iahweh teu Deus te dará, para todo o sempre”. \\par",
+      "reference": "Dt 4:40"
+    },
+    "41": {
+      "text": "\\par {\\qc\\b\\i As cidades de refúgio\\par }E Moisés reservou três cidades no outro lado do Jordão, na parte leste,",
+      "reference": "Dt 4:41"
+    },
+    "42": {
+      "text": "para que ali se refugiasse o homicida que tivesse assassinado seu irmão sem premeditação, sem o ter odiado antes; ele poderia então salvar a própria vida fugindo para uma daquelas cidades.",
+      "reference": "Dt 4:42"
+    },
+    "43": {
+      "text": "Para os rubenitas era Bosor, no deserto, no planalto; para os gaditas, Ramot em Galaad, e para os manassitas, Golã, em Basã. \\par",
+      "reference": "Dt 4:43"
+    },
+    "44": {
+      "text": "\\par {\\qc\\b SEGUNDO DISCURSO DE MOISÉS\\par }Esta é a Lei que Moisés promulgou para os filhos de Israel.",
+      "reference": "Dt 4:44"
+    },
+    "45": {
+      "text": "São estes os testemunhos, os estatutos e as normas que Moisés comunicou aos filhos de Israel, quando saíram do Egito,",
+      "reference": "Dt 4:45"
+    },
+    "46": {
+      "text": "no outro lado do Jordão, no vale próximo a Bet-Fegor, na terra de Seon, o rei dos amorreus que habitava em Hesebon. Moisés e os filhos de Israel o venceram ao saírem do Egito,",
+      "reference": "Dt 4:46"
+    },
+    "47": {
+      "text": "tomando posse da sua terra, como também da terra de Og, rei de Basã, – ambos reis dos amorreus, no lado oriental do Jordão, –",
+      "reference": "Dt 4:47"
+    },
+    "48": {
+      "text": "desde Aroer, que está nas encostas do vale do Arnon, até ao monte Sion (isto é, o Hermon),",
+      "reference": "Dt 4:48"
+    },
+    "49": {
+      "text": "de toda a Arabá no lado oriental do Jordão, até ao mar da Arabá, ao pé das encostas do Fasga. \\par",
+      "reference": "Dt 4:49"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 49
+}

@@ -1,0 +1,97 @@
+{
+  "book": 67,
+  "book_name": "Tobias",
+  "book_abbr": "Tb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Tobit",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i XI. Rafael}\\par }Terminados os dias de bodas, Tobit chamou seu filho Tobias e disse-lhe: “Filho, já é tempo de pagares o salário do homem que te acompanhou, acrescentando também alguma gratificação”.",
+      "reference": "Tb 12:1"
+    },
+    "2": {
+      "text": "Tobias respondeu: “Pai, quanto devo dar-lhe pelos seus serviços? Mesmo entregando-lhe a metade dos bens que trago comigo eu não teria prejuízo.",
+      "reference": "Tb 12:2"
+    },
+    "3": {
+      "text": "Reconduziu-me são e salvo, libertou minha mulher, trouxe-me o dinheiro e, enfim, te curou! Que recompensa devo dar-lhe?”",
+      "reference": "Tb 12:3"
+    },
+    "4": {
+      "text": "Disse-lhe Tobit: “Filho, ele bem merece a metade de tudo o que trouxe”.",
+      "reference": "Tb 12:4"
+    },
+    "5": {
+      "text": "Chamou-o, pois, Tobias e disse-lhe: “Toma como salário a metade de tudo quanto trouxeste e vai em paz”. \\par",
+      "reference": "Tb 12:5"
+    },
+    "6": {
+      "text": "Então Rafael chamou-os à parte e disse-lhes: “Bendizei a Deus e proclamai entre todos os viventes os bens que ele vos concedeu; bendizei e cantai seu Nome. Manifestai a todos os homens as ações de Deus, como elas o merecem, e não vos canseis de dar-lhe graças.",
+      "reference": "Tb 12:6"
+    },
+    "7": {
+      "text": "É bom manter oculto o segredo do rei; porém, é justo revelar e publicar as obras de Deus. Agradecei-lhe dignamente. Praticai o bem, a desgraça não vos atingirá. \\par",
+      "reference": "Tb 12:7"
+    },
+    "8": {
+      "text": "Boa coisa é a oração com o jejum, e melhor é a esmola com a justiça do que a riqueza com a iniqüidade. É melhor praticar a esmola do que acumular ouro.",
+      "reference": "Tb 12:8"
+    },
+    "9": {
+      "text": "A esmola livra da morte e purifica de todo pecado. Os que dão esmola terão longa vida;",
+      "reference": "Tb 12:9"
+    },
+    "10": {
+      "text": "os que cometem o pecado e a injustiça são inimigos da própria vida. \\par",
+      "reference": "Tb 12:10"
+    },
+    "11": {
+      "text": "Vou dizer-vos toda a verdade, sem nada vos ocultar: já vos ensinei que é conveniente manter oculto o segredo do rei, mas que é honroso apregoar as obras de Deus.",
+      "reference": "Tb 12:11"
+    },
+    "12": {
+      "text": "Quando tu e Sara fazíeis oração, era eu quem apresentava vossas súplicas diante da Glória do Senhor e as lia; eu fazia o mesmo quando enterravas os mortos.",
+      "reference": "Tb 12:12"
+    },
+    "13": {
+      "text": "Quando não hesitaste em te levantares da mesa, deixando a refeição, para ires sepultar um morto, fui enviado para provar tua fé;",
+      "reference": "Tb 12:13"
+    },
+    "14": {
+      "text": "e Deus enviou-me, ao mesmo tempo para curar-te a ti e a tua nora Sara.",
+      "reference": "Tb 12:14"
+    },
+    "15": {
+      "text": "Eu sou Rafael, um dos sete anjos que estão sempre presentes e têm acesso junto à Glória do Senhor”. \\par",
+      "reference": "Tb 12:15"
+    },
+    "16": {
+      "text": "Ficaram ambos cheios de espanto e caíram com a face em terra, com grande temor.",
+      "reference": "Tb 12:16"
+    },
+    "17": {
+      "text": "Mas ele lhes disse: “Não tenhais medo; a paz esteja convosco! Bendizei a Deus para sempre.",
+      "reference": "Tb 12:17"
+    },
+    "18": {
+      "text": "Se estive convosco, não foi por pura benevolência minha para convosco, mas por vontade de Deus. A ele deveis bendizer todos os dias, a ele deveis cantar.",
+      "reference": "Tb 12:18"
+    },
+    "19": {
+      "text": "Pareceu-vos que eu comia, mas foi só aparência.",
+      "reference": "Tb 12:19"
+    },
+    "20": {
+      "text": "E agora, bendizei ao Senhor sobre a terra e dai graças a Deus. Vou voltar para Aquele que me enviou. Ponde por escrito tudo quanto vos aconteceu”. E ele se elevou.",
+      "reference": "Tb 12:20"
+    },
+    "21": {
+      "text": "Quando se reergueram, não a viram mais. Louvaram a Deus e entoaram hinos dando-lhe graças por aquela grande maravilha de haver-lhes aparecido um anjo de Deus. \\par",
+      "reference": "Tb 12:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

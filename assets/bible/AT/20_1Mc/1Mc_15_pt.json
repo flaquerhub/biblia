@@ -1,0 +1,177 @@
+{
+  "book": 72,
+  "book_name": "1Macabeus",
+  "book_abbr": "1Mc",
+  "book_category": "Deuterocanônicos",
+  "book_english": "1 Maccabees",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Carta de Antíoco VII e cerco de Dora\\par }Antíoco, filho do rei Demétrio, enviou das ilhas do mar uma carta a Simão, sacerdote e etnarca dos judeus, e a toda a nação.",
+      "reference": "1Mc 15:1"
+    },
+    "2": {
+      "text": "A carta estava assim redigida: \\par “O rei Antíoco a Simão, sacerdote insigne e etnarca, e à nação dos judeus, saudações!",
+      "reference": "1Mc 15:2"
+    },
+    "3": {
+      "text": "Uma vez que homens pestíferos apoderaram-se do reino de nossos pais, quero agora fazer valer os meus direitos sobre ele, a fim de poder restabelecê-lo na situação em que antes se encontrava. Por isso, tendo recrutado no exterior grande número de tropas e equipado navios de guerra,",
+      "reference": "1Mc 15:3"
+    },
+    "4": {
+      "text": "pretendo desembarcar no país a fim de ajustar contas com os que arruinaram a nossa terra e devastaram muitas cidades no meu reino.",
+      "reference": "1Mc 15:4"
+    },
+    "5": {
+      "text": "Agora, pois, eu te confirmo todas as imunidades que te concederam os reis meus predecessores, bem como a isenção, por eles outorgada, de quaisquer outros donativos.",
+      "reference": "1Mc 15:5"
+    },
+    "6": {
+      "text": "Dou-te a permissão de cunhar moeda própria, com curso legal no teu país.",
+      "reference": "1Mc 15:6"
+    },
+    "7": {
+      "text": "Que Jerusalém e o lugar santo sejam considerados livres. E todas as armas que fabricaste, e as fortalezas que construíste e que estão sob teu controle, permaneçam em teu poder.",
+      "reference": "1Mc 15:7"
+    },
+    "8": {
+      "text": "Toda dívida que tenhas no momento para com o tesouro real, ou que venhas a contrair no futuro, desde agora e para sempre te seja cancelada.",
+      "reference": "1Mc 15:8"
+    },
+    "9": {
+      "text": "Enfim, quando tivermos reconquistado o nosso reino, haveremos de glorificar-te a ti, a tua nação e o Templo, com uma glória tão grande, que a vossa glória se tornará manifesta por toda a terra”. \\par",
+      "reference": "1Mc 15:9"
+    },
+    "10": {
+      "text": "No ano cento e setenta e quatro, Antíoco partiu para a terra de seus pais. E todas as tropas acorreram ao seu lado, ficando apenas uns poucos partidários com Trifão.",
+      "reference": "1Mc 15:10"
+    },
+    "11": {
+      "text": "Antíoco pôs-se então a persegui-lo e Trifão, dando-se à fuga chegou até Dora sobre o mar,",
+      "reference": "1Mc 15:11"
+    },
+    "12": {
+      "text": "pois percebia que as desgraças se adensavam sobre ele, porquanto as tropas o haviam abandonado.",
+      "reference": "1Mc 15:12"
+    },
+    "13": {
+      "text": "Mas Antíoco acampou contra Dora, tendo consigo cento e vinte mil homens de guerra e uma cavalaria de oito mil.",
+      "reference": "1Mc 15:13"
+    },
+    "14": {
+      "text": "Circundou a cidade, enquanto os navios a atacavam do lado do mar. Assim, apertando a cidade por terra e por mar, não deixava sair nem entrar ninguém. \\par",
+      "reference": "1Mc 15:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Volta da embaixada de Roma para a Judéia e promulgação da aliança com os romanos\\par }Entrementes, chegavam de Roma Numênio e seus companheiros, trazendo cartas para os reis e os vários países. Nelas estava escrito o seguinte: \\par",
+      "reference": "1Mc 15:15"
+    },
+    "16": {
+      "text": "“Lúcio, cônsul dos romanos, ao rei Ptolomeu, saudações!",
+      "reference": "1Mc 15:16"
+    },
+    "17": {
+      "text": "Os embaixadores dos judeus vieram a nós como nossos amigos e aliados, para renovarem a primitiva amizade e aliança, enviados por Simão, sumo sacerdote, e pelo povo dos judeus.",
+      "reference": "1Mc 15:17"
+    },
+    "18": {
+      "text": "Eles nos trouxeram um escudo de ouro de mil minas.",
+      "reference": "1Mc 15:18"
+    },
+    "19": {
+      "text": "Aprouve-nos, pois, escrever aos reis e aos países, que não lhes causem dano algum, nem lhes façam guerra, nem ataquem suas cidades ou seu território, nem se aliem com os que contra eles combatam.",
+      "reference": "1Mc 15:19"
+    },
+    "20": {
+      "text": "Pareceu-nos bem aceitar o escudo que nos trouxeram.",
+      "reference": "1Mc 15:20"
+    },
+    "21": {
+      "text": "Se, portanto, homens pestíferos tiverem escapado do seu território para junto de vós, entregai-os ao sumo sacerdote Simão, para que os possa punir segundo a sua Lei”. \\par",
+      "reference": "1Mc 15:21"
+    },
+    "22": {
+      "text": "As mesmas coisas ele escreveu ao rei Demétrio, a Átalo, a Ariarates e a Arsaces",
+      "reference": "1Mc 15:22"
+    },
+    "23": {
+      "text": "e para todos os países: para Sampsames e os espartanos, para Delos, Mindos, Siciônia, Cária, Samos, Panfília, Lícia, Halicarnasso, Rodes, Fasélis, Cós, Side, Arados, Gortina, Cnido, Chipre e Cirene.",
+      "reference": "1Mc 15:23"
+    },
+    "24": {
+      "text": "E uma cópia dessas cartas redigiram-na para o sumo sacerdote Simão. \\par",
+      "reference": "1Mc 15:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Antíoco VII, ao assediar Dora torna-se hostil a Simão e o censura\\par }O rei Antíoco estava acampado contra Dora, na parte nova da cidade, impelindo contra ela continuamente as alas do seu exército e empregando máquinas de assalto. Assim bloqueou Trifão, impedindo a qualquer de sair ou de entrar.",
+      "reference": "1Mc 15:25"
+    },
+    "26": {
+      "text": "Simão enviou-lhe dois mil homens escolhidos para combaterem a seu lado, além de prata e ouro e equipamento em quantidade.",
+      "reference": "1Mc 15:26"
+    },
+    "27": {
+      "text": "O rei, porém, não quis recebê-los. Ao contrário, revogou tudo o que precedentemente havia combinado com ele, passando a mostrar-se-lhe hostil.",
+      "reference": "1Mc 15:27"
+    },
+    "28": {
+      "text": "E mandou-lhe Atenóbio, um dos seus amigos, a conferenciar com ele para dizer-lhe: “Vós estais ocupando Jope, Gazara e a Cidadela que está em Jerusalém, cidades do meu reino.",
+      "reference": "1Mc 15:28"
+    },
+    "29": {
+      "text": "Devastastes os seus territórios, provocastes uma grande calamidade sobre a terra e vos assenhoreastes de muitas localidades no meu reino.",
+      "reference": "1Mc 15:29"
+    },
+    "30": {
+      "text": "Agora, pois, entregai as cidades que ocupastes, bem como os tributos das localidades de que vos assenhoreastes fora dos limites da Judéia.",
+      "reference": "1Mc 15:30"
+    },
+    "31": {
+      "text": "Ou, então, cedei-nos em troca quinhentos talentos de prata, além de mais quinhentos talentos pelas devastações que causastes e pelos impostos das cidades. Caso contrário, viremos para fazer-vos guerra!”",
+      "reference": "1Mc 15:31"
+    },
+    "32": {
+      "text": "Dirigiu-se, pois, Atenóbio, o amigo do rei, a Jerusalém. Ali, ao ver a glória de Simão, o serviço de mesa com vasos de ouro e prata e o aparato grandioso, ficou maravilhado. Mas transmitiu-lhe as palavras do rei.",
+      "reference": "1Mc 15:32"
+    },
+    "33": {
+      "text": "Como resposta, Simão lhe disse: “Não é terra alheia a que tomamos, nem de coisas alheias nos apoderamos, pois trata-se da herança dos nossos pais: contra todo direito foi ela, por certo tempo, ocupada por nossos inimigos.",
+      "reference": "1Mc 15:33"
+    },
+    "34": {
+      "text": "Nós, porém, tendo surgido a oportunidade, estamos recuperando esta herança dos nossos pais.",
+      "reference": "1Mc 15:34"
+    },
+    "35": {
+      "text": "Quanto a Jope e Gazara, que tu reclamas, elas infligiam graves danos ao povo e devastavam a nossa região. Mas daremos por elas cem talentos”.",
+      "reference": "1Mc 15:35"
+    },
+    "36": {
+      "text": "Sem responder-lhe palavra, Atenóbio voltou furioso para junto do rei, a quem referiu esta resposta, bem como a glória de Simão e tudo quanto havia visto. E o rei ficou sumamente encolerizado. \\par",
+      "reference": "1Mc 15:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i O governador Cendebeu molesta a Judéia\\par }Trifão, porém, conseguindo embarcar num navio, foi refugiar-se em Ortosia.",
+      "reference": "1Mc 15:37"
+    },
+    "38": {
+      "text": "O rei, então, nomeou a Cendebeu epistratego da faixa marítima e confiou-lhe tropas de infantaria e cavaleiros.",
+      "reference": "1Mc 15:38"
+    },
+    "39": {
+      "text": "Deu-lhe ordem de estabelecer seu acampamento à vista da Judéia, com a incumbência também de reconstruir Quedron, fortificar suas portas e fazer incursões contra o povo. Quanto ao rei, saiu em perseguição de Trifão.",
+      "reference": "1Mc 15:39"
+    },
+    "40": {
+      "text": "Ao chegar a Jâmnia, Cendebeu começou a provocar o povo e a invadir a Judéia, fazendo prisioneiros e perpetrando matanças entre o povo.",
+      "reference": "1Mc 15:40"
+    },
+    "41": {
+      "text": "Entretanto, reconstruiu Quedron e aí alojou cavaleiros e tropas, dando-lhe a missão de, fazendo sortidas, patrulharem as estradas da Judéia, como lhe havia ordenado o rei. \\par",
+      "reference": "1Mc 15:41"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 41
+}

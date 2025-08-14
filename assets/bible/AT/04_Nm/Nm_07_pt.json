@@ -1,0 +1,369 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. Oferendas dos chefes e consagração dos levitas}\\par }{\\qc\\b\\i Oferenda de carros\\par }No dia em que Moisés terminou de erigir a Habitação, ele a ungiu e a consagrou com todos os seus pertences, bem como o altar com todos os seus utensílios. Quando havia acabado de ungir e de consagrar todas as coisas,",
+      "reference": "Nm 7:1"
+    },
+    "2": {
+      "text": "os chefes de Israel fizeram uma oferenda; eram os chefes das casas patriarcais, aqueles que foram os chefes das tribos e que presidiram o recenseamento.",
+      "reference": "Nm 7:2"
+    },
+    "3": {
+      "text": "E levaram a sua oferenda diante de Iahweh: seis carros cobertos e doze bois; cada dois príncipes ofereceram um carro, e cada um deles um boi e os apresentaram diante da Habitação.",
+      "reference": "Nm 7:3"
+    },
+    "4": {
+      "text": "Iahweh falou a Moisés e disse:",
+      "reference": "Nm 7:4"
+    },
+    "5": {
+      "text": "“Recebe-os deles e sejam destinados ao serviço da Tenda da Reunião. Tu os darás aos levitas, a cada um conforme a sua função”.",
+      "reference": "Nm 7:5"
+    },
+    "6": {
+      "text": "Recebeu Moisés os carros e os bois, e os deu aos levitas.",
+      "reference": "Nm 7:6"
+    },
+    "7": {
+      "text": "Aos filhos de Gérson deu dois carros e quatro bois, conforme a função deles.",
+      "reference": "Nm 7:7"
+    },
+    "8": {
+      "text": "Aos filhos de Merari deu quatro carros e oito bois, conforme a função que tinham de exercer sob a direção de Itamar, filho de Aarão, o sacerdote.",
+      "reference": "Nm 7:8"
+    },
+    "9": {
+      "text": "Aos filhos de Caat, porém, não deu nada, pois deviam transportar sobre seus ombros a carga sagrada que lhes incumbia. \\par",
+      "reference": "Nm 7:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Oferenda da Dedicação\\par }Os príncipes fizeram então uma oferenda para a dedicação do altar, no dia da sua unção. Trouxeram a sua oferenda diante do altar,",
+      "reference": "Nm 7:10"
+    },
+    "11": {
+      "text": "e Iahweh disse a Moisés: “Cada dia um dos príncipes trará a sua oferenda para a dedicação do altar”. \\par",
+      "reference": "Nm 7:11"
+    },
+    "12": {
+      "text": "No primeiro dia, o que apresentou a sua oferenda foi Naasson, filho de Aminadab, da tribo de Judá.",
+      "reference": "Nm 7:12"
+    },
+    "13": {
+      "text": "A sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:13"
+    },
+    "14": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:14"
+    },
+    "15": {
+      "text": "um novilho, um carneiro, um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:15"
+    },
+    "16": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:16"
+    },
+    "17": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Naasson, filho de Aminadab. \\par",
+      "reference": "Nm 7:17"
+    },
+    "18": {
+      "text": "No segundo dia, apresentou a sua oferenda Natanael, filho de Suar, príncipe de Issacar.",
+      "reference": "Nm 7:18"
+    },
+    "19": {
+      "text": "A sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:19"
+    },
+    "20": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:20"
+    },
+    "21": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:21"
+    },
+    "22": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:22"
+    },
+    "23": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Natanael, filho de Suar. \\par",
+      "reference": "Nm 7:23"
+    },
+    "24": {
+      "text": "No terceiro dia, trouxe a sua oferenda Eliab, filho de Helon, príncipe dos filhos de Zabulon.",
+      "reference": "Nm 7:24"
+    },
+    "25": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:25"
+    },
+    "26": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:26"
+    },
+    "27": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:27"
+    },
+    "28": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:28"
+    },
+    "29": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Eliab, filho de Helon. \\par",
+      "reference": "Nm 7:29"
+    },
+    "30": {
+      "text": "Trouxe a sua oferenda, no quarto dia, Elisur, filho de Sedeur, príncipe dos filhos de Rúben.",
+      "reference": "Nm 7:30"
+    },
+    "31": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:31"
+    },
+    "32": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:32"
+    },
+    "33": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:33"
+    },
+    "34": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:34"
+    },
+    "35": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Elisur, filho de Sedeur. \\par",
+      "reference": "Nm 7:35"
+    },
+    "36": {
+      "text": "No quinto dia, trouxe a sua oferenda Salamiel, filho de Surisadai, príncipe dos filhos de Simeão.",
+      "reference": "Nm 7:36"
+    },
+    "37": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:37"
+    },
+    "38": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:38"
+    },
+    "39": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:39"
+    },
+    "40": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:40"
+    },
+    "41": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Salamiel, filho de Surisadai. \\par",
+      "reference": "Nm 7:41"
+    },
+    "42": {
+      "text": "No sexto dia, trouxe a sua oferenda Eliasaf, filho de Reuel, príncipe dos filhos de Gad.",
+      "reference": "Nm 7:42"
+    },
+    "43": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:43"
+    },
+    "44": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:44"
+    },
+    "45": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:45"
+    },
+    "46": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:46"
+    },
+    "47": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Eliasaf, filho de Reuel. \\par",
+      "reference": "Nm 7:47"
+    },
+    "48": {
+      "text": "No sétimo dia, trouxe a sua oferenda Elisama, filho de Amiud, príncipe dos filhos de Efraim.",
+      "reference": "Nm 7:48"
+    },
+    "49": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:49"
+    },
+    "50": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:50"
+    },
+    "51": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:51"
+    },
+    "52": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:52"
+    },
+    "53": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Elisama, filho de Amiud. \\par",
+      "reference": "Nm 7:53"
+    },
+    "54": {
+      "text": "No oitavo dia, trouxe a sua oferenda Gamaliel, filho de Fadassur, príncipe dos filhos de Manassés.",
+      "reference": "Nm 7:54"
+    },
+    "55": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:55"
+    },
+    "56": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:56"
+    },
+    "57": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:57"
+    },
+    "58": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:58"
+    },
+    "59": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Gamaliel, filho de Fadassur. \\par",
+      "reference": "Nm 7:59"
+    },
+    "60": {
+      "text": "No nono dia, apresentou a sua oferenda Abidã, filho de Gedeão, príncipe dos filhos de Benjamim.",
+      "reference": "Nm 7:60"
+    },
+    "61": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:61"
+    },
+    "62": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:62"
+    },
+    "63": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:63"
+    },
+    "64": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:64"
+    },
+    "65": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Abidã, filho de Gedeão. \\par",
+      "reference": "Nm 7:65"
+    },
+    "66": {
+      "text": "No décimo dia, trouxe a sua oferenda Aiezer, filho de Amisadai, príncipe dos filhos de Dã.",
+      "reference": "Nm 7:66"
+    },
+    "67": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:67"
+    },
+    "68": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:68"
+    },
+    "69": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:69"
+    },
+    "70": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:70"
+    },
+    "71": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Aiezer, filho de Amisadai. \\par",
+      "reference": "Nm 7:71"
+    },
+    "72": {
+      "text": "No décimo primeiro dia, trouxe a sua oferenda Fegiel, filho de Ocrã, príncipe dos filhos de Aser.",
+      "reference": "Nm 7:72"
+    },
+    "73": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:73"
+    },
+    "74": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:74"
+    },
+    "75": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:75"
+    },
+    "76": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:76"
+    },
+    "77": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Fegiel, filho de Ocrã. \\par",
+      "reference": "Nm 7:77"
+    },
+    "78": {
+      "text": "No décimo segundo dia, trouxe a sua oferenda Aíra, filho de Enã, príncipe dos filhos de Neftali.",
+      "reference": "Nm 7:78"
+    },
+    "79": {
+      "text": "Sua oferenda foi: uma bandeja de prata pesando cento e trinta siclos, uma bacia de aspersão, de prata, de setenta siclos (conforme os siclos do santuário), ambas cheias de flor de farinha amassada com azeite, para a oblação,",
+      "reference": "Nm 7:79"
+    },
+    "80": {
+      "text": "um vaso de ouro de dez siclos, cheio de incenso,",
+      "reference": "Nm 7:80"
+    },
+    "81": {
+      "text": "um novilho, um carneiro e um cordeiro de um ano para o holocausto,",
+      "reference": "Nm 7:81"
+    },
+    "82": {
+      "text": "um bode para o sacrifício pelo pecado",
+      "reference": "Nm 7:82"
+    },
+    "83": {
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferenda de Aíra, filho de Enã. \\par",
+      "reference": "Nm 7:83"
+    },
+    "84": {
+      "text": "Essas foram as oferendas dos príncipes de Israel para a dedicação do altar, no dia da sua unção: doze bandejas de prata, doze bacias de aspersão, de prata, doze vasos de ouro.",
+      "reference": "Nm 7:84"
+    },
+    "85": {
+      "text": "Cada bandeja de prata pesava cento e trinta siclos e cada bacia de aspersão setenta, sendo que o total da prata desses objetos pesava dois mil e quatrocentos siclos do santuário.",
+      "reference": "Nm 7:85"
+    },
+    "86": {
+      "text": "Cada um dos doze vasos de ouro cheios de incenso pesava dez siclos, em siclos do santuário, sendo que o ouro desses vasos pesava um total de cento e vinte siclos. \\par",
+      "reference": "Nm 7:86"
+    },
+    "87": {
+      "text": "O total dos animais para o holocausto foi: doze novilhos, doze carneiros, doze cordeiros de um ano, com as oblações que os acompanhavam. Para o sacrifício pelo pecado, doze bodes.",
+      "reference": "Nm 7:87"
+    },
+    "88": {
+      "text": "O total dos animais para o sacrifício de comunhão foi: vinte e quatro novilhos, sessenta carneiros, sessenta bodes e sessenta cordeiros de um ano. \\par Essas foram as oferendas para a dedicação do altar, após a sua unção. \\par",
+      "reference": "Nm 7:88"
+    },
+    "89": {
+      "text": "Quando Moisés entrava na Tenda da Reunião para se dirigir a Ele, ouvia a voz que lhe falava do alto do propiciatório que estava sobre a Arca do Testemunho, entre os dois querubins. Assim, pois, falava com Ele. \\par",
+      "reference": "Nm 7:89"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 89
+}

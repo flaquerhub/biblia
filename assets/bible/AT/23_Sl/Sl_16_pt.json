@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 16 (15)\\par }{\\qc\\b\\i Iahweh, minha parte na herança\\par }{\\qc\\i À meia voz. De Davi.\\par } Guarda-me, ó Deus, pois eu me abrigo em ti. \\par",
+      "reference": "Sl 16:1"
+    },
+    "2": {
+      "text": "Eu disse a Iahweh: És tu o meu Senhor: \\par minha felicidade não está em nenhum \\par",
+      "reference": "Sl 16:2"
+    },
+    "3": {
+      "text": "destes demônios da terra. \\par Eles se impõem a todos os que os amam, \\par",
+      "reference": "Sl 16:3"
+    },
+    "4": {
+      "text": "multiplicam seus ídolos, correm atrás deles. \\par Jamais derramarei suas libações de sangue, \\par nem porei seus nomes em meus lábios. \\par",
+      "reference": "Sl 16:4"
+    },
+    "5": {
+      "text": "Iahweh, minha parte na herança e minha taça, \\par és tu que garantes a minha porção; \\par",
+      "reference": "Sl 16:5"
+    },
+    "6": {
+      "text": "o cordel mediu para mim um lugar delicioso, \\par sim, é magnífica a minha herança. \\par",
+      "reference": "Sl 16:6"
+    },
+    "7": {
+      "text": "Bendigo a Iahweh que me aconselha, \\par e, mesmo à noite, meus rins me instruem. \\par",
+      "reference": "Sl 16:7"
+    },
+    "8": {
+      "text": "Coloco Iahweh à minha frente sem cessar, \\par com ele à minha direita eu nunca vacilo. \\par",
+      "reference": "Sl 16:8"
+    },
+    "9": {
+      "text": "Por isso meu coração se alegra, \\par minhas entranhas exultam \\par e minha carne repousa em segurança; \\par",
+      "reference": "Sl 16:9"
+    },
+    "10": {
+      "text": "pois não abandonarás minha vida no Xeol, \\par nem deixarás que teu fiel veja a cova! \\par",
+      "reference": "Sl 16:10"
+    },
+    "11": {
+      "text": "Ensinar-me-ás o caminho da vida, \\par cheio de alegrias em tua presença \\par e delícias à tua direita, perpetuamente. \\par",
+      "reference": "Sl 16:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

@@ -1,0 +1,217 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A tribo de Levi: A. Os sacerdotes\\par }Eis a descendência de Aarão e de Moisés, quando Iahweh falou a Moisés no monte Sinai. \\par",
+      "reference": "Nm 3:1"
+    },
+    "2": {
+      "text": "Estes são os nomes dos filhos de Aarão: Nadab, o primogênito, depois Abiú, Eleazar, Itamar. \\par",
+      "reference": "Nm 3:2"
+    },
+    "3": {
+      "text": "Esses são os nomes dos filhos de Aarão, sacerdotes que receberam a unção e que foram consagrados para exercer o sacerdócio.",
+      "reference": "Nm 3:3"
+    },
+    "4": {
+      "text": "Nadab e Abiú morreram diante de Iahweh, no deserto do Sinai, quando apresentaram diante de Iahweh um fogo irregular. Não tinham filhos, e assim Eleazar e Itamar exerceram o sacerdócio na presença de Aarão, seu pai. \\par",
+      "reference": "Nm 3:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i B. Os levitas. Suas funções\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Nm 3:5"
+    },
+    "6": {
+      "text": "“Faze chegar a tribo de Levi e põe-na à disposição de Aarão, o sacerdote: eles estarão a seu serviço.",
+      "reference": "Nm 3:6"
+    },
+    "7": {
+      "text": "Encarregar-se-ão dos deveres que lhes pertencem, bem como dos deveres de toda a comunidade, na Tenda da Reunião, ao ministrarem na Habitação.",
+      "reference": "Nm 3:7"
+    },
+    "8": {
+      "text": "Cuidarão de todos os utensílios da Tenda da Reunião e encarregar-se-ão daquilo que compete aos filhos de Israel, ao ministrarem na Habitação.",
+      "reference": "Nm 3:8"
+    },
+    "9": {
+      "text": "Darás, pois, a Aarão e a seus filhos os levitas, como ‘doados’; eles lhe serão doados pelos filhos de Israel. \\par",
+      "reference": "Nm 3:9"
+    },
+    "10": {
+      "text": "Registrarás a Aarão e seus filhos, que desempenharão o seu ofício sacerdotal. Porém, todo profano que se aproximar será punido de morte”. \\par",
+      "reference": "Nm 3:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i C. A eleição dos levitas\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Nm 3:11"
+    },
+    "12": {
+      "text": "“Vede que, eu mesmo, escolhi os levitas do meio dos filhos de Israel, em lugar de todos os primogênitos, daqueles que entre os filhos de Israel abrem o seio materno; portanto, os levitas são meus.",
+      "reference": "Nm 3:12"
+    },
+    "13": {
+      "text": "Assim, todo primogênito me pertence. No dia em que feri de morte todos os primogênitos na terra do Egito, consagrei a mim todos os primogênitos em Israel, tanto os dos homens como os dos animais. Eles me pertencem; eu sou Iahweh”. \\par",
+      "reference": "Nm 3:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i D. O recenseamento dos levitas\\par }Iahweh falou a Moisés no deserto do Sinai e disse: \\par",
+      "reference": "Nm 3:14"
+    },
+    "15": {
+      "text": "“Recensearás os filhos de Levi segundo as casas patriarcais e segundo os seus clãs; recensearás todos os homens de idade de um mês para cima”. \\par",
+      "reference": "Nm 3:15"
+    },
+    "16": {
+      "text": "E Moisés os recenseou segundo a ordem de Iahweh, de acordo com o que Iahweh lhe havia ordenado.",
+      "reference": "Nm 3:16"
+    },
+    "17": {
+      "text": "Estes são os nomes dos filhos de Levi: Gérson, Caat e Merari. \\par",
+      "reference": "Nm 3:17"
+    },
+    "18": {
+      "text": "Estes são os nomes dos filhos de Gérson, segundo os seus clãs: Lobni e Semei;",
+      "reference": "Nm 3:18"
+    },
+    "19": {
+      "text": "os filhos de Caat, segundo os seus clãs: Amram, Isaar, Hebron e Oziel;",
+      "reference": "Nm 3:19"
+    },
+    "20": {
+      "text": "os filhos de Merari, segundo os seus clãs: Mooli e Musi. Esses são os clãs de Levi, reunidos em casas patriarcais. \\par",
+      "reference": "Nm 3:20"
+    },
+    "21": {
+      "text": "De Gérson originaram-se o clã lobnita e o clã semeíta. Esses são os clãs dos gersonitas;",
+      "reference": "Nm 3:21"
+    },
+    "22": {
+      "text": "o número total dos homens recenseados, da idade de um mês para cima, foi de sete mil e quinhentos.",
+      "reference": "Nm 3:22"
+    },
+    "23": {
+      "text": "Os clãs dos gersonitas acampavam atrás da Habitação, ao ocidente.",
+      "reference": "Nm 3:23"
+    },
+    "24": {
+      "text": "O príncipe da casa patriarcal de Gérson era Eliasaf, filho de Lael.",
+      "reference": "Nm 3:24"
+    },
+    "25": {
+      "text": "Os filhos de Gérson tinham, na Tenda da Reunião, o encargo da Habitação, da Tenda e da sua cobertura, do véu de entrada da Tenda da Reunião,",
+      "reference": "Nm 3:25"
+    },
+    "26": {
+      "text": "das cortinas do átrio, do véu de entrada do átrio que está ao redor da Habitação e do altar, como também das cordas necessárias a todo o seu serviço. \\par",
+      "reference": "Nm 3:26"
+    },
+    "27": {
+      "text": "De Caat originaram-se os clãs amramita, isaarita, hebronita e ozielita. Esses são os clãs caatitas;",
+      "reference": "Nm 3:27"
+    },
+    "28": {
+      "text": "o número total dos homens recenseados, da idade de um mês para cima, foi de oito mil e trezentos. Eles estavam encarregados do serviço do santuário.",
+      "reference": "Nm 3:28"
+    },
+    "29": {
+      "text": "Os clãs dos caatitas acampavam do lado meridional da Habitação.",
+      "reference": "Nm 3:29"
+    },
+    "30": {
+      "text": "O príncipe da casa patriarcal dos clãs dos caatitas era Elisafã, filho de Oziel.",
+      "reference": "Nm 3:30"
+    },
+    "31": {
+      "text": "Tinham o encargo da Arca, da mesa, do candelabro, dos altares, dos objetos sagrados do culto e do véu com todos os seus pertences. \\par",
+      "reference": "Nm 3:31"
+    },
+    "32": {
+      "text": "O príncipe dos príncipes de Levi era Eleazar, filho de Aarão, o sacerdote. Ele exercia a superintendência de todos aqueles que cuidavam do santuário. \\par",
+      "reference": "Nm 3:32"
+    },
+    "33": {
+      "text": "De Merari originaram-se o clã moolita e o clã musita. Esses são os clãs meraritas;",
+      "reference": "Nm 3:33"
+    },
+    "34": {
+      "text": "o número total dos homens recenseados, da idade de um mês para cima, foi de seis mil e duzentos.",
+      "reference": "Nm 3:34"
+    },
+    "35": {
+      "text": "O príncipe da casa patriarcal dos clãs meraritas era Suriel, filho de Abiail. Eles acampavam do lado setentrional da Habitação.",
+      "reference": "Nm 3:35"
+    },
+    "36": {
+      "text": "Os filhos de Merari estavam encarregados das tábuas da Habitação, das suas vigas, das suas colunas e bases de todos os seus acessórios e de todos os seus utensílios,",
+      "reference": "Nm 3:36"
+    },
+    "37": {
+      "text": "assim como das colunas que rodeiam o átrio, das suas bases, das suas estacas e das suas cordas. \\par",
+      "reference": "Nm 3:37"
+    },
+    "38": {
+      "text": "Finalmente, acampavam ao oriente, diante da Habitação, diante da Tenda da Reunião, ao oriente, Moisés, Aarão e seus filhos, que tinham o encargo do santuário em nome dos filhos de Israel. Todo estranho que se aproximasse devia ser punido com a morte. \\par",
+      "reference": "Nm 3:38"
+    },
+    "39": {
+      "text": "O total dos levitas recenseados, que Moisés enumerou segundo os clãs, conforme a ordem de Iahweh, o número dos homens da idade de um mês para cima, foi de vinte e dois mil. \\par",
+      "reference": "Nm 3:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i E. Os levitas e o resgate dos primogênitos\\par }Iahweh disse a Moisés: \\par “Faze o recenseamento de todos os primogênitos homens dos filhos de Israel, da idade de um mês para cima; faze a soma dos seus nomes.",
+      "reference": "Nm 3:40"
+    },
+    "41": {
+      "text": "Em seguida, em lugar dos primogênitos de Israel, tomarás para mim, Iahweh, os levitas; e de igual modo o seu gado em lugar dos primogênitos do gado dos filhos de Israel”. \\par",
+      "reference": "Nm 3:41"
+    },
+    "42": {
+      "text": "Conforme Iahweh lhe havia ordenado, Moisés recenseou todos os primogênitos dos filhos de Israel.",
+      "reference": "Nm 3:42"
+    },
+    "43": {
+      "text": "O recenseamento dos nomes dos primogênitos, da idade de um mês para cima, deu o número total de vinte e dois mil e duzentos e setenta e três. \\par",
+      "reference": "Nm 3:43"
+    },
+    "44": {
+      "text": "Então falou Iahweh a Moisés e disse: \\par",
+      "reference": "Nm 3:44"
+    },
+    "45": {
+      "text": "“Toma os levitas em lugar de todos os primogênitos dos filhos de Israel, e o gado dos levitas em lugar do gado deles; os levitas serão meus, para mim mesmo, Iahweh.",
+      "reference": "Nm 3:45"
+    },
+    "46": {
+      "text": "Para o resgate dos duzentos e setenta e três primogênitos dos filhos de Israel que excedem o número dos levitas,",
+      "reference": "Nm 3:46"
+    },
+    "47": {
+      "text": "tomarás cinco siclos por cabeça; tu os tomarás segundo o siclo do santuário, a vinte geras o siclo.",
+      "reference": "Nm 3:47"
+    },
+    "48": {
+      "text": "E darás esse dinheiro a Aarão e a seus filhos para resgate daqueles que são excedentes”. \\par",
+      "reference": "Nm 3:48"
+    },
+    "49": {
+      "text": "Moisés recebeu esse dinheiro em regaste daqueles que não foram resgatados devido ao número insuficiente de levitas.",
+      "reference": "Nm 3:49"
+    },
+    "50": {
+      "text": "Recebeu o dinheiro dos primogênitos dos filhos de Israel, mil e trezentos e sessenta e cinco siclos, segundo o siclo do santuário.",
+      "reference": "Nm 3:50"
+    },
+    "51": {
+      "text": "Moisés deu o dinheiro desse resgate a Aarão e a seus filhos, segundo a ordem de Iahweh, de acordo com o que Iahweh havia ordenado a Moisés. \\par",
+      "reference": "Nm 3:51"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 51
+}

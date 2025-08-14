@@ -1,0 +1,113 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Tentação no deserto\\par }Então Jesus foi levado pelo Espírito para o deserto, para ser tentado pelo diabo.",
+      "reference": "Mt 4:1"
+    },
+    "2": {
+      "text": "Por quarenta dias e quarenta noites esteve jejuando. Depois teve fome.",
+      "reference": "Mt 4:2"
+    },
+    "3": {
+      "text": "Então, aproximando-se o tentador, disse-lhe: “Se és Filho de Deus, manda que estas pedras se transformem em pães”.",
+      "reference": "Mt 4:3"
+    },
+    "4": {
+      "text": "Mas Jesus respondeu: “Está escrito: \\par {\\i Não só de pão vive o homem}, \\par {\\i mas de toda palavra que sai da boca \\par de Deus}”. \\par",
+      "reference": "Mt 4:4"
+    },
+    "5": {
+      "text": "Então o diabo o levou à Cidade Santa e o colocou sobre o pináculo do Templo",
+      "reference": "Mt 4:5"
+    },
+    "6": {
+      "text": "e disse-lhe: “Se és Filho de Deus, atira-te para baixo, porque está escrito: \\par {\\i Ele dará ordem a seus anjos a teu respeito}, \\par {\\i e eles te tomarão pelas mãos}, \\par {\\i para que não tropeces em nenhuma pedra}”. \\par",
+      "reference": "Mt 4:6"
+    },
+    "7": {
+      "text": "Respondeu-lhe Jesus: “Também está escrito: \\par {\\i Não tentarás ao Senhor teu Deus}”. \\par",
+      "reference": "Mt 4:7"
+    },
+    "8": {
+      "text": "Tornou o diabo a levá-lo, agora para um monte muito alto. E mostrou-lhe todos os reinos do mundo com o seu esplendor",
+      "reference": "Mt 4:8"
+    },
+    "9": {
+      "text": "e disse-lhe: “Tudo isto te darei, se, prostrado, me adorares”.",
+      "reference": "Mt 4:9"
+    },
+    "10": {
+      "text": "Aí Jesus lhe disse: “Vai-te, Satanás, porque está escrito: \\par {\\i Ao Senhor teu Deus adorarás \\par e só a ele prestarás culto}”. \\par",
+      "reference": "Mt 4:10"
+    },
+    "11": {
+      "text": "Com isso, o diabo o deixou. E os anjos de Deus se aproximaram e puseram-se a servi-lo. \\par",
+      "reference": "Mt 4:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Retorno à Galiléia\\par }Ao ouvir que João tinha sido preso, ele voltou para a Galiléia",
+      "reference": "Mt 4:12"
+    },
+    "13": {
+      "text": "e, deixando Nazara, foi morar em Cafarnaum, à beira-mar, nos confins de Zabulon e Neftali,",
+      "reference": "Mt 4:13"
+    },
+    "14": {
+      "text": "para que se cumprisse o que foi dito pelo profeta Isaías: \\par",
+      "reference": "Mt 4:14"
+    },
+    "15": {
+      "text": "{\\i Terra de Zabulon, terra de Neftali, }\\par {\\i caminho do mar, região além do Jordão}, \\par {\\i Galiléia das nações! }\\par",
+      "reference": "Mt 4:15"
+    },
+    "16": {
+      "text": "{\\i O povo que jazia nas trevas }\\par {\\i viu uma grande luz; \\par aos que jaziam na região sombria da morte}, \\par {\\i surgiu uma luz.}\\par",
+      "reference": "Mt 4:16"
+    },
+    "17": {
+      "text": "A partir desse momento, começou Jesus a pregar e a dizer: “Arrependei-vos, porque está próximo o Reino dos Céus”. \\par",
+      "reference": "Mt 4:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Vocação dos quatro primeiros discípulos\\par }Estando ele a caminhar junto ao mar da Galiléia, viu dois irmãos: Simão, chamado Pedro, e seu irmão André, que lançavam a rede ao mar, pois eram pescadores.",
+      "reference": "Mt 4:18"
+    },
+    "19": {
+      "text": "Disse-lhes: “Segui-me e eu vos farei pescadores de homens”.",
+      "reference": "Mt 4:19"
+    },
+    "20": {
+      "text": "Eles, deixando imediatamente as redes, o seguiram. \\par",
+      "reference": "Mt 4:20"
+    },
+    "21": {
+      "text": "Continuando a caminhar, viu outros dois irmãos: Tiago, filho de Zebedeu, e seu irmão João, no barco com o pai Zebedeu, a consertar as redes. E os chamou.",
+      "reference": "Mt 4:21"
+    },
+    "22": {
+      "text": "Eles, deixando imediatamente o barco e o pai, o seguiram. \\par",
+      "reference": "Mt 4:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Jesus ensina e cura\\par }Jesus percorria toda a Galiléia, ensinando em suas sinagogas, pregando o Evangelho do Reino e curando toda e qualquer doença ou enfermidade do povo.",
+      "reference": "Mt 4:23"
+    },
+    "24": {
+      "text": "A sua fama espalhou-se por toda a Síria, de modo que lhe traziam todos os que eram acometidos por doenças diversas e atormentados por enfermidades, bem como endemoninhados, lunáticos e paralíticos. E ele os curava.",
+      "reference": "Mt 4:24"
+    },
+    "25": {
+      "text": "Seguiam-no multidões numerosas vindas da Galiléia, da Decápole, de Jerusalém, da Judéia e da região além do Jordão. \\par",
+      "reference": "Mt 4:25"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 25
+}

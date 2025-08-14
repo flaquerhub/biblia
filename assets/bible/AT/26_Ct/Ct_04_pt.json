@@ -1,0 +1,77 @@
+{
+  "book": 22,
+  "book_name": "Cântico dos Cânticos",
+  "book_abbr": "Ct",
+  "book_category": "Poético",
+  "book_english": "Song of Songs",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O amado\\par }Como és bela, minha amada, \\par como és bela!... \\par São pombas \\par teus olhos escondidos sob o véu. \\par Teu cabelo... um rebanho de cabras \\par ondulando pelas faldas de Galaad. \\par",
+      "reference": "Ct 4:1"
+    },
+    "2": {
+      "text": "Teus dentes... um rebanho tosquiado \\par subindo após o banho, \\par cada ovelha com seus gêmeos, \\par nenhuma delas sem cria. \\par",
+      "reference": "Ct 4:2"
+    },
+    "3": {
+      "text": "Teus lábios são fita vermelha, \\par tua fala melodiosa; \\par metades de romã são teus seios \\par mergulhados sob o véu. \\par",
+      "reference": "Ct 4:3"
+    },
+    "4": {
+      "text": "Teu pescoço é a torre de Davi, \\par construída com defesas; \\par dela pendem mil escudos \\par e armaduras dos heróis. \\par",
+      "reference": "Ct 4:4"
+    },
+    "5": {
+      "text": "Teus seios são dois filhotes, \\par filhos gêmeos de gazela, \\par pastando entre açucenas. \\par",
+      "reference": "Ct 4:5"
+    },
+    "6": {
+      "text": "Antes que sopra a brisa \\par e as sombras se debandem, \\par vou ao monte da mirra, \\par à colina do incenso. \\par",
+      "reference": "Ct 4:6"
+    },
+    "7": {
+      "text": "És toda bela, minha amada, \\par e não tens um só defeito! \\par",
+      "reference": "Ct 4:7"
+    },
+    "8": {
+      "text": "Vem do Líbano, noiva minha, \\par vem do Líbano \\par e faz tua entrada comigo. \\par Desce do alto do Amaná, \\par do cume do Sanir e do Hermon, \\par esconderijo dos leões, \\par montes onde rondam as panteras. \\par",
+      "reference": "Ct 4:8"
+    },
+    "9": {
+      "text": "Roubaste meu coração, \\par minha irmã, noiva minha, \\par roubaste meu coração \\par com um só dos teus olhares, \\par uma volta dos colares. \\par",
+      "reference": "Ct 4:9"
+    },
+    "10": {
+      "text": "Que belos são teus amores, \\par minha irmã, noiva minha; \\par teus amores são melhores do que o vinho, \\par mais fino que os outros aromas \\par é o odor dos teus perfumes. \\par",
+      "reference": "Ct 4:10"
+    },
+    "11": {
+      "text": "Teus lábios são favo escorrendo, \\par ó noiva minha, \\par tens leite e mel sob a língua, \\par e o perfume de tuas roupas \\par é como a fragrância do Líbano. \\par",
+      "reference": "Ct 4:11"
+    },
+    "12": {
+      "text": "És jardim fechado, \\par minha irmã, noiva minha, \\par és jardim fechado, \\par uma fonte lacrada. \\par",
+      "reference": "Ct 4:12"
+    },
+    "13": {
+      "text": "Teus brotos são pomar de romãs \\par com frutos preciosos: \\par",
+      "reference": "Ct 4:13"
+    },
+    "14": {
+      "text": "nardo e açafrão, \\par canela, cinamomo \\par e árvores todas de incenso, \\par mirra e aloés, \\par e os mais finos perfumes. \\par",
+      "reference": "Ct 4:14"
+    },
+    "15": {
+      "text": "A fonte do jardim \\par é poço de água viva \\par que jorra, descendo do Líbano! \\par",
+      "reference": "Ct 4:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i A amada\\par }Desperta, vento norte, \\par aproxima-te, vento sul, \\par soprai no meu jardim \\par para espalhar seus perfumes. \\par Entre o meu amado em seu jardim \\par e coma de seus frutos saborosos! \\par",
+      "reference": "Ct 4:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

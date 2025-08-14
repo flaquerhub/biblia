@@ -1,0 +1,93 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. História de Abraão}\\par }{\\qc\\b\\i Vocação de Abraão\\par }Iahweh disse a Abrão: “Sai da tua terra, da tua parentela e da casa de teu pai, para a terra que te mostrarei.",
+      "reference": "Gn 12:1"
+    },
+    "2": {
+      "text": "Eu farei de ti um grande povo, eu te abençoarei, engrandecerei teu nome; sê uma bênção! \\par",
+      "reference": "Gn 12:2"
+    },
+    "3": {
+      "text": "Abençoarei os que te abençoarem, \\par amaldiçoarei os que te amaldiçoarem. \\par Por ti serão benditos \\par todos os clãs da terra”. \\par",
+      "reference": "Gn 12:3"
+    },
+    "4": {
+      "text": "Abrão partiu, como lhe disse Iahweh, e Ló partiu com ele. Abrão tinha setenta e cinco anos quando deixou Harã.",
+      "reference": "Gn 12:4"
+    },
+    "5": {
+      "text": "Abrão tomou sua mulher Sarai, seu sobrinho Ló, todos os bens que tinham reunido e o pessoal que tinham adquirido em Harã; partiram para a terra de Canaã, e lá chegaram. \\par",
+      "reference": "Gn 12:5"
+    },
+    "6": {
+      "text": "Abrão atravessou a terra até o lugar santo de Siquém, no Carvalho de Moré. Nesse tempo os cananeus habitavam nesta terra.",
+      "reference": "Gn 12:6"
+    },
+    "7": {
+      "text": "Iahweh apareceu a Abrão e disse: “É à tua posteridade que eu darei esta terra”. Abrão construiu ali um altar a Iahweh, que lhe aparecera.",
+      "reference": "Gn 12:7"
+    },
+    "8": {
+      "text": "Dali passou à montanha, a oriente de Betel, e armou sua tenda, tendo Betel a oeste e Hai a leste. Construiu ali um altar a Iahweh e invocou seu nome.",
+      "reference": "Gn 12:8"
+    },
+    "9": {
+      "text": "Depois, de acampamento em acampamento, foi para o Negueb. \\par",
+      "reference": "Gn 12:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Abraão no Egito\\par }Houve uma fome na terra e Abrão desceu ao Egito, para aí ficar, pois a fome assolava a terra.",
+      "reference": "Gn 12:10"
+    },
+    "11": {
+      "text": "Quando estava chegando ao Egito, disse à sua mulher Sarai: “Vê, eu sei que és uma mulher muito bela.",
+      "reference": "Gn 12:11"
+    },
+    "12": {
+      "text": "Quando os egípcios te virem, dirão: ‘É sua mulher’, e me matarão, deixando-te com vida.",
+      "reference": "Gn 12:12"
+    },
+    "13": {
+      "text": "Dize, eu te peço, que és minha irmã, para que me tratem bem por causa de ti e, por tua causa, me conservem a vida”.",
+      "reference": "Gn 12:13"
+    },
+    "14": {
+      "text": "De fato, quando Abrão chegou ao Egito, os egípcios viram que a mulher era muito bela.",
+      "reference": "Gn 12:14"
+    },
+    "15": {
+      "text": "Viram-na os oficiais de Faraó e gabaram-na junto dele; e a mulher foi levada para o palácio de Faraó.",
+      "reference": "Gn 12:15"
+    },
+    "16": {
+      "text": "Este, por causa dela, tratou bem a Abrão: ele veio a ter ovelhas, bois, jumentos, escravos, servas, jumentas e camelos.",
+      "reference": "Gn 12:16"
+    },
+    "17": {
+      "text": "Mas Iahweh feriu Faraó com grandes pragas, e também sua casa, por causa de Sarai, a mulher de Abrão.",
+      "reference": "Gn 12:17"
+    },
+    "18": {
+      "text": "Faraó chamou Abrão e disse: “Que me fizeste? Por que não me declaraste que ela era tua mulher?",
+      "reference": "Gn 12:18"
+    },
+    "19": {
+      "text": "Por que disseste: ‘Ela é minha irmã!’, de modo que eu a tomasse como mulher? Agora eis a tua mulher: toma-a e vai-te!”",
+      "reference": "Gn 12:19"
+    },
+    "20": {
+      "text": "Faraó o confiou a homens que os conduziram à fronteira, ele, sua mulher e tudo o que possuía. \\par",
+      "reference": "Gn 12:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

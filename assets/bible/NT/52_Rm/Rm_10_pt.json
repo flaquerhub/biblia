@@ -1,0 +1,97 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os judeus desconheceram a justiça de Deus\\par }Irmãos, o desejo do meu coração e a prece que faço a Deus em favor deles é que sejam salvos.",
+      "reference": "Rm 10:1"
+    },
+    "2": {
+      "text": "Porque, eu lhes rendo testemunho de que têm zelo por Deus, mas não é um zelo esclarecido.",
+      "reference": "Rm 10:2"
+    },
+    "3": {
+      "text": "Desconhecendo a justiça de Deus e procurando estabelecer a sua própria, não se sujeitaram à justiça de Deus.",
+      "reference": "Rm 10:3"
+    },
+    "4": {
+      "text": "Porque a finalidade da Lei é Cristo para a justificação de todo o que crê. \\par",
+      "reference": "Rm 10:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Anunciada por Moisés\\par }Moisés, com efeito, escreveu a respeito da justiça que provém da Lei: é {\\i cumprindo-a que o homem vive por ela};",
+      "reference": "Rm 10:5"
+    },
+    "6": {
+      "text": "ao passo que a justiça que provém da fé assim se exprime: {\\i Não digas} em teu coração: {\\i Quem subirá ao céu}? Isto é, para fazer descer a Cristo,",
+      "reference": "Rm 10:6"
+    },
+    "7": {
+      "text": "ou: {\\i Quem descerá ao abismo}? Isto é, para fazer Cristo levantar-se dentre os mortos.",
+      "reference": "Rm 10:7"
+    },
+    "8": {
+      "text": "Mas o que diz ela? {\\i Ao teu alcance está a palavra, em tua boca e em teu coração}; a saber, a palavra da fé que nós pregamos.",
+      "reference": "Rm 10:8"
+    },
+    "9": {
+      "text": "Porque, se confessares com tua boca que Jesus é Senhor e creres em teu coração que Deus o ressuscitou dentre os mortos, serás salvo.",
+      "reference": "Rm 10:9"
+    },
+    "10": {
+      "text": "Pois quem crê de coração obtém a justiça, e quem confessa com a boca, a salvação.",
+      "reference": "Rm 10:10"
+    },
+    "11": {
+      "text": "Com efeito, a Escritura diz: {\\i Quem nele crê não será confundido.}",
+      "reference": "Rm 10:11"
+    },
+    "12": {
+      "text": "De sorte que não há distinção entre judeu e grego, pois ele é Senhor de todos, rico para todos os que o invocam.",
+      "reference": "Rm 10:12"
+    },
+    "13": {
+      "text": "Porque {\\i todo aquele que invocar o nome do Senhor será salvo.} \\par",
+      "reference": "Rm 10:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Eles não têm desculpa\\par }Mas como poderiam invocar aquele em quem não creram? E como poderiam crer naquele que não ouviram? E como poderiam ouvir sem pregador?",
+      "reference": "Rm 10:14"
+    },
+    "15": {
+      "text": "E como podem pregar se não forem enviados? Conforme está escrito: {\\i Quão maravilhosos os pés dos que anunciam boas notícias.}",
+      "reference": "Rm 10:15"
+    },
+    "16": {
+      "text": "Mas não obedeceram ao evangelho. Diz, com efeito, Isaías: {\\i Senhor, quem acreditou em nossa pregação?}",
+      "reference": "Rm 10:16"
+    },
+    "17": {
+      "text": "Pois a fé vem da pregação e a pregação é pela palavra de Cristo.",
+      "reference": "Rm 10:17"
+    },
+    "18": {
+      "text": "Ora, eu digo: será que eles não ouviram? Entretanto, {\\i pela terra inteira correu sua voz; até os confins do mundo as suas palavras.}",
+      "reference": "Rm 10:18"
+    },
+    "19": {
+      "text": "Mas, eu pergunto: Israel não teria entendido? Moisés já dizia: {\\i Eu vos enciumarei de um povo que não é povo; contra um povo sem inteligência, excitarei vossa ira.}\\par",
+      "reference": "Rm 10:19"
+    },
+    "20": {
+      "text": "E Isaías ousa até dizer: {\\i Fui encontrado por aqueles que não me procuram; tornei-me visível aos que não perguntam por mim.}",
+      "reference": "Rm 10:20"
+    },
+    "21": {
+      "text": "E a Israel diz: {\\i O dia todo estendi as mãos a um povo desobediente e rebelde.}\\par",
+      "reference": "Rm 10:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

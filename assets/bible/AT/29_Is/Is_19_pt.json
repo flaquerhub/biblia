@@ -1,0 +1,113 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra o Egito\\par }Oráculo a respeito do Egito. \\par Iahweh, montado em uma nuvem veloz, vai ao Egito. \\par Os deuses do Egito tremem diante dele \\par e o coração dos egípcios se derrete no seu peito. \\par",
+      "reference": "Is 19:1"
+    },
+    "2": {
+      "text": "Excitarei egípcios contra egípcios; \\par eles lutarão entre si, irmãos contra irmãos, \\par cada um contra o seu próximo, \\par cidade contra cidade e reino contra reino. \\par",
+      "reference": "Is 19:2"
+    },
+    "3": {
+      "text": "O espírito dos egípcios será aniquilado no seu íntimo, \\par confundirei o seu conselho. \\par Eles irão em busca dos seus deuses vãos, \\par dos encantadores e dos adivinhos. \\par",
+      "reference": "Is 19:3"
+    },
+    "4": {
+      "text": "Entregarei o Egito \\par nas mãos de um senhor cruel; \\par um rei prepotente os dominará. \\par Oráculo do Senhor Iahweh dos Exércitos. \\par",
+      "reference": "Is 19:4"
+    },
+    "5": {
+      "text": "As águas se esvairão do mar, \\par o rio se esgotará e ficará seco; \\par",
+      "reference": "Is 19:5"
+    },
+    "6": {
+      "text": "os canais acabarão cheirando mal, \\par as correntes do Egito irão minguando e secarão; \\par a cana e o junco se cobrirão de praga. \\par",
+      "reference": "Is 19:6"
+    },
+    "7": {
+      "text": "Os caniços do Nilo – das margens do Nilo – \\par e toda planta cultivada do Nilo \\par secarão, se dispersarão e se extinguirão. \\par",
+      "reference": "Is 19:7"
+    },
+    "8": {
+      "text": "Os pescadores se lamentarão e se cobrirão de luto: \\par todos aqueles que lançam o anzol no Nilo, \\par aqueles que estendem a rede sobre as suas águas ficarão desacorçoados. \\par",
+      "reference": "Is 19:8"
+    },
+    "9": {
+      "text": "Aqueles que preparam o linho cardado se sentirão frustrados, \\par bem como os que tecem alvos panos; \\par",
+      "reference": "Is 19:9"
+    },
+    "10": {
+      "text": "acabarão arrasados os seus tecelões, \\par desconsolados ficarão todos os seus assalariados. \\par",
+      "reference": "Is 19:10"
+    },
+    "11": {
+      "text": "Na verdade, os príncipes de Soã, \\par os mais sábios conselheiros do faraó \\par formam um conselho estulto. \\par Como vos atreveis a dizer ao faraó: \\par “Sou filho de sábios, filho de reis antigos?” \\par",
+      "reference": "Is 19:11"
+    },
+    "12": {
+      "text": "Onde estão os teus sábios? \\par Que anunciem então, para que se saiba, \\par o que decidiu Iahweh dos Exércitos a respeito do Egito! \\par",
+      "reference": "Is 19:12"
+    },
+    "13": {
+      "text": "Portam-se como loucos os príncipes de Soã, \\par os príncipes de Nof estão iludidos, \\par aqueles que constituíam a elite dos seus nomos desencaminharam o Egito. \\par",
+      "reference": "Is 19:13"
+    },
+    "14": {
+      "text": "Iahweh espalhou entre eles \\par um espírito de confusão; \\par de modo que desencaminham o Egito em todos os seus empreendimentos, \\par como se desencaminha um embriagado que vai vomitando. \\par",
+      "reference": "Is 19:14"
+    },
+    "15": {
+      "text": "Nenhum empreendimento conseguirá realizar o Egito, \\par seja obra de cabeça ou da cauda, da palma ou do junco. \\par",
+      "reference": "Is 19:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Conversão do Egito\\par }Naquele dia, os egípcios serão como mulheres: tremerão e sentirão pavor diante do gesto da mão de Iahweh dos Exércitos quando ele a mover contra eles.",
+      "reference": "Is 19:16"
+    },
+    "17": {
+      "text": "A terra de Judá será motivo de vergonha para o Egito: toda vez que alguém lha lembrar, ele se sentirá apavorado à vista da decisão que Iahweh dos Exércitos tomou a seu respeito.",
+      "reference": "Is 19:17"
+    },
+    "18": {
+      "text": "Naquele dia haverá no Egito cinco cidades que falarão a língua de Canaã e prestarão juramento a Iahweh dos Exércitos; uma delas se chamará “cidade do sol”.",
+      "reference": "Is 19:18"
+    },
+    "19": {
+      "text": "Naquele dia, haverá uma altar dedicado a Iahweh no seio do Egito e uma estela consagrada a Iahweh junto da sua fronteira.",
+      "reference": "Is 19:19"
+    },
+    "20": {
+      "text": "Esses servirão de sinal e testemunho a Iahweh dos Exércitos na terra do Egito: quando eles clamarem a Iahweh por causa dos seus opressores, este lhes enviará um salvador e defensor que os livrará.",
+      "reference": "Is 19:20"
+    },
+    "21": {
+      "text": "Iahweh se dará a conhecer aos egípcios e os egípcios, naquele dia, conhecerão a Iahweh e o servirão com sacrifícios e oblações e farão votos a Iahweh e os cumprirão.",
+      "reference": "Is 19:21"
+    },
+    "22": {
+      "text": "Iahweh ferirá os egípcios, feri-los-á, mas lhes dará a cura. Então eles se converterão a Iahweh e ele os atenderá e lhes dará a cura.",
+      "reference": "Is 19:22"
+    },
+    "23": {
+      "text": "Naquele dia, haverá uma vereda do Egito até a Assíria: os assírios irão ao Egito e os egípcios irão à Assíria e os egípcios servirão juntamente com a Assíria.",
+      "reference": "Is 19:23"
+    },
+    "24": {
+      "text": "Naquele dia, Israel será o terceiro, ao lado do Egito e da Assíria, uma bênção no seio da terra,",
+      "reference": "Is 19:24"
+    },
+    "25": {
+      "text": "bênção que pronunciará Iahweh dos Exércitos: “Bendito meu povo, o Egito e a Assíria, obra das minhas mãos, e Israel, minha herança”. \\par",
+      "reference": "Is 19:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

@@ -1,0 +1,53 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Anúncio da morte dos primogênitos\\par }Iahweh disse a Moisés: “Farei vir mais uma praga ainda contra Faraó e contra o Egito. Então, ele vos deixará partir daqui. Quando ele vos enviar, estará acabado, e ele até mesmo vos expulsará daqui.",
+      "reference": "Ex 11:1"
+    },
+    "2": {
+      "text": "Dize, pois, ao povo, que todo homem peça ao seu vizinho, e toda mulher à sua vizinha, objetos de prata e ouro”.",
+      "reference": "Ex 11:2"
+    },
+    "3": {
+      "text": "E Iahweh fez com que o seu povo encontrasse graça aos olhos dos egípcios. Moisés era também um grande homem na terra do Egito, aos olhos dos servos de Faraó e aos olhos do povo. \\par",
+      "reference": "Ex 11:3"
+    },
+    "4": {
+      "text": "Moisés disse: “Assim diz Iahweh: à meia-noite passarei pelo meio do Egito.",
+      "reference": "Ex 11:4"
+    },
+    "5": {
+      "text": "E todo o primogênito morrerá na terra do Egito, desde o primogênito de Faraó, que deveria sentar-se em seu trono, até o primogênito da escrava que está à mó, e até mesmo os primogênitos do gado.",
+      "reference": "Ex 11:5"
+    },
+    "6": {
+      "text": "Haverá então na terra do Egito um grande clamor como nunca houve antes, nem haverá jamais.",
+      "reference": "Ex 11:6"
+    },
+    "7": {
+      "text": "Mas, entre todos os filhos de Israel, desde os homens até aos animais, não se ouvirá ganir um cão, para que saibais que Iahweh fez uma distinção entre o Egito e Israel.",
+      "reference": "Ex 11:7"
+    },
+    "8": {
+      "text": "Então, todos estes teus servos descerão a mim, e se inclinarão diante de mim, dizendo: ‘Sai, tu e todo o povo que te segue’. Depois disto sairei”. E, ardendo em ira, saiu da presença de Faraó. \\par",
+      "reference": "Ex 11:8"
+    },
+    "9": {
+      "text": "Iahweh disse a Moisés: “Faraó não vos ouvirá, para que se multipliquem os meus prodígios na terra do Egito”.",
+      "reference": "Ex 11:9"
+    },
+    "10": {
+      "text": "Moisés e Aarão fizeram todos esses prodígios diante de Faraó. Mas Iahweh endureceu o coração de Faraó, e ele não deixou os filhos de Israel partirem da sua terra. \\par",
+      "reference": "Ex 11:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

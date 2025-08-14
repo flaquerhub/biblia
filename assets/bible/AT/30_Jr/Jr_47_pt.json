@@ -1,0 +1,41 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 47,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Oráculo contra os filisteus\\par }Palavra de Iahweh que foi dirigida ao profeta Jeremias sobre os filisteus, antes que o Faraó atacasse Gaza:",
+      "reference": "Jr 47:1"
+    },
+    "2": {
+      "text": "Assim disse Iahweh. \\par Eis as águas que sobem do Norte \\par e se tornam uma torrente inundante; \\par elas inundam a terra e o seu conteúdo, \\par as cidades e os que nelas habitam. \\par Os homens gritam, e gemem \\par todos os habitantes da terra, \\par",
+      "reference": "Jr 47:2"
+    },
+    "3": {
+      "text": "ao barulho dos cascos de seus cavalos, \\par ao ruído de seus carros, ao estrondo de suas rodas. \\par Os pais não se voltam para os filhos, \\par dado o enfraquecimento de suas mãos, \\par",
+      "reference": "Jr 47:3"
+    },
+    "4": {
+      "text": "por causa do dia que chegou \\par para arrasar todos os filisteus, \\par para cortar de Tiro e Sidônia \\par todo resto de auxiliar. \\par Porque Iahweh arrasou os filisteus, \\par o resto da ilha de Cáftor. \\par",
+      "reference": "Jr 47:4"
+    },
+    "5": {
+      "text": "Impuseram a tonsura a Gaza, \\par Ascalon foi aniquilada. \\par Tu, que restas de seu vale, \\par até quando farás incisões em ti? \\par",
+      "reference": "Jr 47:5"
+    },
+    "6": {
+      "text": "Ah! Espada de Iahweh, \\par até quando estarás sem repouso? \\par Volta à tua bainha, \\par basta, acalma-te! \\par",
+      "reference": "Jr 47:6"
+    },
+    "7": {
+      "text": "– Como poderá repousar, \\par se Iahweh lhe deu ordens? \\par Para Ascalon e as margens do mar, \\par para lá ele a convocou. \\par",
+      "reference": "Jr 47:7"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 7
+}

@@ -1,0 +1,117 @@
+{
+  "book": 48,
+  "book_name": "Gálatas",
+  "book_abbr": "Gl",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Galatians",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. Parênese}\\par }{\\qc\\b\\i A liberdade cristã\\par }É para a liberdade que Cristo nos libertou. Permanecei firmes, portanto, e não vos deixeis prender de novo ao jugo da escravidão.",
+      "reference": "Gl 5:1"
+    },
+    "2": {
+      "text": "Atenção! Eu, Paulo, vos digo: se vos fizerdes circuncidar, Cristo de nada vos servirá.",
+      "reference": "Gl 5:2"
+    },
+    "3": {
+      "text": "Declaro de novo a todo homem que se faz circuncidar: ele está obrigado a observar toda a Lei.",
+      "reference": "Gl 5:3"
+    },
+    "4": {
+      "text": "Rompestes com Cristo, vós que buscais a justiça na Lei; caístes fora da graça.",
+      "reference": "Gl 5:4"
+    },
+    "5": {
+      "text": "Nós, com efeito, aguardamos, no Espírito, a esperança da justiça que vem da fé.",
+      "reference": "Gl 5:5"
+    },
+    "6": {
+      "text": "Pois, em Cristo Jesus, nem a circuncisão tem valor, nem a incircuncisão, mas a fé agindo pela caridade.",
+      "reference": "Gl 5:6"
+    },
+    "7": {
+      "text": "Corríeis bem; quem vos pôs obstáculos para não obedecerdes à verdade?",
+      "reference": "Gl 5:7"
+    },
+    "8": {
+      "text": "Esta sugestão não vem daquele que vos chama.",
+      "reference": "Gl 5:8"
+    },
+    "9": {
+      "text": "Um pouco de fermento leveda toda a massa.",
+      "reference": "Gl 5:9"
+    },
+    "10": {
+      "text": "Eu confio em vós no Senhor que vós não pensais diversamente. Aquele, porém, que vos perturba sofrerá a condenação, seja lá qual for.",
+      "reference": "Gl 5:10"
+    },
+    "11": {
+      "text": "Quanto a mim, irmãos, se eu ainda prego a circuncisão, por que sou ainda perseguido? Pois estaria eliminado o escândalo da cruz!",
+      "reference": "Gl 5:11"
+    },
+    "12": {
+      "text": "Que se façam mutilar de uma vez aqueles que vos inquietam! \\par",
+      "reference": "Gl 5:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Liberdade e caridade\\par }Vós fostes chamados à liberdade, irmãos. Entretanto, que a liberdade não sirva de pretexto para a carne, mas, pela caridade, colocai-vos a serviço uns dos outros.",
+      "reference": "Gl 5:13"
+    },
+    "14": {
+      "text": "Pois toda a Lei está contida numa só palavra: {\\i Amarás a teu próximo como a ti mesmo.}",
+      "reference": "Gl 5:14"
+    },
+    "15": {
+      "text": "Mas se vos mordeis e vos devorais reciprocamente, cuidado, não aconteça que vos elimineis uns aos outros. \\par",
+      "reference": "Gl 5:15"
+    },
+    "16": {
+      "text": "Ora, eu vos digo, conduzi-vos pelo Espírito e não satisfareis os desejos da carne.",
+      "reference": "Gl 5:16"
+    },
+    "17": {
+      "text": "Pois a carne tem aspirações contrárias ao espírito e o espírito contrárias à carne. Eles se opõem reciprocamente, de sorte que não fazeis o que quereis.",
+      "reference": "Gl 5:17"
+    },
+    "18": {
+      "text": "Mas se vos deixais guiar pelo Espírito, não estais debaixo da lei.",
+      "reference": "Gl 5:18"
+    },
+    "19": {
+      "text": "Ora, as obras da carne são manifestas: fornicação, impureza, libertinagem,",
+      "reference": "Gl 5:19"
+    },
+    "20": {
+      "text": "idolatria, feitiçaria, ódio, rixas, ciúmes, ira, discussões, discórdia, divisões,",
+      "reference": "Gl 5:20"
+    },
+    "21": {
+      "text": "invejas, bebedeiras, orgias e coisas semelhantes a estas, a respeito das quais eu vos previno, como já vos preveni: os que tais coisas praticam não herdarão o Reino de Deus.",
+      "reference": "Gl 5:21"
+    },
+    "22": {
+      "text": "Mas o fruto do Espírito é amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade,",
+      "reference": "Gl 5:22"
+    },
+    "23": {
+      "text": "mansidão, autodomínio. Contra estas coisas não existe lei.",
+      "reference": "Gl 5:23"
+    },
+    "24": {
+      "text": "Pois os que são de Cristo Jesus crucificaram a carne com suas paixões e seus desejos. \\par",
+      "reference": "Gl 5:24"
+    },
+    "25": {
+      "text": "Se vivemos pelo Espírito, pelo Espírito pautemos também a nossa conduta.",
+      "reference": "Gl 5:25"
+    },
+    "26": {
+      "text": "Não sejamos cobiçosos de vanglória, provocando-nos uns aos outros e invejando-nos uns aos outros. \\par",
+      "reference": "Gl 5:26"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 26
+}

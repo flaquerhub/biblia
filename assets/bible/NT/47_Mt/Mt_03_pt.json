@@ -1,0 +1,81 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. A promulgação do Reino de Deus}\\par 1. PARTE NARRATIVA\\par }{\\qc\\b\\i Pregação de João Batista\\par }Naqueles dias, apareceu João Batista pregando no deserto da Judéia",
+      "reference": "Mt 3:1"
+    },
+    "2": {
+      "text": "e dizendo: “Arrependei-vos, porque o Reino dos Céus está próximo”.",
+      "reference": "Mt 3:2"
+    },
+    "3": {
+      "text": "Pois foi dele que falou o profeta Isaías, ao dizer: \\par {\\i Voz do que clama no deserto: \\par Preparai o caminho do Senhor}, \\par {\\i tornai retas suas veredas.}\\par",
+      "reference": "Mt 3:3"
+    },
+    "4": {
+      "text": "João usava uma roupa de pêlos de camelo e um cinturão de couro em torno dos rins. Seu alimento consistia em gafanhotos e mel silvestre.",
+      "reference": "Mt 3:4"
+    },
+    "5": {
+      "text": "Então vieram até ele Jerusalém, toda a Judéia e toda a região vizinha ao Jordão.",
+      "reference": "Mt 3:5"
+    },
+    "6": {
+      "text": "E eram batizados por ele no rio Jordão, confessando os seus pecados.",
+      "reference": "Mt 3:6"
+    },
+    "7": {
+      "text": "Como visse muitos fariseus e saduceus que vinham ao batismo, disse-lhes: “Raça de víboras, quem vos ensinou a fugir da ira que está para vir?",
+      "reference": "Mt 3:7"
+    },
+    "8": {
+      "text": "Produzi, então, fruto digno de arrependimento",
+      "reference": "Mt 3:8"
+    },
+    "9": {
+      "text": "e não penseis que basta dizer: ‘Temos por pai a Abraão’. Pois eu vos digo que mesmo destas pedras Deus pode suscitar filhos a Abraão.",
+      "reference": "Mt 3:9"
+    },
+    "10": {
+      "text": "O machado já está posto à raiz das árvores e toda árvore que não produzir bom fruto será cortada e lançada ao fogo.",
+      "reference": "Mt 3:10"
+    },
+    "11": {
+      "text": "Eu vos batizo com água para o arrependimento, mas aquele que vem depois de mim é mais forte do que eu. De fato, eu não sou digno nem ao menos de tirar-lhe as sandálias. Ele vos batizará com o Espírito Santo e com fogo.",
+      "reference": "Mt 3:11"
+    },
+    "12": {
+      "text": "A pá está na sua mão: vai limpar sua eira e recolher seu trigo no celeiro: mas, quanto à palha, vai queimá-la num fogo inextinguível”. \\par",
+      "reference": "Mt 3:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Batismo de Jesus\\par }Nesse tempo, veio Jesus da Galiléia ao Jordão até João, a fim de ser batizado por ele.",
+      "reference": "Mt 3:13"
+    },
+    "14": {
+      "text": "Mas João tentava dissuadi-lo, dizendo: “Eu é que tenho necessidade de ser batizado por ti e tu vens a mim?”",
+      "reference": "Mt 3:14"
+    },
+    "15": {
+      "text": "Jesus, porém, respondeu-lhe: “Deixa estar por enquanto, pois assim nos convém cumprir toda a justiça”. E João consentiu. \\par",
+      "reference": "Mt 3:15"
+    },
+    "16": {
+      "text": "Batizado, Jesus subiu imediatamente da água e logo os céus se abriram e ele viu o Espírito de Deus descendo como uma pomba e vindo sobre ele.",
+      "reference": "Mt 3:16"
+    },
+    "17": {
+      "text": "Ao mesmo tempo, uma voz vinda dos céus dizia: “Este é o meu Filho amado, em quem me comprazo”. \\par",
+      "reference": "Mt 3:17"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 17
+}

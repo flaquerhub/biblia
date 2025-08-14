@@ -1,0 +1,81 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b I. Ritual dos sacrifícios\\par }{\\qc\\b\\i Os holocaustos\\par }Iahweh chamou Moisés e da Tenda da Reunião falou-lhe, dizendo: \\par",
+      "reference": "Lv 1:1"
+    },
+    "2": {
+      "text": "“Fala aos filhos de Israel; tu lhes dirás: \\par Quando um de vós apresentar uma oferenda a Iahweh, podereis fazer essa oferenda com animal grande ou pequeno. \\par",
+      "reference": "Lv 1:2"
+    },
+    "3": {
+      "text": "Se a sua oferenda consistir em holocausto de animal grande, oferecerá um macho sem defeito; oferecê-lo-á à entrada da Tenda da Reunião, para que seja aceito perante Iahweh.",
+      "reference": "Lv 1:3"
+    },
+    "4": {
+      "text": "Porá a mão sobre a cabeça da vítima e esta será aceita para que se faça por ele o rito de expiação.",
+      "reference": "Lv 1:4"
+    },
+    "5": {
+      "text": "Em seguida imolará o novilho diante de Iahweh, e os filhos de Aarão, os sacerdotes, oferecerão o sangue. Eles o derramarão ao redor sobre o altar que se encontra à entrada da Tenda da Reunião.",
+      "reference": "Lv 1:5"
+    },
+    "6": {
+      "text": "Em seguida esfolará a vítima e a dividirá em quartos,",
+      "reference": "Lv 1:6"
+    },
+    "7": {
+      "text": "e os filhos de Aarão, os sacerdotes, porão fogo sobre o altar e colocarão a lenha em ordem sobre o fogo.",
+      "reference": "Lv 1:7"
+    },
+    "8": {
+      "text": "Depois os filhos de Aarão, os sacerdotes, colocarão os quartos, a cabeça e a gordura em cima da lenha que está sobre o fogo do altar.",
+      "reference": "Lv 1:8"
+    },
+    "9": {
+      "text": "O homem lavará com água as entranhas e as patas, e o sacerdote queimará tudo sobre o altar. Este holocausto será uma oferenda queimada de agradável odor a Iahweh. \\par",
+      "reference": "Lv 1:9"
+    },
+    "10": {
+      "text": "Se a sua oferenda consistir em animal pequeno, cordeiro ou cabrito oferecido em holocausto, então oferecerá um macho sem defeito.",
+      "reference": "Lv 1:10"
+    },
+    "11": {
+      "text": "Imolá-lo-á sobre o lado norte do altar, diante de Iahweh, e os filhos de Aarão, os sacerdotes, derramarão o sangue por cima e ao redor do altar.",
+      "reference": "Lv 1:11"
+    },
+    "12": {
+      "text": "Depois ele a dividirá em quartos e o sacerdote colocará essas partes, assim como a cabeça e a gordura, sobre a lenha colocada sobre o fogo do altar.",
+      "reference": "Lv 1:12"
+    },
+    "13": {
+      "text": "O homem lavará as entranhas com água, bem como as patas, e o sacerdote oferecerá tudo e o queimará sobre o altar. Este holocausto será uma oferenda queimada em agradável odor a Iahweh. \\par",
+      "reference": "Lv 1:13"
+    },
+    "14": {
+      "text": "Se a sua oferenda a Iahweh consistir em holocausto de ave, oferecerá uma rola ou um pombinho.",
+      "reference": "Lv 1:14"
+    },
+    "15": {
+      "text": "O sacerdote a oferecerá sobre o altar e, apertando-lhe o pescoço, deslocará a cabeça e a queimará sobre o altar; e fará o seu sangue correr sobre a parede do altar.",
+      "reference": "Lv 1:15"
+    },
+    "16": {
+      "text": "Tirar-lhe-á, então, o papo e as penas; lançá-los-á ao lado oriental do altar, no lugar das cinzas gordurosas.",
+      "reference": "Lv 1:16"
+    },
+    "17": {
+      "text": "Dividirá o animal em duas metades, uma asa de cada lado, mas sem as separar. O sacerdote queimará o animal no altar, em cima da lenha posta sobre o fogo. Este holocausto será uma oferenda queimada de agradável odor a Iahweh. \\par",
+      "reference": "Lv 1:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

@@ -1,0 +1,189 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Ritual das festas do ano:\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 23:1"
+    },
+    "2": {
+      "text": "“Fala aos filhos de Israel; dize-lhes: \\par (As solenidades de Iahweh, às quais os convocareis, são as minhas santas assembléias.) \\par Estas são as minhas solenidades: \\par",
+      "reference": "Lv 23:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i A. O sábado\\par }Durante seis dias se trabalhará, mas o sétimo dia será dia de repouso completo, dia de santa assembléia, no qual não fareis trabalho algum. Onde quer que habiteis, é sábado para Iahweh. \\par",
+      "reference": "Lv 23:3"
+    },
+    "4": {
+      "text": "Estas são as solenidades de Iahweh, as santas assembléias às quais convocareis os filhos de Israel, no tempo determinado: \\par",
+      "reference": "Lv 23:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i B. A Páscoa e os Ázimos\\par }No primeiro mês, no décimo quarto dia do mês, ao crepúsculo, é Páscoa para Iahweh,",
+      "reference": "Lv 23:5"
+    },
+    "6": {
+      "text": "e, no décimo quinto dia desse mês, é a festa dos Ázimos para Iahweh. Durante sete dias comereis pães sem fermento.",
+      "reference": "Lv 23:6"
+    },
+    "7": {
+      "text": "No primeiro dia, tereis santa assembléia; não fareis nenhuma obra servil.",
+      "reference": "Lv 23:7"
+    },
+    "8": {
+      "text": "Durante sete dias apresentareis uma oferenda queimada a Iahweh. No sétimo dia, dia de santa assembléia, não fareis nenhuma obra servil”. \\par",
+      "reference": "Lv 23:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i C. O primeiro feixe\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 23:9"
+    },
+    "10": {
+      "text": "“Fala aos filhos de Israel; tu lhe dirás: \\par Quando tiverdes entrado na terra que vos dou e fizerdes nela a ceifa, trareis ao sacerdote o primeiro feixe de vossa ceifa.",
+      "reference": "Lv 23:10"
+    },
+    "11": {
+      "text": "Ele o oferecerá diante de Iahweh, com gesto de apresentação, para que sejais aceitos. No dia seguinte ao sábado, o sacerdote fará esta apresentação",
+      "reference": "Lv 23:11"
+    },
+    "12": {
+      "text": "e, no dia em que fizerdes esta apresentação, oferecereis a Iahweh o holocausto de um cordeiro de um ano, sem defeito.",
+      "reference": "Lv 23:12"
+    },
+    "13": {
+      "text": "A sua oblação, neste dia, será de dois décimos de flor de farinha amassada com azeite, oferenda queimada para Iahweh, em perfume de agradável odor; a sua libação de vinho será de um quarto de hin.",
+      "reference": "Lv 23:13"
+    },
+    "14": {
+      "text": "Não comereis pão, nem espigas tostadas ou pão cozido antes deste dia, isto é, antes de terdes trazido a oferenda de vosso Deus. É uma lei perpétua para os vossos descendentes, onde quer que habiteis. \\par",
+      "reference": "Lv 23:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i D. A festa das Semanas\\par }A partir do dia seguinte ao sábado, desde o dia em que tiverdes trazido o feixe de apresentação, contareis sete semanas completas.",
+      "reference": "Lv 23:15"
+    },
+    "16": {
+      "text": "Contareis cinqüenta dias até o dia seguinte ao sétimo sábado e oferecereis então a Iahweh uma nova oblação.",
+      "reference": "Lv 23:16"
+    },
+    "17": {
+      "text": "Trareis das vossas habitações o pão para ser oferecido em gesto de apresentação, feito em duas partes, de dois décimos de flor de farinha cozida com fermento, como primícias a Iahweh.",
+      "reference": "Lv 23:17"
+    },
+    "18": {
+      "text": "Oferecereis, além do pão, sete cordeiros de um ano, sem defeito, um novilho e dois carneiros como holocausto a Iahweh, acompanhados de uma oblação e de uma libação, oferendas queimadas em perfume de agradável odor a Iahweh.",
+      "reference": "Lv 23:18"
+    },
+    "19": {
+      "text": "Fareis também com um bode um sacrifício pelo pecado, e com dois cordeiros de um ano um sacrifício de comunhão.",
+      "reference": "Lv 23:19"
+    },
+    "20": {
+      "text": "O sacerdote os oferecerá com gesto de apresentação diante de Iahweh, além do pão das primícias. De igual modo os dois cordeiros, pois são coisas santas a Iahweh e que pertencerão ao sacerdote. \\par",
+      "reference": "Lv 23:20"
+    },
+    "21": {
+      "text": "Nesse mesmo dia, fareis uma convocação; esta será para vós uma assembléia santa e não fareis nenhuma obra servil. É lei perpétua para vossos descendentes, onde quer que habiteis. \\par",
+      "reference": "Lv 23:21"
+    },
+    "22": {
+      "text": "Quando segardes a messe na vossa terra, não segarás até o limite extremo do teu campo e não respigarás a tua messe. Deixarás isso para o pobre e para o estrangeiro. Eu sou Iahweh vosso Deus”. \\par",
+      "reference": "Lv 23:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i E. O primeiro dia do sétimo mês\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 23:23"
+    },
+    "24": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: \\par No sétimo mês, o primeiro dia do mês será para vós dia de repouso, comemoração com som de trombeta, santa assembléia.",
+      "reference": "Lv 23:24"
+    },
+    "25": {
+      "text": "Não fareis nenhuma obra servil e apresentareis oferenda queimada a Iahweh”. \\par",
+      "reference": "Lv 23:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i F. O dia das Expiações\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 23:26"
+    },
+    "27": {
+      "text": "“Mas o décimo dia do sétimo mês é o dia das Expiações. Tereis santa assembléia. Jejuareis e apresentareis oferenda queimada a Iahweh.",
+      "reference": "Lv 23:27"
+    },
+    "28": {
+      "text": "Nesse dia não fareis trabalho algum, pois é o dia das Expiações, quando se fará por vós o rito de expiação diante de Iahweh vosso Deus.",
+      "reference": "Lv 23:28"
+    },
+    "29": {
+      "text": "E toda pessoa que não jejuar nesse dia será eliminada do seu povo;",
+      "reference": "Lv 23:29"
+    },
+    "30": {
+      "text": "e toda pessoa que fizer algum trabalho nesse dia, eu a exterminarei do meio do seu povo.",
+      "reference": "Lv 23:30"
+    },
+    "31": {
+      "text": "Nenhum trabalho fareis; é uma lei perpétua para vossos descendentes, onde quer que habiteis.",
+      "reference": "Lv 23:31"
+    },
+    "32": {
+      "text": "Será para vós um dia de repouso completo. Jejuareis e, à tarde do nono dia do mês, desde essa tarde até à tarde seguinte, cessareis completamente o trabalho”. \\par",
+      "reference": "Lv 23:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i G. A festa das Tendas\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 23:33"
+    },
+    "34": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: \\par No décimo quinto dia deste sétimo mês haverá, durante sete dias, a festa das Tendas para Iahweh.",
+      "reference": "Lv 23:34"
+    },
+    "35": {
+      "text": "No primeiro dia, dia de santa assembléia, não fareis nenhuma obra servil.",
+      "reference": "Lv 23:35"
+    },
+    "36": {
+      "text": "Durante sete dias apresentareis oferenda queimada a Iahweh. No oitavo dia haverá santa assembléia e apresentareis oferenda queimada a Iahweh. É dia de reunião solene, e não fareis nenhuma obra servil. \\par",
+      "reference": "Lv 23:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i Conclusão\\par }Estas são as solenidades de Iahweh, para as quais convocareis os filhos de Israel, assembléias santas destinadas a apresentar oferendas queimadas a Iahweh, holocaustos, oblações, sacrifícios, libações, segundo o ritual próprio de cada dia,",
+      "reference": "Lv 23:37"
+    },
+    "38": {
+      "text": "além dos sábados de Iahweh, das dádivas, dos votos e das oferendas voluntárias que fareis a Iahweh. \\par",
+      "reference": "Lv 23:38"
+    },
+    "39": {
+      "text": "\\par {\\qc\\b\\i Continuação sobre a festa das Tendas\\par }Mas no décimo quinto dia do sétimo mês, quando tiverdes colhido os produtos da terra, celebrareis a festa de Iahweh durante sete dias. O primeiro e o oitavo dias serão dias de repouso.",
+      "reference": "Lv 23:39"
+    },
+    "40": {
+      "text": "No primeiro dia tomareis frutos formosos, ramos de palmeiras, ramos de árvores frondosas e de salgueiros das ribeiras, e vos regozijareis durante sete dias na presença de Iahweh vosso Deus.",
+      "reference": "Lv 23:40"
+    },
+    "41": {
+      "text": "Celebrareis assim uma festa para Iahweh, sete dias por ano. É lei perpétua para vossos descendentes. \\par No sétimo mês fareis esta festa.",
+      "reference": "Lv 23:41"
+    },
+    "42": {
+      "text": "Habitareis durante sete dias em cabanas. Todos os naturais de Israel habitarão em cabanas,",
+      "reference": "Lv 23:42"
+    },
+    "43": {
+      "text": "para que os vossos descendentes saibam que eu fiz os filhos de Israel habitar em cabanas, quando os fiz sair da terra do Egito. Eu sou Iahweh vosso Deus. \\par",
+      "reference": "Lv 23:43"
+    },
+    "44": {
+      "text": "E Moisés proclamou aos filhos de Israel as solenidades de Iahweh”. \\par",
+      "reference": "Lv 23:44"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 44
+}

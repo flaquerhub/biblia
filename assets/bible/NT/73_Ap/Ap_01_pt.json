@@ -1,0 +1,93 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Prólogo\\par }Revelação de Jesus Cristo: Deus lha concedeu para que mostrasse aos seus servos {\\i as coisas que devem acontecer} muito em breve. Ele a manifestou com sinais por meio de seu Anjo, enviado ao seu servo João,",
+      "reference": "Ap 1:1"
+    },
+    "2": {
+      "text": "o qual atesta tudo quanto viu como sendo a Palavra de Deus e o Testemunho de Jesus Cristo.",
+      "reference": "Ap 1:2"
+    },
+    "3": {
+      "text": "Feliz o leitor e os ouvintes das palavras desta profecia, se observarem o que nela está escrito, pois o Tempo está próximo. \\par",
+      "reference": "Ap 1:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b {\\i I. As cartas às Igrejas da Ásia}\\par }{\\qc\\b\\i Endereço\\par }João, às sete Igrejas que estão na Ásia: a vós graça e paz da parte d’“Aquele-que-é, Aquele-que-era e Aquele-que-vem”, da parte dos sete Espíritos que estão diante do seu trono,",
+      "reference": "Ap 1:4"
+    },
+    "5": {
+      "text": "e da parte de Jesus Cristo, {\\i a Testemunha fiel, o Primogênito} dos mortos, {\\i o Príncipe dos reis da terra.} Àquele que nos ama, e que nos lavou de nossos pecados com seu sangue,",
+      "reference": "Ap 1:5"
+    },
+    "6": {
+      "text": "e fez de nós {\\i uma Realeza e Sacerdotes} para Deus, seu Pai, a ele pertencem a glória e o domínio pelos séculos dos séculos. Amém. \\par",
+      "reference": "Ap 1:6"
+    },
+    "7": {
+      "text": "Eis que {\\i ele vem com as nuvens, \\par e todos os olhos o verão, \\par até mesmo os que o transpassaram,} \\par {\\i e todas as tribos} da terra \\par {\\i baterão no peito por causa dele. \\par Sim! Amém!} \\par",
+      "reference": "Ap 1:7"
+    },
+    "8": {
+      "text": "Eu sou o Alfa e o Ômega, diz o Senhor Deus, “Aquele-que-é, Aquele-que-era e Aquele-que-vem”, o Todo-poderoso. \\par",
+      "reference": "Ap 1:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Visão preparatória\\par }Eu, João, vosso irmão e companheiro na tribulação, na realeza e na perseverança em Jesus, encontrava-me na ilha de Patmos, por causa da Palavra de Deus e do Testemunho de Jesus.",
+      "reference": "Ap 1:9"
+    },
+    "10": {
+      "text": "No dia do Senhor fui movido pelo Espírito, e ouvi atrás de mim uma voz forte, como de trombeta, ordenando:",
+      "reference": "Ap 1:10"
+    },
+    "11": {
+      "text": "“Escreve o que vês, num livro, e envia-o às sete Igrejas: a Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodicéia”.",
+      "reference": "Ap 1:11"
+    },
+    "12": {
+      "text": "Voltei-me para ver a voz que me falava; ao voltar-me, vi sete candelabros de ouro",
+      "reference": "Ap 1:12"
+    },
+    "13": {
+      "text": "e, no meio dos candelabros, {\\i alguém semelhante a um filho de Homem}, vestido como uma túnica longa e cingido à altura do peito com um {\\i cinto de ouro.}",
+      "reference": "Ap 1:13"
+    },
+    "14": {
+      "text": "{\\i Os cabelos de sua cabeça eram brancos como lã branca}, como neve; {\\i e seus olhos pareciam} uma chama {\\i de fogo.}",
+      "reference": "Ap 1:14"
+    },
+    "15": {
+      "text": "{\\i Os pés tinham o aspecto do bronze} quando está incandescente no forno, {\\i e sua voz era como o estrondo de águas torrenciais.}",
+      "reference": "Ap 1:15"
+    },
+    "16": {
+      "text": "Na mão direita ele tinha sete estrelas, e de sua boca saía uma espada afiada, com dois gumes. Sua face era como o sol, quando brilha com todo seu esplendor. \\par",
+      "reference": "Ap 1:16"
+    },
+    "17": {
+      "text": "Ao vê-lo, caí como morto a seus pés. Ele, porém, colocou a mão direita sobre mim assegurando: “Não temas! Eu sou o {\\i Primeiro e o Último,}",
+      "reference": "Ap 1:17"
+    },
+    "18": {
+      "text": "o Vivente; estive morto, mas eis que estou vivo pelos séculos dos séculos, e tenho as chaves da Morte e do Hades.",
+      "reference": "Ap 1:18"
+    },
+    "19": {
+      "text": "Escreve, pois, o que viste: tanto as coisas presentes como {\\i as que deverão acontecer depois destas.}",
+      "reference": "Ap 1:19"
+    },
+    "20": {
+      "text": "Quanto ao mistério das sete estrelas que viste em minha mão direita e aos sete candelabros de ouro: as sete estrelas são os Anjos das sete Igrejas, e os sete candelabros as sete Igrejas. \\par",
+      "reference": "Ap 1:20"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 20
+}

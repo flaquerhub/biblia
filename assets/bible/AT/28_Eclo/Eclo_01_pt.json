@@ -1,0 +1,133 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "{\\super (1)} \\par {\\qc\\b {\\i Prólogo do tradutor}\\par }Visto que a Lei, os Profetas {\\super (2)} e os outros escritores, que se seguiram a eles, deram-nos tantas e tão grandes lições, {\\super (3)} pelas quais convém louvar Israel por sua instrução e sua sabedoria, {\\super (4)} e como, além do mais, é um dever não apenas adquirir ciência pela leitura, {\\super (5)} mas, ainda, uma vez instruído, colocar-se a serviço dos de fora, {\\super (6)} por palavras e por escritos: {\\super (7)} meu avô Jesus, depois de dedicar-se intensamente à leitura {\\super (8)} da Lei, {\\super (9)} dos Profetas e {\\super (10)} dos outros livros dos antepassados, {\\super (11)} e depois de adquirir neles uma grande experiência, {\\super (12)} ele próprio sentiu necessidade de escrever algo sobre a instrução e a sabedoria, {\\super (13)} a fim de que os que amam a instrução, submetendo-se a essas disciplinas, {\\super (14)} progridam muito mais no viver segundo a Lei. \\par  {\\super (15)} Sois, portanto, convidados {\\super (16)} a ler {\\super (17)} com benevolência e atenção {\\super (18)} e a serdes indulgentes {\\super (19)} onde, a despeito do esforço de interpretação, parecermos {\\super (20)} enfraquecer algumas das expressões: {\\super (21)} é que não tem a mesma força, {\\super (22)} quando se traduz para uma outra língua, aquilo que é dito originariamente em hebraico; {\\super (23)} não só este livro, {\\super (24)} mas a própria Lei, os Profetas {\\super (25)} e o resto dos livros {\\super (26)} têm grande diferença nos originais. \\par  {\\super (27)} Ora, no trigésimo oitavo ano do falecido rei Evergetes, {\\super (28)} indo ao Egito e sendo-lhe contemporâneo, {\\super (29)} encontrei uma vida segundo uma alta sabedoria, {\\super (30)} e eu julguei muito necessário dedicar cuidado e esforço para traduzir este livro. {\\super (31)} Dediquei muitas vigílias e ciência {\\super (32)} durante este período, {\\super (33)} a fim de levar a bom termo o trabalho e publicar o livro {\\super (34)} para os que, fora da pátria, desejam instruir-se, {\\super (35)} reformar os costumes e viver conforme a Lei. \\par \\par {\\qc\\b {\\i I. Coleção de sentenças}\\par }{\\qc\\b\\i A origem da sabedoria\\par }Toda sabedoria vem do Senhor, \\par ela está junto dele desde sempre. \\par",
+      "reference": "Eclo 1:1"
+    },
+    "2": {
+      "text": "A areia do mar, os pingos da chuva, \\par os dias da eternidade, quem os poderá contar? \\par",
+      "reference": "Eclo 1:2"
+    },
+    "3": {
+      "text": "A altura do céu, a amplidão da terra, \\par a profundeza do abismo, quem as poderá explorar? \\par",
+      "reference": "Eclo 1:3"
+    },
+    "4": {
+      "text": "Antes de todas essas coisas foi criada a Sabedoria, \\par e a inteligência prudente existe desde sempre. \\par",
+      "reference": "Eclo 1:4"
+    },
+    "5": {
+      "text": "*",
+      "reference": "Eclo 1:5"
+    },
+    "6": {
+      "text": "A quem foi revelada a raiz da sabedoria? \\par Seus recursos, quem os conhece? \\par",
+      "reference": "Eclo 1:6"
+    },
+    "7": {
+      "text": "*",
+      "reference": "Eclo 1:7"
+    },
+    "8": {
+      "text": "Só um é sábio, sumamente terrível \\par quando se assenta em seu trono:",
+      "reference": "Eclo 1:8"
+    },
+    "9": {
+      "text": "é o Senhor. \\par Ele a criou, a viu, a enumerou \\par e a difundiu em todas as suas obras, \\par",
+      "reference": "Eclo 1:9"
+    },
+    "10": {
+      "text": "em toda carne segundo sua generosidade, \\par e a doou aos que o amam. \\par",
+      "reference": "Eclo 1:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i O temor de Deus\\par }O temor do Senhor é glória e honra, \\par alegria e coroa de exultação. \\par",
+      "reference": "Eclo 1:11"
+    },
+    "12": {
+      "text": "O temor do Senhor alegra o coração, \\par dá contentamento, gozo e vida longa. \\par",
+      "reference": "Eclo 1:12"
+    },
+    "13": {
+      "text": "Para o que teme ao Senhor tudo terminará bem, \\par no dia de sua morte será abençoado. \\par",
+      "reference": "Eclo 1:13"
+    },
+    "14": {
+      "text": "O princípio da sabedoria é temer ao Senhor, \\par com os fiéis, no seio materno, ela foi criada. \\par",
+      "reference": "Eclo 1:14"
+    },
+    "15": {
+      "text": "Entre os homens, ela fez um ninho, fundação eterna, \\par e com a sua raça ela vive fielmente. \\par",
+      "reference": "Eclo 1:15"
+    },
+    "16": {
+      "text": "A plenitude da sabedoria é temer ao Senhor, \\par ela os inebria com os seus frutos; \\par",
+      "reference": "Eclo 1:16"
+    },
+    "17": {
+      "text": "ela enche toda a sua casa com tesouros \\par e os celeiros com seus produtos. \\par",
+      "reference": "Eclo 1:17"
+    },
+    "18": {
+      "text": "A coroa da sabedoria é o temor do Senhor, \\par ela faz florescer o bem-estar e a saúde. \\par",
+      "reference": "Eclo 1:18"
+    },
+    "19": {
+      "text": "O Senhor a viu e a enumerou, \\par ele fez chover a ciência e a inteligência, \\par exaltou a glória daqueles que a possuem. \\par",
+      "reference": "Eclo 1:19"
+    },
+    "20": {
+      "text": "A raiz da sabedoria é temer ao Senhor, \\par os seus ramos são uma vida longa. \\par",
+      "reference": "Eclo 1:20"
+    },
+    "21": {
+      "text": "*",
+      "reference": "Eclo 1:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Paciência e domínio de si\\par }A paixão do ímpio não poderá justificá-lo, \\par porque o ímpeto de sua cólera é a sua ruína. \\par",
+      "reference": "Eclo 1:22"
+    },
+    "23": {
+      "text": "O paciente resistirá até o momento oportuno, \\par mas depois a alegria brotará para ele. \\par",
+      "reference": "Eclo 1:23"
+    },
+    "24": {
+      "text": "Até o momento oportuno calará suas razões, \\par mas os lábios de muitos narrarão sua inteligência. \\par",
+      "reference": "Eclo 1:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Sabedoria e retidão\\par }Nos tesouros da sabedoria estão as máximas da ciência, \\par mas para o pecador a religião é execrável. \\par",
+      "reference": "Eclo 1:25"
+    },
+    "26": {
+      "text": "Desejas a sabedoria? Guarda os mandamentos \\par e o Senhor dar-ta-á em profusão; \\par",
+      "reference": "Eclo 1:26"
+    },
+    "27": {
+      "text": "porque o temor do Senhor é sabedoria e instrução, \\par e seu agrado é fé e mansidão. \\par",
+      "reference": "Eclo 1:27"
+    },
+    "28": {
+      "text": "Não desobedeças ao temor do Senhor \\par e não vás a ele com um coração fingido. \\par",
+      "reference": "Eclo 1:28"
+    },
+    "29": {
+      "text": "Não sejas hipócrita diante do mundo \\par e cuida de teus lábios. \\par",
+      "reference": "Eclo 1:29"
+    },
+    "30": {
+      "text": "Não te eleves para não caíres \\par e atraíres sobre ti a vergonha, \\par porque o Senhor revelará os teus segredos \\par e, no meio da assembléia, te precipitará, \\par pois não te aproximaste do temor do Senhor, \\par e o teu coração está cheio de fraude.",
+      "reference": "Eclo 1:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

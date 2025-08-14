@@ -1,0 +1,45 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 124,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 124 (123)\\par }{\\qc\\b\\i O salvador de Israel\\par }{\\qc\\i Cântico das subidas. De Davi. \\par } Não estivesse Iahweh do nosso lado \\par – Israel que o diga – \\par",
+      "reference": "Sl 124:1"
+    },
+    "2": {
+      "text": "não estivesse Iahweh do nosso lado \\par quando os homens nos assaltaram... \\par",
+      "reference": "Sl 124:2"
+    },
+    "3": {
+      "text": "Ter-nos-iam tragado vivos, \\par tal o fogo de sua ira! \\par",
+      "reference": "Sl 124:3"
+    },
+    "4": {
+      "text": "As águas nos teriam inundado, \\par a torrente chegando ao pescoço; \\par",
+      "reference": "Sl 124:4"
+    },
+    "5": {
+      "text": "as águas espumejantes \\par chegariam ao nosso pescoço! \\par",
+      "reference": "Sl 124:5"
+    },
+    "6": {
+      "text": "Bendito seja Iahweh! Não nos entregou \\par como presas a seus dentes; \\par",
+      "reference": "Sl 124:6"
+    },
+    "7": {
+      "text": "fugimos vivos, como um pássaro \\par da rede do caçador: \\par a rede se rompeu e nós escapamos. \\par",
+      "reference": "Sl 124:7"
+    },
+    "8": {
+      "text": "O socorro nosso é o nome de Iahweh, \\par que fez o céu e a terra! \\par",
+      "reference": "Sl 124:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

@@ -1,0 +1,137 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Filho, não recuses ao pobre o seu sustento, \\par não desvies teus olhos do miserável. \\par",
+      "reference": "Eclo 4:1"
+    },
+    "2": {
+      "text": "Não faças sofrer aquele que tem fome, \\par não irrites o homem na sua indigência. \\par",
+      "reference": "Eclo 4:2"
+    },
+    "3": {
+      "text": "Não agites mais um coração desesperado, \\par não recuses teu dom ao necessitado. \\par",
+      "reference": "Eclo 4:3"
+    },
+    "4": {
+      "text": "Não rejeites o pedinte oprimido, \\par não desvies teu rosto do pobre. \\par",
+      "reference": "Eclo 4:4"
+    },
+    "5": {
+      "text": "Do que pede não desvies teu olhar, \\par não lhe dês motivo para te amaldiçoar, \\par",
+      "reference": "Eclo 4:5"
+    },
+    "6": {
+      "text": "pois amaldiçoando-te em sua amargura, \\par o seu Criador atenderá seu clamor. \\par",
+      "reference": "Eclo 4:6"
+    },
+    "7": {
+      "text": "Faz com que a comunidade te ame, \\par diante de um grande abaixa a tua cabeça. \\par",
+      "reference": "Eclo 4:7"
+    },
+    "8": {
+      "text": "Inclina teu ouvido ao pobre \\par e responde-lhe à saudação com afabilidade. \\par",
+      "reference": "Eclo 4:8"
+    },
+    "9": {
+      "text": "Arranca o injustiçado da mão do injusto \\par e não sejas medroso no teu julgar. \\par",
+      "reference": "Eclo 4:9"
+    },
+    "10": {
+      "text": "Sê para os órfãos como um pai \\par e como um marido para suas mães. \\par E serás como um filho do Altíssimo, \\par ele, mais do que tua mãe, amar-te-á. \\par",
+      "reference": "Eclo 4:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A Sabedoria educadora\\par }A Sabedoria eleva os seus filhos \\par e cuida dos que a procuram. \\par",
+      "reference": "Eclo 4:11"
+    },
+    "12": {
+      "text": "Os que a amam, amam a vida, \\par os que a procuram desde a manhã ficarão cheios de alegria. \\par",
+      "reference": "Eclo 4:12"
+    },
+    "13": {
+      "text": "Aquele que se apega a ela herdará a glória; \\par por onde for, o Senhor o abençoará. \\par",
+      "reference": "Eclo 4:13"
+    },
+    "14": {
+      "text": "Aqueles que a servem prestam um culto ao Santo, \\par e o Senhor ama os que a amam. \\par",
+      "reference": "Eclo 4:14"
+    },
+    "15": {
+      "text": "Aquele que a ouve julgará as nações, \\par o que a ela se aplica habitará em segurança. \\par",
+      "reference": "Eclo 4:15"
+    },
+    "16": {
+      "text": "Se alguém nela confia, a possuirá em herança \\par e no seu gozo estará a sua descendência. \\par",
+      "reference": "Eclo 4:16"
+    },
+    "17": {
+      "text": "Pois, primeiro, caminhará com ele em sentido inteiramente contrário \\par e lhe incutirá temor e tremor, \\par e o provará com sua disciplina até que confie nela \\par e ela o tente com suas exigências, \\par",
+      "reference": "Eclo 4:17"
+    },
+    "18": {
+      "text": "depois, voltará a ele em linha reta, o alegrará \\par e lhe desvendará seus segredos. \\par",
+      "reference": "Eclo 4:18"
+    },
+    "19": {
+      "text": "Se ele se desviar, ela o abandonará \\par e o entregará às mãos da própria ruína. \\par",
+      "reference": "Eclo 4:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Pudor e respeito humano\\par }Leva em conta a ocasião e guarda-te do mal, \\par não te envergonhes de ti mesmo. \\par",
+      "reference": "Eclo 4:20"
+    },
+    "21": {
+      "text": "Pois há uma vergonha que conduz ao pecado \\par e há uma vergonha que é glória e graça. \\par",
+      "reference": "Eclo 4:21"
+    },
+    "22": {
+      "text": "Não sejas muito severo contigo \\par nem te envergonhes de tua queda. \\par",
+      "reference": "Eclo 4:22"
+    },
+    "23": {
+      "text": "Não retenhas a palavra quando ela pode salvar, \\par não ocultes a tua sabedoria. \\par",
+      "reference": "Eclo 4:23"
+    },
+    "24": {
+      "text": "Porque é pelo discurso que se conhece a sabedoria \\par e pela palavra, a instrução. \\par",
+      "reference": "Eclo 4:24"
+    },
+    "25": {
+      "text": "Não contradigas a verdade \\par e cora-te de tua ignorância. \\par",
+      "reference": "Eclo 4:25"
+    },
+    "26": {
+      "text": "Não te envergonhes de confessar os teus pecados, \\par não resistas à correnteza do rio. \\par",
+      "reference": "Eclo 4:26"
+    },
+    "27": {
+      "text": "Não te submetas a um insensato, \\par não sejas parcial em favor do poderoso. \\par",
+      "reference": "Eclo 4:27"
+    },
+    "28": {
+      "text": "Até à morte luta pela verdade \\par e o Senhor Deus combaterá por ti. \\par",
+      "reference": "Eclo 4:28"
+    },
+    "29": {
+      "text": "Não sejas atrevido com a tua língua, \\par preguiçoso e indolente em teus atos. \\par",
+      "reference": "Eclo 4:29"
+    },
+    "30": {
+      "text": "Não sejas como um leão em tua casa \\par e um covarde com teus domésticos. \\par",
+      "reference": "Eclo 4:30"
+    },
+    "31": {
+      "text": "Que a tua mão não seja aberta para receber \\par e fechada para retribuir. \\par",
+      "reference": "Eclo 4:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

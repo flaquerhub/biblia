@@ -1,0 +1,153 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Convites providenciais ao arrependimento\\par }Nesse momento, vieram algumas pessoas que lhe contaram o que acontecera com os galileus, cujo sangue Pilatos havia misturado com o das suas vítimas.",
+      "reference": "Lc 13:1"
+    },
+    "2": {
+      "text": "Tomando a palavra, ele disse: “Acreditais que, por terem sofrido tal sorte, esses galileus eram mais pecadores do que todos os outros galileus?",
+      "reference": "Lc 13:2"
+    },
+    "3": {
+      "text": "Não, eu vos digo; todavia, se não vos arrependerdes, perecereis todos do mesmo modo.",
+      "reference": "Lc 13:3"
+    },
+    "4": {
+      "text": "Ou os dezoito que a torre de Siloé matou em sua queda, julgais que a sua culpa tenha sido maior do que a de todos os habitantes de Jerusalém?",
+      "reference": "Lc 13:4"
+    },
+    "5": {
+      "text": "Não, eu vos digo: mas, se não vos arrependerdes, perecereis todos de modo semelhante”. \\par",
+      "reference": "Lc 13:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Parábola da figueira estéril\\par }Contou ainda esta parábola: “Um homem tinha uma figueira plantada em sua vinha. Veio a ela procurar frutos, mas não encontrou.",
+      "reference": "Lc 13:6"
+    },
+    "7": {
+      "text": "Então disse ao vinhateiro: ‘Há três anos que venho buscar frutos nesta figueira e não encontro. Corta-a; por que há de tornar a terra infrutífera?’",
+      "reference": "Lc 13:7"
+    },
+    "8": {
+      "text": "Ele, porém, respondeu: ‘Senhor, deixa-a ainda este ano para que eu cave ao redor e coloque adubo.",
+      "reference": "Lc 13:8"
+    },
+    "9": {
+      "text": "Depois, talvez, dê frutos... Caso contrário, tu a cortarás’”. \\par",
+      "reference": "Lc 13:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Cura da mulher encurvada, em dia de sábado\\par }Ora, ele estava ensinando numa das sinagogas aos sábados.",
+      "reference": "Lc 13:10"
+    },
+    "11": {
+      "text": "E eis que se encontrava lá uma mulher, possuída havia dezoito anos por um espírito que a tornava enferma; estava inteiramente recurvada e não podia de modo algum endireitar-se.",
+      "reference": "Lc 13:11"
+    },
+    "12": {
+      "text": "Vendo-a, Jesus chamou-a e disse: “Mulher, estás livre de tua doença”,",
+      "reference": "Lc 13:12"
+    },
+    "13": {
+      "text": "e lhe impôs as mãos. No mesmo instante, ela se endireitou e glorificava a Deus. \\par",
+      "reference": "Lc 13:13"
+    },
+    "14": {
+      "text": "O chefe da sinagoga, porém, ficou indignado por Jesus ter feito uma cura no sábado e, tomando a palavra, disse à multidão: “Há seis dias para o trabalho; portanto, vinde nesses dias para serdes curados, e não no dia de sábado!”",
+      "reference": "Lc 13:14"
+    },
+    "15": {
+      "text": "O Senhor, porém, replicou: “Hipócritas! Cada um de vós, no sábado, não solta seu boi ou seu asno do estábulo para levá-lo a beber?",
+      "reference": "Lc 13:15"
+    },
+    "16": {
+      "text": "E esta filha de Abraão que Satanás prendeu há dezoito anos, não convinha soltá-la no dia de sábado?”",
+      "reference": "Lc 13:16"
+    },
+    "17": {
+      "text": "Ao falar assim, todos os adversários ficaram envergonhados, enquanto a multidão inteira se alegrava com todas as maravilhas que ele realizava. \\par",
+      "reference": "Lc 13:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Parábola do grão de mostarda\\par }Dizia, portanto: “A que é semelhante o Reino de Deus e a que hei de compará-lo?",
+      "reference": "Lc 13:18"
+    },
+    "19": {
+      "text": "É semelhante a um grão de mostarda que um homem tomou e lançou em sua horta; ele cresce, torna-se árvore, e {\\i as aves do céu se abrigam em seus ramos}”. \\par",
+      "reference": "Lc 13:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Parábola do fermento\\par }Disse ainda: “A que compararei o Reino de Deus?",
+      "reference": "Lc 13:20"
+    },
+    "21": {
+      "text": "É semelhante ao fermento que uma mulher tomou e escondeu em três medidas de farinha, até que tudo ficasse fermentado”. \\par",
+      "reference": "Lc 13:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i A porta estreita, a rejeição dos judeus infiéis e o chamado dos pagãos\\par }Jesus atravessava cidades e povoados, ensinando e encaminhando-se para Jerusalém.",
+      "reference": "Lc 13:22"
+    },
+    "23": {
+      "text": "E alguém lhe perguntou: “Senhor, é pequeno o número dos que se salvam?” Ele respondeu:",
+      "reference": "Lc 13:23"
+    },
+    "24": {
+      "text": "“Esforçai-vos por entrar pela porta estreita, pois eu vos digo que muitos procurarão entrar e não conseguirão.",
+      "reference": "Lc 13:24"
+    },
+    "25": {
+      "text": "Uma vez que o dono da casa houver se levantado e tiver fechado a porta e vós, de fora, começardes a bater à porta, dizendo: ‘Senhor, abre-nos’, ele vos responderá: ‘Não sei de onde sois’.",
+      "reference": "Lc 13:25"
+    },
+    "26": {
+      "text": "Então começareis a dizer: ‘Nós comíamos e bebíamos em tua presença, e tu ensinaste em nossas praças’.",
+      "reference": "Lc 13:26"
+    },
+    "27": {
+      "text": "Ele, porém, vos responderá: ‘Não sei de onde sois; {\\i afastai-vos de mim, vós todos, que cometeis injustiça!}’ \\par",
+      "reference": "Lc 13:27"
+    },
+    "28": {
+      "text": "Lá haverá choro e ranger de dentes, quando virdes Abraão, Isaac, Jacó e todos os profetas no reino de Deus, e vós, porém, lançados fora.",
+      "reference": "Lc 13:28"
+    },
+    "29": {
+      "text": "Eles virão {\\i do oriente e do ocidente}, do norte e do sul, e tomarão lugar à mesa no Reino de Deus. \\par",
+      "reference": "Lc 13:29"
+    },
+    "30": {
+      "text": "Eis que há últimos que serão primeiros, e primeiros que serão últimos”. \\par",
+      "reference": "Lc 13:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Herodes, uma raposa\\par }Na mesma hora, aproximaram-se alguns fariseus que lhe disseram: “Parte e vai-te daqui, porque Herodes quer te matar”.",
+      "reference": "Lc 13:31"
+    },
+    "32": {
+      "text": "Ele respondeu: “Ide dizer a essa raposa: Eis que eu expulso demônios e realizo curas hoje e amanhã e no terceiro dia terei consumado!",
+      "reference": "Lc 13:32"
+    },
+    "33": {
+      "text": "Mas hoje, amanhã e depois de amanhã, devo prosseguir o meu caminho, pois não convém que um profeta pereça fora de Jerusalém. \\par",
+      "reference": "Lc 13:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Palavra sobre Jerusalém\\par }Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te foram enviados, quantas vezes quis eu reunir teus filhos como a galinha recolhe seus pintainhos debaixo das asas, mas não quiseste!",
+      "reference": "Lc 13:34"
+    },
+    "35": {
+      "text": "Eis que {\\i vossa casa ficará abandonada.} Sim, eu vos digo, não me vereis até o dia em que direis: \\par {\\i Bendito aquele que vem em nome do Senhor! }\\par",
+      "reference": "Lc 13:35"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 35
+}

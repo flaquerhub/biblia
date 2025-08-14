@@ -1,0 +1,237 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 33,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As etapas do Êxodo\\par }Estas são as etapas que os filhos de Israel percorreram, desde que saíram da terra do Egito, segundo os seus esquadrões, sob a direção de Moisés e Aarão.",
+      "reference": "Nm 33:1"
+    },
+    "2": {
+      "text": "Moisés registrou os seus pontos de partida, quando saíram sob a ordem de Iahweh. Estas são as suas etapas, segundo os seus pontos de partida. \\par",
+      "reference": "Nm 33:2"
+    },
+    "3": {
+      "text": "Partiram de Ramsés no primeiro mês. No décimo quinto dia do primeiro mês, no dia seguinte à Páscoa, partiram de mão erguida, aos olhos de todo o Egito.",
+      "reference": "Nm 33:3"
+    },
+    "4": {
+      "text": "Os egípcios sepultavam aqueles que dentre eles foram feridos por Iahweh, todos os primogênitos; Iahweh fez justiça contra os seus deuses. \\par",
+      "reference": "Nm 33:4"
+    },
+    "5": {
+      "text": "Os filhos de Israel partiram de Ramsés e acamparam em Sucot.",
+      "reference": "Nm 33:5"
+    },
+    "6": {
+      "text": "Em seguida partiram de Sucot e acamparam em Etam, que está nos limites do deserto.",
+      "reference": "Nm 33:6"
+    },
+    "7": {
+      "text": "Partiram de Etam e voltaram em direção de Piairot, que está diante de Baal-Sefon, e acamparam diante de Magdol.",
+      "reference": "Nm 33:7"
+    },
+    "8": {
+      "text": "Partiram de Piairot e alcançaram o deserto, depois de terem atravessado o mar, e depois de três dias de marcha no deserto de Etam acamparam em Mara.",
+      "reference": "Nm 33:8"
+    },
+    "9": {
+      "text": "Partiram de Mara e chegaram a Elim. Em Elim havia doze fontes de água e setenta palmeiras; ali acamparam.",
+      "reference": "Nm 33:9"
+    },
+    "10": {
+      "text": "Partiram de Elim e acamparam junto ao mar dos Juncos.",
+      "reference": "Nm 33:10"
+    },
+    "11": {
+      "text": "Em seguida partiram do mar dos Juncos e acamparam no deserto de Sin.",
+      "reference": "Nm 33:11"
+    },
+    "12": {
+      "text": "Partiram do deserto de Sin e acamparam em Dafca.",
+      "reference": "Nm 33:12"
+    },
+    "13": {
+      "text": "Partiram de Dafca e acamparam em Alus.",
+      "reference": "Nm 33:13"
+    },
+    "14": {
+      "text": "Partiram de Alus e acamparam em Rafidim; o povo não encontrou ali água para beber.",
+      "reference": "Nm 33:14"
+    },
+    "15": {
+      "text": "Partiram de Rafidim e acamparam no deserto do Sinai.",
+      "reference": "Nm 33:15"
+    },
+    "16": {
+      "text": "Partiram do deserto do Sinai e acamparam em Cibrot-ataava.",
+      "reference": "Nm 33:16"
+    },
+    "17": {
+      "text": "Partiram de Cibrot-ataava e acamparam em Haserot.",
+      "reference": "Nm 33:17"
+    },
+    "18": {
+      "text": "Partiram de Haserot e acamparam em Retma.",
+      "reference": "Nm 33:18"
+    },
+    "19": {
+      "text": "Partiram de Retma e acamparam em Remon-Farés.",
+      "reference": "Nm 33:19"
+    },
+    "20": {
+      "text": "Partiram de Remon-Farés e acamparam em Lebna.",
+      "reference": "Nm 33:20"
+    },
+    "21": {
+      "text": "Partiram de Lebna e acamparam em Ressa.",
+      "reference": "Nm 33:21"
+    },
+    "22": {
+      "text": "Partiram de Ressa e acamparam em Ceelata.",
+      "reference": "Nm 33:22"
+    },
+    "23": {
+      "text": "Partiram de Ceelata e acamparam no monte Séfer.",
+      "reference": "Nm 33:23"
+    },
+    "24": {
+      "text": "Partiram do monte Séfer e acamparam em Harada.",
+      "reference": "Nm 33:24"
+    },
+    "25": {
+      "text": "Partiram de Harada e acamparam em Macelot.",
+      "reference": "Nm 33:25"
+    },
+    "26": {
+      "text": "Partiram de Macelot e acamparam em Taat.",
+      "reference": "Nm 33:26"
+    },
+    "27": {
+      "text": "Partiram de Taat e acamparam em Taré.",
+      "reference": "Nm 33:27"
+    },
+    "28": {
+      "text": "Partiram de Taré e acamparam em Matca.",
+      "reference": "Nm 33:28"
+    },
+    "29": {
+      "text": "Partiram de Matca e acamparam em Hesmona.",
+      "reference": "Nm 33:29"
+    },
+    "30": {
+      "text": "Partiram de Hesmona e acamparam em Moserot.",
+      "reference": "Nm 33:30"
+    },
+    "31": {
+      "text": "Partiram de Moserot e acamparam em Benê-Jacã.",
+      "reference": "Nm 33:31"
+    },
+    "32": {
+      "text": "Partiram de Benê-Jacã e acamparam em Hor-Gadgad.",
+      "reference": "Nm 33:32"
+    },
+    "33": {
+      "text": "Partiram de Hor-Gadgad e acamparam em Jetebata.",
+      "reference": "Nm 33:33"
+    },
+    "34": {
+      "text": "Partiram de Jetebata e acamparam em Ebrona.",
+      "reference": "Nm 33:34"
+    },
+    "35": {
+      "text": "Partiram de Ebrona e acamparam em Asiongaber.",
+      "reference": "Nm 33:35"
+    },
+    "36": {
+      "text": "Partiram de Asiongaber e acamparam no deserto de Sin, que é Cades.",
+      "reference": "Nm 33:36"
+    },
+    "37": {
+      "text": "Partiram de Cades e acamparam na montanha de Hor, nos confins da terra de Edom.",
+      "reference": "Nm 33:37"
+    },
+    "38": {
+      "text": "Aarão, o sacerdote, subiu à montanha de Hor, segundo a ordem de Iahweh, e lá morreu, no quadragésimo ano da saída dos filhos de Israel da terra do Egito, no quinto mês, no primeiro dia do mês.",
+      "reference": "Nm 33:38"
+    },
+    "39": {
+      "text": "Aarão tinha cento e vinte e três anos quando morreu na montanha de Hor.",
+      "reference": "Nm 33:39"
+    },
+    "40": {
+      "text": "O rei de Arad, cananeu que habitava no Negueb, na terra de Canaã, foi informado da chegada dos filhos de Israel.",
+      "reference": "Nm 33:40"
+    },
+    "41": {
+      "text": "Partiram da montanha de Hor e acamparam em Salmona.",
+      "reference": "Nm 33:41"
+    },
+    "42": {
+      "text": "Partiram de Salmona e acamparam em Finon.",
+      "reference": "Nm 33:42"
+    },
+    "43": {
+      "text": "Partiram de Finon e acamparam em Obot.",
+      "reference": "Nm 33:43"
+    },
+    "44": {
+      "text": "Partiram de Obot e acamparam no território de Moab, em Jeabarim.",
+      "reference": "Nm 33:44"
+    },
+    "45": {
+      "text": "Partiram de Jeabarim e acamparam em Dibon-Gad.",
+      "reference": "Nm 33:45"
+    },
+    "46": {
+      "text": "Partiram de Dibon-Gad e acamparam em Elmon-Deblataim.",
+      "reference": "Nm 33:46"
+    },
+    "47": {
+      "text": "Partiram de Elmon-Deblataim e acamparam nos montes de Abarim, defronte do Nebo.",
+      "reference": "Nm 33:47"
+    },
+    "48": {
+      "text": "Partiram dos montes de Abarim e acamparam nas estepes de Moab, junto do Jordão, em direção a Jericó.",
+      "reference": "Nm 33:48"
+    },
+    "49": {
+      "text": "Acamparam junto do Jordão, entre Bet-Jesimot e Abel-Setim, nas estepes de Moab. \\par",
+      "reference": "Nm 33:49"
+    },
+    "50": {
+      "text": "\\par {\\qc\\b\\i Partilha de Canaã. A ordem de Deus\\par }Iahweh falou a Moisés, nas estepes de Moab, junto do Jordão, em direção a Jericó. Disse: \\par",
+      "reference": "Nm 33:50"
+    },
+    "51": {
+      "text": "“Fala aos filhos de Israel; tu lhes dirás: \\par Quando tiverdes atravessado o Jordão, em direção à terra de Canaã,",
+      "reference": "Nm 33:51"
+    },
+    "52": {
+      "text": "expulsareis de diante de vós todos os habitantes da terra. Destruireis as suas imagens esculpidas, todas as suas estátuas de metal fundido, e demolireis todos os seus lugares altos.",
+      "reference": "Nm 33:52"
+    },
+    "53": {
+      "text": "Tomareis posse da terra e nela habitareis, pois vos dei esta terra para a possuirdes.",
+      "reference": "Nm 33:53"
+    },
+    "54": {
+      "text": "Dividireis a terra, por sorte, entre os vossos clãs. Àquele que é mais numeroso dareis uma parte maior na herança e àquele que é menos numeroso dareis uma parte menor na herança. Onde a sorte cair para cada um, aí será a sua herança. Fareis a divisão entre as vossas tribos.",
+      "reference": "Nm 33:54"
+    },
+    "55": {
+      "text": "Contudo, se não expulsardes de diante de vós os habitantes da terra, aqueles que deixardes dentre eles se tornarão espinhos nos vossos olhos e aguilhões nas vossas ilhargas, vos hostilizarão na terra em que habitardes,",
+      "reference": "Nm 33:55"
+    },
+    "56": {
+      "text": "e farei convosco aquilo que pensei fazer com eles”. \\par",
+      "reference": "Nm 33:56"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 56
+}

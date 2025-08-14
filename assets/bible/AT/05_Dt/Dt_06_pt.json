@@ -1,0 +1,113 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "São estes os mandamentos, os estatutos e as normas que Iahweh vosso Deus ordenou ensinar-vos, para que os coloqueis em prática na terra para a qual passais, a fim de tomardes posse dela,",
+      "reference": "Dt 6:1"
+    },
+    "2": {
+      "text": "e, assim, temas a Iahweh teu Deus e observes todos os seus estatutos e mandamentos que eu hoje te ordeno – tu, teu filho e teu neto –, todos os dias da tua vida, para que os teus dias se prolonguem.",
+      "reference": "Dt 6:2"
+    },
+    "3": {
+      "text": "Portanto, ó Israel, ouve e cuida de pôr em prática o que será bom para ti e multiplicará muito, conforme te disse Iahweh, Deus dos teus pais, ao entregar-te uma terra onde mana leite e mel. \\par",
+      "reference": "Dt 6:3"
+    },
+    "4": {
+      "text": "Ouve, ó Israel: Iahweh nosso Deus é o único Iahweh!",
+      "reference": "Dt 6:4"
+    },
+    "5": {
+      "text": "Portanto, amarás a Iahweh teu Deus com todo o teu coração, com toda a tua alma e com toda a tua força.",
+      "reference": "Dt 6:5"
+    },
+    "6": {
+      "text": "Que estas palavras que hoje te ordeno estejam em teu coração!",
+      "reference": "Dt 6:6"
+    },
+    "7": {
+      "text": "Tu as inculcarás aos teus filhos, e delas falarás sentado em tua casa e andando em teu caminho, deitado e de pé.",
+      "reference": "Dt 6:7"
+    },
+    "8": {
+      "text": "Tu as atarás também à tua mão como um sinal, e serão como um frontal entre os teus olhos;",
+      "reference": "Dt 6:8"
+    },
+    "9": {
+      "text": "tu as escreverás nos umbrais da tua casa, e nas tuas portas. \\par",
+      "reference": "Dt 6:9"
+    },
+    "10": {
+      "text": "Quando Iahweh teu Deus te introduzir na terra que ele, sob juramento, prometeu a teus pais – Abraão, Isaac e Jacó – que te daria, nas cidades grandes e boas que não edificaste,",
+      "reference": "Dt 6:10"
+    },
+    "11": {
+      "text": "nas casas cheias de tudo o que é bom, casas que não encheste; poços abertos que não cavaste; vinhas e olivais que não plantaste; quando, pois, comeres e estiveres saciado,",
+      "reference": "Dt 6:11"
+    },
+    "12": {
+      "text": "fica atento a ti mesmo! Não te esqueças de Iahweh, que te fez sair da terra do Egito, da casa da escravidão!",
+      "reference": "Dt 6:12"
+    },
+    "13": {
+      "text": "É a Iahweh teu Deus que temerás. A ele servirás e pelo seu nome jurarás. \\par",
+      "reference": "Dt 6:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Apelo à fidelidade\\par }Não seguireis outros deuses, qualquer um dos deuses dos povos que estão ao vosso redor,",
+      "reference": "Dt 6:14"
+    },
+    "15": {
+      "text": "pois Iahweh teu Deus é um Deus ciumento, que habita em teu meio. A cólera de Iahweh teu Deus se inflamaria contra ti, e ele te exterminaria da face da terra.",
+      "reference": "Dt 6:15"
+    },
+    "16": {
+      "text": "Não tentareis a Iahweh vosso Deus como o tentastes em Massa.",
+      "reference": "Dt 6:16"
+    },
+    "17": {
+      "text": "Observareis cuidadosamente os mandamentos de Iahweh vosso Deus, bem como os testemunhos e estatutos que ele te ordenou.",
+      "reference": "Dt 6:17"
+    },
+    "18": {
+      "text": "Farás o que é reto e bom aos olhos de Iahweh, para que tudo te corra bem e venhas a possuir a boa terra que Iahweh prometeu aos teus pais,",
+      "reference": "Dt 6:18"
+    },
+    "19": {
+      "text": "expulsando da tua frente todos os teus inimigos. Assim falou Iahweh! \\par",
+      "reference": "Dt 6:19"
+    },
+    "20": {
+      "text": "Amanhã, quando o teu filho te perguntar: ‘Que são estes testemunhos e estatutos e normas que Iahweh nosso Deus vos ordenou?’,",
+      "reference": "Dt 6:20"
+    },
+    "21": {
+      "text": "dirás ao teu filho: ‘Nós éramos escravos do Faraó no Egito, mas Iahweh nos fez sair do Egito com mão forte.",
+      "reference": "Dt 6:21"
+    },
+    "22": {
+      "text": "Aos nossos olhos Iahweh realizou sinais e prodígios grandes e terríveis contra o Egito, contra o Faraó e toda a sua casa.",
+      "reference": "Dt 6:22"
+    },
+    "23": {
+      "text": "Quanto a nós, porém, fez-nos sair de lá para nos introduzir e nos dar a terra que, sob juramento, havia prometido aos nossos pais.",
+      "reference": "Dt 6:23"
+    },
+    "24": {
+      "text": "Iahweh ordenou-nos então cumprirmos todos estes estatutos, temendo a Iahweh nosso Deus, para que tudo nos corra bem, todos os dias; para dar-nos a vida, como hoje se vê.",
+      "reference": "Dt 6:24"
+    },
+    "25": {
+      "text": "Esta será a nossa justiça: cuidarmos de pôr em prática todos estes mandamentos diante de Iahweh nosso Deus, conforme nos ordenou’. \\par",
+      "reference": "Dt 6:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

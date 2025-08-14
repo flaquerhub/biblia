@@ -1,0 +1,37 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A propósito da tomada de Azoto\\par }No mesmo ano em que o comandante enviado por Sargon, rei da Assíria, veio a Azoto, atacando-a e tomando-a,",
+      "reference": "Is 20:1"
+    },
+    "2": {
+      "text": "falou Iahweh por intermédio de Isaías, filho de Amós, e disse: “Eia, tira o pano de saco de sobre os teus lombos e descalça os sapatos dos teus pés”. Ele assim fez, andando nu e descalço.",
+      "reference": "Is 20:2"
+    },
+    "3": {
+      "text": "Então disse Iahweh: “Da mesma maneira que o meu servo Isaías andou nu e descalço durante três anos – sinal e presságio que diz respeito ao Egito e a Cuch –,",
+      "reference": "Is 20:3"
+    },
+    "4": {
+      "text": "dessa mesma maneira o rei da Assíria levará os cativos do Egito e os exilados de Cuch – jovens e velhos – nus e descalços, com as nádegas descobertas – vergonha do Egito!",
+      "reference": "Is 20:4"
+    },
+    "5": {
+      "text": "Eles ficarão apavorados e envergonhados por causa de Cuch, a sua esperança, e por causa do Egito, o seu orgulho.",
+      "reference": "Is 20:5"
+    },
+    "6": {
+      "text": "Naquele dia dirão os habitantes destas costas: ‘Eis o que ficou da nossa esperança, à qual recorremos para o nosso socorro, a fim de nos livrarmos do rei da Assíria. Como havemos de nos salvar agora?’”\\par",
+      "reference": "Is 20:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

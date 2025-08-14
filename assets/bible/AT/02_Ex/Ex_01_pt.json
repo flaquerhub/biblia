@@ -1,0 +1,101 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i I. A libertação do Egito}\\par 1. ISRAEL NO EGITO\\par }{\\qc\\b\\i A prosperidade dos hebreus no Egito\\par }Eis os nomes dos filhos de Israel que entraram no Egito: com Jacó cada qual entrou com sua família:",
+      "reference": "Ex 1:1"
+    },
+    "2": {
+      "text": "Rúben, Simeão, Levi e Judá,",
+      "reference": "Ex 1:2"
+    },
+    "3": {
+      "text": "Issacar, Zabulon e Benjamim,",
+      "reference": "Ex 1:3"
+    },
+    "4": {
+      "text": "Dã e Neftali, Gad e Aser.",
+      "reference": "Ex 1:4"
+    },
+    "5": {
+      "text": "Os descendentes de Jacó eram, ao todo, setenta pessoas. José, porém, já estava no Egito.",
+      "reference": "Ex 1:5"
+    },
+    "6": {
+      "text": "Depois José morreu, bem como todos os seus irmãos e toda aquela geração.",
+      "reference": "Ex 1:6"
+    },
+    "7": {
+      "text": "Os filhos de Israel foram fecundos e se multiplicaram; tornaram-se cada vez mais numerosos e poderosos, a tal ponto que o país ficou repleto deles. \\par",
+      "reference": "Ex 1:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i A opressão dos hebreus\\par }Levantou-se sobre o Egito um novo rei, que não conhecia José.",
+      "reference": "Ex 1:8"
+    },
+    "9": {
+      "text": "Ele disse à sua gente: “Eis que o povo dos filhos de Israel tornou-se mais numeroso e mais poderoso do que nós.",
+      "reference": "Ex 1:9"
+    },
+    "10": {
+      "text": "Vinde, tomemos sábias medidas para impedir que ele cresça; pois do contrário, em caso de guerra, aumentará o número dos nossos adversários e combaterá contra nós, para depois sair do país”.",
+      "reference": "Ex 1:10"
+    },
+    "11": {
+      "text": "Portanto impuseram a Israel inspetores de obras para tornar-lhe dura a vida com os trabalhos que lhe exigiam. Foi assim que ele construiu para Faraó as cidades armazéns de Pitom e de Ramsés.",
+      "reference": "Ex 1:11"
+    },
+    "12": {
+      "text": "Mas, quanto mais os oprimiam, tanto mais se multiplicavam e cresciam; e os egípcios se inquietavam por causa dos filhos de Israel.",
+      "reference": "Ex 1:12"
+    },
+    "13": {
+      "text": "Os egípcios obrigavam os filhos de Israel ao trabalho,",
+      "reference": "Ex 1:13"
+    },
+    "14": {
+      "text": "e tornavam-lhes amarga a vida com duros trabalhos: a preparação da argila, a fabricação de tijolos, vários trabalhos nos campos, e toda espécie de trabalhos aos quais os obrigavam. \\par",
+      "reference": "Ex 1:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i A história das parteiras\\par }O rei do Egito disse às parteiras dos hebreus, das quais uma se chamava Sefra e a outra Fua:",
+      "reference": "Ex 1:15"
+    },
+    "16": {
+      "text": "“Quando ajudardes as hebréias a darem à luz, observai as duas pedras. Se for menino, matai-o. Se for menina, deixai-a viver”.",
+      "reference": "Ex 1:16"
+    },
+    "17": {
+      "text": "As parteiras, porém, temeram a Deus e não fizeram o que o rei do Egito lhes havia ordenado, e deixaram os meninos viverem.",
+      "reference": "Ex 1:17"
+    },
+    "18": {
+      "text": "Assim, pois, o rei do Egito chamou as parteiras e lhes disse: “Por que agiste deste modo, e deixastes os meninos viverem?”",
+      "reference": "Ex 1:18"
+    },
+    "19": {
+      "text": "Elas responderam a Faraó: “As mulheres dos hebreus não são como as egípcias. São cheias de vida e, antes que as parteiras cheguem, já deram à luz”.",
+      "reference": "Ex 1:19"
+    },
+    "20": {
+      "text": "Por isso Deus favoreceu essas parteiras; e o povo tornou-se muito numeroso e muito poderoso.",
+      "reference": "Ex 1:20"
+    },
+    "21": {
+      "text": "E porque as parteiras temeram a Deus, ele lhes deu uma posteridade.",
+      "reference": "Ex 1:21"
+    },
+    "22": {
+      "text": "Então, Faraó ordenou a todo o seu povo: “Jogai no Rio todo menino que nascer. Mas, deixai viver as meninas”. \\par",
+      "reference": "Ex 1:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

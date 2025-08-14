@@ -1,0 +1,145 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 3. A GRANDE ASSEMBLÉIA DE SIQUÉM\\par }Josué reuniu todas as tribos de Israel em Siquém; convocou todos os anciãos de Israel, seus chefes, seus juízes e seus oficiais, que se colocaram ordenadamente na presença de Deus.",
+      "reference": "Js 24:1"
+    },
+    "2": {
+      "text": "Disse então Josué a todo o povo: “Assim diz Iahweh, o Deus de Israel: Além do Rio habitavam outrora os vossos pais, Taré, pai de Abraão e de Nacor, e serviram a outros deuses.",
+      "reference": "Js 24:2"
+    },
+    "3": {
+      "text": "Eu, porém, tomei vosso pai Abraão do outro lado do Rio e o fiz percorrer toda a terra de Canaã, multipliquei a sua descendência e lhe dei Isaac.",
+      "reference": "Js 24:3"
+    },
+    "4": {
+      "text": "A Isaac dei Jacó e Esaú. A Esaú dei em herança a montanha de Seir. Jacó e seus filhos desceram ao Egito.",
+      "reference": "Js 24:4"
+    },
+    "5": {
+      "text": "Em seguida enviei Moisés e Aarão e feri o Egito com os prodígios que operei no meio dele; depois vos fiz sair de lá.",
+      "reference": "Js 24:5"
+    },
+    "6": {
+      "text": "Eu fiz, portanto, os vossos pais saírem do Egito e chegastes ao mar; os egípcios perseguiram vossos pais com carros e cavaleiros, até o mar dos Juncos.",
+      "reference": "Js 24:6"
+    },
+    "7": {
+      "text": "Clamaram então a Iahweh, que interpôs uma nuvem espessa entre vós e os egípcios, e fez o mar voltar-se sobre eles e cobri-los. Vós vistes com os vossos próprios olhos o que eu fiz no Egito, e depois habitastes no deserto por longos dias.",
+      "reference": "Js 24:7"
+    },
+    "8": {
+      "text": "Daí eu vos fiz entrar na terra dos amorreus que habitavam além do Jordão. Eles vos fizeram guerra e eu os entreguei nas vossas mãos e assim tomastes posse da sua terra, pois os destruí diante de vós.",
+      "reference": "Js 24:8"
+    },
+    "9": {
+      "text": "Levantou-se então Balac, filho de Sefor, rei de Moab, para fazer guerra a Israel, e mandou chamar Balaão, filho de Beor, para vos amaldiçoar.",
+      "reference": "Js 24:9"
+    },
+    "10": {
+      "text": "Eu, porém, não quis ouvir Balaão; ele teve de vos abençoar e eu vos salvei da sua mão. \\par",
+      "reference": "Js 24:10"
+    },
+    "11": {
+      "text": "Em seguida, passastes o Jordão para chegar a Jericó, mas os habitantes de Jericó vos fizeram guerra, os amorreus, os ferezeus, os cananeus, os heteus, os gergeseus, os heveus e os jebuseus, e eu os entreguei nas vossas mãos.",
+      "reference": "Js 24:11"
+    },
+    "12": {
+      "text": "Enviei vespas diante de vós, que expulsaram da vossa presença os dois reis amorreus, o que não deves nem à tua espada, nem ao teu arco.",
+      "reference": "Js 24:12"
+    },
+    "13": {
+      "text": "Dei-vos uma terra que não exigiu de vós nenhum trabalho, cidades que não construístes e nas quais habitais, vinhas e olivais que não plantastes e dos quais comeis. \\par",
+      "reference": "Js 24:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Israel escolhe Iahweh\\par }Agora, pois, temei a Iahweh e servi-o com integridade e com sinceridade; lançai fora os deuses aos quais serviram os vossos pais do outro lado do Rio e no Egito, e servi a Iahweh.",
+      "reference": "Js 24:14"
+    },
+    "15": {
+      "text": "Porém, se não vos parece bem servir a Iahweh, escolhei hoje a quem quereis servir: se aos deuses aos quais serviram vossos pais do outro lado do Rio, ou aos deuses dos amorreus em cuja terra agora habitais. Quanto a mim e à minha família, serviremos a Iahweh”. \\par",
+      "reference": "Js 24:15"
+    },
+    "16": {
+      "text": "Então o povo respondeu: “Longe de nós abandonarmos Iahweh para servirmos a outros deuses!",
+      "reference": "Js 24:16"
+    },
+    "17": {
+      "text": "Iahweh nosso Deus é aquele que nos fez subir, a nós e a nossos pais, da terra do Egito, da casa da escravidão, que fez estes grandes sinais diante dos nossos olhos e nos guardou por todo o caminho que percorremos e por entre todos os povos através dos quais passamos.",
+      "reference": "Js 24:17"
+    },
+    "18": {
+      "text": "E Iahweh expulsou de diante de nós todos os povos, bem como os amorreus que habitavam a terra. Portanto, nós também serviremos a Iahweh, pois ele é nosso Deus”. \\par",
+      "reference": "Js 24:18"
+    },
+    "19": {
+      "text": "Disse então Josué ao povo: “Não podeis servir a Iahweh, pois ele é um Deus santo, um Deus ciumento, que não suportará as vossas transgressões, nem os vossos pecados.",
+      "reference": "Js 24:19"
+    },
+    "20": {
+      "text": "Se abandonardes Iahweh para servirdes a deuses estrangeiros, ele novamente vos fará mal e vos consumirá depois de vos haver feito o bem”. \\par",
+      "reference": "Js 24:20"
+    },
+    "21": {
+      "text": "O povo, porém, respondeu a Josué: “Não! É a Iahweh que serviremos”.",
+      "reference": "Js 24:21"
+    },
+    "22": {
+      "text": "Disse então Josué ao povo: “Sois testemunhas contra vós mesmos de que escolhestes a Iahweh, para o servir”. Responderam então: “Somos testemunhas”.",
+      "reference": "Js 24:22"
+    },
+    "23": {
+      "text": "“Lançai fora, pois, os deuses estrangeiros que estão no meio de vós e inclinai o vosso coração para Iahweh, Deus de Israel”.",
+      "reference": "Js 24:23"
+    },
+    "24": {
+      "text": "O povo disse a Josué: “A Iahweh nosso Deus serviremos e à sua voz obedeceremos”. \\par",
+      "reference": "Js 24:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i A aliança de Siquém\\par }Naquele dia, Josué fez uma aliança pelo povo; fixou-lhe um estatuto e um direito em Siquém.",
+      "reference": "Js 24:25"
+    },
+    "26": {
+      "text": "Josué escreveu essas palavras no livro da Lei de Deus. Tomou em seguida uma grande pedra e a erigiu ali, debaixo do carvalho que está no santuário de Iahweh.",
+      "reference": "Js 24:26"
+    },
+    "27": {
+      "text": "Josué disse, então, a todo o povo: “Eis que esta pedra será um testemunho contra nós, porque ela ouviu todas as palavras que Iahweh nos dirigiu; será um testemunho contra vós, para vos impedir de renegardes vosso Deus”.",
+      "reference": "Js 24:27"
+    },
+    "28": {
+      "text": "Em seguida Josué despediu o povo, e cada um voltou à sua herança. \\par",
+      "reference": "Js 24:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b 4. APÊNDICES\\par }{\\qc\\b\\i Morte de Josué\\par }Depois desses acontecimentos, morreu Josué, filho de Nun, servo de Iahweh, com a idade de cento e dez anos.",
+      "reference": "Js 24:29"
+    },
+    "30": {
+      "text": "Sepultaram-no no território que recebeu por herança, em Tamnat-Sare, que está situado na montanha de Efraim, ao norte do monte Gaás.",
+      "reference": "Js 24:30"
+    },
+    "31": {
+      "text": "Israel serviu a Iahweh durante toda a vida de Josué e durante toda a vida dos anciãos que sobreviveram a Josué e que haviam conhecido todos os feitos que Iahweh havia realizado em favor de Israel. \\par",
+      "reference": "Js 24:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i Os ossos de José. Morte de Eleazar\\par }Os ossos de José, que os filhos de Israel trouxeram do Egito, foram sepultados em Siquém, na parte do campo que Jacó havia comprado dos filhos de Hemor, pai de Siquém, por cem peças de prata e que veio a ser propriedade dos filhos de José.",
+      "reference": "Js 24:32"
+    },
+    "33": {
+      "text": "Morreu depois Eleazar, filho de Aarão, e sepultaram-no em Gabaá, cidade de seu filho Finéias, que lhe foi dada na montanha de Efraim. \\par",
+      "reference": "Js 24:33"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 33
+}

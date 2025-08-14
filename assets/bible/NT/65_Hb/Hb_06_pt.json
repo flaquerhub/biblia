@@ -1,0 +1,93 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O autor expõe a sua intenção\\par }Por isso, deixando de lado o ensinamento elementar a respeito de Cristo, elevemo-nos a uma perfeição adulta, sem ter que voltar aos artigos fundamentais: o arrependimento das obras mortas e a fé em Deus,",
+      "reference": "Hb 6:1"
+    },
+    "2": {
+      "text": "a doutrina sobre os batismos e a imposição das mãos, a ressurreição dos mortos e o julgamento eterno.",
+      "reference": "Hb 6:2"
+    },
+    "3": {
+      "text": "É isto o que faremos, se a tanto Deus nos ajudar! \\par",
+      "reference": "Hb 6:3"
+    },
+    "4": {
+      "text": "De fato, os que uma vez foram iluminados – que saborearam o dom celeste, receberam o Espírito Santo,",
+      "reference": "Hb 6:4"
+    },
+    "5": {
+      "text": "experimentaram a beleza da palavra de Deus e as forças do mundo que há de vir –",
+      "reference": "Hb 6:5"
+    },
+    "6": {
+      "text": "e, não obstante, decaíram, é impossível que renovem a conversão uma segunda vez, porque da sua parte crucificam novamente o Filho de Deus e o expõem às injúrias.",
+      "reference": "Hb 6:6"
+    },
+    "7": {
+      "text": "Pois, a terra que bebe a chuva que lhe vem abundante e produz vegetação útil aos cultivadores, receberá a bênção de Deus.",
+      "reference": "Hb 6:7"
+    },
+    "8": {
+      "text": "Mas, se produzir {\\i espinhos e abrolhos}, é rejeitada, e está perto da {\\i maldição}: acabará sendo queimada. \\par",
+      "reference": "Hb 6:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Palavras de esperança e de encorajamento\\par }Mesmo falando assim, estamos convencidos de que vós, caríssimos, estais do lado bom, o da salvação.",
+      "reference": "Hb 6:9"
+    },
+    "10": {
+      "text": "Pois Deus não é injusto. Não pode esquecer a vossa conduta e o amor que manifestastes por seu nome, vós que servistes e ainda servis os santos.",
+      "reference": "Hb 6:10"
+    },
+    "11": {
+      "text": "Desejamos somente que cada um de vós demonstre o mesmo ardor em levar até o fim o pleno desenvolvimento da esperança,",
+      "reference": "Hb 6:11"
+    },
+    "12": {
+      "text": "para não serdes lentos à compreensão, e sim imitadores daqueles que, pela fé e pela perseverança, recebem a herança das promessas. \\par",
+      "reference": "Hb 6:12"
+    },
+    "13": {
+      "text": "Com efeito, quando Deus fez a promessa a Abraão, não havendo um maior por quem jurasse, {\\i jurou por si mesmo},",
+      "reference": "Hb 6:13"
+    },
+    "14": {
+      "text": "dizendo: {\\i Eu te cumularei de bênçãos e te multiplicarei em grande número.}",
+      "reference": "Hb 6:14"
+    },
+    "15": {
+      "text": "Abraão foi perseverante e viu a promessa se realizar.",
+      "reference": "Hb 6:15"
+    },
+    "16": {
+      "text": "Os homens juram por alguém mais importante, e para impedir qualquer contestação recorrem à garantia do juramento.",
+      "reference": "Hb 6:16"
+    },
+    "17": {
+      "text": "Por isso, Deus mostrou com insistência aos herdeiros da promessa o caráter irrevogável da sua decisão, e interveio com um juramento,",
+      "reference": "Hb 6:17"
+    },
+    "18": {
+      "text": "a fim de que por dois atos irrevogáveis, nos quais não pode haver mentira por parte de Deus, nos comuniquem consolação segura, a nós que tudo deixamos para conseguir a esperança proposta.",
+      "reference": "Hb 6:18"
+    },
+    "19": {
+      "text": "A esperança, com efeito, é para nós qual âncora da alma, segura e firme, {\\i penetrando para além do véu},",
+      "reference": "Hb 6:19"
+    },
+    "20": {
+      "text": "onde Jesus entrou por nós, como precursor, feito {\\i sumo sacerdote para a eternidade, segundo a ordem de Melquisedec.}\\par",
+      "reference": "Hb 6:20"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 20
+}

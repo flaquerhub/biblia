@@ -1,0 +1,149 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Parábola dos trabalhadores da vinha\\par }Porque o Reino dos Céus é semelhante a um pai de família que saiu de manhã cedo para contratar trabalhadores para a sua vinha.",
+      "reference": "Mt 20:1"
+    },
+    "2": {
+      "text": "Depois de combinar com os trabalhadores um denário por dia, mandou-os para a vinha.",
+      "reference": "Mt 20:2"
+    },
+    "3": {
+      "text": "Tornando a sair pela hora terceira, viu outros que estavam na praça, desocupados,",
+      "reference": "Mt 20:3"
+    },
+    "4": {
+      "text": "e disse-lhes: ‘Ide, também vós para a vinha, e eu vos darei o que for justo’.",
+      "reference": "Mt 20:4"
+    },
+    "5": {
+      "text": "Eles foram. Tornando a sair pela hora sexta e pela hora nona, fez a mesma coisa.",
+      "reference": "Mt 20:5"
+    },
+    "6": {
+      "text": "Saindo pela hora undécima, encontrou outros que lá estavam e disse-lhes: ‘Por que ficais aí o dia inteiro desocupados?’",
+      "reference": "Mt 20:6"
+    },
+    "7": {
+      "text": "Responderam: ‘Porque ninguém nos contratou’. Disse-lhes: ‘Ide, também vós, para a vinha’.",
+      "reference": "Mt 20:7"
+    },
+    "8": {
+      "text": "Chegada a tarde, disse o dono da vinha ao seu administrador: ‘Chama os trabalhadores e paga-lhes o salário começando pelos últimos até os primeiros’.",
+      "reference": "Mt 20:8"
+    },
+    "9": {
+      "text": "Vindo os da hora undécima, receberam um denário cada um.",
+      "reference": "Mt 20:9"
+    },
+    "10": {
+      "text": "E vindo os primeiros, pensaram que receberiam mais, mas receberam um denário cada um também eles.",
+      "reference": "Mt 20:10"
+    },
+    "11": {
+      "text": "Ao receber, murmuravam contra o pai de família, dizendo:",
+      "reference": "Mt 20:11"
+    },
+    "12": {
+      "text": "‘Estes últimos fizeram uma hora só e tu os igualaste a nós, que suportamos o peso do dia e o calor do sol’.",
+      "reference": "Mt 20:12"
+    },
+    "13": {
+      "text": "Ele, então, disse a um deles: ‘Amigo, não fui injusto contigo. Não combinaste um denário?",
+      "reference": "Mt 20:13"
+    },
+    "14": {
+      "text": "Toma o que é teu e vai. Eu quero dar a este último o mesmo que a ti.",
+      "reference": "Mt 20:14"
+    },
+    "15": {
+      "text": "Não tenho o direito de fazer o que eu quero com o que é meu? Ou o teu olho é mau porque eu sou bom?’",
+      "reference": "Mt 20:15"
+    },
+    "16": {
+      "text": "Assim, os últimos serão primeiros, e os primeiros serão últimos”. \\par",
+      "reference": "Mt 20:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Terceiro anúncio da paixão\\par }Quando estavam para subir a Jerusalém, ele tomou os Doze a sós e lhes disse, enquanto caminhavam:",
+      "reference": "Mt 20:17"
+    },
+    "18": {
+      "text": "“Eis que estamos subindo a Jerusalém e o Filho do Homem será entregue aos chefes dos sacerdotes e escribas. Eles o condenarão à morte",
+      "reference": "Mt 20:18"
+    },
+    "19": {
+      "text": "e o entregarão aos gentios para ser escarnecido, açoitado e crucificado. Mas no terceiro dia ressuscitará”. \\par",
+      "reference": "Mt 20:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Pedido da mãe dos filhos de Zebedeu\\par }Então a mãe dos filhos de Zebedeu, juntamente com os seus filhos, dirigiu-se a ele, prostrando-se, para fazer-lhe um pedido.",
+      "reference": "Mt 20:20"
+    },
+    "21": {
+      "text": "Ele perguntou: “Que queres?” Ao que ela respondeu: “Dize que estes meus dois filhos se assentem um à tua direita e o outro à tua esquerda, no teu Reino”.",
+      "reference": "Mt 20:21"
+    },
+    "22": {
+      "text": "Jesus, respondendo, disse: “Não sabeis o que estais pedindo. Podeis beber o cálice que estou para beber?” Eles responderam: “Podemos”.",
+      "reference": "Mt 20:22"
+    },
+    "23": {
+      "text": "Então lhes disse: “Sim, bebereis de meu cálice. Todavia, sentar à minha direita e à minha esquerda, não cabe a mim concedê-lo; mas é para aqueles aos quais meu Pai o preparou”. \\par",
+      "reference": "Mt 20:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Os chefes devem servir\\par }Ouvindo isso, os dez ficaram indignados com os dois irmãos.",
+      "reference": "Mt 20:24"
+    },
+    "25": {
+      "text": "Mas Jesus, chamando-os, disse: “Sabeis que os governadores das nações as dominam e os grandes as tiranizam.",
+      "reference": "Mt 20:25"
+    },
+    "26": {
+      "text": "Entre vós não deverá ser assim. Ao contrário, aquele que quiser tornar-se grande entre vós seja aquele que serve,",
+      "reference": "Mt 20:26"
+    },
+    "27": {
+      "text": "e o que quiser ser o primeiro dentre vós, seja o vosso servo.",
+      "reference": "Mt 20:27"
+    },
+    "28": {
+      "text": "Desse modo, o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos”.\\par",
+      "reference": "Mt 20:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Os dois cegos de Jericó\\par }Enquanto saíam de Jericó, uma grande multidão o seguiu.",
+      "reference": "Mt 20:29"
+    },
+    "30": {
+      "text": "E eis dois cegos, sentados à beira do caminho. Ouvindo que Jesus passava, puseram-se a gritar: “Senhor, filho de Davi, tem compaixão de nós!”",
+      "reference": "Mt 20:30"
+    },
+    "31": {
+      "text": "A multidão repreendeu-os para que se calassem. Mas eles gritavam ainda mais alto: “Senhor, filho de Davi, tem compaixão de nós!”",
+      "reference": "Mt 20:31"
+    },
+    "32": {
+      "text": "Jesus parou, chamou-os e disse: “Que quereis que vos faça?” Responderam-lhe:",
+      "reference": "Mt 20:32"
+    },
+    "33": {
+      "text": "“Senhor, que os nossos olhos se abram!”",
+      "reference": "Mt 20:33"
+    },
+    "34": {
+      "text": "Movido de compaixão, Jesus tocou-lhes os olhos e, imediatamente, eles viram. E o seguiram. \\par",
+      "reference": "Mt 20:34"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 34
+}

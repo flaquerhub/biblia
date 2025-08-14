@@ -1,0 +1,129 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os judeus, por sua vez, objeto da ira divina\\par }Por isso és inescusável, ó homem, quem quer que sejas, que te arvoras em juiz. Porque, julgando a outrem, condenas a ti mesmo, pois praticas as mesmas coisas, tu que julgas.",
+      "reference": "Rm 2:1"
+    },
+    "2": {
+      "text": "Sabemos que o julgamento de Deus se exerce segundo a verdade contra aqueles que praticam tais ações.",
+      "reference": "Rm 2:2"
+    },
+    "3": {
+      "text": "Ou pensas tu, ó homem, que julgas os que tais ações praticam e tu mesmo as praticas, que escaparás ao julgamento de Deus?",
+      "reference": "Rm 2:3"
+    },
+    "4": {
+      "text": "Ou desprezas a riqueza da sua bondade, paciência e longanimidade, desconhecendo que a benignidade de Deus te convida à conversão?",
+      "reference": "Rm 2:4"
+    },
+    "5": {
+      "text": "Ora, com tua obstinação e com teu coração impenitente estás acumulando ira para o dia da ira e da revelação da justa sentença de Deus,",
+      "reference": "Rm 2:5"
+    },
+    "6": {
+      "text": "que {\\i retribuirá a cada um segundo suas obras:}",
+      "reference": "Rm 2:6"
+    },
+    "7": {
+      "text": "a vida eterna para aqueles que pela constância no bem visam à glória, à honra e à incorruptibilidade;",
+      "reference": "Rm 2:7"
+    },
+    "8": {
+      "text": "a ira e a indignação para os egoístas, rebeldes à verdade e submissos à injustiça.",
+      "reference": "Rm 2:8"
+    },
+    "9": {
+      "text": "Tribulação e angústia para toda pessoa que pratica o mal, para o judeu em primeiro lugar, mas também para o grego;",
+      "reference": "Rm 2:9"
+    },
+    "10": {
+      "text": "glória, honra e paz para todo aquele que pratica o bem, para o judeu em primeiro lugar e também para o grego.",
+      "reference": "Rm 2:10"
+    },
+    "11": {
+      "text": "Porque {\\i Deus não faz acepção de pessoas.} \\par",
+      "reference": "Rm 2:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Não obstante a Lei\\par }Portanto, todos aqueles que pecaram sem Lei, sem Lei perecerão; e todos aqueles que pecaram com Lei, pela Lei serão julgados.",
+      "reference": "Rm 2:12"
+    },
+    "13": {
+      "text": "Porque não são os que ouvem a Lei que são justos perante Deus, mas os que cumprem a Lei é que serão justificados.",
+      "reference": "Rm 2:13"
+    },
+    "14": {
+      "text": "Quando então os gentios, não tendo Lei, fazem naturalmente o que é prescrito pela Lei, eles, não tendo Lei, para si mesmos são Lei;",
+      "reference": "Rm 2:14"
+    },
+    "15": {
+      "text": "eles mostram a obra da lei gravada em seus corações, dando disto testemunho sua consciência e seus pensamentos que alternadamente se acusam ou defendem...",
+      "reference": "Rm 2:15"
+    },
+    "16": {
+      "text": "no dia em que Deus – segundo o meu evangelho – julgará, por Cristo Jesus, as ações ocultas dos homens. \\par",
+      "reference": "Rm 2:16"
+    },
+    "17": {
+      "text": "Ora, se tu te denominas judeu e descansas na Lei e te glorias em Deus,",
+      "reference": "Rm 2:17"
+    },
+    "18": {
+      "text": "tu que conheces sua vontade e que, instruído pela Lei, sabes discernir o que é melhor,",
+      "reference": "Rm 2:18"
+    },
+    "19": {
+      "text": "que estás convencido de ser o guia dos cegos, a luz dos que andam nas trevas,",
+      "reference": "Rm 2:19"
+    },
+    "20": {
+      "text": "educador dos ignorantes e mestre dos que não sabem, possuindo na Lei a expressão da ciência e da verdade...",
+      "reference": "Rm 2:20"
+    },
+    "21": {
+      "text": "ora tu, que ensinas aos outros, não ensinas a ti mesmo! Pregas que não se deve furtar, e furtas!",
+      "reference": "Rm 2:21"
+    },
+    "22": {
+      "text": "Proíbes o adultério e cometes adultério! Abominas os ídolos e despojas seus templos!",
+      "reference": "Rm 2:22"
+    },
+    "23": {
+      "text": "Tu, que te glorias na Lei, estás desonrando a Deus pela transgressão da Lei,",
+      "reference": "Rm 2:23"
+    },
+    "24": {
+      "text": "pois, como está escrito: por {\\i vossa causa o nome de Deus está sendo blasfemado entre os gentios.} \\par",
+      "reference": "Rm 2:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Não obstante a circuncisão\\par }Certamente a circuncisão é útil, se observas a Lei; mas se és um transgressor da Lei, tua circuncisão torna-se incircuncisão.",
+      "reference": "Rm 2:25"
+    },
+    "26": {
+      "text": "Se, portanto, o incircunciso guardar os preceitos da Lei, porventura sua incircuncisão não será considerada circuncisão?",
+      "reference": "Rm 2:26"
+    },
+    "27": {
+      "text": "E o fisicamente incircunciso, cumpridor da Lei, julgará a ti que, apesar da letra e da circuncisão, és transgressor da Lei.",
+      "reference": "Rm 2:27"
+    },
+    "28": {
+      "text": "Pois o verdadeiro judeu não é aquele que como tal aparece externamente, nem é verdadeira circuncisão a que é visível na carne:",
+      "reference": "Rm 2:28"
+    },
+    "29": {
+      "text": "mas é judeu aquele que o é no interior e a verdadeira circuncisão é a do coração, segundo o espírito e não segundo a letra: aí está quem recebe louvor, não dos homens, mas de Deus. \\par",
+      "reference": "Rm 2:29"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 29
+}

@@ -1,0 +1,105 @@
+{
+  "book": 10,
+  "book_name": "2Samuel",
+  "book_abbr": "2Sm",
+  "book_category": "Histórico",
+  "book_english": "2 Samuel",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Davi e Siba\\par }Havia Davi passado um pouco adiante do cume, quando Siba, o servo de Meribaal, veio ao seu encontro com um par de jumentos albardados, levando uma carga de duzentos pães, cem cachos de passas, cem frutas da estação e um odre de vinho.",
+      "reference": "2Sm 16:1"
+    },
+    "2": {
+      "text": "O rei perguntou a Siba: “Que queres fazer com isso?” Siba respondeu: “Os jumentos servirão de montaria à família real, o pão e as frutas para os moços comerem, e o vinho para os que estiverem cansados no deserto”.",
+      "reference": "2Sm 16:2"
+    },
+    "3": {
+      "text": "Perguntou o rei: “E onde está o filho do teu senhor?” E Siba respondeu ao rei: “Ficou em Jerusalém porque disse: Hoje a casa de Israel me restituirá o reino de meu pai”.",
+      "reference": "2Sm 16:3"
+    },
+    "4": {
+      "text": "Então o rei disse a Siba: “Tudo o que Meribaal possui é teu”. Siba disse: “Eu me prostro diante de ti. Possa eu encontrar graça aos teus olhos, senhor meu rei!” \\par",
+      "reference": "2Sm 16:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Semei maldiz a Davi\\par }Quando o rei Davi chegou a Baurim, surgiu um homem, membro do mesmo clã da família de Saul, cujo nome era Semei, filho de Gera, e saiu proferindo maldições.",
+      "reference": "2Sm 16:5"
+    },
+    "6": {
+      "text": "Atirava pedras em Davi e em todos os oficiais do rei Davi, e por isso todo o exército e todos os valentes se puseram à sua direita e à sua esquerda.",
+      "reference": "2Sm 16:6"
+    },
+    "7": {
+      "text": "Semei amaldiçoava a Davi com estas palavras: “Vai-te! Vai-te! Homem sanguinário, bandido!",
+      "reference": "2Sm 16:7"
+    },
+    "8": {
+      "text": "Iahweh fez cair sobre ti todo o sangue da casa de Saul, cujo trono usurpaste. Assim fez Iahweh, tirando das tuas mãos a realeza para dá-la a teu filho Absalão. Estás entregue à tua própria maldade, porque és homem sanguinário”.",
+      "reference": "2Sm 16:8"
+    },
+    "9": {
+      "text": "Abisaí, filho de Sárvia, disse então ao rei: “Por que este cão morto há de ficar amaldiçoando o senhor meu rei? Deixa-me atravessá-lo e cortar-lhe a cabeça”.",
+      "reference": "2Sm 16:9"
+    },
+    "10": {
+      "text": "Mas o rei respondeu: “Que tenho convosco filhos de Sárvia? Se ele amaldiçoa e se Iahweh lhe ordenou: ‘Amaldiçoa a Davi’, quem poderia dizer-lhe: ‘Por que fazes isso?’”",
+      "reference": "2Sm 16:10"
+    },
+    "11": {
+      "text": "Davi disse a Abisaí e a todos os seus oficiais: “Vede: o filho que saiu das minhas entranhas busca a minha morte. Com mais razão, este benjaminita! Deixai que amaldiçoe, se Iahweh lhe ordenou que o fizesse.",
+      "reference": "2Sm 16:11"
+    },
+    "12": {
+      "text": "Talvez Iahweh considere a minha miséria e me restitua o bem pelas maldições de hoje”.",
+      "reference": "2Sm 16:12"
+    },
+    "13": {
+      "text": "Davi e os seus homens continuaram o seu caminho. Semei ia andando ao lado da montanha, paralelamente a Davi, e, enquanto andava, proferia maldições, atirava pedras e jogava terra para o ar.",
+      "reference": "2Sm 16:13"
+    },
+    "14": {
+      "text": "O rei e todo o povo que o acompanhava chegaram extenuados a..., e lá tomaram fôlego. \\par",
+      "reference": "2Sm 16:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Cusai une-se a Absalão\\par }Absalão entrou em Jerusalém com todos os homens de Israel, e Aquitofel estava com ele.",
+      "reference": "2Sm 16:15"
+    },
+    "16": {
+      "text": "Assim que Cusai, o araquita, amigo de Davi, se aproximou de Absalão, Cusai disse-lhe: “Viva o rei! Viva o rei!”",
+      "reference": "2Sm 16:16"
+    },
+    "17": {
+      "text": "Absalão, porém, disse a Cusai: “É essa a grande afeição que tens pelo teu amigo? Por que não foste com o teu amigo?”",
+      "reference": "2Sm 16:17"
+    },
+    "18": {
+      "text": "Cusai respondeu a Absalão: “Não, aquele com quem quero estar é aquele a quem Iahweh e este povo e todos os homens de Israel escolheram, com esse permanecerei!",
+      "reference": "2Sm 16:18"
+    },
+    "19": {
+      "text": "Ademais, a quem vou servir? Não és seu filho? Como servi a teu pai, assim te servirei”. \\par",
+      "reference": "2Sm 16:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Absalão e as concubinas de Davi\\par }Absalão disse a Aquitofel: “Consultai-vos: que faremos?”",
+      "reference": "2Sm 16:20"
+    },
+    "21": {
+      "text": "Aquitofel respondeu a Absalão: “Aproxima-te das concubinas de teu pai, que ele deixou aqui para guardar o palácio: todo o Israel saberá que te tornaste odioso a teu pai, e a coragem de todos os teus partidários aumentará”.",
+      "reference": "2Sm 16:21"
+    },
+    "22": {
+      "text": "Armou-se então uma tenda no terraço do palácio, e Absalão esteve com as concubinas de seu pai aos olhos de todo o Israel.",
+      "reference": "2Sm 16:22"
+    },
+    "23": {
+      "text": "O conselho que Aquitofel dava naquele tempo era recebido como um oráculo de Deus. Assim era o conselho de Aquitofel, tanto para Davi como para Absalão. \\par",
+      "reference": "2Sm 16:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

@@ -1,0 +1,161 @@
+{
+  "book": 12,
+  "book_name": "2Reis",
+  "book_abbr": "2Rs",
+  "book_category": "Histórico",
+  "book_english": "2 Kings",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Apelo ao profeta Isaías\\par }Ao ouvir estas coisas, o rei Ezequias rasgou suas vestes, cobriu-se de pano de saco e foi ao Templo de Iahweh.",
+      "reference": "2Rs 19:1"
+    },
+    "2": {
+      "text": "Enviou o chefe do palácio, Eliacim, o secretário Sobna e os anciãos dos sacerdotes, cobertos de pano de saco, ao profeta Iasías, filho de Amós.",
+      "reference": "2Rs 19:2"
+    },
+    "3": {
+      "text": "Estes lhe disseram: “Assim fala Ezequias: Hoje é um dia de angústia, de castigo e de opróbrio. Os filhos estão para nascer e não há força para os dar à luz.",
+      "reference": "2Rs 19:3"
+    },
+    "4": {
+      "text": "Oxalá Iahweh, teu Deus, tenha ouvido todas as palavras do copeiro-mor, que o rei da Assíria, seu senhor, mandou para insultar o Deus vivo; oxalá Iahweh, teu Deus, dê o castigo merecido pelas palavras que ele ouviu! Faze uma prece em favor do resto que ainda subsiste”. \\par",
+      "reference": "2Rs 19:4"
+    },
+    "5": {
+      "text": "Os ministros do rei Ezequias foram ter com Isaías,",
+      "reference": "2Rs 19:5"
+    },
+    "6": {
+      "text": "e este lhes disse: “Direis a vosso senhor: Assim fala Iahweh: Não tenhas medo das palavras que ouviste, das blasfêmias que os servos do rei da Assíria lançaram contra mim.",
+      "reference": "2Rs 19:6"
+    },
+    "7": {
+      "text": "Vou insuflar-lhe um espírito e, ao ouvir uma certa notícia, voltará para sua terra e farei com que pereça pela espada em sua terra”. \\par",
+      "reference": "2Rs 19:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Partida do copeiro-mor\\par }O copeiro-mor retirou-se e encontrou o rei da Assíria combatendo contra Lebna. O copeiro-mor, com efeito, tinha ouvido dizer que o rei se retirara de Laquis,",
+      "reference": "2Rs 19:8"
+    },
+    "9": {
+      "text": "pois tinha recebido esta notícia a respeito de Taraca, o rei de Cuch: “Ele partiu para te fazer a guerra”. \\par \\par {\\qc\\b\\i Carta de Senaquerib a Ezequias\\par } Outra vez enviou Senaquerib mensageiros a Ezequias, para lhe dizer:",
+      "reference": "2Rs 19:9"
+    },
+    "10": {
+      "text": "“Assim falareis a Ezequias, rei de Judá: Que teu Deus, em quem confias, não te iluda, dizendo: ‘Jerusalém não será entregue às mãos do rei da Assíria!’",
+      "reference": "2Rs 19:10"
+    },
+    "11": {
+      "text": "Ouviste contar o que os reis da Assíria fizeram a todas as nações, destruindo-as completamente, e tu poderias escapar?",
+      "reference": "2Rs 19:11"
+    },
+    "12": {
+      "text": "Acaso seus deuses libertaram as nações que meus pais devastaram: Gozã, Harã, Resef e os edenitas que moravam em Telbasar?",
+      "reference": "2Rs 19:12"
+    },
+    "13": {
+      "text": "Onde estão os deuses de Emat, o rei de Arfad, o rei de Lair, de Sefarvaim, de Ana e de Ava?” \\par",
+      "reference": "2Rs 19:13"
+    },
+    "14": {
+      "text": "Ezequias tomou a carta das mãos dos mensageiros e leu-a. Depois subiu ao Templo de Iahweh e desdobrou-se diante de Iahweh.",
+      "reference": "2Rs 19:14"
+    },
+    "15": {
+      "text": "E Ezequias orou assim na presença de Iahweh: “Iahweh, Deus de Israel, que estás sentado sobre os querubins, tu és o único Deus de todos os reinos da terra, tu fizeste o céu e a terra.",
+      "reference": "2Rs 19:15"
+    },
+    "16": {
+      "text": "Inclina teus ouvidos, Iahweh, e escuta, abre teus olhos, Iahweh, e vê! Escuta as palavras de Senaquerib, que mandou emissários para insultar o Deus vivo.",
+      "reference": "2Rs 19:16"
+    },
+    "17": {
+      "text": "É verdade, Iahweh, os reis da Assíria devastaram as nações,",
+      "reference": "2Rs 19:17"
+    },
+    "18": {
+      "text": "lançaram ao fogo seus deuses, pois aqueles não eram deuses, mas obras de mãos humanas, madeira e pedra; por isso puderam aniquilá-los.",
+      "reference": "2Rs 19:18"
+    },
+    "19": {
+      "text": "Mas agora, Iahweh, nosso Deus, livra-nos de sua mão, te suplico, e que todos os reinos da terra saibam que só tu és Deus, Iahweh!” \\par",
+      "reference": "2Rs 19:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Intervenção de Isaías\\par }Então Isaías, filho de Amós, mandou dizer à Ezequias: “Assim fala Iahweh, Deus de Israel. Ouvi a súplica que me dirigiste a respeito de Senaquerib, rei da Assíria.",
+      "reference": "2Rs 19:20"
+    },
+    "21": {
+      "text": "Eis o oráculo que Iahweh pronunciou contra ele: \\par Despreza-te, zomba de ti \\par a virgem, filha de Sião. \\par Atrás de ti meneia a cabeça \\par a filha de Jerusalém. \\par",
+      "reference": "2Rs 19:21"
+    },
+    "22": {
+      "text": "A quem insultaste, blasfemaste? \\par Contra quem elevaste a voz \\par e olhaste com desprezo? \\par Contra o Santo de Israel! \\par",
+      "reference": "2Rs 19:22"
+    },
+    "23": {
+      "text": "Por teus mensageiros, insultaste o Senhor.\\par Disseste: ‘Com os meus numerosos carros \\par galguei os cimos dos montes, \\par os píncaros do Líbano. \\par Cortei os seus cedros mais altos \\par e seus mais belos ciprestes. \\par Atingi seu último abrigo, \\par o bosque de seu pomar. \\par",
+      "reference": "2Rs 19:23"
+    },
+    "24": {
+      "text": "Cavei e bebi as águas estrangeiras, \\par sequei com a planta dos meus pés \\par todos os rios do Egito!’ \\par",
+      "reference": "2Rs 19:24"
+    },
+    "25": {
+      "text": "Estás ouvindo? \\par Há muito tempo preparei isso, \\par desde tempos remotos o decidi, \\par e agora o realizo. \\par Tua missão foi reduzir a montes de ruínas cidades fortificadas. \\par",
+      "reference": "2Rs 19:25"
+    },
+    "26": {
+      "text": "Seus habitantes, já sem forças, \\par consternados e confusos, \\par eram como a erva do campo, \\par como a grama verdejante, \\par como as ervas dos telhados e das campinas, \\par e o vento do oriente. \\par",
+      "reference": "2Rs 19:26"
+    },
+    "27": {
+      "text": "Eu sei quando te levantas e quando te assentas, \\par quando sais e quando entras.\\par",
+      "reference": "2Rs 19:27"
+    },
+    "28": {
+      "text": "Porque ficaste furioso contra mim, \\par e tua insolência chegou até meus ouvidos, \\par passarei meu anel em tuas narinas \\par e meu freio entre teus lábios, \\par far-te-ei voltar pelo caminho \\par por onde vieste. \\par",
+      "reference": "2Rs 19:28"
+    },
+    "29": {
+      "text": "Isto te servirá de sinal: \\par Neste ano comerás o grão que caiu, \\par no ano que vem, do grão que germinar por si só, \\par mas no terceiro ano, semeai e colhei, \\par plantai vinhas e comei de seu fruto. \\par",
+      "reference": "2Rs 19:29"
+    },
+    "30": {
+      "text": "O resto sobrevivente da casa de Judá \\par produzirá novas raízes embaixo \\par e novos frutos em cima. \\par",
+      "reference": "2Rs 19:30"
+    },
+    "31": {
+      "text": "Pois de Jerusalém sairá um resto, \\par e do monte Sião, sobreviventes. \\par Eis o que fará o zelo de Iahweh dos Exércitos! \\par",
+      "reference": "2Rs 19:31"
+    },
+    "32": {
+      "text": "Eis, pois, o que diz Iahweh sobre o rei da Assíria: \\par Ele não há de entrar nesta cidade, \\par nela não lançará flecha, \\par não empunhará escudo contra ela, \\par nem acumulará contra ela os terraplenos. \\par",
+      "reference": "2Rs 19:32"
+    },
+    "33": {
+      "text": "Por onde veio, voltará, \\par não entrará nesta cidade, oráculo de Iahweh. \\par",
+      "reference": "2Rs 19:33"
+    },
+    "34": {
+      "text": "Protegerei esta cidade e a salvarei \\par em atenção a mim mesmo e a meu servo Davi”. \\par",
+      "reference": "2Rs 19:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b\\i Fracasso e morte de Senaquerib\\par }Naquela mesma noite, saiu o Anjo de Iahweh e exterminou no acampamento assírio cento e oitenta e cinco mil homens. De manhã, ao despertar, só havia cadáveres. \\par",
+      "reference": "2Rs 19:35"
+    },
+    "36": {
+      "text": "Senaquerib, rei da Assíria, levantou o acampamento e partiu. Voltou para Nínive e aí permaneceu.",
+      "reference": "2Rs 19:36"
+    },
+    "37": {
+      "text": "Certo dia, estando ele a adorar no templo de Nesroc, seu deus, seus filhos Adramelec e Sarasar mataram-no a espada e fugiram para a terra de Ararat. Asaradon, seu filho, reinou em seu lugar. \\par",
+      "reference": "2Rs 19:37"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 37
+}

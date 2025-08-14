@@ -1,0 +1,157 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Herodes e Jesus\\par }Naquele tempo, Herodes, o tetrarca, veio a conhecer a fama de Jesus",
+      "reference": "Mt 14:1"
+    },
+    "2": {
+      "text": "e disse aos seus servidores: “Certamente se trata de João Batista: ele foi ressuscitado dos mortos e é por isso que os poderes operam através dele!” \\par",
+      "reference": "Mt 14:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Execução de João Batista\\par }Herodes, com efeito, havia mandado prender João. E o mandara prender, acorrentar e lançar no cárcere, por causa de Herodíades, a mulher de seu irmão Filipe,",
+      "reference": "Mt 14:3"
+    },
+    "4": {
+      "text": "pois João lhe dizia: “Não te é permitido tê-la por mulher”.",
+      "reference": "Mt 14:4"
+    },
+    "5": {
+      "text": "Queria matá-lo, mas tinha medo da multidão, porque esta o considerava um profeta.",
+      "reference": "Mt 14:5"
+    },
+    "6": {
+      "text": "Ora, por ocasião do aniversário de Herodes, a filha de Herodíades dançou ali e agradou a Herodes.",
+      "reference": "Mt 14:6"
+    },
+    "7": {
+      "text": "Por essa razão prometeu, sob juramento, dar-lhe qualquer coisa que pedisse.",
+      "reference": "Mt 14:7"
+    },
+    "8": {
+      "text": "Ela, instruída por sua mãe, disse: “Dá-me, aqui num prato, a cabeça de João Batista”.",
+      "reference": "Mt 14:8"
+    },
+    "9": {
+      "text": "O rei se entristeceu. Entretanto, por causa do seu juramento e dos convivas presentes, ordenou que lha dessem.",
+      "reference": "Mt 14:9"
+    },
+    "10": {
+      "text": "E mandou decapitar João no cárcere.",
+      "reference": "Mt 14:10"
+    },
+    "11": {
+      "text": "A cabeça foi trazida num prato e entregue à moça, que a levou à sua mãe.",
+      "reference": "Mt 14:11"
+    },
+    "12": {
+      "text": "Vieram então os discípulos de João, pegaram o seu corpo e o sepultaram. Em seguida, foram anunciar o ocorrido a Jesus. \\par",
+      "reference": "Mt 14:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Primeira multiplicação dos pães\\par }Jesus, ouvindo isso, partiu dali, de barco, para um lugar deserto, afastado. Assim que as multidões o souberam, vieram das cidades, seguindo-o a pé.",
+      "reference": "Mt 14:13"
+    },
+    "14": {
+      "text": "Assim que desembarcou, viu uma grande multidão e, tomado de compaixão, curou os seus doentes.",
+      "reference": "Mt 14:14"
+    },
+    "15": {
+      "text": "Chegada a tarde, aproximaram-se dele os seus discípulos, dizendo: “O lugar é deserto e a hora já está avançada. Despede as multidões para que vão aos povoados comprar alimento para si”.",
+      "reference": "Mt 14:15"
+    },
+    "16": {
+      "text": "Mas Jesus lhes disse: “Não é preciso que vão embora. Dai-lhes vós mesmos de comer”.",
+      "reference": "Mt 14:16"
+    },
+    "17": {
+      "text": "Ao que os discípulos responderam: “Só temos aqui cinco pães e dois peixes”. Disse Jesus:",
+      "reference": "Mt 14:17"
+    },
+    "18": {
+      "text": "“Trazei-os aqui”.",
+      "reference": "Mt 14:18"
+    },
+    "19": {
+      "text": "E, tendo mandado que as multidões se acomodassem na grama, tomou os cinco pães e os dois peixes, elevou os olhos ao céu e abençoou. Em seguida, partindo os pães, deu-os aos discípulos, e os discípulos às multidões.",
+      "reference": "Mt 14:19"
+    },
+    "20": {
+      "text": "Todos comeram e ficaram saciados, e ainda recolheram doze cestos cheios dos pedaços que sobraram.",
+      "reference": "Mt 14:20"
+    },
+    "21": {
+      "text": "Ora, os que comeram eram cerca de cinco mil homens, sem contar mulheres e crianças. \\par",
+      "reference": "Mt 14:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Jesus caminha sobre as águas e Pedro com ele\\par }Logo em seguida, forçou os discípulos a embarcar e aguardá-lo na outra margem, até que ele despedisse as multidões.",
+      "reference": "Mt 14:22"
+    },
+    "23": {
+      "text": "Tendo-as despedido, subiu ao monte, a fim de orar a sós. Ao chegar a tarde, estava ali, sozinho.",
+      "reference": "Mt 14:23"
+    },
+    "24": {
+      "text": "O barco, porém, já estava a uma distância de muitos estádios da terra, agitado pelas ondas, pois o vento era contrário.",
+      "reference": "Mt 14:24"
+    },
+    "25": {
+      "text": "Na quarta vigília da noite, ele dirigiu-se a eles, caminhando sobre o mar.",
+      "reference": "Mt 14:25"
+    },
+    "26": {
+      "text": "Os discípulos, porém, vendo que caminhava sobre o mar, ficaram atemorizados e diziam: “É um fantasma!” E gritaram de medo.",
+      "reference": "Mt 14:26"
+    },
+    "27": {
+      "text": "Mas Jesus lhes disse logo: “Tende confiança, sou eu, não tenhais medo”.",
+      "reference": "Mt 14:27"
+    },
+    "28": {
+      "text": "Pedro, interpelando-o, disse: “Senhor, se és tu, manda que eu vá ao teu encontro sobre as águas”.",
+      "reference": "Mt 14:28"
+    },
+    "29": {
+      "text": "E Jesus respondeu: “Vem”. Descendo do barco, Pedro caminhou sobre as águas e foi ao encontro de Jesus.",
+      "reference": "Mt 14:29"
+    },
+    "30": {
+      "text": "Mas, sentindo o vento, ficou com medo e, começando a afundar, gritou: “Senhor, salva-me!”",
+      "reference": "Mt 14:30"
+    },
+    "31": {
+      "text": "Jesus estendeu a mão prontamente e o segurou, repreendendo-o: “Homem fraco na fé, por que duvidaste?”",
+      "reference": "Mt 14:31"
+    },
+    "32": {
+      "text": "Assim que subiram ao barco, o vento amainou.",
+      "reference": "Mt 14:32"
+    },
+    "33": {
+      "text": "Os que estavam no barco prostraram-se diante dele dizendo: “Verdadeiramente, tu és o Filho de Deus!” \\par",
+      "reference": "Mt 14:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Curas na terra de Genesaré\\par }Terminada a travessia, alcançaram terra em Genesaré.",
+      "reference": "Mt 14:34"
+    },
+    "35": {
+      "text": "Quando os habitantes daquele lugar o reconheceram, espalharam a notícia de sua chegada por toda a região. E lhe trouxeram todos os doentes,",
+      "reference": "Mt 14:35"
+    },
+    "36": {
+      "text": "rogando-lhe tão-somente tocar a orla da sua veste. E todos os que a tocaram foram salvos. \\par",
+      "reference": "Mt 14:36"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 36
+}

@@ -1,0 +1,129 @@
+{
+  "book": 51,
+  "book_name": "Colossenses",
+  "book_abbr": "Cl",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Colossians",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Preâmbulo}\\par }{\\qc\\b\\i Endereço e saudação\\par }Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Timóteo,",
+      "reference": "Cl 1:1"
+    },
+    "2": {
+      "text": "aos santos que estão em Colossas, e irmãos fiéis em Cristo: a vós graça e paz da parte de Deus, nosso Pai! \\par",
+      "reference": "Cl 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Ação de graças e oração\\par }Damos graças ao Deus e Pai de nosso Senhor Jesus Cristo, sempre orando por vós,",
+      "reference": "Cl 1:3"
+    },
+    "4": {
+      "text": "depois que ouvimos acerca da vossa fé em Cristo Jesus e do amor que tendes a todos os santos,",
+      "reference": "Cl 1:4"
+    },
+    "5": {
+      "text": "pela esperança que vos está reservada nos céus. Dela já ouvistes o anúncio da Palavra da Verdade, o evangelho,",
+      "reference": "Cl 1:5"
+    },
+    "6": {
+      "text": "que chegou até vós, e que em todo o mundo está produzindo frutos e crescendo, como também entre vós, desde o dia em que ouvistes e compreendestes em sua verdade a graça de Deus.",
+      "reference": "Cl 1:6"
+    },
+    "7": {
+      "text": "Nela fostes instruídos por Epafras, nosso querido companheiro de serviço, que nos presta ajuda, como fiel ministro de Cristo,",
+      "reference": "Cl 1:7"
+    },
+    "8": {
+      "text": "e é quem nos deu a conhecer o vosso amor no Espírito. \\par",
+      "reference": "Cl 1:8"
+    },
+    "9": {
+      "text": "Por isso, também nós, desde o dia em que o ouvimos, não cessamos de orar por vós e de pedir que sejais levados ao pleno conhecimento da vontade de Deus, com toda a sabedoria e discernimento espiritual.",
+      "reference": "Cl 1:9"
+    },
+    "10": {
+      "text": "Assim andareis de maneira digna do Senhor, fazendo tudo o que é do seu agrado, dando frutos em boas obras e crescendo no conhecimento de Deus,",
+      "reference": "Cl 1:10"
+    },
+    "11": {
+      "text": "animados de eficaz energia segundo o poder da sua glória, para toda constância e longanimidade, com alegria",
+      "reference": "Cl 1:11"
+    },
+    "12": {
+      "text": "dando graças ao Pai, que vos fez capazes de participar da herança dos santos na luz. \\par",
+      "reference": "Cl 1:12"
+    },
+    "13": {
+      "text": "Ele nos arrancou do poder das trevas e nos transportou para o Reino do seu Filho amado,",
+      "reference": "Cl 1:13"
+    },
+    "14": {
+      "text": "no qual temos a redenção – a remissão dos pecados. \\par",
+      "reference": "Cl 1:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b {\\i I. Parte dogmática}\\par }{\\qc\\b\\i Primado de Cristo\\par }Ele é a Imagem do Deus invisível, \\par o Primogênito de toda criatura, \\par",
+      "reference": "Cl 1:15"
+    },
+    "16": {
+      "text": "porque nele foram criadas todas as coisas, \\par nos céus e na terra, \\par as visíveis e as invisíveis: \\par Tronos, Soberanias, Principados, Autoridades, \\par tudo foi criado por ele e para ele. \\par",
+      "reference": "Cl 1:16"
+    },
+    "17": {
+      "text": "Ele é antes de tudo e tudo nele subsiste. \\par",
+      "reference": "Cl 1:17"
+    },
+    "18": {
+      "text": "Ele é a Cabeça da Igreja, \\par que é o seu Corpo. \\par Ele é o Princípio, \\par o Primogênito dos mortos, \\par (tendo em tudo a primazia), \\par",
+      "reference": "Cl 1:18"
+    },
+    "19": {
+      "text": "pois nele aprouve a Deus \\par fazer habitar toda a Plenitude \\par",
+      "reference": "Cl 1:19"
+    },
+    "20": {
+      "text": "e reconciliar por ele e para ele todos os seres, \\par os da terra e os dos céus, \\par realizando a paz pelo sangue da sua cruz. \\par",
+      "reference": "Cl 1:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Participação dos colossenses na salvação\\par }Vós éreis outrora estrangeiros e inimigos, pelo pensamento e pelas obras más,",
+      "reference": "Cl 1:21"
+    },
+    "22": {
+      "text": "mas agora, pela morte, ele vos reconciliou no seu corpo de carne, entregando-o à morte para diante dele vos apresentar santos, imaculados e irrepreensíveis,",
+      "reference": "Cl 1:22"
+    },
+    "23": {
+      "text": "contanto que permaneçais alicerçados e firmes na fé e sem vos afastar da esperança do evangelho que recebestes e que foi anunciado a toda criatura que vive debaixo do céu, e do qual eu, Paulo, foi feito ministro. \\par",
+      "reference": "Cl 1:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Lutas de Paulo a serviço dos gentios\\par }Agora eu me regozijo nos meus sofrimentos por vós, e completo, na minha carne, o que falta das tribulações de Cristo pelo seu Corpo, que é a Igreja.",
+      "reference": "Cl 1:24"
+    },
+    "25": {
+      "text": "Dela eu me tornei ministro, por encargo divino a mim confiado a vosso respeito, para levar a bom termo o anúncio da Palavra de Deus,",
+      "reference": "Cl 1:25"
+    },
+    "26": {
+      "text": "o mistério escondido desde os séculos e desde as gerações, mas agora manifestado aos seus santos.",
+      "reference": "Cl 1:26"
+    },
+    "27": {
+      "text": "A estes quis Deus tornar conhecida qual é entre os gentios a riqueza da glória deste mistério, que é Cristo em vós, a esperança da glória!",
+      "reference": "Cl 1:27"
+    },
+    "28": {
+      "text": "Esse Cristo nós o anunciamos, advertindo os homens e instruindo-os em toda sabedoria, a fim de apresentá-los todos, perfeitos em Cristo.",
+      "reference": "Cl 1:28"
+    },
+    "29": {
+      "text": "Para isso eu me esforço e luto, sustentado pela sua poderosa energia que em mim opera. \\par",
+      "reference": "Cl 1:29"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 29
+}

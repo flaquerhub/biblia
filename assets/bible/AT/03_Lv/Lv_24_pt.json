@@ -1,0 +1,105 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Prescrições rituais complementares – A. A chama permanente\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 24:1"
+    },
+    "2": {
+      "text": "“Ordena aos filhos de Israel que te tragam azeite puro de olivas esmagadas, para o candelabro, para que nele haja uma chama permanente.",
+      "reference": "Lv 24:2"
+    },
+    "3": {
+      "text": "Diante do véu do Testemunho, na Tenda da Reunião, Aarão colocará em ordem a chama. Estará neste lugar diante de Iahweh, desde a tarde até a manhã, continuamente. É uma lei perpétua para os vossos descendentes:",
+      "reference": "Lv 24:3"
+    },
+    "4": {
+      "text": "Aarão preparará as lâmpadas sobre o candelabro puro, diante de Iahweh, continuamente. \\par",
+      "reference": "Lv 24:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i B. Os pães sobre a mesa de ouro\\par }Tomarás flor de farinha e cozerás doze pães, tendo cada um dois décimos.",
+      "reference": "Lv 24:5"
+    },
+    "6": {
+      "text": "Em seguida os porás em duas fileiras de seis, sobre a mesa pura que está diante de Iahweh.",
+      "reference": "Lv 24:6"
+    },
+    "7": {
+      "text": "Sobre cada fileira porás incenso puro. Isto será alimento oferecido em memorial, uma oferenda queimada a Iahweh.",
+      "reference": "Lv 24:7"
+    },
+    "8": {
+      "text": "Cada dia de sábado serão colocados, permanentemente, diante de Iahweh. Os filhos de Israel os fornecerão como aliança perpétua;",
+      "reference": "Lv 24:8"
+    },
+    "9": {
+      "text": "pertencerão a Aarão e a seus filhos, que os comerão no lugar santo, pois é coisa santíssima para ele das oferendas queimadas a Iahweh. É lei perpétua”. \\par",
+      "reference": "Lv 24:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Blasfêmia e lei do talião\\par }O filho de uma israelita, cujo pai era egípcio, saiu de sua casa e, ao se encontrar no meio dos filhos de Israel, no acampamento, contendeu com um homem que era israelita.",
+      "reference": "Lv 24:10"
+    },
+    "11": {
+      "text": "Ora, o filho da israelita blasfemou o Nome e o amaldiçoou. Levaram-no então a Moisés (o nome da mãe era Salomit, filha de Dabri, da tribo de Dã).",
+      "reference": "Lv 24:11"
+    },
+    "12": {
+      "text": "Puseram-no sob custódia, para que se decidisse somente pela ordem de Iahweh. \\par",
+      "reference": "Lv 24:12"
+    },
+    "13": {
+      "text": "Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 24:13"
+    },
+    "14": {
+      "text": "“Tira fora do acampamento aquele que pronunciou a maldição. Todos aqueles que o ouviram porão suas mãos sobre a cabeça dele, e toda a comunidade o apedrejará.",
+      "reference": "Lv 24:14"
+    },
+    "15": {
+      "text": "Em seguida falarás aos filhos de Israel o seguinte: \\par Todo homem que amaldiçoar o seu Deus levará o peso do seu pecado.",
+      "reference": "Lv 24:15"
+    },
+    "16": {
+      "text": "Aquele que blasfemar o nome de Iahweh deverá morrer, e toda a comunidade o apedrejará. Quer seja estrangeiro ou natural, morrerá, caso blasfeme o Nome. \\par",
+      "reference": "Lv 24:16"
+    },
+    "17": {
+      "text": "Se um homem golpear um ser humano, quem quer que seja, deverá morrer. \\par",
+      "reference": "Lv 24:17"
+    },
+    "18": {
+      "text": "Quem ferir mortalmente um animal deve dar a compensação por ele: vida por vida. \\par",
+      "reference": "Lv 24:18"
+    },
+    "19": {
+      "text": "Se um homem ferir um compatriota, desfigurando-o, como ele fez assim se lhe fará:",
+      "reference": "Lv 24:19"
+    },
+    "20": {
+      "text": "fratura por fratura, olho por olho, dente por dente. O dano que se causa a alguém, assim também se sofrerá:",
+      "reference": "Lv 24:20"
+    },
+    "21": {
+      "text": "quem matar um animal deverá dar compensação por ele, e quem matar um homem deve morrer.",
+      "reference": "Lv 24:21"
+    },
+    "22": {
+      "text": "A sentença será entre vós a mesma, quer se trate de um natural ou de estrangeiro, pois eu sou Iahweh vosso Deus”. \\par",
+      "reference": "Lv 24:22"
+    },
+    "23": {
+      "text": "Havendo Moisés assim falado aos filhos de Israel, tiraram fora do acampamento aquele que havia pronunciado a maldição e o apedrejaram. Cumpriram assim o que Iahweh havia ordenado a Moisés. \\par",
+      "reference": "Lv 24:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

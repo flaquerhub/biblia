@@ -1,0 +1,113 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os filisteus fazem guerra contra Israel\\par }Ora, nesse tempo, os filisteus reuniram os seus exércitos para atacar Israel, e Aquis disse a Davi: “Saibas que irás com o meu exército, tu e os teus homens”.",
+      "reference": "1Sm 28:1"
+    },
+    "2": {
+      "text": "Davi respondeu a Aquis: “Então agora verás o que é capaz de fazer o teu servo”. Então Aquis disse a Davi: “E eu te nomeio meu perpétuo guarda pessoal”. \\par",
+      "reference": "1Sm 28:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Saul e a feiticeira de Endor\\par }Samuel tinha morrido, e todo o Israel o tinha lamentado, e o sepultaram em Ramá, sua cidade. Saul havia expulsado da terra os necromantes e os adivinhos. \\par",
+      "reference": "1Sm 28:3"
+    },
+    "4": {
+      "text": "Entretanto, os filisteus se congregaram e vieram acampar em Sunam. Saul reuniu todo o Israel e acamparam em Gelboé.",
+      "reference": "1Sm 28:4"
+    },
+    "5": {
+      "text": "Quando Saul viu o exército dos filisteus acampado, encheu-se de medo e o seu coração se perturbou.",
+      "reference": "1Sm 28:5"
+    },
+    "6": {
+      "text": "Saul consultou a Iahweh, mas Iahweh não lhe respondeu, nem por sonho, nem pela sorte, nem pelos profetas.",
+      "reference": "1Sm 28:6"
+    },
+    "7": {
+      "text": "Saul disse então aos seus servos: “Buscai-me uma necromante para que eu lhe fale e a consulte”. E os servos lhe responderam: “Há uma em Endor”. \\par",
+      "reference": "1Sm 28:7"
+    },
+    "8": {
+      "text": "Então Saul disfarçou-se, vestiu outra roupa e, de noite, acompanhado de dois homens, foi ter com a mulher, e lhe disse: “Peço-te que me digas o futuro, chamando para mim quem eu te disser”.",
+      "reference": "1Sm 28:8"
+    },
+    "9": {
+      "text": "A mulher, porém, lhe respondeu: “Tu bem sabes o que fez Saul, expulsando do país os necromantes e adivinhos. Por que me armas uma cilada para que eu seja morta?”",
+      "reference": "1Sm 28:9"
+    },
+    "10": {
+      "text": "Então Saul jurou-lhe por Iahweh, dizendo: “Tão certo como Iahweh vive, nenhum mal te acontecerá por causa disso”.",
+      "reference": "1Sm 28:10"
+    },
+    "11": {
+      "text": "Disse a mulher: “A quem chamarei para ti?” Ele respondeu: “Chama Samuel”. \\par",
+      "reference": "1Sm 28:11"
+    },
+    "12": {
+      "text": "Então a mulher viu Samuel e, soltando um grito medonho, disse a Saul: “Por que me enganaste? Tu és Saul!”",
+      "reference": "1Sm 28:12"
+    },
+    "13": {
+      "text": "Disse-lhe o rei: “Não temas! Mas o que vês?” E a mulher respondeu a Saul: “Vejo um espectro que sobe da terra”.",
+      "reference": "1Sm 28:13"
+    },
+    "14": {
+      "text": "Saul indagou: “Qual é a sua aparência?” A mulher respondeu: “É um velho que está subindo; veste um manto”. Então Saul viu que era Samuel e, inclinando-se com o rosto no chão, prostrou-se. \\par",
+      "reference": "1Sm 28:14"
+    },
+    "15": {
+      "text": "Samuel disse a Saul: “Por que perturbas o meu descanso chamando-me?” Saul respondeu: “É que estou em grande angústia. Os filisteus guerreiam contra mim, Deus se afastou de mim, não me responde mais, nem pelos profetas nem por sonhos. Então vim te chamar para que me digas o que tenho de fazer”.",
+      "reference": "1Sm 28:15"
+    },
+    "16": {
+      "text": "Respondeu Samuel: “Por que me consultas, se Iahweh se afastou de ti e se tornou teu adversário?",
+      "reference": "1Sm 28:16"
+    },
+    "17": {
+      "text": "Iahweh fez contigo o que tinha dito por meu intermédio: tirou das tuas mãos a realeza e a entregou a Davi,",
+      "reference": "1Sm 28:17"
+    },
+    "18": {
+      "text": "porque não obedeceste a Iahweh e não executaste o ardor de sua ira contra Amalec. Foi por isso que Iahweh te tratou hoje assim.",
+      "reference": "1Sm 28:18"
+    },
+    "19": {
+      "text": "Como conseqüência, Iahweh entregará, juntamente contigo, o tu povo Israel nas mãos dos filisteus. Amanhã, tu e os teus filhos estareis comigo; e o acampamento de Israel também: Iahweh o entregará nas mãos dos filisteus”. \\par",
+      "reference": "1Sm 28:19"
+    },
+    "20": {
+      "text": "Imediatamente, Saul caiu estendido no chão, terrificado pelas palavras de Samuel e também enfraquecido por não se ter alimentado todo o dia e toda a noite.",
+      "reference": "1Sm 28:20"
+    },
+    "21": {
+      "text": "A mulher aproximou-se de Saul e, vendo-o tão perturbado, disse-lhe: “A tua serva te obedeceu; arriscando a minha vida, obedeci às ordens que me deste.",
+      "reference": "1Sm 28:21"
+    },
+    "22": {
+      "text": "Agora, eu te suplico, ouve também as palavras da tua serva: deixa-me servir-te um pedaço de pão, come e recupera as tuas forças antes de voltares”.",
+      "reference": "1Sm 28:22"
+    },
+    "23": {
+      "text": "Ele, porém, se recusou: “Não comerei”, disse. Mas os seus servos instaram com ele, bem como a mulher, e ele cedeu; levantou-se do chão e assentou-se no leito.",
+      "reference": "1Sm 28:23"
+    },
+    "24": {
+      "text": "A mulher tinha uma novilha cevada. Rapidamente a abateu, tomou farinha, amassou-a e cozinhou uns pães sem fermento.",
+      "reference": "1Sm 28:24"
+    },
+    "25": {
+      "text": "Serviu a Saul e aos que estavam com ele. Eles comeram e depois se levantaram e partiram naquela mesma noite. \\par",
+      "reference": "1Sm 28:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

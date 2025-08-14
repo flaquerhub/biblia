@@ -1,0 +1,101 @@
+{
+  "book": 61,
+  "book_name": "2Pedro",
+  "book_abbr": "2Pe",
+  "book_category": "Epístolas Gerais",
+  "book_english": "2 Peter",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os falsos doutores\\par }Houve, contudo, também falsos profetas no seio do povo, como haverá entre vós falsos mestres, os quais trarão heresias perniciosas, negando o Senhor que os resgatou e trazendo sobre si repentina destruição.",
+      "reference": "2Pe 2:1"
+    },
+    "2": {
+      "text": "Muitos seguirão as suas doutrinas dissolutas e, por causa deles, o caminho da verdade cairá em descrédito.",
+      "reference": "2Pe 2:2"
+    },
+    "3": {
+      "text": "Por avareza, procurarão, com discursos fingidos, fazer de vós objeto de negócios; mas seu julgamento há muito está em ação e a sua destruição não tarda. \\par",
+      "reference": "2Pe 2:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i As lições do passado\\par }Com efeito, se Deus não poupou os anjos que pecaram, mas lançou-os nos abismos tenebrosos do Tártaro, onde estão guardados à espera do Julgamento,",
+      "reference": "2Pe 2:4"
+    },
+    "5": {
+      "text": "nem poupou o mundo antigo, mas, ao trazer o dilúvio sobre o mundo dos ímpios, preservou apenas oito pessoas, entre as quais Noé, o arauto da justiça,",
+      "reference": "2Pe 2:5"
+    },
+    "6": {
+      "text": "e se, como exemplo do que havia de sobrevir aos ímpios, condenou à destruição as cidades de Sodoma e de Gomorra, reduzindo-as a cinzas,",
+      "reference": "2Pe 2:6"
+    },
+    "7": {
+      "text": "enquanto livrou o justo Ló, deprimido com o comportamento dissoluto daqueles perversos –",
+      "reference": "2Pe 2:7"
+    },
+    "8": {
+      "text": "porque esse justo, que morava entre eles, afligia diariamente a sua alma justa com as obras iníquas que via e ouvia –,",
+      "reference": "2Pe 2:8"
+    },
+    "9": {
+      "text": "é certamente porque o Senhor sabe libertar os piedosos da tentação e reservar os injustos sob o castigo à espera do dia do Julgamento,",
+      "reference": "2Pe 2:9"
+    },
+    "10": {
+      "text": "sobretudo aqueles que seguem a carne, entregando-se a paixões imundas, e que desprezam a autoridade do Senhor. \\par \\par {\\qc\\b\\i O castigo vindouro\\par } Atrevidos, presunçosos, não hesitam em blasfemar contra as Glórias,",
+      "reference": "2Pe 2:10"
+    },
+    "11": {
+      "text": "ao passo que os anjos, embora superiores em força e poder, não pronunciam contra elas um julgamento blasfemo na presença do Senhor.",
+      "reference": "2Pe 2:11"
+    },
+    "12": {
+      "text": "Estes, porém, como animais irracionais, destinados por natureza à prisão e à morte, injuriando aquilo que ignoram, perecerão da mesma morte,",
+      "reference": "2Pe 2:12"
+    },
+    "13": {
+      "text": "sofrendo injustiça como salário da sua injustiça. Eles julgam uma delícia o prazer do dia; homens impuros e pervertidos, deleitam-se na sua volúpia, quando se banqueteiam convosco.",
+      "reference": "2Pe 2:13"
+    },
+    "14": {
+      "text": "Têm os olhos cheios de adultério e insaciáveis de pecado, procurando seduzir as almas vacilantes; o seu coração está treinado para a ambição. São uns seres malditos!",
+      "reference": "2Pe 2:14"
+    },
+    "15": {
+      "text": "Deixando o caminho reto, desviaram-se e seguiram o caminho de Balaão, filho de Bosor, o qual se deixou levar por uma recompensa injusta,",
+      "reference": "2Pe 2:15"
+    },
+    "16": {
+      "text": "mas foi repreendido por sua maldade. De fato, uma besta muda, falando com voz humana, conteve a loucura do profeta. \\par",
+      "reference": "2Pe 2:16"
+    },
+    "17": {
+      "text": "Esses homens são como fontes sem água e nuvens levadas por um vento tempestuoso; a eles está reservada a escuridão das trevas.",
+      "reference": "2Pe 2:17"
+    },
+    "18": {
+      "text": "Falando jactanciosamente de coisas fúteis, procuram seduzir com as concupiscências da carne e dissoluções aquelas que apenas conseguiram fugir da companhia dos que vivem desgarrados,",
+      "reference": "2Pe 2:18"
+    },
+    "19": {
+      "text": "prometendo-lhes a liberdade, quando eles mesmos são escravos da corrupção, pois cada um é escravo daquele que o vence.",
+      "reference": "2Pe 2:19"
+    },
+    "20": {
+      "text": "Com efeito, se, depois de fugir às imundícies do mundo pelo conhecimento de nosso Senhor Jesus Cristo, de novo são seduzidos e se deixam vencer por elas, o seu último estado se torna pior do que o primeiro.",
+      "reference": "2Pe 2:20"
+    },
+    "21": {
+      "text": "Assim, melhor lhes fora não terem conhecido o caminho da justiça do que, após tê-lo conhecido, desviarem-se do santo mandamento que lhes foi confiado.",
+      "reference": "2Pe 2:21"
+    },
+    "22": {
+      "text": "Cumpriu-se neles a verdade do provérbio: {\\i O cão voltou ao seu próprio vômito}, e: “A porca lavada tornou a revolver-se na lama”. \\par",
+      "reference": "2Pe 2:22"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 22
+}

@@ -1,0 +1,109 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Santidade do sacerdócio – A. Os sacerdotes\\par }Iahweh disse a Moisés: “Fala os sacerdotes, filhos de Aarão; tu lhes dirás: \\par Nenhum deles se tornará impuro aproximando-se do cadáver de alguém do seu povo,",
+      "reference": "Lv 21:1"
+    },
+    "2": {
+      "text": "a não ser que se trate de parente seu muito chegado: mãe, pai, filho, filha, irmão.",
+      "reference": "Lv 21:2"
+    },
+    "3": {
+      "text": "Também por sua irmã virgem, que permanece sua parenta próxima visto que não pertenceu a nenhum homem, poderá tornar-se impuro;",
+      "reference": "Lv 21:3"
+    },
+    "4": {
+      "text": "por uma mulher casada dentre o seu povo, não se tornará impuro, pois se profanaria. \\par",
+      "reference": "Lv 21:4"
+    },
+    "5": {
+      "text": "Não farão tonsura na cabeça, não raparão a extremidade da barba e nem farão incisões no corpo.",
+      "reference": "Lv 21:5"
+    },
+    "6": {
+      "text": "Serão consagrados a seu Deus e não profanarão o nome do seu Deus, porque são eles que apresentam as oferendas queimadas a Iahweh, o pão do seu Deus, e devem estar em estado de santidade. \\par",
+      "reference": "Lv 21:6"
+    },
+    "7": {
+      "text": "Não tomarão por esposa uma mulher prostituta ou desonrada, nem uma mulher repudiada por seu marido, pois o sacerdote é consagrado a seu Deus. \\par",
+      "reference": "Lv 21:7"
+    },
+    "8": {
+      "text": "Tu o tratarás como santo, pois oferece o pão do teu Deus. Será santo para ti, pois eu sou santo, eu, Iahweh, que vos santifico. \\par",
+      "reference": "Lv 21:8"
+    },
+    "9": {
+      "text": "Se a filha de um homem que é sacerdote se desonra, prostituindo-se, profana também a seu pai e deve ser queimada no fogo. \\par",
+      "reference": "Lv 21:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i B. O sumo sacerdote\\par }O sumo sacerdote, que tem a preeminência entre seus irmãos, sobre cuja cabeça foi derramado o óleo da unção e que recebeu a investidura ao se revestir das vestimentas sagradas, não desgrenhará os cabelos, não rasgará as suas vestes,",
+      "reference": "Lv 21:10"
+    },
+    "11": {
+      "text": "não se aproximará do cadáver de nenhum morto e não ficará impuro nem por seu pai e nem por sua mãe.",
+      "reference": "Lv 21:11"
+    },
+    "12": {
+      "text": "Não sairá do santuário, a fim de não profanar o santuário de seu Deus, pois leva sobre si mesmo a consagração do óleo da unção de seu Deus. Eu sou Iahweh. \\par",
+      "reference": "Lv 21:12"
+    },
+    "13": {
+      "text": "Tomará por esposa uma mulher ainda virgem.",
+      "reference": "Lv 21:13"
+    },
+    "14": {
+      "text": "A viúva, a mulher repudiada, ou desonrada pela prostituição, não as tomará por esposas; somente a uma virgem dentre o seu povo tomará por esposa,",
+      "reference": "Lv 21:14"
+    },
+    "15": {
+      "text": "pois assim não profanará sua descendência, pois sou eu, Iahweh, que a santifico”. \\par",
+      "reference": "Lv 21:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i C. Impedimentos ao sacerdócio\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 21:16"
+    },
+    "17": {
+      "text": "“Fala a Aarão e dize-lhe: \\par Nenhum dos teus descendentes, em qualquer geração, se aproximará para oferecer o pão de seu Deus, se tiver algum defeito.",
+      "reference": "Lv 21:17"
+    },
+    "18": {
+      "text": "Pois nenhum homem deve se aproximar, caso tenha algum defeito, quer seja cego, coxo, desfigurado ou deformado,",
+      "reference": "Lv 21:18"
+    },
+    "19": {
+      "text": "homem que tenha o pé ou o braço fraturado,",
+      "reference": "Lv 21:19"
+    },
+    "20": {
+      "text": "ou seja corcunda, anão, ou tenha belida no olho, ou dartro, ou pragas purulentas, ou seja eunuco.",
+      "reference": "Lv 21:20"
+    },
+    "21": {
+      "text": "Nenhum dos descendentes de Aarão, o sacerdote, poderá se aproximar para apresentar oferendas queimadas a Iahweh, se tiver algum defeito; tem defeito, e por isso não se aproximará para oferecer o pão de seu Deus. \\par",
+      "reference": "Lv 21:21"
+    },
+    "22": {
+      "text": "Poderá comer dos alimentos de seu Deus, coisas santíssimas e coisas santas,",
+      "reference": "Lv 21:22"
+    },
+    "23": {
+      "text": "porém não virá até junto do véu e não se aproximará do altar; ele tem um defeito e não deve profanar as minhas coisas sagradas, pois fui eu, Iahweh, que as santifiquei”. \\par",
+      "reference": "Lv 21:23"
+    },
+    "24": {
+      "text": "E Moisés disse isso a Aarão, a seus filhos e a todos os filhos de Israel. \\par",
+      "reference": "Lv 21:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

@@ -1,0 +1,97 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. A SALVAÇÃO\\par }{\\qc\\b\\i A justificação, penhor de salvação\\par }Tendo sido, pois, justificados pela fé, estamos em paz com Deus por nosso Senhor Jesus Cristo,",
+      "reference": "Rm 5:1"
+    },
+    "2": {
+      "text": "por quem tivemos acesso, pela fé, a esta graça, na qual estamos firmes e nos gloriamos na esperança da glória de Deus.",
+      "reference": "Rm 5:2"
+    },
+    "3": {
+      "text": "E não é só. Nós nos gloriamos também nas tribulações, sabendo que a tribulação produz a perseverança,",
+      "reference": "Rm 5:3"
+    },
+    "4": {
+      "text": "a perseverança uma virtude comprovada, a virtude comprovada a esperança.",
+      "reference": "Rm 5:4"
+    },
+    "5": {
+      "text": "E a esperança não decepciona, porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado.",
+      "reference": "Rm 5:5"
+    },
+    "6": {
+      "text": "Foi, com efeito, quando ainda éramos fracos que Cristo, no tempo marcado, morreu pelos ímpios. –",
+      "reference": "Rm 5:6"
+    },
+    "7": {
+      "text": "Dificilmente alguém dá a vida por um justo; por um homem de bem talvez haja alguém que se disponha a morrer. –",
+      "reference": "Rm 5:7"
+    },
+    "8": {
+      "text": "Mas Deus demonstra seu amor para conosco pelo fato de Cristo ter morrido por nós quando éramos ainda pecadores.",
+      "reference": "Rm 5:8"
+    },
+    "9": {
+      "text": "Quanto mais, então, agora, justificados por seu sangue, seremos por ele salvos da ira.",
+      "reference": "Rm 5:9"
+    },
+    "10": {
+      "text": "Pois se quando éramos inimigos fomos reconciliados com Deus pela morte do seu Filho, muito mais agora, uma vez reconciliados, seremos salvos por sua vida.",
+      "reference": "Rm 5:10"
+    },
+    "11": {
+      "text": "E não é só. Mas nós nos gloriamos em Deus por nosso Senhor Jesus Cristo, por quem desde agora recebemos a reconciliação. \\par",
+      "reference": "Rm 5:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b A. A LIBERTAÇÃO DO PECADO, DA MORTE E DA LEI\\par }{\\qc\\b\\i Adão e Jesus Cristo\\par }Eis porque, como por meio de um só homem o pecado {\\i entrou no mundo} e, pelo pecado, a morte, e assim a morte passou a todos os homens, porque todos pecaram.",
+      "reference": "Rm 5:12"
+    },
+    "13": {
+      "text": "Pois até a Lei havia pecado no mundo; o pecado, porém, não é levado em conta quando não existe lei.",
+      "reference": "Rm 5:13"
+    },
+    "14": {
+      "text": "Todavia, a morte imperou desde Adão até Moisés, mesmo sobre aqueles que não pecaram de modo semelhante à transgressão de Adão, que é figura daquele que devia vir...\\par",
+      "reference": "Rm 5:14"
+    },
+    "15": {
+      "text": "Entretanto, não acontece com o dom o mesmo que com a falta. Se pela falta de um só todos morreram, com quanto maior profusão a graça de Deus e o dom gratuito de um só homem, Jesus Cristo, se derramaram sobre todos.",
+      "reference": "Rm 5:15"
+    },
+    "16": {
+      "text": "Também não acontece com o dom como aconteceu com o pecado de um só que pecou: porque o julgamento de um resultou em condenação, ao passo que a graça, a partir de numerosas faltas, resultou em justificação.",
+      "reference": "Rm 5:16"
+    },
+    "17": {
+      "text": "Se, com efeito, pela falta de um só a morte imperou através deste único homem, muito mais os que recebem a abundância da graça e do dom da justiça reinarão na vida por meio de um só, Jesus Cristo. \\par",
+      "reference": "Rm 5:17"
+    },
+    "18": {
+      "text": "Por conseguinte, assim como pela falta de um só resultou a condenação de todos os homens, do mesmo modo, da obra de justiça de um só, resultou para todos os homens justificação que traz a vida.",
+      "reference": "Rm 5:18"
+    },
+    "19": {
+      "text": "De modo que, como pela desobediência de um só homem, todos se tornaram pecadores, assim, pela obediência de um só, todos se tornarão justos. \\par",
+      "reference": "Rm 5:19"
+    },
+    "20": {
+      "text": "Ora, a Lei interveio para que avultasse a falta; mas onde avultou o pecado, a graça superabundou,",
+      "reference": "Rm 5:20"
+    },
+    "21": {
+      "text": "para que, como imperou o pecado na morte, assim também imperasse a graça por meio da justiça, para a vida eterna, através de Jesus Cristo, nosso Senhor. \\par",
+      "reference": "Rm 5:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

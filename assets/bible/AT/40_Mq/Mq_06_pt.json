@@ -1,0 +1,77 @@
+{
+  "book": 33,
+  "book_name": "Miqueias",
+  "book_abbr": "Mq",
+  "book_category": "Profético",
+  "book_english": "Micah",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. Novo processo de Israel}\\par REPREENSÕES E AMEAÇAS\\par }{\\qc\\b\\i Iahweh processa o seu povo\\par }Ouvi, pois, o que diz Iahweh: \\par “Levanta-te, abre um processo diante das montanhas, \\par e que as colinas ouçam a tua voz!” \\par",
+      "reference": "Mq 6:1"
+    },
+    "2": {
+      "text": "Ouvi, montanhas, o processo de Iahweh, \\par prestai ouvidos, fundamentos da terra, \\par porque Iahweh está em processo com o seu povo, \\par e contra Israel ele pleiteia. \\par",
+      "reference": "Mq 6:2"
+    },
+    "3": {
+      "text": "“Meu povo, que te fiz eu? \\par Em que te cansei? Responde-me! \\par",
+      "reference": "Mq 6:3"
+    },
+    "4": {
+      "text": "Sim, eu te fiz subir da terra do Egito, \\par resgatei-te da casa da escravidão \\par e enviei diante de ti Moisés, \\par Aarão e Maria. \\par",
+      "reference": "Mq 6:4"
+    },
+    "5": {
+      "text": "Meu povo, lembra-te \\par do que maquinava Balac, rei de Moab, \\par e o que lhe respondeu Balaão, filho de Beor, \\par ... desde Setim até Guilgal, \\par para que reconheças o procedimento justo de Iahweh”. \\par",
+      "reference": "Mq 6:5"
+    },
+    "6": {
+      "text": "– “Com que me apresentarei a Iahweh, \\par e me inclinarei diante do Deus do céu? \\par Porventura me apresentarei com holocaustos \\par ou com novilhos de um ano? \\par",
+      "reference": "Mq 6:6"
+    },
+    "7": {
+      "text": "Terá Iahweh prazer nos milhares de carneiros \\par ou nas libações de torrentes de óleo? \\par Darei eu o meu primogênito pelo meu crime, \\par o fruto de minhas entranhas pelo meu pecado?” \\par",
+      "reference": "Mq 6:7"
+    },
+    "8": {
+      "text": "– “Foi-te anunciado, ó homem, o que é bom, \\par e o que Iahweh exige de ti: \\par nada mais do que praticar o direito, \\par gostar do amor \\par e caminhar humildemente com o teu Deus!” \\par",
+      "reference": "Mq 6:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Contra os defraudadores na cidade\\par }A voz de Iahweh convoca a cidade: \\par Ouvi, tribo e assembléia da cidade! \\par",
+      "reference": "Mq 6:9"
+    },
+    "10": {
+      "text": "Posso eu suportar uma medida falsa \\par e um efá diminuído, abominável? \\par",
+      "reference": "Mq 6:10"
+    },
+    "11": {
+      "text": "Posso eu inocentar as balanças falsas \\par e uma bolsa de pedras falsificadas? \\par",
+      "reference": "Mq 6:11"
+    },
+    "12": {
+      "text": "Pois seus ricos estão cheios de violência, \\par seus habitantes mentem \\par e sua língua é falsidade em suas bocas. \\par",
+      "reference": "Mq 6:12"
+    },
+    "13": {
+      "text": "Eu, também, comecei a golpear-te, \\par a devastar-te por causa de teus pecados. \\par",
+      "reference": "Mq 6:13"
+    },
+    "14": {
+      "text": "Tu comerás, mas não te saciarás, \\par colocarás à parte, mas não poderás salvar; \\par e o que salvares, eu entregarei à espada. \\par",
+      "reference": "Mq 6:14"
+    },
+    "15": {
+      "text": "Tu semearás, mas não poderás colher, \\par pisarás a azeitona, mas não te ungirás com o óleo, \\par o mosto, mas não beberás o vinho. \\par",
+      "reference": "Mq 6:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i O exemplo de Samaria\\par }Tu guardas os preceitos de Amri, \\par todas as práticas da casa de Acab; \\par andas conforme os seus princípios, \\par para que eu te entregue à devastação \\par e teus habitantes ao opróbrio. \\par Carregareis a vergonha dos povos. \\par",
+      "reference": "Mq 6:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

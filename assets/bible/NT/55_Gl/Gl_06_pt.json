@@ -1,0 +1,85 @@
+{
+  "book": 48,
+  "book_name": "Gálatas",
+  "book_abbr": "Gl",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Galatians",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Preceitos vários sobre a caridade e o zelo\\par }Irmãos, caso alguém seja apanhado em falta, vós, os espirituais, corrigi esse tal com espírito de mansidão, cuidando de ti mesmo, para que também tu não sejas tentado.",
+      "reference": "Gl 6:1"
+    },
+    "2": {
+      "text": "Carregai o peso uns dos outros e assim cumprireis a Lei de Cristo.",
+      "reference": "Gl 6:2"
+    },
+    "3": {
+      "text": "Se alguém pensa ser alguma coisa, não sendo nada, engana a si mesmo.",
+      "reference": "Gl 6:3"
+    },
+    "4": {
+      "text": "Cada um examine sua própria conduta, e então terá o de que se gloriar por si só e não por referência ao outro.",
+      "reference": "Gl 6:4"
+    },
+    "5": {
+      "text": "Porque cada qual carregará o seu próprio fardo. \\par",
+      "reference": "Gl 6:5"
+    },
+    "6": {
+      "text": "Quem está sendo instruído na palavra, torne participante em toda sorte de bens aquele que o instrui. \\par",
+      "reference": "Gl 6:6"
+    },
+    "7": {
+      "text": "Não vos iludais; de Deus não se zomba. O que o homem semear, isso colherá:",
+      "reference": "Gl 6:7"
+    },
+    "8": {
+      "text": "quem semear na sua carne, da carne colherá corrupção; quem semear no espírito, do espírito colherá a vida eterna.",
+      "reference": "Gl 6:8"
+    },
+    "9": {
+      "text": "Não desanimemos na prática do bem, pois, se não desfalecermos, a seu tempo colheremos.",
+      "reference": "Gl 6:9"
+    },
+    "10": {
+      "text": "Por conseguinte, enquanto temos tempo, pratiquemos o bem para com todos, mas sobretudo para com os irmãos na fé. \\par",
+      "reference": "Gl 6:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Epílogo\\par }Vede com que letras grandes eu vos escrevo, de próprio punho.",
+      "reference": "Gl 6:11"
+    },
+    "12": {
+      "text": "Os que querem fazer boa figura na carne são os que vos forçam a vos circuncidardes, só para não sofrerem perseguição por causa da cruz de Cristo.",
+      "reference": "Gl 6:12"
+    },
+    "13": {
+      "text": "Pois nem mesmo os que se fazem circuncidar observam a lei. Mas eles querem que vos circuncideis para se gloriarem na vossa carne.",
+      "reference": "Gl 6:13"
+    },
+    "14": {
+      "text": "Quanto a mim, não aconteça gloriar-me senão na cruz de nosso Senhor Jesus Cristo, por quem o mundo está crucificado para mim e eu para o mundo.",
+      "reference": "Gl 6:14"
+    },
+    "15": {
+      "text": "De resto, nem a circuncisão é alguma coisa, nem a incircuncisão, mas a nova criatura.",
+      "reference": "Gl 6:15"
+    },
+    "16": {
+      "text": "E a todos os que pautam sua conduta por esta norma, paz e misericórdia sobre eles e sobre o Israel de Deus. \\par",
+      "reference": "Gl 6:16"
+    },
+    "17": {
+      "text": "Doravante ninguém mais me moleste. Pois eu trago em meu corpo as marcas de Jesus.",
+      "reference": "Gl 6:17"
+    },
+    "18": {
+      "text": "Irmãos, que a graça de nosso Senhor Jesus Cristo esteja com vosso espírito! Amém. \\par",
+      "reference": "Gl 6:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

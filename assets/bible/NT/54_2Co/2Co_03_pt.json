@@ -1,0 +1,85 @@
+{
+  "book": 47,
+  "book_name": "2Coríntios",
+  "book_abbr": "2Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Corinthians",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Começaremos de novo a nos recomendar? Ou será que, como alguns, precisamos de cartas de recomendação para vós ou da vossa parte?",
+      "reference": "2Co 3:1"
+    },
+    "2": {
+      "text": "Nossa carta sois vós, carta escrita em nossos corações, reconhecida e lida por todos os homens.",
+      "reference": "2Co 3:2"
+    },
+    "3": {
+      "text": "Evidentemente, sois uma carta de Cristo, entregue ao nosso ministério, escrita não com tinta, mas com o Espírito de Deus vivo, não em tábuas de pedra, mas em tábuas de carne, nos corações! \\par",
+      "reference": "2Co 3:3"
+    },
+    "4": {
+      "text": "Tal é a certeza que temos, graças a Cristo, diante de Deus.",
+      "reference": "2Co 3:4"
+    },
+    "5": {
+      "text": "Não como se fôssemos dotados de capacidade que pudéssemos atribuir a nós mesmos, mas é de Deus que vem a nossa capacidade.",
+      "reference": "2Co 3:5"
+    },
+    "6": {
+      "text": "Foi ele quem nos tornou aptos para sermos ministros de uma Aliança nova, não da letra, e sim do Espírito, pois a letra mata, mas o Espírito comunica a vida.",
+      "reference": "2Co 3:6"
+    },
+    "7": {
+      "text": "Ora, se o ministério da morte, gravado com letras sobre a pedra, foi tão assinalado pela glória que os israelitas não podiam fixar os olhos no semblante de Moisés, por causa do fulgor que nele havia – fulgor, aliás, passageiro –,",
+      "reference": "2Co 3:7"
+    },
+    "8": {
+      "text": "como não será ainda mais glorioso o ministério do Espírito?",
+      "reference": "2Co 3:8"
+    },
+    "9": {
+      "text": "Na verdade, se o ministério da condenação foi glorioso, muito mais glorioso será o ministério da justiça.",
+      "reference": "2Co 3:9"
+    },
+    "10": {
+      "text": "Mesmo a glória que então se verificou já não pode ser considerada glória, em comparação com a glória atual, que lhe é muito superior.",
+      "reference": "2Co 3:10"
+    },
+    "11": {
+      "text": "Pois, se o que é passageiro foi assinalado pela glória, com mais razão, o que permanece deve ser glorioso. \\par",
+      "reference": "2Co 3:11"
+    },
+    "12": {
+      "text": "Fortalecidos por tal esperança, temos plena confiança:",
+      "reference": "2Co 3:12"
+    },
+    "13": {
+      "text": "não fazemos como Moisés, que colocava um véu sobre a sua face para que os filhos de Israel não percebessem o fim do que era transitório...",
+      "reference": "2Co 3:13"
+    },
+    "14": {
+      "text": "Mas os seus espíritos se tornaram obscurecidos. Sim; até hoje, quando lêem o Antigo Testamento, este mesmo véu permanece. Não é retirado, porque é em Cristo que ele desaparece.",
+      "reference": "2Co 3:14"
+    },
+    "15": {
+      "text": "Sim; até hoje, todas as vezes que lêem Moisés, um véu está sobre o seu coração.",
+      "reference": "2Co 3:15"
+    },
+    "16": {
+      "text": "É somente pela conversão ao Senhor que o véu cai.",
+      "reference": "2Co 3:16"
+    },
+    "17": {
+      "text": "Pois o Senhor é o Espírito, e onde se acha o Espírito do Senhor aí está a liberdade.",
+      "reference": "2Co 3:17"
+    },
+    "18": {
+      "text": "E nós todos que, com a face descoberta, refletimos como num espelho a glória do Senhor, somos transfigurados nessa mesma imagem, cada vez mais resplandecente, pela ação do Senhor, que é o Espírito. \\par",
+      "reference": "2Co 3:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

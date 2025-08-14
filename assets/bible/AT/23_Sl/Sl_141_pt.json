@@ -1,0 +1,53 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 141,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 141 (140)\\par }{\\qc\\b\\i Contra a sedução do mal\\par }{\\qc\\i Salmo. De Davi.\\par } Iahweh, eu te chamo, socorre-me depressa! \\par Ouve minha voz quando clamo a ti! \\par",
+      "reference": "Sl 141:1"
+    },
+    "2": {
+      "text": "Suba minha prece como incenso em tua presença, \\par minhas mãos erguidas como oferta vespertina! \\par",
+      "reference": "Sl 141:2"
+    },
+    "3": {
+      "text": "Iahweh, coloca uma guarda em minha boca, \\par uma sentinela à porta dos meus lábios. \\par",
+      "reference": "Sl 141:3"
+    },
+    "4": {
+      "text": "Impede meu coração de se inclinar ao mal, \\par de cometer a maldade com os malfeitores. \\par Não vou ter prezar em seus banquetes! \\par",
+      "reference": "Sl 141:4"
+    },
+    "5": {
+      "text": "Que o justo me bata, que o bom me corrija, \\par que o óleo do ímpio não me perfume a cabeça, \\par pois eu iria comprometer-me com suas maldades. \\par",
+      "reference": "Sl 141:5"
+    },
+    "6": {
+      "text": "Eles estão entregues ao poder da Rocha, seu juiz, \\par eles que tinham prazer quando me ouviam dizer: \\par",
+      "reference": "Sl 141:6"
+    },
+    "7": {
+      "text": "“Como pedra do moinho rebentada por terra, \\par estão espalhados nossos ossos à boca do Xeol”. \\par",
+      "reference": "Sl 141:7"
+    },
+    "8": {
+      "text": "A ti, Iahweh, elevo meus olhos, \\par eu me abrigo em ti, não me deixes sem defesa! \\par",
+      "reference": "Sl 141:8"
+    },
+    "9": {
+      "text": "Guarda-me das armadilhas que armaram para mim, \\par e das ciladas dos malfeitores. \\par",
+      "reference": "Sl 141:9"
+    },
+    "10": {
+      "text": "Caiam os ímpios, cada qual em sua rede, \\par enquanto eu escapo, em liberdade! \\par",
+      "reference": "Sl 141:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

@@ -1,0 +1,65 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 76,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 76 (75)\\par }{\\qc\\b\\i Ode ao Deus terrível\\par }{\\qc\\i Do mestre de canto. Com instrumentos de corda. Salmo. De Asaf. Cântico. \\par }",
+      "reference": "Sl 76:1"
+    },
+    "2": {
+      "text": "Deus é conhecido em Judá, \\par em Israel grande é seu nome; \\par",
+      "reference": "Sl 76:2"
+    },
+    "3": {
+      "text": "sua tenda está em Salém \\par e sua moradia em Sião. \\par",
+      "reference": "Sl 76:3"
+    },
+    "4": {
+      "text": "Ali quebrou os relâmpagos do arco, \\par o escudo, a espada e a guerra. \\par",
+      "reference": "Sl 76:4"
+    },
+    "5": {
+      "text": "Sois luminoso e célebre \\par pelos montes de despojos",
+      "reference": "Sl 76:5"
+    },
+    "6": {
+      "text": "deles tomados. \\par Os corajosos dormiram seu sono, \\par e os braços falharam aos guerreiros todos; \\par",
+      "reference": "Sl 76:6"
+    },
+    "7": {
+      "text": "à tua ameaça, ó Deus de Jacó, \\par carro e cavalo ficaram parados. \\par",
+      "reference": "Sl 76:7"
+    },
+    "8": {
+      "text": "Tu és terrível! Quem subsiste \\par à tua frente, quando ficas irado? \\par",
+      "reference": "Sl 76:8"
+    },
+    "9": {
+      "text": "Do céu fazes ouvir a sentença: \\par a terra teme e permanece calada, \\par",
+      "reference": "Sl 76:9"
+    },
+    "10": {
+      "text": "quando Deus se levanta para julgar \\par e salvar todos os pobres da terra. \\par",
+      "reference": "Sl 76:10"
+    },
+    "11": {
+      "text": "A ira do homem é louvor para ti, \\par tu te cinges com os que escapam à Ira. \\par",
+      "reference": "Sl 76:11"
+    },
+    "12": {
+      "text": "Fazei votos a Iahweh vosso Deus e cumpri-os, \\par vós que o cercais, fazei ofertas ao Terrível; \\par",
+      "reference": "Sl 76:12"
+    },
+    "13": {
+      "text": "ele corta o sopro dos príncipes, \\par para os reis da terra ele é terrível! \\par",
+      "reference": "Sl 76:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

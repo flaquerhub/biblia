@@ -1,0 +1,129 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 34,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Fronteiras de Canaã\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Nm 34:1"
+    },
+    "2": {
+      "text": "“Dá ordens aos filhos de Israel e dize-lhes: Quando entrardes na terra (de Canaã), esta será a terra que vos caberá em herança: a terra de Canaã, segundo as suas fronteiras. \\par",
+      "reference": "Nm 34:2"
+    },
+    "3": {
+      "text": "A região meridional do vosso domínio se estenderá a partir do deserto de Sin, que faz limite com Edom. A vossa fronteira meridional começará do lado do oriente, desde a extremidade do mar Salgado.",
+      "reference": "Nm 34:3"
+    },
+    "4": {
+      "text": "Depois se voltará ao sul, em direção à subida dos Escorpiões, passará por Sin e chegará ao sul, a Cades-Barne. Em seguida irá em direção a Hasar-Adar e passará por Asemona.",
+      "reference": "Nm 34:4"
+    },
+    "5": {
+      "text": "De Asemona a fronteira se voltará em direção à Torrente do Egito e terminará no Mar. \\par",
+      "reference": "Nm 34:5"
+    },
+    "6": {
+      "text": "Tereis por fronteira marítima o Grande Mar; este limite vos servirá de fronteira ao ocidente. \\par",
+      "reference": "Nm 34:6"
+    },
+    "7": {
+      "text": "Esta será a vossa fronteira setentrional: traçareis uma linha desde o Grande Mar até a montanha de Hor,",
+      "reference": "Nm 34:7"
+    },
+    "8": {
+      "text": "e da montanha de Hor traçareis uma linha até à Entrada de Emat, e a fronteira terminará em Sedada.",
+      "reference": "Nm 34:8"
+    },
+    "9": {
+      "text": "Prosseguirá em direção a Zefrona e terminará em Hasar-Enon. Esta será a vossa fronteira setentrional. \\par",
+      "reference": "Nm 34:9"
+    },
+    "10": {
+      "text": "Em seguida traçareis vossa fronteira oriental de Hasar-Enon a Sefama.",
+      "reference": "Nm 34:10"
+    },
+    "11": {
+      "text": "A fronteira descerá de Sefama em direção a Harbel, ao oriente de Ain. Descendo ainda tocará a margem oriental do mar de Quineret.",
+      "reference": "Nm 34:11"
+    },
+    "12": {
+      "text": "A fronteira seguirá então o Jordão e irá terminar no mar Salgado. \\par Esta será a vossa terra, com as fronteiras que fazem o seu contorno”. \\par",
+      "reference": "Nm 34:12"
+    },
+    "13": {
+      "text": "Moisés deu, então, esta ordem aos filhos de Israel: \\par “Esta é a terra que repartireis como herança, para vós, por meio de sorte, e que Iahweh ordenou que se desse às nove tribos e à meia tribo.",
+      "reference": "Nm 34:13"
+    },
+    "14": {
+      "text": "Porque a tribo dos filhos de Rúben, com as suas famílias, e a tribo dos filhos de Gad, com as suas famílias, já receberam a sua herança; a meia tribo de Manassés já recebeu também a sua herança.",
+      "reference": "Nm 34:14"
+    },
+    "15": {
+      "text": "Estas duas tribos e a meia tribo já receberam a sua herança além do Jordão de Jericó, ao oriente, no levante”. \\par",
+      "reference": "Nm 34:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Os príncipes indicados para a partilha\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Nm 34:16"
+    },
+    "17": {
+      "text": "“Estes são os nomes dos homens que repartirão a terra por herança entre vós: Eleazar, o sacerdote, e Josué, filho de Nun,",
+      "reference": "Nm 34:17"
+    },
+    "18": {
+      "text": "e para cada tribo tomareis um príncipe para repartir a terra por herança.",
+      "reference": "Nm 34:18"
+    },
+    "19": {
+      "text": "Estes são os nomes desses príncipes: \\par Para a tribo de Judá, Caleb, filho de Jefoné; \\par",
+      "reference": "Nm 34:19"
+    },
+    "20": {
+      "text": "para a tribo dos filhos de Simeão, Samuel, filho de Amiud; \\par",
+      "reference": "Nm 34:20"
+    },
+    "21": {
+      "text": "para a tribo de Benjamim, Elidad, filho de Caselon; \\par",
+      "reference": "Nm 34:21"
+    },
+    "22": {
+      "text": "para a tribo dos filhos de Dã, o príncipe Boci, filho de Jogli; \\par",
+      "reference": "Nm 34:22"
+    },
+    "23": {
+      "text": "para a tribo dos filhos de José, para a tribo dos filhos de Manassés, o príncipe Haniel, filho de Efod; \\par",
+      "reference": "Nm 34:23"
+    },
+    "24": {
+      "text": "e para a tribo dos filhos de Efraim, o príncipe Camuel, filho de Seftã; \\par",
+      "reference": "Nm 34:24"
+    },
+    "25": {
+      "text": "para a tribo dos filhos de Zabulon, o príncipe Elisafã, filho de Farnac; \\par",
+      "reference": "Nm 34:25"
+    },
+    "26": {
+      "text": "para a tribo dos filhos de Issacar, o príncipe Faltiel, filho de Ozã; \\par",
+      "reference": "Nm 34:26"
+    },
+    "27": {
+      "text": "para a tribo dos filhos de Aser, o príncipe Aiud, filho de Salomi; \\par",
+      "reference": "Nm 34:27"
+    },
+    "28": {
+      "text": "para a tribo dos filhos de Neftali, o príncipe Fedael, filho de Amiud”. \\par",
+      "reference": "Nm 34:28"
+    },
+    "29": {
+      "text": "São esses aos quais Iahweh ordenou que atribuíssem aos filhos de Israel a sua parte de herança na terra de Canaã. \\par",
+      "reference": "Nm 34:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

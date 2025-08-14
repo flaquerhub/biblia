@@ -1,0 +1,197 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Parábola do banquete nupcial\\par }Jesus voltou a falar-lhes em parábolas e disse:",
+      "reference": "Mt 22:1"
+    },
+    "2": {
+      "text": "“O Reino dos Céus é semelhante a um rei que celebrou as núpcias do seu filho.",
+      "reference": "Mt 22:2"
+    },
+    "3": {
+      "text": "Enviou seus servos para chamar os convidados para as núpcias, mas estes não quiseram vir.",
+      "reference": "Mt 22:3"
+    },
+    "4": {
+      "text": "Tornou a enviar outros servos, recomendando: ‘Dizei aos convidados: eis que preparei meu banquete, meus touros e cevados já foram degolados e tudo está pronto. Vinde às núpcias’.",
+      "reference": "Mt 22:4"
+    },
+    "5": {
+      "text": "Eles, porém, sem darem a menor atenção, foram-se, um para o seu campo, outro para o seu negócio,",
+      "reference": "Mt 22:5"
+    },
+    "6": {
+      "text": "e os restantes, agarrando os servos, os maltrataram e os mataram.",
+      "reference": "Mt 22:6"
+    },
+    "7": {
+      "text": "Diante disso, o rei ficou com muita raiva e, mandando as suas tropas, destruiu aqueles homicidas e incendiou-lhes a cidade.",
+      "reference": "Mt 22:7"
+    },
+    "8": {
+      "text": "Em seguida, disse aos servos: ‘As núpcias estão prontas, mas os convidados não eram dignos.",
+      "reference": "Mt 22:8"
+    },
+    "9": {
+      "text": "Ide, pois, às encruzilhadas e convidai para as núpcias todos os que encontrardes’.",
+      "reference": "Mt 22:9"
+    },
+    "10": {
+      "text": "E esses servos, saindo pelos caminhos, reuniram todos os que encontraram, maus e bons, de modo que a sala nupcial ficou cheia de convivas.",
+      "reference": "Mt 22:10"
+    },
+    "11": {
+      "text": "Quando o rei entrou para examinar os convivas, viu ali um homem sem a veste nupcial",
+      "reference": "Mt 22:11"
+    },
+    "12": {
+      "text": "e disse-lhe: ‘Amigo, como entraste aqui sem a veste nupcial?’ Ele, porém, ficou calado.",
+      "reference": "Mt 22:12"
+    },
+    "13": {
+      "text": "Então disse o rei aos que serviam: ‘Amarrai-lhe os pés e as mãos e lançai-o fora, nas trevas exteriores. Ali haverá choro e ranger de dentes’.",
+      "reference": "Mt 22:13"
+    },
+    "14": {
+      "text": "Com efeito, muitos são os chamados, mas poucos escolhidos”. \\par",
+      "reference": "Mt 22:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i O tributo a César\\par }Quando eles partiram, os fariseus fizeram um conselho para tramar como apanhá-lo por alguma palavra.",
+      "reference": "Mt 22:15"
+    },
+    "16": {
+      "text": "E lhe enviaram os seus discípulos, juntamente com os herodianos, para lhe dizerem: “Mestre, sabemos que és verdadeiro e que, de fato, ensinas o caminho de Deus. Não dás preferência a ninguém, pois não consideras um homem pelas aparências.",
+      "reference": "Mt 22:16"
+    },
+    "17": {
+      "text": "Dize-nos, pois, que te parece: é lícito pagar imposto a César, ou não?”",
+      "reference": "Mt 22:17"
+    },
+    "18": {
+      "text": "Jesus, porém, percebendo a sua malícia, disse: “Hipócritas! Por que me pondes à prova?",
+      "reference": "Mt 22:18"
+    },
+    "19": {
+      "text": "Mostrai-me a moeda do imposto”. Apresentaram-lhe um denário.",
+      "reference": "Mt 22:19"
+    },
+    "20": {
+      "text": "Disse ele: “De quem é esta imagem e a inscrição?”",
+      "reference": "Mt 22:20"
+    },
+    "21": {
+      "text": "Responderam: “De César”. Então lhes disse: “Devolvei, pois, o que é de César a César, e o que é de Deus, a Deus”.",
+      "reference": "Mt 22:21"
+    },
+    "22": {
+      "text": "Ao ouvirem isso, ficaram maravilhados e, deixando-o, foram-se embora. \\par",
+      "reference": "Mt 22:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i A ressurreição dos mortos\\par }Naquele dia, aproximaram-se dele alguns saduceus, que dizem não existir ressurreição, e o interrogaram:",
+      "reference": "Mt 22:23"
+    },
+    "24": {
+      "text": "“Mestre, Moisés disse: {\\i Se alguém morrer sem ter filhos, o seu irmão se casará com a viúva e suscitará descendência para o seu irmão.}",
+      "reference": "Mt 22:24"
+    },
+    "25": {
+      "text": "Ora, havia entre nós sete irmãos. O primeiro, tendo-se casado, morreu e, como não tivesse descendência, deixou a mulher para seu irmão.",
+      "reference": "Mt 22:25"
+    },
+    "26": {
+      "text": "O mesmo aconteceu com o segundo, com o terceiro, até o sétimo.",
+      "reference": "Mt 22:26"
+    },
+    "27": {
+      "text": "Por fim, depois de todos eles, morreu também a mulher.",
+      "reference": "Mt 22:27"
+    },
+    "28": {
+      "text": "Pois bem, na ressurreição, de qual dos sete será a mulher, pois que todos a tiveram?”",
+      "reference": "Mt 22:28"
+    },
+    "29": {
+      "text": "Jesus respondeu-lhes: “Estais enganados, desconhecendo as Escrituras e o poder de Deus.",
+      "reference": "Mt 22:29"
+    },
+    "30": {
+      "text": "Com efeito, na ressurreição, nem eles se casam e nem elas se dão em casamento, mas são todos como os anjos no céu.",
+      "reference": "Mt 22:30"
+    },
+    "31": {
+      "text": "Quanto à ressurreição dos mortos, não lestes o que Deus vos declarou:",
+      "reference": "Mt 22:31"
+    },
+    "32": {
+      "text": "{\\i Eu sou o Deus de Abraão, o Deus de Isaac e o Deus de Jacó}? Ora, ele não é Deus de mortos, mas sim de vivos”.",
+      "reference": "Mt 22:32"
+    },
+    "33": {
+      "text": "Ao ouvir isso, as multidões ficaram extasiadas com o seu ensinamento. \\par",
+      "reference": "Mt 22:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i O maior dos mandamentos\\par }Os fariseus, ouvindo que ele fechara a boca dos saduceus, reuniram-se em grupo",
+      "reference": "Mt 22:34"
+    },
+    "35": {
+      "text": "e um deles – a fim de pô-lo à prova – perguntou-lhe:",
+      "reference": "Mt 22:35"
+    },
+    "36": {
+      "text": "“Mestre, qual é o maior mandamento da Lei?”",
+      "reference": "Mt 22:36"
+    },
+    "37": {
+      "text": "Ele respondeu: “{\\i Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma} e de todo o teu entendimento.",
+      "reference": "Mt 22:37"
+    },
+    "38": {
+      "text": "Esse é o maior e o primeiro mandamento.",
+      "reference": "Mt 22:38"
+    },
+    "39": {
+      "text": "O segundo é semelhante a esse: {\\i Amarás o teu próximo como a ti mesmo.}",
+      "reference": "Mt 22:39"
+    },
+    "40": {
+      "text": "Desses dois mandamentos dependem toda a Lei e os Profetas”. \\par",
+      "reference": "Mt 22:40"
+    },
+    "41": {
+      "text": "\\par {\\qc\\b\\i O Cristo, filho e Senhor de Davi\\par }Estando os fariseus reunidos, Jesus interrogou-os:",
+      "reference": "Mt 22:41"
+    },
+    "42": {
+      "text": "“Que pensais a respeito do Cristo? Ele é filho de quem?” Responderam-lhe: “De Davi”.",
+      "reference": "Mt 22:42"
+    },
+    "43": {
+      "text": "Ao que Jesus lhes disse: “Como então Davi, falando sob inspiração, lhe chama Senhor, ao dizer: \\par",
+      "reference": "Mt 22:43"
+    },
+    "44": {
+      "text": "{\\i O Senhor disse ao meu Senhor: \\par senta-te à minha direita, \\par até que eu ponha os teus inimigos \\par debaixo dos teus pés? }\\par",
+      "reference": "Mt 22:44"
+    },
+    "45": {
+      "text": "Ora, se Davi lhe chama Senhor, como pode ser seu filho?”",
+      "reference": "Mt 22:45"
+    },
+    "46": {
+      "text": "E ninguém podia responder-lhe nada. E a partir daquele dia, ninguém se atrevia a interrogá-lo. \\par",
+      "reference": "Mt 22:46"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 46
+}

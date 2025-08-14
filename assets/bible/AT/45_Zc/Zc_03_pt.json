@@ -1,0 +1,53 @@
+{
+  "book": 38,
+  "book_name": "Zacarias",
+  "book_abbr": "Zc",
+  "book_category": "Profético",
+  "book_english": "Zechariah",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Quarta visão: a veste de Josué\\par }Ele me fez ver Josué, sumo sacerdote, que estava de pé diante do Anjo de Iahweh, e Satã, que estava de pé à sua direita para acusá-lo.",
+      "reference": "Zc 3:1"
+    },
+    "2": {
+      "text": "O Anjo de Iahweh disse a Satã: “Que Iahweh te reprima, Satã, reprima-te Iahweh, que elegeu Jerusalém. Este não é, por acaso, um tição tirado do fogo?”",
+      "reference": "Zc 3:2"
+    },
+    "3": {
+      "text": "Josué estava vestido de roupas sujas, enquanto estava de pé diante do anjo.",
+      "reference": "Zc 3:3"
+    },
+    "4": {
+      "text": "{\\super (4a)} E ele falou aos que estavam de pé diante dele: “Tirai-lhe as vestes sujas {\\super (4c)} e vesti-o com vestes luxuosas;",
+      "reference": "Zc 3:4"
+    },
+    "5": {
+      "text": "colocai em sua cabeça um turbante limpo. Colocaram um turbante limpo em sua cabeça e o vestiram com roupas limpas. O Anjo de Iahweh estava de pé, {\\super (4b)} e lhe disse: “Vê! Tirei de ti a tua iniqüidade”.",
+      "reference": "Zc 3:5"
+    },
+    "6": {
+      "text": "E o Anjo de Iahweh declarou solenemente a Josué:",
+      "reference": "Zc 3:6"
+    },
+    "7": {
+      "text": "“Assim disse Iahweh dos Exércitos: Se andares pelos meus caminhos e guardares os meus preceitos, então tu governarás a minha casa e administrarás os meus pátios e eu te darei acesso entre os que estão aqui de pé. {\\super (9a)} Pois eis a pedra que coloquei diante de Josué; sobre essa única pedra há sete olhos; eis que vou gravar sua inscrição, oráculo de Iahweh dos Exércitos”. \\par",
+      "reference": "Zc 3:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i A vinda do “Rebento”\\par }Ouve, pois, Josué, sumo sacerdote, tu e teus companheiros que estão sentados diante de ti – porque eles são homens de presságio –: Eis que vou introduzir o meu servo “Rebento”.",
+      "reference": "Zc 3:8"
+    },
+    "9": {
+      "text": "{\\super (9b)} Eu afastarei a iniquidade desta terra em um único dia.",
+      "reference": "Zc 3:9"
+    },
+    "10": {
+      "text": "Naquele dia – oráculo de Iahweh dos Exércitos – convidar-vos-eis uns aos outros debaixo da vinha e debaixo da figueira. \\par",
+      "reference": "Zc 3:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

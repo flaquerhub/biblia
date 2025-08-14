@@ -1,0 +1,113 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "O filho sábio escuta a disciplina do pai, \\par e o zombador não escuta a reprimenda. \\par",
+      "reference": "Pv 13:1"
+    },
+    "2": {
+      "text": "Pelo fruto da boca o homem se nutre do bem, \\par mas a alma dos traidores, de violência. \\par",
+      "reference": "Pv 13:2"
+    },
+    "3": {
+      "text": "Quem vigia a própria boca guarda a sua vida, \\par mas se perde quem escancara com os lábios! \\par",
+      "reference": "Pv 13:3"
+    },
+    "4": {
+      "text": "O preguiçoso espera, e nada tem para sua fome; \\par a fome dos diligentes é saciada. \\par",
+      "reference": "Pv 13:4"
+    },
+    "5": {
+      "text": "O justo odeia a palavra mentirosa, \\par mas o ímpio desonra e difama. \\par",
+      "reference": "Pv 13:5"
+    },
+    "6": {
+      "text": "A justiça guarda aquele cujo caminho é íntegro, \\par o pecado causa a ruína do ímpio. \\par",
+      "reference": "Pv 13:6"
+    },
+    "7": {
+      "text": "Há o que finge ser rico e nada tem, \\par e o que parece pobre e tem grandes bens. \\par",
+      "reference": "Pv 13:7"
+    },
+    "8": {
+      "text": "O resgate da vida de um homem é sua riqueza; \\par mas o pobre não ouve a reprimenda. \\par",
+      "reference": "Pv 13:8"
+    },
+    "9": {
+      "text": "A luz dos justos é alegre, \\par a lâmpada dos ímpios se apaga. \\par",
+      "reference": "Pv 13:9"
+    },
+    "10": {
+      "text": "A insolência só causa discórdia; \\par a sabedoria está com os que se deixam aconselhar. \\par",
+      "reference": "Pv 13:10"
+    },
+    "11": {
+      "text": "Fortuna apressada diminui, \\par quem ajunta pouco a pouco se enriquece. \\par",
+      "reference": "Pv 13:11"
+    },
+    "12": {
+      "text": "A esperança que tarda deixa doente o coração; \\par é árvore de vida o desejo que se realiza. \\par",
+      "reference": "Pv 13:12"
+    },
+    "13": {
+      "text": "Quem despreza a palavra perder-se-á, \\par quem respeita o mandamento será salvo. \\par",
+      "reference": "Pv 13:13"
+    },
+    "14": {
+      "text": "O ensinamento do sábio é fonte de vida \\par para afastar os laços da morte. \\par",
+      "reference": "Pv 13:14"
+    },
+    "15": {
+      "text": "Um grande bom senso alcança favor, \\par o caminho dos traidores é duro. \\par",
+      "reference": "Pv 13:15"
+    },
+    "16": {
+      "text": "Todo homem sagaz age com conhecimento, \\par o insensato propala sua estultícia. \\par",
+      "reference": "Pv 13:16"
+    },
+    "17": {
+      "text": "O mensageiro malvado cai na desgraça, \\par o mensageiro fiel traz a cura. \\par",
+      "reference": "Pv 13:17"
+    },
+    "18": {
+      "text": "Miséria e ignomínia para quem abandona a disciplina, \\par honra para quem observa a repreensão. \\par",
+      "reference": "Pv 13:18"
+    },
+    "19": {
+      "text": "Desejo satisfeito, doçura para a alma, \\par para os insensatos é abominação afastar-se do mal. \\par",
+      "reference": "Pv 13:19"
+    },
+    "20": {
+      "text": "Quem caminha com os Sábios torna-se sábio, \\par quem se ajunta aos insensatos torna-se mau. \\par",
+      "reference": "Pv 13:20"
+    },
+    "21": {
+      "text": "A desgraça persegue os pecadores; \\par aos justos, a paz e o bem. \\par",
+      "reference": "Pv 13:21"
+    },
+    "22": {
+      "text": "Aos filhos dos filhos o homem de bem deixa uma herança, \\par ao justo está reservada a fortuna dos pecadores. \\par",
+      "reference": "Pv 13:22"
+    },
+    "23": {
+      "text": "A lavoura do pobre dá rico sustento, \\par mas pode se perder por falta de justiça. \\par",
+      "reference": "Pv 13:23"
+    },
+    "24": {
+      "text": "Quem poupa a vara odeia seu filho, \\par aquele que o ama aplica a disciplina. \\par",
+      "reference": "Pv 13:24"
+    },
+    "25": {
+      "text": "O justo come e se farta, \\par o ventre dos ímpios passa fome. \\par",
+      "reference": "Pv 13:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

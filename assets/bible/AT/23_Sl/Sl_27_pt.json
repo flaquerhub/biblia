@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 27 (26)\\par }{\\qc\\b\\i Junto a Deus não há temor\\par }{\\qc\\i De Davi.\\par } Iahweh é minha luz e minha salvação: \\par de quem terei medo? \\par Iahweh é a fortaleza de minha vida: \\par frente a quem tremerei? \\par",
+      "reference": "Sl 27:1"
+    },
+    "2": {
+      "text": "Quando os malfeitores avançam contra mim \\par para devorar minha carne, \\par são eles, meus adversários e meus inimigos, \\par que tropeçam e caem. \\par",
+      "reference": "Sl 27:2"
+    },
+    "3": {
+      "text": "Ainda que um exército acampe contra mim, \\par meu coração não temerá; \\par ainda que uma guerra estoure contra mim, \\par mesmo assim estarei confiante. \\par",
+      "reference": "Sl 27:3"
+    },
+    "4": {
+      "text": "Uma coisa peço a Iahweh \\par e a procuro: \\par é habitar na casa de Iahweh \\par todos os dias de minha vida, \\par para gozar a doçura de Iahweh \\par e meditar no seu templo. \\par",
+      "reference": "Sl 27:4"
+    },
+    "5": {
+      "text": "Pois ele me oculta na sua cabana \\par no dia da infelicidade; \\par ele me esconde no segredo de sua tenda, \\par e me eleva sobre uma rocha. \\par",
+      "reference": "Sl 27:5"
+    },
+    "6": {
+      "text": "Agora minha cabeça se ergue \\par sobre os inimigos que me cercam; \\par vou oferecer em sua tenda \\par sacrifícios de aclamação. \\par Vou cantar, vou tocar em honra de Iahweh! \\par",
+      "reference": "Sl 27:6"
+    },
+    "7": {
+      "text": "Ouve, Iahweh, meu grito de apelo, \\par e tem piedade de mim, e responde-me! \\par",
+      "reference": "Sl 27:7"
+    },
+    "8": {
+      "text": "Meu coração diz a teu respeito: \\par “Procura sua face!” \\par É tua face, Iahweh, que eu procuro, \\par",
+      "reference": "Sl 27:8"
+    },
+    "9": {
+      "text": "não me escondas a tua face. \\par Não afastes teu servo com ira, \\par tu és o meu socorro! \\par Não me deixes, não me abandones, \\par meu Deus salvador! \\par",
+      "reference": "Sl 27:9"
+    },
+    "10": {
+      "text": "Meu pai e minha mãe me abandonaram, \\par mas Iahweh me acolhe! \\par",
+      "reference": "Sl 27:10"
+    },
+    "11": {
+      "text": "Ensina-me o teu caminho, Iahweh! \\par Guia-me por uma vereda plana \\par por causa daqueles que me espreitam; \\par",
+      "reference": "Sl 27:11"
+    },
+    "12": {
+      "text": "não me entregues à vontade dos meus adversários, \\par pois contra mim se levantaram falsas testemunhas, \\par respirando violência. \\par",
+      "reference": "Sl 27:12"
+    },
+    "13": {
+      "text": "Eu creio que verei a bondade de Iahweh \\par na terra dos vivos. \\par",
+      "reference": "Sl 27:13"
+    },
+    "14": {
+      "text": "Espera em Iahweh, sê firme! \\par Fortalece teu coração e espera em Iahweh! \\par",
+      "reference": "Sl 27:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

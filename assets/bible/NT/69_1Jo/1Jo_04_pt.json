@@ -1,0 +1,97 @@
+{
+  "book": 62,
+  "book_name": "1João",
+  "book_abbr": "1Jo",
+  "book_category": "Epístolas Joaninas",
+  "book_english": "1 John",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Terceira condição: preservar-se dos anticristos e do mundo\\par }Caríssimos, \\par não acrediteis em qualquer espírito, \\par mas examinai os espíritos \\par para ver se são de Deus, \\par pois muitos falsos profetas vieram ao mundo. \\par",
+      "reference": "1Jo 4:1"
+    },
+    "2": {
+      "text": "Nisto reconheceis o espírito de Deus: \\par todo espírito que confessa \\par que Jesus veio na carne é de Deus; \\par",
+      "reference": "1Jo 4:2"
+    },
+    "3": {
+      "text": "e todo espírito que não confessa Jesus \\par não é de Deus; \\par é este o espírito do Anticristo. \\par Dele ouvistes dizer que ele virá; \\par e agora ele já está no mundo. \\par",
+      "reference": "1Jo 4:3"
+    },
+    "4": {
+      "text": "Vós, filhinhos, sois de Deus \\par e vós os vencestes. \\par Porque o que está em vós \\par é maior do que aquele que está no mundo. \\par",
+      "reference": "1Jo 4:4"
+    },
+    "5": {
+      "text": "Eles são do mundo; \\par por isso falam segundo o mundo \\par e o mundo os ouve. \\par",
+      "reference": "1Jo 4:5"
+    },
+    "6": {
+      "text": "Nós somos de Deus. \\par Quem conhece a Deus nos ouve, \\par quem não é de Deus não nos ouve. \\par Nisto reconhecemos \\par o espírito da verdade e o espírito do erro. \\par",
+      "reference": "1Jo 4:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b {\\i III. Às fontes da caridade e da fé}\\par }{\\qc\\b\\i À fonte da caridade\\par }Caríssimos, \\par amemo-nos uns aos outros, \\par pois o amor é de Deus, \\par e todo aquele que ama \\par nasceu de Deus e conhece a Deus. \\par",
+      "reference": "1Jo 4:7"
+    },
+    "8": {
+      "text": "Aquele que não ama \\par não conheceu a Deus, \\par porque Deus é Amor. \\par",
+      "reference": "1Jo 4:8"
+    },
+    "9": {
+      "text": "Nisto se manifestou o amor de Deus por nós: \\par Deus enviou o seu Filho único ao mundo \\par para que vivamos por ele. \\par",
+      "reference": "1Jo 4:9"
+    },
+    "10": {
+      "text": "Nisto consiste o amor: \\par não fomos nós que amamos a Deus, \\par mas foi ele quem nos amou \\par e enviou-nos o seu Filho \\par como vítima de expiação pelos nossos pecados. \\par",
+      "reference": "1Jo 4:10"
+    },
+    "11": {
+      "text": "Caríssimos, \\par se Deus assim nos amou, \\par devemos, nós também, amar-nos uns aos outros. \\par",
+      "reference": "1Jo 4:11"
+    },
+    "12": {
+      "text": "Ninguém jamais contemplou a Deus. \\par Se nos amarmos uns aos outros, \\par Deus permanece em nós, \\par e o seu Amor em nós é levado à perfeição. \\par",
+      "reference": "1Jo 4:12"
+    },
+    "13": {
+      "text": "Nisto reconhecemos \\par que permanecemos nele e ele em nós: \\par ele nos deu o seu Espírito. \\par",
+      "reference": "1Jo 4:13"
+    },
+    "14": {
+      "text": "E nós contemplamos \\par e testemunhamos \\par que o Pai enviou o seu Filho \\par como Salvador do mundo. \\par",
+      "reference": "1Jo 4:14"
+    },
+    "15": {
+      "text": "Aquele que confessar \\par que Jesus é o Filho de Deus, \\par Deus permanece nele e ele em Deus. \\par",
+      "reference": "1Jo 4:15"
+    },
+    "16": {
+      "text": "E nós temos reconhecido \\par o amor de Deus por nós, \\par e nele acreditamos. \\par Deus é Amor: \\par aquele que permanece no amor \\par permanece em Deus e Deus permanece nele. \\par",
+      "reference": "1Jo 4:16"
+    },
+    "17": {
+      "text": "Nisto consiste a perfeição do amor em nós: \\par que tenhamos a plena confiança \\par no dia do Julgamento, \\par porque tal como ele é \\par também somos nós neste mundo. \\par",
+      "reference": "1Jo 4:17"
+    },
+    "18": {
+      "text": "Não há temor no amor; \\par ao contrário, o perfeito amor lança fora o temor, \\par porque o temor implica um castigo, \\par e o que teme \\par não chegou à perfeição do amor. \\par",
+      "reference": "1Jo 4:18"
+    },
+    "19": {
+      "text": "Quanto a nós, amemos, \\par porque ele nos amou primeiro. \\par",
+      "reference": "1Jo 4:19"
+    },
+    "20": {
+      "text": "Se alguém disser: \\par “Amo a Deus”, \\par mas odeia o seu irmão, \\par é um mentiroso: \\par pois quem não ama seu irmão, a quem vê, \\par a Deus, a quem não vê, não poderá amar. \\par",
+      "reference": "1Jo 4:20"
+    },
+    "21": {
+      "text": "E este é o mandamento que dele recebemos: \\par aquele que ama a Deus, \\par ame também o seu irmão. \\par",
+      "reference": "1Jo 4:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

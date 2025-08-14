@@ -1,0 +1,109 @@
+{
+  "book": 15,
+  "book_name": "Esdras",
+  "book_abbr": "Ed",
+  "book_category": "Histórico",
+  "book_english": "Ezra",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Documento anti-samaritano: oposição dos samaritanos no tempo de Ciro\\par }Mas quando os inimigos de Judá e de Benjamim souberam que os repatriados estavam construindo um santuário a Iahweh, o Deus de Israel,",
+      "reference": "Ed 4:1"
+    },
+    "2": {
+      "text": "vieram ao encontro de Zorobabel, de Josué e dos chefes de família e disseram-lhes: “Queremos colaborar convosco na construção, pois, como vós, buscamos vosso Deus e lhe oferecemos sacrifícios, desde o tempo de Asaradon, rei de Assíria, que nos trouxe para cá”.",
+      "reference": "Ed 4:2"
+    },
+    "3": {
+      "text": "Zorobabel, Josué e os outros chefes de famílias de Israel lhes responderam: “Não é conveniente que nós e vós construamos juntos um Templo a nosso Deus: cabe unicamente a nós construí-lo para Iahweh, o Deus de Israel, como no-lo prescreveu Ciro, rei da Pérsia”.",
+      "reference": "Ed 4:3"
+    },
+    "4": {
+      "text": "Então o povo da terra pôs-se a desencorajar o povo de Judá, e a atemorizá-lo para que não construísse mais;",
+      "reference": "Ed 4:4"
+    },
+    "5": {
+      "text": "subornaram contra eles conselheiros para frustrar seu projeto, durante todo o tempo de Ciro, rei da Pérsia, até o reinado de Dario, rei da Pérsia. \\par",
+      "reference": "Ed 4:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Oposição dos samaritanos no tempo de Xerxes e Artaxerxes\\par }Sob o reinado de Xerxes, no começo do seu reinado, eles escreveram uma carta de acusação contra os habitantes de Judá e de Jerusalém. \\par",
+      "reference": "Ed 4:6"
+    },
+    "7": {
+      "text": "No tempo de Artaxerxes, Mitrídates, Tabel e outros companheiros seus escreveram contra Jerusalém a Artaxerxes, rei da Pérsia. O texto do documento era feito na escrita aramaica e em língua aramaica.",
+      "reference": "Ed 4:7"
+    },
+    "8": {
+      "text": "Depois Reum, governador, e Samsai, secretário, escreveram ao rei Artaxerxes, contra Jerusalém, a seguinte carta:",
+      "reference": "Ed 4:8"
+    },
+    "9": {
+      "text": "Reum, o governador, Samsai, o secretário e seus outros colegas; os juízes e os legados, funcionários persas; o povo de Uruc, de Babilônia e de Susa – isto é, os elamitas –",
+      "reference": "Ed 4:9"
+    },
+    "10": {
+      "text": "e os outros povos que o grande e ilustre Assurbanipal deportou e estabeleceu nas cidades de Samaria e em outros lugares da Transeufratênia. \\par",
+      "reference": "Ed 4:10"
+    },
+    "11": {
+      "text": "Eis a cópia da carta que eles enviaram: “Ao rei Artaxerxes, teus servos, o povo da Transeufratênia: Agora, pois,",
+      "reference": "Ed 4:11"
+    },
+    "12": {
+      "text": "saiba o rei que os judeus, que saíram de junto de ti para cá, e vieram para Jerusalém, estão reconstruindo a cidade rebelde e perversa; começam a restaurar as muralhas e já cavam seus alicerces.",
+      "reference": "Ed 4:12"
+    },
+    "13": {
+      "text": "Saiba o rei agora que, se esta cidade for reconstruída e restauradas suas muralhas, eles não pagarão mais impostos, nem tributos, nem direitos de passagem, e meu rei sairá prejudicado.",
+      "reference": "Ed 4:13"
+    },
+    "14": {
+      "text": "Ora, já que comemos o sal do palácio, não nos parece conveniente ver fazer-se esta afronta ao rei; por isso enviamos ao rei essas informações,",
+      "reference": "Ed 4:14"
+    },
+    "15": {
+      "text": "para que se façam pesquisas nas Memórias de teus pais: nestas Memórias encontrarás e verificarás que esta cidade é uma cidade rebelde, que causa prejuízo aos reis e às províncias, e que nela se tem fomentado revoltas desde os tempos antigos. Foi por isso que esta cidade foi destruída.",
+      "reference": "Ed 4:15"
+    },
+    "16": {
+      "text": "Fazemos saber ao rei que, se esta cidade for reconstruída e suas muralhas reedificadas, em breve não terás mais possessão alguma na Transeufratênia!” \\par",
+      "reference": "Ed 4:16"
+    },
+    "17": {
+      "text": "O rei mandou a seguinte resposta: “A Reum, governador, a Samsai, secretário, e a seus outros colegas, que residem na Samaria e em outros lugares da Transeufratênia, paz! \\par Agora, pois,",
+      "reference": "Ed 4:17"
+    },
+    "18": {
+      "text": "a carta que enviastes a mim foi lida na minha presença em sua tradução.",
+      "reference": "Ed 4:18"
+    },
+    "19": {
+      "text": "Ordenei que se fizessem investigações e achou-se que desde os tempos antigos esta cidade se tem sublevado contra os reis e que nela tem havido insurreições e revoltas.",
+      "reference": "Ed 4:19"
+    },
+    "20": {
+      "text": "Reis poderosos reinaram em Jerusalém, tendo-se tornado senhores de toda a região da Transeufratênia: a eles se pagavam impostos, tributos e direitos de passagem.",
+      "reference": "Ed 4:20"
+    },
+    "21": {
+      "text": "Ordenai, portanto, que cessem as obras desses homens: esta cidade não deve ser reconstruída, até que eu ordene outra coisa.",
+      "reference": "Ed 4:21"
+    },
+    "22": {
+      "text": "Guardai-vos de agir com negligência neste assunto, para que o mal não aumente em prejuízo dos reis”. \\par",
+      "reference": "Ed 4:22"
+    },
+    "23": {
+      "text": "Logo que a cópia do documento do rei Artaxerxes foi lida diante do governador Reum, de Samsai, o secretário, e de seus colegas, partiram a toda pressa para Jerusalém, ao encontro dos judeus e, pela força das armas, fizeram cessar os trabalhos. \\par",
+      "reference": "Ed 4:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i A construção do Templo (520-515)\\par }Assim foi que ficaram interrompidos os trabalhos do Templo de Deus em Jerusalém: a interrupção durou até o segundo ano do reinado de Dario, rei da Pérsia. \\par",
+      "reference": "Ed 4:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

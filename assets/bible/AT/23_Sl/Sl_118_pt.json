@@ -1,0 +1,129 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 118,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 118 (117)\\par }{\\qc\\b\\i Liturgia para a festa das Tendas\\par }Aleluia!\\par Celebrai a Iahweh, porque ele é bom, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 118:1"
+    },
+    "2": {
+      "text": "A casa de Israel repita: \\par o seu amor é para sempre! \\par",
+      "reference": "Sl 118:2"
+    },
+    "3": {
+      "text": "A casa de Aarão repita: \\par o seu amor é para sempre! \\par",
+      "reference": "Sl 118:3"
+    },
+    "4": {
+      "text": "Os que temem a Iahweh repitam: \\par o seu amor é para sempre! \\par",
+      "reference": "Sl 118:4"
+    },
+    "5": {
+      "text": "Na angústia eu gritei a Iahweh: \\par ele me ouviu e me aliviou. \\par",
+      "reference": "Sl 118:5"
+    },
+    "6": {
+      "text": "Iahweh está comigo: jamais temerei! \\par Que poderia fazer-me o homem? \\par",
+      "reference": "Sl 118:6"
+    },
+    "7": {
+      "text": "Iahweh está comigo, ele me ajudou: \\par eu vou confrontar-me com meus inimigos! \\par",
+      "reference": "Sl 118:7"
+    },
+    "8": {
+      "text": "É melhor abrigar-se em Iahweh \\par do que pôr confiança no homem; \\par",
+      "reference": "Sl 118:8"
+    },
+    "9": {
+      "text": "é melhor abrigar-se em Iahweh \\par do que pôr confiança nos nobres. \\par",
+      "reference": "Sl 118:9"
+    },
+    "10": {
+      "text": "As nações todas me cercaram: \\par em nome de Iahweh as destruí! \\par",
+      "reference": "Sl 118:10"
+    },
+    "11": {
+      "text": "Cercaram-me, fecharam o cerco: \\par em nome de Iahweh as destruí! \\par",
+      "reference": "Sl 118:11"
+    },
+    "12": {
+      "text": "Cercaram-me como vespas, \\par ardiam como fogo no espinheiro:\\par em nome de Iahweh as destruí! \\par",
+      "reference": "Sl 118:12"
+    },
+    "13": {
+      "text": "Iam empurrando para me derrubar, \\par mas Iahweh me socorreu: \\par",
+      "reference": "Sl 118:13"
+    },
+    "14": {
+      "text": "minha força e meu canto é Iahweh, \\par ele foi a minha salvação! \\par",
+      "reference": "Sl 118:14"
+    },
+    "15": {
+      "text": "Há gritos de júbilo e salvação \\par nas tendas dos justos: \\par “– A direita de Iahweh faz proezas! \\par",
+      "reference": "Sl 118:15"
+    },
+    "16": {
+      "text": "– A direita de Iahweh é excelsa! \\par – A direita de Iahweh faz proezas!” \\par",
+      "reference": "Sl 118:16"
+    },
+    "17": {
+      "text": "Jamais morrerei, eu vou viver \\par para contar as obras de Iahweh! \\par",
+      "reference": "Sl 118:17"
+    },
+    "18": {
+      "text": "Iahweh me castigou e castigou, \\par mas não me entregou à morte! \\par",
+      "reference": "Sl 118:18"
+    },
+    "19": {
+      "text": "Abri-me as portas da justiça, \\par vou entrar celebrando a Iahweh! \\par",
+      "reference": "Sl 118:19"
+    },
+    "20": {
+      "text": "Esta é a porta de Iahweh: \\par os justos por ela entrarão. \\par",
+      "reference": "Sl 118:20"
+    },
+    "21": {
+      "text": "Eu te celebro porque me ouviste \\par e foste a minha salvação! \\par",
+      "reference": "Sl 118:21"
+    },
+    "22": {
+      "text": "A pedra que os construtores rejeitaram \\par tornou-se a pedra angular; \\par",
+      "reference": "Sl 118:22"
+    },
+    "23": {
+      "text": "isto vem de Iahweh, \\par e é maravilha aos nossos olhos. \\par",
+      "reference": "Sl 118:23"
+    },
+    "24": {
+      "text": "Este é o dia que Iahweh fez, \\par exultemos e alegremo-nos nele. \\par",
+      "reference": "Sl 118:24"
+    },
+    "25": {
+      "text": "Ah! Iahweh, dá-nos a salvação! \\par Dá-nos a vitória, Iahweh! \\par",
+      "reference": "Sl 118:25"
+    },
+    "26": {
+      "text": "Bendito o que vem em nome de Iahweh! \\par Da casa de Iahweh nós vos abençoamos. \\par",
+      "reference": "Sl 118:26"
+    },
+    "27": {
+      "text": "Iahweh é Deus: ele nos ilumina! \\par Formai a procissão com ramos \\par até aos ângulos do altar. \\par",
+      "reference": "Sl 118:27"
+    },
+    "28": {
+      "text": "Tu és o meu Deus, eu te celebro, \\par meu Deus, eu te exalto; \\par eu te celebro porque me ouviste \\par e foste a minha salvação! \\par",
+      "reference": "Sl 118:28"
+    },
+    "29": {
+      "text": "Celebrai a Iahweh, porque ele é bom, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 118:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

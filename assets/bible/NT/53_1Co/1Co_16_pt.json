@@ -1,0 +1,109 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Conclusão}\\par }{\\qc\\b\\i Recomendações, saudações, desejo final\\par }Quanto à coleta em favor dos santos, segui também vós as normas que estabeleci para as Igrejas da Galácia.",
+      "reference": "1Co 16:1"
+    },
+    "2": {
+      "text": "No primeiro dia da semana, cada um de vós ponha de lado o que conseguir poupar; deste modo, não se esperará a minha chegada para se fazerem as coletas.",
+      "reference": "1Co 16:2"
+    },
+    "3": {
+      "text": "Quando aí chegar, mandarei, munidos de cartas, aqueles que tiverdes escolhido para levar vossas dádivas a Jerusalém;",
+      "reference": "1Co 16:3"
+    },
+    "4": {
+      "text": "e, se valer a pena que eu mesmo vá, eles farão a viagem comigo. \\par",
+      "reference": "1Co 16:4"
+    },
+    "5": {
+      "text": "Irei ter convosco depois de passar pela Macedônia, pois hei de atravessar a Macedônia.",
+      "reference": "1Co 16:5"
+    },
+    "6": {
+      "text": "É possível que eu me demore convosco ou mesmo passe o inverno entre vós, para que me deis os meios de prosseguir a viagem.",
+      "reference": "1Co 16:6"
+    },
+    "7": {
+      "text": "Não quero ver-vos apenas de passagem; espero ficar algum tempo convosco, se o Senhor o permitir.",
+      "reference": "1Co 16:7"
+    },
+    "8": {
+      "text": "Entrementes, permanecerei em Éfeso até Pentecostes,",
+      "reference": "1Co 16:8"
+    },
+    "9": {
+      "text": "pois aqui se abriu uma porta larga, cheia de perspectivas para mim, e os adversários são numerosos. \\par",
+      "reference": "1Co 16:9"
+    },
+    "10": {
+      "text": "Se Timóteo for ter convosco, cuidai de que esteja sem receios em meio a vós, pois trabalha na obra do Senhor, como eu.",
+      "reference": "1Co 16:10"
+    },
+    "11": {
+      "text": "Por conseguinte, que ninguém o menospreze! Dai-lhe os meios de voltar em paz para junto de mim, pois eu o espero com os irmãos.",
+      "reference": "1Co 16:11"
+    },
+    "12": {
+      "text": "Quanto ao nosso irmão Apolo, roguei-lhe insistentemente que fosse visitar-vos com os irmãos; mas não quis em absoluto ir agora; irá quando tiver oportunidade. \\par",
+      "reference": "1Co 16:12"
+    },
+    "13": {
+      "text": "Vigiai, permanecei firmes na fé, sede corajosos, sede fortes!",
+      "reference": "1Co 16:13"
+    },
+    "14": {
+      "text": "Fazei tudo na caridade. \\par",
+      "reference": "1Co 16:14"
+    },
+    "15": {
+      "text": "Ainda uma recomendação, irmãos. Conheceis a família de Estéfanas, sabeis que são as primícias da Acaia e que se devotaram ao serviço dos santos.",
+      "reference": "1Co 16:15"
+    },
+    "16": {
+      "text": "Tende, pois, deferência para com as pessoas de tal valor e para com todos os que colaboram e se afadigam na mesma obra.",
+      "reference": "1Co 16:16"
+    },
+    "17": {
+      "text": "Regozijo-me pela presença de Estéfanas, Fortunato e Acaico, pois supriram a vossa ausência;",
+      "reference": "1Co 16:17"
+    },
+    "18": {
+      "text": "tranqüilizaram o meu espírito e o vosso. Sabei apreciar pessoas de tal valor. \\par",
+      "reference": "1Co 16:18"
+    },
+    "19": {
+      "text": "Saúdam-vos as Igrejas da Ásia. Enviam-vos efusivas saudações no Senhor Áquila e Priscila, com a Igreja que se reúne na casa deles.",
+      "reference": "1Co 16:19"
+    },
+    "20": {
+      "text": "Saúdam-vos todos os irmãos. Saudai-vos uns aos outros com ósculo santo. \\par",
+      "reference": "1Co 16:20"
+    },
+    "21": {
+      "text": "A saudação é do meu próprio punho: Paulo. \\par",
+      "reference": "1Co 16:21"
+    },
+    "22": {
+      "text": "Se alguém não ama o Senhor, seja anátema! \\par “{\\i Maran atha}”. \\par",
+      "reference": "1Co 16:22"
+    },
+    "23": {
+      "text": "A graça do Senhor Jesus esteja convosco! \\par",
+      "reference": "1Co 16:23"
+    },
+    "24": {
+      "text": "Com todos vós está o meu amor em Cristo Jesus. \\par",
+      "reference": "1Co 16:24"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 24
+}

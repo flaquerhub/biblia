@@ -1,0 +1,65 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 84,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 84 (83)\\par }{\\qc\\b\\i Canto de peregrinação\\par }{\\qc\\i Do mestre de canto. Sobre a... de Gat. Dos filhos de Coré. Salmo. \\par }",
+      "reference": "Sl 84:1"
+    },
+    "2": {
+      "text": "Quão amáveis são tuas moradas, \\par Iahweh dos Exércitos! \\par",
+      "reference": "Sl 84:2"
+    },
+    "3": {
+      "text": "Minha alma suspira e desfalece \\par pelos átrios de Iahweh; \\par meu coração e minha carne \\par exultam pelo Deus vivo. \\par",
+      "reference": "Sl 84:3"
+    },
+    "4": {
+      "text": "Até o pássaro encontrou uma casa, \\par e a andorinha um ninho para si, \\par onde põe seus filhotes: \\par os teus altares, Iahweh dos Exércitos, \\par meu Rei e meu Deus! \\par",
+      "reference": "Sl 84:4"
+    },
+    "5": {
+      "text": "Felizes os que habitam em tua casa, \\par eles te louvam sem cessar. {\\i Pausa} \\par",
+      "reference": "Sl 84:5"
+    },
+    "6": {
+      "text": "Felizes os homens cuja força está em ti, \\par e que guardam as peregrinações no coração: \\par",
+      "reference": "Sl 84:6"
+    },
+    "7": {
+      "text": "Ao passar pelo Vale das Balsameiras \\par eles o transformam em fonte, \\par e a primeira chuva o cobre de bênçãos. \\par",
+      "reference": "Sl 84:7"
+    },
+    "8": {
+      "text": "Eles caminham de terraço em terraço, \\par e Deus lhes aparece em Sião. \\par",
+      "reference": "Sl 84:8"
+    },
+    "9": {
+      "text": "Iahweh, Deus dos Exércitos, ouve minha súplica, \\par dá ouvidos, ó Deus de Jacó; {\\i Pausa} \\par",
+      "reference": "Sl 84:9"
+    },
+    "10": {
+      "text": "vê o nosso escudo, ó Deus, \\par olha a face do teu messias. \\par",
+      "reference": "Sl 84:10"
+    },
+    "11": {
+      "text": "Sim, vale mais um dia em teus átrios \\par que milhares a meu modo, \\par ficar no umbral da casa do meu Deus \\par que habitar nas tendas do ímpio. \\par",
+      "reference": "Sl 84:11"
+    },
+    "12": {
+      "text": "Por que Iahweh é sol e escudo, \\par Deus concede graça e glória; \\par Iahweh não recusa nenhum bem \\par aos que andam na integridade. \\par",
+      "reference": "Sl 84:12"
+    },
+    "13": {
+      "text": "Iahweh dos Exércitos, \\par feliz o homem que em ti confia! \\par",
+      "reference": "Sl 84:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

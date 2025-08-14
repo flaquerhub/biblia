@@ -1,0 +1,113 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Apêndice}\\par }{\\qc\\b\\i Últimas recomendações\\par }O amor fraterno permaneça.",
+      "reference": "Hb 13:1"
+    },
+    "2": {
+      "text": "Não vos esqueçais da hospitalidade, porque graças a ela alguns, sem saber, acolheram anjos.",
+      "reference": "Hb 13:2"
+    },
+    "3": {
+      "text": "Lembrai-vos dos prisioneiros, como se vós fôsseis prisioneiros com eles, e dos que são maltratados, pois também, vós tendes um corpo! \\par",
+      "reference": "Hb 13:3"
+    },
+    "4": {
+      "text": "O matrimônio seja honrado por todos, e o leito conjugal, sem mancha; porque Deus julgará os fornicadores e os adúlteros.",
+      "reference": "Hb 13:4"
+    },
+    "5": {
+      "text": "Que o amor ao dinheiro não inspire a vossa conduta. Contentai-vos com o que tendes, porque ele próprio disse: {\\i Eu nunca te deixarei, jamais te abandonarei.}",
+      "reference": "Hb 13:5"
+    },
+    "6": {
+      "text": "De modo que podemos dizer com ousadia: {\\i O Senhor é meu auxílio, jamais temerei; que poderá fazer-me o homem}? \\par",
+      "reference": "Hb 13:6"
+    },
+    "7": {
+      "text": "Lembrai-vos dos vossos dirigentes, que vos anunciaram a palavra de Deus. Considerai como terminou a vida deles, e imitai-lhes a fé.",
+      "reference": "Hb 13:7"
+    },
+    "8": {
+      "text": "Jesus Cristo é o mesmo, ontem e hoje; ele o será para a eternidade!",
+      "reference": "Hb 13:8"
+    },
+    "9": {
+      "text": "Não vos deixeis enganar por doutrinas ecléticas e estranhas. Porque é bom que o coração seja fortificado pela graça e não por alimentos, os quais nunca foram de proveito para aquele que disso fazem uma questão de observância.",
+      "reference": "Hb 13:9"
+    },
+    "10": {
+      "text": "Temos um altar do qual não podem se alimentar os que servem à Tenda.",
+      "reference": "Hb 13:10"
+    },
+    "11": {
+      "text": "Porque os corpos dos animais, {\\i cujo sangue o sumo sacerdote carrega no Santuário para a expiação do pecado, são queimados fora do acampamento.}",
+      "reference": "Hb 13:11"
+    },
+    "12": {
+      "text": "Foi por isso que Jesus, para santificar o povo por seu próprio sangue, sofreu do lado de fora da porta.",
+      "reference": "Hb 13:12"
+    },
+    "13": {
+      "text": "Saiamos, portanto, ao seu encontro {\\i fora do acampamento}, carregando a sua humilhação.",
+      "reference": "Hb 13:13"
+    },
+    "14": {
+      "text": "Porque não temos aqui cidade permanente, mas estamos à procura da cidade que está para vir.",
+      "reference": "Hb 13:14"
+    },
+    "15": {
+      "text": "Por meio dele {\\i ofereçamos} continuamente {\\i um sacrifício de louvor a Deus}, isto é, {\\i o fruto dos lábios} que confessam o seu nome.",
+      "reference": "Hb 13:15"
+    },
+    "16": {
+      "text": "Não vos esqueçais da beneficência e da comunhão, porque são estes os sacrifícios que agradam a Deus. \\par",
+      "reference": "Hb 13:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Obediência aos guias espirituais\\par }Obedecei aos vossos dirigentes, e sede-lhes dóceis; porque velam pessoalmente sobre as vossas almas, e disso prestarão contas. Assim poderão fazê-lo com alegria e não gemendo, o que não vos seria vantajoso.",
+      "reference": "Hb 13:17"
+    },
+    "18": {
+      "text": "Orai por nós, porque estamos convictos de possuir uma consciência boa, com a vontade de nos comportar bem em toda ocasião.",
+      "reference": "Hb 13:18"
+    },
+    "19": {
+      "text": "Fazei-o, vos peço com insistência, para que eu vos seja restituído o mais breve possível. \\par",
+      "reference": "Hb 13:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Notícias. Votos. Saudações\\par }O Deus da paz, que {\\i fez subir} dentre os mortos aquele que se tornou, pelo sangue de uma aliança eterna, o grande {\\i Pastor das ovelhas}, nosso Senhor Jesus,",
+      "reference": "Hb 13:20"
+    },
+    "21": {
+      "text": "vos torne aptos a todo bem para fazer a sua vontade; que ele realize em nós o que lhe é agradável, por Jesus Cristo, ao qual seja dada a glória pelos séculos dos séculos! Amém. \\par",
+      "reference": "Hb 13:21"
+    },
+    "22": {
+      "text": "Irmãos, eu vos peço que suporteis esta palavra de exortação. Aliás, eu vos envio apenas algumas palavras.",
+      "reference": "Hb 13:22"
+    },
+    "23": {
+      "text": "Sabei que o nosso irmão Timóteo foi libertado. Se vier logo, irei ver-vos juntamente com ele.",
+      "reference": "Hb 13:23"
+    },
+    "24": {
+      "text": "Saudai todos os vossos dirigentes e todos os santos. \\par Os da Itália vos saúdam. \\par",
+      "reference": "Hb 13:24"
+    },
+    "25": {
+      "text": "A graça esteja com todos vós! \\par",
+      "reference": "Hb 13:25"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 25
+}

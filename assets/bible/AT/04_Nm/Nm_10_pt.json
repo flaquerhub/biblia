@@ -1,0 +1,157 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As trombetas\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 10:1"
+    },
+    "2": {
+      "text": "“Faze para ti duas trombetas; tu as farás de prata batida. Servir-te-ão para convocar a comunidade e para dar o sinal de partida aos acampamentos.",
+      "reference": "Nm 10:2"
+    },
+    "3": {
+      "text": "Quando ambas soarem, toda a comunidade se reunirá junto de ti, à entrada da Tenda da Reunião.",
+      "reference": "Nm 10:3"
+    },
+    "4": {
+      "text": "Mas se soar apenas uma das trombetas, serão os príncipes, os chefes dos milhares dos filhos de Israel que se reunirão junto de ti. \\par",
+      "reference": "Nm 10:4"
+    },
+    "5": {
+      "text": "Quando o soar da trombeta for acompanhado de aclamações, partirão os acampamentos estabelecidos ao oriente.",
+      "reference": "Nm 10:5"
+    },
+    "6": {
+      "text": "Ao soarem, pela segunda vez, acompanhadas de aclamações, partirão os acampamentos estabelecidos ao sul. Para a partida, o soar será acompanhado de aclamações,",
+      "reference": "Nm 10:6"
+    },
+    "7": {
+      "text": "mas para reunir a assembléia, o soar será sem aclamações.",
+      "reference": "Nm 10:7"
+    },
+    "8": {
+      "text": "Os filhos de Aarão, os sacerdotes, tocarão as trombetas; isso será para vós e para os vossos descendentes um estatuto perpétuo. \\par",
+      "reference": "Nm 10:8"
+    },
+    "9": {
+      "text": "Quando, no vosso país, tiverdes de partir para a guerra contra um inimigo que vos oprime, tocareis as trombetas com fragor e aclamações: a vossa lembrança será evocada diante de Iahweh, vosso Deus, e sereis salvos dos vossos inimigos.",
+      "reference": "Nm 10:9"
+    },
+    "10": {
+      "text": "Nos vossos dias de festas, solenidades ou neomênias, tocareis as trombetas nos vossos holocaustos e sacrifícios de comunhão, e elas vos serão como memória diante do vosso Deus. Eu sou Iahweh vosso Deus”. \\par",
+      "reference": "Nm 10:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A ordem de partida\\par }No segundo ano, no segundo mês, no dia vinte do mês, a Nuvem se elevou sobre a Habitação da Reunião.",
+      "reference": "Nm 10:11"
+    },
+    "12": {
+      "text": "Os filhos de Israel partiram, em ordem de marcha, do deserto do Sinai. A Nuvem se deteve no deserto de Farã. \\par",
+      "reference": "Nm 10:12"
+    },
+    "13": {
+      "text": "São estes os que partiram em primeiro lugar, segundo a ordem de Iahweh, transmitida por Moisés:",
+      "reference": "Nm 10:13"
+    },
+    "14": {
+      "text": "Partiu, primeiramente, o estandarte do acampamento dos filhos de Judá, segundo os seus esquadrões. À frente do contingente de Judá estava Naasson, filho de Aminadab;",
+      "reference": "Nm 10:14"
+    },
+    "15": {
+      "text": "à frente do contingente da tribo dos filhos de Issacar, segundo os seus esquadrões, estava Natanael, filho de Suar;",
+      "reference": "Nm 10:15"
+    },
+    "16": {
+      "text": "à frente do contingente da tribo dos filhos de Zabulon, segundo os seus esquadrões, estava Eliab, filho de Helon. \\par",
+      "reference": "Nm 10:16"
+    },
+    "17": {
+      "text": "Em seguida, a Habitação foi desmontada; partiram então os filhos de Gérson e os filhos de Merari, que transportavam a Habitação. \\par",
+      "reference": "Nm 10:17"
+    },
+    "18": {
+      "text": "Partiu depois o estandarte do acampamento dos filhos de Rúben, segundo os seus esquadrões. À frente do seu contingente estava Elisur, filho de Sedeur;",
+      "reference": "Nm 10:18"
+    },
+    "19": {
+      "text": "à frente do contingente da tribo dos filhos de Simeão, segundo os seus esquadrões, estava Salamiel, filho de Surisadai;",
+      "reference": "Nm 10:19"
+    },
+    "20": {
+      "text": "à frente do contingente da tribo dos filhos de Gad, segundo os seus esquadrões, estava Eliasaf, filho de Reuel. \\par",
+      "reference": "Nm 10:20"
+    },
+    "21": {
+      "text": "Partiram então os filhos de Caat que levavam o santuário (a Habitação foi levantada antes da chegada deles). \\par",
+      "reference": "Nm 10:21"
+    },
+    "22": {
+      "text": "Partiu depois o estandarte do acampamento dos filhos de Efraim, segundo os seus esquadrões. À frente do seu contingente estava Elisama, filho de Amiud;",
+      "reference": "Nm 10:22"
+    },
+    "23": {
+      "text": "à frente do contingente da tribo dos filhos de Manassés, segundo os seus esquadrões, estava Gamaliel, filho de Fadassur;",
+      "reference": "Nm 10:23"
+    },
+    "24": {
+      "text": "à frente do contingente da tribo dos filhos de Benjamim, segundo os seus esquadrões, estava Abidã, filho de Gedeão. \\par",
+      "reference": "Nm 10:24"
+    },
+    "25": {
+      "text": "Finalmente partiu, na retaguarda de todos os acampamentos, o estandarte do acampamento dos filhos de Dã, segundo os seus esquadrões. À frente do seu contingente estava Aiezer, filho de Amisadai;",
+      "reference": "Nm 10:25"
+    },
+    "26": {
+      "text": "à frente do contingente da tribo dos filhos de Aser, segundo os seus esquadrões, estava Fegiel, filho de Ocrã;",
+      "reference": "Nm 10:26"
+    },
+    "27": {
+      "text": "à frente do contingente dos filhos de Neftali, segundo os seus esquadrões, estava Aíra, filho de Enã. \\par",
+      "reference": "Nm 10:27"
+    },
+    "28": {
+      "text": "Essa foi a ordem de marcha dos filhos de Israel, segundo os seus esquadrões. E puseram-se em marcha. \\par",
+      "reference": "Nm 10:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Proposta de Moisés a Hobab\\par }Moisés disse a Hobab, filho de Ragüel, o madianita, seu sogro: “Partimos para o lugar do qual disse Iahweh: Eu vo-lo darei. Vem conosco e te faremos bem, pois Iahweh prometeu boas coisas a Israel”.",
+      "reference": "Nm 10:29"
+    },
+    "30": {
+      "text": "–“Não irei”, respondeu-lhe, “mas irei para a minha terra e para a minha parentela”.",
+      "reference": "Nm 10:30"
+    },
+    "31": {
+      "text": "–“Não nos abandones”, disse Moisés, “pois tu conheces os lugares onde devemos acampar no deserto e tu serás os nossos olhos.",
+      "reference": "Nm 10:31"
+    },
+    "32": {
+      "text": "Se vieres conosco, faremos a ti o mesmo bem que Iahweh nos fizer”. \\par",
+      "reference": "Nm 10:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i A partida\\par }Partiram, pois, do monte de Iahweh, a fim de fazer três dias de marcha. A arca da aliança de Iahweh devia ir na frente deles, durante esses três dias de marcha, procurando-lhes um lugar de repouso. \\par",
+      "reference": "Nm 10:33"
+    },
+    "34": {
+      "text": "Durante o dia a Nuvem de Iahweh pairava acima deles, quando partiam do acampamento. \\par",
+      "reference": "Nm 10:34"
+    },
+    "35": {
+      "text": "Quando a arca partia, dizia Moisés: \\par “Levanta-te, Iahweh, e sejam dispersos os teus inimigos, \\par e fujam diante de ti os que te aborrecem!” \\par",
+      "reference": "Nm 10:35"
+    },
+    "36": {
+      "text": "E no lugar do repouso dizia: \\par “Volta, Iahweh, \\par para as multidões de milhares de Israel”. \\par",
+      "reference": "Nm 10:36"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 36
+}

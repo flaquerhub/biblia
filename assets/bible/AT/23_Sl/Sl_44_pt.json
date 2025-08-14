@@ -1,0 +1,121 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 44,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 44 (43)\\par }{\\qc\\b\\i Elegia nacional\\par }{\\qc\\i Do mestre de canto. Dos filhos de Coré. Poema.\\par }",
+      "reference": "Sl 44:1"
+    },
+    "2": {
+      "text": "Ó Deus, nós ouvimos com nossos ouvidos, \\par nossos pais nos contaram \\par a obra que realizaste em seus dias, \\par nos dias de outrora,",
+      "reference": "Sl 44:2"
+    },
+    "3": {
+      "text": "com tua mão. \\par Para plantá-los expulsaste nações, \\par maltrataste povos para estendê-los; \\par",
+      "reference": "Sl 44:3"
+    },
+    "4": {
+      "text": "não foi pela espada que conquistaram a terra, \\par nem foi seu braço que lhes trouxe a vitória; \\par e sim tua direita e teu braço, \\par e a luz da tua face, porque os amavas. \\par",
+      "reference": "Sl 44:4"
+    },
+    "5": {
+      "text": "Eras tu, ó meu Rei e meu Deus, \\par que decidias as vitórias de Jacó; \\par",
+      "reference": "Sl 44:5"
+    },
+    "6": {
+      "text": "contigo agredimos nossos opressores, \\par calcamos nossos agressores por teu nome. \\par",
+      "reference": "Sl 44:6"
+    },
+    "7": {
+      "text": "Não era no meu arco que eu tinha confiança, \\par nem era minha espada que me trazia vitória; \\par",
+      "reference": "Sl 44:7"
+    },
+    "8": {
+      "text": "eras tu que nos salvavas de nossos opressores \\par e envergonhavas aqueles que nos odiavam; \\par",
+      "reference": "Sl 44:8"
+    },
+    "9": {
+      "text": "em Deus nos orgulhávamos todo o dia, \\par celebrando o teu nome para sempre. \\par",
+      "reference": "Sl 44:9"
+    },
+    "10": {
+      "text": "Tu, porém, nos rejeitaste e nos envergonhaste, \\par e já não sais com nossos exércitos; \\par",
+      "reference": "Sl 44:10"
+    },
+    "11": {
+      "text": "fizeste-nos recuar frente ao opressor, \\par e os que nos têm ódio saqueiam à vontade. \\par",
+      "reference": "Sl 44:11"
+    },
+    "12": {
+      "text": "Tu nos entregas como ovelhas de corte, \\par tu nos dispersaste por entre as nações; \\par",
+      "reference": "Sl 44:12"
+    },
+    "13": {
+      "text": "vendes o teu povo por um nada, \\par e nada lucras com seu preço. \\par",
+      "reference": "Sl 44:13"
+    },
+    "14": {
+      "text": "Fazes de nós o ultraje dos nossos vizinhos, \\par divertimento e zombaria para aqueles que nos cercam; \\par",
+      "reference": "Sl 44:14"
+    },
+    "15": {
+      "text": "fazes de nós o provérbio das nações, \\par meneio de cabeça por entre os povos. \\par",
+      "reference": "Sl 44:15"
+    },
+    "16": {
+      "text": "Minha desonra está o dia todo à minha frente, \\par e a vergonha cobre a minha face, \\par",
+      "reference": "Sl 44:16"
+    },
+    "17": {
+      "text": "pelos gritos de ultraje e de blasfêmia \\par na presença do inimigo e vingador. \\par",
+      "reference": "Sl 44:17"
+    },
+    "18": {
+      "text": "Aconteceu-nos tudo isso, e não te esquecemos, \\par nem traímos a tua aliança; \\par",
+      "reference": "Sl 44:18"
+    },
+    "19": {
+      "text": "nosso coração não voltou atrás, \\par e nossos passos não se desviaram do teu caminho. \\par",
+      "reference": "Sl 44:19"
+    },
+    "20": {
+      "text": "E tu nos esmagaste onde vivem os chacais, \\par e nos cobriste com a sombra da morte. \\par",
+      "reference": "Sl 44:20"
+    },
+    "21": {
+      "text": "Se tivéssemos esquecido o nome do nosso Deus, \\par estendendo nossas mãos a um deus estrangeiro, \\par",
+      "reference": "Sl 44:21"
+    },
+    "22": {
+      "text": "por acaso Deus não o teria sondado, \\par ele que conhece os segredos do coração? \\par",
+      "reference": "Sl 44:22"
+    },
+    "23": {
+      "text": "É por tua causa que nos matam todo o dia, \\par e nos tratam como ovelhas de corte. \\par",
+      "reference": "Sl 44:23"
+    },
+    "24": {
+      "text": "Desperta! Por que dormes, Senhor? \\par Acorda! Não nos rejeites até o fim! \\par",
+      "reference": "Sl 44:24"
+    },
+    "25": {
+      "text": "Por que escondes tua face, \\par esquecendo nossa opressão e miséria? \\par",
+      "reference": "Sl 44:25"
+    },
+    "26": {
+      "text": "Pois nossa garganta se afoga no pó, \\par está grudado ao chão o nosso ventre. \\par",
+      "reference": "Sl 44:26"
+    },
+    "27": {
+      "text": "Levanta-te! Socorre-nos! \\par Resgata-nos, por teu amor! \\par",
+      "reference": "Sl 44:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

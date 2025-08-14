@@ -1,0 +1,113 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A sabedoria de Deus manifesta-se principalmente por seu poder destruidor\\par }Jó tomou a palavra e disse: \\par",
+      "reference": "Jó 12:1"
+    },
+    "2": {
+      "text": "Realmente sois a voz do povo \\par e convosco morrerá a Sabedoria. \\par",
+      "reference": "Jó 12:2"
+    },
+    "3": {
+      "text": "Mas também eu tenho inteligência, \\par – não sou inferior a vós –; \\par quem ignora tudo isso? \\par",
+      "reference": "Jó 12:3"
+    },
+    "4": {
+      "text": "Mas o homem torna-se a irrisão do seu amigo \\par quando invoca a Deus para ter uma resposta. \\par Zombam do justo íntegro. \\par",
+      "reference": "Jó 12:4"
+    },
+    "5": {
+      "text": "No infortúnio, o desprezo!, dizem os que estão felizes, \\par um golpe a mais para quem titubeia! \\par",
+      "reference": "Jó 12:5"
+    },
+    "6": {
+      "text": "Nas tendas dos ladrões reina paz, \\par e estão seguros os que desafiam a Deus, \\par pensando que o têm na mão. \\par",
+      "reference": "Jó 12:6"
+    },
+    "7": {
+      "text": "Pergunta, pois, ao gado e ensinar-te-á, \\par às aves do céu e informar-te-ão. \\par",
+      "reference": "Jó 12:7"
+    },
+    "8": {
+      "text": "Os répteis da terra dar-te-ão lições, \\par os peixes dos mares te hão de narrar: \\par",
+      "reference": "Jó 12:8"
+    },
+    "9": {
+      "text": "quem não haveria de reconhecer que tudo isso \\par é obra da mão de Deus? \\par",
+      "reference": "Jó 12:9"
+    },
+    "10": {
+      "text": "Em sua mão está a alma de todo ser vivo \\par e o espírito de todo homem carnal. \\par",
+      "reference": "Jó 12:10"
+    },
+    "11": {
+      "text": "Não distingue o ouvido as palavras \\par e não saboreia o paladar os manjares? \\par",
+      "reference": "Jó 12:11"
+    },
+    "12": {
+      "text": "Está nas venerandas cãs a sabedoria, \\par e o entendimento com os anciãos. \\par",
+      "reference": "Jó 12:12"
+    },
+    "13": {
+      "text": "Mas ele possui sabedoria e poder, \\par dele é o conselho e o entendimento. \\par",
+      "reference": "Jó 12:13"
+    },
+    "14": {
+      "text": "O que ele destrói, ninguém o reconstrói; \\par se ele aprisionar, não haverá escapatória; \\par",
+      "reference": "Jó 12:14"
+    },
+    "15": {
+      "text": "se retiver a chuva, virá a seca; \\par se a soltar, inundar-se-á a terra. \\par",
+      "reference": "Jó 12:15"
+    },
+    "16": {
+      "text": "Ele possui força e sensatez, \\par com ele estão o enganado e aquele que engana. \\par",
+      "reference": "Jó 12:16"
+    },
+    "17": {
+      "text": "Torna estúpidos os conselheiros da terra \\par e fere os juízes com loucura. \\par",
+      "reference": "Jó 12:17"
+    },
+    "18": {
+      "text": "Desamarra a cintura dos reis \\par e cinge-os com uma corda. \\par",
+      "reference": "Jó 12:18"
+    },
+    "19": {
+      "text": "Faz andar descalços os sacerdotes \\par e lança por terra os poderes estabelecidos. \\par",
+      "reference": "Jó 12:19"
+    },
+    "20": {
+      "text": "Tira a palavra aos confiantes \\par e priva de sensatez os anciãos. \\par",
+      "reference": "Jó 12:20"
+    },
+    "21": {
+      "text": "Derrama o desprezo sobre os nobres \\par e afrouxa o cinturão dos fortes; \\par",
+      "reference": "Jó 12:21"
+    },
+    "22": {
+      "text": "descobre o que há de mais recôndito nas trevas \\par e traz à luz as sombras espessas; \\par",
+      "reference": "Jó 12:22"
+    },
+    "23": {
+      "text": "engrandece as nações e arruína-as: \\par expande povos, e depois os suprime; \\par",
+      "reference": "Jó 12:23"
+    },
+    "24": {
+      "text": "tira o juízo aos chefes de um país \\par e deixa-os errar num deserto sem estradas, \\par",
+      "reference": "Jó 12:24"
+    },
+    "25": {
+      "text": "cambalear nas trevas, sem luz, \\par e titubear como um bêbado. \\par",
+      "reference": "Jó 12:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

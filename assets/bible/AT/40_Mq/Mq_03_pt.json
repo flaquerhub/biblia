@@ -1,0 +1,61 @@
+{
+  "book": 33,
+  "book_name": "Miqueias",
+  "book_abbr": "Mq",
+  "book_category": "Profético",
+  "book_english": "Micah",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra os chefes que oprimem o povo\\par }E eu digo: \\par Ouvi, pois, chefes da casa de Jacó \\par e magistrados da casa de Israel! \\par Por acaso não cabe a vós conhecer o direito, \\par",
+      "reference": "Mq 3:1"
+    },
+    "2": {
+      "text": "a vós que odiais o bem e amais o mal, \\par (que lhes arrancais a pele, e a carne de seus ossos)? \\par",
+      "reference": "Mq 3:2"
+    },
+    "3": {
+      "text": "Aqueles que comeram a carne de meu povo, \\par arrancaram-lhe a pele, \\par quebraram-lhe os ossos, \\par cortaram-no como carne na panela \\par e como vianda dentro do caldeirão, \\par",
+      "reference": "Mq 3:3"
+    },
+    "4": {
+      "text": "então eles clamarão a Iahweh, \\par e ele não lhes responderá. \\par Ele lhes esconderá a sua face naquele tempo, \\par porque os seus atos foram maus! \\par",
+      "reference": "Mq 3:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Contra os profetas mercenários\\par }Assim disse Iahweh aos profetas \\par que seduzem o meu povo: \\par Àqueles que, se têm algo para morder em seus dentes, \\par proclamam: “Paz”. \\par Mas a quem não lhes põe nada na boca, \\par eles declaram a guerra! \\par",
+      "reference": "Mq 3:5"
+    },
+    "6": {
+      "text": "Por isso a noite será para vós sem visão, \\par e as trevas para vós sem oráculo. \\par Por-se-á o sol para os profetas \\par e o dia obscurecer-se-á para eles. \\par",
+      "reference": "Mq 3:6"
+    },
+    "7": {
+      "text": "Os videntes se envergonharão, \\par os adivinhos serão confundidos \\par e cobrirão todos a barba, \\par porque não há resposta de Deus. \\par",
+      "reference": "Mq 3:7"
+    },
+    "8": {
+      "text": "Eu, contudo, estou cheio de força, \\par (do espírito de Iahweh) \\par de direito e de coragem, \\par para anunciar a Jacó o seu crime \\par e a Israel o seu pecado. \\par",
+      "reference": "Mq 3:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Aos responsáveis: anúncio da ruína de Sião\\par }Ouvi, pois, isto, chefes da casa de Jacó \\par e magistrados da casa de Israel, \\par vós que detestais o direito, \\par que torceis o que é reto, \\par",
+      "reference": "Mq 3:9"
+    },
+    "10": {
+      "text": "vós que edificais Sião com o sangue \\par e Jerusalém com injustiça! \\par",
+      "reference": "Mq 3:10"
+    },
+    "11": {
+      "text": "Seus chefes julgam por suborno, \\par seus sacerdotes ensinam por salário \\par e seus profetas vaticinam por dinheiro. \\par E eles se apóiam em Iahweh, dizendo: \\par “Não está Iahweh em nosso meio? \\par Não virá sobre nós a desgraça!” \\par",
+      "reference": "Mq 3:11"
+    },
+    "12": {
+      "text": "Por isso, por culpa vossa, \\par Sião será arada como um campo, \\par Jerusalém se tornará um lugar de ruínas, \\par e a montanha do Templo, um cerro de brenhas! \\par",
+      "reference": "Mq 3:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

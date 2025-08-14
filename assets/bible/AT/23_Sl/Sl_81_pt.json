@@ -1,0 +1,81 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 81,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 81 (80)\\par }{\\qc\\b\\i Para a festa das Tendas\\par }{\\qc\\i Do mestre de canto. Sobre a... de Gat. De Asaf. \\par }",
+      "reference": "Sl 81:1"
+    },
+    "2": {
+      "text": "Gritai de alegria ao Deus, nossa força, \\par aclamai ao Deus de Jacó. \\par",
+      "reference": "Sl 81:2"
+    },
+    "3": {
+      "text": "Elevai a música, soai o tamborim, \\par a harpa melodiosa e a cítara; \\par",
+      "reference": "Sl 81:3"
+    },
+    "4": {
+      "text": "soai a trombeta pelo novo mês, \\par na lua cheia, no dia da nossa festa. \\par",
+      "reference": "Sl 81:4"
+    },
+    "5": {
+      "text": "Porque é uma lei para Israel, \\par uma decisão do Deus de Jacó, \\par",
+      "reference": "Sl 81:5"
+    },
+    "6": {
+      "text": "um testemunho que ele pôs em José \\par quando saiu contra a terra do Egito. \\par Ouve-se uma linguagem desconhecida: \\par",
+      "reference": "Sl 81:6"
+    },
+    "7": {
+      "text": "“Removi a carga de seus ombros, \\par suas mãos deixaram o cesto; \\par",
+      "reference": "Sl 81:7"
+    },
+    "8": {
+      "text": "clamaste na opressão, e eu te libertei. \\par Eu te respondi, escondido no trovão, \\par e te experimentei nas águas de Meriba. {\\i Pausa}\\par",
+      "reference": "Sl 81:8"
+    },
+    "9": {
+      "text": "Ouve, meu povo, eu te conjuro, \\par oxalá me ouvisses, Israel! \\par",
+      "reference": "Sl 81:9"
+    },
+    "10": {
+      "text": "Nunca haja em ti um deus alheio, \\par nunca adores um deus estrangeiro; \\par",
+      "reference": "Sl 81:10"
+    },
+    "11": {
+      "text": "eu sou Iahweh, teu Deus, \\par que te fiz subir da terra do Egito, \\par abre a boca e eu a encherei. \\par",
+      "reference": "Sl 81:11"
+    },
+    "12": {
+      "text": "E meu povo não ouviu minha voz, \\par Israel não quis obedecer-me; \\par",
+      "reference": "Sl 81:12"
+    },
+    "13": {
+      "text": "então os entreguei ao seu coração endurecido: \\par que sigam seus próprios caminhos! \\par",
+      "reference": "Sl 81:13"
+    },
+    "14": {
+      "text": "Ah! Se meu povo me escutasse, \\par se Israel andasse em meus caminhos... \\par",
+      "reference": "Sl 81:14"
+    },
+    "15": {
+      "text": "Eu lhe prostraria os inimigos num momento, \\par e contra seus opressores voltaria minha mão. \\par",
+      "reference": "Sl 81:15"
+    },
+    "16": {
+      "text": "Os que odeiam a Iahweh o adulariam, \\par e o tempo deles teria passado para sempre. \\par",
+      "reference": "Sl 81:16"
+    },
+    "17": {
+      "text": "Eu o alimentaria com a flor do trigo, \\par e com mel do rochedo te saciaria”. \\par",
+      "reference": "Sl 81:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

@@ -1,0 +1,101 @@
+{
+  "book": 25,
+  "book_name": "Lamentações",
+  "book_abbr": "Lm",
+  "book_category": "Profético",
+  "book_english": "Lamentations",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Primeira lamentação}\\par }{\\qc\\b\\i Alef\\par }Que solitária está \\par a Cidade populosa! \\par Tornou-se viúva \\par a primeira entre as nações; \\par a princesa das províncias, \\par em trabalhos forçados. \\par",
+      "reference": "Lm 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Bet\\par }Passa a noite chorando, \\par pelas faces correm-lhe lágrimas. \\par Não há quem a console \\par entre os seus amantes; \\par todos os seus amigos a traíram, \\par tornaram-se seus inimigos. \\par",
+      "reference": "Lm 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Guimel\\par }Judá foi desterrada, humilhada, \\par submetida a dura servidão; \\par hoje habita entre as nações, \\par sem encontrar repouso; \\par os que a perseguiam alcançaram-na \\par em lugares sem saída. \\par",
+      "reference": "Lm 1:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Dalet\\par }Os caminhos de Sião estão de luto, \\par ninguém vem às suas festas; \\par todas as suas portas desertas, \\par gemem seus sacerdotes; \\par suas virgens estão tristes, \\par ela mesma cheia de amargura. \\par",
+      "reference": "Lm 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Hê\\par }Venceram-na seus opressores, \\par seus inimigos estão felizes, \\par porque Iahweh a castigou \\par por seus numerosos crimes; \\par suas criancinhas partiram cativas \\par diante do opressor. \\par",
+      "reference": "Lm 1:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Waw\\par }A filha de Sião perdeu \\par toda a sua formosura; \\par seus príncipes, como cervos \\par que não acham pasto; \\par caminhavam desfalecidos \\par diante de quem os empurrava. \\par",
+      "reference": "Lm 1:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Záin\\par }Jerusalém se lembra \\par de seus dias de miséria e de aflição, \\par quando seu povo caía nas mãos do adversário \\par e ninguém o socorria. \\par Ao vê-la, seus adversários \\par riam de sua ruína. \\par",
+      "reference": "Lm 1:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Het\\par }Jerusalém pecou gravemente \\par e tornou-se impura; \\par os que antes a honravam, desprezam-na, \\par vendo-lhe a nudez, \\par e ela, entre gemidos, \\par volta as costas. \\par",
+      "reference": "Lm 1:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Tet\\par }Leva sua impureza nas vestes \\par sem pensar no futuro. \\par Tão baixo caíste! \\par Não há quem a console. \\par “Vê, Senhor, minha miséria \\par e o triunfo de meu inimigo”. \\par",
+      "reference": "Lm 1:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Yod\\par }O adversário estendeu a mão \\par sobre todos os seus tesouros: \\par ela viu os pagãos \\par entrarem no seu santuário, \\par aos quais havias proibido \\par entrar em sua assembléia. \\par",
+      "reference": "Lm 1:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Kaf\\par }Todo o seu povo, entre gemidos, \\par procura pão; \\par deram seus tesouros para comer, \\par para reencontrar a vida. \\par “Vê, Iahweh, olha \\par como me tornei desprezível! \\par",
+      "reference": "Lm 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par }Vós todos que passais pelo caminho, \\par olhai e vede: \\par Há dor como a minha dor? \\par Como me maltrataram! \\par Iahweh me castigou \\par no dia do incêndio de sua ira. \\par",
+      "reference": "Lm 1:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Mem\\par }Do alto enviou um fogo, \\par que fez descer até os meus ossos; \\par armou uma rede sob meus pés \\par e me fez retroceder, \\par deixou-me desolada, \\par indisposta todo o dia. \\par",
+      "reference": "Lm 1:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Nun\\par }Ele fez um fardo com minhas culpas, \\par atou-o com sua mão, \\par elas pesam sobre meu pescoço, \\par ele faz vacilar minha energia; \\par o Senhor me entregou em suas mãos, \\par não me posso mais levantar! \\par",
+      "reference": "Lm 1:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Samec\\par }O Senhor expulsou todos os meus valentes \\par do meio de mim; \\par fixou comigo um encontro \\par para triturar meus jovens; \\par o Senhor pisou no lagar \\par a virgem, filha de Judá. \\par",
+      "reference": "Lm 1:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Áin\\par }Por isso estou chorando, \\par meus olhos se desfazem em lágrimas; \\par não tenho perto quem me console, \\par quem me reanime; \\par meus filhos estão arruinados \\par pois o inimigo venceu”. \\par",
+      "reference": "Lm 1:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Pê\\par }Sião estende as mãos, \\par não há quem a console. \\par De todas as partes Iahweh manda \\par contra Jacó seus opressores; \\par no meio deles Jerusalém \\par tornou-se uma imundície. \\par",
+      "reference": "Lm 1:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Çade\\par }“Iahweh é justo, \\par pois me rebelei contra sua palavra. \\par Ouvi, todos os povos, \\par e vede minha dor. \\par Minhas virgens e meus jovens \\par partiram para o cativeiro. \\par",
+      "reference": "Lm 1:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Qof\\par }Chamei os meus amantes: \\par eles me traíram. \\par Meus sacerdotes e anciãos \\par morreram na cidade, \\par buscando um alimento \\par que lhes devolvesse a vida. \\par",
+      "reference": "Lm 1:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Resh\\par }Vê, Iahweh, minha angústia \\par e o tremor de minhas entranhas! \\par Dentro, se me transtorna o coração: \\par como fui rebelde! \\par Na rua a espada me deixa sem filhos; \\par em casa é como a morte. \\par",
+      "reference": "Lm 1:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Shin\\par }Ouve como gemo, \\par sem ninguém que me console! \\par Os inimigos souberam e se alegraram \\par de minha desgraça, que tu mesmo executaste; \\par mas faze que chegue o Dia anunciado \\par e serão como eu. \\par",
+      "reference": "Lm 1:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Taw\\par }À tua presença chegue toda a sua maldade, \\par e trata-os \\par como me trataste a mim, \\par por todos os meus crimes! \\par Multiplicam-se meus gemidos, \\par meu coração desfalece”. \\par",
+      "reference": "Lm 1:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

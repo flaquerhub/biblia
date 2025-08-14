@@ -1,0 +1,157 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 68,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 68 (67)\\par }{\\qc\\b\\i A gloriosa epopéia de Israel\\par }{\\qc\\i Do mestre de canto. De Davi. Salmo. Cântico. \\par }",
+      "reference": "Sl 68:1"
+    },
+    "2": {
+      "text": "Deus se levanta: seus inimigos debandam, \\par seus adversários fogem de sua frente. \\par",
+      "reference": "Sl 68:2"
+    },
+    "3": {
+      "text": "Tu os dissipas como a fumaça se dissipa; \\par como a cera derrete na presença do fogo, \\par perecem os ímpios na presença de Deus. \\par",
+      "reference": "Sl 68:3"
+    },
+    "4": {
+      "text": "E os justos se alegram na presença de Deus, \\par eles exultam e dançam de alegria. \\par",
+      "reference": "Sl 68:4"
+    },
+    "5": {
+      "text": "Cantai a Deus, tocai ao seu nome, \\par abri caminho ao Cavaleiro das nuvens, \\par alegrai-vos com Iahweh, festejai em sua presença. \\par",
+      "reference": "Sl 68:5"
+    },
+    "6": {
+      "text": "Pai dos órfãos, justiceiro das viúvas, \\par tal é Deus em sua morada santa; \\par",
+      "reference": "Sl 68:6"
+    },
+    "7": {
+      "text": "Deus dá uma casa aos solitários, \\par livra os cativos para a prosperidade, \\par mas os rebeldes habitam na terra seca. \\par",
+      "reference": "Sl 68:7"
+    },
+    "8": {
+      "text": "Ó Deus, quando saíste à frente do teu povo, \\par avançando pelo deserto,",
+      "reference": "Sl 68:8"
+    },
+    "9": {
+      "text": "a terra tremeu, {\\i Pausa} \\par e até o céu dissolveu-se na presença de Deus, \\par na presença de Deus, o Deus de Israel. \\par",
+      "reference": "Sl 68:9"
+    },
+    "10": {
+      "text": "Derramaste chuva copiosa, ó Deus, \\par tua herança estava esgotada, tu a firmaste; \\par",
+      "reference": "Sl 68:10"
+    },
+    "11": {
+      "text": "tua família habitou na terra \\par que em tua bondade, ó Deus, preparavas ao pobre. \\par",
+      "reference": "Sl 68:11"
+    },
+    "12": {
+      "text": "O Senhor deu uma ordem, \\par o anúncio de um exército numeroso. \\par",
+      "reference": "Sl 68:12"
+    },
+    "13": {
+      "text": "Os chefes do exército fogem, fogem, \\par e a dona da casa reparte os despojos. \\par",
+      "reference": "Sl 68:13"
+    },
+    "14": {
+      "text": "Enquanto repousais entre os muros do aprisco, \\par as asas da Pomba se cobrem de prata \\par e suas penas com o brilho do ouro: \\par",
+      "reference": "Sl 68:14"
+    },
+    "15": {
+      "text": "quando Shaddai dispersa os reis, \\par a neve cai sobre o Monte Sombrio. \\par",
+      "reference": "Sl 68:15"
+    },
+    "16": {
+      "text": "Ó montanha de Deus, montanha de Basã! \\par Montanha elevada, montanha de Basã! \\par",
+      "reference": "Sl 68:16"
+    },
+    "17": {
+      "text": "Ó montanhas elevadas, por que invejais \\par a montanha em que Deus quis habitar? \\par Iahweh nela residirá perpetuamente. \\par",
+      "reference": "Sl 68:17"
+    },
+    "18": {
+      "text": "Os carros de Deus são milhares de miríades; \\par o Senhor veio do Sinai para o santuário. \\par",
+      "reference": "Sl 68:18"
+    },
+    "19": {
+      "text": "Subiste para o alto, capturando cativos, \\par recebendo homens em tributo, mesmo os rebeldes, \\par para que Iahweh Deus tivesse uma residência. \\par",
+      "reference": "Sl 68:19"
+    },
+    "20": {
+      "text": "Bendito seja o Senhor a cada dia!\\par Ele cuida de nós: é o nosso Deus salvador! {\\i Pausa} \\par",
+      "reference": "Sl 68:20"
+    },
+    "21": {
+      "text": "Nosso Deus é um Deus de libertações, \\par do Senhor Iahweh são as portas da morte; \\par",
+      "reference": "Sl 68:21"
+    },
+    "22": {
+      "text": "sim, Deus esmaga a cabeça dos seus inimigos, \\par o crânio cabeludo do criminoso que vagueia. \\par",
+      "reference": "Sl 68:22"
+    },
+    "23": {
+      "text": "O Senhor disse: “De Basã eu faço voltar, \\par faço voltar das profundezas do mar, \\par",
+      "reference": "Sl 68:23"
+    },
+    "24": {
+      "text": "para que no sangue banhes o teu pé, \\par e a língua de teus cães tenha sua ração de inimigos”. \\par",
+      "reference": "Sl 68:24"
+    },
+    "25": {
+      "text": "Viram as tuas procissões, ó Deus, \\par as procissões do meu Deus, do meu rei, no santuário: \\par",
+      "reference": "Sl 68:25"
+    },
+    "26": {
+      "text": "os cantores à frente, atrás os músicos, \\par no meio as jovens, soando tamborins. \\par",
+      "reference": "Sl 68:26"
+    },
+    "27": {
+      "text": "Em coros, eles bendiziam a Deus: \\par é Iahweh, desde a origem de Israel. \\par",
+      "reference": "Sl 68:27"
+    },
+    "28": {
+      "text": "Lá está Benjamim, o mais novo, conduzindo \\par os príncipes de Judá, com vestes coloridas, \\par os príncipes de Zabulon, os príncipes de Neftali. \\par",
+      "reference": "Sl 68:28"
+    },
+    "29": {
+      "text": "Ordena, ó Deus, conforme o teu poder, \\par ó Deus, o poder com que agiste em nosso favor, \\par",
+      "reference": "Sl 68:29"
+    },
+    "30": {
+      "text": "vindo do teu Templo, que está em Jerusalém. \\par A ti virão os reis, trazendo presentes. \\par",
+      "reference": "Sl 68:30"
+    },
+    "31": {
+      "text": "Ameaça a fera dos caniços, \\par a tropa dos touros com os novilhos dos povos, \\par para que ela se submeta, com barras de prata! \\par Dispersa os povos que gostam das guerras! \\par",
+      "reference": "Sl 68:31"
+    },
+    "32": {
+      "text": "Do Egito virão os grandes, \\par a Etiópia estenderá as mãos para Deus. \\par",
+      "reference": "Sl 68:32"
+    },
+    "33": {
+      "text": "Cantai a Deus, reinos da terra, \\par tocai para",
+      "reference": "Sl 68:33"
+    },
+    "34": {
+      "text": "o Cavaleiro dos céus, os céus antigos. {\\i Pausa} \\par Ele eleva sua voz, voz poderosa: \\par",
+      "reference": "Sl 68:34"
+    },
+    "35": {
+      "text": "reconhecei a força de Deus. \\par Em Israel está seu esplendor, nas nuvens a sua força: \\par",
+      "reference": "Sl 68:35"
+    },
+    "36": {
+      "text": "Desde o seu santuário, Deus é terrível. \\par Ele é o Deus de Israel, \\par que dá ao povo força e poder. \\par Bendito seja Deus! \\par",
+      "reference": "Sl 68:36"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 36
+}

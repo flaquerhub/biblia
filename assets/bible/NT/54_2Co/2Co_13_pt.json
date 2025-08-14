@@ -1,0 +1,65 @@
+{
+  "book": 47,
+  "book_name": "2Coríntios",
+  "book_abbr": "2Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Corinthians",
+  "testament": "NT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Eis a terceira vez que vou ter convosco. {\\i Toda questão será decidida sobre a palavra de duas ou três testemunhas.}",
+      "reference": "2Co 13:1"
+    },
+    "2": {
+      "text": "Já o disse e, como por ocasião da minha segunda visita, torno a dizer hoje, estando ausente, àqueles que pecaram anteriormente, e a todos os outros; se voltar, não usarei de meias medidas,",
+      "reference": "2Co 13:2"
+    },
+    "3": {
+      "text": "pois procurais uma prova de que é Cristo que fala em mim; ele que não é fraco em relação a vós mostra, porém, o seu poder em vós.",
+      "reference": "2Co 13:3"
+    },
+    "4": {
+      "text": "Por certo, foi crucificado em fraqueza, mas está vivo pelo poder de Deus. Também nós somos fracos nele, todavia com ele viveremos pelo poder de Deus em relação a vós. \\par",
+      "reference": "2Co 13:4"
+    },
+    "5": {
+      "text": "Examinai-vos a vós mesmos, e vede se estais na fé; provai-vos. Ou não reconhecereis que Jesus Cristo está em vós? A menos que não sejais aprovados no exame.",
+      "reference": "2Co 13:5"
+    },
+    "6": {
+      "text": "Espero reconheçais que somos aprovados.",
+      "reference": "2Co 13:6"
+    },
+    "7": {
+      "text": "Pedimos a Deus, não cometais mal algum. Nosso desejo não é aparecer como aprovados, mas sim que pratiqueis o bem, ainda que devamos passar por não aprovados.",
+      "reference": "2Co 13:7"
+    },
+    "8": {
+      "text": "Nada podemos contra a verdade, mas só temos poder em favor da verdade.",
+      "reference": "2Co 13:8"
+    },
+    "9": {
+      "text": "Alegramo-nos todas as vezes que somos fracos, e vós fortes. E o que pedimos em nossas orações é o vosso aperfeiçoamento.",
+      "reference": "2Co 13:9"
+    },
+    "10": {
+      "text": "Eu vos escrevo estas coisas, estando ausente, para que, quando aí chegar, não tenha que recorrer à severidade, conforme o poder que o Senhor me deu para construir, e não para destruir. \\par",
+      "reference": "2Co 13:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b {\\i Conclusão}\\par }{\\qc\\b\\i Recomendações. Saudações. Voto final\\par }De resto, irmãos, alegrai-vos, procurai a perfeição, encorajai-vos. Permanecei em concórdia, vivei em paz, e o Deus de amor e de paz estará convosco. \\par",
+      "reference": "2Co 13:11"
+    },
+    "12": {
+      "text": "Saudai-vos mutuamente com o ósculo santo. Saúdam-vos todos os santos. \\par",
+      "reference": "2Co 13:12"
+    },
+    "13": {
+      "text": "A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo estejam com todos vós! \\par",
+      "reference": "2Co 13:13"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 13
+}

@@ -1,0 +1,57 @@
+{
+  "book": 16,
+  "book_name": "Neemias",
+  "book_abbr": "Ne",
+  "book_category": "Histórico",
+  "book_english": "Nehemiah",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Vocação de Neemias: sua missão em Judá\\par }Palavras de Neemias, filho de Hacalias. No mês de Casleu, no vigésimo ano, quando me encontrava na cidadela de Susa,",
+      "reference": "Ne 1:1"
+    },
+    "2": {
+      "text": "chegou Hanani, um dos meus irmãos, com homens de Judá. Interroguei-os sobre os judeus libertados que tinham sobrevivido ao cativeiro e sobre Jerusalém.",
+      "reference": "Ne 1:2"
+    },
+    "3": {
+      "text": "Responderam-me: “Os sobreviventes do cativeiro, que estão lá na província, vivem em grande miséria e humilhação; as muralhas de Jerusalém estão em ruínas e suas portas foram incendiadas”.",
+      "reference": "Ne 1:3"
+    },
+    "4": {
+      "text": "Ouvindo essas palavras, sentei-me, chorei, fiquei de luto vários dias, jejuando e orando diante do Deus do céu. \\par",
+      "reference": "Ne 1:4"
+    },
+    "5": {
+      "text": "E eu disse: “Ah! Iahweh, Deus do céu, o Deus grande e terrível, que guarda a aliança e a misericórdia para com aqueles que o amam e observam seus mandamentos,",
+      "reference": "Ne 1:5"
+    },
+    "6": {
+      "text": "que teus ouvidos estejam atentos e teus olhos abertos, para ouvir a prece do teu servo. Dia e noite eu te suplico em favor dos filhos de Israel, teus servos, e confesso os pecados dos filhos de Israel, que cometemos contra ti: pecamos, eu e a casa de meu pai!",
+      "reference": "Ne 1:6"
+    },
+    "7": {
+      "text": "Procedemos muito mal para contigo, não observando os mandamentos, estatutos e normas que havias prescrito a Moisés, teu servo.",
+      "reference": "Ne 1:7"
+    },
+    "8": {
+      "text": "Lembra-te, porém, da palavra que ordenaste a Moisés, teu servo: ‘Se fordes infiéis, dispersar-vos-ei entre as nações;",
+      "reference": "Ne 1:8"
+    },
+    "9": {
+      "text": "mas se voltardes a mim, observando os meus mandamentos e pondo-os em prática, mesmo que vossos exilados se achassem nos confins do céu, eu os reuniria e reconduziria ao Lugar que escolhi para nele fazer habitar meu Nome’.",
+      "reference": "Ne 1:9"
+    },
+    "10": {
+      "text": "Eles são teus servos e teu povo que resgataste por teu grande poder e pela força de teu braço!",
+      "reference": "Ne 1:10"
+    },
+    "11": {
+      "text": "Ah! Senhor, que teus ouvidos estejam atentos à prece do teu servo, à prece dos teus servos que se comprazem no temor de teu Nome. Concede, eu te suplico, o bom êxito a teu servo e faze-o ganhar a benevolência deste homem”. \\par Eu era então copeiro do rei. \\par",
+      "reference": "Ne 1:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

@@ -1,0 +1,141 @@
+{
+  "book": 17,
+  "book_name": "Ester",
+  "book_abbr": "Et",
+  "book_category": "Histórico",
+  "book_english": "Esther",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O grande dia dos Purim\\par }No décimo terceiro dia do décimo segundo mês, que é Adar, quando deviam ser executadas as ordens do decreto real, no dia em que os inimigos dos judeus contavam destruí-los, sucedeu o contrário: foram os judeus que destruíram seus inimigos.",
+      "reference": "Et 9:1"
+    },
+    "2": {
+      "text": "Em todas as províncias do rei Assuero eles se reuniram em todas as cidades em que habitavam, a fim de atacarem aqueles que maquinaram sua destruição. Ninguém lhes ofereceu resistência, pois o temor dos judeus caíra sobre todos os povos.",
+      "reference": "Et 9:2"
+    },
+    "3": {
+      "text": "Altos oficiais das províncias, sátrapas, governadores, funcionários reais, todos apoiaram os judeus por temor de Mardoqueu.",
+      "reference": "Et 9:3"
+    },
+    "4": {
+      "text": "Com efeito, Mardoqueu era grande no palácio, e sua fama se espalhava por todas as províncias: Mardoqueu se tornava um homem cada vez mais poderoso. \\par",
+      "reference": "Et 9:4"
+    },
+    "5": {
+      "text": "Os judeus feriram, pois, todos os seus inimigos a golpes de espada. Foi um massacre, um extermínio, e fizeram o que quiseram de seus adversários.",
+      "reference": "Et 9:5"
+    },
+    "6": {
+      "text": "Somente na cidadela de Susa os judeus mataram e exterminaram quinhentos homens,",
+      "reference": "Et 9:6"
+    },
+    "7": {
+      "text": "especialmente Farsandata, Delfon, Esfata,",
+      "reference": "Et 9:7"
+    },
+    "8": {
+      "text": "Forata, Adalia, Aridata,",
+      "reference": "Et 9:8"
+    },
+    "9": {
+      "text": "Fermesta, Arisai, Aridai e Jezata,",
+      "reference": "Et 9:9"
+    },
+    "10": {
+      "text": "os dez filhos de Amã, filho de Amadates, o perseguidor dos judeus. Mas eles não se entregaram à pilhagem. \\par",
+      "reference": "Et 9:10"
+    },
+    "11": {
+      "text": "O número das vítimas mortais na cidadela de Susa foi comunicado ao rei no mesmo dia.",
+      "reference": "Et 9:11"
+    },
+    "12": {
+      "text": "O rei disse à rainha Ester: “Só na cidadela de Susa os judeus mataram e exterminaram quinhentos homens, bem como os dez filhos de Amã. Que terão eles feito nas demais províncias do reino? E agora, pede-me o que quiseres e te será concedido! O que ainda desejas, e será feito!”",
+      "reference": "Et 9:12"
+    },
+    "13": {
+      "text": "–“Se bem parecer ao rei”, respondeu Ester, “conceda-se aos judeus de Susa que também amanhã cumpram o decreto de hoje. Quanto aos dez filhos de Amã, que os seus cadáveres sejam dependurados na forca”.",
+      "reference": "Et 9:13"
+    },
+    "14": {
+      "text": "O rei ordenou que assim se fizesse; proclamou-se o edito em Susa e os dez filhos de Amã foram dependurados na forca.",
+      "reference": "Et 9:14"
+    },
+    "15": {
+      "text": "Assim, os judeus de Susa se reuniram também no décimo quarto dia de Adar e mataram trezentos homens em Susa, mas não se entregaram à pilhagem. \\par",
+      "reference": "Et 9:15"
+    },
+    "16": {
+      "text": "Os judeus das demais províncias reais também se reuniram para pôr sua vida em segurança. Eles se desembaraçaram de seus inimigos e mataram setenta e cinco mil de seus adversários, sem se entregarem à pilhagem.",
+      "reference": "Et 9:16"
+    },
+    "17": {
+      "text": "Era o décimo terceiro dia do mês de Adar. No décimo quarto dia eles descansaram e fizeram desse dia um dia de festas e de regozijo.",
+      "reference": "Et 9:17"
+    },
+    "18": {
+      "text": "Os judeus de Susa, que se reuniram no décimo terceiro dia e décimo quarto dia, repousaram no décimo quinto, fazendo igualmente desse dia um dia de festas e de regozijo.",
+      "reference": "Et 9:18"
+    },
+    "19": {
+      "text": "Assim se explica por que os judeus do campo, os que habitam em aldeias não fortificadas, celebram com alegria e banquetes, festas e trocas de presentes, o décimo quarto dia de Adar, {\\super (19a)} {\\i enquanto para os das cidades, o dia festivo que passam na alegria, enviando presentes a seus vizinhos, é o décimo quinto dia de Adar.} \\par",
+      "reference": "Et 9:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b {\\i V. A festa dos Purim}\\par }{\\qc\\b\\i Instituição oficial da festa dos Purim\\par }Mardoqueu pôs por escrito todos esses acontecimentos. Depois enviou cartas a todos os judeus que se encontravam nas províncias do rei Assuero, próximas ou longínquas,",
+      "reference": "Et 9:20"
+    },
+    "21": {
+      "text": "ordenando-lhes que celebrassem a cada ano o décimo quarto e o décimo quinto dia de Adar,",
+      "reference": "Et 9:21"
+    },
+    "22": {
+      "text": "porque esses são os dias em que os judeus se desembaraçaram de seus inimigos, e esse mês é aquele em que, para eles, a aflição deu lugar à alegria e o luto às festividades. Ele os instava, pois, a que fizessem, desses dias, dias de banquete e de alegria, de troca de presentes e de dádivas aos pobres. \\par",
+      "reference": "Et 9:22"
+    },
+    "23": {
+      "text": "Os judeus adotaram essas práticas que começaram a observar e a respeito das quais lhes escrevera Mardoqueu:",
+      "reference": "Et 9:23"
+    },
+    "24": {
+      "text": "Amã, filho de Amadates, o agagita, o perseguidor de todos os judeus, tinha planejado a sua morte e lançara o “Pur”, isto é, as sortes, para sua confusão e ruína.",
+      "reference": "Et 9:24"
+    },
+    "25": {
+      "text": "Mas quando ele esteve na presença do rei para lhe pedir que mandasse enforcar a Mardoqueu, o mau desígnio que concebera contra os judeus voltou-se contra ele, e ele foi enforcado, bem como seus filhos.",
+      "reference": "Et 9:25"
+    },
+    "26": {
+      "text": "Essa é a razão pela qual esses dias foram chamados de Purim, da palavra “Pur”. Daí também, por causa doe termos desta carta de Mardoqueu, por causa do que eles mesmos testemunharam ou por causa do que chegou até eles.",
+      "reference": "Et 9:26"
+    },
+    "27": {
+      "text": "Os judeus determinaram sobre si, sobre sua descendência e sobre todos os que se chegassem a eles, celebrar sem falta esses dois dias, segundo esse texto e essa data, de ano em ano.",
+      "reference": "Et 9:27"
+    },
+    "28": {
+      "text": "Assim comemorados e celebrados, de geração em geração, em cada família, em cada província, em cada cidade, esses dias dos Purim não desaparecerão dentre os judeus, sua lembrança não desaparecerá do meio de sua raça. \\par",
+      "reference": "Et 9:28"
+    },
+    "29": {
+      "text": "A rainha Ester, filha de Abiail, escreveu com toda autoridade para dar força da lei a esta segunda carta,",
+      "reference": "Et 9:29"
+    },
+    "30": {
+      "text": "e mandou enviar cartas a todos os judeus das cento e vinte e sete províncias do reino de Assuero, com palavras de paz e fidelidade,",
+      "reference": "Et 9:30"
+    },
+    "31": {
+      "text": "para lhes prescrever a observância destes dias dos Purim em sua data, como lhes tinha ordenado o judeu Marodqueu e como eles mesmos já o tinham estabelecido para si e sua raça, acrescentando cláusulas de jejum e lamentações.",
+      "reference": "Et 9:31"
+    },
+    "32": {
+      "text": "Assim o decreto de Ester fixou a lei dos Purim, e foi escrito num livro. \\par",
+      "reference": "Et 9:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

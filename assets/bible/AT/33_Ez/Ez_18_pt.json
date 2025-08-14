@@ -1,0 +1,141 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Responsabilidade pessoal\\par }A palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Ez 18:1"
+    },
+    "2": {
+      "text": "Que vem a ser este provérbio que vós usais na terra de Israel: \\par “Os pais comeram uvas verdes \\par e os dentes dos filhos ficaram embotados”? \\par",
+      "reference": "Ez 18:2"
+    },
+    "3": {
+      "text": "Por minha vida, oráculo do Senhor Iahweh, não repetireis jamais este provérbio em Israel.",
+      "reference": "Ez 18:3"
+    },
+    "4": {
+      "text": "Todas as vidas me pertencem, tanto a vida do pai, como a do filho. Pois bem, aquele que pecar, esse morrerá. \\par",
+      "reference": "Ez 18:4"
+    },
+    "5": {
+      "text": "Se um homem é justo e pratica o direito e a justiça,",
+      "reference": "Ez 18:5"
+    },
+    "6": {
+      "text": "não come sobre os montes e não eleva os seus olhos para os ídolos imundos da casa de Israel, nem desonra a mulher do seu próximo, nem se une com uma mulher durante a sua impureza,",
+      "reference": "Ez 18:6"
+    },
+    "7": {
+      "text": "nem explora a ninguém, se devolve o penhor de uma dívida, não comete furto, dá o seu pão ao faminto e veste ao que está nu,",
+      "reference": "Ez 18:7"
+    },
+    "8": {
+      "text": "não empresta com usura, não aceita juros, abstém-se do mal, julga com verdade entre homens e homens;",
+      "reference": "Ez 18:8"
+    },
+    "9": {
+      "text": "se age de acordo com os meus estatutos e observa as minhas normas, praticando fielmente a verdade: este homem será justo e viverá, oráculo do Senhor Iahweh. \\par",
+      "reference": "Ez 18:9"
+    },
+    "10": {
+      "text": "Contudo se tiver um filho violento e sanguinário, que pratique uma destas coisas,",
+      "reference": "Ez 18:10"
+    },
+    "11": {
+      "text": "quando ele não cometeu nenhuma, isto é, um filho que chegue a comer nos montes, que desonre a mulher do seu próximo,",
+      "reference": "Ez 18:11"
+    },
+    "12": {
+      "text": "que explore o pobre e o necessitado, que cometa furto, que não devolva o penhor, que eleve os seus olhos para os ídolos imundos e cometa abominação,",
+      "reference": "Ez 18:12"
+    },
+    "13": {
+      "text": "que empreste com usura e aceite juros, certamente não viverá, por ter praticado todas estas abominações: ele morrerá e o seu sangue cairá sobre ele. \\par",
+      "reference": "Ez 18:13"
+    },
+    "14": {
+      "text": "Mas se este, por sua vez, tiver um filho que vê todos os pecados cometidos pelo seu pai, os vê, mas não os imita,",
+      "reference": "Ez 18:14"
+    },
+    "15": {
+      "text": "isto é, não come sobre os montes e não eleva os seus olhos para os ídolos impuros da casa de Israel, não desonra a mulher do seu próximo,",
+      "reference": "Ez 18:15"
+    },
+    "16": {
+      "text": "não explora ninguém, não exige penhor e não comete furto, antes, dá o seu pão ao faminto e veste aquele que está nu,",
+      "reference": "Ez 18:16"
+    },
+    "17": {
+      "text": "se abstém da injustiça, não aceita usura nem juros, observa as minhas normas e anda nos meus estatutos, este não morrerá pelas iniqüidades de seu pai, antes, certamente viverá.",
+      "reference": "Ez 18:17"
+    },
+    "18": {
+      "text": "O seu pai, visto que agiu com violência e praticou o furto, visto que não se comportou bem no seio do seu povo, este, sim, morrerá por causa da sua iniqüidade.",
+      "reference": "Ez 18:18"
+    },
+    "19": {
+      "text": "E vós dizeis: “Por que o filho não há de levar a iniqüidade de seu pai?” Ora, o filho praticou o direito e a justiça, observou todos os meus estatutos e os praticou! Por tudo isso, certamente viverá.",
+      "reference": "Ez 18:19"
+    },
+    "20": {
+      "text": "Sim, a pessoa que peca é a que morre! O filho não sofre o castigo da iniqüidade do pai, como o pai não sofre o castigo da iniqüidade do filho: a justiça do justo será imputada a ele, exatamente como a impiedade do ímpio será imputada a ele. \\par",
+      "reference": "Ez 18:20"
+    },
+    "21": {
+      "text": "Mas quanto ao ímpio, se ele se converter de todos os pecados que cometeu e passar a guardar os meus estatutos e a praticar o direito e a justiça, certamente viverá: ele não morrerá.",
+      "reference": "Ez 18:21"
+    },
+    "22": {
+      "text": "Nenhum dos crimes que praticou será lembrado. Viverá como resultado da justiça que passou a praticar.",
+      "reference": "Ez 18:22"
+    },
+    "23": {
+      "text": "Porventura tenho eu prazer na morte do ímpio? – oráculo do Senhor Iahweh. – Porventura não alcançará ele a vida se se converter de seus maus caminhos? \\par",
+      "reference": "Ez 18:23"
+    },
+    "24": {
+      "text": "Por outra parte, se o justo renunciar à sua justiça e fizer o mal, à imitação de todas as abominações praticadas pelo ímpio, poderá ele viver, fazendo isto? Não! Toda a justiça que praticou já não será lembrada! Antes, em virtude da infidelidade que praticou e do pecado que cometeu, morrerá.",
+      "reference": "Ez 18:24"
+    },
+    "25": {
+      "text": "Entretanto dizeis: “O modo de agir do Senhor não é justo”. Pois ouvi-me, ó casa de Israel: será o meu modo de proceder errado? Não será antes o vosso modo de proceder que não está certo?",
+      "reference": "Ez 18:25"
+    },
+    "26": {
+      "text": "Com efeito, ao renunciar o justo à sua justiça e ao fazer o mal, é em virtude do mal que praticou que ele morre.",
+      "reference": "Ez 18:26"
+    },
+    "27": {
+      "text": "E se o ímpio renunciar à sua impiedade, passando a praticar o direito e a justiça, salva a sua vida.",
+      "reference": "Ez 18:27"
+    },
+    "28": {
+      "text": "Caiu em si e renunciou a toda a iniqüidade que tinha cometido. Certamente ele viverá e não morrerá.",
+      "reference": "Ez 18:28"
+    },
+    "29": {
+      "text": "E no entanto a casa de Israel diz: “O modo de proceder do Senhor não está certo”. Será o meu procedimento que não está certo, ó casa de Israel? Não será antes o vosso procedimento que não está certo?",
+      "reference": "Ez 18:29"
+    },
+    "30": {
+      "text": "Por isso mesmo eu vos julgarei a cada um conforme o seu procedimento, ó casa de Israel, oráculo do Senhor Iahweh. Convertei-vos e abandonai todas as vossas transgressões. Não torneis a buscar pretexto para fazerdes o mal.",
+      "reference": "Ez 18:30"
+    },
+    "31": {
+      "text": "Lançai fora todas as transgressões que cometestes, formai um coração novo e um espírito novo. Por que haveis de morrer, ó casa de Israel?",
+      "reference": "Ez 18:31"
+    },
+    "32": {
+      "text": "Eu não tenho prazer na morte de quem quer que seja, oráculo do Senhor Iahweh. Convertei-vos e vivereis! \\par",
+      "reference": "Ez 18:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

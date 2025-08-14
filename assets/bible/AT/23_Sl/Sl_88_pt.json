@@ -1,0 +1,89 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 88,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 88 (87)\\par }{\\qc\\b\\i Súplica do fundo da angústia\\par }{\\qc\\i Cântico. Salmo. Dos filhos de Coré. Do mestre de canto. Para a doença. Para a aflição. Poema. De Emã, o ezraíta. \\par }",
+      "reference": "Sl 88:1"
+    },
+    "2": {
+      "text": "Iahweh, meu Deus salvador, \\par de noite eu grito a ti: \\par",
+      "reference": "Sl 88:2"
+    },
+    "3": {
+      "text": "que minha prece chegue à tua presença, \\par inclina teu ouvido ao meu clamor. \\par",
+      "reference": "Sl 88:3"
+    },
+    "4": {
+      "text": "Pois minha alma está cheia de males \\par e minha vida está à beira do Xeol; \\par",
+      "reference": "Sl 88:4"
+    },
+    "5": {
+      "text": "sou visto como os que baixam à cova, \\par tornei-me um homem sem forças: \\par",
+      "reference": "Sl 88:5"
+    },
+    "6": {
+      "text": "despedido entre os mortos, \\par como as vítimas \\par que jazem no sepulcro, \\par das quais já não te lembras, \\par porque foram separadas de tua mão. \\par",
+      "reference": "Sl 88:6"
+    },
+    "7": {
+      "text": "Puseste-me no fundo da cova, \\par em meio a trevas nos abismos; \\par",
+      "reference": "Sl 88:7"
+    },
+    "8": {
+      "text": "tua cólera pesa sobre mim, \\par tu derramas tuas vagas todas. {\\i Pausa} \\par",
+      "reference": "Sl 88:8"
+    },
+    "9": {
+      "text": "Afastaste de mim meus conhecidos, \\par tornaste-me repugnante a eles: \\par estou fechado e não posso sair, \\par",
+      "reference": "Sl 88:9"
+    },
+    "10": {
+      "text": "com a miséria meu olho desgastou-se, \\par Iahweh, eu te invoco todo o dia, \\par estendendo as mãos para ti: \\par",
+      "reference": "Sl 88:10"
+    },
+    "11": {
+      "text": "“Realizas maravilhas pelos mortos? \\par As sombras se levantam para te louvar? {\\i Pausa} \\par",
+      "reference": "Sl 88:11"
+    },
+    "12": {
+      "text": "Falam do teu amor nas sepulturas, \\par da tua fidelidade no lugar da perdição? \\par",
+      "reference": "Sl 88:12"
+    },
+    "13": {
+      "text": "Conhecem tuas maravilhas na treva, \\par e tua justiça na terra do esquecimento?” \\par",
+      "reference": "Sl 88:13"
+    },
+    "14": {
+      "text": "Quanto a mim, Iahweh, eu grito a ti, \\par minha prece chega a ti pela manhã; \\par",
+      "reference": "Sl 88:14"
+    },
+    "15": {
+      "text": "por que me rejeitas, Iahweh, \\par e escondes tua face longe de mim? \\par",
+      "reference": "Sl 88:15"
+    },
+    "16": {
+      "text": "Sou infeliz e moribundo desde a infância, \\par sofri teus horrores, estou esgotado; \\par",
+      "reference": "Sl 88:16"
+    },
+    "17": {
+      "text": "passaram sobre mim teus furores, \\par teus terrores me deixaram aniquilado. \\par",
+      "reference": "Sl 88:17"
+    },
+    "18": {
+      "text": "Eles me cercam como água todo o dia, \\par envolvem-me todos juntos de uma vez. \\par",
+      "reference": "Sl 88:18"
+    },
+    "19": {
+      "text": "Tu afastas de mim meus próximos e amigos, \\par a treva é a minha companhia. \\par",
+      "reference": "Sl 88:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

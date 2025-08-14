@@ -1,0 +1,173 @@
+{
+  "book": 16,
+  "book_name": "Neemias",
+  "book_abbr": "Ne",
+  "book_category": "Histórico",
+  "book_english": "Nehemiah",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Processo verbal do compromisso assumido pela comunidade\\par }...Por causa disso tudo, assumimos um sério compromisso, por escrito. No documento selado constam os nomes dos nossos chefes, levitas e sacerdotes... \\par",
+      "reference": "Ne 10:1"
+    },
+    "2": {
+      "text": "No documento selado constavam: \\par Neemias, filho de Hacalias, e Sedecias, \\par",
+      "reference": "Ne 10:2"
+    },
+    "3": {
+      "text": "Saraías, Azarias, Jeremias,",
+      "reference": "Ne 10:3"
+    },
+    "4": {
+      "text": "Fasur, Amarias, Melquias,",
+      "reference": "Ne 10:4"
+    },
+    "5": {
+      "text": "Hatus, Sebanias, Meluc,",
+      "reference": "Ne 10:5"
+    },
+    "6": {
+      "text": "Harim, Meremot, Abdias,",
+      "reference": "Ne 10:6"
+    },
+    "7": {
+      "text": "Daniel, Genton, Baruc,",
+      "reference": "Ne 10:7"
+    },
+    "8": {
+      "text": "Mosolam, Abias, Miamin,",
+      "reference": "Ne 10:8"
+    },
+    "9": {
+      "text": "Maazias, Belgai, Semeías: esses são os sacerdotes. \\par",
+      "reference": "Ne 10:9"
+    },
+    "10": {
+      "text": "Depois os levitas: Josué, filho de Azanias, Benui, dos filhos de Henadad, Cadmiel,",
+      "reference": "Ne 10:10"
+    },
+    "11": {
+      "text": "e seus irmãos Sequenias, Odovias, celita, Falaías, Hanã,",
+      "reference": "Ne 10:11"
+    },
+    "12": {
+      "text": "Micas, Roob, Hasebias,",
+      "reference": "Ne 10:12"
+    },
+    "13": {
+      "text": "Zacur, Serebias, Sebanias,",
+      "reference": "Ne 10:13"
+    },
+    "14": {
+      "text": "Odias, Bani, Canani. \\par",
+      "reference": "Ne 10:14"
+    },
+    "15": {
+      "text": "Os chefes do povo: Faros, Faat-Moab, Elam, Zetu, Bani,",
+      "reference": "Ne 10:15"
+    },
+    "16": {
+      "text": "Buni, Azgad, Bebai,",
+      "reference": "Ne 10:16"
+    },
+    "17": {
+      "text": "Adonias, Beguai, Adin,",
+      "reference": "Ne 10:17"
+    },
+    "18": {
+      "text": "Ater, Ezequias, Azur,",
+      "reference": "Ne 10:18"
+    },
+    "19": {
+      "text": "Adias, Hasum, Besai,",
+      "reference": "Ne 10:19"
+    },
+    "20": {
+      "text": "Haref, Anatot, Nebai,",
+      "reference": "Ne 10:20"
+    },
+    "21": {
+      "text": "Megfias, Mosolam, Hazir,",
+      "reference": "Ne 10:21"
+    },
+    "22": {
+      "text": "Mesezebel, Sadoc, Jedua,",
+      "reference": "Ne 10:22"
+    },
+    "23": {
+      "text": "Feltias, Hanã, Anaías,",
+      "reference": "Ne 10:23"
+    },
+    "24": {
+      "text": "Oséias, Hananias, Hasub,",
+      "reference": "Ne 10:24"
+    },
+    "25": {
+      "text": "Aloés, Falea, Sobec,",
+      "reference": "Ne 10:25"
+    },
+    "26": {
+      "text": "Reum, Hasabna, Maasias,",
+      "reference": "Ne 10:26"
+    },
+    "27": {
+      "text": "Aías, Hanã, Anã,",
+      "reference": "Ne 10:27"
+    },
+    "28": {
+      "text": "Meluc, Harim, Baana. \\par",
+      "reference": "Ne 10:28"
+    },
+    "29": {
+      "text": "...e o resto do povo, os sacerdotes, os levitas, os porteiros, os cantores, os “doados”, numa palavra, todos os que se separaram dos povos das terras para abraçarem a Lei de Deus, e também suas esposas, filhos e filhas, todos os que têm o uso da razão,",
+      "reference": "Ne 10:29"
+    },
+    "30": {
+      "text": "unem-se a seus irmãos e chefes e se comprometem, por imprecação e juramento, a caminhar segundo a Lei de Deus, dada pelo ministério de Moisés, o servo de Deus, a guardar e observar todos os mandamentos de Iahweh nosso Deus, suas normas e estatutos. \\par",
+      "reference": "Ne 10:30"
+    },
+    "31": {
+      "text": "Em particular: não daremos mais nossas filhas aos povos da terra e não tomaremos mais suas filhas para esposas de nossos filhos. \\par",
+      "reference": "Ne 10:31"
+    },
+    "32": {
+      "text": "Se os povos da terra trouxerem para vender, no dia de sábado, mercadorias ou qualquer espécie de víveres, nada compraremos deles em dia de sábado ou em dia santificado. \\par Não colheremos os produtos da terra no sétimo ano, e perdoaremos toda dívida. \\par",
+      "reference": "Ne 10:32"
+    },
+    "33": {
+      "text": "Impusemo-nos como obrigações: dar a terça parte de um siclo por ano para o culto do Templo de nosso Deus:",
+      "reference": "Ne 10:33"
+    },
+    "34": {
+      "text": "para o pão da oblação, para a oblação perpétua e o holocausto perpétuo, para os sacrifícios dos sábados, das neomênias, das solenidades, e para as oferendas sagradas, para os sacrifícios pelo pecado que garantem a expiação em favor de Israel; em suma, para todo o serviço do Templo do nosso Deus;",
+      "reference": "Ne 10:34"
+    },
+    "35": {
+      "text": "{\\cf15 [Veja v. 40]}",
+      "reference": "Ne 10:35"
+    },
+    "36": {
+      "text": "e levar cada ano ao Templo de Iahweh as primícias de nosso solo e as primícias de todos os frutos de todas as árvores,",
+      "reference": "Ne 10:36"
+    },
+    "37": {
+      "text": "bem como os primogênitos de nossos filhos e de nosso rebanho, como está escrito na Lei – os primogênitos de nosso gado graúdo e de nosso gado miúdo, ao Templo de nosso Deus, sendo destinados aos sacerdotes em função no Templo de nosso Deus.",
+      "reference": "Ne 10:37"
+    },
+    "38": {
+      "text": "Além disso, a melhor parte de nossas moeduras, dos frutos de toda árvore, do vinho novo e do azeite, levaremos aos sacerdotes, nas dependências do Templo de nosso Deus; e o dízimo de nossa terra, aos levitas – são os próprios levitas que recolherão o dízimo em todas as nossas cidades agrícolas;",
+      "reference": "Ne 10:38"
+    },
+    "39": {
+      "text": "um sacerdote, filho de Aarão, acompanhará os levitas quando forem recolher o dízimo para o Templo de nosso Deus, para as salas do Tesouro;",
+      "reference": "Ne 10:39"
+    },
+    "40": {
+      "text": "{\\super (40ab)} pois é para estas salas que os filhos de Israel e os levitas levam as contribuições de trigo, de vinho e de azeite; lá se acham também os utensílios do santuário, dos sacerdotes em serviço, dos porteiros e dos cantores. {\\super (35)} Nós, sacerdotes, levitas e povo, resolvemos também pela sorte a questão das ofertas de lenha que se devem fazer ao Templo de nosso Deus, cada família por sua vez, em datas fixas, cada ano, para queimá-la sobre o altar de Iahweh nosso Deus, como está escrito na Lei. {\\super (40c)} Não mais negligenciaremos o Templo de nosso Deus. \\par",
+      "reference": "Ne 10:40"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 40
+}

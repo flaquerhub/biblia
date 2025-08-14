@@ -1,0 +1,117 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "Um homem não tomará a mulher do seu pai, para não retirar dela o pano do manto do seu pai. \\par",
+      "reference": "Dt 23:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Participação nas assembléias cultuais\\par }O homem com testículos esmagados ou com o membro viril cortado não poderá entrar na assembléia de Iahweh.",
+      "reference": "Dt 23:2"
+    },
+    "3": {
+      "text": "Nenhum bastardo entrará na assembléia de Iahweh; e seus descendentes também não poderão entrar na assembléia de Iahweh até à décima geração.",
+      "reference": "Dt 23:3"
+    },
+    "4": {
+      "text": "O amonita e o moabita não poderão entrar na assembléia de Iahweh; e mesmo seus descendentes também não poderão entrar na assembléia de Iahweh até à décima geração, para sempre;",
+      "reference": "Dt 23:4"
+    },
+    "5": {
+      "text": "isso porque não foram ao vosso encontro com pão e água quando caminháveis após a saída do Egito, e porque assalariaram a Balaão, filho de Beor, de Petor em Aram Naaraim, para que te amaldiçoasse.",
+      "reference": "Dt 23:5"
+    },
+    "6": {
+      "text": "Mas Iahweh teu Deus não quis ouvir Balaão, e Iahweh teu Deus transformou a maldição em bênção a teu favor, pois Iahweh teu Deus te ama.",
+      "reference": "Dt 23:6"
+    },
+    "7": {
+      "text": "Portanto, enquanto viveres, jamais favoreças a prosperidade e a felicidade deles. \\par",
+      "reference": "Dt 23:7"
+    },
+    "8": {
+      "text": "Não abomines o edomita, pois ele é teu irmão. Não abomines o egípcio, porque foste estrangeiro em sua terra.",
+      "reference": "Dt 23:8"
+    },
+    "9": {
+      "text": "Na terceira geração seus descendentes terão acesso à assembléia de Iahweh. \\par",
+      "reference": "Dt 23:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Pureza no acampamento\\par }Quando tiveres saído para acampar contra os teus inimigos, procura guardar-te de todo mal.",
+      "reference": "Dt 23:10"
+    },
+    "11": {
+      "text": "Se em teu meio houver algum homem que ficou impuro por causa de uma polução noturna, ele deverá sair para fora do acampamento e não voltará.",
+      "reference": "Dt 23:11"
+    },
+    "12": {
+      "text": "Ao cair da tarde ele se lavará e, ao pôr-do-sol, poderá voltar ao acampamento. \\par",
+      "reference": "Dt 23:12"
+    },
+    "13": {
+      "text": "Deverá prover um lugar fora do acampamento para as tuas necessidades.",
+      "reference": "Dt 23:13"
+    },
+    "14": {
+      "text": "Junto com teu equipamento tenhas também uma pá. Quando saíres para fazer as tuas necessidades, cava com ela, e ao terminar cobre as fezes.",
+      "reference": "Dt 23:14"
+    },
+    "15": {
+      "text": "Pois Iahweh teu Deus anda pelo acampamento para te proteger e para entregar-te os inimigos. Portanto, teu acampamento deve ser santo, para que Iahweh não veja em ti algo inconveniente e te volte as costas. \\par",
+      "reference": "Dt 23:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Leis sociais e cultuais\\par }Quando um escravo fugir do seu amo e se refugiar em tua casa, não o entregues ao seu amo;",
+      "reference": "Dt 23:16"
+    },
+    "17": {
+      "text": "ele permanecerá contigo, entre os teus, no lugar que escolher, numa das tuas cidades, onde lhe pareça melhor. Não o maltrates! \\par",
+      "reference": "Dt 23:17"
+    },
+    "18": {
+      "text": "Não haverá prostituta sagrada entre as filhas de Israel, nem prostituto sagrado entre os filhos de Israel.",
+      "reference": "Dt 23:18"
+    },
+    "19": {
+      "text": "Não trarás à casa de Iahweh teu Deus o salário de uma prostituta, nem o pagamento de um “cão” por algum voto, porque ambos são abomináveis a Iahweh teu Deus. \\par",
+      "reference": "Dt 23:19"
+    },
+    "20": {
+      "text": "Não emprestes ao teu irmão com juros, quer se trate de empréstimo de dinheiro, quer de viveres ou de qualquer outra coisa sobre a qual é costume exigir um juro.",
+      "reference": "Dt 23:20"
+    },
+    "21": {
+      "text": "Poderás fazer um empréstimo com juros ao estrangeiro; contudo, emprestarás sem juro ao teu irmão, para que Iahweh teu Deus abençoe todo empreendimento da tua mão na terra em que estás entrando, a fim de tomares posse dela. \\par",
+      "reference": "Dt 23:21"
+    },
+    "22": {
+      "text": "Quando ofereces um voto a Iahweh teu Deus, não tardes em cumpri-lo, pois Iahweh teu Deus certamente irá reclamá-lo de ti, e em ti haveria um pecado.",
+      "reference": "Dt 23:22"
+    },
+    "23": {
+      "text": "Se te absténs de fazer o voto, não haverá pecado em ti.",
+      "reference": "Dt 23:23"
+    },
+    "24": {
+      "text": "Contudo, cuidarás de cumprir o voto que os teus lábios proferiram, uma vez que com tua própria boca ofereceste espontaneamente um voto a Iahweh teu Deus. \\par",
+      "reference": "Dt 23:24"
+    },
+    "25": {
+      "text": "Quando entrares na vinha do teu próximo poderás comer a vontade, até ficar saciado, mas nada carregues em teu cesto.",
+      "reference": "Dt 23:25"
+    },
+    "26": {
+      "text": "Quando entrares na plantação do teu próximo poderás colher as espigas com a mão, mas não passes a foice na plantação do teu próximo. \\par",
+      "reference": "Dt 23:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

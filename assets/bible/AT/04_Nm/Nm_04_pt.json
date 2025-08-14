@@ -1,0 +1,209 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os clãs dos levitas: A. Os caatitas\\par }Iahweh falou a Moisés e a Aarão e disse:",
+      "reference": "Nm 4:1"
+    },
+    "2": {
+      "text": "“Fazei o recenseamento dos levitas que são filhos de Caat, segundo os seus clãs e segundo as casas patriarcais:",
+      "reference": "Nm 4:2"
+    },
+    "3": {
+      "text": "todos os homens de trinta a cinqüenta anos, que devem fazer o serviço militar e que realizarão as suas funções na Tenda da Reunião. \\par",
+      "reference": "Nm 4:3"
+    },
+    "4": {
+      "text": "Este será o serviço dos filhos de Caat na Tenda da Reunião: as coisas santíssimas. \\par",
+      "reference": "Nm 4:4"
+    },
+    "5": {
+      "text": "Quando se levantar o acampamento, Aarão e seus filhos virão tirar a cortina do véu. Cobrirão com ele a Arca do Testemunho.",
+      "reference": "Nm 4:5"
+    },
+    "6": {
+      "text": "E porão por cima uma cobertura de couro fino, sobre a qual estenderão um pano todo de púrpura violeta. Em seguida colocarão os varais da Arca. \\par",
+      "reference": "Nm 4:6"
+    },
+    "7": {
+      "text": "E estenderão sobre a mesa da oblação um pano de púrpura, sobre o qual colocarão os pratos, os copos, as taças e os jarros para libação; também o pão da oblação perpétua estará sobre ele.",
+      "reference": "Nm 4:7"
+    },
+    "8": {
+      "text": "E por cima deles estenderão um pano escarlate, que será recoberto com uma cobertura de couro fino. Em seguida colocarão os varais da mesa. \\par",
+      "reference": "Nm 4:8"
+    },
+    "9": {
+      "text": "Tomarão então um pano de púrpura com o qual cobrirão o candelabro de luz, suas lâmpadas, seus espevitadores e seus apagadores e todos os vasos de óleo empregados no seu serviço.",
+      "reference": "Nm 4:9"
+    },
+    "10": {
+      "text": "E o colocarão com todos os seus acessórios sobre uma cobertura de couro fino e o porão sobre os varais. \\par",
+      "reference": "Nm 4:10"
+    },
+    "11": {
+      "text": "Sobre o altar de ouro estenderão um pano de púrpura e o recobrirão com uma cobertura de couro fino. Em seguida ajustarão nele os varais. \\par",
+      "reference": "Nm 4:11"
+    },
+    "12": {
+      "text": "Em seguida tomarão todos os objetos usados no serviço do santuário. Depositá-los-ão sobre um pano de púrpura e os recobrirão com uma cobertura de couro fino, e porão tudo sobre os varais. \\par",
+      "reference": "Nm 4:12"
+    },
+    "13": {
+      "text": "Depois de haver retirado do altar suas cinzas gordurosas, estenderão sobre ele um pano escarlate,",
+      "reference": "Nm 4:13"
+    },
+    "14": {
+      "text": "sobre o qual depositarão todos os utensílios que se empregam no ofício, os incensórios, os garfos, as pás, as bacias, todos os acessórios do altar. Estenderão por cima uma cobertura de couro fino; em seguida colocarão os varais. \\par",
+      "reference": "Nm 4:14"
+    },
+    "15": {
+      "text": "Assim que Aarão e seus filhos tiverem terminado de acondicionar as coisas sagradas e todos os seus acessórios, no momento de levantar o acampamento, virão os filhos de Caat para transportá-los, sem contudo tocar naquilo que é consagrado; morrerão, se o fizerem. Este é o encargo dos filhos de Caat na Tenda da Reunião.",
+      "reference": "Nm 4:15"
+    },
+    "16": {
+      "text": "Quanto a Eleazar, filho de Aarão, o sacerdote, ficará encarregado de cuidar do óleo da luminária, dos perfumes de ervas aromáticas, da oblação perpétua, do óleo da unção; terá a superintendência de toda a Habitação e de tudo que nela se encontra: das coisas sagradas e dos seus acessórios”. \\par",
+      "reference": "Nm 4:16"
+    },
+    "17": {
+      "text": "Iahweh falou a Moisés e a Aarão. Disse: \\par",
+      "reference": "Nm 4:17"
+    },
+    "18": {
+      "text": "“Não elimineis do número dos levitas a tribo dos clãs caatitas.",
+      "reference": "Nm 4:18"
+    },
+    "19": {
+      "text": "Fazei, pois, assim com eles, a fim de que vivam e não morram ao se aproximarem das coisas santíssimas: Aarão e seus filhos virão e designarão cada um deles para o seu serviço e junto do seu encargo.",
+      "reference": "Nm 4:19"
+    },
+    "20": {
+      "text": "Serão assim impedidos de entrar e de contemplar, ainda que por um momento, as coisas sagradas, pois morreriam!” \\par",
+      "reference": "Nm 4:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i B. Os gersonitas\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Nm 4:21"
+    },
+    "22": {
+      "text": "“Faze também o recenseamento dos filhos de Gérson, segundo as casas patriarcais e segundo os clãs.",
+      "reference": "Nm 4:22"
+    },
+    "23": {
+      "text": "Farás o recenseamento de todos os homens de trinta a cinqüenta anos, em condições de fazer o serviço militar, e que farão o serviço na Tenda da Reunião. \\par",
+      "reference": "Nm 4:23"
+    },
+    "24": {
+      "text": "Este será o serviço dos clãs dos gersonitas, suas funções e seus encargos. \\par",
+      "reference": "Nm 4:24"
+    },
+    "25": {
+      "text": "Transportarão as cortinas da Habitação, a Tenda da Reunião com a sua cobertura e a cobertura de couro fino que a recobre, a cortina da entrada da Tenda da Reunião,",
+      "reference": "Nm 4:25"
+    },
+    "26": {
+      "text": "as cortinas do átrio, o véu da entrada da porta do átrio que rodeia a Habitação e o altar, as cordas e todos os utensílios do culto, todo o material necessário. \\par Farão, pois, o seu serviço.",
+      "reference": "Nm 4:26"
+    },
+    "27": {
+      "text": "Todo este serviço dos filhos de Gérson – funções e transportes – se fará sob as ordens de Aarão e dos seus filhos: e vós determinareis, expressamente, o que devem transportar.",
+      "reference": "Nm 4:27"
+    },
+    "28": {
+      "text": "Esse será o serviço dos clãs dos gersonitas na Tenda da Reunião. O seu serviço estará sob as ordens de Itamar, filho de Aarão, o sacerdote. \\par",
+      "reference": "Nm 4:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i C. Os meraritas\\par }Farás o recenseamento dos filhos de Merari, por clãs e segundo as casas patriarcais.",
+      "reference": "Nm 4:29"
+    },
+    "30": {
+      "text": "Farás o recenseamento de todos os homens de trinta a cinqüenta anos, em condições de fazer o serviço militar, e que farão o serviço na Tenda da Reunião. \\par",
+      "reference": "Nm 4:30"
+    },
+    "31": {
+      "text": "Este é o serviço que assumirão e toda a função que será de sua competência na Tenda da Reunião: as tábuas da Habitação, suas vigas, suas colunas e suas bases.",
+      "reference": "Nm 4:31"
+    },
+    "32": {
+      "text": "As colunas que rodeiam o átrio, suas bases, suas estacas, suas cordas e todo o seu acessório. E destacareis o nome dos objetos de cujo transporte estarão encarregados. \\par",
+      "reference": "Nm 4:32"
+    },
+    "33": {
+      "text": "Esse será o serviço dos clãs dos meraritas. E para todo o seu serviço na Tenda da Reunião, terão a direção de Itamar, filho de Aarão, o sacerdote”. \\par",
+      "reference": "Nm 4:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Recenseamento dos levitas\\par }Moisés, Aarão e os chefes da comunidade fizeram o recenseamento dos filhos de Caat, segundo os seus clãs e casas patriarcais;",
+      "reference": "Nm 4:34"
+    },
+    "35": {
+      "text": "todos os homens de trinta a cinqüenta anos, aptos para o serviço militar e encarregados do serviço na Tenda da Reunião.",
+      "reference": "Nm 4:35"
+    },
+    "36": {
+      "text": "Contaram-se segundo os seus clãs, dois mil e setecentos e cinqüenta recenseados.",
+      "reference": "Nm 4:36"
+    },
+    "37": {
+      "text": "Este foi o número dos recenseados dos clãs caatitas, todos aqueles que deviam servir na Tenda da Reunião, e que foram recenseados por Moisés e Aarão, segundo a ordem de Iahweh transmitida por Moisés. \\par",
+      "reference": "Nm 4:37"
+    },
+    "38": {
+      "text": "Fez-se o recenseamento dos filhos de Gérson, segundo os seus clãs e casas patriarcais:",
+      "reference": "Nm 4:38"
+    },
+    "39": {
+      "text": "todos os homens de trinta a cinqüenta anos, aptos para o serviço militar e encarregados do serviço na Tenda da Reunião.",
+      "reference": "Nm 4:39"
+    },
+    "40": {
+      "text": "Contaram-se dois mil e seiscentos e trinta recenseados, segundo os clãs e as casas patriarcais.",
+      "reference": "Nm 4:40"
+    },
+    "41": {
+      "text": "Esse foi o número dos recenseados, dos clãs dos gersonitas, todos aqueles que deviam servir na Tenda da Reunião e que foram recenseados por Moisés e Aarão, segundo a ordem de Iahweh. \\par",
+      "reference": "Nm 4:41"
+    },
+    "42": {
+      "text": "Fez-se o recenseamento dos clãs dos filhos de Merari, segundo os seus clãs e casas patriarcais:",
+      "reference": "Nm 4:42"
+    },
+    "43": {
+      "text": "todos os homens de trinta a cinqüenta anos, aptos para o serviço militar e encarregados do serviço na Tenda da Reunião.",
+      "reference": "Nm 4:43"
+    },
+    "44": {
+      "text": "Contaram-se, segundo os seus clãs, três mil e duzentos recenseados.",
+      "reference": "Nm 4:44"
+    },
+    "45": {
+      "text": "Esse foi o número dos recenseados dos clãs dos meraritas, que foram recenseados por Moisés e Aarão, segundo a ordem de Iahweh transmitida por Moisés. \\par",
+      "reference": "Nm 4:45"
+    },
+    "46": {
+      "text": "O número total dos levitas que Moisés, Aarão e os chefes de Israel recensearam, segundo os clãs e as casas patriarcais –",
+      "reference": "Nm 4:46"
+    },
+    "47": {
+      "text": "todos os homens de trinta a cinqüenta anos, aptos para ministrar no culto e para trabalhar no serviço de transporte da Tenda da Reunião –",
+      "reference": "Nm 4:47"
+    },
+    "48": {
+      "text": "elevou-se a oito mil e quinhentos e oitenta recenseados.",
+      "reference": "Nm 4:48"
+    },
+    "49": {
+      "text": "Fez-se o recenseamento deles segundo a ordem de Iahweh transmitida por Moisés, atribuindo-se a cada um o seu serviço e o seu transporte; foram recenseados conforme Iahweh havia ordenado a Moisés. \\par",
+      "reference": "Nm 4:49"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 49
+}

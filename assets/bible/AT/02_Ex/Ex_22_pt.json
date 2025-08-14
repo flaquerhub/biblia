@@ -1,0 +1,133 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "Se um ladrão for surpreendido arrombando um muro, e sendo ferido morrer, quem o feriu não será culpado do sangue.",
+      "reference": "Ex 22:1"
+    },
+    "2": {
+      "text": "Se, porém, fizer isso depois de ter nascido o sol, quem o ferir será culpado de sangue; neste caso o ladrão fará restituição total. Se não tiver com que pagar, será vendido por seu furto.",
+      "reference": "Ex 22:2"
+    },
+    "3": {
+      "text": "Se o animal roubado, boi, jumento ou ovelha, for encontrado vivo em seu poder, restituirá o dobro. \\par",
+      "reference": "Ex 22:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Delitos que implicam indenização\\par }Se alguém fizer o seu animal pastar num campo ou numa vinha, e o deixar pastar em campo de outrem, restituirá a parte comida desse campo, conforme o que ajustar. Se ele deixar pastar o campo inteiro, pagará com o melhor do seu próprio campo e o melhor de sua própria vinha. \\par",
+      "reference": "Ex 22:4"
+    },
+    "5": {
+      "text": "Se um fogo, alastrando-se, encontrar espinheiros e atingir as medas, ou a messe, ou o campo, aquele que ateou o fogo pagará totalmente o que tiver queimado. \\par",
+      "reference": "Ex 22:5"
+    },
+    "6": {
+      "text": "Se alguém der ao seu próximo dinheiro ou objetos para guardar, e isso for furtado daquele que o recebeu, se for achado o ladrão, este pagará em dobro.",
+      "reference": "Ex 22:6"
+    },
+    "7": {
+      "text": "Se o ladrão não for achado, então o dono da casa será levado diante de Deus para testemunhar que não se apossou do bem alheio. \\par",
+      "reference": "Ex 22:7"
+    },
+    "8": {
+      "text": "Em toda causa litigiosa relativa a um boi, a um jumento, a uma ovelha, a uma vestimenta ou a qualquer objeto perdido do qual se diz: ‘Esta é a coisa’, a causa será levada diante de Deus. O que Deus declarar culpado restituirá o dobro ao outro. \\par",
+      "reference": "Ex 22:8"
+    },
+    "9": {
+      "text": "Se alguém confiar à guarda de outro um jumento, um touro, uma ovelha ou qualquer outro animal, e este morrer, ficar aleijado ou for afugentado, sem que ninguém o veja,",
+      "reference": "Ex 22:9"
+    },
+    "10": {
+      "text": "então haverá juramento de Iahweh entre ambos, de que não se apossou dos bens do próximo; o dono aceitará o restante e o outro não fará restituição.",
+      "reference": "Ex 22:10"
+    },
+    "11": {
+      "text": "Mas se o animal furtado se encontrava com ele, deverá restituí-lo ao seu proprietário.",
+      "reference": "Ex 22:11"
+    },
+    "12": {
+      "text": "Se o animal for dilacerado por uma fera, trará o animal dilacerado, em testemunho disso, e não terá que restituí-lo. \\par",
+      "reference": "Ex 22:12"
+    },
+    "13": {
+      "text": "Se alguém pedir emprestado a seu próximo um animal, e este ficar aleijado ou morrer não estando presente o dono, deverá pagá-lo.",
+      "reference": "Ex 22:13"
+    },
+    "14": {
+      "text": "Mas se o dono estiver presente, não o pagará; se foi alugado, o valor do aluguel será o pagamento. \\par",
+      "reference": "Ex 22:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Violação de uma virgem\\par }Se alguém seduzir uma virgem que ainda não estava prometida em casamento, e se deitar com ela, pagará o seu dote e a tomará por mulher.",
+      "reference": "Ex 22:15"
+    },
+    "16": {
+      "text": "Se o pai dela recusar dar-lha, pagará em dinheiro conforme o dote das virgens. \\par",
+      "reference": "Ex 22:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Leis morais e religiosas\\par }Não deixarás viver a feiticeira. \\par",
+      "reference": "Ex 22:17"
+    },
+    "18": {
+      "text": "Quem tiver coito com um animal será morto. \\par",
+      "reference": "Ex 22:18"
+    },
+    "19": {
+      "text": "Quem sacrificar a outros deuses, fora Iahweh, será entregue ao anátema. \\par",
+      "reference": "Ex 22:19"
+    },
+    "20": {
+      "text": "Não afligirás o estrangeiro nem o oprimido, pois vós mesmos fostes estrangeiros no país do Egito.",
+      "reference": "Ex 22:20"
+    },
+    "21": {
+      "text": "Não afligireis a nenhuma viúva ou órfão.",
+      "reference": "Ex 22:21"
+    },
+    "22": {
+      "text": "Se o afligires e ele clamar a mim escutarei o seu clamor;",
+      "reference": "Ex 22:22"
+    },
+    "23": {
+      "text": "minha ira se acenderá e vos farei perecer pela espada: vossas mulheres ficarão viúvas e vossos filhos, órfãos. \\par",
+      "reference": "Ex 22:23"
+    },
+    "24": {
+      "text": "Se emprestares dinheiro a um compatriota, ao indigente que está em teu meio, não agirás com ele como credor que impõe juros. \\par",
+      "reference": "Ex 22:24"
+    },
+    "25": {
+      "text": "Se tomares o manto do teu próximo em penhor, tu lho restituirás antes do pôr-do-sol.",
+      "reference": "Ex 22:25"
+    },
+    "26": {
+      "text": "Porque é com ele que se cobre, é a veste do seu corpo: em que se deitaria? Se clamar a mim, eu o ouvirei, porque sou compassivo. \\par",
+      "reference": "Ex 22:26"
+    },
+    "27": {
+      "text": "Não blasfemarás contra Deus, nem amaldiçoarás um chefe do teu povo. \\par",
+      "reference": "Ex 22:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Primícias e primogênitos\\par }Não tardarás em oferecer de tua abundância e do teu supérfluo. O primogênito de teus filhos, tu mo darás.",
+      "reference": "Ex 22:28"
+    },
+    "29": {
+      "text": "Farás o mesmo com os teus bois, e com as tuas ovelhas; durante sete dias ficará com a mãe, e no oitavo dia mo darás. \\par",
+      "reference": "Ex 22:29"
+    },
+    "30": {
+      "text": "Sereis para mim homens santos. Não comereis a carne de um animal dilacerado por uma fera no campo; deitá-la-eis aos cães. \\par",
+      "reference": "Ex 22:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

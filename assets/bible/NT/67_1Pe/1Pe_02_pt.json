@@ -1,0 +1,113 @@
+{
+  "book": 60,
+  "book_name": "1Pedro",
+  "book_abbr": "1Pe",
+  "book_category": "Epístolas Gerais",
+  "book_english": "1 Peter",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Portanto, rejeitando toda maldade, toda mentira, todas as formas de hipocrisia e de inveja e toda maledicência,",
+      "reference": "1Pe 2:1"
+    },
+    "2": {
+      "text": "desejai, como crianças recém-nascidas, o leite não adulterado da palavra, a fim de que por ele cresçais para a salvação,",
+      "reference": "1Pe 2:2"
+    },
+    "3": {
+      "text": "já que {\\i provastes que o Senhor é bondoso.}\\par",
+      "reference": "1Pe 2:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i O novo sacerdócio\\par }Chegai-vos a ele, a pedra viva, rejeitada, é verdade, pelos homens, mas diante de Deus eleita e preciosa.",
+      "reference": "1Pe 2:4"
+    },
+    "5": {
+      "text": "Do mesmo modo, também vós, como pedras vivas, constituí-vos em um edifício espiritual, dedicai-vos a um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais aceitáveis a Deus por Jesus Cristo.",
+      "reference": "1Pe 2:5"
+    },
+    "6": {
+      "text": "Com efeito, nas Escrituras se lê: {\\i Eis que ponho em Sião uma pedra angular, eleita e preciosa; quem nela crê não será confundido.}\\par",
+      "reference": "1Pe 2:6"
+    },
+    "7": {
+      "text": "Isto é, para vós que credes ela será um tesouro precioso, mas para os que não crêem, {\\i a pedra que os edificadores rejeitaram, essa tornou-se a pedra angular,}",
+      "reference": "1Pe 2:7"
+    },
+    "8": {
+      "text": "{\\i uma pedra de tropeço e uma rocha que faz cair.} Eles tropeçam porque não crêem na Palavra, para o que também foram destinados. \\par",
+      "reference": "1Pe 2:8"
+    },
+    "9": {
+      "text": "Mas vós sois uma {\\i raça eleita, um sacerdócio real, uma nação santa, o povo de sua particular propriedade}, a fim de que proclameis as excelências daquele que vos chamou das trevas para a sua luz maravilhosa,",
+      "reference": "1Pe 2:9"
+    },
+    "10": {
+      "text": "vós que outrora {\\i não} éreis {\\i povo}, mas agora sois o Povo de Deus, {\\i que não tínheis alcançado misericórdia}, mas agora {\\i alcançastes misericórdia.}\\par",
+      "reference": "1Pe 2:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Deveres dos cristãos: entre os gentios\\par }Amados, exorto-vos, como a {\\i peregrinos e forasteiros} neste mundo, a que vos abstenhais dos desejos carnais que promovem guerra contra a alma.",
+      "reference": "1Pe 2:11"
+    },
+    "12": {
+      "text": "Seja bom o vosso comportamento entre os gentios, para que, mesmo que falem mal de vós, como se fôsseis malfeitores, vendo as vossas boas obras glorifiquem a Deus, no dia da Visitação. \\par",
+      "reference": "1Pe 2:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Para com as autoridades\\par }Sujeitai-vos a toda instituição humana por causa do Senhor, seja ao rei, como soberano,",
+      "reference": "1Pe 2:13"
+    },
+    "14": {
+      "text": "seja aos governadores, como enviados seus para a punição dos malfeitores e para o louvor dos que fazem o bem,",
+      "reference": "1Pe 2:14"
+    },
+    "15": {
+      "text": "pois esta é a vontade de Deus que, fazendo o bem, tapeis a boca à ignorância dos insensatos.",
+      "reference": "1Pe 2:15"
+    },
+    "16": {
+      "text": "Comportai-vos como homens livres, não usando a liberdade como cobertura para o mal, mas como servos de Deus.",
+      "reference": "1Pe 2:16"
+    },
+    "17": {
+      "text": "Honrai a todos, amai os irmãos, temei a Deus, tributai honra ao rei. \\par",
+      "reference": "1Pe 2:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Para com os senhores exigentes\\par }Vós, criados, sujeitai-vos, com todo o respeito, aos vossos senhores, não só aos bons e razoáveis, mas também aos perversos.",
+      "reference": "1Pe 2:18"
+    },
+    "19": {
+      "text": "É louvável que alguém suporte aflições, sofrendo injustamente por amor de Deus.",
+      "reference": "1Pe 2:19"
+    },
+    "20": {
+      "text": "Mas que glória há em suportar com paciência, se sois esbofeteados por terdes errado? Ao contrário, se, fazendo o bem, sois pacientes no sofrimento, isto sim constitui uma ação louvável diante de Deus.",
+      "reference": "1Pe 2:20"
+    },
+    "21": {
+      "text": "Com efeito, para isto é que fostes chamados, pois que \\par também Cristo sofreu por vós, \\par deixando-vos um exemplo, \\par a fim de que sigais os seus passos. \\par",
+      "reference": "1Pe 2:21"
+    },
+    "22": {
+      "text": "Ele não cometeu nenhum pecado; \\par {\\i mentira nenhuma foi achada em sua boca.}\\par",
+      "reference": "1Pe 2:22"
+    },
+    "23": {
+      "text": "Quando injuriado, não revidava; \\par ao sofrer, não ameaçava, \\par antes, punha a sua causa nas mãos daquele \\par que julga com justiça. \\par",
+      "reference": "1Pe 2:23"
+    },
+    "24": {
+      "text": "Sobre o madeiro, {\\i levou os nossos pecados} \\par em seu próprio corpo, \\par a fim de que, mortos para os nossos pecados, \\par vivêssemos para a justiça. \\par {\\i Por suas feridas fostes curados}, \\par",
+      "reference": "1Pe 2:24"
+    },
+    "25": {
+      "text": "pois estáveis {\\i desgarrados como ovelhas}, \\par mas agora retornastes ao Pastor \\par e Supervisor das vossas almas. \\par",
+      "reference": "1Pe 2:25"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 25
+}

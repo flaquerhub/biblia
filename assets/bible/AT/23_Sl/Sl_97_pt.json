@@ -1,0 +1,61 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 97,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 97 (96)\\par }{\\qc\\b\\i Iahweh triunfante\\par }Iahweh é rei! Que a terra exulte, \\par as ilhas numerosas fiquem alegres! \\par",
+      "reference": "Sl 97:1"
+    },
+    "2": {
+      "text": "Envolvem-no Trevas e Nuvens, \\par Justiça e Direito sustentam seu trono. \\par",
+      "reference": "Sl 97:2"
+    },
+    "3": {
+      "text": "À frente dele avança um fogo, \\par devorando seus adversários ao redor; \\par",
+      "reference": "Sl 97:3"
+    },
+    "4": {
+      "text": "seus relâmpagos iluminam o mundo \\par e, vendo-os, a terra estremece. \\par",
+      "reference": "Sl 97:4"
+    },
+    "5": {
+      "text": "As montanhas se derretem como cera \\par frente ao Senhor da terra inteira; \\par",
+      "reference": "Sl 97:5"
+    },
+    "6": {
+      "text": "o céu proclama sua justiça \\par e os povos todos vêem sua glória. \\par",
+      "reference": "Sl 97:6"
+    },
+    "7": {
+      "text": "Os escravos de ídolos se envergonham, \\par aqueles que se gabam dos vazios: \\par à sua frente todos os deuses se prostram. \\par",
+      "reference": "Sl 97:7"
+    },
+    "8": {
+      "text": "Sião ouve e se alegra, \\par e as filhas de Judá exultam \\par por teus julgamentos, ó Iahweh. \\par",
+      "reference": "Sl 97:8"
+    },
+    "9": {
+      "text": "Sim, pois tu és Iahweh, \\par o Altíssimo sobre a terra inteira, \\par mais elevado que todos os deuses. \\par",
+      "reference": "Sl 97:9"
+    },
+    "10": {
+      "text": "Iahweh ama quem detesta o mal, \\par ele guarda a vida dos seus fiéis \\par e da mão dos ímpios os liberta. \\par",
+      "reference": "Sl 97:10"
+    },
+    "11": {
+      "text": "A luz se levanta para o justo, \\par e a alegria para os corações retos. \\par",
+      "reference": "Sl 97:11"
+    },
+    "12": {
+      "text": "Ó justos, alegrai-vos com Iahweh \\par e celebrai sua memória sagrada! \\par",
+      "reference": "Sl 97:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

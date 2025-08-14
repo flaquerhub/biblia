@@ -1,0 +1,221 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 32,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b CÂNTICO DE MOISÉS\\par }“Dá ouvidos, ó céu, que eu vou falar; ouve, ó terra, as palavras da minha boca! \\par",
+      "reference": "Dt 32:1"
+    },
+    "2": {
+      "text": "Desça como chuva minha doutrina, \\par minha palavra se espalhe como orvalho, \\par como chuvisco sobre a relva que viceja \\par e aguaceiro sobre a grama verdejante. \\par",
+      "reference": "Dt 32:2"
+    },
+    "3": {
+      "text": "Eu vou proclamar o nome de Iahweh; \\par quanto a vós, engrandecei o nosso Deus! \\par",
+      "reference": "Dt 32:3"
+    },
+    "4": {
+      "text": "Ele é a Rocha, e sua obra é perfeita, \\par pois toda a sua conduta é o Direito. \\par É Deus verdadeiro e sem injustiça, \\par ele é a Justiça, e a Retidão. \\par",
+      "reference": "Dt 32:4"
+    },
+    "5": {
+      "text": "Corromperam-se os que sem tara ele gerou, \\par geração depravada e pervertida. \\par",
+      "reference": "Dt 32:5"
+    },
+    "6": {
+      "text": "É isto que devolveis a Iahweh? \\par Povo idiota e sem sabedoria... \\par Não é ele teu pai, teu criador? \\par Ele próprio te fez e te firmou! \\par",
+      "reference": "Dt 32:6"
+    },
+    "7": {
+      "text": "Recorda os dias que se foram, \\par repassa gerações e gerações... \\par Pergunta ao teu pai e ele contará, \\par interroga os anciãos e eles te dirão. \\par",
+      "reference": "Dt 32:7"
+    },
+    "8": {
+      "text": "Quando o Altíssimo repartia as nações, \\par quando espalhava os filhos de Adão \\par ele fixou fronteiras para os povos, \\par conforme o número dos filhos de Deus; \\par",
+      "reference": "Dt 32:8"
+    },
+    "9": {
+      "text": "mas a parte de Iahweh foi o seu povo, \\par o lote da sua herança foi Jacó. \\par",
+      "reference": "Dt 32:9"
+    },
+    "10": {
+      "text": "Ele o achou numa terra do deserto, \\par num vazio solitário e ululante. \\par Cercou-o, cuidou dele e guardou-o com carinho, \\par como se fosse a menina dos seus olhos. \\par",
+      "reference": "Dt 32:10"
+    },
+    "11": {
+      "text": "Como a águia que vela por seu ninho \\par e revoa por cima dos filhotes, \\par ele o tomou, estendendo as suas asas, \\par e o carregou em cima de suas penas. \\par",
+      "reference": "Dt 32:11"
+    },
+    "12": {
+      "text": "O único a conduzi-lo foi Iahweh, \\par nenhum deus estrangeiro o acompanhou. \\par",
+      "reference": "Dt 32:12"
+    },
+    "13": {
+      "text": "Fê-lo cavalgar sobre as alturas da terra \\par e alimentou-o com produtos do campo; \\par fê-lo sugar mel de um rochedo \\par e óleo de uma dura pedreira, \\par",
+      "reference": "Dt 32:13"
+    },
+    "14": {
+      "text": "coalhada de vaca e leite de ovelha, \\par com gordura de carneiros e cordeiros; \\par e manadas de Basã, e cabritos, \\par com a gordura da polpa do trigo \\par e o sangue da uva, que bebes fermentado. \\par",
+      "reference": "Dt 32:14"
+    },
+    "15": {
+      "text": "Jacó comeu e saciou-se, \\par Jesurun engordou e deu coices, \\par (ficaste gordo, robusto, corpulento) \\par rejeitou o Deus que o fizera, \\par desprezou sua Rocha salvadora; \\par",
+      "reference": "Dt 32:15"
+    },
+    "16": {
+      "text": "provocaram seu ciúme com estranhos \\par e com abominações o deixaram enfurecido; \\par",
+      "reference": "Dt 32:16"
+    },
+    "17": {
+      "text": "sacrificaram a demônios, falsos deuses, \\par a deuses que não haviam conhecido, \\par (deuses) novos, recentemente chegados, \\par e que vossos pais nunca haviam temido. \\par",
+      "reference": "Dt 32:17"
+    },
+    "18": {
+      "text": "(Desprezas a Rocha que te deu à luz, \\par esqueces o Deus que te gerou.) \\par",
+      "reference": "Dt 32:18"
+    },
+    "19": {
+      "text": "Iahweh viu isso e ficou enfurecido, \\par rejeitando seus filhos e suas filhas. \\par",
+      "reference": "Dt 32:19"
+    },
+    "20": {
+      "text": "E disse: Vou ocultar-lhes o meu rosto \\par e ver qual será o seu futuro! \\par Pois são uma geração pervertida, \\par são filhos que não têm fidelidade! \\par",
+      "reference": "Dt 32:20"
+    },
+    "21": {
+      "text": "Provocaram meu ciúme com um deus falso, \\par e me irritaram com seus ídolos vazios; \\par pois vou provocar seu ciúme com um povo falso, \\par vou irritá-los com uma nação idiota! \\par",
+      "reference": "Dt 32:21"
+    },
+    "22": {
+      "text": "Sim! O fogo da minha ira está ardendo \\par e vai queimar até ao mais fundo do Xeol; \\par vai devorar a terra e seus produtos, \\par e abrasar o alicerce das montanhas. \\par",
+      "reference": "Dt 32:22"
+    },
+    "23": {
+      "text": "Vou lançar males sobre eles, \\par e contra eles esgotar as minhas flechas! \\par",
+      "reference": "Dt 32:23"
+    },
+    "24": {
+      "text": "Vão ficar enfraquecidos pela fome, \\par corroídos por febres e pestes violentas; \\par porei o dente das feras contra eles, \\par com veneno de serpentes do deserto. \\par",
+      "reference": "Dt 32:24"
+    },
+    "25": {
+      "text": "Fora, a espada lhes tirará os filhos \\par e dentro o terror se instalará; \\par perecerão todos: o jovem e a donzela, \\par a criança de peito e o velho encanecido. \\par",
+      "reference": "Dt 32:25"
+    },
+    "26": {
+      "text": "Pensei: ‘Vou reduzi-los a pó, \\par apagar sua memória dentre os homens!’ \\par",
+      "reference": "Dt 32:26"
+    },
+    "27": {
+      "text": "Mas temi a jactância do inimigo, \\par a interpretação dos seus adversários, \\par pois diriam: ‘Nossa mão prevaleceu, \\par não foi Iahweh quem o fez!’ \\par",
+      "reference": "Dt 32:27"
+    },
+    "28": {
+      "text": "Pois é uma nação sem juízo, \\par neles não há discernimento. \\par",
+      "reference": "Dt 32:28"
+    },
+    "29": {
+      "text": "Se fossem sábios o entenderiam, \\par saberiam discernir o seu futuro. \\par",
+      "reference": "Dt 32:29"
+    },
+    "30": {
+      "text": "Como pode um homem só perseguir mil, \\par e dois porem em fuga a dez mil, \\par senão porque sua Rocha os vendera \\par e porque Iahweh os entregara? \\par",
+      "reference": "Dt 32:30"
+    },
+    "31": {
+      "text": "Sim, sua rocha não é como a nossa Rocha, \\par e nossos inimigos o podem atestar. \\par",
+      "reference": "Dt 32:31"
+    },
+    "32": {
+      "text": "Pois sua vinha é vinha de Sodoma \\par e vem das plantações de Gomorra; \\par suas uvas são uvas venenosas, \\par e seus cachos são amargos; \\par",
+      "reference": "Dt 32:32"
+    },
+    "33": {
+      "text": "seu vinho é um veneno de serpente, \\par uma violenta peçonha de cobras. \\par",
+      "reference": "Dt 32:33"
+    },
+    "34": {
+      "text": "E ele, não se abriga ele junto a mim, \\par sigilado em meus tesouros? \\par",
+      "reference": "Dt 32:34"
+    },
+    "35": {
+      "text": "É minha a vingança e a represália, \\par no dia em que seu pé escorregar. \\par Sim, o dia da sua ruína vem chegando, \\par seu destino futuro se aproxima. \\par",
+      "reference": "Dt 32:35"
+    },
+    "36": {
+      "text": "(Pois Iahweh fará justiça ao seu povo, \\par e terá piedade dos seus servos.) \\par Ao ver que sua mão vai fraquejando \\par e que não há mais nem livre nem escravo, \\par",
+      "reference": "Dt 32:36"
+    },
+    "37": {
+      "text": "ele dirá: ‘Onde estarão os seus deuses, \\par a rocha onde buscavam seu refúgio? \\par",
+      "reference": "Dt 32:37"
+    },
+    "38": {
+      "text": "Não comiam a gordura dos seus sacrifícios? \\par Não bebiam o vinho das suas libações? \\par Que se ponham em pé e vos socorram, \\par e sejam eles a vossa proteção!’ \\par",
+      "reference": "Dt 32:38"
+    },
+    "39": {
+      "text": "E agora, vede bem: eu, sou eu, \\par e fora de mim não há outro Deus! \\par Sou eu que mato e faço viver, \\par sou eu que firo e torno a curar, \\par (e da minha mão ninguém se livra). \\par",
+      "reference": "Dt 32:39"
+    },
+    "40": {
+      "text": "Sim, eu levanto a mão ao céu, e juro: \\par ‘Tão verdade como eu vivo eternamente, \\par",
+      "reference": "Dt 32:40"
+    },
+    "41": {
+      "text": "quando eu afiar minha espada fulgurante \\par e minha mão agarrar o Direito, \\par tomarei vingança do meu adversário, \\par e retribuirei àqueles que me odeiam. \\par",
+      "reference": "Dt 32:41"
+    },
+    "42": {
+      "text": "Embriagarei minhas flechas com sangue \\par e minha espada devorará a carne, \\par sangue dos mortos e cativos, \\par das cabeças cabeludas do inimigo’. \\par",
+      "reference": "Dt 32:42"
+    },
+    "43": {
+      "text": "Exultai com ele, ó céus, \\par e adorem-no todos os filhos de Deus! \\par Nações, exultai com seu povo, \\par e afirmem sua força todos os anjos de Deus! \\par Porque ele vinga o sangue dos seus servos, \\par e toma vingança dos seus adversários. \\par Ele retribui àqueles que o odeiam, \\par e purifica a terra do seu povo!” \\par",
+      "reference": "Dt 32:43"
+    },
+    "44": {
+      "text": "Moisés veio com Josué, filho de Nun, e proclamou todas as palavras deste cântico aos ouvidos do povo. \\par",
+      "reference": "Dt 32:44"
+    },
+    "45": {
+      "text": "\\par {\\qc\\b\\i A Lei, fonte de vida\\par }Moisés terminou de falar essas palavras a todo Israel,",
+      "reference": "Dt 32:45"
+    },
+    "46": {
+      "text": "e acrescentou: “Ficai atentos a todas as palavras que hoje tomo como testemunho contra vós; vós as ordenareis aos vossos filhos, para que as observem, pondo em prática todas as palavras desta Lei.",
+      "reference": "Dt 32:46"
+    },
+    "47": {
+      "text": "Não é uma palavra inútil para vós, porque ela é a vossa vida, e é por esta palavra que prolongareis vossos dias sobre o solo do qual ides tomar posse, ao atravessardes o Jordão”. \\par",
+      "reference": "Dt 32:47"
+    },
+    "48": {
+      "text": "\\par {\\qc\\b\\i Anúncio da morte de Moisés\\par }Nesse mesmo dia, Iahweh falou a Moisés:",
+      "reference": "Dt 32:48"
+    },
+    "49": {
+      "text": "“Sobe a esta montanha dos Abarim, sobre o monte Nebo, na terra de Moab, diante de Jericó, e contempla a terra de Canaã que eu dou como propriedade aos filhos de Israel.",
+      "reference": "Dt 32:49"
+    },
+    "50": {
+      "text": "Morrerás no monte em que tiveres subido e irás reunir-te aos teus, assim como o teu irmão Aarão, que foi reunido ao seu povo no monte Hor,",
+      "reference": "Dt 32:50"
+    },
+    "51": {
+      "text": "pois fostes infiéis a mim no meio dos filhos de Israel, junto às águas de Meriba-Cades, no deserto de Sin, não reconhecendo a minha santidade no meio dos filhos de Israel.",
+      "reference": "Dt 32:51"
+    },
+    "52": {
+      "text": "Por isso contemplarás a terra à tua frente, mas não poderás entrar nela, na terra que estou dando aos filhos de Israel”. \\par",
+      "reference": "Dt 32:52"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 52
+}

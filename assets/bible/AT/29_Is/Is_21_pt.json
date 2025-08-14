@@ -1,0 +1,81 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A queda da Babilônia\\par }Oráculo a respeito do deserto do mar. \\par Como os furacões que percorrem o Negueb, \\par assim esta calamidade vem do deserto, \\par de uma terra onde domina o terror. \\par",
+      "reference": "Is 21:1"
+    },
+    "2": {
+      "text": "Uma visão sinistra foi-me revelada: \\par “O traidor trai, o devastador devasta. \\par Sobe, Elam, sitia, ó Média!” \\par Pus fim a todo gemido. \\par",
+      "reference": "Is 21:2"
+    },
+    "3": {
+      "text": "Eis por que as minhas entranhas se contorcem, \\par contorções se apoderam de mim como as de uma parturiente; \\par estou tão confuso que não consigo ouvir, \\par estou tão fora de mim que não consigo ver. \\par",
+      "reference": "Is 21:3"
+    },
+    "4": {
+      "text": "O meu coração está desvairado, o terror me subjuga; \\par a hora do crepúsculo, tão desejada, \\par se me torna em pavor. \\par",
+      "reference": "Is 21:4"
+    },
+    "5": {
+      "text": "A mesa está posta, os lugares estão dispostos; come-se e bebe-se. \\par De pé, príncipes! Untai os escudos! \\par",
+      "reference": "Is 21:5"
+    },
+    "6": {
+      "text": "Com efeito, assim me falou o Senhor: \\par “Vai, põe de prontidão um espia! Ele anunciará o que vir! \\par",
+      "reference": "Is 21:6"
+    },
+    "7": {
+      "text": "Ele verá os carros e cavaleiros aos pares, \\par caravanas de jumentos e caravanas de camelos; \\par ele que preste atenção, muita atenção”. \\par",
+      "reference": "Is 21:7"
+    },
+    "8": {
+      "text": "E o espia gritou: \\par “No posto de vigia do Senhor estou de prontidão o dia todo, \\par no meu posto de guarda estou em pé a noite inteira. \\par",
+      "reference": "Is 21:8"
+    },
+    "9": {
+      "text": "Pois bem, o que vem vindo são homens em caravanas e cavaleiros aos pares”. \\par Ele acrescentou: \\par “Caiu, caiu Babilônia! \\par E todas as imagens dos seus deuses ele as despedaçou no chão!” \\par",
+      "reference": "Is 21:9"
+    },
+    "10": {
+      "text": "Ó tu que foste malhado, produto da minha eira, \\par aquilo que ouvi da parte de Iahweh dos Exércitos, Deus de Israel, \\par isto te anunciei. \\par",
+      "reference": "Is 21:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A respeito de Edom\\par }Oráculo a respeito de Duma. \\par De Seir chamam por mim: \\par “Guarda, que resta da noite? Guarda, que resta da noite?” \\par",
+      "reference": "Is 21:11"
+    },
+    "12": {
+      "text": "O guarda responde: \\par “A manhã vem chegando, mas ainda é noite. \\par Se quereis perguntar, perguntai! \\par Vinde de novo!” \\par",
+      "reference": "Is 21:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Contra os árabes\\par }Oráculo na estepe. \\par No matagal, na estepe passais a noite, \\par caravanas de dadanitas. \\par",
+      "reference": "Is 21:13"
+    },
+    "14": {
+      "text": "Vinde com água ao encontro dos sedentos! \\par Os habitantes de Tema vieram \\par ao encontro dos fugitivos, trazendo pão. \\par",
+      "reference": "Is 21:14"
+    },
+    "15": {
+      "text": "Pois que estes estão fugindo diante das espadas, \\par diante das espadas desembainhadas, diante dos arcos retesados, \\par e diante da veemência da guerra. \\par",
+      "reference": "Is 21:15"
+    },
+    "16": {
+      "text": "Porque assim me falou o Senhor: \\par Ainda um ano – ano como de um assalariado – e acabou-se toda a glória de Cedar.",
+      "reference": "Is 21:16"
+    },
+    "17": {
+      "text": "E do grande número dos valentes flecheiros, dos filhos de Cedar, sobrará apenas um resto insignificante, pois Iahweh, Deus de Israel, falou. \\par",
+      "reference": "Is 21:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

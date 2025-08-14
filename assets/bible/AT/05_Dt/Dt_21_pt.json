@@ -1,0 +1,105 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Caso de homicida desconhecido\\par }Quando for encontrado um homem morto estendido no campo, na terra cuja posse Iahweh teu Deus te dará, e ninguém souber quem o matou,",
+      "reference": "Dt 21:1"
+    },
+    "2": {
+      "text": "teus anciãos e teus escribas sairão e medirão as distâncias até às cidades que estiverem ao redor do morto,",
+      "reference": "Dt 21:2"
+    },
+    "3": {
+      "text": "determinando a cidade mais próxima do morto. A seguir, os anciãos daquela cidade tomarão uma novilha do gado, com a qual não se tenha trabalhado e ainda não tinha sido atrelada ao jugo.",
+      "reference": "Dt 21:3"
+    },
+    "4": {
+      "text": "Os anciãos daquela cidade farão com que a novilha desça até uma torrente de água permanente, onde ninguém trabalha nem semeia. E ali, sobre a torrente, desnucarão a novilha.",
+      "reference": "Dt 21:4"
+    },
+    "5": {
+      "text": "Depois se aproximarão os sacerdotes levitas, pois foram eles que Iahweh teu Deus escolheu para o seu serviço e para que abençoem em nome de Iahweh, cabendo-lhes também resolver qualquer litígio ou crime.",
+      "reference": "Dt 21:5"
+    },
+    "6": {
+      "text": "E todos os anciãos da cidade mais próxima ao morto lavarão as mãos sobre a novilha desnucada na torrente,",
+      "reference": "Dt 21:6"
+    },
+    "7": {
+      "text": "fazendo a seguinte declaração: \\par ‘Nossas mãos não derramaram este sangue, e nossos olhos nada viram.",
+      "reference": "Dt 21:7"
+    },
+    "8": {
+      "text": "Perdoa ao teu povo Israel, \\par que resgataste, ó Iahweh; \\par não permitas que um sangue inocente recaia sobre o teu povo Israel, \\par e este sangue lhe será perdoado’. \\par",
+      "reference": "Dt 21:8"
+    },
+    "9": {
+      "text": "Tu porém, farás com que desapareça do teu meio o derramamento de sangue inocente, porque farás o que é reto aos olhos de Iahweh. \\par",
+      "reference": "Dt 21:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i As prisioneiras de guerra\\par }Quando saíres para guerrear contra os teus inimigos, e Iahweh teu Deus os entregar em tua mão, e tiveres feito prisioneiros,",
+      "reference": "Dt 21:10"
+    },
+    "11": {
+      "text": "caso vejas entre eles uma mulher formosa e te enamores dela, tu a poderás tomar como mulher",
+      "reference": "Dt 21:11"
+    },
+    "12": {
+      "text": "e trazê-la para tua casa. Ela então raspará a cabeça, cortará as unhas,",
+      "reference": "Dt 21:12"
+    },
+    "13": {
+      "text": "despirá a veste de prisioneira e permanecerá em tua casa. Durante um mês ela chorará seu pai e sua mãe. Depois disso irás a ela, desposá-la-ás, e ela será tua mulher.",
+      "reference": "Dt 21:13"
+    },
+    "14": {
+      "text": "Mais tarde, caso não gostes mais dela, tu a deixarás ir em liberdade, mas de modo algum a venderás por dinheiro: não tirarás lucro à sua custa, após ter abusado dela. \\par",
+      "reference": "Dt 21:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Direito de primogenitura\\par }Se alguém tiver duas mulheres, amando a uma e não gostando da outra, e ambas lhe tiverem dado filhos, se o primogênito for da mulher da qual ele não gosta,",
+      "reference": "Dt 21:15"
+    },
+    "16": {
+      "text": "este homem, quando for repartir a herança entre seus filhos, não poderá tratar o filho da mulher que ama como se fosse o mais velho, em detrimento do filho da mulher da qual ele não gosta, mas que é o verdadeiro primogênito.",
+      "reference": "Dt 21:16"
+    },
+    "17": {
+      "text": "Reconhecerá como primogênito o filho da mulher da qual ele não gosta, dando-lhe porção dupla de tudo quanto possuir, pois ele é a primícia da sua virilidade e o direito de primogenitura lhe pertence. \\par",
+      "reference": "Dt 21:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i O filho indócil\\par }Se alguém tiver um filho rebelde e indócil, que não obedece ao pai e à mãe, e não os ouve mesmo quando o corrigem,",
+      "reference": "Dt 21:18"
+    },
+    "19": {
+      "text": "o pai e a mãe o pegarão e levarão aos anciãos da cidade, à porta do lugar,",
+      "reference": "Dt 21:19"
+    },
+    "20": {
+      "text": "e dirão aos anciãos da cidade: ‘Este nosso filho é rebelde e indócil, não nos obedece, é devasso e beberrão’.",
+      "reference": "Dt 21:20"
+    },
+    "21": {
+      "text": "E todos os homens da cidade o apedrejarão até que morra. Deste modo extirparás o mal do teu meio, e todo Israel ouvirá e ficará com medo. \\par",
+      "reference": "Dt 21:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Prescrições diversas\\par }Se um homem, culpado de um crime que merece a pena de morte, é morto e suspenso a uma árvore,",
+      "reference": "Dt 21:22"
+    },
+    "23": {
+      "text": "seu cadáver não poderá permanecer na árvore à noite; tu o sepultarás no mesmo dia, pois o que for suspenso é um maldito de Deus. Deste modo não tornarás impuro o solo que Iahweh teu Deus te dará como herança. \\par",
+      "reference": "Dt 21:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

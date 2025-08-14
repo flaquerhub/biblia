@@ -1,0 +1,97 @@
+{
+  "book": 61,
+  "book_name": "2Pedro",
+  "book_abbr": "2Pe",
+  "book_category": "Epístolas Gerais",
+  "book_english": "2 Peter",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Saudação\\par }Simão Pedro, servo e apóstolo de Jesus Cristo, aos que receberam, pela justiça de nosso Deus e Salvador Jesus Cristo uma fé de valor igual à nossa,",
+      "reference": "2Pe 1:1"
+    },
+    "2": {
+      "text": "graça e paz vos sejam abundantemente concedidas pelo conhecimento de nosso Senhor! \\par",
+      "reference": "2Pe 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i A liberalidade de Deus\\par }Pois que o seu divino poder nos deu todas as condições necessárias para a vida e para a piedade, mediante o conhecimento daquele que nos chamou pela sua própria glória e virtude.",
+      "reference": "2Pe 1:3"
+    },
+    "4": {
+      "text": "Por elas nos foram dadas as preciosas e grandíssimas promessas, a fim de que assim vos tornásseis participantes da natureza divina, depois de vos libertardes da corrupção que prevalece no mundo como resultado da concupiscência. \\par",
+      "reference": "2Pe 1:4"
+    },
+    "5": {
+      "text": "Por isto mesmo, aplicai toda a diligência em juntar à vossa fé a virtude, à virtude o conhecimento,",
+      "reference": "2Pe 1:5"
+    },
+    "6": {
+      "text": "ao conhecimento o autodomínio, ao autodomínio a perseverança, à perseverança a piedade,",
+      "reference": "2Pe 1:6"
+    },
+    "7": {
+      "text": "à piedade o amor fraternal e ao amor fraternal a caridade.",
+      "reference": "2Pe 1:7"
+    },
+    "8": {
+      "text": "Com efeito, se possuirdes essas virtudes em abundância, elas não permitirão que sejais inúteis nem infrutíferos no conhecimento de nosso Senhor Jesus Cristo.",
+      "reference": "2Pe 1:8"
+    },
+    "9": {
+      "text": "Mas aquele que não as possui é um cego, um míope: está esquecido da purificação dos seus pecados de outrora.",
+      "reference": "2Pe 1:9"
+    },
+    "10": {
+      "text": "Por isto mesmo, irmãos, procurai com mais diligência consolidar a vossa vocação e eleição, pois, agindo desse modo, não tropeçareis jamais;",
+      "reference": "2Pe 1:10"
+    },
+    "11": {
+      "text": "antes, assim é que vos será outorgada generosa entrada no Reino eterno de nosso Senhor e Salvador Jesus Cristo. \\par",
+      "reference": "2Pe 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i O testamento apostólico\\par }Eis por que hei de trazer-vos sempre à memória estas coisas, embora já as saibais e estejais firmes na verdade que alcançastes.",
+      "reference": "2Pe 1:12"
+    },
+    "13": {
+      "text": "Entendo que é justo despertar-vos com as minhas admoestações, enquanto estou nesta tenda terrena,",
+      "reference": "2Pe 1:13"
+    },
+    "14": {
+      "text": "sabendo que em breve hei de despojar-me dela, como, aliás, nosso Senhor Jesus Cristo me revelou.",
+      "reference": "2Pe 1:14"
+    },
+    "15": {
+      "text": "Assim, farei tudo para que, depois da minha partida, vos lembreis sempre delas. \\par",
+      "reference": "2Pe 1:15"
+    },
+    "16": {
+      "text": "Com efeito, não foi seguindo fábulas sutis, mas por termos sido testemunhas oculares da sua majestade, que vos demos a conhecer o poder e a Vinda de nosso Senhor Jesus Cristo.",
+      "reference": "2Pe 1:16"
+    },
+    "17": {
+      "text": "Pois ele recebeu de Deus Pai honra e glória, quando uma voz vinda da sua Glória lhe disse: “Este é o meu Filho amado, em quem me comprazo”.",
+      "reference": "2Pe 1:17"
+    },
+    "18": {
+      "text": "Esta voz, nós a ouvimos quando lhe foi dirigida do céu, ao estarmos com ele no monte santo. \\par",
+      "reference": "2Pe 1:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i A palavra profética\\par }Temos, também, por mais firme a palavra dos profetas, à qual fazeis bem em recorrer como a uma luz que brilha em lugar escuro, até que raie o dia e surja a estrela d’alva em nossos corações.",
+      "reference": "2Pe 1:19"
+    },
+    "20": {
+      "text": "Antes de mais nada, sabei isto: que nenhuma profecia da Escritura resulta de uma interpretação particular,",
+      "reference": "2Pe 1:20"
+    },
+    "21": {
+      "text": "pois que a profecia jamais veio por vontade humana, mas homens, impelidos pelo Espírito Santo, falaram da parte de Deus. \\par",
+      "reference": "2Pe 1:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

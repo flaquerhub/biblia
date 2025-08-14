@@ -1,0 +1,65 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 96,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 96 (95)\\par }{\\qc\\b\\i Iahweh, rei e juiz\\par }Cantai a Iahweh um cântico novo! \\par Terra inteira, cantai a Iahweh! \\par",
+      "reference": "Sl 96:1"
+    },
+    "2": {
+      "text": "Cantai a Iahweh, bendizei o seu nome! \\par Proclamai sua salvação, dia após dia, \\par",
+      "reference": "Sl 96:2"
+    },
+    "3": {
+      "text": "anunciai sua glória por entre as nações, \\par pelos povos todos as suas maravilhas! \\par",
+      "reference": "Sl 96:3"
+    },
+    "4": {
+      "text": "Pois Iahweh é grande, e muito louvável, \\par mais terrível que todos os deuses! \\par",
+      "reference": "Sl 96:4"
+    },
+    "5": {
+      "text": "Os deuses dos povos são todos vazios. \\par Foi Iahweh quem fez os céus! \\par",
+      "reference": "Sl 96:5"
+    },
+    "6": {
+      "text": "À sua frente há majestade e esplendor, \\par poder e beleza no seu santuário! \\par",
+      "reference": "Sl 96:6"
+    },
+    "7": {
+      "text": "Tributai a Iahweh, ó famílias dos povos, \\par tributai a Iahweh glória e poder, \\par",
+      "reference": "Sl 96:7"
+    },
+    "8": {
+      "text": "tributai a Iahweh a glória do seu nome. \\par Trazei a oblação e entrai em seus átrios, \\par",
+      "reference": "Sl 96:8"
+    },
+    "9": {
+      "text": "adorai a Iahweh no seu santo esplendor, \\par terra inteira, tremei em sua frente! \\par",
+      "reference": "Sl 96:9"
+    },
+    "10": {
+      "text": "Dizei entre as nações: “Iahweh é Rei! \\par O mundo está firme, jamais tremerá. \\par Ele governa os povos com retidão”. \\par",
+      "reference": "Sl 96:10"
+    },
+    "11": {
+      "text": "Que o céu se alegre! Que a terra exulte! \\par Estronde o mar, e o que ele contém! \\par",
+      "reference": "Sl 96:11"
+    },
+    "12": {
+      "text": "Que o campo festeje, e o que nele existe! \\par As árvores da selva gritem de alegria, \\par",
+      "reference": "Sl 96:12"
+    },
+    "13": {
+      "text": "diante de Iahweh, pois ele vem, \\par pois ele vem para julgar a terra: \\par ele vai julgar o mundo com justiça, \\par e as nações com sua verdade. \\par",
+      "reference": "Sl 96:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

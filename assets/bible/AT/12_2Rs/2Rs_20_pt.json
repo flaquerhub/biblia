@@ -1,0 +1,97 @@
+{
+  "book": 12,
+  "book_name": "2Reis",
+  "book_abbr": "2Rs",
+  "book_category": "Histórico",
+  "book_english": "2 Kings",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Doença e cura de Ezequias\\par }Naquela época, Ezequias foi atingido por uma doença mortal. O profeta Isaías, filho de Amós, veio dizer-lhe: “Assim fala Iahweh: Põe ordem em tua casa, porque vais morrer, não sobreviverás”.",
+      "reference": "2Rs 20:1"
+    },
+    "2": {
+      "text": "Ezequias virou o rosto para a parede e assim orou a Iahweh:",
+      "reference": "2Rs 20:2"
+    },
+    "3": {
+      "text": "“Ah! Iahweh, lembra-te, por favor, de como andei fielmente e com toda probidade de coração diante de ti, fazendo o que era agradável aos teus olhos”. E Ezequias chorou abundantes lágrimas. \\par",
+      "reference": "2Rs 20:3"
+    },
+    "4": {
+      "text": "Isaías não tinha ainda deixado o pátio interno, quando lhe veio a palavra de Iahweh:",
+      "reference": "2Rs 20:4"
+    },
+    "5": {
+      "text": "“Volta e dize a Ezequias, chefe do meu povo: Assim fala Iahweh, Deus de teu pai Davi. Escutei tua prece e vi tuas lágrimas. Vou curar-te: em três dias subirás ao Templo de Iahweh.",
+      "reference": "2Rs 20:5"
+    },
+    "6": {
+      "text": "Acrescentarei quinze anos à tua vida, livrar-te-ei, a ti e a esta cidade, da mão do rei da Assíria, protegerei esta cidade por amor de mim mesmo e do meu servo Davi”. \\par",
+      "reference": "2Rs 20:6"
+    },
+    "7": {
+      "text": "Isaías disse: “Tomai um pão de figos”; tomaram um e o aplicaram sobre a úlcera e o rei ficou curado. \\par",
+      "reference": "2Rs 20:7"
+    },
+    "8": {
+      "text": "Ezequias disse a Isaías: “Qual é o sinal de que Iahweh vai me curar e de que, dentro de três dias, subirei ao Templo de Iahweh?”",
+      "reference": "2Rs 20:8"
+    },
+    "9": {
+      "text": "Isaías respondeu: “Eis, da parte de Iahweh, o sinal de que ele realizará o que disse: Queres que a sombra avance dez degraus ou que retroceda dez degraus?”",
+      "reference": "2Rs 20:9"
+    },
+    "10": {
+      "text": "Ezequias disse: “Avançar dez degraus é fácil para a sombra! Não! Prefiro que ela recue dez degraus!”",
+      "reference": "2Rs 20:10"
+    },
+    "11": {
+      "text": "O profeta Isaías invocou Iahweh e este fez a sombra recuar os degraus que o sol já havia descido, os degraus do quarto superior de Acaz – dez degraus para trás. \\par",
+      "reference": "2Rs 20:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Embaixada de Merodac-Baladã\\par }Naquele tempo, Merodac-Baladã, filho de Baladã, rei da Babilônia, mandou cartas e um presente a Ezequias, pois ouvira falar de sua doença e de sua cura.",
+      "reference": "2Rs 20:12"
+    },
+    "13": {
+      "text": "Com isso se alegrou Ezequias, que mostrou aos mensageiros o quarto do tesouro, a prata, o ouro, os aromas, o óleo precioso, bem como seu arsenal e tudo o que havia nos seus armazéns. Não houve nada no seu palácio ou em todo o seu reino que Ezequias não lhes mostrasse. \\par",
+      "reference": "2Rs 20:13"
+    },
+    "14": {
+      "text": "Então o profeta Isaías foi ter com o rei Ezequias e perguntou-lhe: “Que disseram aqueles homens e de onde vieram para te visitar?” Ezequias respondeu: “Vieram de um país longínquo, da Babilônia”.",
+      "reference": "2Rs 20:14"
+    },
+    "15": {
+      "text": "E Isaías continuou: “Que é que viram em teu palácio?” Ezequias respondeu: “Viram tudo o que há no meu palácio; nada há nos meus armazéns que eu não lhes tinha mostrado”. \\par",
+      "reference": "2Rs 20:15"
+    },
+    "16": {
+      "text": "Então Isaías disse a Ezequias: “Escuta a palavra de Iahweh:",
+      "reference": "2Rs 20:16"
+    },
+    "17": {
+      "text": "Dias virão em que será levado para Babilônia tudo quanto existe em teu palácio, tudo o que teus antepassados acumularam até hoje; nada ficará, diz Iahweh.",
+      "reference": "2Rs 20:17"
+    },
+    "18": {
+      "text": "Dentre os filhos que te nasceram, os que geraste, tomarão alguns para serem eunucos no palácio do rei de Babilônia”.",
+      "reference": "2Rs 20:18"
+    },
+    "19": {
+      "text": "Ezequias disse a Isaías: “É favorável a palavra de Iahweh que anuncias”. Com efeito, ele pensava: “Por que não? Se houver paz e segurança enquanto eu for vivo...!” \\par",
+      "reference": "2Rs 20:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Conclusão do reinado de Ezequias\\par }O resto da história de Ezequias, todas as suas façanhas, e como construiu o reservatório e o aqueduto para levar água à cidade, não está tudo escrito no livro dos Anais dos reis de Judá?",
+      "reference": "2Rs 20:20"
+    },
+    "21": {
+      "text": "Ezequias adormeceu com seus pais e seu filho Manassés reinou em seu lugar. \\par",
+      "reference": "2Rs 20:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

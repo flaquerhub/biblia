@@ -1,0 +1,105 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A visita dos magos\\par }Tendo Jesus nascido em Belém da Judéia, no tempo do rei Herodes, eis que vieram magos do Oriente a Jerusalém,",
+      "reference": "Mt 2:1"
+    },
+    "2": {
+      "text": "perguntando: “Onde está o rei dos judeus recém-nascido? Com efeito, vimos a sua estrela no seu surgir e viemos homenageá-lo”.",
+      "reference": "Mt 2:2"
+    },
+    "3": {
+      "text": "Ouvindo isso, o rei Herodes ficou alarmado e com ele toda Jerusalém.",
+      "reference": "Mt 2:3"
+    },
+    "4": {
+      "text": "E, convocando todos os chefes dos sacerdotes e os escribas do povo, procurou saber deles onde havia de nascer o Cristo.",
+      "reference": "Mt 2:4"
+    },
+    "5": {
+      "text": "Eles responderam: “Em Belém da Judéia, pois é isto que foi escrito pelo profeta: \\par",
+      "reference": "Mt 2:5"
+    },
+    "6": {
+      "text": "{\\i E tu, Belém}, terra de Judá, \\par de modo algum {\\i és o menor entre os clãs de Judá}, \\par {\\i pois de ti sairá um chefe \\par que apascentará Israel, o meu povo}”. \\par",
+      "reference": "Mt 2:6"
+    },
+    "7": {
+      "text": "Então Herodes mandou chamar secretamente os magos e procurou certificar-se com eles a respeito do tempo em que a estrela tinha aparecido.",
+      "reference": "Mt 2:7"
+    },
+    "8": {
+      "text": "E, enviando-os a Belém, disse-lhes: “Ide e procurai obter informações exatas a respeito do menino e, ao encontrá-lo, avisai-me, para que também eu vá homenageá-lo”.",
+      "reference": "Mt 2:8"
+    },
+    "9": {
+      "text": "A essas palavras do rei, eles partiram. E eis que a estrela que tinham visto no seu surgir ia à frente deles até que parou sobre o lugar onde se encontrava o menino.",
+      "reference": "Mt 2:9"
+    },
+    "10": {
+      "text": "Eles, revendo a estrela, alegraram-se imensamente.",
+      "reference": "Mt 2:10"
+    },
+    "11": {
+      "text": "Ao entrar na casa, viram o menino com Maria, sua mãe, e, prostrando-se, o homenagearam. Em seguida, abriram seus cofres e ofereceram-lhe presentes: {\\i ouro, incenso e mirra.}",
+      "reference": "Mt 2:11"
+    },
+    "12": {
+      "text": "Avisados em sonho que não voltassem a Herodes, regressaram por outro caminho para a sua região. \\par",
+      "reference": "Mt 2:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Fuga para o Egito e massacre dos inocentes\\par }Após sua partida, eis que o Anjo do Senhor manifestou-se em sonho a José e lhe disse: “Levanta-te, toma o menino e sua mãe e foge para o Egito. Fica lá até que eu te avise, porque Herodes vai procurar o menino para o matar”.",
+      "reference": "Mt 2:13"
+    },
+    "14": {
+      "text": "Ele se levantou, tomou o menino e sua mãe, durante a noite, e partiu para o Egito.",
+      "reference": "Mt 2:14"
+    },
+    "15": {
+      "text": "Ali ficou até a morte de Herodes, para que se cumprisse o que dissera o Senhor por meio do profeta: \\par {\\i Do Egito chamei o meu filho.}\\par",
+      "reference": "Mt 2:15"
+    },
+    "16": {
+      "text": "Então Herodes, percebendo que fora enganado pelos magos, ficou muito irritado e mandou matar, em Belém e em todo seu território, todos os meninos de dois anos para baixo, conforme o tempo de que havia se certificado com os magos.",
+      "reference": "Mt 2:16"
+    },
+    "17": {
+      "text": "Então cumpriu-se o que fora dito pelo profeta Jeremias: \\par",
+      "reference": "Mt 2:17"
+    },
+    "18": {
+      "text": "{\\i Ouviu-se uma voz em Ramá}, \\par {\\i choro e grande lamentação: \\par Raquel chora seus filhos \\par e não quer consolação}, \\par {\\i porque eles já não existem.}\\par",
+      "reference": "Mt 2:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Retorno do Egito e estabelecimento em Nazaré\\par }Quando Herodes morreu, eis que o Anjo do Senhor manifestou-se em sonho a José, no Egito,",
+      "reference": "Mt 2:19"
+    },
+    "20": {
+      "text": "e lhe disse: “Levanta-te, toma o menino e sua mãe e vai para a terra de Israel, pois os que buscavam tirar a vida ao menino já morreram”.",
+      "reference": "Mt 2:20"
+    },
+    "21": {
+      "text": "Ele se levantou, tomou o menino e sua mãe e entrou na terra de Israel.",
+      "reference": "Mt 2:21"
+    },
+    "22": {
+      "text": "Mas, ouvindo que Arquelau era rei da Judéia em lugar de seu pai Herodes, teve medo de ir para lá. Tendo recebido um aviso em sonho, partiu para a região da Galiléia",
+      "reference": "Mt 2:22"
+    },
+    "23": {
+      "text": "e foi morar numa cidade chamada Nazaré, para que se cumprisse o que foi dito pelos profetas: \\par {\\i Ele será chamado Nazareu.}\\par",
+      "reference": "Mt 2:23"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 23
+}

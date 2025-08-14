@@ -1,0 +1,77 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A oblação\\par }Se alguém oferecer a Iahweh uma oblação, a sua oferenda consistirá em flor de farinha, sobre a qual derramará azeite e colocará incenso.",
+      "reference": "Lv 2:1"
+    },
+    "2": {
+      "text": "E a trará aos filhos de Aarão, os sacerdotes; tomará dela um punhado de flor de farinha e de azeite e todo o incenso, e o sacerdote os queimará sobre o altar como memorial, oferenda queimada de agradável odor a Iahweh.",
+      "reference": "Lv 2:2"
+    },
+    "3": {
+      "text": "A parte restante da oblação pertencerá a Aarão e a seus filhos, parte santíssima dos manjares de Iahweh. \\par",
+      "reference": "Lv 2:3"
+    },
+    "4": {
+      "text": "Quando ofereceres uma oblação de massa cozida no forno, a flor de farinha será preparada em bolos ázimos amassados com azeite, ou em fogaças ázimas untadas com azeite. \\par",
+      "reference": "Lv 2:4"
+    },
+    "5": {
+      "text": "Se a tua oferenda for uma oblação cozida na assadeira, a flor de farinha amassada com azeite será ázima.",
+      "reference": "Lv 2:5"
+    },
+    "6": {
+      "text": "Tu a partirás em pedaços e derramarás azeite em cima. É uma oblação. \\par",
+      "reference": "Lv 2:6"
+    },
+    "7": {
+      "text": "Se a tua oferenda for uma oblação cozida na panela, a flor de farinha será preparada com azeite. \\par",
+      "reference": "Lv 2:7"
+    },
+    "8": {
+      "text": "Levarás a Iahweh a oblação que assim for preparada. Será apresentada ao sacerdote, que a aproximará do altar.",
+      "reference": "Lv 2:8"
+    },
+    "9": {
+      "text": "Da oblação o sacerdote separará o memorial, que queimará no altar como oferenda queimada de agradável odor a Iahweh.",
+      "reference": "Lv 2:9"
+    },
+    "10": {
+      "text": "A parte restante da oblação pertencerá a Aarão e a seus filhos, parte santíssima dos manjares de Iahweh. \\par",
+      "reference": "Lv 2:10"
+    },
+    "11": {
+      "text": "Nenhuma das oblações que oferecerdes a Iahweh será preparada com fermento, pois jamais queimareis fermento ou mel como oferta queimada a Iahweh.",
+      "reference": "Lv 2:11"
+    },
+    "12": {
+      "text": "Podereis oferecê-los a Iahweh como oferenda das primícias, mas não os colocareis sobre o altar como perfume de agradável odor.",
+      "reference": "Lv 2:12"
+    },
+    "13": {
+      "text": "Salgarás toda a oblação que ofereceres e não deixarás de pôr na tua oblação o sal da aliança de teu Deus; a toda oferenda juntarás uma oferenda de sal a teu Deus.",
+      "reference": "Lv 2:13"
+    },
+    "14": {
+      "text": "Se ofereceres a Iahweh uma oblação de primícias, será sob a forma de espigas tostadas ao fogo ou de pão cozido com grãos moídos que farás esta oblação de primícias.",
+      "reference": "Lv 2:14"
+    },
+    "15": {
+      "text": "Sobre ela acrescentarás azeite e lhe porás incenso, pois é uma oblação;",
+      "reference": "Lv 2:15"
+    },
+    "16": {
+      "text": "e o sacerdote queimará o memorial com uma parte do pão e do azeite (com todo o incenso) como oferenda queimada a Iahweh. \\par",
+      "reference": "Lv 2:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

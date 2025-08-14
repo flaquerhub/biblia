@@ -1,0 +1,121 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Paulo apela para César\\par }Três dias depois de sua chegada à província, Festo subiu de Cesaréia a Jerusalém.",
+      "reference": "At 25:1"
+    },
+    "2": {
+      "text": "Logo os chefes dos sacerdotes e os mais notáveis dentre os judeus fizeram-lhe representação contra Paulo. E ao mesmo tempo solicitaram-lhe,",
+      "reference": "At 25:2"
+    },
+    "3": {
+      "text": "pedindo como especial favor, mas em detrimento de Paulo, que o transferisse para Jerusalém: é que preparavam uma emboscada para matarem-no durante o trajeto.",
+      "reference": "At 25:3"
+    },
+    "4": {
+      "text": "Mas Festo respondeu que Paulo encontrava-se preso em Cesaréia, e que ele mesmo partiria muito em breve para lá.",
+      "reference": "At 25:4"
+    },
+    "5": {
+      "text": "E completou: “Aqueles dentre vós que detêm o poder desçam comigo. E se há algo de irregular nesse homem, apresentem acusação contra ele”. \\par",
+      "reference": "At 25:5"
+    },
+    "6": {
+      "text": "Tendo, pois, passado entre eles não mais de oito ou dez dias, desceu a Cesaréia. No dia seguinte, sentando-se no tribunal, mandou trazer Paulo.",
+      "reference": "At 25:6"
+    },
+    "7": {
+      "text": "Quando este compareceu, os judeus que haviam descido de Jerusalém o rodearam, aduzindo muitas e graves acusações, as quais, porém, não podiam provar,",
+      "reference": "At 25:7"
+    },
+    "8": {
+      "text": "Paulo, defendendo-se, dizia: “Não cometi falta alguma contra a Lei dos judeus, nem contra o Templo, nem contra César”.",
+      "reference": "At 25:8"
+    },
+    "9": {
+      "text": "Então Festo, querendo agradar aos judeus, dirigiu-se a Paulo: “Queres subir a Jerusalém, para lá, em minha presença, seres julgado a respeito destas coisas?”",
+      "reference": "At 25:9"
+    },
+    "10": {
+      "text": "Paulo, porém, replicou: “Estou perante o tribunal de César, e é aqui que devo ser julgado. Nenhum crime pratiquei contra os judeus, como tu perfeitamente reconheces.",
+      "reference": "At 25:10"
+    },
+    "11": {
+      "text": "Mas, se de fato cometi injustiça, ou pratiquei algo que mereça a morte, não recuso morrer. Se, ao contrário, não há nada daquilo de que me acusam, ninguém pode entregar-me a eles. Apelo para César!”",
+      "reference": "At 25:11"
+    },
+    "12": {
+      "text": "Então Festo, depois de ter conferenciado com o seu conselho, respondeu: “Para César apelaste, a César irás!” \\par",
+      "reference": "At 25:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Paulo comparece perante o rei Agripa\\par }Passados alguns dias, o rei Agripa e Berenice vieram a Cesaréia e foram saudar Festo.",
+      "reference": "At 25:13"
+    },
+    "14": {
+      "text": "Como se demorassem ali por mais tempo, Festo expôs ao rei o caso de Paulo: “Há um homem aqui, disse ele, a quem Félix deixou detido.",
+      "reference": "At 25:14"
+    },
+    "15": {
+      "text": "Estando eu em Jerusalém, os chefes dos sacerdotes e anciãos dos judeus representaram contra ele, pedindo a sua condenação.",
+      "reference": "At 25:15"
+    },
+    "16": {
+      "text": "Respondi-lhes, porém, que não é costume dos romanos entregar um homem antes que ele, quando acusado, possa confrontar seus acusadores e tenha meios de defender-se da acusação.",
+      "reference": "At 25:16"
+    },
+    "17": {
+      "text": "Vindo eles junto comigo para cá, já no dia seguinte sentei-me no tribunal, sem dilação alguma, e mandei trazer o homem.",
+      "reference": "At 25:17"
+    },
+    "18": {
+      "text": "Comparecendo perante ele, seus acusadores não aduziram nenhuma acusação de crimes de que eu pudesse suspeitar.",
+      "reference": "At 25:18"
+    },
+    "19": {
+      "text": "Tinham somente certas questões sobre sua própria religião e a respeito de um certo Jesus, já morto, e que Paulo afirmava estar vivo.",
+      "reference": "At 25:19"
+    },
+    "20": {
+      "text": "Estando eu perplexo quanto à investigação dessas coisas, perguntei-lhe se preferia ir a Jerusalém, para lá ser julgado.",
+      "reference": "At 25:20"
+    },
+    "21": {
+      "text": "Mas Paulo interpôs apelação, para que sua causa fosse reservada ao juízo de Augusto. Ordenei, pois, que ficasse detido, até que eu possa enviá-lo a César”.",
+      "reference": "At 25:21"
+    },
+    "22": {
+      "text": "Disse então Agripa a Festo: “Eu também quisera ouvir este homem”. E Festo: “Amanhã o ouvirás”. \\par",
+      "reference": "At 25:22"
+    },
+    "23": {
+      "text": "De fato, no dia seguinte, Agripa e Berenice vieram com grande pompa e foram à sala de audiências, junto com os tribunos e as personalidades importantes da cidade. A uma ordem de Festo, trouxeram Paulo.",
+      "reference": "At 25:23"
+    },
+    "24": {
+      "text": "Festo disse então: “Rei Agripa, e vós todos conosco aqui presentes, estais vendo este homem, por causa do qual toda a comunidade dos judeus recorreu a mim tanto em Jerusalém como aqui, clamando que ele não deve continuar a viver.",
+      "reference": "At 25:24"
+    },
+    "25": {
+      "text": "Eu, porém, averigüei que nada fez que mereça a morte. Contudo, como ele mesmo apelou para Augusto, decidi enviá-lo.",
+      "reference": "At 25:25"
+    },
+    "26": {
+      "text": "Acontece que nada tenho de concreto, sobre ele, para escrever ao Soberano. Por isso, faço-o comparecer diante de vós, sobretudo diante de ti, rei Agripa, a fim de que, feita a argüição, eu tenha o que escrever.",
+      "reference": "At 25:26"
+    },
+    "27": {
+      "text": "Pois me parece irrazoável enviar um detido sem também indicar as acusações movidas contra ele”. \\par",
+      "reference": "At 25:27"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 27
+}

@@ -1,0 +1,109 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 32,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os banquetes\\par }Puseram-te como presidente? Não te envaideças, \\par mas sê com os convivas como um dentre eles, \\par ocupa-te deles e depois senta-te. \\par",
+      "reference": "Eclo 32:1"
+    },
+    "2": {
+      "text": "Provê a cada um o necessário e acomoda-te, \\par para te regozijares com eles \\par e receberes a coroa pela boa ordem. \\par",
+      "reference": "Eclo 32:2"
+    },
+    "3": {
+      "text": "Fala, ó ancião, pois isso convém a ti, \\par mas discrição! Não impeças a música. \\par",
+      "reference": "Eclo 32:3"
+    },
+    "4": {
+      "text": "Durante uma audição não seja pródigo em palavras, \\par não admoestes em tempo inoportuno. \\par",
+      "reference": "Eclo 32:4"
+    },
+    "5": {
+      "text": "Como uma pedra de rubi numa corrente de ouro, \\par assim é um concerto musical num banquete. \\par",
+      "reference": "Eclo 32:5"
+    },
+    "6": {
+      "text": "Como uma pedra de esmeralda num engaste de ouro, \\par assim é o som da música com as delícias do vinho. \\par",
+      "reference": "Eclo 32:6"
+    },
+    "7": {
+      "text": "Fala, ó jovem, se te é necessário, \\par se fores interrogado ao menos duas vezes. \\par",
+      "reference": "Eclo 32:7"
+    },
+    "8": {
+      "text": "Sê conciso em teu discurso, dize muito em poucas palavras, \\par sê como alguém que sabe e ao mesmo tempo cala-se. \\par",
+      "reference": "Eclo 32:8"
+    },
+    "9": {
+      "text": "Em meio aos grandes não te iguales a eles, \\par se outro fala não tagareles muito. \\par",
+      "reference": "Eclo 32:9"
+    },
+    "10": {
+      "text": "O relâmpago antecipa-se ao raio, \\par a graça precede a modéstia. \\par",
+      "reference": "Eclo 32:10"
+    },
+    "11": {
+      "text": "Chegada a hora, levanta-te e não sejas o último a sair, \\par corre para casa e não vagueies. \\par",
+      "reference": "Eclo 32:11"
+    },
+    "12": {
+      "text": "Lá diverte-te, faze o que te aprouver, \\par mas não peques falando com insolência. \\par",
+      "reference": "Eclo 32:12"
+    },
+    "13": {
+      "text": "Por tudo isso bendize o teu Criador, \\par o que te cumulou com seus bens. \\par",
+      "reference": "Eclo 32:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i O temor de Deus\\par }Aquele que teme ao Senhor aceita a correção, \\par os que o procuram encontram seu favor. \\par",
+      "reference": "Eclo 32:14"
+    },
+    "15": {
+      "text": "O que procura conhecer a lei será saciado com ela, \\par mas para o hipócrita ela é um escândalo. \\par",
+      "reference": "Eclo 32:15"
+    },
+    "16": {
+      "text": "Aqueles que temem ao Senhor encontram a justiça, \\par fazem brilhar como luz suas boas ações. \\par",
+      "reference": "Eclo 32:16"
+    },
+    "17": {
+      "text": "O pecador foge da repreensão, \\par encontra justificativa para seguir sua vontade. \\par",
+      "reference": "Eclo 32:17"
+    },
+    "18": {
+      "text": "O homem sensato não despreza os conselhos, \\par o estrangeiro e o orgulhoso não conhecem o temor. \\par",
+      "reference": "Eclo 32:18"
+    },
+    "19": {
+      "text": "Não faças nada sem conselho: \\par não te arrependerás de teus atos. \\par",
+      "reference": "Eclo 32:19"
+    },
+    "20": {
+      "text": "Não andes por caminho acidentado \\par e não tropeçarás em pedras. \\par",
+      "reference": "Eclo 32:20"
+    },
+    "21": {
+      "text": "Não confies num caminho não explorado \\par",
+      "reference": "Eclo 32:21"
+    },
+    "22": {
+      "text": "e desconfia de teus filhos. \\par",
+      "reference": "Eclo 32:22"
+    },
+    "23": {
+      "text": "Em todas as ações vela sobre ti mesmo, \\par porque isso é observar os mandamentos. \\par",
+      "reference": "Eclo 32:23"
+    },
+    "24": {
+      "text": "Aquele que confia na lei observa os mandamentos \\par o que põe sua confiança no Senhor não sofrerá dano. \\par",
+      "reference": "Eclo 32:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

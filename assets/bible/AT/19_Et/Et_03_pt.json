@@ -1,0 +1,73 @@
+{
+  "book": 17,
+  "book_name": "Ester",
+  "book_abbr": "Et",
+  "book_category": "Histórico",
+  "book_english": "Esther",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Depois dessas coisas, o rei Assuero engrandeceu a Amã, filho de Amadates, do país de Agag. Exaltou-o em dignidade e lhe concedeu preeminência sobre todos os altos oficiais, seus colegas.",
+      "reference": "Et 3:1"
+    },
+    "2": {
+      "text": "Todos os servos do rei, prepostos ao serviço de sua Porta, ajoelhavam-se e prostravam-se diante dele, pois esta era a ordem do rei. Mardoqueu, porém, recusou-se a ajoelhar-se e prostrar-se.",
+      "reference": "Et 3:2"
+    },
+    "3": {
+      "text": "Então disseram-lhe os servos do rei, prepostos à Porta Real: “Por que transgrides a ordem real?”",
+      "reference": "Et 3:3"
+    },
+    "4": {
+      "text": "Mas, apesar de lhe dizerem isso todos os dias, ele não lhes deu ouvidos. Denunciaram então o fato a Amã, para ver se Mardoqueu persistiria em sua atitude (pois ele lhes tinha declarado ser judeu).",
+      "reference": "Et 3:4"
+    },
+    "5": {
+      "text": "Verificando, pois, Amã que Mardoqueu não se ajoelhava nem se prostrava diante dele, encheu-se de furor.",
+      "reference": "Et 3:5"
+    },
+    "6": {
+      "text": "Como lhe tivessem declarado de que povo era Mardoqueu, pareceu-lhe pouco em seus propósitos atentar apenas contra Mardoqueu, e premeditou destruir todos os judeus, povo de Mardoqueu, estabelecidos no reino de Assuero. \\par",
+      "reference": "Et 3:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b {\\i III. Os judeus ameaçados}\\par }{\\qc\\b\\i Decreto de extermínio dos judeus\\par }No duodécimo ano de Assuero, no primeiro mês, que é o mês de Nisã, sob os olhos de Amã, lançou-se o “Pur” (isto é, as sortes), por dia e por mês. A sorte caiu no duodécimo segundo mês, que é Adar.",
+      "reference": "Et 3:7"
+    },
+    "8": {
+      "text": "Amã disse ao rei Assuero: “No meio dos povos, em todas as províncias de teu reino, está espalhado um povo à parte. Suas leis não se parecem com as de nenhum outro e as leis reais são para eles letra morta. Os interesses do rei não permitem deixá-lo tranqüilo.",
+      "reference": "Et 3:8"
+    },
+    "9": {
+      "text": "Que se decrete, pois, sua morte, se bem parecer ao rei, e versarei aos seus funcionários, na conta do Tesouro Real, dez mil talentos de prata”. \\par",
+      "reference": "Et 3:9"
+    },
+    "10": {
+      "text": "O rei tirou então o seu anel da mão e o deu a Amã, filho de Amadates, do país de Agag, perseguidor dos judeus,",
+      "reference": "Et 3:10"
+    },
+    "11": {
+      "text": "e lhe disse: “Conserva teu dinheiro. Quanto a este povo, é teu: faze dele o que quiseres!” \\par",
+      "reference": "Et 3:11"
+    },
+    "12": {
+      "text": "Dirigiu-se, pois, uma convocação aos escribas reais para o dia treze do primeiro mês, e escreveu-se tudo o que Amã ordenara aos sátrapas do rei, aos governadores de cada província e aos altos oficiais de cada povo conforme a escrita de cada província e a língua de cada povo. O rescrito foi assinado em nome de Assuero e selado com seu anel.",
+      "reference": "Et 3:12"
+    },
+    "13": {
+      "text": "Através de correios, foram enviadas a todas as províncias do reino cartas mandando destruir, matar e exterminar todos os judeus, desde os adolescentes até os velhos, inclusive crianças e mulheres, num só dia, no dia treze do décimo segundo mês, que é Adar, e mandando confiscar os seus bens. \\par {\\super (13a)} {\\i Eis o texto desta carta: \\par “O Grande Rei Assuero, aos governadores das cento e vinte e sete províncias que vão da Índia à Etiópia, e aos chefes de distrito, seus subordinados: }\\par {\\super (13b)} {\\i Colocado na chefia de inúmeros povos e como senhor de toda a terra, eu me propus não me deixar embriagar pelo orgulho do poder e sempre governar com grande espírito de moderação e benevolência, a fim de outorgar a meus subordinados o perfeito gozo de uma existência sem sobressaltos, e, já que meu reino oferece os benefícios da civilização e a livre circulação entre as suas fronteiras, nele instaurar o objeto do desejo universal, que é a paz. } {\\super (13c)} {\\i Ora, tendo ouvido meu conselho sobre os meios de atingir esse fim, um dos meus conselheiros, cuja sabedoria entre nós é eminente, dando provas de indefectível devotamento e inquebrantável fidelidade, e cujas prerrogativas vêm imediatamente após as nossas, Amã, } {\\super (13d)} {\\i denunciou-nos, misturado a todas as tribos do mundo, um povo mal-intencionado, em oposição, por suas leis, a todas as nações, e constantemente desprezando as ordens reais, a ponto de ser um obstáculo ao governo que exercemos para a satisfação geral. }\\par {\\super (13e)} {\\i Considerando, pois, que o referido povo, único em seu gênero, acha-se sob todos os aspectos em conflito com toda a humanidade; que dela difere por um regime de leis estranhas; que é hostil aos nossos interesses e que comete os piores delitos, chegando a ameaçar a estabilidade de nosso reino: }\\par {\\super (13f)} {\\i Por esses motivos, ordenamos que todas as pessoas que vos forem assinaladas nas cartas de Amã, preposto às tarefas de nossos interesses e para nós um segundo pai, sejam radicalmente exterminadas, inclusive mulheres e crianças, pela espada de seus inimigos, sem piedade ou consideração alguma, no décimo quarto dia do décimo segundo mês, isto é, Adar, do presente ano, } {\\super (13g)} {\\i a fim de que, uma vez lançados esses opositores de hoje e de ontem no Hades num só dia, sejam asseguradas doravante ao Estado estabilidade e tranqüilidade”. }\\par",
+      "reference": "Et 3:13"
+    },
+    "14": {
+      "text": "A cópia deste edito, destinado a ser publicado como lei em cada província, foi publicada entre todos os povos, a fim de que cada qual estivesse preparado para aquele dia.",
+      "reference": "Et 3:14"
+    },
+    "15": {
+      "text": "Por ordem do rei, os correios partiram imediatamente. O edito foi promulgado em primeiro lugar na cidadela de Susa. \\par E enquanto o rei e Amã esbanjavam em festas e bebedeiras, na cidade de Susa reinava a consternação. \\par",
+      "reference": "Et 3:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

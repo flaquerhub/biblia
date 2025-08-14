@@ -1,0 +1,105 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Naquele tempo – oráculo de Iahweh – tirarão de seus sepulcros os ossos dos reis de Judá, os ossos de seus príncipes, os ossos dos sacerdotes, os ossos dos profetas e os ossos dos habitantes de Jerusalém.",
+      "reference": "Jr 8:1"
+    },
+    "2": {
+      "text": "Eles os espalharão diante do sol, da lua e de todo o exército celeste, que eles amaram, serviram, seguiram e interrogaram e diante dos quais eles se prostraram. Eles não serão mais reunidos e sepultados; eles serão esterco sobre a terra.",
+      "reference": "Jr 8:2"
+    },
+    "3": {
+      "text": "E a morte será preferida à vida por todos os que restarem desta geração perversa em todos os lugares para onde eu os tiver expulsado, oráculo de Iahweh dos Exércitos. \\par",
+      "reference": "Jr 8:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Ameaças, lamentações, instruções. Desvio de Israel\\par }Tu lhes dirás: Assim disse Iahweh. \\par Acaso eles caem sem se levantar? \\par Se se desviam, não retornarão? \\par",
+      "reference": "Jr 8:4"
+    },
+    "5": {
+      "text": "Por que este povo é rebelde, \\par por que Jerusalém é, continuamente, rebelde? \\par Eles se firmam na falsidade \\par e recusam converter-se. \\par",
+      "reference": "Jr 8:5"
+    },
+    "6": {
+      "text": "Prestei atenção e ouvi: \\par Eles não falam assim. \\par Ninguém se arrepende de sua maldade, \\par dizendo: “O que foi que eu fiz?” \\par Todos retornam ao seu caminho, \\par como um cavalo que se lança no combate. \\par",
+      "reference": "Jr 8:6"
+    },
+    "7": {
+      "text": "Até a cegonha no céu \\par conhece o seu tempo; \\par a pomba, a andorinha e o grou \\par observam o tempo de sua migração. \\par Mas o meu povo não conhece \\par o direito de Iahweh. \\par",
+      "reference": "Jr 8:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i A lei na mão dos sacerdotes\\par }Como podeis dizer: “Nós somos sábios \\par e a Lei de Iahweh está conosco!” \\par Sim, eis que a transformou em mentira \\par o cálamo mentiroso do escriba! \\par",
+      "reference": "Jr 8:8"
+    },
+    "9": {
+      "text": "Os sábios serão envergonhados, \\par ficarão perturbados e serão capturados. \\par Eis que eles desprezaram a palavra de Iahweh! \\par O que é a sabedoria para eles? \\par",
+      "reference": "Jr 8:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Retomada de um fragmento de ameaça\\par }Por isso eu darei as suas mulheres a outros, \\par seus campos a conquistadores. \\par Porque, desde o menor até o maior, \\par todos são ávidos de lucro; \\par do profeta ao sacerdote \\par todos praticam a falsidade. \\par",
+      "reference": "Jr 8:10"
+    },
+    "11": {
+      "text": "Eles curam a desgraça da filha do meu povo \\par de um modo superficial, \\par dizendo: “Paz! Paz!”, \\par quando não há paz. \\par",
+      "reference": "Jr 8:11"
+    },
+    "12": {
+      "text": "Eles deviam envergonhar-se, porque praticaram a abominação, \\par mas, na verdade, eles não se envergonharam, \\par eles não sabem mais sentir vergonha. \\par Por isso eles cairão com os que caem, \\par no tempo de minha visita eles vacilarão, \\par disse Iahweh. \\par",
+      "reference": "Jr 8:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Ameaças à Vinha-Judá\\par }Eu vou suprimi-los \\par – oráculo de Iahweh – \\par não mais uvas na videira, não mais figos na figueira, \\par a folhagem está seca: \\par eu lhes dei quem os devaste! \\par",
+      "reference": "Jr 8:13"
+    },
+    "14": {
+      "text": "“Por que nós estamos sentados? \\par Reunamo-nos! \\par Vamos para as cidades fortificadas \\par para sermos ali reduzidos ao silêncio, \\par pois Iahweh nosso Deus nos reduzirá ao silêncio \\par e nos fará beber água envenenada, \\par porque pecamos contra Iahweh. \\par",
+      "reference": "Jr 8:14"
+    },
+    "15": {
+      "text": "Esperamos a paz: nada de bom! \\par O tempo da cura: eis o terror! \\par",
+      "reference": "Jr 8:15"
+    },
+    "16": {
+      "text": "De Dã ouve-se \\par o fungar de seus cavalos; \\par pelo relinchar de seus ginetes \\par treme toda a terra: \\par eles vieram para devorar a terra e os seus bens, \\par a cidade e os seus habitantes”. \\par",
+      "reference": "Jr 8:16"
+    },
+    "17": {
+      "text": "– Sim, eis que eu envio contra vós \\par serpentes venenosas, \\par contra as quais não há encantamento, \\par e elas vos morderão, \\par oráculo de Iahweh. \\par",
+      "reference": "Jr 8:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Lamentação do profeta por ocasião de uma fome\\par }Sem remédio, a dor me invade, \\par o meu coração está doente! \\par",
+      "reference": "Jr 8:18"
+    },
+    "19": {
+      "text": "Eis o grito de socorro da filha de meu povo, \\par de uma terra longínqua. \\par “Não está mais Iahweh em Sião? \\par Seu Rei não está nela? \\par (Por que eles me irritaram com os seus ídolos, \\par com deuses estrangeiros?) \\par",
+      "reference": "Jr 8:19"
+    },
+    "20": {
+      "text": "A colheita passou, o verão acabou, \\par e nós não fomos salvos!” \\par",
+      "reference": "Jr 8:20"
+    },
+    "21": {
+      "text": "Por causa da ferida da filha do meu povo eu fui ferido, \\par fiquei triste, o pavor me dominou. \\par",
+      "reference": "Jr 8:21"
+    },
+    "22": {
+      "text": "Não há bálsamo em Galaad? \\par Não há lá um médico? \\par Por que não progride \\par a cura da filha de meu povo? \\par",
+      "reference": "Jr 8:22"
+    },
+    "23": {
+      "text": "Quem fará de minha cabeça um manancial de água, \\par e de meus olhos fonte de lágrimas, \\par para que eu não chore dia e noite \\par os mortos da filha do meu povo! \\par",
+      "reference": "Jr 8:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

@@ -1,0 +1,73 @@
+{
+  "book": 7,
+  "book_name": "Juízes",
+  "book_abbr": "Jz",
+  "book_category": "Histórico",
+  "book_english": "Judges",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Guerra entre Efraim e Galaad. Morte de Jefté\\par }Então os homens de Efraim se reuniram, atravessaram o Jordão em direção a Safon e disseram a Jefté: “Por que foste combater os amonitas sem nos convidares a ir contigo? Queimaremos a tua casa e a ti com ela!”",
+      "reference": "Jz 12:1"
+    },
+    "2": {
+      "text": "Jefté lhes respondeu: “Tivemos um grande conflito, eu e o meu povo, com os amonitas. Chamei-vos em nosso auxílio e não me livrastes da sua mão.",
+      "reference": "Jz 12:2"
+    },
+    "3": {
+      "text": "Quando vi que ninguém aparecia em meu auxílio, arrisquei a minha vida, marchei contra os amonitas e Iahweh os entregou nas minhas mãos. Por que razão, pois, vos levantais hoje contra mim para me atacardes?”",
+      "reference": "Jz 12:3"
+    },
+    "4": {
+      "text": "Então Jefté reuniu todos os homens de Galaad, ofereceu batalha a Efraim, e os homens de Galaad feriram Efraim porque estes haviam dito: “Sois fugitivos de Efraim, vós, galaaditas, que viveis no meio de Efraim e no meio de Manassés!”",
+      "reference": "Jz 12:4"
+    },
+    "5": {
+      "text": "Depois os homens de Galaad tomaram a Efraim os vaus do Jordão, de maneira que, quando um fugitivo de Efraim dizia: “Deixai-me passar”, os galaaditas lhe perguntavam: “És efraimita?”",
+      "reference": "Jz 12:5"
+    },
+    "6": {
+      "text": "Se dizia: “Não”, lhe respondiam: “Então dize: Chibolet”. Ele dizia: “Sibolet”, porque não conseguia pronunciar doutro modo. Então o agarravam e o matavam nos vaus do Jordão. Caíram naquele tempo quarenta e dois mil homens de Efraim. \\par",
+      "reference": "Jz 12:6"
+    },
+    "7": {
+      "text": "Jefté julgou a Israel durante seis anos, e depois Jefté, o galaadita, morreu e foi sepultado na sua cidade, em Galaad. \\par",
+      "reference": "Jz 12:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b 9. ABESÃ\\par }Depois dele, Abesã de Belém foi juiz em Israel.",
+      "reference": "Jz 12:8"
+    },
+    "9": {
+      "text": "Ele tinha trinta filhos e trinta filhas. Casou as filhas fora, e fez vir de fora trinta mulheres para seus filhos. Ele foi juiz em Israel durante sete anos.",
+      "reference": "Jz 12:9"
+    },
+    "10": {
+      "text": "Depois Abesã morreu e foi sepultado em Belém. \\par",
+      "reference": "Jz 12:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b 10. ELON\\par }Depois dele, Elon, de Zabulon, foi juiz em Israel. Julgou Israel durante dez anos.",
+      "reference": "Jz 12:11"
+    },
+    "12": {
+      "text": "Depois Elon de Zabulon morreu e foi sepultado em Aialon, na terra de Zabulon. \\par",
+      "reference": "Jz 12:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b 11. ABDON\\par }Depois dele, Abdon, filho de Ilel de Faraton, foi juiz em Israel.",
+      "reference": "Jz 12:13"
+    },
+    "14": {
+      "text": "Ele tinha quarenta filhos e trinta netos, os quais montavam setenta jumentos. Julgou Israel durante oito anos.",
+      "reference": "Jz 12:14"
+    },
+    "15": {
+      "text": "Depois Abdon, filho de Ilel de Faraton, morreu e foi sepultado em Faraton, na terra de Efraim, na montanha dos amalecitas. \\par",
+      "reference": "Jz 12:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

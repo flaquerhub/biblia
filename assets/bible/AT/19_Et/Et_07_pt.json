@@ -1,0 +1,53 @@
+{
+  "book": 17,
+  "book_name": "Ester",
+  "book_abbr": "Et",
+  "book_category": "Histórico",
+  "book_english": "Esther",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "O rei e Amã foram ao banquete da rainha Ester,",
+      "reference": "Et 7:1"
+    },
+    "2": {
+      "text": "e neste segundo dia, durante o banquete, o rei disse novamente a Ester: “Pede-me o que quiseres, rainha Ester, e te será concedido. Ainda que me peças a metade do reino, tê-la-ás!”",
+      "reference": "Et 7:2"
+    },
+    "3": {
+      "text": "–“Se realmente encontrei graça a teus olhos, ó rei”, respondeu-lhe a rainha Ester, “e se for de teu agrado, concede-me a vida, eis o meu pedido, e a vida de meu povo, eis meu desejo.",
+      "reference": "Et 7:3"
+    },
+    "4": {
+      "text": "Porque fomos entregues, meu povo e eu, ao extermínio, à matança e ao aniquilamento. Se somente tivéssemos sido entregues como escravos e servos, eu ter-me-ia calado. Mas esta desgraça não irá compensar o prejuízo que dela resultará para o rei”.",
+      "reference": "Et 7:4"
+    },
+    "5": {
+      "text": "Assuero tomou a palavra e disse à rainha Ester: “Quem é? Onde está o homem que pensa agir assim?”",
+      "reference": "Et 7:5"
+    },
+    "6": {
+      "text": "Disse Ester: “O perseguidor e inimigo é Amã, é este miserável!” À vista do rei e da rainha, Amã ficou aterrorizado.",
+      "reference": "Et 7:6"
+    },
+    "7": {
+      "text": "Enfurecido, o rei levantou-se e deixou o banquete, indo para o jardim do palácio. Amã, porém, ficou junto à rainha para implorar a graça da vida, pois compreendeu que o rei já tinha decidido sua ruína. \\par",
+      "reference": "Et 7:7"
+    },
+    "8": {
+      "text": "Quando o rei voltou do jardim à sala do banquete, encontrou Amã caído sobre o divã onde Ester se recostava. O rei gritou: “Depois disso quer ele ainda violentar a rainha diante de mim, em meu palácio?” Tendo o rei dito isso, foi jogado um véu sobre o rosto de Amã.",
+      "reference": "Et 7:8"
+    },
+    "9": {
+      "text": "Harbona, um dos eunucos, sugeriu, na presença do rei: “Há na casa de Amã uma forca de cinqüenta côvados, que ele mandou preparar para este Mardoqueu que falou em defesa do rei”. – “Enforcai-o nela”, ordenou o rei.",
+      "reference": "Et 7:9"
+    },
+    "10": {
+      "text": "Amã foi, pois, enforcado na forca que ele preparara para Mardoqueu e aplacou-se a ira do rei. \\par",
+      "reference": "Et 7:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

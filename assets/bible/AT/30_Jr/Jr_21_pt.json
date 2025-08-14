@@ -1,0 +1,69 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 3. ORÁCULOS PROFERIDOS PRINCIPALMENTE DEPOIS DE JOAQUIM\\par }{\\qc\\b\\i A resposta aos enviados de Sedecias\\par }Palavra que foi dirigida a Jeremias, da parte de Iahweh, quando o rei Sedecias lhe enviou Fassur, filho de Melquias, e o sacerdote Sofonias, filho de Maasias, para lhe dizer:",
+      "reference": "Jr 21:1"
+    },
+    "2": {
+      "text": "“Consulta, pois, a Iahweh para nós, porque Nabucodonosor, rei da Babilônia, combate contra nós; talvez Iahweh repita em nosso favor todos os seus milagres, para que se afaste de nós”.",
+      "reference": "Jr 21:2"
+    },
+    "3": {
+      "text": "E Jeremias lhes disse: “Assim direis a Sedecias:",
+      "reference": "Jr 21:3"
+    },
+    "4": {
+      "text": "Assim disse Iahweh, o Deus de Israel. Eis que vou fazer voltar as armas que estão em vossas mãos, com as quais combateis o rei da Babilônia e os caldeus, que vos cercam: de fora dos muros eu os reunirei dentro desta cidade.",
+      "reference": "Jr 21:4"
+    },
+    "5": {
+      "text": "E eu mesmo combaterei contra vós com mão estendida e com braço forte, com ira, com furor e com grande indignação.",
+      "reference": "Jr 21:5"
+    },
+    "6": {
+      "text": "Eu ferirei os habitantes desta cidade, homens e animais, com uma grande peste, e eles morrerão.",
+      "reference": "Jr 21:6"
+    },
+    "7": {
+      "text": "Depois disto – oráculo de Iahweh – entregarei Sedecias, rei de Judá, seus servos, o povo e aqueles, nesta cidade, que escaparem da peste, da espada e da fome, nas mãos de Nabucodonosor, rei da Babilônia, nas mãos de seus inimigos e nas mãos daqueles que procuram a sua vida; ele os passará ao fio da espada, não os poupará, não terá pena, não terá compaixão”. \\par",
+      "reference": "Jr 21:7"
+    },
+    "8": {
+      "text": "E a este povo dirás: “Assim disse Iahweh: Eis que vou colocar diante de vós o caminho da vida e o caminho da morte.",
+      "reference": "Jr 21:8"
+    },
+    "9": {
+      "text": "Quem permanecer nesta cidade morrerá pela espada, pela fome ou pela peste; mas aquele que sair e se entregar aos caldeus, que vos cercam, viverá e terá a sua vida como despojo.",
+      "reference": "Jr 21:9"
+    },
+    "10": {
+      "text": "Porque vou voltar-me contra esta cidade para sua desgraça, não para sua felicidade – oráculo de Iahweh. Ela será entregue nas mãos do rei da Babilônia e ele a incendiará”. \\par",
+      "reference": "Jr 21:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Endereço geral à Casa real\\par }À Casa do rei de Judá. Escutai a palavra de Iahweh,",
+      "reference": "Jr 21:11"
+    },
+    "12": {
+      "text": "casa de Davi! Assim disse Iahweh: \\par Julgai pela manhã o direito \\par e arrancai o explorado da mão do opressor, \\par para que a minha cólera não saia como o fogo \\par e queime sem que ninguém possa apagar, \\par por causa da maldade de vossas ações. \\par",
+      "reference": "Jr 21:12"
+    },
+    "13": {
+      "text": "Eis que venho a ti, moradora do vale, \\par Rocha da planície \\par – oráculo de Iahweh – \\par ó vós que dizeis: “Quem poderá vir contra nós? \\par Quem penetrará em nossas residências?” \\par",
+      "reference": "Jr 21:13"
+    },
+    "14": {
+      "text": "Eu vos castigarei conforme os frutos de vossas obras \\par – oráculo de Iahweh. \\par Eu atearei fogo em sua floresta, \\par e ele devorará todos os seus arredores! \\par",
+      "reference": "Jr 21:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

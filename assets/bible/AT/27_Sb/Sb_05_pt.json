@@ -1,0 +1,105 @@
+{
+  "book": 69,
+  "book_name": "Sabedoria",
+  "book_abbr": "Sb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Wisdom",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "De pé, porém, estará o justo, em segurança, \\par na presença dos que o oprimiram \\par e dos que desprezaram seus sofrimentos. \\par",
+      "reference": "Sb 5:1"
+    },
+    "2": {
+      "text": "Vendo-o, serão tomados de terrível pavor, \\par atônitos diante da salvação imprevista; \\par",
+      "reference": "Sb 5:2"
+    },
+    "3": {
+      "text": "dirão entre si, arrependidos, \\par entre soluços e gemidos de angústia: \\par",
+      "reference": "Sb 5:3"
+    },
+    "4": {
+      "text": "“Este é aquele de quem outrora nos ríamos, \\par de quem fizemos alvo de ultraje, nós insensatos! \\par Considerávamos a sua vida uma loucura \\par e seu fim infame. \\par",
+      "reference": "Sb 5:4"
+    },
+    "5": {
+      "text": "Como agora o contam entre os filhos de Deus \\par e partilha a sorte dos santos? \\par",
+      "reference": "Sb 5:5"
+    },
+    "6": {
+      "text": "Sim, extraviamo-nos do caminho da verdade; \\par a luz da justiça não brilhou para nós, \\par para nós não nasceu o sol. \\par",
+      "reference": "Sb 5:6"
+    },
+    "7": {
+      "text": "Cansamo-nos nas veredas da iniqüidade e perdição, \\par percorremos desertos intransitáveis, \\par mas não conhecemos o caminho do Senhor! \\par",
+      "reference": "Sb 5:7"
+    },
+    "8": {
+      "text": "Que proveito nos trouxe o orgulho? \\par De que nos serviu riqueza e arrogância? \\par",
+      "reference": "Sb 5:8"
+    },
+    "9": {
+      "text": "Tudo isso passou como uma sombra, \\par como notícia fugaz, \\par",
+      "reference": "Sb 5:9"
+    },
+    "10": {
+      "text": "como o navio que singra as águas ondulosas \\par sem deixar rastro de sua travessia \\par nem, nas ondas, a esteira de sua quilha. \\par",
+      "reference": "Sb 5:10"
+    },
+    "11": {
+      "text": "Ou como o pássaro que voa pelos ares \\par sem deixar vestígios de seu curso; \\par o leve ar, fustigado pelas penas, \\par fendido pelo vigoroso silvo, \\par é aberto em estrada pelas asas, \\par sem que se encontre algum sinal de sua rota. \\par",
+      "reference": "Sb 5:11"
+    },
+    "12": {
+      "text": "Ou como a flecha disparada para o alvo: \\par cicatriza num instante o ar ferido, \\par ignorando-se o rumo que tomou. \\par",
+      "reference": "Sb 5:12"
+    },
+    "13": {
+      "text": "Assim conosco: mal nascemos, já desaparecemos, \\par sem mostrarmos nenhum traço de virtude; \\par na malícia nos deixamos consumir!” \\par",
+      "reference": "Sb 5:13"
+    },
+    "14": {
+      "text": "Sim, a esperança do ímpio é como a palha levada pelo vento, \\par como a espuma miúda que a tempestade espalha; \\par é dispersa como o fumo pelo vento, \\par fugaz como a lembrança do hóspede de um dia... \\par",
+      "reference": "Sb 5:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Destino glorioso dos justos e castigo dos ímpios\\par }Mas os justos vivem para sempre, \\par recebem do Senhor sua recompensa, \\par cuida deles o Altíssimo. \\par",
+      "reference": "Sb 5:15"
+    },
+    "16": {
+      "text": "Receberão a magnífica coroa real, \\par e, das mãos do Senhor, o diadema de beleza; \\par com sua direita ele os protegerá, \\par com seu braço os escudará. \\par",
+      "reference": "Sb 5:16"
+    },
+    "17": {
+      "text": "Tomará a armadura de seu ciumento ardor, \\par armará a criação para vingar os inimigos; \\par",
+      "reference": "Sb 5:17"
+    },
+    "18": {
+      "text": "vestirá a couraça da justiça, \\par cingirá o capacete do julgamento insubornável; \\par",
+      "reference": "Sb 5:18"
+    },
+    "19": {
+      "text": "usará o escudo da invencível santidade; \\par",
+      "reference": "Sb 5:19"
+    },
+    "20": {
+      "text": "afiará a espada de sua ira implacável; \\par a seu lado, contra os insensatos, \\par pelejará o universo: \\par",
+      "reference": "Sb 5:20"
+    },
+    "21": {
+      "text": "certeiras, surgirão rajadas de raios, \\par voarão para o alvo do teso arco das nuvens; \\par",
+      "reference": "Sb 5:21"
+    },
+    "22": {
+      "text": "sua funda lançará furiosa saraivada, \\par contra eles lufarão as ondas do mar, \\par sem piedade os rios os afogarão. \\par",
+      "reference": "Sb 5:22"
+    },
+    "23": {
+      "text": "Um sopro poderoso se levantará contra eles \\par e os dispersará qual furacão. \\par A iniqüidade fará deserta a terra inteira \\par e a malícia derribará dos tronos os poderosos! \\par",
+      "reference": "Sb 5:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

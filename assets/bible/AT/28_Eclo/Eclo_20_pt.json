@@ -1,0 +1,141 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Silêncio e palavra\\par }Há repreensão que não é oportuna, \\par há quem se cale e se mostre prudente. \\par",
+      "reference": "Eclo 20:1"
+    },
+    "2": {
+      "text": "É melhor repreender do que irritar-se. \\par",
+      "reference": "Eclo 20:2"
+    },
+    "3": {
+      "text": "Aquele que se acusa de uma falta evita a pena. \\par",
+      "reference": "Eclo 20:3"
+    },
+    "4": {
+      "text": "Como um eunuco que tenta violar uma jovem, \\par assim é o que quer fazer justiça pela força. \\par",
+      "reference": "Eclo 20:4"
+    },
+    "5": {
+      "text": "Há quem se cala e passa por sábio, \\par há quem se torna antipático de tanto falar. \\par",
+      "reference": "Eclo 20:5"
+    },
+    "6": {
+      "text": "Há quem se cala por não ter resposta \\par e há quem se cala por conhecer o momento. \\par",
+      "reference": "Eclo 20:6"
+    },
+    "7": {
+      "text": "O homem sábio calará até o momento oportuno, \\par mas o loquaz e o insensato desprezam o momento oportuno. \\par",
+      "reference": "Eclo 20:7"
+    },
+    "8": {
+      "text": "Quem fala muito se torna detestável \\par e aquele que se arroga autoridade será odiado. \\par",
+      "reference": "Eclo 20:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Paradoxos\\par }Na desgraça um homem pode encontrar salvação \\par e a fortuna pode provocar a ruína. \\par",
+      "reference": "Eclo 20:9"
+    },
+    "10": {
+      "text": "Há um presente que não te serve para nada \\par e há um presente que rende o dobro. \\par",
+      "reference": "Eclo 20:10"
+    },
+    "11": {
+      "text": "Às vezes a glória traz a humilhação \\par e há quem da humilhação levanta a cabeça. \\par",
+      "reference": "Eclo 20:11"
+    },
+    "12": {
+      "text": "Há quem compre muitas coisas por um preço baixo \\par e há quem pague sete vezes mais. \\par",
+      "reference": "Eclo 20:12"
+    },
+    "13": {
+      "text": "O sábio com as suas palavras torna-se amável, \\par mas as gentilezas do estulto são derramadas em vão. \\par",
+      "reference": "Eclo 20:13"
+    },
+    "14": {
+      "text": "O presente do insensato não te serve para nada, \\par porque seus olhos estão ávidos para receber sete vezes. \\par",
+      "reference": "Eclo 20:14"
+    },
+    "15": {
+      "text": "Ele dá pouco e censura muito, \\par abre a boca como um leiloeiro. \\par Empresta hoje, amanhã pede de volta. \\par É um homem odioso. \\par",
+      "reference": "Eclo 20:15"
+    },
+    "16": {
+      "text": "O estulto diz: “Não tenho amigo, \\par ninguém me é grato pelos meus benefícios; \\par",
+      "reference": "Eclo 20:16"
+    },
+    "17": {
+      "text": "os que comem o meu pão são falsos no falar”. \\par Quantas e quantas vezes se riem dele. \\par {\\i Ele não recebe a riqueza com um espírito reto, \\par nem a ausência de riqueza com indiferença.}\\par",
+      "reference": "Eclo 20:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Palavras inábeis\\par }É melhor escorregar no chão do que na língua, \\par assim virá rápida a queda dos maus. \\par",
+      "reference": "Eclo 20:18"
+    },
+    "19": {
+      "text": "Um homem grosseiro é como zombaria \\par repetida por imbecis. \\par",
+      "reference": "Eclo 20:19"
+    },
+    "20": {
+      "text": "Vindo da boca de um estulto um provérbio não é aceito, \\par porque não o diz a seu tempo. \\par",
+      "reference": "Eclo 20:20"
+    },
+    "21": {
+      "text": "Há quem é preservado de pecar devido à pobreza \\par e no seu repouso não terá remorso. \\par",
+      "reference": "Eclo 20:21"
+    },
+    "22": {
+      "text": "Há quem se perde por respeito humano, \\par perde-se por causa de um insensato. \\par",
+      "reference": "Eclo 20:22"
+    },
+    "23": {
+      "text": "Há quem por timidez faz promessas ao amigo, \\par e conquista gratuitamente um inimigo. \\par",
+      "reference": "Eclo 20:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i A mentira\\par }A mentira para o homem é uma nódoa vergonhosa, \\par está sempre na boca dos mal-educados. \\par",
+      "reference": "Eclo 20:24"
+    },
+    "25": {
+      "text": "É melhor um ladrão do que um homem que sempre mente; \\par ambos, porém, terão por herança a perdição. \\par",
+      "reference": "Eclo 20:25"
+    },
+    "26": {
+      "text": "O hábito da mentira é uma abominação \\par e a infâmia do mentiroso acompanha-o sem cessar. \\par",
+      "reference": "Eclo 20:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Sobre a sabedoria\\par }O sábio por suas palavras torna-se estimado \\par e o homem sensato agrada aos grandes. \\par",
+      "reference": "Eclo 20:27"
+    },
+    "28": {
+      "text": "Aquele que cultiva a terra obtém boa colheita, \\par o que agrada aos grandes encontra perdão para a injustiça. \\par",
+      "reference": "Eclo 20:28"
+    },
+    "29": {
+      "text": "Dádivas e presentes cegam os olhos dos sábios \\par e, como uma mordaça na boca, retêm as repreensões. \\par",
+      "reference": "Eclo 20:29"
+    },
+    "30": {
+      "text": "Sabedoria oculta e tesouro invisível, \\par para que servem ambos? \\par",
+      "reference": "Eclo 20:30"
+    },
+    "31": {
+      "text": "É melhor um homem que oculta a sua loucura \\par do que o homem que oculta a sua sabedoria. \\par",
+      "reference": "Eclo 20:31"
+    },
+    "32": {
+      "text": "*",
+      "reference": "Eclo 20:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

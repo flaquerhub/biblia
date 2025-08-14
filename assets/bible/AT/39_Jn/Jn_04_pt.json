@@ -1,0 +1,57 @@
+{
+  "book": 32,
+  "book_name": "Jonas",
+  "book_abbr": "Jn",
+  "book_category": "Profético",
+  "book_english": "Jonah",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Desgosto do profeta e resposta divina\\par }Mas isso trouxe a Jonas um grande desgosto e ele ficou irado.",
+      "reference": "Jn 4:1"
+    },
+    "2": {
+      "text": "Orou então a Iahweh dizendo: “Ah! Iahweh, não era justamente isso que eu dizia quando estava ainda em minha terra? Por isso fugi apressadamente para Társis; pois eu sabia que tu és um Deus de piedade e de ternura, lento para a ira, e rico em amor e que se arrepende do mal.",
+      "reference": "Jn 4:2"
+    },
+    "3": {
+      "text": "Mas agora, Iahweh, toma, eu te peço, a minha vida, pois é melhor para mim a morte do que a vida”.",
+      "reference": "Jn 4:3"
+    },
+    "4": {
+      "text": "Iahweh disse: “Tens, por acaso, motivo para te irar?”",
+      "reference": "Jn 4:4"
+    },
+    "5": {
+      "text": "Jonas saiu da cidade e instalou-se a leste da cidade. Lá construiu uma tenda e assentou-se à sua sombra para ver o que aconteceria na cidade.",
+      "reference": "Jn 4:5"
+    },
+    "6": {
+      "text": "Iahweh Deus fez crescer uma mamoneira sobre Jonas, para dar sombra à sua cabeça e libertá-lo do seu mal. Jonas alegrou-se grandemente por causa da mamoneira.",
+      "reference": "Jn 4:6"
+    },
+    "7": {
+      "text": "No outro dia, ao surgir da aurora, Deus mandou um verme que picou a mamoneira a qual secou.",
+      "reference": "Jn 4:7"
+    },
+    "8": {
+      "text": "Quando o sol se levantou, Deus mandou um vento oriental ardente; o sol bateu na cabeça de Jonas e ele desfalecia. Então pediu a morte e disse: “É melhor para mim morrer do que viver”.",
+      "reference": "Jn 4:8"
+    },
+    "9": {
+      "text": "Deus disse a Jonas: “Está certo que te aborreças por causa da mamoneira?” Ele disse: “Está certo que eu me aborreça até a morte”.",
+      "reference": "Jn 4:9"
+    },
+    "10": {
+      "text": "Iahweh disse: “Tu tens pena da mamoneira, que não te custou trabalho e que não fizeste crescer, que em uma noite existiu e em uma noite pereceu.",
+      "reference": "Jn 4:10"
+    },
+    "11": {
+      "text": "E eu não terei pena de Nínive, a grande cidade, onde há mais de cento e vinte mil homens, que não distinguem entre direita e esquerda, assim como muitos animais!” \\par",
+      "reference": "Jn 4:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

@@ -1,0 +1,129 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "É preferível um bom nome a muitas riquezas, \\par e uma boa graça a prata e ouro. \\par",
+      "reference": "Pv 22:1"
+    },
+    "2": {
+      "text": "Rico e pobre se encontram; \\par a ambos fez Iahweh. \\par",
+      "reference": "Pv 22:2"
+    },
+    "3": {
+      "text": "O homem sagaz vê o mal e se esconde: \\par mas os ingênuos passam adiante e sofrem a pena. \\par",
+      "reference": "Pv 22:3"
+    },
+    "4": {
+      "text": "O fruto da humildade é o temor de Iahweh, \\par a riqueza, a honra e a vida. \\par",
+      "reference": "Pv 22:4"
+    },
+    "5": {
+      "text": "Espinhos e laços há no caminho do perverso; \\par o que guarda sua alma retira-se para longe deles. \\par",
+      "reference": "Pv 22:5"
+    },
+    "6": {
+      "text": "Ensina a criança no caminho que deve andar, \\par e mesmo quando for velho não se desviará dele. \\par",
+      "reference": "Pv 22:6"
+    },
+    "7": {
+      "text": "O rico domina sobre os pobres, \\par o que toma emprestado é servo do que empresta. \\par",
+      "reference": "Pv 22:7"
+    },
+    "8": {
+      "text": "Quem semeia a injustiça colherá a desgraça, \\par e a vara de sua cólera desaparecerá. \\par",
+      "reference": "Pv 22:8"
+    },
+    "9": {
+      "text": "O homem generoso será abençoado, \\par porque dá de seu pão ao fraco. \\par",
+      "reference": "Pv 22:9"
+    },
+    "10": {
+      "text": "Lança fora o zombador, e com ele irá a contenda; \\par cessarão as demandas e a ignomínia. \\par",
+      "reference": "Pv 22:10"
+    },
+    "11": {
+      "text": "O que ama a pureza de coração e é grácil no falar \\par terá por amigo o rei. \\par",
+      "reference": "Pv 22:11"
+    },
+    "12": {
+      "text": "Os olhos de Iahweh protegem o conhecimento, \\par mas ele confunde os discursos do traidor. \\par",
+      "reference": "Pv 22:12"
+    },
+    "13": {
+      "text": "O preguiçoso diz: “Um leão está lá fora! \\par Serei morto no meio da rua!” \\par",
+      "reference": "Pv 22:13"
+    },
+    "14": {
+      "text": "Cova profunda é a boca das estrangeiras; \\par aquele, contra quem Iahweh se irar, cairá nela. \\par",
+      "reference": "Pv 22:14"
+    },
+    "15": {
+      "text": "A estultícia está ligada ao coração da criança, \\par mas a vara da disciplina a afastará dela. \\par",
+      "reference": "Pv 22:15"
+    },
+    "16": {
+      "text": "Oprime-se um fraco: no final ele sai engrandecido; \\par dá-se ao rico: e no final só há empobrecimento. \\par",
+      "reference": "Pv 22:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b {\\i III. Coleção dos Sábios}\\par }Inclina teu ouvido, ouve as palavras dos Sábios, \\par e aplica teu coração ao meu conhecimento, \\par",
+      "reference": "Pv 22:17"
+    },
+    "18": {
+      "text": "pois terás prazer em guardá-las dentro de ti, \\par e estarão todas firmes em teus lábios. \\par",
+      "reference": "Pv 22:18"
+    },
+    "19": {
+      "text": "Para que a tua confiança esteja em Iahweh, \\par vou instruir hoje também a ti. \\par",
+      "reference": "Pv 22:19"
+    },
+    "20": {
+      "text": "Não te escrevi trinta capítulos \\par sobre conselhos e conhecimento, \\par",
+      "reference": "Pv 22:20"
+    },
+    "21": {
+      "text": "para te ensinar a certeza de palavras verdadeiras \\par e poderes responder com verdade ao que te envia? \\par",
+      "reference": "Pv 22:21"
+    },
+    "22": {
+      "text": "Não despojes o fraco, por ser fraco, \\par nem oprimes o pobre no julgamento. \\par",
+      "reference": "Pv 22:22"
+    },
+    "23": {
+      "text": "Porque Iahweh disputará a sua causa \\par e tirará a vida dos que os defraudaram. \\par",
+      "reference": "Pv 22:23"
+    },
+    "24": {
+      "text": "Não te juntes ao homem irascível, \\par nem freqüentes o homem colérico, \\par",
+      "reference": "Pv 22:24"
+    },
+    "25": {
+      "text": "para que não te acostumes com seus modos \\par e não encontres uma cilada para tua vida. \\par",
+      "reference": "Pv 22:25"
+    },
+    "26": {
+      "text": "Não estejas entre os que se comprometem, \\par tornando-se fiadores de dívidas: \\par",
+      "reference": "Pv 22:26"
+    },
+    "27": {
+      "text": "se não tens com que pagar, \\par tomarão a cama debaixo de ti. \\par",
+      "reference": "Pv 22:27"
+    },
+    "28": {
+      "text": "Não desloques os marcos antigos \\par que os teus pais colocaram. \\par",
+      "reference": "Pv 22:28"
+    },
+    "29": {
+      "text": "Vês um homem perito em seu trabalho? \\par Ele será posto a serviço de reis, \\par não será posto a serviço de pessoas obscuras. \\par",
+      "reference": "Pv 22:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

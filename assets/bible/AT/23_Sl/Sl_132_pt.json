@@ -1,0 +1,85 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 132,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 132 (131)\\par }{\\qc\\b\\i Para o aniversário da transladação da Arca\\par }{\\qc\\i Cântico das subidas.\\par } Iahweh, lembra-te de Davi, \\par de suas fadigas todas, \\par",
+      "reference": "Sl 132:1"
+    },
+    "2": {
+      "text": "do juramento que fez a Iahweh, \\par do seu voto ao Poderoso de Jacó: \\par",
+      "reference": "Sl 132:2"
+    },
+    "3": {
+      "text": "“Não entrarei na tenda, minha casa, \\par nem subirei à cama em que repouso, \\par",
+      "reference": "Sl 132:3"
+    },
+    "4": {
+      "text": "não darei sono aos meus olhos, \\par nem descanso às minhas pálpebras, \\par",
+      "reference": "Sl 132:4"
+    },
+    "5": {
+      "text": "até que eu encontre um lugar para Iahweh, \\par moradia para o Poderoso de Jacó”. \\par",
+      "reference": "Sl 132:5"
+    },
+    "6": {
+      "text": "Eis que ouvimos dela em Éfrata, \\par nós a encontramos nos Campos de Jaar. \\par",
+      "reference": "Sl 132:6"
+    },
+    "7": {
+      "text": "Entremos no lugar em que ele mora, \\par prostremo-nos diante do seu pedestal. \\par",
+      "reference": "Sl 132:7"
+    },
+    "8": {
+      "text": "Levanta-te, Iahweh, para o teu repouso, \\par tu e a arca da tua força. \\par",
+      "reference": "Sl 132:8"
+    },
+    "9": {
+      "text": "Que teus sacerdotes se vistam de justiça, \\par e teus fiéis exultem de alegria. \\par",
+      "reference": "Sl 132:9"
+    },
+    "10": {
+      "text": "Por causa de Davi, teu servo, \\par não rejeites a face do teu messias. \\par",
+      "reference": "Sl 132:10"
+    },
+    "11": {
+      "text": "Iahweh jurou a Davi \\par uma verdade que jamais desmentirá: \\par “É um fruto do teu ventre \\par que eu vou colocar em teu trono. \\par",
+      "reference": "Sl 132:11"
+    },
+    "12": {
+      "text": "Se teus filhos guardarem minha aliança \\par e o testemunho que lhes ensinei, \\par também os filhos deles para sempre \\par irão sentar-se em teu trono”. \\par",
+      "reference": "Sl 132:12"
+    },
+    "13": {
+      "text": "Porque Iahweh escolheu Sião, \\par desejou-a como residência própria: \\par",
+      "reference": "Sl 132:13"
+    },
+    "14": {
+      "text": "“Ela é meu repouso para sempre, \\par aí vou habitar, pois eu a desejei. \\par",
+      "reference": "Sl 132:14"
+    },
+    "15": {
+      "text": "Vou abençoar suas provisões com largueza \\par e saciar seus indigentes de pão, \\par",
+      "reference": "Sl 132:15"
+    },
+    "16": {
+      "text": "de salvação vestirei seus sacerdotes, \\par e seus fiéis exultarão de alegria. \\par",
+      "reference": "Sl 132:16"
+    },
+    "17": {
+      "text": "Ali farei brotar uma linhagem a Davi, \\par e prepararei uma lâmpada ao meu Messias: \\par",
+      "reference": "Sl 132:17"
+    },
+    "18": {
+      "text": "vestirei seus inimigos de vergonha, \\par e sobre ele vai brilhar seu diadema”. \\par",
+      "reference": "Sl 132:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

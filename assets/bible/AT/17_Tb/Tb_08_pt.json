@@ -1,0 +1,97 @@
+{
+  "book": 67,
+  "book_name": "Tobias",
+  "book_abbr": "Tb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Tobit",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i VIII. O túmulo}\\par }Quando acabaram de comer e beber, decidiram ir dormir; conduziram, pois, o jovem, ao aposento.",
+      "reference": "Tb 8:1"
+    },
+    "2": {
+      "text": "Recordou-se Tobias dos conselhos de Rafael e, tirando o fígado e o coração do peixe de dentro do saco onde os guardara, colocou-os sobre as brasas do perfumador.",
+      "reference": "Tb 8:2"
+    },
+    "3": {
+      "text": "O cheiro do peixe expulsou o demônio, que fugiu pelos ares até o Egito. Rafael seguiu-o, prendeu-o e acorrentou-o imediatamente. \\par",
+      "reference": "Tb 8:3"
+    },
+    "4": {
+      "text": "Entretanto, os pais tinham saído e fechado a porta do quarto. Então Tobias levantou-se do leito e disse a Sara: “Levanta-te, minha irmã! Oremos e peçamos a nosso Senhor que tenha compaixão de nós e nos salve”.",
+      "reference": "Tb 8:4"
+    },
+    "5": {
+      "text": "Ela se levantou e começaram a orar e a pedir para obterem a salvação. Ele começou dizendo: \\par “Bendito sejas tu, Deus de nossos pais, \\par e bendito seja teu Nome \\par por todos os séculos dos séculos! \\par Bendigam-te os céus \\par e tua criação inteira \\par em todos os séculos! \\par",
+      "reference": "Tb 8:5"
+    },
+    "6": {
+      "text": "Tu criaste Adão \\par e para ele criaste Eva, sua mulher, \\par para ser seu sustentáculo e amparo, \\par e para que de ambos derivasse a raça humana. \\par Tu mesmo disseste: \\par {\\i Não é bom que o homem fique só; \\par façamos-lhe uma auxiliar semelhante a ele.}\\par",
+      "reference": "Tb 8:6"
+    },
+    "7": {
+      "text": "E agora, não é por desejo impuro \\par que tomo esta minha irmã, \\par mas com reta intenção. \\par Digna-te ter piedade de mim e dela \\par e conduzir-nos juntos a uma idade avançada!” \\par",
+      "reference": "Tb 8:7"
+    },
+    "8": {
+      "text": "E disseram em coro: “Amém, amém!” \\par",
+      "reference": "Tb 8:8"
+    },
+    "9": {
+      "text": "E se deitaram para passar a noite. \\par Ora, Ragüel se levantou e, chamando os criados que tinha em casa, foram cavar um túmulo.",
+      "reference": "Tb 8:9"
+    },
+    "10": {
+      "text": "Pois dizia consigo: “Não aconteça que tenha morrido e nos tornemos objeto de escárnio e zombaria”.",
+      "reference": "Tb 8:10"
+    },
+    "11": {
+      "text": "Quando acabaram de cavar o túmulo, Ragüel voltou à casa, chamou sua mulher",
+      "reference": "Tb 8:11"
+    },
+    "12": {
+      "text": "e disse-lhe: “Manda uma criada entrar no quarto e ver se Tobias está vivo; porque, se morreu, o enterraremos sem que ninguém o saiba”.",
+      "reference": "Tb 8:12"
+    },
+    "13": {
+      "text": "Mandaram a criada, acenderam a lâmpada e abriram a porta; e, entrando, ela viu que estavam deitados juntos e dormindo.",
+      "reference": "Tb 8:13"
+    },
+    "14": {
+      "text": "A criada saiu e anunciou-lhes: “Está vivo e nada de mal aconteceu”.",
+      "reference": "Tb 8:14"
+    },
+    "15": {
+      "text": "Ragüel bendisse ao Deus do Céu com estas palavras: \\par “Bendito és, ó Deus, \\par com todo o puro louvor! \\par Que te bendigam por todos os séculos! \\par",
+      "reference": "Tb 8:15"
+    },
+    "16": {
+      "text": "Bendito sejas por me haveres alegrado, \\par por não ter sucedido o mal que temia, \\par mas nos trataste segundo tua grande misericórdia. \\par",
+      "reference": "Tb 8:16"
+    },
+    "17": {
+      "text": "Bendito sejas por teres tido compaixão \\par de dois filhos únicos. \\par Tem piedade deles, Senhor, \\par e dá-lhes tua salvação; \\par faze que sua vida transcorra \\par na alegria e na piedade”. \\par",
+      "reference": "Tb 8:17"
+    },
+    "18": {
+      "text": "Depois mandou que os criados fechassem a cova antes de amanhecer. \\par",
+      "reference": "Tb 8:18"
+    },
+    "19": {
+      "text": "Disse Ragüel à sua esposa que fizesse muitos pães; e foi ao estábulo, tomou dois bois e quatro carneiros e mandou aprontá-los. E assim começaram os preparativos.",
+      "reference": "Tb 8:19"
+    },
+    "20": {
+      "text": "Depois chamou Tobias e lhe disse: “Durante catorze dias não saíras daqui, mas ficarás onde estás, comendo e bebendo em minha casa, e enceras de gozo a alma de minha filha após todas as suas tristezas.",
+      "reference": "Tb 8:20"
+    },
+    "21": {
+      "text": "Depois, tomarás a metade de tudo quanto aqui possuo e voltarás feliz à casa de teu pai. E quando minha mulher e eu tivermos morrido, também será vossa a outra metade. Tem confiança, filho! Sou teu pai, e Edna é tua mãe; junto a ti estaremos e junto a tua irmã, desde agora e para sempre. Tem confiança, filho!” \\par",
+      "reference": "Tb 8:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

@@ -1,0 +1,45 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O cântico de Moisés e do Cordeiro\\par }Vi ainda um outro sinal grande e maravilhoso no céu: sete Anjos com sete pragas, as últimas, pois com estas o furor de Deus estará consumado.",
+      "reference": "Ap 15:1"
+    },
+    "2": {
+      "text": "Vi também como que um mar de vidro misturado com fogo, e os que venceram a Besta, sua imagem e o número do seu nome: estavam de pé sobre o mar de vidro e seguravam as cítaras de Deus,",
+      "reference": "Ap 15:2"
+    },
+    "3": {
+      "text": "cantando o cântico de Moisés, o servo de Deus, e o cântico do Cordeiro: \\par “Grandes e maravilhosas são as tuas obras, \\par ó Senhor Deus, todo-poderoso; \\par teus caminhos são justos e verdadeiros, \\par {\\i ó Rei das nações.}\\par",
+      "reference": "Ap 15:3"
+    },
+    "4": {
+      "text": "{\\i Quem não temeria}, ó Senhor, \\par e não glorificaria o teu nome? \\par Sim! Só tu és santo! \\par Todas as nações virão prostrar-se diante de ti, \\par pois tuas justas decisões se tornaram manifestas”. \\par",
+      "reference": "Ap 15:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i As sete pragas das sete taças\\par }Depois disto, vi abrir-se o templo da tenda do Testemunho que está no céu,",
+      "reference": "Ap 15:5"
+    },
+    "6": {
+      "text": "e dele saíram os sete Anjos com as sete pragas. Estavam vestidos de linho puro, resplandecente, e cingidos à altura do peito com cintos de ouro.",
+      "reference": "Ap 15:6"
+    },
+    "7": {
+      "text": "Um dos quatro Seres vivos entregou aos sete Anjos sete taças de ouro, cheias do furor de Deus que vive pelos séculos dos séculos.",
+      "reference": "Ap 15:7"
+    },
+    "8": {
+      "text": "{\\i O Templo se encheu de fumaça por causa da glória de Deus} e do seu poder, {\\i de modo que ninguém podia entrar no templo}, até que estivessem consumadas as sete pragas dos sete Anjos. \\par",
+      "reference": "Ap 15:8"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 8
+}

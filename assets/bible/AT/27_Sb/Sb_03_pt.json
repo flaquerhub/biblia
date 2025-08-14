@@ -1,0 +1,89 @@
+{
+  "book": 69,
+  "book_name": "Sabedoria",
+  "book_abbr": "Sb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Wisdom",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Comparação entre a sorte dos justos e a dos ímpios\\par }A vida dos justos está nas mãos de Deus, \\par nenhum tormento os atingirá. \\par",
+      "reference": "Sb 3:1"
+    },
+    "2": {
+      "text": "Aos olhos dos insensatos pareceram morrer; \\par sua partida foi tida como uma desgraça, \\par",
+      "reference": "Sb 3:2"
+    },
+    "3": {
+      "text": "sua viagem para longe de nós como um aniquilamento, \\par mas eles estão em paz. \\par",
+      "reference": "Sb 3:3"
+    },
+    "4": {
+      "text": "Aos olhos humanos pareciam cumprir uma pena, \\par mas sua esperança estava cheia de imortalidade; \\par",
+      "reference": "Sb 3:4"
+    },
+    "5": {
+      "text": "por um pequeno castigo receberão grandes favores. \\par Deus os colocou à prova \\par e os achou dignos de si. \\par",
+      "reference": "Sb 3:5"
+    },
+    "6": {
+      "text": "Examinou-os como o ouro no crisol \\par e aceitou-os como perfeito holocausto. \\par",
+      "reference": "Sb 3:6"
+    },
+    "7": {
+      "text": "No tempo de sua visita resplendecerão \\par e correrão como fagulhas no meio da palha. \\par",
+      "reference": "Sb 3:7"
+    },
+    "8": {
+      "text": "Julgarão as nações, dominarão os povos, \\par e o Senhor reinará sobre eles para sempre. \\par",
+      "reference": "Sb 3:8"
+    },
+    "9": {
+      "text": "Os que nele confiam compreenderão a verdade, \\par e os que são fiéis permanecerão junto a ele no amor, \\par pois graça e misericórdia são para seus santos, \\par e sua visita é para seus eleitos. \\par",
+      "reference": "Sb 3:9"
+    },
+    "10": {
+      "text": "Mas os ímpios serão castigados segundo os seus raciocínios: \\par desprezaram o justo e se afastaram do Senhor. \\par",
+      "reference": "Sb 3:10"
+    },
+    "11": {
+      "text": "Desgraçados os que desprezam a sabedoria e a disciplina: \\par sua esperança é vã, \\par suas fadigas sem proveito, \\par suas obras inúteis, \\par",
+      "reference": "Sb 3:11"
+    },
+    "12": {
+      "text": "suas mulheres insensatas, \\par seus filhos depravados, \\par sua posteridade maldita! \\par",
+      "reference": "Sb 3:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i A esterilidade vale mais que uma posteridade ímpia\\par }Feliz a estéril imaculada \\par que desconhece a união pecaminosa: \\par obterá seu fruto na visita das almas. \\par",
+      "reference": "Sb 3:13"
+    },
+    "14": {
+      "text": "Feliz também o eunuco que não cometeu crimes com suas mãos, \\par não teve maus desejos contra o Senhor: \\par por sua fidelidade receberá uma graça especial \\par e um quinhão apetecível no Templo do Senhor. \\par",
+      "reference": "Sb 3:14"
+    },
+    "15": {
+      "text": "Pois o fruto dos trabalhos honestos é cheio de glória, \\par imperecível é a raiz da inteligência. \\par",
+      "reference": "Sb 3:15"
+    },
+    "16": {
+      "text": "Os filhos dos adúlteros permanecem imaturos, \\par desaparecerá a posteridade de uma união ilegítima. \\par",
+      "reference": "Sb 3:16"
+    },
+    "17": {
+      "text": "Ainda que tenham vida longa, ninguém deles fará caso \\par e, no fim, sua velhice será sem honra; \\par",
+      "reference": "Sb 3:17"
+    },
+    "18": {
+      "text": "se morrem cedo, não terão esperança \\par nem consolação no dia da Sentença; \\par",
+      "reference": "Sb 3:18"
+    },
+    "19": {
+      "text": "o fim de uma geração perversa é cruel! \\par",
+      "reference": "Sb 3:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

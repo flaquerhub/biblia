@@ -1,0 +1,121 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "Não te felicites pelo dia de amanhã, \\par pois não sabes o que o hoje vai gerar. \\par",
+      "reference": "Pv 27:1"
+    },
+    "2": {
+      "text": "Seja outro quem te louve, e não tua boca; \\par um estranho, e não teus lábios! \\par",
+      "reference": "Pv 27:2"
+    },
+    "3": {
+      "text": "A pedra é pesada e a areia é uma carga, \\par mas a cólera do estulto pesa mais do que ambas. \\par",
+      "reference": "Pv 27:3"
+    },
+    "4": {
+      "text": "O furor é cruel e a ira impetuosa, \\par mas quem resiste frente ao ciúme? \\par",
+      "reference": "Pv 27:4"
+    },
+    "5": {
+      "text": "É melhor a reprimenda aberta \\par do que o amor encoberto. \\par",
+      "reference": "Pv 27:5"
+    },
+    "6": {
+      "text": "Os golpes do amigo são leais, \\par e mentirosos os beijos do inimigo. \\par",
+      "reference": "Pv 27:6"
+    },
+    "7": {
+      "text": "Garganta saciada despreza o favo de mel, \\par garganta faminta acha doce todo o amargo. \\par",
+      "reference": "Pv 27:7"
+    },
+    "8": {
+      "text": "Como ave vagando longe do ninho, \\par assim é o homem vagando longe do lar. \\par",
+      "reference": "Pv 27:8"
+    },
+    "9": {
+      "text": "Óleo e perfume alegram o coração, \\par e a doçura do amigo é melhor que o próprio conselho. \\par",
+      "reference": "Pv 27:9"
+    },
+    "10": {
+      "text": "Não abandones teu amigo, nem o amigo do teu pai, \\par e não vás à casa do teu irmão no teu dia difícil: \\par mais vale o vizinho perto do que o irmão distante. \\par",
+      "reference": "Pv 27:10"
+    },
+    "11": {
+      "text": "Sê sábio, meu filho, alegra o meu coração, \\par e eu poderei responder a quem me ultraja. \\par",
+      "reference": "Pv 27:11"
+    },
+    "12": {
+      "text": "O sagaz vê o mal e se esconde, \\par os ingênuos avançam e sofrem o dano. \\par",
+      "reference": "Pv 27:12"
+    },
+    "13": {
+      "text": "Toma sua roupa, pois ele afiançou um estrangeiro, \\par toma-lhe uma garantia, por causa de estranhos. \\par",
+      "reference": "Pv 27:13"
+    },
+    "14": {
+      "text": "Quem bendiz seu próximo em alta voz desde a manhã, \\par isto ser-lhe-á considerado maldição. \\par",
+      "reference": "Pv 27:14"
+    },
+    "15": {
+      "text": "Goteira pingando sem parar em dia de chuva \\par e a mulher briguenta são semelhantes! \\par",
+      "reference": "Pv 27:15"
+    },
+    "16": {
+      "text": "Contê-la é o mesmo que conter o vento \\par ou pegar o óleo com a mão. \\par",
+      "reference": "Pv 27:16"
+    },
+    "17": {
+      "text": "O ferro se aguça com o ferro, \\par e o homem se aguça com a presença do seu próximo. \\par",
+      "reference": "Pv 27:17"
+    },
+    "18": {
+      "text": "Quem cuida de sua figueira comerá dos seus frutos, \\par e quem vela por seu senhor será honrado. \\par",
+      "reference": "Pv 27:18"
+    },
+    "19": {
+      "text": "Como a água dá o reflexo do rosto, \\par assim é o coração do homem para o homem. \\par",
+      "reference": "Pv 27:19"
+    },
+    "20": {
+      "text": "O Xeol e a perdição são insaciáveis, \\par e também insaciáveis os olhos do homem. \\par",
+      "reference": "Pv 27:20"
+    },
+    "21": {
+      "text": "Há fornalha para a prata e forno para o ouro, \\par e o homem vale o que vale a sua fama. \\par",
+      "reference": "Pv 27:21"
+    },
+    "22": {
+      "text": "Mesmo que pises o estulto no almofariz \\par (entre os grãos, com um pilão), \\par sua estultícia não se separa dele. \\par",
+      "reference": "Pv 27:22"
+    },
+    "23": {
+      "text": "Conhece bem o estado das tuas ovelhas, \\par e presta atenção aos teus rebanhos; \\par",
+      "reference": "Pv 27:23"
+    },
+    "24": {
+      "text": "porque as riquezas não são para sempre, \\par e uma coroa não se transmite de geração em geração. \\par",
+      "reference": "Pv 27:24"
+    },
+    "25": {
+      "text": "Cortado o capim e aparecendo o broto, \\par e ajuntado o feno das montanhas, \\par",
+      "reference": "Pv 27:25"
+    },
+    "26": {
+      "text": "tenhas cordeiros para te vestir, \\par bodes para comprar um campo, \\par",
+      "reference": "Pv 27:26"
+    },
+    "27": {
+      "text": "leite de cabra em abundância para te alimentar, \\par para alimentar a tua casa e sustentar as tuas servas. \\par",
+      "reference": "Pv 27:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

@@ -1,0 +1,213 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A unção de Betânia\\par }Seis dias antes da Páscoa, Jesus foi a Betânia, onde estava Lázaro, que ele ressuscitara dos mortos.",
+      "reference": "Jo 12:1"
+    },
+    "2": {
+      "text": "Ofereceram-lhe aí um jantar; Marta servia e Lázaro era um dos que estavam à mesa com ele.",
+      "reference": "Jo 12:2"
+    },
+    "3": {
+      "text": "Então Maria, tendo tomado uma libra de um perfume de nardo puro, muito caro, ungiu os pés de Jesus e os enxugou com seus cabelos; e a casa inteira ficou cheia do perfume do bálsamo.",
+      "reference": "Jo 12:3"
+    },
+    "4": {
+      "text": "Disse, então, Judas Iscariotes, um de seus discípulos, o que o iria trair:",
+      "reference": "Jo 12:4"
+    },
+    "5": {
+      "text": "“Por que não se vendeu este perfume por trezentos denários para dá-los aos pobres?”",
+      "reference": "Jo 12:5"
+    },
+    "6": {
+      "text": "Ele disse isso, não porque se preocupasse com os pobres, mas porque era ladrão e, tendo a bolsa comum, roubava o que aí era colocado.",
+      "reference": "Jo 12:6"
+    },
+    "7": {
+      "text": "Disse então Jesus: “Deixa-a; que ela o conserve para o dia da minha sepultura!",
+      "reference": "Jo 12:7"
+    },
+    "8": {
+      "text": "Pois sempre tereis pobres convosco; mas a mim nem sempre tereis”. \\par",
+      "reference": "Jo 12:8"
+    },
+    "9": {
+      "text": "Uma grande multidão de judeus, tendo sabido que ele estava ali, veio, não só por causa de Jesus, mas também para ver Lázaro, que ele ressuscitara dos mortos.",
+      "reference": "Jo 12:9"
+    },
+    "10": {
+      "text": "Os chefes dos sacerdotes decidiram, então, matar também a Lázaro,",
+      "reference": "Jo 12:10"
+    },
+    "11": {
+      "text": "pois, por causa dele, muitos judeus se afastavam e criam em Jesus. \\par",
+      "reference": "Jo 12:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Entrada messiânica de Jesus em Jerusalém\\par }No dia seguinte, a grande multidão que viera para a festa, sabendo que Jesus vinha a Jerusalém,",
+      "reference": "Jo 12:12"
+    },
+    "13": {
+      "text": "tomou ramos de palmeira e saiu ao seu encontro, clamando: \\par “{\\i Hosana!} \\par {\\i Bendito o que vem em nome do Senhor} e \\par o rei de Israel!” \\par",
+      "reference": "Jo 12:13"
+    },
+    "14": {
+      "text": "Jesus, encontrando um jumentinho, montou nele, como está escrito: \\par",
+      "reference": "Jo 12:14"
+    },
+    "15": {
+      "text": "{\\i Não temas, filha de Sião! \\par Eis que vem o teu rei \\par montando num jumentinho! }\\par",
+      "reference": "Jo 12:15"
+    },
+    "16": {
+      "text": "Os discípulos, a princípio, não compreenderam isso; mas quando Jesus foi glorificado, lembraram-se de que essas coisas estavam escritas a seu respeito e que elas tinham sido realizadas.",
+      "reference": "Jo 12:16"
+    },
+    "17": {
+      "text": "A multidão, que estava com ele quando chamara Lázaro do sepulcro e o ressuscitara dos mortos, dava testemunho.",
+      "reference": "Jo 12:17"
+    },
+    "18": {
+      "text": "E por isso, a multidão saiu ao seu encontro: soubera que ele havia feito esse sinal.",
+      "reference": "Jo 12:18"
+    },
+    "19": {
+      "text": "Os fariseus então disseram uns aos outros: “Vede: nada conseguis. Todo mundo vai atrás dele!” \\par",
+      "reference": "Jo 12:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Jesus anuncia a sua glorificação através da morte\\par }Havia alguns gregos, entre os que tinham subido para adorar, durante a festa.",
+      "reference": "Jo 12:20"
+    },
+    "21": {
+      "text": "Estes aproximaram-se de Filipe, que era de Betsaida da Galiléia e lhe pediram: “Senhor, queremos ver Jesus!”",
+      "reference": "Jo 12:21"
+    },
+    "22": {
+      "text": "Filipe vem a André e lho diz; André e Filipe o dizem a Jesus.",
+      "reference": "Jo 12:22"
+    },
+    "23": {
+      "text": "Jesus lhes responde: \\par “É chegada a hora \\par em que será glorificado o Filho \\par do Homem. \\par",
+      "reference": "Jo 12:23"
+    },
+    "24": {
+      "text": "Em verdade, em verdade, vos digo: \\par Se o grão de trigo que cai na terra não morrer, \\par permanecerá só; \\par mas se morrer, \\par produzirá muito fruto. \\par",
+      "reference": "Jo 12:24"
+    },
+    "25": {
+      "text": "Quem ama sua vida a perde \\par e quem odeia a sua vida neste mundo \\par guardá-la-á para a vida eterna. \\par",
+      "reference": "Jo 12:25"
+    },
+    "26": {
+      "text": "Se alguém quer servir-me, siga-me; \\par e onde estou eu, aí também estará o meu servo. \\par Se alguém me serve, meu Pai o honrará. \\par",
+      "reference": "Jo 12:26"
+    },
+    "27": {
+      "text": "Minha alma está agora conturbada. \\par Que direi? \\par Pai, salva-me desta hora? \\par Mas foi precisamente para esta hora que eu vim. \\par",
+      "reference": "Jo 12:27"
+    },
+    "28": {
+      "text": "Pai, glorifica o teu nome”. \\par Veio, então, uma voz do céu: \\par “Eu o glorifiquei e o glorificarei novamente!” \\par",
+      "reference": "Jo 12:28"
+    },
+    "29": {
+      "text": "A multidão, que ali estava e ouvira, dizia ter sido um trovão. Outros diziam: “Um anjo falou-lhe”.",
+      "reference": "Jo 12:29"
+    },
+    "30": {
+      "text": "Jesus respondeu: “Essa voz não ressoou para mim, mas para vós. \\par",
+      "reference": "Jo 12:30"
+    },
+    "31": {
+      "text": "É agora o julgamento deste mundo, \\par agora o príncipe deste mundo será lançado fora; \\par",
+      "reference": "Jo 12:31"
+    },
+    "32": {
+      "text": "e, quando eu for elevado da terra, \\par atrairei todos a mim”. \\par",
+      "reference": "Jo 12:32"
+    },
+    "33": {
+      "text": "Assim falava para indicar de que morte deveria morrer. \\par",
+      "reference": "Jo 12:33"
+    },
+    "34": {
+      "text": "Respondeu-lhe a multidão: “Sabemos, pela Lei, que o Cristo permanecerá para sempre. Como dizes: ‘É preciso que o Filho do Homem seja elevado’? Quem é esse Filho do Homem?”",
+      "reference": "Jo 12:34"
+    },
+    "35": {
+      "text": "Jesus lhes disse: \\par “Por pouco tempo a luz está dentre vós. \\par Caminhai enquanto tendes luz, \\par para que as trevas não vos apreendam: \\par quem caminha nas trevas não sabe para onde vai! \\par",
+      "reference": "Jo 12:35"
+    },
+    "36": {
+      "text": "Enquanto tendes a luz, \\par crede na luz, \\par para vos tornardes filhos da luz”. \\par Após ter dito isso, Jesus retirou-se e se ocultou deles. \\par",
+      "reference": "Jo 12:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i Conclusão: a incredulidade dos judeus\\par }Apesar de ter realizado tantos sinais diante deles, não creram nele,",
+      "reference": "Jo 12:37"
+    },
+    "38": {
+      "text": "a fim de se cumprir a palavra dita pelo profeta Isaías: \\par {\\i Senhor, quem creu naquilo que ouviu de nós? \\par E o braço do Senhor, a quem foi revelado? }\\par",
+      "reference": "Jo 12:38"
+    },
+    "39": {
+      "text": "Não podiam crer, porque disse ainda Isaías: \\par",
+      "reference": "Jo 12:39"
+    },
+    "40": {
+      "text": "{\\i Cegou-lhes os olhos \\par e endureceu-lhes o coração, \\par para que seus olhos não vejam, \\par seu coração não compreenda \\par e não se convertam \\par e eu não os cure. }\\par",
+      "reference": "Jo 12:40"
+    },
+    "41": {
+      "text": "Isaías disse essas palavras, porque contemplou a sua glória e falou a respeito dele. \\par",
+      "reference": "Jo 12:41"
+    },
+    "42": {
+      "text": "Contudo, muitos chefes creram nele, mas, por causa dos fariseus, não o confessavam, para não serem expulsos da sinagoga,",
+      "reference": "Jo 12:42"
+    },
+    "43": {
+      "text": "pois amaram mais a glória dos homens do que a de Deus.",
+      "reference": "Jo 12:43"
+    },
+    "44": {
+      "text": "Jesus clamou: \\par “Quem crê em mim \\par não é em mim que crê, \\par mas em quem me enviou, \\par",
+      "reference": "Jo 12:44"
+    },
+    "45": {
+      "text": "e quem me vê \\par vê aquele que me enviou. \\par",
+      "reference": "Jo 12:45"
+    },
+    "46": {
+      "text": "Eu, a luz, vim ao mundo \\par para que aquele que crê em mim \\par não permaneça nas trevas. \\par",
+      "reference": "Jo 12:46"
+    },
+    "47": {
+      "text": "Se alguém ouvir minhas palavras \\par e não as guardar, \\par eu não o julgo, \\par pois não vim para julgar o mundo, \\par mas para salvar o mundo. \\par",
+      "reference": "Jo 12:47"
+    },
+    "48": {
+      "text": "Quem me rejeita e não acolhe \\par minhas palavras \\par tem seu juiz: \\par a palavra que proferi \\par é que o julgará no último dia; \\par",
+      "reference": "Jo 12:48"
+    },
+    "49": {
+      "text": "porque não falei por mim mesmo, \\par mas o Pai, que me enviou, me prescreveu \\par o que dizer e o que falar \\par",
+      "reference": "Jo 12:49"
+    },
+    "50": {
+      "text": "e sei que seu mandamento é vida eterna. \\par O que falo, portanto, eu o falo \\par como o Pai me disse”. \\par",
+      "reference": "Jo 12:50"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 50
+}

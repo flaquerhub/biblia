@@ -1,0 +1,133 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i IV. Últimos atos e morte de Moisés}\\par }{\\qc\\b\\i A missão de Josué\\par }Moisés falou estas palavras a todo Israel.",
+      "reference": "Dt 31:1"
+    },
+    "2": {
+      "text": "E acrescentou: “Tenho hoje cento e vinte anos. Não posso mais ser chefe, e Iahweh me disse: ‘Não atravessarás este Jordão’.",
+      "reference": "Dt 31:2"
+    },
+    "3": {
+      "text": "Quem vai atravessar à tua frente é o próprio Iahweh teu Deus. Ele mesmo exterminará estas nações da tua frente e as conquistará. E Josué atravessará à tua frente, conforme Iahweh te falou.",
+      "reference": "Dt 31:3"
+    },
+    "4": {
+      "text": "Iahweh as tratará do mesmo modo que tratou Seon e Og, os reis amorreus, e a terra deles, que ele reduziu a ruínas.",
+      "reference": "Dt 31:4"
+    },
+    "5": {
+      "text": "Iahweh as entregará a vós e as tratareis conforme os mandamentos que vos ordenei.",
+      "reference": "Dt 31:5"
+    },
+    "6": {
+      "text": "Sede fortes e corajosos! Não tenhais medo e nem fiqueis aterrorizados diante delas, porque Iahweh teu Deus é quem vai contigo! Ele nunca te deixará, jamais te abandonará!” \\par",
+      "reference": "Dt 31:6"
+    },
+    "7": {
+      "text": "Moisés chamou então Josué e, em presença de todo Israel, disse-lhe: “Sê forte e corajoso, pois tu entrarás com todo este povo na terra que Iahweh jurara dar aos seus pais, e tu os farás herdá-la.",
+      "reference": "Dt 31:7"
+    },
+    "8": {
+      "text": "O próprio Iahweh irá à tua frente. Ele estará contigo! Nunca te deixará, jamais te abandonará! Não tenhas medo, nem te apavores!” \\par",
+      "reference": "Dt 31:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i A leitura ritual da Lei\\par }Moisés escreveu então esta Lei e deu-a aos sacerdotes, os filhos de Levi, que carregavam a Arca da Aliança de Iahweh, como também a todos os anciãos de Israel.",
+      "reference": "Dt 31:9"
+    },
+    "10": {
+      "text": "E Moisés ordenou-lhes: “No fim de cada sete anos, precisamente no ano da Remissão, durante a festa das Tendas,",
+      "reference": "Dt 31:10"
+    },
+    "11": {
+      "text": "quando todo Israel vier apresentar-se diante de Iahweh teu Deus no lugar que ele tiver escolhido, tu proclamarás esta Lei aos ouvidos de todo Israel.",
+      "reference": "Dt 31:11"
+    },
+    "12": {
+      "text": "Reúne o povo, os homens e as mulheres, as crianças e o estrangeiro que está em tuas cidades, para que ouçam e aprendam a temer a Iahweh vosso Deus, e cuidem de pôr em prática todas as palavras desta Lei.",
+      "reference": "Dt 31:12"
+    },
+    "13": {
+      "text": "E seus filhos que ainda não sabem ouvirão e aprenderão a temer a Iahweh vosso Deus, todos os dias em que viverdes sobre o solo do qual ides tomar posse ao atravessardes o Jordão”. \\par",
+      "reference": "Dt 31:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Instruções de Iahweh\\par }Iahweh disse então a Moisés: “Eis que os dias da tua morte se aproximam. Chama Josué, e apresentai-vos na Tenda da Reunião, para que eu lhe dê minhas ordens”. Moisés e Josué foram à Tenda da Reunião.",
+      "reference": "Dt 31:14"
+    },
+    "15": {
+      "text": "Iahweh apareceu na Tenda, numa coluna de nuvem; e a coluna de nuvem se deteve à entrada da Tenda. \\par",
+      "reference": "Dt 31:15"
+    },
+    "16": {
+      "text": "Iahweh disse então a Moisés: “Eis que vais descansar com os teus pais, e este povo se levantará para se prostituir com os deuses da terra estrangeira em que está para entrar. Ele vai me abandonar, rompendo a Aliança que com ele concluí.",
+      "reference": "Dt 31:16"
+    },
+    "17": {
+      "text": "Naquele dia minha cólera se inflamará contra ele, e eu os abandonarei e lhes ocultarei a minha face. Então ele será devorado e muitos males e adversidades o atingirão. E naquele dia ele dirá: ‘Se tais males me atingiram, não será porque meu Deus não está mais em meu meio?’",
+      "reference": "Dt 31:17"
+    },
+    "18": {
+      "text": "Sim, naquele dia eu lhes ocultarei completamente a minha face, por causa de todo o mal que ele tiver feito, voltando-se para outros deuses. \\par",
+      "reference": "Dt 31:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i O cântico testemunha\\par }E agora, escrevei este cântico para vós. Ensina-o aos filhos de Israel, coloca-o em sua boca, para que ele seja um testemunho a meu favor contra os filhos de Israel.",
+      "reference": "Dt 31:19"
+    },
+    "20": {
+      "text": "Quando eu o tiver introduzido no solo onde mana leite e mel que, sob juramento, prometi dar aos seus pais, ele comerá e ficará saciado, engordará e se voltará para outros deuses e os servirá, desprezando-me e rompendo a minha Aliança.",
+      "reference": "Dt 31:20"
+    },
+    "21": {
+      "text": "Portanto, quando muitos males e adversidades o tiverem atingido, este cântico deporá contra ele como testemunho, porque não será esquecido nos lábios da sua descendência. Com efeito, sei o desígnio que ele está formando hoje, antes mesmo que eu o introduza na terra que prometi”.",
+      "reference": "Dt 31:21"
+    },
+    "22": {
+      "text": "E naquele mesmo dia Moisés escreveu este cântico e o ensinou aos filhos de Israel. \\par",
+      "reference": "Dt 31:22"
+    },
+    "23": {
+      "text": "Ordenou então a Josué, filho de Nun: “Sê forte e corajoso, pois tu introduzirás os filhos de Israel na terra que eu lhes havia prometido; quanto a mim, eu estarei contigo!” \\par",
+      "reference": "Dt 31:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i A Lei é colocada ao lado da Arca\\par }Quando acabou de escrever num livro esta Lei até o fim,",
+      "reference": "Dt 31:24"
+    },
+    "25": {
+      "text": "Moisés ordenou aos levitas que carregavam a Arca da Aliança de Iahweh:",
+      "reference": "Dt 31:25"
+    },
+    "26": {
+      "text": "“Tomai este livro da Lei e colocai-o ao lado da Arca da Aliança de Iahweh vosso Deus. Ele estará ali como um testemunho contra ti.",
+      "reference": "Dt 31:26"
+    },
+    "27": {
+      "text": "Porque eu conheço o teu espírito rebelde e a tua dura cerviz. Se hoje, enquanto ainda estou vivo convosco, sois rebeldes a Iahweh, quanto mais após a minha morte! \\par",
+      "reference": "Dt 31:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Israel reunido para ouvir o cântico\\par }Reuni junto a mim todos os anciãos das vossas tribos e os vossos escribas, para que eu fale estas palavras aos seus ouvidos, e tome o céu e a terra como testemunhas contra eles.",
+      "reference": "Dt 31:28"
+    },
+    "29": {
+      "text": "Pois eu sei que após a minha morte ireis vos corromper completamente, desviando-vos do caminho que vos ordenei; então o mal vos sobrevirá no futuro, por terdes praticado o que é mau aos olhos de Iahweh, irritando-o com as obras das vossas mãos”. \\par",
+      "reference": "Dt 31:29"
+    },
+    "30": {
+      "text": "A seguir, aos ouvidos de toda a assembléia de Israel, Moisés proclamou integralmente as palavras deste cântico: \\par",
+      "reference": "Dt 31:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

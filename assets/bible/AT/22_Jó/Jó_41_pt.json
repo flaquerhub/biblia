@@ -1,0 +1,117 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 41,
+  "verses": {
+    "1": {
+      "text": "A tua esperança seria ilusória, \\par pois somente o vê-lo atemoriza. \\par",
+      "reference": "Jó 41:1"
+    },
+    "2": {
+      "text": "Não se torna cruel, quando é provocado? \\par Quem lhe resistirá de frente? \\par",
+      "reference": "Jó 41:2"
+    },
+    "3": {
+      "text": "Quem ousou desafiá-lo e ficou ileso? \\par Ninguém, debaixo do céu. \\par",
+      "reference": "Jó 41:3"
+    },
+    "4": {
+      "text": "Não passarei em silêncio seus membros, \\par nem sua força incomparável. \\par",
+      "reference": "Jó 41:4"
+    },
+    "5": {
+      "text": "Quem abriu sua couraça \\par e penetrou por sua dupla armadura? \\par",
+      "reference": "Jó 41:5"
+    },
+    "6": {
+      "text": "Quem abriu as portas de suas fauces, \\par rodeadas de dentes terríveis? \\par",
+      "reference": "Jó 41:6"
+    },
+    "7": {
+      "text": "Seu dorso são fileiras de escudos, \\par soldados com selo tenaz, \\par",
+      "reference": "Jó 41:7"
+    },
+    "8": {
+      "text": "tão unidos uns aos outros, \\par que nem um sopro por ali passa. \\par",
+      "reference": "Jó 41:8"
+    },
+    "9": {
+      "text": "Ligados estreitamente entre si \\par e tão bem conexos, que não se podem separar. \\par",
+      "reference": "Jó 41:9"
+    },
+    "10": {
+      "text": "Seus espirros relampejam faíscas, \\par e seus olhos são como arrebóis da aurora. \\par",
+      "reference": "Jó 41:10"
+    },
+    "11": {
+      "text": "De suas fauces irrompem tochas acesas \\par e saltam centelhas de fogo. \\par",
+      "reference": "Jó 41:11"
+    },
+    "12": {
+      "text": "De suas narinas jorra fumaça, \\par como de caldeira acesa e fervente. \\par",
+      "reference": "Jó 41:12"
+    },
+    "13": {
+      "text": "Seu hálito queima como brasas, \\par e suas fauces lançam chamas. \\par",
+      "reference": "Jó 41:13"
+    },
+    "14": {
+      "text": "Em seu pescoço reside a força, \\par diante dele corre a violência. \\par {\\super (17)} Quando se ergue, as ondas temem \\par e as vagas do mar se afastam. \\par",
+      "reference": "Jó 41:14"
+    },
+    "15": {
+      "text": "Os músculos de sua carne são compactos, \\par são sólidos e não se movem. \\par",
+      "reference": "Jó 41:15"
+    },
+    "16": {
+      "text": "Seu coração é duro como a rocha, \\par sólido como uma pedra molar. \\par",
+      "reference": "Jó 41:16"
+    },
+    "17": {
+      "text": "{\\cf15 [Veja v. 14]}",
+      "reference": "Jó 41:17"
+    },
+    "18": {
+      "text": "A espada que o atinge não resiste, \\par nem a lança, nem o dardo, nem o arpão. \\par",
+      "reference": "Jó 41:18"
+    },
+    "19": {
+      "text": "O ferro para ele é como palha; \\par o bronze, como madeira carcomida. \\par",
+      "reference": "Jó 41:19"
+    },
+    "20": {
+      "text": "A flecha não o afugenta, \\par as pedras da funda são felpas para ele. \\par",
+      "reference": "Jó 41:20"
+    },
+    "21": {
+      "text": "A maça é para ele como lasca, \\par ri-se do sibilo dos dardos. \\par",
+      "reference": "Jó 41:21"
+    },
+    "22": {
+      "text": "Seu ventre coberto de cacos pontudos \\par é uma grade de ferro que se arrasta sobre o lodo. \\par",
+      "reference": "Jó 41:22"
+    },
+    "23": {
+      "text": "Faz ferver o abismo como uma caldeira, \\par e fumegar o mar como um piveteiro. \\par",
+      "reference": "Jó 41:23"
+    },
+    "24": {
+      "text": "Deixa atrás de si uma esteira brilhante, \\par como se o oceano tivesse uma cabeleira branca. \\par",
+      "reference": "Jó 41:24"
+    },
+    "25": {
+      "text": "Na terra ninguém se iguala a ele, \\par pois foi feito para não ter medo. \\par",
+      "reference": "Jó 41:25"
+    },
+    "26": {
+      "text": "Afronta os mais altivos, \\par é rei das feras soberbas. \\par",
+      "reference": "Jó 41:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

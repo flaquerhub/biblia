@@ -1,0 +1,237 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Mulheres que seguem a Jesus\\par }Depois disso, ele andava por cidades e povoados, pregando e anunciando a Boa Nova do Reino de Deus. Os Doze o acompanhavam,",
+      "reference": "Lc 8:1"
+    },
+    "2": {
+      "text": "assim como algumas mulheres que haviam sido curadas de espíritos malignos e doenças: Maria, chamada Madalena, da qual haviam saído sete demônios,",
+      "reference": "Lc 8:2"
+    },
+    "3": {
+      "text": "Joana, mulher de Cuza, o procurador de Herodes, Susana e várias outras, que o serviam com seus bens. \\par",
+      "reference": "Lc 8:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Parábola do semeador\\par }Reunindo-se uma numerosa multidão que de cada cidade vinha até ele, Jesus falou em parábola: \\par",
+      "reference": "Lc 8:4"
+    },
+    "5": {
+      "text": "“O semeador saiu a semear sua semente. Ao semeá-la, uma parte da semente caiu ao longo do caminho, foi pisada e as aves do céu a comeram.",
+      "reference": "Lc 8:5"
+    },
+    "6": {
+      "text": "Outra parte caiu sobre a pedra e, tendo germinado, secou por falta de umidade.",
+      "reference": "Lc 8:6"
+    },
+    "7": {
+      "text": "Outra caiu no meio dos espinhos, e os espinhos, nascendo com ela, abafaram-na.",
+      "reference": "Lc 8:7"
+    },
+    "8": {
+      "text": "Outra parte, finalmente, caiu, em terra fértil, germinou e deu fruto ao cêntuplo”. E, dizendo isso, exclamava: “Quem tem ouvidos para ouvir, ouça!” \\par",
+      "reference": "Lc 8:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Por que Jesus fala em parábolas\\par }Seus discípulos perguntavam-lhe o que significaria tal parábola.",
+      "reference": "Lc 8:9"
+    },
+    "10": {
+      "text": "Ele respondeu: “A vós foi dado conhecer os mistérios do Reino de Deus; aos outros, porém, em parábolas, a fim de que \\par {\\i vejam sem ver \\par e ouçam sem entender.} \\par",
+      "reference": "Lc 8:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Explicação da parábola do semeador\\par }Eis, pois, o que significa essa parábola: A semente é a palavra de Deus.",
+      "reference": "Lc 8:11"
+    },
+    "12": {
+      "text": "Os que estão ao longo do caminho são os que ouvem, mas depois vem o diabo e arrebata-lhes a Palavra do coração, para que não creiam e não sejam salvos.",
+      "reference": "Lc 8:12"
+    },
+    "13": {
+      "text": "Os que estão sobre a pedra são os que, ao ouvirem, acolhem a Palavra com alegria, mas não têm raízes, pois crêem apenas por um momento e na hora da tentação desistem.",
+      "reference": "Lc 8:13"
+    },
+    "14": {
+      "text": "Aquilo que caiu nos espinhos são os que ouviram, mas, caminhando sob o peso dos cuidados, da riqueza e dos prazeres da vida, ficam sufocados e não chegam à maturidade.",
+      "reference": "Lc 8:14"
+    },
+    "15": {
+      "text": "O que está em terra boa são os que, tendo ouvido a Palavra com coração nobre e generoso, conservam-na e produzem fruto pela perseverança. \\par",
+      "reference": "Lc 8:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Como receber e transmitir o ensinamento de Jesus\\par }Ninguém acende uma lâmpada para a cobrir com um recipiente, nem para colocá-la debaixo da cama; ao contrário, coloca-a num candelabro, para que aqueles que entram vejam a luz.",
+      "reference": "Lc 8:16"
+    },
+    "17": {
+      "text": "Pois nada há de oculto que não se torne manifesto, e nada em segredo que não seja conhecido e venha à luz do dia.",
+      "reference": "Lc 8:17"
+    },
+    "18": {
+      "text": "Cuidai, portanto, do modo como ouvis! Pois ao que tem, será dado; e ao que não tem, mesmo o que pensa ter, lhe será tirado”. \\par",
+      "reference": "Lc 8:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Os verdadeiros parentes de Jesus\\par }Sua mãe e seus irmãos chegaram até ele, mas não podiam abordá-lo por causa da multidão.",
+      "reference": "Lc 8:19"
+    },
+    "20": {
+      "text": "Avisaram-no então: “Tua mãe e teus irmãos estão lá fora, querendo te ver”.",
+      "reference": "Lc 8:20"
+    },
+    "21": {
+      "text": "Mas ele respondeu: “Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a põem em prática”. \\par",
+      "reference": "Lc 8:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i A tempestade acalmada\\par }Certo dia, ele subiu a um barco com os discípulos e disse-lhes: “Passemos à outra margem do lago”. E fizeram-se ao largo.",
+      "reference": "Lc 8:22"
+    },
+    "23": {
+      "text": "Enquanto navegavam, ele adormeceu. Desabou então uma tempestade de vento no lago; o barco se enchia de água e eles corriam perigo.",
+      "reference": "Lc 8:23"
+    },
+    "24": {
+      "text": "Aproximando-se dele, despertaram-no dizendo: “Mestre, mestre, estamos perecendo!” Ele, porém, levantando-se, conjurou severamente o vento e o tumulto das ondas; apaziguaram-se e houve bonança.",
+      "reference": "Lc 8:24"
+    },
+    "25": {
+      "text": "Disse-lhes então: “Onde está a vossa fé?” Com medo e espantados, eles diziam entre si: “Quem é esse, que manda até nos ventos e nas ondas, e eles lhe obedecem?” \\par",
+      "reference": "Lc 8:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i O endemoninhado geraseno\\par }Navegaram em direção à região dos gerasenos, que está do lado contrário da Galiléia.",
+      "reference": "Lc 8:26"
+    },
+    "27": {
+      "text": "Ao pisarem terra firme, veio ao seu encontro um homem da cidade, possesso de demônios. Havia muito que andava sem roupas e não habitava em casa alguma, mas em sepulturas. \\par",
+      "reference": "Lc 8:27"
+    },
+    "28": {
+      "text": "Logo que viu a Jesus começou a gritar, caiu-lhe aos pés e disse em alta voz: “Que queres de mim, Jesus, filho do Deus Altíssimo? Peço-te que não me atormentes”.",
+      "reference": "Lc 8:28"
+    },
+    "29": {
+      "text": "Jesus, com efeito, ordenava ao espírito impuro que saísse do homem, pois se apossava dele com freqüência. Para guardá-lo, prendiam-no com grilhões e algemas, mas ele arrebentava as correntes e era impelido pelo demônio para os lugares desertos.",
+      "reference": "Lc 8:29"
+    },
+    "30": {
+      "text": "Jesus perguntou-lhe: “Qual é o teu nome?” – “Legião”, respondeu, porque muitos demônios haviam entrado nele.",
+      "reference": "Lc 8:30"
+    },
+    "31": {
+      "text": "E rogavam-lhe que não os mandasse ir para o abismo. \\par",
+      "reference": "Lc 8:31"
+    },
+    "32": {
+      "text": "Ora, havia ali, pastando na montanha, uma numerosa manada de porcos. Os demônios rogavam que Jesus lhes permitisse entrar nos porcos. E ele o permitiu.",
+      "reference": "Lc 8:32"
+    },
+    "33": {
+      "text": "Os demônios então saíram do homem, entraram nos porcos e a manada se arrojou pelo precipício, dentro do lago, e se afogou. \\par",
+      "reference": "Lc 8:33"
+    },
+    "34": {
+      "text": "Vendo o acontecido, os que apascentavam os porcos fugiram, contando o fato na cidade e pelos campos.",
+      "reference": "Lc 8:34"
+    },
+    "35": {
+      "text": "As pessoas então saíram para ver o que acontecera. Foram até Jesus e encontraram o homem, do qual haviam saído os demônios, sentado aos pés de Jesus, vestido e em são juízo. E ficaram com medo.",
+      "reference": "Lc 8:35"
+    },
+    "36": {
+      "text": "As testemunhas então contaram-lhes como fora salvo o endemoninhado.",
+      "reference": "Lc 8:36"
+    },
+    "37": {
+      "text": "E toda a população do território dos gerasenos pediu que Jesus se retirasse, porque estavam com muito medo. E ele, tomando o barco, voltou. \\par",
+      "reference": "Lc 8:37"
+    },
+    "38": {
+      "text": "O homem do qual haviam saído os demônios pediu para ficar com ele; Jesus, porém, o despediu, dizendo:",
+      "reference": "Lc 8:38"
+    },
+    "39": {
+      "text": "“Volta para tua casa e conta tudo o que Deus fez por ti”. E ele se foi proclamando pela cidade inteira tudo o que Jesus havia feito em seu favor. \\par",
+      "reference": "Lc 8:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i Cura de uma hemorroíssa e ressurreição da filha de Jairo\\par }Ao voltar, Jesus foi acolhido pela multidão, pois todos o esperavam.",
+      "reference": "Lc 8:40"
+    },
+    "41": {
+      "text": "Chegou então um homem chamado Jairo, chefe da sinagoga. Caindo aos pés de Jesus, rogava-lhe que entrasse em sua casa,",
+      "reference": "Lc 8:41"
+    },
+    "42": {
+      "text": "porque sua filha única, de mais ou menos doze anos, estava à morte. Enquanto ele se encaminhava para lá, as multidões se aglomeravam a ponto de sufocá-lo. \\par",
+      "reference": "Lc 8:42"
+    },
+    "43": {
+      "text": "Certa mulher, porém, que sofria de um fluxo de sangue, fazia doze anos, e que ninguém pudera curar,",
+      "reference": "Lc 8:43"
+    },
+    "44": {
+      "text": "aproximou-se por detrás e tocou a extremidade de sua veste; no mesmo instante, o fluxo de sangue parou.",
+      "reference": "Lc 8:44"
+    },
+    "45": {
+      "text": "E Jesus perguntou: “Quem me tocou?” Como todos negassem, Pedro disse: “Mestre, a multidão te comprime e te esmaga”.",
+      "reference": "Lc 8:45"
+    },
+    "46": {
+      "text": "Jesus insistiu: “Alguém me tocou; eu senti que uma força saía de mim”.",
+      "reference": "Lc 8:46"
+    },
+    "47": {
+      "text": "A mulher, vendo que não podia se ocultar, veio tremendo, caiu-lhe aos pés e declarou diante de todos por que razão o tocara, e como ficara instantaneamente curada.",
+      "reference": "Lc 8:47"
+    },
+    "48": {
+      "text": "Ele disse: “Minha filha, tua fé te salvou; vai em paz”. \\par",
+      "reference": "Lc 8:48"
+    },
+    "49": {
+      "text": "Ele ainda falava, quando chegou alguém da casa do chefe da sinagoga e lhe disse: “Tua filha morreu; não perturbes mais o Mestre”.",
+      "reference": "Lc 8:49"
+    },
+    "50": {
+      "text": "Mas Jesus, que havia escutado, disse-lhe: “Não temas; crê somente, e ela será salva”.",
+      "reference": "Lc 8:50"
+    },
+    "51": {
+      "text": "Ao chegar à casa, não deixou que entrassem consigo senão Pedro, João e Tiago, assim como o pai e a mãe da menina.",
+      "reference": "Lc 8:51"
+    },
+    "52": {
+      "text": "Todos choravam e batiam no peito por causa dela. Ele disse: “Não choreis! Ela não morreu; está dormindo”.",
+      "reference": "Lc 8:52"
+    },
+    "53": {
+      "text": "E caçoavam dele, pois sabiam que ela estava morta.",
+      "reference": "Lc 8:53"
+    },
+    "54": {
+      "text": "Ele, porém, tomando-lhe a mão, chamou-a dizendo: “Criança, levanta-te!”",
+      "reference": "Lc 8:54"
+    },
+    "55": {
+      "text": "O espírito dela voltou e, no mesmo instante, ela ficou de pé. E ele mandou que lhe dessem de comer.",
+      "reference": "Lc 8:55"
+    },
+    "56": {
+      "text": "Seus pais ficaram espantados. Ele, porém, ordenou-lhes que a ninguém contassem o que acontecera. \\par",
+      "reference": "Lc 8:56"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 56
+}

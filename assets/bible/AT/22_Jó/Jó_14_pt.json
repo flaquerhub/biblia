@@ -1,0 +1,101 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "O homem, nascido de mulher, \\par tem a vida curta e cheia de tormentos.\\par",
+      "reference": "Jó 14:1"
+    },
+    "2": {
+      "text": "É como a flor que se abre e logo murcha, \\par foge como sombra sem parar. \\par",
+      "reference": "Jó 14:2"
+    },
+    "3": {
+      "text": "E é sobre alguém assim que cravas os olhos \\par e o levas a julgamento contigo? \\par",
+      "reference": "Jó 14:3"
+    },
+    "4": {
+      "text": "Quem fará sair o puro do impuro? \\par Ninguém! \\par",
+      "reference": "Jó 14:4"
+    },
+    "5": {
+      "text": "Se os seus dias já estão determinados \\par e sabes o número de seus meses, \\par se lhe fixaste um limite intransponível, \\par",
+      "reference": "Jó 14:5"
+    },
+    "6": {
+      "text": "desvia dele teus olhos e deixa-o, \\par para terminar o seu dia como o assalariado. \\par",
+      "reference": "Jó 14:6"
+    },
+    "7": {
+      "text": "A árvore tem esperança, \\par pois cortada poderá renascer, \\par e seus ramos continuam a crescer. \\par",
+      "reference": "Jó 14:7"
+    },
+    "8": {
+      "text": "Ainda que envelheçam suas raízes na terra \\par e seu tronco esteja amortecido no solo, \\par",
+      "reference": "Jó 14:8"
+    },
+    "9": {
+      "text": "ao cheiro da água reverdece \\par e produz folhagem, como planta tenra. \\par",
+      "reference": "Jó 14:9"
+    },
+    "10": {
+      "text": "O homem, porém, morre e jaz inerte; \\par expira o mortal, e onde está ele? \\par",
+      "reference": "Jó 14:10"
+    },
+    "11": {
+      "text": "As águas do mar podem sumir, \\par baixar os rios e secar: \\par",
+      "reference": "Jó 14:11"
+    },
+    "12": {
+      "text": "jaz, porém, o homem e não pode levantar-se, \\par os céus se gastariam antes de ele despertar \\par ou ser acordado de seu sono. \\par",
+      "reference": "Jó 14:12"
+    },
+    "13": {
+      "text": "Oxalá me abrigasses no Xeol \\par e lá me escondesses até se aplacar tua ira, \\par e me fixasses um dia para te lembrares de mim: \\par",
+      "reference": "Jó 14:13"
+    },
+    "14": {
+      "text": "pois, se alguém morrer, poderá reviver? \\par Nos dias de minha pena eu espero, \\par até que chegue o meu alívio. \\par",
+      "reference": "Jó 14:14"
+    },
+    "15": {
+      "text": "Tu me chamarias e eu responderia; \\par desejarias rever a obra de tuas mãos, \\par",
+      "reference": "Jó 14:15"
+    },
+    "16": {
+      "text": "– enquanto agora contas todos os meus passos –, \\par e não vigiarias mais meu pecado, \\par",
+      "reference": "Jó 14:16"
+    },
+    "17": {
+      "text": "selarias em uma urna meus delitos \\par e lacrarias minha iniqüidade. \\par",
+      "reference": "Jó 14:17"
+    },
+    "18": {
+      "text": "Mas, igual ao monte que ao cair se desfaz, \\par e ao rochedo que muda de lugar, \\par",
+      "reference": "Jó 14:18"
+    },
+    "19": {
+      "text": "à água que desgasta as pedras, \\par à tormenta que arrasta as terras, \\par assim é a esperança do homem que tu destróis. \\par",
+      "reference": "Jó 14:19"
+    },
+    "20": {
+      "text": "Tu continuamente o abates e ele se some, \\par transtornas o seu semblante e o repeles. \\par",
+      "reference": "Jó 14:20"
+    },
+    "21": {
+      "text": "Seus filhos adquirem honras, mas não o chegará a saber;\\par caem em desonra, mas ele não o percebe.\\par",
+      "reference": "Jó 14:21"
+    },
+    "22": {
+      "text": "Só sente o tormento de sua carne, \\par só sente a pena de sua alma. \\par",
+      "reference": "Jó 14:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

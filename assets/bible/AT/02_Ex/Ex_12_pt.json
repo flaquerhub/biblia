@@ -1,0 +1,217 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A Páscoa\\par }Disse Iahweh a Moisés e a Aarão na terra do Egito:",
+      "reference": "Ex 12:1"
+    },
+    "2": {
+      "text": "“Este mês será para vós o princípio dos meses; será o primeiro mês do ano.",
+      "reference": "Ex 12:2"
+    },
+    "3": {
+      "text": "Falai a toda a comunidade de Israel, dizendo: Aos dez deste mês, cada um tomará para si um cordeiro por família, um cordeiro para cada casa.",
+      "reference": "Ex 12:3"
+    },
+    "4": {
+      "text": "Mas se a família for pequena para um cordeiro, então se juntará com o vizinho mais próximo da sua casa, conforme o número de pessoas. O cordeiro será escolhido na proporção do que cada um puder comer.",
+      "reference": "Ex 12:4"
+    },
+    "5": {
+      "text": "O cordeiro será macho, sem defeito e de um ano. Vós o escolhereis entre os cordeiros ou entre os cabritos,",
+      "reference": "Ex 12:5"
+    },
+    "6": {
+      "text": "e o guardareis até o décimo quarto dia desse mês; e toda a assembléia da comunidade de Israel o imolará ao crepúsculo.",
+      "reference": "Ex 12:6"
+    },
+    "7": {
+      "text": "Tomarão do seu sangue e pô-lo-ão sobre os dois marcos e a travessa da porta, nas casas em que o comerem.",
+      "reference": "Ex 12:7"
+    },
+    "8": {
+      "text": "Naquela noite, comerão a carne assada no fogo; com pães ázimos e ervas amargas a comerão.",
+      "reference": "Ex 12:8"
+    },
+    "9": {
+      "text": "Não comereis dele nada cru, nem cozido na água, mas assado ao fogo: a cabeça, as pernas e a fressura.",
+      "reference": "Ex 12:9"
+    },
+    "10": {
+      "text": "Nada ficará dele até pela manhã; o que, porém, ficar até pela manhã, queimá-lo-eis no fogo.",
+      "reference": "Ex 12:10"
+    },
+    "11": {
+      "text": "É assim que devereis comê-lo: com os rins cingidos, sandálias nos pés e vara na mão; comê-lo-eis às pressas: é uma páscoa para Iahweh.",
+      "reference": "Ex 12:11"
+    },
+    "12": {
+      "text": "E naquela noite eu passarei pela terra do Egito e ferirei na terra do Egito todos os primogênitos, desde os homens até os animais; e eu, Iahweh, farei justiça sobre todos os deuses do Egito.",
+      "reference": "Ex 12:12"
+    },
+    "13": {
+      "text": "O sangue, porém, será para vós um sinal nas casas em que estiverdes: quando eu vir o sangue, passarei adiante e não haverá entre vós o flagelo destruidor, quando eu ferir a terra do Egito.",
+      "reference": "Ex 12:13"
+    },
+    "14": {
+      "text": "Este dia será para vós um memorial, e o celebrareis como uma festa para Iahweh; nas vossas gerações a festejareis; é um decreto perpétuo. \\par",
+      "reference": "Ex 12:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i A Festa dos Ázimos\\par }Durante sete dias comereis pães ázimos. Desde o primeiro dia tirareis o fermento das vossas casas, pois todo o que comer algo fermentado, desde o primeiro dia até o sétimo, essa pessoa será eliminada de Israel.",
+      "reference": "Ex 12:15"
+    },
+    "16": {
+      "text": "No primeiro dia tereis uma santa assembléia e, no sétimo dia, uma santa assembléia; nenhuma obra se fará neles, e vós preparareis somente o que cada um deve comer.",
+      "reference": "Ex 12:16"
+    },
+    "17": {
+      "text": "Observareis, pois, a festa dos Ázimos, porque nesse dia é que fiz o vosso exército sair da terra do Egito. Vós observareis este dia em vossas gerações, é um decreto perpétuo.",
+      "reference": "Ex 12:17"
+    },
+    "18": {
+      "text": "No primeiro mês, no dia catorze do mês, à tarde, comereis os ázimos até à tarde do dia vinte e um do mesmo mês.",
+      "reference": "Ex 12:18"
+    },
+    "19": {
+      "text": "Durante sete dias não se achará fermento em vossas casas; todo aquele que comer pão fermentado será eliminado da comunidade de Israel, seja ele estrangeiro ou natural do país.",
+      "reference": "Ex 12:19"
+    },
+    "20": {
+      "text": "Não comereis pão fermentado; em todo lugar em que habitardes comereis ázimos”.\\par",
+      "reference": "Ex 12:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Prescrições sobre a Páscoa\\par }Moisés convocou, pois, todos os anciãos de Israel, e disse-lhes: “Ide, tomai um animal do rebanho segundo as vossas famílias e imolai a Páscoa.",
+      "reference": "Ex 12:21"
+    },
+    "22": {
+      "text": "Tomai alguns ramos de hissopo, molhai-os no sangue que estiver na bacia, e marcai a travessa da porta e os seus marcos com o sangue que estiver na bacia; nenhum de vós saia da porta de casa até pela manhã.",
+      "reference": "Ex 12:22"
+    },
+    "23": {
+      "text": "Porque Iahweh passará para ferir os egípcios; e, quando vir o sangue sobre a travessa e sobre os dois marcos, ele passará adiante dessa porta e não permitirá que o Exterminador entre em vossas casas, para vos ferir.",
+      "reference": "Ex 12:23"
+    },
+    "24": {
+      "text": "Observareis esta determinação como um decreto para vós e vossos filhos, para sempre.",
+      "reference": "Ex 12:24"
+    },
+    "25": {
+      "text": "Quando tiverdes entrado na terra que Iahweh vos dará, como ele disse, observareis este rito.",
+      "reference": "Ex 12:25"
+    },
+    "26": {
+      "text": "Quando vossos filhos vos perguntarem: ‘Que rito é este?’,",
+      "reference": "Ex 12:26"
+    },
+    "27": {
+      "text": "respondereis: ‘É o sacrifício da Páscoa para Iahweh que passou adiante das casas dos filhos de Israel no Egito, quando feriu os egípcios, mas livrou as nossas casas’”. Então o povo se ajoelhou e se prostrou.",
+      "reference": "Ex 12:27"
+    },
+    "28": {
+      "text": "Foram-se os filhos de Israel e fizeram isso; como Iahweh ordenara a Moisés e a Aarão, assim fizeram. \\par",
+      "reference": "Ex 12:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i A décima praga: morte dos primogênitos\\par }No meio da noite, Iahweh feriu todos os primogênitos na terra do Egito, desde o primogênito de Faraó, que deveria sentar-se em seu trono, até ao primogênito do cativo, que estava na prisão, e todo o primogênito dos animais.",
+      "reference": "Ex 12:29"
+    },
+    "30": {
+      "text": "Faraó levantou-se de noite, com todos os seus servos e todo o Egito; e houve um grande clamor no Egito, pois não havia casa onde não houvesse um morto.",
+      "reference": "Ex 12:30"
+    },
+    "31": {
+      "text": "Faraó, chamando Moisés e Aarão, naquela mesma noite, disse: “Levantai-vos e saí do meio de meu povo, vós e os filhos de Israel; ide, servi a Iahweh, como tendes dito.",
+      "reference": "Ex 12:31"
+    },
+    "32": {
+      "text": "Levai também vossos rebanhos e vosso gado, como pedistes, parti e abençoai a mim também”.",
+      "reference": "Ex 12:32"
+    },
+    "33": {
+      "text": "Os egípcios pressionavam o povo a que saísse depressa do país, dizendo: “Morreremos todos”.",
+      "reference": "Ex 12:33"
+    },
+    "34": {
+      "text": "O povo levou, pois, a farinha amassada, antes que se levedasse, e as suas amassadeiras atadas em trouxas com seus mantos, sobre os ombros. \\par",
+      "reference": "Ex 12:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b\\i Espoliação dos egípcios\\par }Os filhos de Israel fizeram como Moisés havia dito, e pediram aos egípcios objetos de prata, objetos de ouro e roupas.",
+      "reference": "Ex 12:35"
+    },
+    "36": {
+      "text": "Iahweh fez com que o seu povo encontrasse graça aos olhos dos egípcios, de maneira que estes lhes davam o que pediam; e despojaram os egípcios. \\par",
+      "reference": "Ex 12:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i A partida de Israel\\par }Os filhos de Israel partiram de Ramsés em direção a Sucot, cerca de seiscentos mil homens a pé – somente os homens, sem contar suas famílias.",
+      "reference": "Ex 12:37"
+    },
+    "38": {
+      "text": "Subiu também com eles uma multidão misturada com ovelhas, gado e muitíssimos animais.",
+      "reference": "Ex 12:38"
+    },
+    "39": {
+      "text": "Cozeram pães ázimos com a farinha que haviam levado do Egito, pois a massa não estava levedada: expulsos do Egito, não puderam deter-se e nem preparar provisões para o caminho.",
+      "reference": "Ex 12:39"
+    },
+    "40": {
+      "text": "A estada dos filhos de Israel no Egito durou quatrocentos e trinta anos.",
+      "reference": "Ex 12:40"
+    },
+    "41": {
+      "text": "No mesmo dia em que findavam os quatrocentos e trinta anos, os exércitos de Iahweh saíram do país do Egito.",
+      "reference": "Ex 12:41"
+    },
+    "42": {
+      "text": "Esta noite, durante a qual Iahweh velou para os fazer sair do Egito, deve ser para todos os filhos de Israel uma vigília para Iahweh, em todas as suas gerações. \\par",
+      "reference": "Ex 12:42"
+    },
+    "43": {
+      "text": "\\par {\\qc\\b\\i Prescrições a respeito da Páscoa\\par }Iahweh disse a Moisés e a Aarão: “Eis o ritual da páscoa: nenhum estrangeiro dela comerá.",
+      "reference": "Ex 12:43"
+    },
+    "44": {
+      "text": "Todo escravo, porém, comprado por dinheiro, depois de circuncidado, dela comerá.",
+      "reference": "Ex 12:44"
+    },
+    "45": {
+      "text": "O adventício e o assalariado não comerão dela.",
+      "reference": "Ex 12:45"
+    },
+    "46": {
+      "text": "Há de comer-se numa só casa, e não levareis dessa casa nenhum pedaço de carne. Não quebrareis osso algum.",
+      "reference": "Ex 12:46"
+    },
+    "47": {
+      "text": "Toda a comunidade de Israel a fará.",
+      "reference": "Ex 12:47"
+    },
+    "48": {
+      "text": "Se algum imigrante habita contigo, e quiser celebrar a Páscoa para Iahweh, todos os varões da sua casa deverão ser circuncidados; e então ele poderá celebrá-la, e será como o cidadão do país; nenhum incircunciso, porém, poderá comer dela.",
+      "reference": "Ex 12:48"
+    },
+    "49": {
+      "text": "Haverá uma única lei para o cidadão e para o imigrante que imigrou para o vosso meio”.",
+      "reference": "Ex 12:49"
+    },
+    "50": {
+      "text": "Todos os filhos de Israel fizeram como Iahweh havia ordenado a Moisés e a Aarão.",
+      "reference": "Ex 12:50"
+    },
+    "51": {
+      "text": "Naquele dia Iahweh tirou os filhos de Israel do Egito, segundo os seus exércitos. \\par",
+      "reference": "Ex 12:51"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 51
+}

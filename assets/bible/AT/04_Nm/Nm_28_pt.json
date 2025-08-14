@@ -1,0 +1,137 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Especificações sobre os sacrifícios\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 28:1"
+    },
+    "2": {
+      "text": "“Ordena aos filhos de Israel o seguinte: \\par Tereis o cuidado de me trazer no tempo determinado a minha oferenda, o meu manjar, na forma de oferenda queimada de perfume agradável. \\par",
+      "reference": "Nm 28:2"
+    },
+    "3": {
+      "text": "Tu lhes dirás: Estas são as oferendas queimadas que oferecereis a Iahweh: \\par \\par {\\qc\\b\\i A. Sacrifícios cotidianos\\par } Cada dia, dois cordeiros de um ano, perfeitos, como holocausto perpétuo.",
+      "reference": "Nm 28:3"
+    },
+    "4": {
+      "text": "Oferecerás o primeiro cordeiro em holocausto de manhã e oferecerás o segundo em holocausto no crepúsculo,",
+      "reference": "Nm 28:4"
+    },
+    "5": {
+      "text": "com a oblação de um décimo de medida de flor de farinha amassada em um quarto de medida de azeite virgem.",
+      "reference": "Nm 28:5"
+    },
+    "6": {
+      "text": "É o holocausto perpétuo realizado outrora no monte Sinai, em perfume agradável, uma oferenda queimada a Iahweh.",
+      "reference": "Nm 28:6"
+    },
+    "7": {
+      "text": "A sua libação será de um quarto de medida para cada cordeiro; no santuário será oferecida a libação de bebida fermentada a Iahweh.",
+      "reference": "Nm 28:7"
+    },
+    "8": {
+      "text": "Com o segundo cordeiro farás o holocausto do crepúsculo; farás com a mesma oblação e a mesma libação da manhã, como oferenda queimada em perfume agradável a Iahweh. \\par",
+      "reference": "Nm 28:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i B. O sábado\\par }No dia do sábado, oferecereis dois cordeiros de um ano, perfeitos, e dois décimos de flor de farinha, em oblação, amassada com azeite, e igualmente a sua libação.",
+      "reference": "Nm 28:9"
+    },
+    "10": {
+      "text": "O holocausto do sábado se unirá cada sábado ao holocausto perpétuo, e de igual modo a sua libação. \\par",
+      "reference": "Nm 28:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i C. A neomênia\\par }No começo dos vossos meses oferecereis um holocausto a Iahweh: dois novilhos, um carneiro e sete cordeiros de um ano, perfeitos.",
+      "reference": "Nm 28:11"
+    },
+    "12": {
+      "text": "Para cada novilho, três décimos de flor de farinha, em oblação, amassada com azeite; para cada carneiro, dois décimos de flor de farinha, em oblação, amassada com azeite;",
+      "reference": "Nm 28:12"
+    },
+    "13": {
+      "text": "para cada cordeiro, um décimo de flor de farinha, em oblação, amassada com azeite. É o holocausto oferecido em perfume agradável, oferenda queimada a Iahweh.",
+      "reference": "Nm 28:13"
+    },
+    "14": {
+      "text": "As libações que o acompanham serão de meia medida de vinho para cada novilho, de um terço de medida para cada carneiro e de um quarto de medida para cada cordeiro. Este será, mês após mês, o holocausto do mês, para todos os meses do ano.",
+      "reference": "Nm 28:14"
+    },
+    "15": {
+      "text": "Além do holocausto perpétuo, será oferecido a Iahweh um bode, em sacrifício pelo pecado, com sua libação. \\par",
+      "reference": "Nm 28:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i D. Os Ázimos\\par }No primeiro mês, no décimo quarto dia do mês, é a Páscoa de Iahweh,",
+      "reference": "Nm 28:16"
+    },
+    "17": {
+      "text": "e o décimo quinto dia do mesmo mês é dia de festa. Durante sete dias se comerão ázimos.",
+      "reference": "Nm 28:17"
+    },
+    "18": {
+      "text": "No primeiro dia haverá uma assembléia santa. Não fareis nenhuma obra servil.",
+      "reference": "Nm 28:18"
+    },
+    "19": {
+      "text": "Oferecereis a Iahweh oferendas queimadas em holocausto: dois novilhos, um carneiro e sete cordeiros de um ano, perfeitos.",
+      "reference": "Nm 28:19"
+    },
+    "20": {
+      "text": "A sua oblação, em flor de farinha amassada com azeite, será de três décimos por novilho, de dois décimos por carneiro,",
+      "reference": "Nm 28:20"
+    },
+    "21": {
+      "text": "e de um décimo para cada um dos sete cordeiros.",
+      "reference": "Nm 28:21"
+    },
+    "22": {
+      "text": "E um bode em sacrifício pelo pecado, para fazer o rito de expiação por vós.",
+      "reference": "Nm 28:22"
+    },
+    "23": {
+      "text": "Fareis isto, além do holocausto da manhã, oferecido como holocausto perpétuo.",
+      "reference": "Nm 28:23"
+    },
+    "24": {
+      "text": "Assim fareis cada dia, durante sete dias. É um manjar, uma oferenda queimada em perfume agradável a Iahweh; é oferecido além do holocausto perpétuo e da sua libação correspondente.",
+      "reference": "Nm 28:24"
+    },
+    "25": {
+      "text": "No sétimo dia tereis uma assembléia santa; não fareis nenhuma obra servil. \\par",
+      "reference": "Nm 28:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i E. A festa das Semanas\\par }No dia das primícias, quando oferecerdes a Iahweh uma oblação de frutos novos, na vossa festa das Semanas, tereis assembléia santa; não fareis nenhuma obra servil.",
+      "reference": "Nm 28:26"
+    },
+    "27": {
+      "text": "Oferecereis um holocausto, em perfume agradável a Iahweh: dois novilhos, um carneiro e sete cordeiros de um ano, perfeitos.",
+      "reference": "Nm 28:27"
+    },
+    "28": {
+      "text": "A sua oblação, em flor de farinha amassada com azeite, será de três décimos para cada novilho, de dois décimos para cada carneiro",
+      "reference": "Nm 28:28"
+    },
+    "29": {
+      "text": "e de um décimo para cada um dos sete cordeiros.",
+      "reference": "Nm 28:29"
+    },
+    "30": {
+      "text": "E um bode em sacrifício pelo pecado, para fazer por vós o rito de expiação.",
+      "reference": "Nm 28:30"
+    },
+    "31": {
+      "text": "Fareis isso, além do holocausto perpétuo, da sua oblação e das libações correspondentes. \\par",
+      "reference": "Nm 28:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

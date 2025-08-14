@@ -1,0 +1,89 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Título\\par }Palavras de Jeremias, filho de Helcias, um dos sacerdotes que residiam em Anatot, no território de Benjamim.",
+      "reference": "Jr 1:1"
+    },
+    "2": {
+      "text": "Foi-lhe dirigida a palavra de Iahweh nos dias de Josias, filho de Amon, rei de Judá, no décimo terceiro ano do seu reinado;",
+      "reference": "Jr 1:2"
+    },
+    "3": {
+      "text": "além disso, nos dias de Joaquim, filho de Josias, rei de Judá, até o fim do décimo primeiro ano de Sedecias, filho de Josias, rei de Judá, até à deportação de Jerusalém, no quinto mês. \\par",
+      "reference": "Jr 1:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b {\\i I. Oráculos contra Judá e Jerusalém}\\par 1. NO TEMPO DE JOSIAS\\par }{\\qc\\b\\i Vocação de Jeremias\\par }A palavra de Iahweh me foi dirigida nos seguintes termos: \\par",
+      "reference": "Jr 1:4"
+    },
+    "5": {
+      "text": "Antes mesmo de te formar no ventre materno, eu te conheci; \\par antes que saísses do seio, eu te consagrei. \\par Eu te constituí profeta para as nações. \\par",
+      "reference": "Jr 1:5"
+    },
+    "6": {
+      "text": "Mas eu disse: “Ah! Senhor Iahweh, \\par eis que eu não sei falar, \\par porque sou ainda uma criança!” \\par",
+      "reference": "Jr 1:6"
+    },
+    "7": {
+      "text": "Mas Iahweh me disse: \\par Não digas: “Eu sou ainda uma criança!” \\par Porque a quem eu te enviar, irás, \\par e o que eu te ordenar, falarás. \\par",
+      "reference": "Jr 1:7"
+    },
+    "8": {
+      "text": "Não temas diante deles, \\par porque eu estou contigo para te salvar, \\par oráculo de Iahweh. \\par",
+      "reference": "Jr 1:8"
+    },
+    "9": {
+      "text": "Então Iahweh estendeu a sua mão e tocou-me a boca. \\par E Iahweh me disse: \\par Eis que ponho as minhas palavras em tua boca. \\par",
+      "reference": "Jr 1:9"
+    },
+    "10": {
+      "text": "Vê! Eu te constituo, neste dia, \\par sobre as nações e sobre os reinos, \\par para arrancar e para destruir, \\par para exterminar e para demolir, \\par para construir e para plantar. \\par",
+      "reference": "Jr 1:10"
+    },
+    "11": {
+      "text": "Foi-me dirigida a palavra de Iahweh nos seguintes termos: “O que estás vendo, Jeremias?” Eu respondi: “Vejo um ramo de amendoeira”.",
+      "reference": "Jr 1:11"
+    },
+    "12": {
+      "text": "Então Iahweh me disse: “Viste bem, porque eu estou vigiando sobre a minha palavra para realizá-la”. \\par",
+      "reference": "Jr 1:12"
+    },
+    "13": {
+      "text": "E a palavra de Iahweh foi-me dirigida, uma segunda vez, nestes termos: “O que estás vendo?” Respondi: “Vejo uma panela fervendo, cuja boca está voltada a partir do Norte”. \\par",
+      "reference": "Jr 1:13"
+    },
+    "14": {
+      "text": "E Iahweh me disse: \\par Do Norte derramar-se-á a desgraça \\par sobre todos os habitantes da terra. \\par",
+      "reference": "Jr 1:14"
+    },
+    "15": {
+      "text": "Porque eis que vou convocar \\par todas as tribos dos reinos do Norte, \\par oráculo de Iahweh. \\par Eles virão e cada um deles colocará o seu trono \\par à entrada das portas de Jerusalém, \\par em redor de suas muralhas \\par e contra todas as cidades de Judá. \\par",
+      "reference": "Jr 1:15"
+    },
+    "16": {
+      "text": "Pronunciarei contra eles os meus julgamentos, \\par por toda a sua maldade: \\par porque eles me abandonaram, \\par queimaram incenso a deuses estrangeiros \\par e prostraram-se diante das obras de suas mãos. \\par",
+      "reference": "Jr 1:16"
+    },
+    "17": {
+      "text": "Mas tu cingirás os teus rins, \\par levantar-te-ás e lhes dirás \\par tudo o que eu te ordenar. \\par Não tenhas medo deles, \\par para que eu não te faça ter medo deles. \\par",
+      "reference": "Jr 1:17"
+    },
+    "18": {
+      "text": "Quanto a mim, eis que te coloco, hoje, \\par como uma cidade fortificada, \\par como uma coluna de ferro, \\par como uma muralha de bronze, \\par diante de toda a terra: \\par os reis de Judá, os seus príncipes, \\par os seus sacerdotes e todo o povo da terra. \\par",
+      "reference": "Jr 1:18"
+    },
+    "19": {
+      "text": "Eles lutarão contra ti, \\par mas nada poderão contra ti, \\par porque eu estou contigo \\par – oráculo de Iahweh – \\par para te libertar. \\par",
+      "reference": "Jr 1:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

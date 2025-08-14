@@ -1,0 +1,97 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Portanto, considerem-nos os homens como servidores de Cristo e administradores dos mistérios de Deus.",
+      "reference": "1Co 4:1"
+    },
+    "2": {
+      "text": "Ora, o que se requer dos administradores, é que cada um seja fiel.",
+      "reference": "1Co 4:2"
+    },
+    "3": {
+      "text": "Quanto a mim, pouco me importa ser julgado por vós ou por um tribunal humano. Eu também não julgo a mim mesmo.",
+      "reference": "1Co 4:3"
+    },
+    "4": {
+      "text": "Verdade é que a minha consciência de nada me acusa, mas nem por isto estou justificado; meu juiz é o Senhor.",
+      "reference": "1Co 4:4"
+    },
+    "5": {
+      "text": "Por conseguinte, não julgueis prematuramente, antes que venha o Senhor. Ele porá às claras o que está oculto nas trevas e manifestará os desígnios dos corações. Então cada um receberá de Deus o louvor que lhe for devido. \\par",
+      "reference": "1Co 4:5"
+    },
+    "6": {
+      "text": "Nisso tudo, irmãos, eu me tornei como exemplo juntamente com Apolo por causa de vós, a fim de que aprendais a nosso respeito a máxima: “Não ir além do que está escrito” e ninguém se ensoberbeça, tomando o partido de um contra o outro.",
+      "reference": "1Co 4:6"
+    },
+    "7": {
+      "text": "Pois quem é que te distingue? Que é que possuis que não tenhas recebido? E, se recebeste, por que haverias de te ensoberbecer como se não o tivesses recebido?",
+      "reference": "1Co 4:7"
+    },
+    "8": {
+      "text": "Vós já estais saciados! Já estais ricos! Sem nós, vós vos tornastes reis! Oxalá, de fato, vos tivésseis tornado reis, para que nós também pudéssemos reinar convosco. \\par",
+      "reference": "1Co 4:8"
+    },
+    "9": {
+      "text": "Julgo que Deus nos expôs, a nós, apóstolos, em último lugar, como condenados à morte: fomos dados em espetáculo ao mundo, aos anjos e aos homens.",
+      "reference": "1Co 4:9"
+    },
+    "10": {
+      "text": "Somos loucos por causa de Cristo, vós, porém, sois prudentes em Cristo; somos fracos, vós, porém, sois fortes; vós sois bem considerados, nós, porém, somos desprezados.",
+      "reference": "1Co 4:10"
+    },
+    "11": {
+      "text": "Até o momento presente ainda sofremos fome, sede e nudez; somos maltratados, não temos morada certa",
+      "reference": "1Co 4:11"
+    },
+    "12": {
+      "text": "e fatigamo-nos trabalhando com nossas mãos. Somos amaldiçoados, e bendizemos; somos perseguidos, e suportamos;",
+      "reference": "1Co 4:12"
+    },
+    "13": {
+      "text": "somos caluniados, e consolamos. Até o presente somos considerados como o lixo do mundo, a escória do universo. \\par",
+      "reference": "1Co 4:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Admoestações\\par }Não vos escrevo tais coisas para vos envergonhar, mas para vos admoestar como a filhos bem-amados.",
+      "reference": "1Co 4:14"
+    },
+    "15": {
+      "text": "Com efeito, ainda que tivésseis dez mil pedagogos em Cristo, não teríeis muitos pais, pois fui eu quem pelo Evangelho vos gerou em Cristo Jesus.",
+      "reference": "1Co 4:15"
+    },
+    "16": {
+      "text": "Exorto-vos, portanto: sede meus imitadores.",
+      "reference": "1Co 4:16"
+    },
+    "17": {
+      "text": "Foi em vista disso que vos enviei Timóteo, meu filho amado e fiel no Senhor; ele vos recordará minhas normas de vida em Cristo Jesus, tais como as ensino em toda parte, em todas as Igrejas! \\par",
+      "reference": "1Co 4:17"
+    },
+    "18": {
+      "text": "Julgando que eu não voltaria a ter convosco, alguns se encheram de orgulho.",
+      "reference": "1Co 4:18"
+    },
+    "19": {
+      "text": "Mais, se o Senhor o permitir, em breve irei ter convosco, e tomarei conhecimento não das palavras dos orgulhosos, mas do seu poder.",
+      "reference": "1Co 4:19"
+    },
+    "20": {
+      "text": "Pois o Reino de Deus não consiste em palavras, mas em poder.",
+      "reference": "1Co 4:20"
+    },
+    "21": {
+      "text": "Que preferis? Que eu vos visite com vara ou com amor e em espírito de mansidão? \\par",
+      "reference": "1Co 4:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

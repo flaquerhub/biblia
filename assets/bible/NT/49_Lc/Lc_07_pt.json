@@ -1,0 +1,213 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Cura do servo de um centurião\\par }Quando acabou de transmitir aos ouvidos do povo todas essas palavras, entrou em Cafarnaum.",
+      "reference": "Lc 7:1"
+    },
+    "2": {
+      "text": "Ora, um centurião tinha um servo a quem prezava e que estava doente, à morte.",
+      "reference": "Lc 7:2"
+    },
+    "3": {
+      "text": "Tendo ouvido falar de Jesus, enviou-lhe alguns dos anciãos dos judeus para pedir-lhe que fosse salvar o servo. \\par",
+      "reference": "Lc 7:3"
+    },
+    "4": {
+      "text": "Estes, chegando a Jesus, rogavam-lhe insistentemente: “Ele é digno de que lhe concedas isso,",
+      "reference": "Lc 7:4"
+    },
+    "5": {
+      "text": "pois ama nossa nação, e até nos construiu a sinagoga”.",
+      "reference": "Lc 7:5"
+    },
+    "6": {
+      "text": "Jesus foi com eles. Não estava longe da casa, quando o centurião mandou alguns amigos lhe dizerem: “Senhor, não te incomodes, porque não sou digno de que entres em minha casa;",
+      "reference": "Lc 7:6"
+    },
+    "7": {
+      "text": "nem mesmo me achei digno de ir ao teu encontro. Dize, porém, uma palavra, para que o meu criado seja curado.",
+      "reference": "Lc 7:7"
+    },
+    "8": {
+      "text": "Pois também eu estou sob uma autoridade, e tenho soldados às minhas ordens; e a um digo ‘Vai!’ e ele vai; e a outro ‘Vem!’ e ele vem; e a meu servo ‘Faze isto!’ e ele o faz”.",
+      "reference": "Lc 7:8"
+    },
+    "9": {
+      "text": "Ao ouvir tais palavras, Jesus ficou admirado e, voltando-se para a multidão que o seguia, disse: “Eu vos digo que nem mesmo em Israel encontrei tamanha fé”.",
+      "reference": "Lc 7:9"
+    },
+    "10": {
+      "text": "E, ao voltarem para casa, os enviados encontraram o servo em perfeita saúde. \\par",
+      "reference": "Lc 7:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Ressurreição do filho da viúva de Naim\\par }Ele foi em seguida a uma cidade chamada Naim. Seus discípulos e numerosa multidão caminhavam com ele.",
+      "reference": "Lc 7:11"
+    },
+    "12": {
+      "text": "Ao se aproximar da porta da cidade, coincidiu que levavam a enterrar um morto, filho único de mãe viúva; e grande multidão da cidade estava com ela.",
+      "reference": "Lc 7:12"
+    },
+    "13": {
+      "text": "O Senhor, ao vê-la, ficou comovido e disse-lhe: “Não chores!”.",
+      "reference": "Lc 7:13"
+    },
+    "14": {
+      "text": "Depois, aproximando-se, tocou o esquife, e os que o carregavam pararam. Disse ele, então: “Jovem, eu te ordeno, levanta-te!”",
+      "reference": "Lc 7:14"
+    },
+    "15": {
+      "text": "E o morto sentou-se e começou a falar. E Jesus {\\i o entregou à sua mãe.}",
+      "reference": "Lc 7:15"
+    },
+    "16": {
+      "text": "Todos ficaram com muito medo e glorificavam a Deus, dizendo: “Um grande profeta surgiu entre nós e Deus visitou o seu povo”.",
+      "reference": "Lc 7:16"
+    },
+    "17": {
+      "text": "E essa notícia difundiu-se pela Judéia inteira e por toda a redondeza. \\par",
+      "reference": "Lc 7:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Pergunta de João Batista e testemunho que lhe presta Jesus\\par }Os discípulos de João informaram-no de tudo isso. João, chamando dois deles,",
+      "reference": "Lc 7:18"
+    },
+    "19": {
+      "text": "enviou-os ao Senhor, perguntando: “És tu aquele que há de vir ou devemos esperar um outro?”",
+      "reference": "Lc 7:19"
+    },
+    "20": {
+      "text": "Os homens, chegando junto dele, disseram: “João Batista nos mandou perguntar: ‘És aquele que há de vir ou devemos esperar um outro?’”",
+      "reference": "Lc 7:20"
+    },
+    "21": {
+      "text": "Nesse momento, ele curou a muitos de doenças, de enfermidades, de espíritos malignos, e restituiu a vista a muitos cegos.",
+      "reference": "Lc 7:21"
+    },
+    "22": {
+      "text": "Então lhes respondeu: “Ide contar a João o que estais vindo e ouvindo: {\\i os cegos recuperam a vista,} os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos ressuscitam e {\\i aos pobres é anunciado o Evangelho;}",
+      "reference": "Lc 7:22"
+    },
+    "23": {
+      "text": "e feliz aquele que não ficar escandalizado por causa de mim!” \\par",
+      "reference": "Lc 7:23"
+    },
+    "24": {
+      "text": "Tendo partido os enviados de João, Jesus começou a falar às multidões a respeito de João: “Que fostes ver no deserto? Um caniço agitado pelo vento?",
+      "reference": "Lc 7:24"
+    },
+    "25": {
+      "text": "Mas que fostes ver? Um homem vestido com vestes finas? Ora, os que usam vestes suntuosas e vivem em delícias estão nos palácios reais.",
+      "reference": "Lc 7:25"
+    },
+    "26": {
+      "text": "Então, que fostes ver? Um profeta? Eu vos afirmo que sim, e mais do que um profeta.",
+      "reference": "Lc 7:26"
+    },
+    "27": {
+      "text": "É dele que está escrito: \\par {\\i Eis que eu envio meu mensageiro à tua frente, \\par ele preparará o teu caminho diante de ti.} \\par",
+      "reference": "Lc 7:27"
+    },
+    "28": {
+      "text": "Digo-vos que dentre os nascidos de mulher não há um maior do que João; mas o menor no Reino de Deus é maior do que ele”.",
+      "reference": "Lc 7:28"
+    },
+    "29": {
+      "text": "Todo o povo que o ouviu, e os próprios publicanos, proclamaram a justiça de Deus, recebendo o batismo de João;",
+      "reference": "Lc 7:29"
+    },
+    "30": {
+      "text": "os fariseus e os legistas, porém, não querendo ser batizados por ele, aniquilaram para si próprios o desígnio de Deus. \\par",
+      "reference": "Lc 7:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Julgamento de Jesus sobre sua geração\\par }A quem, pois, hei de comparar os homens desta geração? Com quem se parecem?",
+      "reference": "Lc 7:31"
+    },
+    "32": {
+      "text": "São como crianças sentadas numa praça, a se desafiarem mutuamente: \\par ‘Nós vos tocamos flauta, \\par mas não dançastes! \\par Nós entoamos lamentações, \\par mas não chorastes!’ \\par",
+      "reference": "Lc 7:32"
+    },
+    "33": {
+      "text": "Com efeito, veio João Batista, que não come pão e não bebe vinho, e dizeis: ‘O demônio está nele!’",
+      "reference": "Lc 7:33"
+    },
+    "34": {
+      "text": "Veio o Filho do Homem, que come e bebe, e dizeis: ‘Eis aí um glutão e beberrão, amigo de publicanos e pecadores’.",
+      "reference": "Lc 7:34"
+    },
+    "35": {
+      "text": "Mas a Sabedoria é justificada por todos os seus filhos”. \\par",
+      "reference": "Lc 7:35"
+    },
+    "36": {
+      "text": "\\par {\\qc\\b\\i A pecadora perdoada\\par }Um fariseu convidou-o a comer com ele. Jesus entrou, pois, na casa do fariseu e reclinou-se à mesa.",
+      "reference": "Lc 7:36"
+    },
+    "37": {
+      "text": "Apareceu então uma mulher da cidade, uma pecadora. Sabendo que ela estava à mesa na casa do fariseu, trouxe um frasco de alabastro com perfume. \\par",
+      "reference": "Lc 7:37"
+    },
+    "38": {
+      "text": "E, ficando por detrás, aos pés dele, chorava; e com as lágrimas começou a banhar-lhe os pés, a enxugá-los com os cabelos, a cobri-los de beijos e a ungi-los com o perfume. \\par",
+      "reference": "Lc 7:38"
+    },
+    "39": {
+      "text": "Vendo isso, o fariseu que o havia convidado pôs-se a refletir: “Se este homem fosse profeta, saberia bem quem é a mulher que o toca, porque é uma pecadora!”",
+      "reference": "Lc 7:39"
+    },
+    "40": {
+      "text": "Jesus, porém, tomando a palavra, disse-lhe: “Simão, tenho uma coisa a dizer-te”. – “Fala, mestre”, respondeu ele.",
+      "reference": "Lc 7:40"
+    },
+    "41": {
+      "text": "“Um credor tinha dois devedores; um lhe devia quinhentos denários e outros cinqüenta.",
+      "reference": "Lc 7:41"
+    },
+    "42": {
+      "text": "Como não tivessem com que pagar, perdoou a ambos. Qual dos dois o amará mais?”",
+      "reference": "Lc 7:42"
+    },
+    "43": {
+      "text": "Simão respondeu: “Suponho que aquele ao qual mais perdoou”. Jesus lhe disse: “Julgaste bem”. \\par",
+      "reference": "Lc 7:43"
+    },
+    "44": {
+      "text": "E, voltando-se para a mulher, disse a Simão: “Vês esta mulher? Entrei em tua casa e não me derramaste água nos pés; ela, ao contrário, regou-me os pés com lágrimas e enxugou-os com os cabelos.",
+      "reference": "Lc 7:44"
+    },
+    "45": {
+      "text": "Não me deste um ósculo; ela, porém, desde que eu entrei, não parou de cobrir-me os pés de beijos.",
+      "reference": "Lc 7:45"
+    },
+    "46": {
+      "text": "Não me derramaste óleo na cabeça; ela, ao invés, ungiu-me os pés com perfume.",
+      "reference": "Lc 7:46"
+    },
+    "47": {
+      "text": "Por essa razão, eu te digo, seus numerosos pecados lhe estão perdoados, porque ela demonstrou muito amor. Mas aquele a quem pouco foi perdoado mostra pouco amor”.",
+      "reference": "Lc 7:47"
+    },
+    "48": {
+      "text": "Em seguida, disse à mulher: “Teus pecados estão perdoados”.",
+      "reference": "Lc 7:48"
+    },
+    "49": {
+      "text": "Logo os convivas começaram a refletir: “Quem é este que até perdoa pecados?”",
+      "reference": "Lc 7:49"
+    },
+    "50": {
+      "text": "Ele, porém, disse à mulher: “Tua fé te salvou; vai em paz”. \\par",
+      "reference": "Lc 7:50"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 50
+}

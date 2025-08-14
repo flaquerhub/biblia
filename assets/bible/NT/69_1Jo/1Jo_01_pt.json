@@ -1,0 +1,53 @@
+{
+  "book": 62,
+  "book_name": "1João",
+  "book_abbr": "1Jo",
+  "book_category": "Epístolas Joaninas",
+  "book_english": "1 John",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Introdução}\\par }{\\qc\\b\\i O Verbo encarnado e a comunhão com o Pai e o Filho\\par }O que era desde o princípio, \\par o que ouvimos, \\par o que vimos com nossos olhos, \\par o que contemplamos, \\par e o que nossas mãos apalparam \\par do Verbo da Vida \\par",
+      "reference": "1Jo 1:1"
+    },
+    "2": {
+      "text": "– porque a Vida manifestou-se: \\par nós a vimos e lhes damos testemunho \\par e vos anunciamos a Vida eterna, \\par que estava voltada para o Pai e que nos apareceu – \\par",
+      "reference": "1Jo 1:2"
+    },
+    "3": {
+      "text": "o que vimos e ouvimos vo-lo anunciamos \\par para que estejais também em comunhão conosco. \\par E a nossa comunhão \\par é com o Pai \\par e com o seu Filho Jesus Cristo. \\par",
+      "reference": "1Jo 1:3"
+    },
+    "4": {
+      "text": "E isto vos escrevemos \\par para que a nossa alegria seja completa. \\par",
+      "reference": "1Jo 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b {\\i I. Caminhar na luz}\\par }Esta é a mensagem que ouvimos dele \\par e vos anunciamos: \\par Deus é Luz e nele não há treva alguma. \\par",
+      "reference": "1Jo 1:5"
+    },
+    "6": {
+      "text": "Se dissermos que estamos em comunhão com ele \\par e andamos nas trevas, \\par mentimos e não praticamos a verdade. \\par",
+      "reference": "1Jo 1:6"
+    },
+    "7": {
+      "text": "Mas se caminhamos na luz \\par como ele está na luz, \\par estamos em comunhão uns com os outros, \\par e o sangue de Jesus, seu Filho, \\par nos purifica de todo pecado. \\par \\par {\\qc\\b\\i Primeira condição: romper com o pecado\\par } \\par",
+      "reference": "1Jo 1:7"
+    },
+    "8": {
+      "text": "Se dissermos: “Não temos pecado”, enganamo-nos a nós mesmos \\par e a verdade não está em nós. \\par",
+      "reference": "1Jo 1:8"
+    },
+    "9": {
+      "text": "Se confessarmos nossos pecados, \\par ele, que é fiel e justo, \\par perdoará nossos pecados \\par e nos purificará de toda injustiça. \\par",
+      "reference": "1Jo 1:9"
+    },
+    "10": {
+      "text": "Se dissermos: “Não pecamos”, \\par fazemos dele um mentiroso, \\par e a sua palavra não está em nós. \\par",
+      "reference": "1Jo 1:10"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 10
+}

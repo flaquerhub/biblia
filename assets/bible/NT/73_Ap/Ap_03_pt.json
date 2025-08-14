@@ -1,0 +1,101 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i V. Sardes\\par }Ao Anjo da Igreja em Sardes, escreve: Assim diz aquele que tem os sete Espíritos de Deus e as sete estrelas. Conheço tua conduta: tens fama de estar vivo, mas estás morto.",
+      "reference": "Ap 3:1"
+    },
+    "2": {
+      "text": "Torna-te vigilante e consolida o resto que estava para morrer, pois não achei perfeita a tua conduta diante do meu Deus.",
+      "reference": "Ap 3:2"
+    },
+    "3": {
+      "text": "Lembra-te, portanto, de como recebeste e ouviste, observa-o, e converte-te! Caso não vigies, virei como um ladrão, sem que saibas em que hora venho te surpreender.",
+      "reference": "Ap 3:3"
+    },
+    "4": {
+      "text": "Em Sardes, contudo, há algumas pessoas que não sujaram suas vestes; elas andarão comigo vestidas de branco, pois são dignas.",
+      "reference": "Ap 3:4"
+    },
+    "5": {
+      "text": "O vencedor se trajará com vestes brancas e eu jamais apagarei seu nome do livro da vida. Proclamarei seu nome diante de meu Pai e dos seus Anjos.",
+      "reference": "Ap 3:5"
+    },
+    "6": {
+      "text": "Quem tem ouvidos, ouça o que o Espírito diz às Igrejas.\\par",
+      "reference": "Ap 3:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i VI. Filadélfia\\par }Ao Anjo da Igreja em Filadélfia, escreve: \\par Assim diz o Santo, o Verdadeiro, \\par aquele {\\i que tem a chave de Davi, \\par o que abre e ninguém mais fecha, \\par e fechando, ninguém mais abre.}\\par",
+      "reference": "Ap 3:7"
+    },
+    "8": {
+      "text": "Conheço tua conduta: eis que pus à tua frente uma porta aberta que ninguém poderá fechar, pois tens pouca força, mas guardaste minha palavra e não renegaste meu nome.",
+      "reference": "Ap 3:8"
+    },
+    "9": {
+      "text": "Vou entregar-te alguns da sinagoga de Satanás, que se afirmam judeus mas não são, pois mentem; farei com que venham prostrar-se a teus pés e reconheçam que eu te amo.",
+      "reference": "Ap 3:9"
+    },
+    "10": {
+      "text": "Visto que guardaste minha palavra de perseverança, também eu te guardarei da hora da tentação que virá sobre o mundo inteiro, para colocar à prova os habitantes da terra.",
+      "reference": "Ap 3:10"
+    },
+    "11": {
+      "text": "Venho logo! Segura com firmeza o que tens, para que ninguém tome a tua coroa.",
+      "reference": "Ap 3:11"
+    },
+    "12": {
+      "text": "Quanto ao vencedor, farei dele uma coluna no templo do meu Deus, e daí nunca mais sairá. Escreverei sobre ele o nome do meu Deus e o nome da Cidade do meu Deus – a nova Jerusalém, que desce do céu, de junto do meu Deus – e o meu novo nome.",
+      "reference": "Ap 3:12"
+    },
+    "13": {
+      "text": "Quem tem ouvidos, ouça o que o Espírito diz às Igrejas. \\par",
+      "reference": "Ap 3:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i VII. Laodicéia\\par }Ao Anjo da Igreja em Laodicéia, escreve: Assim fala o Amém, a Testemunha fiel e verdadeira, o Princípio da criação de Deus.",
+      "reference": "Ap 3:14"
+    },
+    "15": {
+      "text": "Conheço tua conduta: não és frio nem quente. Oxalá fosses frio ou quente!",
+      "reference": "Ap 3:15"
+    },
+    "16": {
+      "text": "Assim, porque és morno, nem frio nem quente, estou para te vomitar de minha boca.",
+      "reference": "Ap 3:16"
+    },
+    "17": {
+      "text": "Pois dizes: sou rico, enriqueci-me e de nada mais preciso. Não sabes, porém, que és tu o infeliz: miserável, pobre, cego e nu!",
+      "reference": "Ap 3:17"
+    },
+    "18": {
+      "text": "Aconselho-te a comprar de mim ouro purificado no fogo para que enriqueças, vestes brancas para que te cubras e não apareça a vergonha da tua nudez, e um colírio para que ungias teus olhos e possas enxergar.",
+      "reference": "Ap 3:18"
+    },
+    "19": {
+      "text": "Quanto a mim, {\\i repreendo e educo todos aqueles que amo.} Recobra, pois, o fervor, e converte-te!",
+      "reference": "Ap 3:19"
+    },
+    "20": {
+      "text": "Eis que estou à porta e bato: se alguém ouvir minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo.",
+      "reference": "Ap 3:20"
+    },
+    "21": {
+      "text": "Ao vencedor concederei sentar-se comigo no meu trono, assim como eu também venci e estou sentado com meu Pai em seu trono.",
+      "reference": "Ap 3:21"
+    },
+    "22": {
+      "text": "Quem tem ouvidos, ouça o que o Espírito diz às Igrejas. \\par",
+      "reference": "Ap 3:22"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 22
+}

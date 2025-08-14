@@ -1,0 +1,93 @@
+{
+  "book": 29,
+  "book_name": "Joel",
+  "book_abbr": "Jl",
+  "book_category": "Profético",
+  "book_english": "Joel",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Título\\par }Palavra de Iahweh que foi dirigida a Joel, filho de Fatuel. \\par",
+      "reference": "Jl 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b {\\i I. A praga de gafanhotos}\\par 1. LITURGIA DE LAMENTAÇÃO E DE SÚPLICA\\par }\\par \\par {\\qc\\b\\i Lamentação sobre a desolação do país\\par }Ouvi isto, anciãos, \\par escutai vós, todos os habitantes da terra! \\par Sucedeu, acaso, tal coisa em vossos dias, \\par ou nos dias de vossos pais? \\par",
+      "reference": "Jl 1:2"
+    },
+    "3": {
+      "text": "Contai-o a vossos filhos, \\par vossos filhos a seus filhos, \\par e seus filhos à geração seguinte. \\par",
+      "reference": "Jl 1:3"
+    },
+    "4": {
+      "text": "O que o {\\i gazam} deixou, o gafanhoto o devorou! \\par O que o gafanhoto deixou, o {\\i yeleq} o devorou! \\par O que o {\\i yeleq} deixou, o {\\i hasil} o devorou! \\par",
+      "reference": "Jl 1:4"
+    },
+    "5": {
+      "text": "Despertai, vós bêbados, e chorai! \\par Lamentai-vos, todos os bebedores de vinho, \\par por causa do mosto, pois ele é arrancado de vossa boca! \\par",
+      "reference": "Jl 1:5"
+    },
+    "6": {
+      "text": "Porque um povo subiu contra a minha terra, \\par poderoso e inumerável; \\par seus dentes são dentes de leão, \\par ele tem mandíbulas de leoa. \\par",
+      "reference": "Jl 1:6"
+    },
+    "7": {
+      "text": "Ele transformou a minha vinha em um deserto, \\par e a minha figueira em pedaços; \\par descascou-a completamente e a abateu, \\par seus ramos tornaram-se brancos! \\par",
+      "reference": "Jl 1:7"
+    },
+    "8": {
+      "text": "Lamenta-te, como uma virgem, vestida de saco, \\par sobre o esposo de sua juventude. \\par",
+      "reference": "Jl 1:8"
+    },
+    "9": {
+      "text": "Oblação e libação foram suprimidas \\par da casa de Iahweh. \\par Estão de luto os sacerdotes, \\par servidores de Iahweh. \\par",
+      "reference": "Jl 1:9"
+    },
+    "10": {
+      "text": "O campo está devastado, \\par a terra está de luto, \\par porque o grão está devastado, \\par o mosto falta, \\par o óleo seca. \\par",
+      "reference": "Jl 1:10"
+    },
+    "11": {
+      "text": "Envergonhai-vos, agricultores, \\par lamentai-vos, viticultores, \\par por causa do trigo e da cevada, \\par pois a colheita do campo está perdida. \\par",
+      "reference": "Jl 1:11"
+    },
+    "12": {
+      "text": "A vinha está seca \\par e a figueira está murcha; \\par romãzeira, tamareira, macieira, \\par todas as árvores do campo secaram. \\par Sim, a alegria desapareceu \\par do meio dos homens. \\par",
+      "reference": "Jl 1:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Apelo à penitência e à oração\\par }Cingi-vos e lamentai-vos, sacerdotes, \\par chorai ministros do altar! \\par Vinde, passai a noite vestidos de saco, \\par ministros do meu Deus! \\par Porque foram afastadas da casa de vosso Deus \\par a oblação e a libação. \\par",
+      "reference": "Jl 1:13"
+    },
+    "14": {
+      "text": "Ordenai um jejum, \\par convocai uma assembléia, \\par reuni, anciãos, \\par todos os habitantes da terra, \\par na casa de Iahweh vosso Deus, \\par e clamai a Iahweh: \\par",
+      "reference": "Jl 1:14"
+    },
+    "15": {
+      "text": "Ai! Que dia! \\par Sim, está próximo o dia de Iahweh, \\par ele chega como uma devastação vinda de {\\i Shaddai.}\\par",
+      "reference": "Jl 1:15"
+    },
+    "16": {
+      "text": "Não desapareceu o alimento \\par aos nossos olhos \\par a alegria e o júbilo \\par da casa de nosso Deus? \\par",
+      "reference": "Jl 1:16"
+    },
+    "17": {
+      "text": "Os grãos ressecaram \\par sob as suas glebas, \\par os silos foram devastados, \\par os celeiros demolidos, \\par porque o trigo está seco. \\par",
+      "reference": "Jl 1:17"
+    },
+    "18": {
+      "text": "Como geme o gado! \\par Os rebanhos de bois andam errantes, \\par porque não há pasto para eles. \\par Até mesmo os rebanhos de ovelhas padecem. \\par",
+      "reference": "Jl 1:18"
+    },
+    "19": {
+      "text": "A ti, Iahweh, eu clamo, \\par porque o fogo devorou as pastagens da estepe \\par e a chama consumiu todas as árvores do campo. \\par",
+      "reference": "Jl 1:19"
+    },
+    "20": {
+      "text": "Até mesmo os animais selvagens gritam a ti, \\par porque secaram os ribeiros \\par e o fogo devorou as pastagens da estepe. \\par",
+      "reference": "Jl 1:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

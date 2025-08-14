@@ -1,0 +1,129 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Iahweh disse a Moisés: “Eis que te fiz como um deus para Faraó, e Aarão, teu irmão, será o teu profeta.",
+      "reference": "Ex 7:1"
+    },
+    "2": {
+      "text": "Falarás tudo o que eu ordenar; e Aarão, teu irmão, falará a Faraó, para que deixe partir da sua terra os filhos de Israel.",
+      "reference": "Ex 7:2"
+    },
+    "3": {
+      "text": "Eu, porém, endurecerei o coração de Faraó, e multiplicarei no país do Egito os meus sinais e os meus prodígios.",
+      "reference": "Ex 7:3"
+    },
+    "4": {
+      "text": "Faraó não vos ouvirá; e eu porei a minha mão sobre o Egito, e farei sair do país do Egito os meus exércitos, o meu povo, os filhos de Israel, com grandes julgamentos.",
+      "reference": "Ex 7:4"
+    },
+    "5": {
+      "text": "Saberão os egípcios que eu sou Iahweh, quando estender minha mão sobre o Egito e fizer sair do meio deles os filhos de Israel”. \\par",
+      "reference": "Ex 7:5"
+    },
+    "6": {
+      "text": "Moisés e Aarão fizeram como Iahweh ordenara.",
+      "reference": "Ex 7:6"
+    },
+    "7": {
+      "text": "Moisés tinha oitenta anos, e Aarão oitenta e três, quando falaram a Faraó. \\par",
+      "reference": "Ex 7:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b 3. AS PRAGAS DO EGITO. A PÁSCOA\\par }{\\qc\\b\\i A vara transformada em cobra\\par }Disse Iahweh a Moisés e a Aarão:",
+      "reference": "Ex 7:8"
+    },
+    "9": {
+      "text": "“Se Faraó vos disser: ‘Apresentai um prodígio em vosso favor’, então dirás a Aarão: ‘Toma a tua vara e lança-a diante de Faraó; e ela se transformará em cobra’”.",
+      "reference": "Ex 7:9"
+    },
+    "10": {
+      "text": "Moisés e Aarão foram a Faraó, e fizeram como Iahweh ordenara. Lançou Aarão a sua vara diante de Faraó e diante dos seus servos, e ela se transformou em cobra.",
+      "reference": "Ex 7:10"
+    },
+    "11": {
+      "text": "Faraó, porém, convocou os sábios e os encantadores de cobras. Ora, também eles, os magos do Egito, com suas ciências ocultas, fizeram o mesmo.",
+      "reference": "Ex 7:11"
+    },
+    "12": {
+      "text": "Pois lançou cada um a sua vara, e elas se tornaram cobras. Mas a vara de Aarão devorou as varas deles.",
+      "reference": "Ex 7:12"
+    },
+    "13": {
+      "text": "Contudo, o coração de Faraó se endureceu e não os ouviu, como Iahweh havia predito. \\par",
+      "reference": "Ex 7:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i I. A água transformada em sangue\\par }Disse Iahweh a Moisés: “O coração de Faraó está obstinado: ele se recusou a deixar o povo partir.",
+      "reference": "Ex 7:14"
+    },
+    "15": {
+      "text": "Vai a Faraó, pela manhã: eis que ele sairá às águas; e estarás à espera dele na margem do Rio. Tomarás na mão a vara que se transformou em cobra.",
+      "reference": "Ex 7:15"
+    },
+    "16": {
+      "text": "Tu lhe dirás: ‘Iahweh, o Deus dos hebreus, me enviou a ti para te dizer: Deixa o meu povo partir, para que me sirva no deserto’. E eis que até agora não tens ouvido.",
+      "reference": "Ex 7:16"
+    },
+    "17": {
+      "text": "Assim disse Iahweh: ‘Nisto saberás que eu sou Iahweh: – com esta vara que tenho na mão ferirei as águas do Rio, e elas se converterão em sangue;",
+      "reference": "Ex 7:17"
+    },
+    "18": {
+      "text": "os peixes do Rio morrerão, o Rio cheirará mal, e os egípcios não poderão mais beber das águas do Rio’”. \\par",
+      "reference": "Ex 7:18"
+    },
+    "19": {
+      "text": "Disse Iahweh a Moisés: “Dize a Aarão: ‘Toma a tua vara e estende a tua mão sobre as águas do Egito, sobre os seus rios, sobre os seus canais, sobre as suas lagoas e sobre todos os seus reservatórios, para que se convertam em sangue. Haja sangue em toda a terra do Egito, até nas árvores e nas pedras’”.",
+      "reference": "Ex 7:19"
+    },
+    "20": {
+      "text": "Moisés e Aarão fizeram como Iahweh lhes havia ordenado. – Ele levantou a vara, feriu as águas que estavam no Rio, aos olhos de Faraó e dos seus servos; e toda a água do Rio se converteu em sangue.",
+      "reference": "Ex 7:20"
+    },
+    "21": {
+      "text": "Os peixes do Rio morreram. O Rio poluiu-se, e os egípcios não podiam beber a água do Rio. E houve sangue por todo o país do Egito.",
+      "reference": "Ex 7:21"
+    },
+    "22": {
+      "text": "Os magos do Egito, porém, com suas ciências ocultas, fizeram o mesmo: o coração de Faraó se endureceu e não os ouviu, como Iahweh havia dito.",
+      "reference": "Ex 7:22"
+    },
+    "23": {
+      "text": "Virou-se Faraó e foi para casa; e nem isso considerou o seu coração.",
+      "reference": "Ex 7:23"
+    },
+    "24": {
+      "text": "Todos os egípcios cavaram nos arredores do Rio para encontrar água potável; pois não podiam beber a água do Rio.",
+      "reference": "Ex 7:24"
+    },
+    "25": {
+      "text": "Passaram-se sete dias, depois que Iahweh feriu o Rio. \\par",
+      "reference": "Ex 7:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i II. As rãs\\par }Disse Iahweh a Moisés: “Vai ter com Faraó e dize-lhe: ‘Assim fala Iahweh: Deixa o meu povo partir, para que me sirva.",
+      "reference": "Ex 7:26"
+    },
+    "27": {
+      "text": "Se te recusares a deixá-lo partir, eis que infestarei de rãs todo o teu território.",
+      "reference": "Ex 7:27"
+    },
+    "28": {
+      "text": "O Rio ferverá de rãs, e elas subirão e entrarão na tua casa, no teu quarto de dormir, sobre o teu leito, e nas casas dos teus servos e do teu povo, e nos teus fornos e amassadeiras.",
+      "reference": "Ex 7:28"
+    },
+    "29": {
+      "text": "As rãs virão sobre ti, sobre o teu povo e sobre todos os teus servos’”. \\par",
+      "reference": "Ex 7:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

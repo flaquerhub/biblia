@@ -1,0 +1,137 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i De Etam ao mar dos Juncos\\par }Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 14:1"
+    },
+    "2": {
+      "text": "“Dize aos filhos de Israel que retrocedam e acampem diante de Piairot, entre Magdol e o mar, diante de Baal Sefon; vós acampareis diante deste lugar, junto ao mar.",
+      "reference": "Ex 14:2"
+    },
+    "3": {
+      "text": "Pois Faraó há de dizer acerca dos filhos de Israel: ‘Eis que erram pelo país; o deserto os encerrou’.",
+      "reference": "Ex 14:3"
+    },
+    "4": {
+      "text": "E eu endurecerei o coração de Faraó, e ele os perseguirá, e serei glorificado em Faraó e em todo o seu exército; e os egípcios saberão que eu sou Iahweh”. E eles assim fizeram. \\par",
+      "reference": "Ex 14:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Os egípcios perseguem Israel\\par }Sendo, pois, anunciado ao rei do Egito que o povo tinha fugido, mudou-se o coração de Faraó e dos seus servos contra o povo. Eles disseram: “Que é isto que fizemos, deixando Israel sair de nosso serviço?”",
+      "reference": "Ex 14:5"
+    },
+    "6": {
+      "text": "Faraó mandou aprontar o seu carro e tomou consigo o seu povo;",
+      "reference": "Ex 14:6"
+    },
+    "7": {
+      "text": "tomou seiscentos carros escolhidos e todos os carros do Egito, com oficiais sobre todos eles.",
+      "reference": "Ex 14:7"
+    },
+    "8": {
+      "text": "E Iahweh endureceu o coração de Faraó, rei do Egito, e este perseguiu os filhos de Israel, enquanto saíam de braço erguido.",
+      "reference": "Ex 14:8"
+    },
+    "9": {
+      "text": "Os egípcios perseguiram-nos, com todos os cavalos e carros de Faraó, e os cavaleiros e o seu exército, e os alcançaram acampados junto ao mar, perto de Piairot, diante de Baal Sefon.",
+      "reference": "Ex 14:9"
+    },
+    "10": {
+      "text": "Quando Faraó se aproximou, os filhos de Israel levantaram os olhos e eis que os egípcios vinham atrás deles. Tiveram grande medo. E então os filhos de Israel clamaram a Iahweh.",
+      "reference": "Ex 14:10"
+    },
+    "11": {
+      "text": "Disseram a Moisés: “Não havia talvez sepulturas no Egito, e por isso nos tiraste de lá para morrermos no deserto? Por que nos trataste assim, fazendo-nos sair do Egito?",
+      "reference": "Ex 14:11"
+    },
+    "12": {
+      "text": "Não é isto que te dizíamos no Egito: Deixa-nos, para que sirvamos aos egípcios? Pois, melhor nos fora servir aos egípcios do que morrermos no deserto”.",
+      "reference": "Ex 14:12"
+    },
+    "13": {
+      "text": "Moisés disse ao povo: “Não temais; permanecei firmes e vereis o que Iahweh fará hoje para vos salvar; porque os egípcios, que hoje vedes, nunca mais os tornareis a ver.",
+      "reference": "Ex 14:13"
+    },
+    "14": {
+      "text": "Iahweh combaterá por vós e vós ficareis tranqüilos”. \\par",
+      "reference": "Ex 14:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i O milagre do mar\\par }Iahweh disse a Moisés: “Por que clamas por mim? Dize aos filhos de Israel que marchem.",
+      "reference": "Ex 14:15"
+    },
+    "16": {
+      "text": "E tu, levanta a tua vara, estende a mão sobre o mar e divide-o, para que os filhos de Israel caminhem em seco pelo meio do mar.",
+      "reference": "Ex 14:16"
+    },
+    "17": {
+      "text": "Eu endureci o coração dos egípcios para que vos sigam e serei glorificado em Faraó e em todo o seu exército, nos seus carros e cavaleiros.",
+      "reference": "Ex 14:17"
+    },
+    "18": {
+      "text": "E os egípcios saberão que eu sou Iahweh, quando for glorificado em Faraó, nos seus carros e nos seus cavaleiros”. \\par",
+      "reference": "Ex 14:18"
+    },
+    "19": {
+      "text": "Então o anjo de Deus, que ia adiante do exército de Israel, se retirou e passou para trás deles. Também a coluna de nuvem se retirou de diante deles e se pôs atrás,",
+      "reference": "Ex 14:19"
+    },
+    "20": {
+      "text": "ficando entre o acampamento dos egípcios e o acampamento de Israel. A nuvem era tenebrosa, e a noite passou sem que um pudesse se aproximar do outro durante toda a noite.",
+      "reference": "Ex 14:20"
+    },
+    "21": {
+      "text": "Então Moisés estendeu a mão sobre o mar. E Iahweh, por um forte vento oriental que soprou toda aquela noite, fez o mar se retirar. Este se tornou terra seca, e as águas foram divididas.",
+      "reference": "Ex 14:21"
+    },
+    "22": {
+      "text": "Os filhos de Israel entraram pelo meio do mar em seco; e as águas formaram como um muro à sua direita e à sua esquerda.",
+      "reference": "Ex 14:22"
+    },
+    "23": {
+      "text": "Os egípcios que os perseguiam entraram atrás deles, todos os cavalos de Faraó, os seus carros e os seus cavaleiros, até ao meio do mar.",
+      "reference": "Ex 14:23"
+    },
+    "24": {
+      "text": "Na vigília da manhã, Iahweh, da coluna de fogo e da nuvem, viu o acampamento dos egípcios, e lançou a confusão no acampamento dos egípcios.",
+      "reference": "Ex 14:24"
+    },
+    "25": {
+      "text": "Ele emperrou as rodas dos seus carros, e fê-los andar com dificuldade. Então, os egípcios disseram: “Fujamos da presença de Israel, porque Iahweh combate a favor deles contra os egípcios”.",
+      "reference": "Ex 14:25"
+    },
+    "26": {
+      "text": "Iahweh disse a Moisés: “Estende a mão sobre o mar, para que as águas se voltem contra os egípcios, sobre os seus carros e sobre os seus cavaleiros”.",
+      "reference": "Ex 14:26"
+    },
+    "27": {
+      "text": "Moisés estendeu a mão sobre o mar e este, ao romper da manhã, voltou para o seu leito. Os egípcios, ao fugir, foram de encontro a ele. E Iahweh derribou os egípcios no meio do mar.",
+      "reference": "Ex 14:27"
+    },
+    "28": {
+      "text": "As águas voltaram e cobriram os carros e cavaleiros de todo o exército de Faraó, que os haviam seguido no mar; e não escapou um só deles.",
+      "reference": "Ex 14:28"
+    },
+    "29": {
+      "text": "Os filhos de Israel, porém, passaram pelo meio do mar em seco; e as águas eram para eles como um muro à direita e à esquerda.",
+      "reference": "Ex 14:29"
+    },
+    "30": {
+      "text": "Naquele dia, Iahweh salvou Israel das mãos dos egípcios, e Israel viu os egípcios mortos à beira-mar.",
+      "reference": "Ex 14:30"
+    },
+    "31": {
+      "text": "Israel viu o grande poder que Iahweh havia mostrado contra eles. E o povo temeu a Iahweh, e creram em Iahweh e em Moisés, seu servo. \\par",
+      "reference": "Ex 14:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

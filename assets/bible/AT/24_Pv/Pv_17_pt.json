@@ -1,0 +1,125 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "É melhor um pedaço de pão seco e a tranqüilidade \\par do que uma casa cheia de sacrifícios de discórdia. \\par",
+      "reference": "Pv 17:1"
+    },
+    "2": {
+      "text": "O servo prudente se imporá ao filho indigno, \\par com os irmãos ele terá parte na herança. \\par",
+      "reference": "Pv 17:2"
+    },
+    "3": {
+      "text": "A prata no forno, o ouro no crisol, \\par mas é Iahweh que prova o coração. \\par",
+      "reference": "Pv 17:3"
+    },
+    "4": {
+      "text": "O mau fica atento aos lábios perniciosos, \\par o mentiroso dá ouvidos à língua perversa. \\par",
+      "reference": "Pv 17:4"
+    },
+    "5": {
+      "text": "Quem zomba do pobre ultraja seu Criador, \\par quem ri de um infeliz não ficará impune. \\par",
+      "reference": "Pv 17:5"
+    },
+    "6": {
+      "text": "Coroa dos anciãos são os netos, \\par honra dos filhos são os pais. \\par",
+      "reference": "Pv 17:6"
+    },
+    "7": {
+      "text": "Uma língua distinta não vai com o estúpido, \\par menos ainda, com o príncipe, uma língua mentirosa. \\par",
+      "reference": "Pv 17:7"
+    },
+    "8": {
+      "text": "O suborno é talismã para quem o dá: \\par para qualquer lado que se volte tem sucesso. \\par",
+      "reference": "Pv 17:8"
+    },
+    "9": {
+      "text": "Quem busca amizade encobre a ofensa, \\par quem a diz e repete afasta o amigo. \\par",
+      "reference": "Pv 17:9"
+    },
+    "10": {
+      "text": "Uma repreensão causa mais impressão no homem inteligente \\par do que cem golpes em um insensato. \\par",
+      "reference": "Pv 17:10"
+    },
+    "11": {
+      "text": "O malvado só procura rebelião, \\par mas o mensageiro cruel será enviado contra ele. \\par",
+      "reference": "Pv 17:11"
+    },
+    "12": {
+      "text": "É melhor encontrar uma ursa sem os filhotes \\par do que um insensato em sua estultícia. \\par",
+      "reference": "Pv 17:12"
+    },
+    "13": {
+      "text": "A quem retribui o bem com o mal, \\par a desgraça não se afastará de sua casa. \\par",
+      "reference": "Pv 17:13"
+    },
+    "14": {
+      "text": "É deixar correr as águas, o princípio da discórdia; \\par antes de abrir um processo, desiste. \\par",
+      "reference": "Pv 17:14"
+    },
+    "15": {
+      "text": "Absolver o ímpio e condenar o justo: \\par ambas as coisas são abominação para Iahweh. \\par",
+      "reference": "Pv 17:15"
+    },
+    "16": {
+      "text": "De que serve ao insensato ter dinheiro? \\par Para adquirir a sabedoria? Se não tem coração! \\par",
+      "reference": "Pv 17:16"
+    },
+    "17": {
+      "text": "Em toda ocasião ama o amigo, \\par um irmão nasce para o perigo. \\par",
+      "reference": "Pv 17:17"
+    },
+    "18": {
+      "text": "É falta de juízo quem aperta a mão, \\par ficando como fiador do vizinho. \\par",
+      "reference": "Pv 17:18"
+    },
+    "19": {
+      "text": "Quem ama a rebelião ama o delito, \\par e quem se mostra orgulhoso cultiva a ruína. \\par",
+      "reference": "Pv 17:19"
+    },
+    "20": {
+      "text": "Coração tortuoso não encontra felicidade, \\par e língua perversa cai na desgraça. \\par",
+      "reference": "Pv 17:20"
+    },
+    "21": {
+      "text": "Quem gera um insensato terá sofrimentos, \\par o pai de um estúpido não terá alegria! \\par",
+      "reference": "Pv 17:21"
+    },
+    "22": {
+      "text": "Coração alegre, corpo contente; \\par espírito abatido, ossos secos. \\par",
+      "reference": "Pv 17:22"
+    },
+    "23": {
+      "text": "O ímpio aceita um suborno debaixo do manto, \\par para distorcer o direito. \\par",
+      "reference": "Pv 17:23"
+    },
+    "24": {
+      "text": "O homem inteligente olha de frente a sabedoria, \\par mas os olhos do insensato olham para o fim do mundo. \\par",
+      "reference": "Pv 17:24"
+    },
+    "25": {
+      "text": "O filho insensato é preocupação para o pai \\par e amargura para mãe. \\par",
+      "reference": "Pv 17:25"
+    },
+    "26": {
+      "text": "Não é bom multar o justo, \\par e açoitar os nobres é contrário ao direito. \\par",
+      "reference": "Pv 17:26"
+    },
+    "27": {
+      "text": "Quem retém suas palavras tem conhecimento, \\par um espírito frio é um homem inteligente. \\par",
+      "reference": "Pv 17:27"
+    },
+    "28": {
+      "text": "Mesmo o estulto, quando se cala, passa por sábio, \\par por inteligente, aquele que fecha os lábios. \\par",
+      "reference": "Pv 17:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

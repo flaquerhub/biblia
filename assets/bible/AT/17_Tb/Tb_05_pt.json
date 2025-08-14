@@ -1,0 +1,101 @@
+{
+  "book": 67,
+  "book_name": "Tobias",
+  "book_abbr": "Tb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Tobit",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i V. O companheiro}\\par }Então Tobias respondeu a seu pai Tobit: “Pai, farei tudo quanto me ordenaste.",
+      "reference": "Tb 5:1"
+    },
+    "2": {
+      "text": "Mas como poderei recuperar esse dinheiro? Ele não me conhece e nem eu a ele. Que sinal lhe darei para que ele me reconheça, creia em mim e me entregue o dinheiro? Além disso, não sei que caminho tomar para chegar à Média”.",
+      "reference": "Tb 5:2"
+    },
+    "3": {
+      "text": "Tobit então respondeu a seu filho Tobias: “Ele me deu seu documento, e eu lhe dei o meu; eu o dividi em dois para que cada um de nós ficasse com a metade. Tomei uma e deixei a outra com o dinheiro. E dizer que já faz vinte anos que depositei esse dinheiro! Agora, meu filho, procura um homem de confiança para teu companheiro de viagem e lhe pagaremos pelo seu trabalho até a tua volta; vai e recupera esse dinheiro junto a Gabael”. \\par",
+      "reference": "Tb 5:3"
+    },
+    "4": {
+      "text": "Tobias saiu em busca de alguém que conhecesse o caminho e que fosse com ele à Média. Ao sair, encontrou Rafael, o anjo, de pé diante dele; mas não sabia que era um anjo de Deus.",
+      "reference": "Tb 5:4"
+    },
+    "5": {
+      "text": "Disse-lhe, pois: “De onde és, jovem?” Respondeu-lhe: “Sou um dos filhos de Israel, teus irmãos, e vim procurar trabalho”. Perguntou-lhe Tobias: “Conheces o caminho da Média?”",
+      "reference": "Tb 5:5"
+    },
+    "6": {
+      "text": "“Sim”, respondeu ele; “já estive lá muitas vezes e conheço em detalhe todos os caminhos. Fui à Média com freqüência e hospedei-me na casa de Gabael, nosso irmão, que mora em Rages, na Média. São dois dias de viagem entre Ecbátana e Rages, pois Rages está situada na montanha e Ecbátana na planície”.",
+      "reference": "Tb 5:6"
+    },
+    "7": {
+      "text": "Disse-lhe Tobias: “Espera-me, jovem, que eu vou informar meu pai, porque preciso que venhas comigo; pagar-te-ei teu salário”.",
+      "reference": "Tb 5:7"
+    },
+    "8": {
+      "text": "Respondeu o outro: “Fico esperando, mas não demores”. \\par",
+      "reference": "Tb 5:8"
+    },
+    "9": {
+      "text": "Tobias foi informar seu pai e disse-lhe: “Encontrei um homem, que é dos filhos de Israel, irmão nosso”. E seu pai lhe disse: “Chama-o aqui, para que eu saiba a que família pertence e se é digno de confiança para que te acompanhe, filho”. Tobias saiu, chamou-o e disse-lhe: “Jovem, meu pai está te chamando”. \\par",
+      "reference": "Tb 5:9"
+    },
+    "10": {
+      "text": "O anjo entrou na casa e Tobit o saudou por primeiro. Ele respondeu: “Desejo-te grande alegria”. Disse Tobit: “Que alegria posso ainda ter? Estou cego e não posso ver a luz do céu; estou mergulhado nas trevas como os mortos que não contemplam a luz; vivo como um morto; ouço a voz das pessoas, mas não as vejo”. Disse-lhe o anjo: “Tem confiança, que Deus em breve te curará. Tem confiança!” Tobit lhe disse: “Meu filho Tobias quer ir à Média. Podes ir com ele e servir-lhe de guia? Eu te darei teu salário, irmão”. Ele respondeu: “Posso ir com ele, pois conheço detalhadamente todos os caminhos e fui freqüentes vezes à Média, percorri todas as suas planícies e as suas montanhas e conheço todas as suas veredas”.",
+      "reference": "Tb 5:10"
+    },
+    "11": {
+      "text": "Disse-lhe Tobit: “Irmão, de que família e de que tribo és tu? Fala, irmão”.",
+      "reference": "Tb 5:11"
+    },
+    "12": {
+      "text": "Respondeu-lhe o anjo: “Que importa a minha tribo?” Tobit insistiu: “Gostaria de saber com segurança de quem és filho e qual é o teu nome”.",
+      "reference": "Tb 5:12"
+    },
+    "13": {
+      "text": "Respondeu-lhe o anjo: “Sou Azarias, filho do grande Ananias, um de teus irmãos”.",
+      "reference": "Tb 5:13"
+    },
+    "14": {
+      "text": "Disse-lhe Tobit: “Bem-vindo, irmão, salve! Não leves a mal, irmão, meu desejo de conhecer com certeza teu nome e tua família, acontece que és parente meu e pertences a uma família honesta e honrada. Conheci Ananias e Natã, os dois filhos do grande Semeías; eles iam comigo a Jerusalém, juntos lá adorávamos, e eles não se desviaram do bom caminho. Teus irmãos são homens de bem; descendes de ilustre estirpe. Sê bem-vindo!” \\par",
+      "reference": "Tb 5:14"
+    },
+    "15": {
+      "text": "E acrescentou: “Pagar-te-ei como salário uma dracma por dia, e dar-te-ei, como a meu filho, o que te for necessário. Viaja, pois, com meu filho,",
+      "reference": "Tb 5:15"
+    },
+    "16": {
+      "text": "e depois ainda acrescentarei algo ao teu salário”. O anjo respondeu: “Irei com teu filho, nada receies. Sãos partiremos e sãos regressaremos a ti, porque o caminho é seguro”.",
+      "reference": "Tb 5:16"
+    },
+    "17": {
+      "text": "Respondeu-lhe Tobit: “Bendito sejas, irmão!” Chamou seu filho e disse-lhe: “Filho, prepara as coisas para a viagem e parte com teu irmão; que lá vos proteja o Deus que está nos céus e que vos reconduza a mim sãos e salvos; e que seu anjo vos acompanhe com sua proteção, filho”. \\par Tobias saiu para empreender a viagem, e beijou seu pai e sua mãe. Tobit lhe disse: “Boa viagem!”",
+      "reference": "Tb 5:17"
+    },
+    "18": {
+      "text": "Sua mãe pôs-se a chorar e disse a Tobit: “Para que mandaste meu filho partir? Não é ele o bastão de nossa mão que sempre vai e vem conosco?",
+      "reference": "Tb 5:18"
+    },
+    "19": {
+      "text": "Que não seja o dinheiro o mais importante; que ele não tenha valor ao lado de nosso filho.",
+      "reference": "Tb 5:19"
+    },
+    "20": {
+      "text": "O nível de vida que Deus nos tinha dado era-nos suficiente”.",
+      "reference": "Tb 5:20"
+    },
+    "21": {
+      "text": "Respondeu-lhe Tobit: “Não penses nisso; são partiu nosso filho, e são voltará a nós; com teus próprios olhos o verás no dia em que ele regressar a ti são e salvo. Não penses nisso, nem te inquietes por causa dele, minha irmã.",
+      "reference": "Tb 5:21"
+    },
+    "22": {
+      "text": "Um bom anjo o acompanhará, lhe dará uma viagem tranqüila e o devolverá são e salvo!” \\par",
+      "reference": "Tb 5:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

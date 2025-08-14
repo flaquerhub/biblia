@@ -1,0 +1,277 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Jesus é conduzido à presença de Pilatos\\par }Chegada a manhã, todos os chefes dos sacerdotes e os anciãos do povo convocaram um conselho contra Jesus, a fim de levá-lo à morte.",
+      "reference": "Mt 27:1"
+    },
+    "2": {
+      "text": "Assim, amarrando-o, levaram-no e entregaram-no a Pilatos, o governador. \\par",
+      "reference": "Mt 27:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Morte de Judas\\par }Então Judas, que o entregara, vendo que Jesus fora condenado, sentiu remorsos e veio devolver aos chefes dos sacerdotes e aos anciãos as trinta moedas de prata,",
+      "reference": "Mt 27:3"
+    },
+    "4": {
+      "text": "dizendo: “Pequei, entregando um sangue inocente”. Mas estes responderam: “Que temos nós com isso? O problema é teu”.",
+      "reference": "Mt 27:4"
+    },
+    "5": {
+      "text": "Ele, atirando as moedas no Templo, retirou-se e foi enforcar-se.",
+      "reference": "Mt 27:5"
+    },
+    "6": {
+      "text": "Os chefes dos sacerdotes, tomando as moedas, disseram: “Não é lícito depositá-las no tesouro do Templo, porque se trata de preço de sangue”.",
+      "reference": "Mt 27:6"
+    },
+    "7": {
+      "text": "Assim, depois de deliberarem em conselho, compraram com elas o campo do Oleiro para o sepultamento dos estrangeiros.",
+      "reference": "Mt 27:7"
+    },
+    "8": {
+      "text": "Eis porque até hoje aquele campo se chama “Campo de Sangue”.",
+      "reference": "Mt 27:8"
+    },
+    "9": {
+      "text": "Com isso se cumpriu o oráculo do profeta Jeremias: {\\i E tomaram as trinta moedas de prata, o preço do Precioso, daquele que os filhos de Israel avaliaram,",
+      "reference": "Mt 27:9"
+    },
+    "10": {
+      "text": "e deram-nas pelo campo do Oleiro, conforme o Senhor me ordenara.} \\par",
+      "reference": "Mt 27:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Jesus perante Pilatos\\par }Jesus foi posto perante o governador e o governador interrogou-o: “És tu o rei dos judeus?” Jesus declarou: “Tu o dizes”.",
+      "reference": "Mt 27:11"
+    },
+    "12": {
+      "text": "E ao ser acusado pelos chefes dos sacerdotes e anciãos, nada respondeu.",
+      "reference": "Mt 27:12"
+    },
+    "13": {
+      "text": "Então lhe disse Pilatos: “Não estás ouvindo de quanta coisa te acusam?”",
+      "reference": "Mt 27:13"
+    },
+    "14": {
+      "text": "Mas ele não lhe respondeu sequer uma palavra, de tal sorte que o governador ficou muito impressionado. \\par",
+      "reference": "Mt 27:14"
+    },
+    "15": {
+      "text": "Por ocasião da Festa, era costume o governador soltar um preso que a multidão desejasse.",
+      "reference": "Mt 27:15"
+    },
+    "16": {
+      "text": "Nessa ocasião, tinham eles um preso famoso, chamado Barrabás.",
+      "reference": "Mt 27:16"
+    },
+    "17": {
+      "text": "Como estivessem reunidos, Pilatos lhes disse: “Quem quereis que vos solte, Barrabás ou Jesus, que chamam de Cristo?”",
+      "reference": "Mt 27:17"
+    },
+    "18": {
+      "text": "Ele sabia, com efeito, que eles o haviam entregue por inveja.\\par",
+      "reference": "Mt 27:18"
+    },
+    "19": {
+      "text": "Enquanto estava sentado no tribunal, sua mulher lhe mandou dizer: “Não te envolvas com esse justo, porque muito sofri hoje em sonho por causa dele”.\\par",
+      "reference": "Mt 27:19"
+    },
+    "20": {
+      "text": "Os chefes dos sacerdotes e os anciãos, porém, persuadiram as multidões a que pedissem Barrabás e que fizessem Jesus perecer.",
+      "reference": "Mt 27:20"
+    },
+    "21": {
+      "text": "O governador respondeu-lhes: “Qual dos dois quereis que vos solte?” Disseram: “Barrabás”.",
+      "reference": "Mt 27:21"
+    },
+    "22": {
+      "text": "Pilatos perguntou: “Que farei de Jesus, que chamam de Cristo?” Todos responderam: “Seja crucificado!”",
+      "reference": "Mt 27:22"
+    },
+    "23": {
+      "text": "Tornou a dizer-lhes: “Mas que mal ele fez?” Eles, porém, gritavam com mais veemência: “Seja crucificado!”",
+      "reference": "Mt 27:23"
+    },
+    "24": {
+      "text": "Vendo Pilatos que nada conseguia, mas, ao contrário, a desordem aumentava, pegou água e, lavando as mãos na presença da multidão, disse: “Estou inocente desse sangue. A responsabilidade é vossa”.",
+      "reference": "Mt 27:24"
+    },
+    "25": {
+      "text": "A isso todo o povo respondeu: “O seu sangue caia sobre nós e sobre nossos filhos”.",
+      "reference": "Mt 27:25"
+    },
+    "26": {
+      "text": "Então soltou-lhes Barrabás. Quanto a Jesus, depois de açoitá-lo, entregou-o para que fosse crucificado. \\par",
+      "reference": "Mt 27:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i A coroação de espinhos\\par }Em seguida, os soldados do governador, levando Jesus para o Pretório, reuniram contra ele toda a coorte.",
+      "reference": "Mt 27:27"
+    },
+    "28": {
+      "text": "Despiram-no e puseram-lhe uma capa escarlate.",
+      "reference": "Mt 27:28"
+    },
+    "29": {
+      "text": "Depois, tecendo uma coroa de espinhos, puseram-na em sua cabeça e um caniço na mão direita. E, ajoelhando-se diante dele, diziam-lhe, caçoando: “Salve, rei dos judeus!”",
+      "reference": "Mt 27:29"
+    },
+    "30": {
+      "text": "E cuspindo nele, tomaram o caniço e batiam-lhe na cabeça.",
+      "reference": "Mt 27:30"
+    },
+    "31": {
+      "text": "Depois de caçoarem dele, despiram-lhe a capa escarlate e tornaram a vesti-lo com as suas próprias vestes, e levaram-no para o crucificar. \\par",
+      "reference": "Mt 27:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i A crucifixão\\par }Ao saírem, encontraram um homem de Cirene, de nome Simão. E o requisitaram para que carregasse a cruz.",
+      "reference": "Mt 27:32"
+    },
+    "33": {
+      "text": "Chegando a um lugar chamado Gólgota, isto é, lugar que chamavam de Caveira,",
+      "reference": "Mt 27:33"
+    },
+    "34": {
+      "text": "deram-lhe de beber vinho misturado com fel. Ele provou, mas não quis beber.",
+      "reference": "Mt 27:34"
+    },
+    "35": {
+      "text": "E após crucificá-lo, repartiram entre si as suas vestes, lançando a sorte.",
+      "reference": "Mt 27:35"
+    },
+    "36": {
+      "text": "E, sentando-se, ali montavam-lhe guarda.",
+      "reference": "Mt 27:36"
+    },
+    "37": {
+      "text": "E colocaram acima da sua cabeça, por escrito, o motivo da sua condenação: “Este é Jesus, o Rei dos judeus”.",
+      "reference": "Mt 27:37"
+    },
+    "38": {
+      "text": "Com ele foram crucificados dois ladrões, um à direita, outro à esquerda. \\par",
+      "reference": "Mt 27:38"
+    },
+    "39": {
+      "text": "\\par {\\qc\\b\\i Jesus na cruz é escarnecido e injuriado\\par }Os transeuntes injuriavam-no, meneando a cabeça",
+      "reference": "Mt 27:39"
+    },
+    "40": {
+      "text": "e dizendo: “Tu que destróis o Templo e em três dias o reedificas, salva-te a ti mesmo, se és Filho de Deus, e desce da cruz!”",
+      "reference": "Mt 27:40"
+    },
+    "41": {
+      "text": "Do mesmo modo, também os chefes dos sacerdotes, juntamente com os escribas e anciãos, caçoavam dele:",
+      "reference": "Mt 27:41"
+    },
+    "42": {
+      "text": "“A outros salvou, a si mesmo não pode salvar! Rei de Israel que é, que desça agora da cruz e creremos nele!",
+      "reference": "Mt 27:42"
+    },
+    "43": {
+      "text": "{\\i Confiou em Deus: pois que o livre agora, se é que se interessa por ele!} Já que ele disse: Eu sou filho de Deus”.",
+      "reference": "Mt 27:43"
+    },
+    "44": {
+      "text": "E até os ladrões, que foram crucificados junto com ele, o insultavam. \\par",
+      "reference": "Mt 27:44"
+    },
+    "45": {
+      "text": "\\par {\\qc\\b\\i A morte de Jesus\\par }Desde a hora sexta até a hora nona, houve treva em toda a terra.",
+      "reference": "Mt 27:45"
+    },
+    "46": {
+      "text": "Lá pela hora nona, Jesus deu um grande grito: {\\i “Eli, Eli, lemá sabachtáni?”}, isto é: {\\i “Deus meu, Deus meu, por que me abandonaste?”}",
+      "reference": "Mt 27:46"
+    },
+    "47": {
+      "text": "Alguns dos que tinham ficado ali, ouvindo-o, disseram: “Está chamado Elias!”",
+      "reference": "Mt 27:47"
+    },
+    "48": {
+      "text": "Imediatamente um deles saiu correndo, pegou uma esponja, embebeu-a em vinagre e, fixando-a numa vara, {\\i dava-lhe de beber.}",
+      "reference": "Mt 27:48"
+    },
+    "49": {
+      "text": "Mas os outros diziam: “Deixa, vejamos se Elias vem salvá-lo!”",
+      "reference": "Mt 27:49"
+    },
+    "50": {
+      "text": "Jesus, porém, tornando a dar um grande grito, entregou o espírito. \\par",
+      "reference": "Mt 27:50"
+    },
+    "51": {
+      "text": "Nisso, o véu do santuário se rasgou em duas partes, de cima a baixo, a terra tremeu e as rochas se fenderam.",
+      "reference": "Mt 27:51"
+    },
+    "52": {
+      "text": "Abriram-se os túmulos e muitos corpos dos santos falecidos ressuscitaram.",
+      "reference": "Mt 27:52"
+    },
+    "53": {
+      "text": "E, saindo dos túmulos após a ressurreição de Jesus, entraram na Cidade Santa e foram vistos por muitos.",
+      "reference": "Mt 27:53"
+    },
+    "54": {
+      "text": "O centurião e os que com ele guardavam a Jesus, ao verem o terremoto e tudo mais que estava acontecendo, ficaram muito amedrontados e disseram: “De fato, este era filho de Deus!” \\par",
+      "reference": "Mt 27:54"
+    },
+    "55": {
+      "text": "Estavam ali muitas mulheres, olhando de longe. Haviam acompanhado Jesus desde a Galiléia, a servi-lo.",
+      "reference": "Mt 27:55"
+    },
+    "56": {
+      "text": "Entre elas, Maria Madalena, Maria, mãe de Tiago e de José, e a mãe dos filhos de Zebedeu. \\par",
+      "reference": "Mt 27:56"
+    },
+    "57": {
+      "text": "\\par {\\qc\\b\\i O sepultamento\\par }Chegada a tarde, veio um homem rico de Arimatéia, chamado José, o qual também se tornara discípulo de Jesus.",
+      "reference": "Mt 27:57"
+    },
+    "58": {
+      "text": "E dirigindo-se a Pilatos, pediu-lhe o corpo de Jesus. Então Pilatos mandou que lhe fosse entregue.",
+      "reference": "Mt 27:58"
+    },
+    "59": {
+      "text": "José, tomando o corpo, envolveu-o num lençol limpo",
+      "reference": "Mt 27:59"
+    },
+    "60": {
+      "text": "e o pôs em seu túmulo novo, que talhara na rocha. Em seguida rolando uma grande pedra para a entrada do túmulo, retirou-se.",
+      "reference": "Mt 27:60"
+    },
+    "61": {
+      "text": "Ora, Maria Madalena e a outra Maria estavam ali sentadas em frente ao sepulcro. \\par",
+      "reference": "Mt 27:61"
+    },
+    "62": {
+      "text": "\\par {\\qc\\b\\i A guarda do túmulo\\par }No dia seguinte, um dia depois da Preparação, os chefes dos sacerdotes e dos fariseus, reunidos juntos a Pilatos,",
+      "reference": "Mt 27:62"
+    },
+    "63": {
+      "text": "diziam: “Senhor, lembramo-nos de que aquele impostor disse, quando ainda estava vivo: ‘Depois de três dias ressuscitarei!’",
+      "reference": "Mt 27:63"
+    },
+    "64": {
+      "text": "Ordena, pois, que o sepulcro seja guardado com segurança até o terceiro dia, para que os discípulos não venham roubá-lo e depois digam ao povo: ‘Ele ressuscitou dos mortos!’ e a última impostura seja pior do que a primeira”.",
+      "reference": "Mt 27:64"
+    },
+    "65": {
+      "text": "Pilatos respondeu: “Tendes uma guarda; ide, guardai o sepulcro, como entendeis”.",
+      "reference": "Mt 27:65"
+    },
+    "66": {
+      "text": "E, saindo, eles puseram em segurança o sepulcro, selando a pedra e montando guarda. \\par",
+      "reference": "Mt 27:66"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 66
+}

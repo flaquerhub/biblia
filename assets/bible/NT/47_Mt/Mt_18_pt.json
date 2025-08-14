@@ -1,0 +1,153 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. DISCURSO SOBRE A IGREJA\\par }{\\qc\\b\\i Quem é o maior?\\par }Nessa ocasião, os discípulos aproximaram-se de Jesus e lhe perguntaram: “Quem é o maior no Reino dos Céus?”",
+      "reference": "Mt 18:1"
+    },
+    "2": {
+      "text": "Ele chamou perto de si uma criança, colocou-a no meio deles",
+      "reference": "Mt 18:2"
+    },
+    "3": {
+      "text": "e disse: “Em verdade vos digo que, se não vos converterdes e não vos tornardes como as crianças, de modo algum entrareis no Reino dos Céus.",
+      "reference": "Mt 18:3"
+    },
+    "4": {
+      "text": "Aquele, portanto, que se tornar pequenino como esta criança, esse é o maior no Reino dos Céus. \\par",
+      "reference": "Mt 18:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i O escândalo\\par }E aquele que receber uma criança como esta por causa do meu nome, recebe a mim.",
+      "reference": "Mt 18:5"
+    },
+    "6": {
+      "text": "Caso alguém escandalize um destes pequeninos que crêem em mim, melhor será que lhe pendurem ao pescoço uma pesada mó e seja precipitado nas profundezas do mar.",
+      "reference": "Mt 18:6"
+    },
+    "7": {
+      "text": "Ai do mundo por causa dos escândalos! É necessário que haja escândalos, mas ai do homem pelo qual o escândalo vem! \\par",
+      "reference": "Mt 18:7"
+    },
+    "8": {
+      "text": "Se a tua mão ou o teu pé te escandalizam, corta-os e atira-os para longe de ti. Melhor é que entres mutilado ou manco para a Vida do que, tendo duas mãos ou dois pés, seres atirado no fogo eterno.",
+      "reference": "Mt 18:8"
+    },
+    "9": {
+      "text": "E, se o teu olho te escandaliza, arranca-o e atira-o para longe de ti. Melhor é que entres com um olho só para a Vida do que, tendo dois olhos, seres atirado na geena de fogo.",
+      "reference": "Mt 18:9"
+    },
+    "10": {
+      "text": "Não desprezeis nenhum desses pequeninos, porque eu vos digo que os seus anjos nos céus vêem continuamente a face de meu Pai que está nos céus. [",
+      "reference": "Mt 18:10"
+    },
+    "11": {
+      "text": "] \\par",
+      "reference": "Mt 18:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A ovelha desgarrada\\par }Que vos parece? Se um homem possui cem ovelhas e uma delas se extravia, não deixa ele as noventa e nove nos montes e vai à procura da extraviada?",
+      "reference": "Mt 18:12"
+    },
+    "13": {
+      "text": "Se consegue achá-la, em verdade vos digo, terá maior alegria com ela do que com as noventa e nove que não se extraviaram.",
+      "reference": "Mt 18:13"
+    },
+    "14": {
+      "text": "Assim também, não é da vontade de vosso Pai, que está nos céus, que um destes pequeninos se perca. \\par",
+      "reference": "Mt 18:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Correção fraterna\\par }Se o teu irmão pecar, vai corrigi-lo a sós. Se ele te ouvir, ganhaste o teu irmão.",
+      "reference": "Mt 18:15"
+    },
+    "16": {
+      "text": "Se não te ouvir, porém, toma contigo mais uma ou duas pessoas, para que {\\i toda questão seja decidida pela palavra de duas ou três testemunhas. }\\par",
+      "reference": "Mt 18:16"
+    },
+    "17": {
+      "text": "Caso não lhes der ouvido, dize-o à Igreja. Se nem mesmo à Igreja der ouvido, trata-o como o gentio ou o publicano. \\par",
+      "reference": "Mt 18:17"
+    },
+    "18": {
+      "text": "Em verdade vos digo: tudo quanto ligardes na terra será ligado no céu e tudo quanto desligardes na terra será desligado no céu. \\par",
+      "reference": "Mt 18:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Oração em comum\\par }Em verdade ainda vos digo: se dois de vós estiverem de acordo na terra sobre qualquer coisa que queiram pedir, isso lhes será concedido por meu Pai que está nos céus.",
+      "reference": "Mt 18:19"
+    },
+    "20": {
+      "text": "Pois onde dois ou três estiverem reunidos em meu nome, ali estou eu no meio deles”. \\par",
+      "reference": "Mt 18:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Perdão das ofensas\\par }Então Pedro chegando a ele, perguntou-lhe: “Senhor, quantas vezes devo perdoar ao irmão que pecar contra mim? Até sete vezes?”",
+      "reference": "Mt 18:21"
+    },
+    "22": {
+      "text": "Jesus respondeu-lhe: “Não te digo até sete, mas até setenta e sete vezes. \\par",
+      "reference": "Mt 18:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Parábola do devedor implacável\\par }Eis porque o Reino dos Céus é semelhante a um rei que resolveu acertar contas com os seus servos.",
+      "reference": "Mt 18:23"
+    },
+    "24": {
+      "text": "Ao começar o acerto, trouxeram-lhe um que devia dez mil talentos.",
+      "reference": "Mt 18:24"
+    },
+    "25": {
+      "text": "Não tendo este com que pagar, o senhor ordenou que o vendessem, juntamente com a mulher e com os filhos e todos os seus bens, para o pagamento da dívida.",
+      "reference": "Mt 18:25"
+    },
+    "26": {
+      "text": "O servo, porém, caiu aos seus pés e, prostrado, suplicava-lhe: ‘Dá-me um prazo e eu te pagarei tudo’. \\par",
+      "reference": "Mt 18:26"
+    },
+    "27": {
+      "text": "Diante disso, o senhor, compadecendo-se do servo, soltou-o e perdoou-lhe a dívida.",
+      "reference": "Mt 18:27"
+    },
+    "28": {
+      "text": "Mas, quando saiu dali, esse servo encontrou um dos seus companheiros de servidão, que lhe devia cem denários e, agarrando-o pelo pescoço, pôs-se a sufocá-lo e a insistir: ‘Paga-me o que me deves’.",
+      "reference": "Mt 18:28"
+    },
+    "29": {
+      "text": "O companheiro, caindo aos seus pés, rogava-lhe: ‘Dá-me um prazo e eu te pagarei’.",
+      "reference": "Mt 18:29"
+    },
+    "30": {
+      "text": "Mas ele não quis ouvi-lo; antes, retirou-se e mandou lançá-lo na prisão até que pagasse o que devia.",
+      "reference": "Mt 18:30"
+    },
+    "31": {
+      "text": "Vendo os seus companheiros de servidão o que acontecera, ficaram muito penalizados e, procurando o senhor, contaram-lhe todo o acontecido.",
+      "reference": "Mt 18:31"
+    },
+    "32": {
+      "text": "Então o senhor mandou chamar aquele servo e lhe disse: ‘Servo mau, eu te perdoei toda a tua dívida, porque me rogaste.",
+      "reference": "Mt 18:32"
+    },
+    "33": {
+      "text": "Não devias, também tu, ter compaixão do teu companheiro, como eu tive compaixão de ti?’",
+      "reference": "Mt 18:33"
+    },
+    "34": {
+      "text": "Assim, encolerizado, o seu senhor o entregou aos verdugos, até que pagasse toda a sua dívida.",
+      "reference": "Mt 18:34"
+    },
+    "35": {
+      "text": "Eis como meu Pai celeste agirá convosco, se cada um de vós não perdoar, de coração, ao seu irmão”. \\par",
+      "reference": "Mt 18:35"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 35
+}

@@ -1,0 +1,121 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A verdadeira felicidade\\par }Feliz o homem que não pecou com a sua boca \\par e que não foi ferido pelo remorso dos pecados. \\par",
+      "reference": "Eclo 14:1"
+    },
+    "2": {
+      "text": "Feliz aquele cuja consciência não o acusa \\par e aquele que não perdeu sua esperança. \\par",
+      "reference": "Eclo 14:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Inveja e avareza\\par }Ao homem mesquinho não convém a riqueza, \\par e para que grandes bens ao invejoso? \\par",
+      "reference": "Eclo 14:3"
+    },
+    "4": {
+      "text": "Quem ajunta, privando-se, ajunta para os outros \\par e com os seus bens outros regalar-se-ão. \\par",
+      "reference": "Eclo 14:4"
+    },
+    "5": {
+      "text": "Quem é duro consigo mesmo com quem será bom? \\par Não goza sequer dos próprios bens. \\par",
+      "reference": "Eclo 14:5"
+    },
+    "6": {
+      "text": "Não há homem pior que aquele que se deprecia, \\par e isto é a recompensa de sua maldade. \\par",
+      "reference": "Eclo 14:6"
+    },
+    "7": {
+      "text": "Se faz o bem, é por esquecimento, \\par no fim deixa transparecer a sua maldade. \\par",
+      "reference": "Eclo 14:7"
+    },
+    "8": {
+      "text": "Mau é o homem de olhar invejoso, \\par que vira o rosto e despreza a vida dos outros. \\par",
+      "reference": "Eclo 14:8"
+    },
+    "9": {
+      "text": "Aos olhos do ávido a sua porção não o sacia, \\par a cupidez seca a alma. \\par",
+      "reference": "Eclo 14:9"
+    },
+    "10": {
+      "text": "Com inveja, o olho do avaro fixa-se no pão, \\par e na sua mesa há penúria. \\par",
+      "reference": "Eclo 14:10"
+    },
+    "11": {
+      "text": "Filho, na medida do que tens, trata-te bem \\par e apresenta ao Senhor as oferendas, como convém. \\par",
+      "reference": "Eclo 14:11"
+    },
+    "12": {
+      "text": "Lembra-te de que a morte não tarda \\par e o pacto do Xeol não te foi revelado. \\par",
+      "reference": "Eclo 14:12"
+    },
+    "13": {
+      "text": "Antes de morrer faze o bem aos amigos \\par e dá-lhes segundo os teus recursos. \\par",
+      "reference": "Eclo 14:13"
+    },
+    "14": {
+      "text": "Não te prives da felicidade presente, \\par não deixes escapar nada de um legítimo desejo. \\par",
+      "reference": "Eclo 14:14"
+    },
+    "15": {
+      "text": "Não deixarás a outro os teus recursos, \\par e o fruto de teu trabalho à decisão da sorte? \\par",
+      "reference": "Eclo 14:15"
+    },
+    "16": {
+      "text": "Dá e recebe, faze divagar a tua alma, \\par pois não há no Xeol quem procure algum prazer. \\par",
+      "reference": "Eclo 14:16"
+    },
+    "17": {
+      "text": "Como uma roupa, toda carne vai envelhecendo, \\par porque a morte é lei eterna. \\par",
+      "reference": "Eclo 14:17"
+    },
+    "18": {
+      "text": "Como as folhas numa árvore frondosa \\par tanto caem como brotam, \\par assim a geração de carne e sangue: \\par esta morre, aquela nasce. \\par",
+      "reference": "Eclo 14:18"
+    },
+    "19": {
+      "text": "Toda obra corruptível perece \\par e aquele que a fez irá com ela. \\par",
+      "reference": "Eclo 14:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Felicidade do sábio\\par }Feliz o homem que se ocupa da sabedoria \\par e que raciocina com inteligência, \\par",
+      "reference": "Eclo 14:20"
+    },
+    "21": {
+      "text": "que reflete, em seu coração, nos caminhos da sabedoria \\par e medita em seus segredos. \\par",
+      "reference": "Eclo 14:21"
+    },
+    "22": {
+      "text": "Sai atrás dela como um caçador, \\par põe-se à espreita nos seus caminhos. \\par",
+      "reference": "Eclo 14:22"
+    },
+    "23": {
+      "text": "Inclina-se para olhar por suas janelas, \\par escuta às suas portas. \\par",
+      "reference": "Eclo 14:23"
+    },
+    "24": {
+      "text": "Detém-se junto à sua casa, \\par fixa o prego nas suas paredes. \\par",
+      "reference": "Eclo 14:24"
+    },
+    "25": {
+      "text": "Coloca a sua tenda junto a ela, \\par acampará num lugar de felicidade. \\par",
+      "reference": "Eclo 14:25"
+    },
+    "26": {
+      "text": "Porá seus filhos sob a sua proteção, \\par será abrigado por seus ramos. \\par",
+      "reference": "Eclo 14:26"
+    },
+    "27": {
+      "text": "Por ela será protegido do calor \\par e acampará em sua glória. \\par",
+      "reference": "Eclo 14:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

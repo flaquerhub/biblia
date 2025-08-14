@@ -1,0 +1,81 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Deus está longe, e o mal triunfa\\par }Jó tomou a palavra e disse: \\par",
+      "reference": "Jó 23:1"
+    },
+    "2": {
+      "text": "Também hoje minha queixa é uma revolta, \\par porque sua mão agrava meus gemidos. \\par",
+      "reference": "Jó 23:2"
+    },
+    "3": {
+      "text": "Oxalá soubesse como encontrá-lo, \\par como chegar à sua morada. \\par",
+      "reference": "Jó 23:3"
+    },
+    "4": {
+      "text": "Exporia diante dele a minha causa, \\par com minha boca cheia de argumentos. \\par",
+      "reference": "Jó 23:4"
+    },
+    "5": {
+      "text": "Gostaria de saber com que palavras iria responder-me \\par e ouvir o que teria para me dizer. \\par",
+      "reference": "Jó 23:5"
+    },
+    "6": {
+      "text": "Usaria ele de violência ao pleitear comigo? \\par Não, bastaria que me desse atenção. \\par",
+      "reference": "Jó 23:6"
+    },
+    "7": {
+      "text": "Ele reconheceria em seu adversário um homem reto, \\par e eu faria triunfar minha causa para sempre. \\par",
+      "reference": "Jó 23:7"
+    },
+    "8": {
+      "text": "Mas, se for ao oriente, não está ali; \\par ao ocidente, não o encontro. \\par",
+      "reference": "Jó 23:8"
+    },
+    "9": {
+      "text": "Se o procuro ao norte não o vejo, \\par se me volto para o sul, não o descubro. \\par",
+      "reference": "Jó 23:9"
+    },
+    "10": {
+      "text": "Mas, já que ele conhece o meu proceder, \\par que me ponha à prova, dela sairei como ouro acrisolado. \\par",
+      "reference": "Jó 23:10"
+    },
+    "11": {
+      "text": "Meus pés calcaram suas pegadas, \\par segui seu caminho sem me desviar. \\par",
+      "reference": "Jó 23:11"
+    },
+    "12": {
+      "text": "Não me afastei do mandamento de seus lábios \\par e guardei no peito as palavras de sua boca. \\par",
+      "reference": "Jó 23:12"
+    },
+    "13": {
+      "text": "Mas ele decide; quem poderá dissuadi-lo? \\par Tudo o que ele quer, ele o faz. \\par",
+      "reference": "Jó 23:13"
+    },
+    "14": {
+      "text": "Executará a sentença a meu respeito, \\par como tantos outros dos seus decretos. \\par",
+      "reference": "Jó 23:14"
+    },
+    "15": {
+      "text": "Por isso estou consternado em sua presença, \\par e estremeço ao pensá-lo. \\par",
+      "reference": "Jó 23:15"
+    },
+    "16": {
+      "text": "Deus abateu-me o ânimo, \\par Shaddai encheu-me de terror.\\par",
+      "reference": "Jó 23:16"
+    },
+    "17": {
+      "text": "E, todavia, não me dou por vencido por estas trevas; \\par ele, porém, cobriu-me o rosto com a escuridão. \\par",
+      "reference": "Jó 23:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

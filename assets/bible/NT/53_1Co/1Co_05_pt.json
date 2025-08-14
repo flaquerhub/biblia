@@ -1,0 +1,65 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. O CASO DE INCESTO\\par }É geral ouvir-se dizer que entre vós existe luxúria, e luxúria tal que não se encontra nem mesmo entre os pagãos; um dentre vós vive com a mulher do seu pai! \\par",
+      "reference": "1Co 5:1"
+    },
+    "2": {
+      "text": "E vós estais cheios de orgulho! Nem mesmo vos mergulhastes na tristeza, a fim de que o autor desse mal fosse eliminado do meio de vós?",
+      "reference": "1Co 5:2"
+    },
+    "3": {
+      "text": "Quanto a mim, ausente de corpo, mas presente em espírito, já julguei, como se estivesse presente, aquele que assim procedeu.",
+      "reference": "1Co 5:3"
+    },
+    "4": {
+      "text": "É preciso que, em nome do Senhor Jesus, estando vós e o meu espírito reunidos em assembléia com o poder de nosso Senhor Jesus,",
+      "reference": "1Co 5:4"
+    },
+    "5": {
+      "text": "entreguemos tal homem a Satanás para a perda da sua carne, a fim de que o espírito seja salvo no dia do Senhor. \\par",
+      "reference": "1Co 5:5"
+    },
+    "6": {
+      "text": "Não é digno o vosso motivo de vanglória! Não sabeis que um pouco de fermento leveda toda a massa?",
+      "reference": "1Co 5:6"
+    },
+    "7": {
+      "text": "Purificai-vos do velho fermento para serdes nova massa, já que sois sem fermento. Pois nossa Páscoa, Cristo, foi imolada.",
+      "reference": "1Co 5:7"
+    },
+    "8": {
+      "text": "Celebremos, portanto, a festa, não com velho fermento, nem com fermento de malícia e perversidade, mas com pães ázimos; na pureza e na verdade. \\par",
+      "reference": "1Co 5:8"
+    },
+    "9": {
+      "text": "Eu vos escrevi em minha carta que não tivésseis relações com impudicos.",
+      "reference": "1Co 5:9"
+    },
+    "10": {
+      "text": "Não me referia, de modo geral, aos impudicos deste mundo ou aos avarentos ou aos ladrões ou aos idólatras, pois então teríeis que sair deste mundo.",
+      "reference": "1Co 5:10"
+    },
+    "11": {
+      "text": "Não; escrevi-vos que não vos associeis com alguém que traga o nome de irmão e, não obstante, seja impudico ou avarento ou idólatra ou injurioso ou beberrão ou ladrão. Com tal homem não deveis nem tomar refeição.",
+      "reference": "1Co 5:11"
+    },
+    "12": {
+      "text": "Acaso compete a mim julgar os que estão fora? Não são os de dentro que vós tendes de julgar?",
+      "reference": "1Co 5:12"
+    },
+    "13": {
+      "text": "Os de fora, Deus julgá-los-á. {\\i Afastai o mau do meio de vós.}\\par",
+      "reference": "1Co 5:13"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 13
+}

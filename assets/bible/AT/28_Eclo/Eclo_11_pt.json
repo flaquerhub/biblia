@@ -1,0 +1,149 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Não confies nas aparências\\par }A sabedoria do pobre levanta a sua cabeça \\par e ele se assenta entre os grandes. \\par",
+      "reference": "Eclo 11:1"
+    },
+    "2": {
+      "text": "Não elogies um homem por sua beleza \\par e não detestes uma pessoa por sua aparência. \\par",
+      "reference": "Eclo 11:2"
+    },
+    "3": {
+      "text": "Pequena é a abelha entre os alados, \\par mas o seu produto é o primeiro em doçura. \\par",
+      "reference": "Eclo 11:3"
+    },
+    "4": {
+      "text": "Não te envaideças quando te honrarem: \\par pois as obras do Senhor são admiráveis, \\par mas aos homens elas são ocultas. \\par",
+      "reference": "Eclo 11:4"
+    },
+    "5": {
+      "text": "Muitos tiranos assentaram-se no chão, \\par e um desconhecido recebeu o diadema. \\par",
+      "reference": "Eclo 11:5"
+    },
+    "6": {
+      "text": "Muitos poderosos foram duramente humilhados \\par e homens célebres foram entregues às mãos de outros. \\par",
+      "reference": "Eclo 11:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Reflexão e vagar\\par }Não reproves antes de teres examinado; \\par indaga primeiro, depois julga. \\par",
+      "reference": "Eclo 11:7"
+    },
+    "8": {
+      "text": "Não respondas antes de teres escutado \\par e não intervenhas no meio dos discursos. \\par",
+      "reference": "Eclo 11:8"
+    },
+    "9": {
+      "text": "Não te exaltes por um assunto que não te diz respeito \\par e não te intrometas no julgamento dos pecadores. \\par",
+      "reference": "Eclo 11:9"
+    },
+    "10": {
+      "text": "Filho, não sejam muitos os teus afazeres; \\par se os multiplicares, não ficarás impune; \\par mesmo se correres, não alcançarás \\par e não poderás escapar pela fuga. \\par",
+      "reference": "Eclo 11:10"
+    },
+    "11": {
+      "text": "Há quem trabalha, cansa-se e se apressa, \\par e está cada vez mais para trás. \\par",
+      "reference": "Eclo 11:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Confiança só em Deus\\par }Há fracos que procuram ajuda, \\par carentes de bens e ricos de misérias, \\par mas o Senhor os observa com benevolência \\par e os reergue de sua miséria. \\par",
+      "reference": "Eclo 11:12"
+    },
+    "13": {
+      "text": "Ele levanta a sua cabeça \\par e muitos se admiram. \\par",
+      "reference": "Eclo 11:13"
+    },
+    "14": {
+      "text": "Bem e mal, vida e morte, \\par pobreza e riqueza, tudo vem do Senhor. \\par",
+      "reference": "Eclo 11:14"
+    },
+    "15": {
+      "text": "*",
+      "reference": "Eclo 11:15"
+    },
+    "16": {
+      "text": "*",
+      "reference": "Eclo 11:16"
+    },
+    "17": {
+      "text": "O dom do Senhor permanece com os piedosos \\par e a sua benevolência os conduzirá para sempre. \\par",
+      "reference": "Eclo 11:17"
+    },
+    "18": {
+      "text": "Há quem se enriquece por avareza; \\par esta será a sua recompensa: \\par",
+      "reference": "Eclo 11:18"
+    },
+    "19": {
+      "text": "Quando ele disser: “Encontrei descanso, \\par agora comerei dos meus bens”, \\par não sabendo quando virá aquele dia, \\par deixará tudo a outros e morrerá. \\par",
+      "reference": "Eclo 11:19"
+    },
+    "20": {
+      "text": "Permanece firme na tua tarefa, ocupa-te bem dela \\par e envelhece na tua profissão. \\par",
+      "reference": "Eclo 11:20"
+    },
+    "21": {
+      "text": "Não admires a conduta do pecador, \\par mas confia no Senhor e permanece no teu trabalho. \\par Pois é fácil aos olhos do Senhor \\par enriquecer um pobre subitamente, num átimo. \\par",
+      "reference": "Eclo 11:21"
+    },
+    "22": {
+      "text": "A bênção do Senhor é a recompensa do piedoso, \\par num instante floresce a sua bênção. \\par",
+      "reference": "Eclo 11:22"
+    },
+    "23": {
+      "text": "Não digas: “De que coisa tenho necessidade? \\par De agora em diante quais serão os meus bens?” \\par",
+      "reference": "Eclo 11:23"
+    },
+    "24": {
+      "text": "Não digas: “Tenho o suficiente; \\par de agora em diante que desgraça me atingirá?” \\par",
+      "reference": "Eclo 11:24"
+    },
+    "25": {
+      "text": "No dia da felicidade, ninguém se lembra dos males, \\par e no dia da desgraça, ninguém se lembra da felicidade. \\par",
+      "reference": "Eclo 11:25"
+    },
+    "26": {
+      "text": "Pois é fácil para o Senhor, no dia da morte, \\par retribuir a cada um segundo seus atos. \\par",
+      "reference": "Eclo 11:26"
+    },
+    "27": {
+      "text": "O tempo de desventura faz esquecer as delícias \\par e é na sua última hora que as obras de um homem são reveladas. \\par",
+      "reference": "Eclo 11:27"
+    },
+    "28": {
+      "text": "Antes da morte não beatifiques a ninguém, \\par pois em seu fim é que se conhece o homem. \\par",
+      "reference": "Eclo 11:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Desconfiar dos maus\\par }Não introduzas qualquer em tua casa, \\par porque numerosas são as insídias do pérfido. \\par",
+      "reference": "Eclo 11:29"
+    },
+    "30": {
+      "text": "Como uma perdiz de chama na gaiola, assim é o coração do orgulhoso; \\par como o espião, ele observa a tua ruína. \\par",
+      "reference": "Eclo 11:30"
+    },
+    "31": {
+      "text": "Insidia mudando o bem em mal, \\par nas melhores qualidades coloca defeito. \\par",
+      "reference": "Eclo 11:31"
+    },
+    "32": {
+      "text": "Uma centelha acende um grande braseiro, \\par o homem perverso insidia para derramar sangue. \\par",
+      "reference": "Eclo 11:32"
+    },
+    "33": {
+      "text": "Guarda-te do malvado, porque ele trama o mal, \\par não aconteça que ele te inflija uma infâmia eterna. \\par",
+      "reference": "Eclo 11:33"
+    },
+    "34": {
+      "text": "Introduze em casa um estrangeiro e ele transtornar-te-á \\par e te separará dos teus. \\par",
+      "reference": "Eclo 11:34"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 34
+}

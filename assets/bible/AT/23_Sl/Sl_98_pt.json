@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 98,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 98 (97)\\par }{\\qc\\b\\i O juiz da terra\\par }{\\qc\\i Salmo\\par } Cantai a Iahweh um cântico novo, \\par pois ele fez maravilhas, \\par sua direita o salvou \\par e seu braço santo. \\par",
+      "reference": "Sl 98:1"
+    },
+    "2": {
+      "text": "Iahweh fez conhecer sua salvação, \\par revelou sua justiça aos olhos das nações: \\par",
+      "reference": "Sl 98:2"
+    },
+    "3": {
+      "text": "lembrou-se do seu amor e fidelidade \\par em favor da casa de Israel. \\par Os confins da terra contemplaram \\par a salvação do nosso Deus. \\par",
+      "reference": "Sl 98:3"
+    },
+    "4": {
+      "text": "Aclamai a Iahweh, terra inteira, \\par dai gritos de alegria! \\par",
+      "reference": "Sl 98:4"
+    },
+    "5": {
+      "text": "Tocai para Iahweh com a harpa \\par e o som dos instrumentos; \\par",
+      "reference": "Sl 98:5"
+    },
+    "6": {
+      "text": "com trombetas e o som da corneta \\par aclamai ao rei Iahweh! \\par",
+      "reference": "Sl 98:6"
+    },
+    "7": {
+      "text": "Estronde o mar e o que ele contém, \\par o mundo e seus habitantes; \\par",
+      "reference": "Sl 98:7"
+    },
+    "8": {
+      "text": "batam palmas os rios todos \\par e as montanhas gritem de alegria \\par",
+      "reference": "Sl 98:8"
+    },
+    "9": {
+      "text": "diante de Iahweh, pois ele vem \\par para julgar a terra: \\par ele vai julgar o mundo com justiça \\par e os povos com retidão! \\par",
+      "reference": "Sl 98:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

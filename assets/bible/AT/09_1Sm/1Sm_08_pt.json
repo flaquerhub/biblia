@@ -1,0 +1,101 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Samuel e Saul}\\par 1. INSTITUIÇÃO DA REALEZA\\par }{\\qc\\b\\i O povo pede um rei\\par }Samuel, quando envelheceu, constituiu seus filhos juízes em Israel.",
+      "reference": "1Sm 8:1"
+    },
+    "2": {
+      "text": "O primogênito chamava-se Joel, e o segundo Abias; eles foram juízes em Bersabéia.",
+      "reference": "1Sm 8:2"
+    },
+    "3": {
+      "text": "Mas os filhos não seguiram o seu exemplo. Ao contrário, orientaram-se pela ganância, deixaram-se subornar e infringiram o direito.",
+      "reference": "1Sm 8:3"
+    },
+    "4": {
+      "text": "Então todos os anciãos de Israel se reuniram e foram ao encontro de Samuel em Ramá.",
+      "reference": "1Sm 8:4"
+    },
+    "5": {
+      "text": "E disseram-lhe: “Tu envelheceste, e os teus filhos não seguiram o teu exemplo. Por isso, constitui sobre nós um rei, o qual exerça a justiça entre nós, como acontece em todas as nações”.",
+      "reference": "1Sm 8:5"
+    },
+    "6": {
+      "text": "Mas esta expressão: “Constitui sobre nós um rei, o qual exerça a justiça entre nós”, desagradou a Samuel, e então ele invocou a Iahweh.",
+      "reference": "1Sm 8:6"
+    },
+    "7": {
+      "text": "Iahweh, porém, disse a Samuel: “Atende a tudo o que te diz o povo, porque não é a ti que eles rejeitam, mas a mim, porque não querem mais que eu reine sobre eles.",
+      "reference": "1Sm 8:7"
+    },
+    "8": {
+      "text": "Tudo o que têm feito comigo desde o dia em que os fiz subir do Egito até agora – abandonaram-me e seguiram outros deuses – assim fizeram contigo.",
+      "reference": "1Sm 8:8"
+    },
+    "9": {
+      "text": "Portanto, atende ao que eles pleiteiam. Mas, solenemente, lembra-lhes e explica-lhes o direito do rei que reinará sobre eles”. \\par",
+      "reference": "1Sm 8:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Os inconvenientes da realeza\\par }Samuel expôs todas as palavras de Iahweh ao povo, que lhe pedia um rei.",
+      "reference": "1Sm 8:10"
+    },
+    "11": {
+      "text": "Ele disse: “Este é o direito do rei que reinará sobre vós: Ele convocará os vossos filhos e os encarregará dos seus carros de guerra e dos seus cavalos e os fará correr à frente do seu carro;",
+      "reference": "1Sm 8:11"
+    },
+    "12": {
+      "text": "e os nomeará chefes de mil e chefes de cinqüenta, e os fará lavrar a terra dele e ceifar a sua seara, fabricar as suas armas de guerra e as pecas de seus carros.",
+      "reference": "1Sm 8:12"
+    },
+    "13": {
+      "text": "Ele tomará as vossas filhas para perfumistas, cozinheiras e padeiras.",
+      "reference": "1Sm 8:13"
+    },
+    "14": {
+      "text": "Tomará os vossos campos, as vossas vinhas, os vossos melhores olivais, e os dará aos seus oficiais.",
+      "reference": "1Sm 8:14"
+    },
+    "15": {
+      "text": "Das vossas culturas e das vossas vinhas ele cobrará o dízimo, que destinará aos seus eunucos e aos seus oficiais.",
+      "reference": "1Sm 8:15"
+    },
+    "16": {
+      "text": "Os melhores dentre os vossos servos e as vossas servas, os vossos bois e os vossos jumentos, ele os tomará para o seu serviço.",
+      "reference": "1Sm 8:16"
+    },
+    "17": {
+      "text": "Exigirá o dízimo dos vossos rebanhos, e vós mesmos vos tornareis seus escravos.",
+      "reference": "1Sm 8:17"
+    },
+    "18": {
+      "text": "Então, naquele dia, reclamareis contra o rei que vós mesmos tiverdes escolhido, mas Iahweh não vos responderá, naquele dia!” \\par",
+      "reference": "1Sm 8:18"
+    },
+    "19": {
+      "text": "O povo, no entanto, recusou-se a atender a palavra de Samuel, e disse: “Não! Mas teremos um rei",
+      "reference": "1Sm 8:19"
+    },
+    "20": {
+      "text": "e seremos, nós também como as outras nações: o nosso rei nos julgará, irá à nossa frente e fará as nossas guerras”.",
+      "reference": "1Sm 8:20"
+    },
+    "21": {
+      "text": "Samuel ouviu tudo o que o povo disse e o contou ao ouvido de Iahweh.",
+      "reference": "1Sm 8:21"
+    },
+    "22": {
+      "text": "Mas Iahweh lhe respondeu: “Satisfaz a vontade deles e entroniza-lhes um rei”. Então Samuel disse aos homens de Israel: “Volte cada um à sua cidade”. \\par",
+      "reference": "1Sm 8:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

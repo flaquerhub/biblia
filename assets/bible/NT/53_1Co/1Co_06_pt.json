@@ -1,0 +1,93 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 3. OS PROCESSOS EM TRIBUNAIS PAGÃOS\\par }Quando alguém de vós tem rixa com outro, como ousa levá-la aos injustos, para ser julgada, e não aos santos?",
+      "reference": "1Co 6:1"
+    },
+    "2": {
+      "text": "Então não sabeis que os santos julgarão o mundo? E se é por vós que o mundo será julgado, seríeis indignos de proferir julgamentos de menor importância?",
+      "reference": "1Co 6:2"
+    },
+    "3": {
+      "text": "Não sabeis que julgaremos os anjos? Quanto mais então as coisas da vida cotidiana?",
+      "reference": "1Co 6:3"
+    },
+    "4": {
+      "text": "Quando, pois, tendes processos desta vida para ser julgados, constituís como juízes aqueles que a Igreja despreza!",
+      "reference": "1Co 6:4"
+    },
+    "5": {
+      "text": "Digo isto para confusão vossa. Não se encontra entre vós alguém suficientemente sábio para poder julgar entre os seus irmãos?",
+      "reference": "1Co 6:5"
+    },
+    "6": {
+      "text": "No entanto, acontece que um irmão entra em litígio contra seu irmão, e isto diante de infiéis!",
+      "reference": "1Co 6:6"
+    },
+    "7": {
+      "text": "De qualquer modo, já é para vós uma falta a existência de litígios entre vós. Por que não preferis, antes, padecer uma injustiça? Por que não vos deixais, antes, defraudar?",
+      "reference": "1Co 6:7"
+    },
+    "8": {
+      "text": "Entretanto, ao contrário, sois vós que cometeis injustiça e defraudais – e isto contra vossos irmãos! \\par",
+      "reference": "1Co 6:8"
+    },
+    "9": {
+      "text": "Então não sabeis que os injustos não herdarão o Reino de Deus? Não vos iludais! Nem os impudicos, nem os idólatras, nem os adúlteros, nem os depravados,",
+      "reference": "1Co 6:9"
+    },
+    "10": {
+      "text": "nem os efeminados, nem os sodomitas, nem os ladrões, nem os avarentos, nem os bêbados, nem os injuriosos herdarão o Reino de Deus.",
+      "reference": "1Co 6:10"
+    },
+    "11": {
+      "text": "Eis o que vós fostes, ao menos alguns. Mas vós vos lavastes, mas fostes santificados, mas fostes justificados em nome do Senhor Jesus Cristo e pelo Espírito de nosso Deus. \\par",
+      "reference": "1Co 6:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b 4. A FORNICAÇÃO\\par }“Tudo me é permitido”, mas nem tudo convém. “Tudo me é permitido”, mas não me deixarei escravizar por coisa alguma.",
+      "reference": "1Co 6:12"
+    },
+    "13": {
+      "text": "Os alimentos são para o ventre e o ventre para os alimentos, e Deus destruirá aqueles e este. Mas o corpo não é para a fornicação e, sim, para o Senhor, e o Senhor é para o corpo.",
+      "reference": "1Co 6:13"
+    },
+    "14": {
+      "text": "Ora, Deus, que ressuscitou o Senhor, ressuscitará também a nós pelo seu poder. \\par",
+      "reference": "1Co 6:14"
+    },
+    "15": {
+      "text": "Não sabeis que os vossos corpos são membros de Cristo? Tomarei então os membros de Cristo para fazê-los membros de uma prostituta? Por certo, não!",
+      "reference": "1Co 6:15"
+    },
+    "16": {
+      "text": "Não sabeis que aquele que se une a uma prostituta constitui com ela um só corpo? Pois está dito: {\\i Serão dois em uma só carne.}",
+      "reference": "1Co 6:16"
+    },
+    "17": {
+      "text": "Ao contrário, aquele que se une ao Senhor, constitui com ele um só espírito. \\par",
+      "reference": "1Co 6:17"
+    },
+    "18": {
+      "text": "Fugi da fornicação. Todo outro pecado que o homem cometa é exterior ao seu corpo; aquele, porém, que se entrega à fornicação peca contra o próprio corpo! \\par",
+      "reference": "1Co 6:18"
+    },
+    "19": {
+      "text": "Ou não sabeis que o vosso corpo é templo do Espírito Santo, que está em vós e que recebestes de Deus? ...e que, portanto, não pertenceis a vós mesmos?",
+      "reference": "1Co 6:19"
+    },
+    "20": {
+      "text": "Alguém pagou alto preço pelo vosso resgate; glorificai, portanto, a Deus em vosso corpo. \\par",
+      "reference": "1Co 6:20"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 20
+}

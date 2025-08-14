@@ -1,0 +1,313 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i VII. A paixão e a ressurreição}\\par }{\\qc\\b\\i Conspiração contra Jesus\\par }Quando Jesus terminou essas palavras todas, disse aos discípulos:",
+      "reference": "Mt 26:1"
+    },
+    "2": {
+      "text": "“Sabeis que daqui a dois dias será a Páscoa, e o Filho do Homem será entregue para ser crucificado”. \\par",
+      "reference": "Mt 26:2"
+    },
+    "3": {
+      "text": "Então os chefes dos sacerdotes e os anciãos do povo congregaram-se no pátio do Sumo Sacerdote, que se chamava Caifás,",
+      "reference": "Mt 26:3"
+    },
+    "4": {
+      "text": "e decidiram juntos que prenderiam a Jesus por um ardil e o matariam.",
+      "reference": "Mt 26:4"
+    },
+    "5": {
+      "text": "Diziam, contudo: “Não durante a festa, para não haver tumulto no meio do povo”. \\par",
+      "reference": "Mt 26:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i A unção em Betânia\\par }Estando Jesus em Betânia, em casa de Simão, o leproso,",
+      "reference": "Mt 26:6"
+    },
+    "7": {
+      "text": "aproximou-se dele uma mulher trazendo um frasco de alabastro de perfume precioso e pôs-se a derramá-lo sobre a cabeça de Jesus, enquanto ele estava à mesa.",
+      "reference": "Mt 26:7"
+    },
+    "8": {
+      "text": "Ao verem isso, os discípulos ficaram indignados e diziam: “A troco do que esse desperdício?",
+      "reference": "Mt 26:8"
+    },
+    "9": {
+      "text": "Pois isso poderia ser vendido bem caro e distribuído aos pobres”.",
+      "reference": "Mt 26:9"
+    },
+    "10": {
+      "text": "Mas Jesus, ao perceber essas palavras, disse-lhes: “Por que aborreceis a mulher? Ela, de fato, praticou uma boa ação para comigo.",
+      "reference": "Mt 26:10"
+    },
+    "11": {
+      "text": "Na verdade, sempre tereis os pobres convosco, mas a mim nem sempre tereis.",
+      "reference": "Mt 26:11"
+    },
+    "12": {
+      "text": "Derramando este perfume sobre o meu corpo, ela o fez para me sepultar.",
+      "reference": "Mt 26:12"
+    },
+    "13": {
+      "text": "Em verdade vos digo que, onde quer que venha a ser proclamado o Evangelho, em todo o mundo, também o que ela fez será contado em sua memória”. \\par",
+      "reference": "Mt 26:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i A traição de Judas\\par }Então um dos Doze, chamado Judas Iscariotes, foi até os chefes dos sacerdotes",
+      "reference": "Mt 26:14"
+    },
+    "15": {
+      "text": "e disse: “O que me dareis se eu o entregar?” {\\i Fixaram-lhe,} então, a quantia de {\\i trinta moedas de prata.}",
+      "reference": "Mt 26:15"
+    },
+    "16": {
+      "text": "E a partir disso, ele procurava uma oportunidade para entregá-lo. \\par",
+      "reference": "Mt 26:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Preparativos para a ceia pascal\\par }No primeiro dia dos ázimos, os discípulos aproximaram-se de Jesus dizendo: “Onde queres que te preparemos para comer a Páscoa?”",
+      "reference": "Mt 26:17"
+    },
+    "18": {
+      "text": "Ele respondeu: “Ide à cidade, à casa de alguém e dizei-lhe: ‘O Mestre diz: o meu tempo está próximo. Em tua casa irei celebrar a Páscoa com meus discípulos’”.",
+      "reference": "Mt 26:18"
+    },
+    "19": {
+      "text": "Os discípulos fizeram como Jesus lhes ordenara e prepararam a Páscoa. \\par",
+      "reference": "Mt 26:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Anúncio da traição de Judas\\par }Ao cair da tarde, ele pôs-se à mesa com os Doze",
+      "reference": "Mt 26:20"
+    },
+    "21": {
+      "text": "e, enquanto comiam, disse-lhes: “Em verdade vos digo que um de vós me entregará”.",
+      "reference": "Mt 26:21"
+    },
+    "22": {
+      "text": "Eles, muito entristecidos, puseram-se – um por um – a perguntar-lhe: “Acaso sou eu, Senhor?”",
+      "reference": "Mt 26:22"
+    },
+    "23": {
+      "text": "Ele respondeu: “O que comigo põe a mão no prato, esse me entregará.",
+      "reference": "Mt 26:23"
+    },
+    "24": {
+      "text": "Com efeito, o Filho do Homem vai, conforme está escrito a seu respeito, mas ai daquele homem por quem o Filho do Homem for entregue! Melhor seria para aquele homem não ter nascido!”",
+      "reference": "Mt 26:24"
+    },
+    "25": {
+      "text": "Então Judas, seu traidor, perguntou: “Porventura sou eu, Rabi?” Jesus respondeu-lhe: “Tu o dizes”. \\par",
+      "reference": "Mt 26:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i Instituição da eucaristia\\par }Enquanto comiam, Jesus tomou um pão e, tendo-o abençoado, partiu-o e, distribuindo-o aos discípulos, disse: “Tomai e comei, isto é o meu corpo”.",
+      "reference": "Mt 26:26"
+    },
+    "27": {
+      "text": "Depois, tomou um cálice e, dando graças, deu-lho dizendo: “Bebei dele todos,",
+      "reference": "Mt 26:27"
+    },
+    "28": {
+      "text": "pois isto é o meu sangue, {\\i o sangue da Aliança,} que é derramado por muitos para remissão dos pecados.",
+      "reference": "Mt 26:28"
+    },
+    "29": {
+      "text": "Eu vos digo: desde agora não beberei deste fruto da videira até aquele dia em que convosco beberei o vinho novo no Reino do meu Pai”. \\par",
+      "reference": "Mt 26:29"
+    },
+    "30": {
+      "text": "\\par {\\qc\\b\\i A negação de Pedro é predita\\par }Depois de terem cantado o hino, saíram para o monte das Oliveiras.",
+      "reference": "Mt 26:30"
+    },
+    "31": {
+      "text": "Jesus disse-lhes então: “Essa noite todos vós vos escandalizareis por minha causa, pois está escrito: {\\i Ferirei o pastor e as ovelhas do rebanho se dispersarão.}",
+      "reference": "Mt 26:31"
+    },
+    "32": {
+      "text": "Mas, depois que eu ressurgir, eu vos precederei na Galiléia”.",
+      "reference": "Mt 26:32"
+    },
+    "33": {
+      "text": "Pedro, tomando a palavra, disse-lhe: “Ainda que todos se escandalizem por tua causa, eu jamais me escandalizarei”.",
+      "reference": "Mt 26:33"
+    },
+    "34": {
+      "text": "Jesus declarou: “Em verdade te digo que esta noite, antes que o galo cante, me negarás três vezes!”",
+      "reference": "Mt 26:34"
+    },
+    "35": {
+      "text": "Ao que Pedro disse: “Mesmo que tiver de morrer contigo, não te negarei”. O mesmo disseram todos os discípulos. \\par",
+      "reference": "Mt 26:35"
+    },
+    "36": {
+      "text": "\\par {\\qc\\b\\i No Getsêmani\\par }Então Jesus foi com eles a um lugar chamado Getsêmani e disse aos discípulos: “Sentai-vos aí enquanto vou até ali para orar.",
+      "reference": "Mt 26:36"
+    },
+    "37": {
+      "text": "Levando Pedro e os dois filhos de Zebedeu, começou a entristecer-se e a angustiar-se.",
+      "reference": "Mt 26:37"
+    },
+    "38": {
+      "text": "Disse-lhes, então: {\\i “Minha alma está triste até a morte.} Permanecei aqui e vigiai comigo”.",
+      "reference": "Mt 26:38"
+    },
+    "39": {
+      "text": "E, indo um pouco adiante, prostrou-se com o rosto em terra e orou: “Meu Pai, se é possível, que passe de mim este cálice; contudo, não seja como eu quero, mas como tu queres”.",
+      "reference": "Mt 26:39"
+    },
+    "40": {
+      "text": "E, ao voltar para junto dos discípulos, encontrou-os dormindo. E diz a Pedro: “Como assim? Não fostes capazes de vigiar comigo por uma hora!",
+      "reference": "Mt 26:40"
+    },
+    "41": {
+      "text": "Vigiai e orai, para que não entreis em tentação, pois o espírito está pronto, mas a carne é fraca”.",
+      "reference": "Mt 26:41"
+    },
+    "42": {
+      "text": "Afastando-se de novo pela segunda vez, orou: “Meu Pai, se não é possível que isto passe sem que eu o beba, seja feita a tua vontade!”",
+      "reference": "Mt 26:42"
+    },
+    "43": {
+      "text": "E ao voltar de novo, encontrou-os dormindo, pois os seus olhos estavam pesados de sono.",
+      "reference": "Mt 26:43"
+    },
+    "44": {
+      "text": "Deixando-os, afastou-se e orou pela terceira vez, dizendo de novo as mesmas palavras.",
+      "reference": "Mt 26:44"
+    },
+    "45": {
+      "text": "Vem, então, para junto dos discípulos e lhes diz: “Dormi agora e repousai: eis que a hora está chegando e o Filho do Homem está sendo entregue às mãos dos pecadores.",
+      "reference": "Mt 26:45"
+    },
+    "46": {
+      "text": "Levantai-vos! Vamos! Eis que meu traidor está chegando”.\\par",
+      "reference": "Mt 26:46"
+    },
+    "47": {
+      "text": "\\par {\\qc\\b\\i Prisão de Jesus\\par }E enquanto ainda falava, eis que veio Judas, um dos Doze acompanhado de grande multidão com espadas e paus, da parte dos chefes dos sacerdotes e dos anciãos do povo.",
+      "reference": "Mt 26:47"
+    },
+    "48": {
+      "text": "O seu traidor dera-lhes um sinal, dizendo: “É aquele que eu beijar; prendei-o”.",
+      "reference": "Mt 26:48"
+    },
+    "49": {
+      "text": "E logo, aproximando-se de Jesus, disse: “Salve, Rabi!” e o beijou.",
+      "reference": "Mt 26:49"
+    },
+    "50": {
+      "text": "Jesus respondeu-lhe: “Amigo, para que estás aqui?” Então, avançando, deitaram a mão em Jesus e o prenderam.",
+      "reference": "Mt 26:50"
+    },
+    "51": {
+      "text": "E eis que um dos que estavam com Jesus, estendendo a mão, desembainhou a espada e, ferindo o servo do Sumo Sacerdote, decepou-lhe a orelha.",
+      "reference": "Mt 26:51"
+    },
+    "52": {
+      "text": "Mas Jesus lhe disse: “Guarda a tua espada no seu lugar, pois todos os que pegam a espada pela espada perecerão.",
+      "reference": "Mt 26:52"
+    },
+    "53": {
+      "text": "Ou pensas tu que eu não poderia apelar para o meu Pai, para que ele pusesse à minha disposição, agora mesmo, mais de doze legiões de anjos?",
+      "reference": "Mt 26:53"
+    },
+    "54": {
+      "text": "E como se cumpririam então as Escrituras, segundo as quais isso deve acontecer?”",
+      "reference": "Mt 26:54"
+    },
+    "55": {
+      "text": "E naquela hora, disse Jesus às multidões: “Como a um ladrão, saístes para prender-me com espadas e paus! Eu me sentava no Templo ensinando todos os dias e não me prendestes”.",
+      "reference": "Mt 26:55"
+    },
+    "56": {
+      "text": "Tudo isso, porém, aconteceu para se cumprirem os escritos dos profetas. Então todos os discípulos, abandonando-o, fugiram. \\par",
+      "reference": "Mt 26:56"
+    },
+    "57": {
+      "text": "\\par {\\qc\\b\\i Jesus perante o Sinédrio\\par }Os que prenderam Jesus levaram-no ao Sumo Sacerdote Caifás, onde os escribas e os anciãos estavam reunidos.",
+      "reference": "Mt 26:57"
+    },
+    "58": {
+      "text": "Pedro seguiu-o de longe até o pátio do Sumo Sacerdote e, penetrando no interior, sentou-se com os servidores para ver o fim. \\par",
+      "reference": "Mt 26:58"
+    },
+    "59": {
+      "text": "Ora, os chefes dos sacerdotes e todo o Sinédrio procuravam um falso testemunho contra Jesus, a fim de matá-lo,",
+      "reference": "Mt 26:59"
+    },
+    "60": {
+      "text": "mas nada encontraram, embora se apresentassem muitas falsas testemunhas. Por fim, se apresentaram duas",
+      "reference": "Mt 26:60"
+    },
+    "61": {
+      "text": "que afirmaram: “Este homem declarou: Posso destruir o Templo de Deus e edificá-lo depois de três dias”.",
+      "reference": "Mt 26:61"
+    },
+    "62": {
+      "text": "Levantando-se então o Sumo sacerdote, disse-lhe: “Nada respondes? O que testemunham estes contra ti?”",
+      "reference": "Mt 26:62"
+    },
+    "63": {
+      "text": "Jesus, porém, ficou calado. E o Sumo sacerdote lhe disse: “Eu te conjuro pelo Deus Vivo que nos declares se tu és o Cristo, o Filho de Deus”.",
+      "reference": "Mt 26:63"
+    },
+    "64": {
+      "text": "Jesus respondeu: “Tu o disseste. Aliás, eu vos digo que, de ora em diante, vereis {\\i o Filho do Homem sentado à direita do Poderoso e vindo sobre as nuvens do céu”.}",
+      "reference": "Mt 26:64"
+    },
+    "65": {
+      "text": "O Sumo Sacerdote então rasgou suas vestes, dizendo: “Blasfemou! Que necessidade temos ainda de testemunhas? Vede: vós ouvistes neste instante a blasfêmia.",
+      "reference": "Mt 26:65"
+    },
+    "66": {
+      "text": "Que pensais?” Eles responderam: “É réu de morte”.",
+      "reference": "Mt 26:66"
+    },
+    "67": {
+      "text": "E cuspiram-lhe no rosto e o esbofetearam. Outros lhe davam bordoadas,",
+      "reference": "Mt 26:67"
+    },
+    "68": {
+      "text": "dizendo: “Faze-nos uma profecia, Cristo: quem é que te bateu?” \\par",
+      "reference": "Mt 26:68"
+    },
+    "69": {
+      "text": "\\par {\\qc\\b\\i Negações de Pedro\\par }Pedro estava sentado fora, no pátio. Aproximou-se dele uma criada, dizendo: “Também tu estavas com Jesus, o Galileu!”",
+      "reference": "Mt 26:69"
+    },
+    "70": {
+      "text": "Ele, porém, negou diante de todos, dizendo: “Não sei o que dizes”.",
+      "reference": "Mt 26:70"
+    },
+    "71": {
+      "text": "Saindo para o pórtico, uma outra viu-o e disse aos que ali estavam: “Ele estava com Jesus, o Nazareu”.",
+      "reference": "Mt 26:71"
+    },
+    "72": {
+      "text": "De novo ele negou, jurando que não conhecia o homem.",
+      "reference": "Mt 26:72"
+    },
+    "73": {
+      "text": "Pouco depois, os que lá estavam disseram a Pedro: “De fato, também tu és um deles; pois o teu dialeto te denuncia”.",
+      "reference": "Mt 26:73"
+    },
+    "74": {
+      "text": "Então ele começou a praguejar e a jurar, dizendo: “Não conheço o homem!” E imediatamente o galo cantou.",
+      "reference": "Mt 26:74"
+    },
+    "75": {
+      "text": "E Pedro se lembrou da palavra que Jesus dissera: “Antes que o galo cante, três vezes me negarás”. Saindo dali, ele chorou amargamente. \\par",
+      "reference": "Mt 26:75"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 75
+}

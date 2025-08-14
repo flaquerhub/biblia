@@ -1,0 +1,101 @@
+{
+  "book": 17,
+  "book_name": "Ester",
+  "book_abbr": "Et",
+  "book_category": "Histórico",
+  "book_english": "Esther",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Preliminares}\\par }{\\qc\\b\\i Sonho de Mardoqueu\\par }{\\super (1a)} {\\i No segundo ano do reinado do grande rei Assuero, no primeiro dia de Nisã, veio um sonho a Mardoqueu, filho de Jair, filho de Semei, filho de Cis, da tribo de Benjamim,} {\\super (1b)} {\\i judeu que vivia em Susa e personagem ilustre como funcionário da corte.} {\\super (1c)} {\\i Ele pertencia ao número dos deportados que o rei de Babilônia, Nabucodonosor, trouxera cativos de Jerusalém junto com Jeconias, rei de Judá.}\\par {\\super (1d)} {\\i Ora, eis qual foi o sonho. Gritos e ruídos, ribomba o trovão, treme o chão, tumulto sobre toda a terra.} {\\super (1e)} {\\i Dois enormes dragões avançam, ambos prontos para o combate. Lançam um rugido;} {\\super (1f)} {\\i ao ouvi-lo, todas as nações se preparam para a guerra contra o povo dos justos.} {\\super (1g)} {\\i Dia de trevas e de escuridão! Tribulação, aflição, angústia e espanto caem sobre a terra.} {\\super (1h)} {\\i Transtornado de terror diante dos males que o esperam, todo o povo justo se prepara para morrer e invoca a Deus.} {\\super (1i)} {\\i Ora, de seu grito, como de uma pequena fonte, brota um grande rio, de águas caudalosas.} {\\super (1j)} {\\i A luz se levanta como o sol. Os humildes são exaltados e devoram os poderosos.}\\par {\\super (1k)} {\\i Quando Mardoqueu acordou, diante desse sonho e do pensamento nos desígnios de Deus, nele concentrou toda a sua atenção e, até à noite, esforçou-se de múltiplas maneiras em decifrá-lo.}\\par \\par {\\qc\\b\\i Conspiração contra o rei\\par }{\\super (1l)} {\\i Mardoqueu morava na corte com Bagatã e Tares, dois eunucos do rei, guardas do palácio.}{\\super (1m)} {\\i Suspeitando do que planejavam, e penetrando os seus desígnios, descobriu que eles se preparavam para matar o rei Assuero, e o avisou.} {\\super (1n)} {\\i O rei aplicou a tortura aos dois eunucos e, diante de suas confissões, enviou-os ao suplício.} {\\super (1o)} {\\i Em seguida ordenou que se escrevesse a história em suas Memórias, enquanto Mardoqueu, por sua conta, também a escreveu.} {\\super (1p)} {\\i Depois disso o rei lhe confiou uma função no palácio e, para recompensá-lo, gratificou-o com presentes.} {\\super (1q)} {\\i Mas Amã, filho de Amadates, o agagita, tinha o beneplácito do rei, e, por causa dessa questão dos dois eunucos reais, planejou aniquilar Mardoqueu.} \\par \\par {\\qc\\b {\\i I. Assuero e Vasti}\\par }{\\qc\\b\\i O banquete de Assuero\\par }Eis o que aconteceu no tempo de Assuero, este Assuero que reinou, desde a Índia até a Etiópia, sobre cento e vinte e sete províncias.",
+      "reference": "Et 1:1"
+    },
+    "2": {
+      "text": "Naqueles dias, assentando-se o rei Assuero em seu trono real, que está na cidadela de Susa,",
+      "reference": "Et 1:2"
+    },
+    "3": {
+      "text": "no terceiro ano de seu reinado, deu um banquete, presidido por ele, a todos os seus oficiais e servos: chefes do exército da Pérsia e da Média, nobres e governadores das províncias.",
+      "reference": "Et 1:3"
+    },
+    "4": {
+      "text": "Ele queria lhes mostrar a riqueza e a glória de seu reino e o brilho esplêndido de sua grandeza, por muitos dias, cento e oitenta ao todo. \\par",
+      "reference": "Et 1:4"
+    },
+    "5": {
+      "text": "Passados esses dias, deu o rei um banquete a todo o povo que se encontrava na cidadela de Susa, desde o maior até o menor, durante sete dias, sobre a esplanada do jardim do palácio real.",
+      "reference": "Et 1:5"
+    },
+    "6": {
+      "text": "Havia renda, musselina e púrpura atadas por cordões de linho e de escarlate sobre anéis de prata e colunas de alabastro; havia divãs de ouro e de prata sobre um pavimento de jade, de alabastro, de nácar e de azeviche.",
+      "reference": "Et 1:6"
+    },
+    "7": {
+      "text": "Para beber, copos de ouro, todos diferentes, e abundância de vinho real, segundo a liberalidade do rei.",
+      "reference": "Et 1:7"
+    },
+    "8": {
+      "text": "Bebia-se, segundo a regra, sem constrangimento, pois o rei ordenara a todos os intendentes de sua casa que se fizesse segundo a vontade de cada um. \\par",
+      "reference": "Et 1:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i A rainha Vasti recusa-se a participar do banquete\\par }Também a rainha Vasti ofereceu um banquete para as mulheres no palácio real de Assuero.",
+      "reference": "Et 1:9"
+    },
+    "10": {
+      "text": "No sétimo dia, estando já alegre o coração do rei por causa do vinho, ordenou a Maumã, Bazata, Harbona, Abgata, Bagata, Zetar e Carcas, os sete eunucos que serviam na presença do rei Assuero,",
+      "reference": "Et 1:10"
+    },
+    "11": {
+      "text": "que trouxessem à sua presença a rainha Vasti com o diadema real, para mostrar ao povo e aos oficiais a sua beleza, pois ela era muito bela.",
+      "reference": "Et 1:11"
+    },
+    "12": {
+      "text": "A rainha Vasti, porém, recusou-se a vir segundo a ordem do rei, transmitida pelos eunucos. O rei se enfureceu muito e sua ira se inflamou.",
+      "reference": "Et 1:12"
+    },
+    "13": {
+      "text": "Então o rei consultou os sábios especialistas na ciência das leis, pois toda questão real devia ser tratada diante de todos os especialistas na lei e no direito.",
+      "reference": "Et 1:13"
+    },
+    "14": {
+      "text": "Os que estavam junto dele eram Carsena, Setar, Admata, Társis, Mares, Marsana, Mamucã, sete oficiais persas e medos que viam pessoalmente o rei e se assentavam nos primeiros lugares do reino.",
+      "reference": "Et 1:14"
+    },
+    "15": {
+      "text": "“Segundo a lei”, disse ele, “que se deve fazer à rainha Vasti por não haver ela cumprido a ordem do rei Assuero transmitida pelos eunucos?”",
+      "reference": "Et 1:15"
+    },
+    "16": {
+      "text": "Respondeu Mamucã diante do rei e dos oficiais: “Não foi somente contra o rei que a rainha Vasti agiu mal, mas também contra todos os príncipes e contra todos os povos que vivem em todas as províncias do rei Assuero.",
+      "reference": "Et 1:16"
+    },
+    "17": {
+      "text": "Pois a conduta da rainha chegará ao conhecimento de todas as mulheres, que olharão seus maridos com desprezo, dizendo: ‘O rei Assuero ordenou que se trouxesse a rainha Vasti à sua presença e ela não veio!’",
+      "reference": "Et 1:17"
+    },
+    "18": {
+      "text": "Hoje mesmo as mulheres dos príncipes da Pérsia e da Média dirão a todos os oficiais do rei o que ouviram falar sobre a conduta da rainha; então haverá muito desprezo e ira.",
+      "reference": "Et 1:18"
+    },
+    "19": {
+      "text": "Se bem parecer ao rei, promulgue, de sua parte, uma ordem real, que será inscrita nas leis da Pérsia e da Média e não será revogada: que Vasti não venha mais à presença do rei Assuero; e o rei confira sua qualidade de rainha a outra melhor do que ela.",
+      "reference": "Et 1:19"
+    },
+    "20": {
+      "text": "E a sentença que o rei promulgar será ouvida em todo o seu reino, que é vasto. Então todas as mulheres honrarão os seus maridos, tanto os grandes quanto os pequenos”. \\par",
+      "reference": "Et 1:20"
+    },
+    "21": {
+      "text": "Essas palavras agradaram ao rei e aos oficiais. E o rei agiu conforme a palavra de Mamucã.",
+      "reference": "Et 1:21"
+    },
+    "22": {
+      "text": "Enviou cartas a todas as províncias reais, a cada província segundo a sua escrita e a cada povo segundo a sua língua, a fim de que cada homem governasse sua casa. \\par",
+      "reference": "Et 1:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

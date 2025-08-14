@@ -1,0 +1,301 @@
+{
+  "book": 71,
+  "book_name": "Baruc",
+  "book_abbr": "Br",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Baruch",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "É por causa dos pecados que cometestes diante de Deus que sereis levados para Babilônia como prisioneiros por Nabucodonosor, rei dos babilônios.",
+      "reference": "Br 6:1"
+    },
+    "2": {
+      "text": "Quando chegardes, pois, a Babilônia, aí estareis por muitos anos e por longo tempo, até sete gerações. Depois disso, porém, vos farei sair de lá em paz.",
+      "reference": "Br 6:2"
+    },
+    "3": {
+      "text": "Em Babilônia vereis deuses de prata, ouro e madeira, carregados aos ombros e inspirando temor às nações.",
+      "reference": "Br 6:3"
+    },
+    "4": {
+      "text": "Tomai cuidado, portanto, para não procederdes semelhantemente, assemelhando-vos aos estrangeiros: que o temor diante deles não se apodere de vós",
+      "reference": "Br 6:4"
+    },
+    "5": {
+      "text": "ao virdes a multidão, diante e atrás deles, adorando-os. Dizei então em vosso íntimo: “É a ti que se deve adorar, Senhor!”",
+      "reference": "Br 6:5"
+    },
+    "6": {
+      "text": "Pois o meu Anjo está convosco, e pediria contas de vossa vida. \\par",
+      "reference": "Br 6:6"
+    },
+    "7": {
+      "text": "A língua deles foi polida por um artesão. Mas, apesar de cobertos de ouro e de prata, são enganosos e não podem falar.",
+      "reference": "Br 6:7"
+    },
+    "8": {
+      "text": "Como para uma moça apaixonada por enfeites, eles tomam ouro e fabricam coroas para as cabeças de seus deuses.",
+      "reference": "Br 6:8"
+    },
+    "9": {
+      "text": "Acontece, porém, que os sacerdotes roubam de seus deuses o ouro e a prata para suas despesas particulares, delas retirando para presentear até às prostitutas do terraço.",
+      "reference": "Br 6:9"
+    },
+    "10": {
+      "text": "Eles ataviam com vestidos, como se fossem seres humanos, esses deuses de prata, ouro e madeira, os quais não se salvam a si próprios nem da ferrugem nem dos vermes.",
+      "reference": "Br 6:10"
+    },
+    "11": {
+      "text": "Tendo-os revestido de um manto de púrpura, devem espanar seus rostos por causa do pó do recinto, que se acumula sobre eles.",
+      "reference": "Br 6:11"
+    },
+    "12": {
+      "text": "Um empunha um cetro, como se fosse o governador de uma província, embora não possa fazer morrer quem o ofenda.",
+      "reference": "Br 6:12"
+    },
+    "13": {
+      "text": "Outro ostenta na mão um punhal e um machado, mas não é capaz de proteger-se nem da guerra nem dos salteadores.",
+      "reference": "Br 6:13"
+    },
+    "14": {
+      "text": "Por isso, é manifesto que não são deuses: portanto, não os temereis. \\par",
+      "reference": "Br 6:14"
+    },
+    "15": {
+      "text": "Assim como o vaso de alguém, quando quebrado, perde a utilidade, da mesma forma são os seus deuses, uma vez instalados nos templos.",
+      "reference": "Br 6:15"
+    },
+    "16": {
+      "text": "Seus olhos estão cheios da poeira levantada pelos pés dos que entram.",
+      "reference": "Br 6:16"
+    },
+    "17": {
+      "text": "E assim como se trancam de todos os lados as portas sobre um homem que ofendeu o rei e que vai ser conduzido à morte, da mesma forma os sacerdotes trancam os seus templos com portas reforçadas, fechaduras e ferrolhos, a fim de que seus deuses não sejam depredados pelos salteadores.",
+      "reference": "Br 6:17"
+    },
+    "18": {
+      "text": "Também acendem luminárias, em número maior do que o suficiente para si próprios, e das quais esses deuses não podem ver uma sequer.",
+      "reference": "Br 6:18"
+    },
+    "19": {
+      "text": "Dá-se com eles o que se dá com qualquer das vigas do templo, cujo cerne dizem que está corroído: enquanto os vermes que saem da terra os carcomem, assim como às suas vestes, eles nem o percebem.",
+      "reference": "Br 6:19"
+    },
+    "20": {
+      "text": "Seus rostos estão enegrecidos por causa da fumaça que se desprende do templo.",
+      "reference": "Br 6:20"
+    },
+    "21": {
+      "text": "Sobre seus corpos e sua cabeças esvoaçam morcegos, andorinhas e outros voláteis, como também os gatos.",
+      "reference": "Br 6:21"
+    },
+    "22": {
+      "text": "De isso tudo concluireis que não são deuses: portanto, não os temereis. \\par",
+      "reference": "Br 6:22"
+    },
+    "23": {
+      "text": "Quanto ao ouro, do qual se revestem para sua beleza, se ninguém lhes limpa o ofuscamento, não são eles que o tornarão brilhante. Aliás, nem sentiram quando foram fundidos.",
+      "reference": "Br 6:23"
+    },
+    "24": {
+      "text": "Por preços exorbitantes foram comprados, e neles não há sopro algum de vida.",
+      "reference": "Br 6:24"
+    },
+    "25": {
+      "text": "Não tendo pés, são carregados aos ombros, revelando aos homens a sua ignomínia. Passam vergonha também os que os servem, pois é pela ajuda destes que eles se repõem em pé, no caso de virem a cair por terra.",
+      "reference": "Br 6:25"
+    },
+    "26": {
+      "text": "Se alguém os coloca direito em pé, eles não podem mover-se por si mesmos; se se inclinam, não podem reerguer-se. De fato, é como a mortos que lhes são apresentadas as oferendas.",
+      "reference": "Br 6:26"
+    },
+    "27": {
+      "text": "Quanto às vítimas oferecidas, seus sacerdotes as revendem e delas fazem uso; da mesma forma, suas mulheres deixam uma parte em salmoura, sem nada distribuir ao pobre e ao inválido. A própria mulher em estado de impureza e a que recentemente deu à luz tocam em seus sacrifícios.",
+      "reference": "Br 6:27"
+    },
+    "28": {
+      "text": "Concluindo, pois, de todos esses fatos, que eles não são deuses, não os temais. \\par",
+      "reference": "Br 6:28"
+    },
+    "29": {
+      "text": "Como poderiam eles ser chamados deuses, se são mulheres que apresentam oferendas a esses deuses de prata, ouro e madeira?",
+      "reference": "Br 6:29"
+    },
+    "30": {
+      "text": "Nos seus templos os sacerdotes se mantêm sentados tendo as túnicas rasgadas, cabeça e barba raspadas, e nada sobre suas cabeças.",
+      "reference": "Br 6:30"
+    },
+    "31": {
+      "text": "Vociferam e gritam diante dos seus deuses como alguns o fazem num banquete fúnebre.",
+      "reference": "Br 6:31"
+    },
+    "32": {
+      "text": "Com as vestimentas que deles retiram para si, os sacerdotes vestem suas mulheres e seus filhos.",
+      "reference": "Br 6:32"
+    },
+    "33": {
+      "text": "Eles são incapazes de retribuir, quer sofram o mal, quer recebam o bem de alguém; da mesma forma, são incapazes de entronizar um rei ou de destroná-lo.",
+      "reference": "Br 6:33"
+    },
+    "34": {
+      "text": "De igual modo, não podem dar riqueza nem dinheiro; e se alguém, tendo-lhes feito um voto, não o cumprir, eles não lhe irão pedir contas.",
+      "reference": "Br 6:34"
+    },
+    "35": {
+      "text": "Não salvarão a ninguém da morte, nem livrarão o mais fraco das mãos do poderoso.",
+      "reference": "Br 6:35"
+    },
+    "36": {
+      "text": "Não restaurarão o cego em sua visão, nem acudirão ao homem necessitado.",
+      "reference": "Br 6:36"
+    },
+    "37": {
+      "text": "Nao terão compaixão da viúva, nem beneficiarão ao órfão.",
+      "reference": "Br 6:37"
+    },
+    "38": {
+      "text": "Pois se assemelham às pedras extraídas da montanha esses pedaços de madeira recobertos de ouro e de prata, e os que os servem serão cumulados de vergonha!",
+      "reference": "Br 6:38"
+    },
+    "39": {
+      "text": "Como então pensar ou proclamar que são deuses? \\par",
+      "reference": "Br 6:39"
+    },
+    "40": {
+      "text": "Tanto mais que os próprios caldeus os desonram. Com efeito, ao verem um mudo que não pode falar, eles o apresentam a Bel, suplicando que o homem fale, como se o deus pudesse ouvir.",
+      "reference": "Br 6:40"
+    },
+    "41": {
+      "text": "Mas são incapazes de refletir nisso e de abandonar esses deuses, pois não têm bom senso.",
+      "reference": "Br 6:41"
+    },
+    "42": {
+      "text": "Quanto às mulheres, elas se cingem de uma corda e se sentam nos caminhos, queimando flor de farinha como incenso;",
+      "reference": "Br 6:42"
+    },
+    "43": {
+      "text": "quando, pois, uma delas é recolhida por um dos passantes e com ele dorme, zomba da vizinha por não ter sido escolhida como ela o foi, nem ter sido desatada a sua corda.",
+      "reference": "Br 6:43"
+    },
+    "44": {
+      "text": "Tudo o que concerne a eles é mentira: como então pensar ainda ou proclamar que são deuses? \\par",
+      "reference": "Br 6:44"
+    },
+    "45": {
+      "text": "Fabricados por operários e ourives, eles não serão outra coisa senão o que seus artífices querem que eles sejam.",
+      "reference": "Br 6:45"
+    },
+    "46": {
+      "text": "Ora, aqueles que os fabricam não terão longo tempo de vida. Como, pois, poderão ser deuses as coisas por eles fabricadas?",
+      "reference": "Br 6:46"
+    },
+    "47": {
+      "text": "Assim é que eles deixam a seus descendentes mentira e desonra.",
+      "reference": "Br 6:47"
+    },
+    "48": {
+      "text": "Depois, quando sobrevém uma guerra ou outras calamidades, entram em conselho os sacerdotes para saberem onde se ocultar junto com eles;",
+      "reference": "Br 6:48"
+    },
+    "49": {
+      "text": "como então não se percebe que não são deuses, se não são capazes de salvar-se a si mesmos da guerra nem de outras calamidades?",
+      "reference": "Br 6:49"
+    },
+    "50": {
+      "text": "Sendo apenas objetos de madeira, e peças revestidas de ouro e de prata, reconhecer-se-á, depois disto, que são apenas mentira. E a todas as nações e aos reis será manifesto que eles não são deuses, mas apenas obras das mãos dos homens, e que nenhuma obra divina se encontra neles.",
+      "reference": "Br 6:50"
+    },
+    "51": {
+      "text": "A quem, pois, não deve ser notório que não são deuses? \\par",
+      "reference": "Br 6:51"
+    },
+    "52": {
+      "text": "E eles não suscitarão um rei a um país nem darão a chuva aos homens.",
+      "reference": "Br 6:52"
+    },
+    "53": {
+      "text": "Não defenderão sua própria causa nem livrarão um injustiçado. Pois não têm poder algum, assemelhando-se a gralhas entre o céu e a terra.",
+      "reference": "Br 6:53"
+    },
+    "54": {
+      "text": "E se o fogo irromper no templo desses deuses de madeira, cobertos de ouro e de prata, seus sacerdotes fugirão e se porão a salvo, enquanto eles serão inteiramente consumidos como vigas em meio ao incêndio.",
+      "reference": "Br 6:54"
+    },
+    "55": {
+      "text": "Eles não podem resistir a um rei nem a inimigos.",
+      "reference": "Br 6:55"
+    },
+    "56": {
+      "text": "Como então se poderia admitir ou pensar que sejam deuses? \\par",
+      "reference": "Br 6:56"
+    },
+    "57": {
+      "text": "Nem de ladrões nem de salteadores poderão escapar esses deuses de madeira, cobertos de prata ou ouro. Os que são mais fortes do que eles arrebatar-lhes-ão o ouro e a prata e sairão, tendo em mãos o manto que os cobria, sem que eles possam socorrer-se a si próprios.",
+      "reference": "Br 6:57"
+    },
+    "58": {
+      "text": "Dessa forma, vale mais ser um rei que pode mostrar a sua coragem, ou um utensílio que é útil em casa e do qual se serve seu dono, do que ser esses falsos deuses; ou ainda, numa casa, uma porta que protege o que dentro da casa se encontra, do que esses falsos deuses; ou ainda, uma coluna de madeira em palácios reais, do que esses falsos deuses.",
+      "reference": "Br 6:58"
+    },
+    "59": {
+      "text": "Pois o sol, a lua e as estrelas, sendo brilhantes e destinando-se à utilidade dos homens, de boa mente cumprem sua missão.",
+      "reference": "Br 6:59"
+    },
+    "60": {
+      "text": "Da mesma forma o relâmpago, quando rebrilha, é belo de ver-se; igualmente o vento, que sopra em cada região da terra;",
+      "reference": "Br 6:60"
+    },
+    "61": {
+      "text": "também as nuvens, quando lhes é ordenado por Deus que percorram toda a terra, executam o que lhes foi mandado; de igual modo o fogo, enviado do alto para devastar montes e florestas, cumpre o que lhe foi ordenado.",
+      "reference": "Br 6:61"
+    },
+    "62": {
+      "text": "Ora, esses ídolos não são sequer comparáveis nem às suas formas nem aos seus poderes.",
+      "reference": "Br 6:62"
+    },
+    "63": {
+      "text": "Donde se conclui que não se deve considerar nem proclamar que sejam deuses, uma vez que não são capazes de pronunciar um julgamento nem de fazer bem aos homens.",
+      "reference": "Br 6:63"
+    },
+    "64": {
+      "text": "Sabendo, pois, que não são deuses, não os temais! \\par",
+      "reference": "Br 6:64"
+    },
+    "65": {
+      "text": "Eles não amaldiçoarão como também não abençoarão os reis;",
+      "reference": "Br 6:65"
+    },
+    "66": {
+      "text": "e não poderão entre as nações mostrar sinais no céu, nem brilhar como o sol nem iluminar como a lua.",
+      "reference": "Br 6:66"
+    },
+    "67": {
+      "text": "Os animais selvagens valem mais que eles, uma vez que podem, refugiando-se num abrigo, socorrer-se a si mesmos.",
+      "reference": "Br 6:67"
+    },
+    "68": {
+      "text": "De modo algum, pois, é manifesto que sejam deuses. Por isso, não os temais! \\par",
+      "reference": "Br 6:68"
+    },
+    "69": {
+      "text": "Como um espantalho em campo de pepinos, que nada protege, assim são os seus deuses de madeira, cobertos de ouro ou de prata.",
+      "reference": "Br 6:69"
+    },
+    "70": {
+      "text": "Da mesma forma, esses deuses de madeira, cobertos de ouro ou de prata, são ainda comparáveis ao espinheiro no jardim, sobre o qual toda espécie de aves vem pousar, ou a um cadáver lançado à escuridão.",
+      "reference": "Br 6:70"
+    },
+    "71": {
+      "text": "Pela púrpura e pelo linho que sobre eles apodrecem reconhecereis que não são deuses. Acabarão, enfim, devorados, tornando-se uma ignomínia em seu país.",
+      "reference": "Br 6:71"
+    },
+    "72": {
+      "text": "É melhor, pois, a condição do homem justo, que não tem ídolos: ele estará longe do opróbrio! \\par",
+      "reference": "Br 6:72"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 72
+}

@@ -1,0 +1,117 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 136,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 136 (135)\\par }{\\qc\\b\\i Grande ladainha de ação de graças\\par }Aleluia!\\par Celebrai a Iahweh, porque ele é bom, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:1"
+    },
+    "2": {
+      "text": "Celebrai o Deus dos deuses, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:2"
+    },
+    "3": {
+      "text": "Celebrai o Senhor dos senhores, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:3"
+    },
+    "4": {
+      "text": "Só ele realizou maravilhas, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:4"
+    },
+    "5": {
+      "text": "Ele fez os céus com inteligência, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:5"
+    },
+    "6": {
+      "text": "Ele firmou a terra sobre as águas, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:6"
+    },
+    "7": {
+      "text": "Ele fez os grandes luminares: \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:7"
+    },
+    "8": {
+      "text": "O sol para governar o dia, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:8"
+    },
+    "9": {
+      "text": "A lua e as estrelas para governarem a noite, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:9"
+    },
+    "10": {
+      "text": "Ele feriu o Egito em seus primogênitos, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:10"
+    },
+    "11": {
+      "text": "E fez sair Israel do meio deles, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:11"
+    },
+    "12": {
+      "text": "Com mão forte e braço estendido, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:12"
+    },
+    "13": {
+      "text": "Ele dividiu o mar dos Juncos em duas partes, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:13"
+    },
+    "14": {
+      "text": "E por entre elas fez passar Israel, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:14"
+    },
+    "15": {
+      "text": "Mas nele arrojou Faraó e seu exército, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:15"
+    },
+    "16": {
+      "text": "Ele guiou o seu povo no deserto, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:16"
+    },
+    "17": {
+      "text": "Ele feriu reis famosos, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:17"
+    },
+    "18": {
+      "text": "Ele matou reis poderosos, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:18"
+    },
+    "19": {
+      "text": "Seon, rei dos amorreus, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:19"
+    },
+    "20": {
+      "text": "E Og, rei de Basã, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:20"
+    },
+    "21": {
+      "text": "Ele deu a terra deles como herança, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:21"
+    },
+    "22": {
+      "text": "Como herança ao seu servo, Israel, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:22"
+    },
+    "23": {
+      "text": "Ele se lembrou de nós em nossa humilhação, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:23"
+    },
+    "24": {
+      "text": "Ele nos salvou dos nossos opressores, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:24"
+    },
+    "25": {
+      "text": "Ele dá o pão a toda carne, \\par porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:25"
+    },
+    "26": {
+      "text": "Celebrai ao Deus dos céus! \\par Porque o seu amor é para sempre! \\par",
+      "reference": "Sl 136:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

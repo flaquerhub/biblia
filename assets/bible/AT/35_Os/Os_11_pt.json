@@ -1,0 +1,57 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Iahweh vingará o seu amor desprezado\\par }Quando Israel era um menino, eu o amei \\par e do Egito chamei meu filho. \\par",
+      "reference": "Os 11:1"
+    },
+    "2": {
+      "text": "mas quanto mais eu os chamava, mais eles se afastavam de mim. \\par Eles sacrificavam aos baals \\par e queimavam incenso aos ídolos. \\par",
+      "reference": "Os 11:2"
+    },
+    "3": {
+      "text": "Fui eu, contudo, quem ensinou Efraim a caminhar, \\par eu os tomei em meus braços, \\par mas não reconheceram que eu cuidava deles! \\par",
+      "reference": "Os 11:3"
+    },
+    "4": {
+      "text": "Com vínculos humanos eu os atraía, \\par com laços de amor \\par eu era para eles como os que levantam uma criancinha \\par contra o seu rosto, \\par eu me inclinava para ele e o alimentava. \\par",
+      "reference": "Os 11:4"
+    },
+    "5": {
+      "text": "Ele não voltará à terra do Egito, \\par mas a Assíria será o seu rei. \\par Uma vez que recusaram converter-se, \\par",
+      "reference": "Os 11:5"
+    },
+    "6": {
+      "text": "a espada devastará em suas cidades, \\par aniquilará os seus ferrolhos \\par e devorará por causa de seus planos. \\par",
+      "reference": "Os 11:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Mas Iahweh perdoa\\par }Meu povo está obstinado em sua apostasia. \\par Chamam-no do alto, \\par mas ninguém se levanta! \\par",
+      "reference": "Os 11:7"
+    },
+    "8": {
+      "text": "Como poderia eu abandonar-te, ó Efraim, \\par entregar-te, ó Israel? \\par Como poderia eu abandonar-te como a Adama, \\par tratar-te como a Seboim? \\par Meu coração se contorce dentro de mim, \\par minhas entranhas comovem-se. \\par",
+      "reference": "Os 11:8"
+    },
+    "9": {
+      "text": "Não executarei o ardor de minha ira, não tornarei a destruir Efraim, \\par porque eu sou um Deus e não um homem, \\par eu sou santo no meio de ti, \\par não retornarei com furor. \\par \\par",
+      "reference": "Os 11:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Volta do exílio\\par }Eles caminharão atrás de Iahweh. \\par Ele rugirá como um leão, \\par e quando ele rugir, \\par os filhos virão tremendo do ocidente. \\par",
+      "reference": "Os 11:10"
+    },
+    "11": {
+      "text": "Eles virão tremendo do Egito, \\par como pássaros e como pombas da terra da Assíria. \\par E eu os farei habitar em suas casas, \\par oráculo de Iahweh. \\par",
+      "reference": "Os 11:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

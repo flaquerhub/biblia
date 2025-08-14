@@ -1,0 +1,85 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Abraão em Gerara\\par }Abraão partiu dali para a terra do Negueb e habitou entre Cades e Sur. Ele foi morar em Gerara. \\par",
+      "reference": "Gn 20:1"
+    },
+    "2": {
+      "text": "Abraão disse de sua mulher Sara: “É minha irmã”, e Abimelec, rei de Gerara, mandou buscar Sara.",
+      "reference": "Gn 20:2"
+    },
+    "3": {
+      "text": "Mas Deus visitou Abimelec em sonho durante a noite, e lhe disse: “Vais morrer por causa da mulher que tomaste, pois ela é uma mulher casada”.",
+      "reference": "Gn 20:3"
+    },
+    "4": {
+      "text": "Abimelec, que ainda não tinha se aproximado dela, disse: “Meu Senhor, vais matar alguém inocente?",
+      "reference": "Gn 20:4"
+    },
+    "5": {
+      "text": "Acaso não foi ele que me disse: ‘É minha irmã’, e ela, ela mesma, não disse: ‘É meu irmão’? Foi com boa consciência e mãos puras que fiz isso!”",
+      "reference": "Gn 20:5"
+    },
+    "6": {
+      "text": "Deus lhe respondeu no sonho: “Também eu sei que fizeste isso em boa consciência, e fui eu quem te impediu de pecar contra mim, não permitindo que a tocasses.",
+      "reference": "Gn 20:6"
+    },
+    "7": {
+      "text": "Agora, devolve a mulher desse homem: ele é profeta e intercederá por ti, para que vivas. Mas se não a devolveres, saibas que certamente morrerás, com todos os teus”. \\par",
+      "reference": "Gn 20:7"
+    },
+    "8": {
+      "text": "Abimelec levantou-se cedo e chamou todos os seus servos. Narrou-lhes tudo isso e os homens tiveram grande temor.",
+      "reference": "Gn 20:8"
+    },
+    "9": {
+      "text": "Em seguida Abimelec chamou Abraão e lhe disse: “Que nos fizeste? Que ofensa cometi contra ti para que atraias tão grande culpa sobre mim e sobre meu reino? Tu me fizeste como não se deve fazer”.",
+      "reference": "Gn 20:9"
+    },
+    "10": {
+      "text": "E Abimelec disse a Abraão: “Quem te pediu para agir assim?”",
+      "reference": "Gn 20:10"
+    },
+    "11": {
+      "text": "Abraão respondeu: “Eu disse para comigo: Certamente não haverá nenhum temor de Deus neste lugar, e me matarão por causa de minha mulher.",
+      "reference": "Gn 20:11"
+    },
+    "12": {
+      "text": "Além disso, ela é realmente minha irmã, filha de meu pai, mas não filha de minha mãe, e tornou-se minha mulher.",
+      "reference": "Gn 20:12"
+    },
+    "13": {
+      "text": "Então, quando Deus me fez andar errante longe de minha família, eu disse a ela: Eis o favor que me farás: em todo lugar em que estivermos, dirás a meu respeito que eu sou teu irmão”. \\par",
+      "reference": "Gn 20:13"
+    },
+    "14": {
+      "text": "Abimelec tomou ovelhas e bois, servos e servas e os deu a Abraão, e lhe devolveu sua mulher Sara.",
+      "reference": "Gn 20:14"
+    },
+    "15": {
+      "text": "Disse ainda Abimelec: “Eis que a minha terra está aberta diante de ti. Estabelece-te onde bem quiseres”.",
+      "reference": "Gn 20:15"
+    },
+    "16": {
+      "text": "A Sara, ele disse: “Eis aqui mil siclos de prata que dou a teu irmão. Isto será para ti como véu lançado sobre os olhos de todos os que estão contigo, e estás justificada de tudo isso”.",
+      "reference": "Gn 20:16"
+    },
+    "17": {
+      "text": "Abraão intercedeu junto de Deus e Deus curou Abimelec, sua mulher e seus servos, a fim de que pudessem ter filhos.",
+      "reference": "Gn 20:17"
+    },
+    "18": {
+      "text": "Pois Iahweh tornara estéril o seio de todas as mulheres na casa de Abimelec, por causa de Sara, a mulher de Abraão. \\par",
+      "reference": "Gn 20:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

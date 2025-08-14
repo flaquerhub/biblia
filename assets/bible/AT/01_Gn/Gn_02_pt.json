@@ -1,0 +1,113 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Assim foram concluídos o céu e a terra, com todo o seu exército.",
+      "reference": "Gn 2:1"
+    },
+    "2": {
+      "text": "Deus concluiu no sétimo dia a obra que fizera e no sétimo dia descansou, depois de toda a obra que fizera.",
+      "reference": "Gn 2:2"
+    },
+    "3": {
+      "text": "Deus abençoou o sétimo dia e o santificou, pois nele descansou depois de toda a sua obra de criação. \\par",
+      "reference": "Gn 2:3"
+    },
+    "4": {
+      "text": "{\\super (4a)} Essa é a história do céu e da terra, quando foram criados. \\par \\par {\\qc\\b\\i A experiência da liberdade. O paraíso\\par }{\\super (4b)} No tempo em que Iahweh Deus fez a terra e o céu,",
+      "reference": "Gn 2:4"
+    },
+    "5": {
+      "text": "não havia ainda nenhum arbusto dos campos sobre a terra e nenhuma erva dos campos tinha ainda crescido, porque Iahweh Deus não tinha feito chover sobre a terra e não havia homem para cultivar o solo.",
+      "reference": "Gn 2:5"
+    },
+    "6": {
+      "text": "Entretanto, um manancial subia da terra e regava toda a superfície do solo.",
+      "reference": "Gn 2:6"
+    },
+    "7": {
+      "text": "Então Iahweh Deus modelou o homem com a argila do solo, insuflou em suas narinas um hálito de vida e o homem se tornou um ser vivente. \\par",
+      "reference": "Gn 2:7"
+    },
+    "8": {
+      "text": "Iahweh Deus plantou um jardim em Éden, no oriente, e aí colocou o homem que modelara.",
+      "reference": "Gn 2:8"
+    },
+    "9": {
+      "text": "Iahweh Deus fez crescer do solo toda espécie de árvores formosas de ver e boas de comer, e a árvore da vida no meio do jardim, e a árvore do conhecimento do bem e do mal.",
+      "reference": "Gn 2:9"
+    },
+    "10": {
+      "text": "Um rio saía de Éden para regar o jardim e de lá se dividia formando quatro braços.",
+      "reference": "Gn 2:10"
+    },
+    "11": {
+      "text": "O primeiro chama-se Fison; rodeia toda a terra de Hévila, onde há ouro;",
+      "reference": "Gn 2:11"
+    },
+    "12": {
+      "text": "é puro o ouro dessa terra na qual se encontram o bdélio e a pedra de ônix.",
+      "reference": "Gn 2:12"
+    },
+    "13": {
+      "text": "O segundo rio chama-se Geon: rodeia toda a terra de Cuch.",
+      "reference": "Gn 2:13"
+    },
+    "14": {
+      "text": "O terceiro rio se chama Tigre: corre pelo oriente da Assíria. O quarto rio é o Eufrates.",
+      "reference": "Gn 2:14"
+    },
+    "15": {
+      "text": "Iahweh Deus tomou o homem e o colocou no jardim de Éden para o cultivar e o guardar.",
+      "reference": "Gn 2:15"
+    },
+    "16": {
+      "text": "E Iahweh Deus deu ao homem este mandamento: “Podes comer de todas as árvores do jardim.",
+      "reference": "Gn 2:16"
+    },
+    "17": {
+      "text": "Mas da árvore do conhecimento do bem e do mal não comerás, porque no dia em que dela comeres terás que morrer”. \\par",
+      "reference": "Gn 2:17"
+    },
+    "18": {
+      "text": "Iahweh Deus disse: “Não é bom que o homem esteja só. Vou fazer uma auxiliar que lhe corresponda”.",
+      "reference": "Gn 2:18"
+    },
+    "19": {
+      "text": "Iahweh Deus modelou então, do solo, todas as feras selvagens e todas as aves do céu e as conduziu ao homem para ver como ele as chamaria: cada qual devia levar o nome que o homem lhe desse.",
+      "reference": "Gn 2:19"
+    },
+    "20": {
+      "text": "O homem deu nomes a todos os animais, às aves do céu e a todas as feras selvagens, mas, para o homem, não encontrou a auxiliar que lhe correspondesse.",
+      "reference": "Gn 2:20"
+    },
+    "21": {
+      "text": "Então Iahweh Deus fez cair um torpor sobre o homem, e ele dormiu. Tomou uma de suas costelas e fez crescer carne em seu lugar.",
+      "reference": "Gn 2:21"
+    },
+    "22": {
+      "text": "Depois, da costela que tirara do homem, Iahweh Deus modelou uma mulher e a trouxe ao homem. \\par",
+      "reference": "Gn 2:22"
+    },
+    "23": {
+      "text": "Então o homem exclamou: \\par “Esta, sim, é osso de meus ossos \\par e carne de minha carne! \\par Ela será chamada ‘mulher’, \\par porque foi tirada do homem!” \\par",
+      "reference": "Gn 2:23"
+    },
+    "24": {
+      "text": "Por isso um homem deixa seu pai e sua mãe, se une à sua mulher, e eles se tornam uma só carne. \\par",
+      "reference": "Gn 2:24"
+    },
+    "25": {
+      "text": "Ora, os dois estavam nus, o homem e sua mulher, e não se envergonhavam. \\par",
+      "reference": "Gn 2:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

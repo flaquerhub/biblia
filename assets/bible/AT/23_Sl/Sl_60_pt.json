@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 60,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 60 (59)\\par }{\\qc\\b\\i Prece nacional após a derrota\\par }{\\qc\\i Do mestre de canto. Sobre “O lírio é o preceito”. À meia-voz. De Davi. Para ensinar. \\par }",
+      "reference": "Sl 60:1"
+    },
+    "2": {
+      "text": "{\\qc\\i Quando ele lutou contra os sírios da Mesopotâmia e os sírios de Soba, e quando Joab voltou e derrotou Edom no Vale do Sal, cerca de doze mil homens.\\par }",
+      "reference": "Sl 60:2"
+    },
+    "3": {
+      "text": "Ó Deus, tu nos rejeitaste e nos dispersaste, \\par estavas irritado: volta a nós! \\par",
+      "reference": "Sl 60:3"
+    },
+    "4": {
+      "text": "Fizeste a terra tremer e a fendeste: \\par repara suas fendas, pois ela vacila! \\par",
+      "reference": "Sl 60:4"
+    },
+    "5": {
+      "text": "Mostraste duras coisas ao teu povo, \\par fizeste-nos beber um vinho estonteante; \\par",
+      "reference": "Sl 60:5"
+    },
+    "6": {
+      "text": "deste a teus fiéis o sinal \\par para debandar perante o arco. {\\i Pausa} \\par",
+      "reference": "Sl 60:6"
+    },
+    "7": {
+      "text": "Para que teus amados sejam libertos, \\par salva com a tua direita! Responde-nos! \\par",
+      "reference": "Sl 60:7"
+    },
+    "8": {
+      "text": "Deus falou em seu santuário: \\par “Eu exulto ao partilhar Siquém, \\par e ao medir o vale de Sucot. \\par",
+      "reference": "Sl 60:8"
+    },
+    "9": {
+      "text": "Meu é Galaad, Manassés me pertence, \\par o elmo da minha cabeça é Efraim, \\par Judá, cetro do meu comando. \\par",
+      "reference": "Sl 60:9"
+    },
+    "10": {
+      "text": "Moab é a bacia em que me lavo, \\par e sobre Edom eu lanço a minha sandália.\\par Grita a vitória contra mim, ó Filistéia!” \\par",
+      "reference": "Sl 60:10"
+    },
+    "11": {
+      "text": "Quem me levará a uma cidade-forte, \\par quem me conduzirá até Edom, \\par",
+      "reference": "Sl 60:11"
+    },
+    "12": {
+      "text": "a não ser tu, ó Deus, que nos rejeitaste, \\par um Deus que já não sai com nossos exércitos? \\par",
+      "reference": "Sl 60:12"
+    },
+    "13": {
+      "text": "Concede-nos socorro na opressão, \\par pois a salvação humana é inútil! \\par",
+      "reference": "Sl 60:13"
+    },
+    "14": {
+      "text": "Com Deus nós faremos proezas: \\par ele vai calcar nossos opressores! \\par",
+      "reference": "Sl 60:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

@@ -1,0 +1,81 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As guerras de Davi\\par }Aconteceu, depois disso, que Davi venceu os filisteus e os subjugou. Tomou das mãos dos filisteus Gat e suas vizinhanças.",
+      "reference": "1Cr 18:1"
+    },
+    "2": {
+      "text": "Depois venceu Moab e os moabitas se tornaram súditos de Davi e pagaram tributo. \\par",
+      "reference": "1Cr 18:2"
+    },
+    "3": {
+      "text": "Davi derrotou Adadezer, rei de Soba, em Emat, quando ele ia estabelecer seu domínio sobre o rio Eufrates.",
+      "reference": "1Cr 18:3"
+    },
+    "4": {
+      "text": "Davi lhe tomou mil carros, sete mil cavaleiros e vinte mil soldados de infantaria; e Davi cortou os jarretes de todos os cavalos guardando apenas cem deles.",
+      "reference": "1Cr 18:4"
+    },
+    "5": {
+      "text": "Os arameus de Damasco vieram em auxílio de Adadezer, rei de Soba, mas Davi matou vinte e dois mil homens dos arameus.",
+      "reference": "1Cr 18:5"
+    },
+    "6": {
+      "text": "Depois Davi estabeleceu governadores em Aram de Damasco, e os arameus se tornaram súditos de Davi e lhe pagaram tributo. Aonde quer que Davi fosse, Deus lhe concedia a vitória.",
+      "reference": "1Cr 18:6"
+    },
+    "7": {
+      "text": "Davi tomou os colares de ouro que os guardas de Adadezer traziam e levou-os para Jerusalém.",
+      "reference": "1Cr 18:7"
+    },
+    "8": {
+      "text": "De Tebat e de Cun, cidades de Adadezer, Davi retirou uma enorme quantidade de bronze, com a qual Salomão fez o Mar de bronze, as colunas e os utensílios de bronze. \\par",
+      "reference": "1Cr 18:8"
+    },
+    "9": {
+      "text": "Quando Toú, rei de Emat, soube que Davi vencera todo o exército de Adadezer, rei de Soba,",
+      "reference": "1Cr 18:9"
+    },
+    "10": {
+      "text": "enviou seu filho Adoram ao rei Davi para saudá-lo e felicitá-lo por ter guerreado contra Adadezer e por tê-lo vencido, pois Adadezer estava em guerra contra Toú. Mandou toda espécie de objetos de ouro, prata e bronze;",
+      "reference": "1Cr 18:10"
+    },
+    "11": {
+      "text": "Davi os consagrou também a Iahweh, com a prata e o ouro que havia conquistado a todas as nações, Edom, Moab, amonitas, filisteus e amalecitas. \\par",
+      "reference": "1Cr 18:11"
+    },
+    "12": {
+      "text": "Abisaí, filho de Sárvia, venceu os edomitas em número de dezoito mil no vale do Sal.",
+      "reference": "1Cr 18:12"
+    },
+    "13": {
+      "text": "Estabeleceu governadores em Edom e todos os edomitas se tornaram súditos de Davi. Aonde quer que Davi fosse, Deus lhe concedia a vitória. \\par",
+      "reference": "1Cr 18:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i A administração do reino\\par }Davi reinou sobre todo o Israel, administrando o direito e a justiça para todo o seu povo. \\par",
+      "reference": "1Cr 18:14"
+    },
+    "15": {
+      "text": "Joab, filho de Sárvia, comandava o exército; Josafá, filho de Ailud, era o arauto;",
+      "reference": "1Cr 18:15"
+    },
+    "16": {
+      "text": "Sadoc, filho de Aquitob, e Aquimelec, filho de Abiatar, eram sacerdotes; Susa era secretário;",
+      "reference": "1Cr 18:16"
+    },
+    "17": {
+      "text": "Banaías, filho de Joiada, comandava os cereteus e os feleteus. Os filhos de Davi eram os primeiros ao lado do rei. \\par",
+      "reference": "1Cr 18:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

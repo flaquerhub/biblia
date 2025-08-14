@@ -1,0 +1,69 @@
+{
+  "book": 30,
+  "book_name": "Amós",
+  "book_abbr": "Am",
+  "book_category": "Profético",
+  "book_english": "Amos",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Quarta visão: o cesto de frutos maduros\\par }Assim me fez ver o Senhor Iahweh: \\par Eis um cesto de frutos maduros! \\par",
+      "reference": "Am 8:1"
+    },
+    "2": {
+      "text": "E ele disse: “Que vês, Amós?” \\par Eu disse: “Um cesto de frutos maduros!” \\par E Iahweh me disse:\\par “Israel, meu povo, está maduro para seu fim, \\par não tornarei mais a perdoá-lo. \\par",
+      "reference": "Am 8:2"
+    },
+    "3": {
+      "text": "As cantoras do palácio gemerão naquele dia. \\par – Oráculo do Senhor Iahweh – \\par Numerosos serão os cadáveres, \\par lançá-los-ão em todos os lugares. Silêncio!” \\par",
+      "reference": "Am 8:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Contra os defraudadores e exploradores\\par }Ouvi isto, vós que esmagais o indigente \\par e quereis eliminar os pobres da terra, \\par",
+      "reference": "Am 8:4"
+    },
+    "5": {
+      "text": "vós que dizeis: “Quando passará a lua nova, \\par para que possamos vender o grão, \\par e o sábado, para que possamos vender o trigo, \\par para diminuirmos o efá, aumentarmos o siclo \\par e falsificarmos as balanças enganadoras, \\par",
+      "reference": "Am 8:5"
+    },
+    "6": {
+      "text": "para comprarmos o fraco com prata \\par e o indigente por um par de sandálias e \\par para vendermos o resto do trigo?” \\par",
+      "reference": "Am 8:6"
+    },
+    "7": {
+      "text": "Iahweh jurou pelo orgulho de Jacó: \\par Não esquecerei jamais nenhuma de suas ações. \\par",
+      "reference": "Am 8:7"
+    },
+    "8": {
+      "text": "Não tremerá por causa disso a terra? \\par Não estará de luto todo aquele que a habita? \\par Toda ela se levanta como o Nilo, \\par é revolvida e depois desce como o Nilo do Egito! \\par",
+      "reference": "Am 8:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Anúncio do castigo: escuridão e luto\\par }Acontecerá naquele dia, \\par – oráculo do Senhor Iahweh – \\par que eu farei o sol declinar em pleno meio-dia \\par e escurecerei a terra em um dia de luz. \\par",
+      "reference": "Am 8:9"
+    },
+    "10": {
+      "text": "Transformarei vossas festas em luto \\par e todos os vossos cantos em lamentação; \\par colocarei um saco em todos os rins \\par e em cada cabeça uma tonsura. \\par Eu a colocarei como em luto pelo filho único, \\par seu fim será como um dia de amargura. \\par",
+      "reference": "Am 8:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Fome e sede da palavra de Deus\\par }Eis que virão dias, \\par – oráculo do Senhor Iahweh – \\par em que enviarei fome à terra, \\par não fome de pão, nem sede de água, \\par mas de ouvir a palavra de Iahweh. \\par",
+      "reference": "Am 8:11"
+    },
+    "12": {
+      "text": "Cambalearão de um mar a outro mar, \\par errarão do norte até o levante, \\par à procura da palavra de Iahweh, \\par mas não a encontrarão! \\par",
+      "reference": "Am 8:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Novo anúncio de castigo\\par }Naquele dia definharão pela sede \\par as belas virgens e os jovens. \\par",
+      "reference": "Am 8:13"
+    },
+    "14": {
+      "text": "Aqueles que juram pelo Pecado de Samaria \\par e aqueles que dizem: “Viva o teu Deus, Dã!” \\par e “Viva o caminho de Bersabéia!” \\par cairão e não mais se levantarão. \\par",
+      "reference": "Am 8:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

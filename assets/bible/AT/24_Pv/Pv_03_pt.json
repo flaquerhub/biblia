@@ -1,0 +1,153 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Como adquirir a sabedoria\\par }Meu filho, não esqueças minha instrução, \\par guarda no coração os meus preceitos; \\par",
+      "reference": "Pv 3:1"
+    },
+    "2": {
+      "text": "porque te trarão longos dias e anos, \\par vida e prosperidade. \\par",
+      "reference": "Pv 3:2"
+    },
+    "3": {
+      "text": "O amor e a fidelidade não te abandonem, \\par ata-os ao pescoço, \\par inscreve-os na tábua do coração; \\par",
+      "reference": "Pv 3:3"
+    },
+    "4": {
+      "text": "e alcançarás favor e bom sucesso \\par aos olhos de Deus e dos homens. \\par",
+      "reference": "Pv 3:4"
+    },
+    "5": {
+      "text": "Confia em Iahweh com todo o teu coração, \\par não te fies em tua própria inteligência; \\par",
+      "reference": "Pv 3:5"
+    },
+    "6": {
+      "text": "em todos os teus caminhos, reconhece-o, \\par e ele endireitará as tuas veredas. \\par",
+      "reference": "Pv 3:6"
+    },
+    "7": {
+      "text": "Não sejas sábio aos teus olhos, \\par teme a Iahweh e evita o mal, \\par",
+      "reference": "Pv 3:7"
+    },
+    "8": {
+      "text": "e será a saúde da tua carne \\par e refrigério para os teus ossos. \\par",
+      "reference": "Pv 3:8"
+    },
+    "9": {
+      "text": "Honra a Iahweh com a tua riqueza, \\par com as primícias de tudo o que ganhares; \\par",
+      "reference": "Pv 3:9"
+    },
+    "10": {
+      "text": "e os teus celeiros estarão cheios de trigo, \\par os teus lagares transbordarão de vinho novo. \\par",
+      "reference": "Pv 3:10"
+    },
+    "11": {
+      "text": "Meu filho, não desprezes a disciplina de Iahweh, \\par nem te canses com a sua exortação; \\par",
+      "reference": "Pv 3:11"
+    },
+    "12": {
+      "text": "porque Iahweh repreende os que ele ama, \\par como um pai ao filho preferido. \\par",
+      "reference": "Pv 3:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i As alegrias do sábio\\par }Feliz o homem que encontrou a sabedoria, \\par o homem que alcançou o entendimento! \\par",
+      "reference": "Pv 3:13"
+    },
+    "14": {
+      "text": "Ganhá-la vale mais do que a prata, \\par e o seu lucro mais do que o ouro. \\par",
+      "reference": "Pv 3:14"
+    },
+    "15": {
+      "text": "É mais valiosa do que as pérolas; \\par nada que desejas a iguala. \\par",
+      "reference": "Pv 3:15"
+    },
+    "16": {
+      "text": "Em sua direita: longos anos; \\par em sua esquerda: riqueza e honra! \\par",
+      "reference": "Pv 3:16"
+    },
+    "17": {
+      "text": "Os seus caminhos são deliciosos, \\par e os seus trilhos são prosperidade. \\par",
+      "reference": "Pv 3:17"
+    },
+    "18": {
+      "text": "É uma árvore de vida para os que a colhem, \\par e felizes são os que a retêm! \\par",
+      "reference": "Pv 3:18"
+    },
+    "19": {
+      "text": "Iahweh fundou a terra com a sabedoria, \\par e firmou o céu com o entendimento. \\par",
+      "reference": "Pv 3:19"
+    },
+    "20": {
+      "text": "Por seu conhecimento foram abertos os abismos, \\par e as nuvens destilam o orvalho. \\par",
+      "reference": "Pv 3:20"
+    },
+    "21": {
+      "text": "Meu filho, não percas de vista a sensatez, \\par conserva a reflexão: \\par",
+      "reference": "Pv 3:21"
+    },
+    "22": {
+      "text": "serão vida para a tua alma \\par e enfeite para o teu pescoço. \\par",
+      "reference": "Pv 3:22"
+    },
+    "23": {
+      "text": "Seguirás tranqüilo o teu caminho, \\par sem que tropecem os teus pés. \\par",
+      "reference": "Pv 3:23"
+    },
+    "24": {
+      "text": "Descansarás sem temor, \\par e, deitado, o sono te será suave; \\par",
+      "reference": "Pv 3:24"
+    },
+    "25": {
+      "text": "não te assustará o terror imprevisto, \\par nem a desgraça que cai sobre os ímpios. \\par",
+      "reference": "Pv 3:25"
+    },
+    "26": {
+      "text": "Pois Iahweh ficará ao teu lado \\par e guardará o teu pé da armadilha! \\par",
+      "reference": "Pv 3:26"
+    },
+    "27": {
+      "text": "Não negues um favor a quem necessita, \\par se tu podes fazê-lo. \\par",
+      "reference": "Pv 3:27"
+    },
+    "28": {
+      "text": "Não digas a teu próximo: “Vai embora! Passa depois! \\par Amanhã dar-te-ei...” E tens a coisa na mão... \\par",
+      "reference": "Pv 3:28"
+    },
+    "29": {
+      "text": "Não trames danos contra o teu próximo, \\par quando em ti deposita confiança. \\par",
+      "reference": "Pv 3:29"
+    },
+    "30": {
+      "text": "Não pleiteies com ninguém sem motivo, \\par se não te fez mal nenhum. \\par",
+      "reference": "Pv 3:30"
+    },
+    "31": {
+      "text": "Não tenhas inveja do homem violento, \\par nunca escolhas seus caminhos; \\par",
+      "reference": "Pv 3:31"
+    },
+    "32": {
+      "text": "porque Iahweh abomina o perverso, \\par mas a sua intimidade está com os retos. \\par",
+      "reference": "Pv 3:32"
+    },
+    "33": {
+      "text": "A maldição de Iahweh está na casa do ímpio, \\par mas abençoa a morada dos justos. \\par",
+      "reference": "Pv 3:33"
+    },
+    "34": {
+      "text": "Ele zomba dos zombadores insolentes, \\par mas aos pobres concede o seu favor. \\par",
+      "reference": "Pv 3:34"
+    },
+    "35": {
+      "text": "A honra é a herança dos sábios, \\par mas os insensatos herdam a ignomínia! \\par",
+      "reference": "Pv 3:35"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 35
+}

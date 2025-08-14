@@ -1,0 +1,149 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 44,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A taça de José na saca de Benjamim\\par }Depois José disse a seu intendente: “Enche de mantimento as sacas desses homens, quanto puderem levar, e põe o dinheiro de cada um na boca de sua saca.",
+      "reference": "Gn 44:1"
+    },
+    "2": {
+      "text": "Minha taça, a de prata, tu a porás na boca da saca do mais novo, junto com o dinheiro de seu mantimento”. E assim ele fez. \\par",
+      "reference": "Gn 44:2"
+    },
+    "3": {
+      "text": "Quando amanheceu, foram despedidos os homens com seus jumentos.",
+      "reference": "Gn 44:3"
+    },
+    "4": {
+      "text": "Eles tinham apenas saído da cidade e não iam longe, quando José disse a seu intendente: “Levanta! Corre atrás desses homens, alcança-os e dize-lhes: ‘Por que pagastes o bem com o mal?",
+      "reference": "Gn 44:4"
+    },
+    "5": {
+      "text": "Não é o que serve a meu senhor para beber e também para ler os presságios? Procedestes mal no que fizestes!’” \\par",
+      "reference": "Gn 44:5"
+    },
+    "6": {
+      "text": "Ele os alcançou, pois, e lhes disse essas palavras.",
+      "reference": "Gn 44:6"
+    },
+    "7": {
+      "text": "Mas eles responderam: “Por que, meu senhor, falas assim? Longe de teus servos fazerem semelhante coisa!",
+      "reference": "Gn 44:7"
+    },
+    "8": {
+      "text": "Vê: o dinheiro que tínhamos encontrado na boca de nossas sacas de trigo, tornamos a trazê-lo da terra de Canaã. Como teríamos nós roubado, da casa de teu senhor, prata ou ouro?",
+      "reference": "Gn 44:8"
+    },
+    "9": {
+      "text": "Aquele de teus servos com que se encontrar o objeto será morto e nós mesmos nos tornaremos escravos de meu senhor”.",
+      "reference": "Gn 44:9"
+    },
+    "10": {
+      "text": "Ele retomou: “Que seja como dissestes: aquele com quem se encontrar o objeto será meu escravo, e os demais estareis livres”.",
+      "reference": "Gn 44:10"
+    },
+    "11": {
+      "text": "Depressa, cada qual pôs no chão sua saca de trigo e a abriu.",
+      "reference": "Gn 44:11"
+    },
+    "12": {
+      "text": "Ele os examinou, começando pelo mais velho e terminando pelo mais novo, e a taça foi encontrada na saca de Benjamim!",
+      "reference": "Gn 44:12"
+    },
+    "13": {
+      "text": "Então eles rasgaram suas roupas, carregou cada qual o seu jumento e voltaram à cidade. \\par",
+      "reference": "Gn 44:13"
+    },
+    "14": {
+      "text": "Quando Judá e seus irmãos entraram na casa de José, este ainda estava ali, e eles prostraram-se por terra diante dele.",
+      "reference": "Gn 44:14"
+    },
+    "15": {
+      "text": "José lhes perguntou: “Que é isso que fizestes? Não sabíeis que um homem como eu sabe adivinhar?”",
+      "reference": "Gn 44:15"
+    },
+    "16": {
+      "text": "E Judá respondeu: “Que diremos a meu senhor, como falar e como justificar-nos? Foi Deus quem mostrou a falta de teus servos. Eis-nos, pois, escravos de meu senhor, tanto nós quanto aquele nas mãos de quem se encontrou a taça”.",
+      "reference": "Gn 44:16"
+    },
+    "17": {
+      "text": "Mas ele retrucou: “Longe de mim agir assim! O homem nas mãos de quem se encontrou a taça será meu escravo; mas vós, retornai em paz à casa de vosso pai”. \\par",
+      "reference": "Gn 44:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Intervenção de Judá\\par }Então Judá, aproximando-se dele, disse: “Rogo-te, meu senhor, permite que teu servo faça ouvir uma palavra aos ouvidos de meu senhor, sem que tua cólera se inflame contra teu servo, pois tu és como o próprio Faraó!",
+      "reference": "Gn 44:18"
+    },
+    "19": {
+      "text": "Meu senhor havia feito esta pergunta a seus servos: ‘Tendes ainda pai ou um irmão?’",
+      "reference": "Gn 44:19"
+    },
+    "20": {
+      "text": "E respondemos a meu senhor: ‘Nós temos o velho pai e um irmão mais novo, que lhe nasceu na velhice; morreu o irmão deste, ele ficou sendo o único filho de sua mãe e nosso pai o ama!’",
+      "reference": "Gn 44:20"
+    },
+    "21": {
+      "text": "Então disseste a teus servos: ‘Trazei-mo, para que ponha meus olhos sobre ele’.",
+      "reference": "Gn 44:21"
+    },
+    "22": {
+      "text": "Nós respondemos a meu senhor: ‘O menino não pode deixar seu pai; se ele deixar seu pai, este morrerá’.",
+      "reference": "Gn 44:22"
+    },
+    "23": {
+      "text": "Mas insististe junto a teus servos: ‘Se vosso irmão mais novo não descer convosco, não sereis mais admitidos em minha presença’.",
+      "reference": "Gn 44:23"
+    },
+    "24": {
+      "text": "Quando, pois, retornamos à casa de teu servo, meu pai, nós lhe relatamos as palavras de meu senhor.",
+      "reference": "Gn 44:24"
+    },
+    "25": {
+      "text": "E quando nosso pai disse: ‘Voltai para comprar um pouco de víveres para nós’,",
+      "reference": "Gn 44:25"
+    },
+    "26": {
+      "text": "respondemos: ‘Não podemos descer. Não desceremos, a não ser que venha conosco nosso irmão mais novo, porque não será possível sermos admitidos à presença daquele homem sem que nosso irmão mais novo esteja conosco’.",
+      "reference": "Gn 44:26"
+    },
+    "27": {
+      "text": "Então teu servo, meu pai, nos disse: ‘Vós bem sabeis que minha mulher só me deu dois filhos:",
+      "reference": "Gn 44:27"
+    },
+    "28": {
+      "text": "um me deixou e eu disse: foi despedaçado! E não o vi mais até hoje.",
+      "reference": "Gn 44:28"
+    },
+    "29": {
+      "text": "Se tirardes ainda este de junto de mim, e lhe suceder alguma desgraça, na aflição faríeis descer minhas cãs ao Xeol”.",
+      "reference": "Gn 44:29"
+    },
+    "30": {
+      "text": "Agora, se eu chego à casa de teu servo, meu pai, sem que esteja comigo o rapaz cuja alma está ligada à alma dele,",
+      "reference": "Gn 44:30"
+    },
+    "31": {
+      "text": "logo que vir que o rapaz não está conosco ele morrerá, e teus servos na aflição terão feito descer ao Xeol as cãs de teu servo, nosso pai.",
+      "reference": "Gn 44:31"
+    },
+    "32": {
+      "text": "E teu servo se tornou responsável pelo rapaz junto de meu pai, nestes termos: ‘Se eu não to restituir, serei culpado para com meu pai durante toda a minha vida’.",
+      "reference": "Gn 44:32"
+    },
+    "33": {
+      "text": "Agora, que teu servo fique como escravo de meu senhor no lugar do rapaz, e que este volte com seus irmãos.",
+      "reference": "Gn 44:33"
+    },
+    "34": {
+      "text": "Como poderia eu retornar à casa de meu pai sem ter comigo o rapaz? Não quero ver a infelicidade que se abaterá sobre meu pai”. \\par",
+      "reference": "Gn 44:34"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 34
+}

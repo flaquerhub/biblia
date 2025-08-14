@@ -1,0 +1,105 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i José interpreta os sonhos dos oficiais do Faraó\\par }Sucedeu, depois desses acontecimentos, que o copeiro do rei do Egito e seu padeiro ofenderam a seu senhor, o rei do Egito.",
+      "reference": "Gn 40:1"
+    },
+    "2": {
+      "text": "Faraó irou-se contra seus dois eunucos, o copeiro-mor e o padeiro-mor,",
+      "reference": "Gn 40:2"
+    },
+    "3": {
+      "text": "e mandou detê-los na casa do comandante dos guardas, na prisão onde José estava detido.",
+      "reference": "Gn 40:3"
+    },
+    "4": {
+      "text": "O comandante dos guardas agregou-lhes José para que os servisse, e ficaram certo tempo detidos. \\par",
+      "reference": "Gn 40:4"
+    },
+    "5": {
+      "text": "Ora, numa mesma noite, os dois, o copeiro e o padeiro do rei do Egito, que estavam detidos na prisão, tiveram um sonho, cada qual com a sua significação.",
+      "reference": "Gn 40:5"
+    },
+    "6": {
+      "text": "De manhã, vindo encontrá-los, José percebeu que estavam acabrunhados",
+      "reference": "Gn 40:6"
+    },
+    "7": {
+      "text": "e perguntou aos eunucos do Faraó que estavam com ele detidos na casa de seu senhor: “Por que tendes hoje o rosto triste?”",
+      "reference": "Gn 40:7"
+    },
+    "8": {
+      "text": "Eles lhe responderam: “Tivemos um sonho e não há ninguém para interpretá-lo”. José lhes disse: “É Deus quem dá a interpretação; mas contai-mo!” \\par",
+      "reference": "Gn 40:8"
+    },
+    "9": {
+      "text": "O copeiro-mor narrou a José o sonho que tivera: “Sonhei”, disse ele, “que havia diante de mim uma videira,",
+      "reference": "Gn 40:9"
+    },
+    "10": {
+      "text": "e na videira três ramos: deram brotos, floresceram e as uvas amadureceram em cachos.",
+      "reference": "Gn 40:10"
+    },
+    "11": {
+      "text": "Eu tinha na mão a taça do Faraó: peguei os cachos de uva, espremi-os na taça do Faraó e coloquei a taça na mão do Faraó”.",
+      "reference": "Gn 40:11"
+    },
+    "12": {
+      "text": "José lhe disse: “Eis o que isto significa: os três ramos representam três dias.",
+      "reference": "Gn 40:12"
+    },
+    "13": {
+      "text": "Mais três dias e o Faraó te erguerá a cabeça e te restituirá o emprego: colocarás a taça do Faraó em sua mão, como outrora tinhas o costume de fazer, quando eras seu copeiro.",
+      "reference": "Gn 40:13"
+    },
+    "14": {
+      "text": "Lembra-te de mim, quando te suceder o bem, e sejas bondoso para falares de mim ao Faraó, a fim de que me faça sair desta prisão.",
+      "reference": "Gn 40:14"
+    },
+    "15": {
+      "text": "Com efeito, fui arrebatado da terra dos hebreus e aqui mesmo nada fiz para que me pudessem prender”. \\par",
+      "reference": "Gn 40:15"
+    },
+    "16": {
+      "text": "O padeiro-mor viu que era uma interpretação favorável e disse a José: “Eu também tive um sonho: havia três cestas de bolos sobre a minha cabeça.",
+      "reference": "Gn 40:16"
+    },
+    "17": {
+      "text": "Na cesta mais alta havia todos os tipos de doces que o Faraó come, mas as aves os comiam na cesta, sobre a minha cabeça”.",
+      "reference": "Gn 40:17"
+    },
+    "18": {
+      "text": "José respondeu assim: “Eis o que isto significa: as três cestas representam três dias.",
+      "reference": "Gn 40:18"
+    },
+    "19": {
+      "text": "Mais três dias ainda e o Faraó te erguerá a cabeça, enforcar-te-á e as aves comerão a carne acima de ti”. \\par",
+      "reference": "Gn 40:19"
+    },
+    "20": {
+      "text": "Efetivamente, no terceiro dia, que era o aniversário do Faraó, este deu um banquete a todos os seus oficiais e soltou o copeiro-mor e o padeiro-mor no meio de seus oficiais.",
+      "reference": "Gn 40:20"
+    },
+    "21": {
+      "text": "Ele reabilitou o copeiro-mor na copa real e este colocou a taça na mão do Faraó;",
+      "reference": "Gn 40:21"
+    },
+    "22": {
+      "text": "quanto ao padeiro-mor, enforcou-o, como José lhe havia explicado.",
+      "reference": "Gn 40:22"
+    },
+    "23": {
+      "text": "Mas o copeiro-mor não se lembrou de José; ele o esqueceu. \\par",
+      "reference": "Gn 40:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

@@ -1,0 +1,121 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Grita, para ver se alguém te responde. \\par A qual dos santos te dirigirás? \\par",
+      "reference": "Jó 5:1"
+    },
+    "2": {
+      "text": "Porque a ira mata o estulto \\par e a inveja causa a morte ao imbecil. \\par",
+      "reference": "Jó 5:2"
+    },
+    "3": {
+      "text": "Vi um estulto deitar raízes \\par e num momento sua casa foi amaldiçoada. \\par",
+      "reference": "Jó 5:3"
+    },
+    "4": {
+      "text": "Seus filhos são privados de socorro, \\par pisados à Porta, sem que ninguém os defenda. \\par",
+      "reference": "Jó 5:4"
+    },
+    "5": {
+      "text": "O faminto comerá a messe dele, \\par e Deus lha arrancará da boca, \\par e os sedentos cobiçarão os seus bens. \\par",
+      "reference": "Jó 5:5"
+    },
+    "6": {
+      "text": "Pois a iniqüidade não nasce do pó, \\par e a fadiga não brota da terra. \\par",
+      "reference": "Jó 5:6"
+    },
+    "7": {
+      "text": "É o homem que gera a miséria, \\par como o vôo das águias busca a altura. \\par",
+      "reference": "Jó 5:7"
+    },
+    "8": {
+      "text": "Mesmo assim eu recorreria a Deus, \\par a Deus entregaria a minha causa. \\par",
+      "reference": "Jó 5:8"
+    },
+    "9": {
+      "text": "Ele faz prodígios insondáveis, \\par maravilhas sem conta: \\par",
+      "reference": "Jó 5:9"
+    },
+    "10": {
+      "text": "Dá chuva à terra, \\par envia as águas sobre os campos, \\par",
+      "reference": "Jó 5:10"
+    },
+    "11": {
+      "text": "para os humildes poderem erguer-se \\par e os abatidos pôr-se a salvo. \\par",
+      "reference": "Jó 5:11"
+    },
+    "12": {
+      "text": "Leva ao malogro os projetos dos astutos, \\par para que fracassem suas manobras. \\par",
+      "reference": "Jó 5:12"
+    },
+    "13": {
+      "text": "Apanha os sábios na astúcia deles, \\par e o conselho dos errados torna-se irrefletido. \\par",
+      "reference": "Jó 5:13"
+    },
+    "14": {
+      "text": "Em pleno dia eles caem nas trevas, \\par e ao meio-dia andam às apalpadelas como de noite.\\par",
+      "reference": "Jó 5:14"
+    },
+    "15": {
+      "text": "Ele salva da sua boca o homem arruinado, \\par e o indigente das garras do forte;\\par",
+      "reference": "Jó 5:15"
+    },
+    "16": {
+      "text": "assim o fraco terá esperança, \\par e a injustiça fechará a boca. \\par",
+      "reference": "Jó 5:16"
+    },
+    "17": {
+      "text": "Ditoso o homem a quem Deus corrige: \\par não desprezes a lição de Shaddai, \\par",
+      "reference": "Jó 5:17"
+    },
+    "18": {
+      "text": "porque ele fere e pensa a ferida, \\par golpeia e cura com suas mãos. \\par",
+      "reference": "Jó 5:18"
+    },
+    "19": {
+      "text": "De seis perigos te salva, \\par e no sétimo não sofrerás mal algum. \\par",
+      "reference": "Jó 5:19"
+    },
+    "20": {
+      "text": "Em tempo de fome livrar-te-á da morte \\par e, na batalha, dos golpes da espada.\\par",
+      "reference": "Jó 5:20"
+    },
+    "21": {
+      "text": "Esconder-te-ás do açoite da língua, \\par e, ainda que chegue o ladrão, não temerás. \\par",
+      "reference": "Jó 5:21"
+    },
+    "22": {
+      "text": "Zombarás da devastação e da penúria, \\par e não temerás os animais selvagens. \\par",
+      "reference": "Jó 5:22"
+    },
+    "23": {
+      "text": "Farás uma aliança com as pedras do campo, \\par e o animal selvagem estará em paz contigo.\\par",
+      "reference": "Jó 5:23"
+    },
+    "24": {
+      "text": "Conhecerás paz em tua tenda, \\par visitarás teus apriscos, onde nada faltará. \\par",
+      "reference": "Jó 5:24"
+    },
+    "25": {
+      "text": "Conhecerás uma descendência numerosa \\par e teus rebentos serão como a erva do campo. \\par",
+      "reference": "Jó 5:25"
+    },
+    "26": {
+      "text": "Baixarás ao túmulo bem maduro, \\par como um feixe de trigo recolhido a seu tempo. \\par",
+      "reference": "Jó 5:26"
+    },
+    "27": {
+      "text": "Foi isto que observamos. E é de fato assim.\\par Quanto a ti, escuta-o e aproveita-o. \\par",
+      "reference": "Jó 5:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

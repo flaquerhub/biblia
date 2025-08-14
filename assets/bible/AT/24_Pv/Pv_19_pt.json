@@ -1,0 +1,129 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "Mais vale um pobre que anda na integridade, \\par do que um homem com lábios tortuosos e insensato. \\par",
+      "reference": "Pv 19:1"
+    },
+    "2": {
+      "text": "Onde não há conhecimento o zelo não é bom; \\par quem apressa o passo se extravia. \\par",
+      "reference": "Pv 19:2"
+    },
+    "3": {
+      "text": "A estultícia do homem perverte o seu caminho, \\par e seu coração se irrita contra Iahweh. \\par",
+      "reference": "Pv 19:3"
+    },
+    "4": {
+      "text": "A riqueza multiplica os amigos, \\par mas o fraco até o amigo o deixa. \\par",
+      "reference": "Pv 19:4"
+    },
+    "5": {
+      "text": "A falsa testemunha não ficará impune, \\par e o que diz mentiras não se livrará. \\par",
+      "reference": "Pv 19:5"
+    },
+    "6": {
+      "text": "Muitos bajulam o homem generoso, \\par e todos são amigos de quem dá presentes. \\par",
+      "reference": "Pv 19:6"
+    },
+    "7": {
+      "text": "Todos os irmãos do pobre o odeiam, \\par e muito mais se afastam dele os amigos. \\par Ele procura palavras, e não as encontra! \\par",
+      "reference": "Pv 19:7"
+    },
+    "8": {
+      "text": "Quem adquire um coração ama a si mesmo, \\par quem conserva a inteligência encontrará a felicidade. \\par",
+      "reference": "Pv 19:8"
+    },
+    "9": {
+      "text": "A falsa testemunha não ficará impune, \\par quem diz mentiras perecerá. \\par",
+      "reference": "Pv 19:9"
+    },
+    "10": {
+      "text": "Não vai bem ao insensato viver no luxo, \\par menos ainda ao escravo dominar os príncipes. \\par",
+      "reference": "Pv 19:10"
+    },
+    "11": {
+      "text": "O homem prudente é lento para a ira; \\par e se honra em ignorar uma ofensa. \\par",
+      "reference": "Pv 19:11"
+    },
+    "12": {
+      "text": "Rugido de leão é a ira do rei, \\par orvalho sobre a relva é o seu favor. \\par",
+      "reference": "Pv 19:12"
+    },
+    "13": {
+      "text": "Um filho insensato é uma calamidade para o pai, \\par uma goteira sem fim são as queixas de uma mulher. \\par",
+      "reference": "Pv 19:13"
+    },
+    "14": {
+      "text": "Casa e fortuna são herança paterna, \\par mas é Iahweh quem dá uma mulher prudente. \\par",
+      "reference": "Pv 19:14"
+    },
+    "15": {
+      "text": "A preguiça faz cair no torpor; \\par o ocioso passará fome. \\par",
+      "reference": "Pv 19:15"
+    },
+    "16": {
+      "text": "Quem guarda o mandamento guarda a vida, \\par quem despreza os seus caminhos morrerá. \\par",
+      "reference": "Pv 19:16"
+    },
+    "17": {
+      "text": "Quem faz caridade ao pobre empresta a Iahweh, \\par e ele dará a sua recompensa. \\par",
+      "reference": "Pv 19:17"
+    },
+    "18": {
+      "text": "Corrige o teu filho enquanto há esperança, \\par mas não te arrebates até matá-lo. \\par",
+      "reference": "Pv 19:18"
+    },
+    "19": {
+      "text": "O homem violento se expõe ao castigo; \\par se tu o poupas, aumentarás o mal dele. \\par",
+      "reference": "Pv 19:19"
+    },
+    "20": {
+      "text": "Ouve o conselho, aceita a disciplina, \\par para chegares a ser sábio depois. \\par",
+      "reference": "Pv 19:20"
+    },
+    "21": {
+      "text": "Muitos são os projetos do coração humano, \\par mas é o desígnio de Iahweh que permanece firme. \\par",
+      "reference": "Pv 19:21"
+    },
+    "22": {
+      "text": "O que se espera de um homem é o amor; \\par ama-se mais a um pobre do que a um mentiroso. \\par",
+      "reference": "Pv 19:22"
+    },
+    "23": {
+      "text": "O temor de Iahweh conduz à vida, \\par fica-se satisfeito e repousado, sem temer a desgraça. \\par",
+      "reference": "Pv 19:23"
+    },
+    "24": {
+      "text": "O preguiçoso mete a mão no prato, \\par mas não consegue levá-lo até a boca. \\par",
+      "reference": "Pv 19:24"
+    },
+    "25": {
+      "text": "Golpeia o zombador e o ingênuo tornar-se-á sagaz; \\par repreende um homem inteligente, ele entenderá o conhecimento. \\par",
+      "reference": "Pv 19:25"
+    },
+    "26": {
+      "text": "Quem maltrata o pai e expulsa a mãe \\par é filho indigno e infame. \\par",
+      "reference": "Pv 19:26"
+    },
+    "27": {
+      "text": "Meu filho, se não obedeceres à disciplina, \\par perder-te-ás por falta de palavras de conhecimento. \\par",
+      "reference": "Pv 19:27"
+    },
+    "28": {
+      "text": "Uma testemunha indigna zomba do direito; \\par a boca dos ímpios devora o crime. \\par",
+      "reference": "Pv 19:28"
+    },
+    "29": {
+      "text": "Para os zombadores há castigos preparados, \\par e açoites para as costas dos insensatos. \\par",
+      "reference": "Pv 19:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

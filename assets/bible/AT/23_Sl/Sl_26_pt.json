@@ -1,0 +1,61 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 26 (25)\\par }{\\qc\\b\\i Súplica do inocente\\par }{\\qc\\i De Davi.\\par } Faze-me justiça, ó Iahweh, \\par pois ando em minha integridade; \\par eu confio em Iahweh, sem vacilar. \\par",
+      "reference": "Sl 26:1"
+    },
+    "2": {
+      "text": "Examina-me, Iahweh, coloca-me à prova, \\par depura meus rins e meu coração: \\par",
+      "reference": "Sl 26:2"
+    },
+    "3": {
+      "text": "à frente dos meus olhos está o teu amor, \\par e estou caminhando na tua verdade. \\par",
+      "reference": "Sl 26:3"
+    },
+    "4": {
+      "text": "Não me assento com os impostores, \\par nem caminho com os hipócritas; \\par",
+      "reference": "Sl 26:4"
+    },
+    "5": {
+      "text": "detesto a assembléia dos maus \\par e com os ímpios não me assento. \\par",
+      "reference": "Sl 26:5"
+    },
+    "6": {
+      "text": "Na inocência lavo minhas mãos \\par para rodear o teu altar, Iahweh, \\par",
+      "reference": "Sl 26:6"
+    },
+    "7": {
+      "text": "proclamando a ação de graças \\par e contando tuas maravilhas todas. \\par",
+      "reference": "Sl 26:7"
+    },
+    "8": {
+      "text": "Iahweh, eu amo a beleza de tua casa \\par e o lugar onde a tua glória habita. \\par",
+      "reference": "Sl 26:8"
+    },
+    "9": {
+      "text": "Não me ajuntes com os pecadores, \\par nem minha vida com os assassinos: \\par",
+      "reference": "Sl 26:9"
+    },
+    "10": {
+      "text": "eles têm a infâmia nas mãos, \\par sua direita está cheia de subornos. \\par",
+      "reference": "Sl 26:10"
+    },
+    "11": {
+      "text": "Quanto a mim, eu ando na minha integridade, \\par resgata-me, tem piedade de mim! \\par",
+      "reference": "Sl 26:11"
+    },
+    "12": {
+      "text": "Meu pé está firme no reto caminho, \\par Eu te bendigo, Iahweh, nas assembléias. \\par",
+      "reference": "Sl 26:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

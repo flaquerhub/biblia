@@ -1,0 +1,93 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 46,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Josué\\par }Valente na guerra, assim foi Josué, filho de Nun, \\par sucessor de Moisés no ofício profético, \\par ele que, fazendo jus ao nome, \\par mostrou-se grande para salvar os eleitos, \\par para castigar os inimigos revoltados \\par e instalar Israel em seu território. \\par",
+      "reference": "Eclo 46:1"
+    },
+    "2": {
+      "text": "Como era majestoso quando, de braços levantados, \\par brandia a espada contra a cidade! \\par",
+      "reference": "Eclo 46:2"
+    },
+    "3": {
+      "text": "Quem antes dele tinha a sua firmeza? \\par Ele próprio conduziu as guerras do Senhor. \\par",
+      "reference": "Eclo 46:3"
+    },
+    "4": {
+      "text": "Não foi por sua ordem que o sol foi parado \\par e que um só dia tornou-se dois? \\par",
+      "reference": "Eclo 46:4"
+    },
+    "5": {
+      "text": "Invocou o Altíssimo, o Poderoso, \\par quando os inimigos o apertaram por todas as partes \\par e o grande Senhor o ouviu, \\par lançando pedras de granizo com um poder extraordinário. \\par",
+      "reference": "Eclo 46:5"
+    },
+    "6": {
+      "text": "Caiu sobre a nação inimiga \\par e na encosta destruiu os assaltantes, \\par para fazer conhecer às nações a força de suas armas \\par e que ele fazia guerra diante do Senhor. \\par",
+      "reference": "Eclo 46:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Caleb\\par }Porque ele afeiçoou-se ao Todo-poderoso, \\par no tempo de Moisés manifestou sua piedade, \\par assim como Caleb, filho de Jefoné, \\par opondo-se à multidão, \\par impedindo o povo de pecar, \\par fazendo cessar a murmuração maligna. \\par",
+      "reference": "Eclo 46:7"
+    },
+    "8": {
+      "text": "Só eles dois foram poupados \\par entre seiscentos mil homens de infantaria, \\par para serem introduzidos na sua porção da herança, \\par na terra onde correm leite e mel. \\par",
+      "reference": "Eclo 46:8"
+    },
+    "9": {
+      "text": "E o Senhor deu a Caleb força, \\par com a qual ficou até a velhice. \\par Subiu as colinas do país \\par que a sua descendência guardou em herança, \\par",
+      "reference": "Eclo 46:9"
+    },
+    "10": {
+      "text": "a fim de que todos os filhos de Israel vissem \\par como é bom seguir o Senhor. \\par",
+      "reference": "Eclo 46:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Os juízes\\par }Os Juízes, cada um segundo sua convocação, \\par todos homens cujo coração não foi infiel \\par e que não se afastaram do Senhor, \\par que a sua lembrança seja uma bênção! \\par",
+      "reference": "Eclo 46:11"
+    },
+    "12": {
+      "text": "Que seus ossos refloresçam nos seus sepulcros \\par e que seus nomes, tomados de novo, \\par convenham aos filhos destes homens ilustres. \\par",
+      "reference": "Eclo 46:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Samuel\\par }Samuel foi amado pelo seu Senhor; \\par profeta do Senhor, ele estabeleceu a realeza \\par e ungiu os chefes estabelecidos sobre seu povo.\\par",
+      "reference": "Eclo 46:13"
+    },
+    "14": {
+      "text": "Na lei do Senhor ele julgou a assembléia \\par e o Senhor visitou Jacó. \\par",
+      "reference": "Eclo 46:14"
+    },
+    "15": {
+      "text": "Por sua fidelidade ele foi reconhecido como profeta, \\par por seus discursos mostrou-se um vidente verídico. \\par",
+      "reference": "Eclo 46:15"
+    },
+    "16": {
+      "text": "Invocou o Senhor todo-poderoso, \\par quando seus inimigos o pressionavam de todos os lados, \\par oferecendo um tenro cordeiro. \\par",
+      "reference": "Eclo 46:16"
+    },
+    "17": {
+      "text": "E do céu o Senhor trovejou, \\par com forte estrondo fez ouvir a sua voz. \\par",
+      "reference": "Eclo 46:17"
+    },
+    "18": {
+      "text": "Aniquilou os chefes do inimigo \\par e todos os príncipes dos filisteus. \\par",
+      "reference": "Eclo 46:18"
+    },
+    "19": {
+      "text": "Ante da hora de seu eterno repouso \\par deu testemunho diante do Senhor e seu ungido: \\par “De meus bens nem mesmo um par de minhas sandálias \\par eu tomei de quem quer que seja”. \\par E ninguém o acusou. \\par",
+      "reference": "Eclo 46:19"
+    },
+    "20": {
+      "text": "Mesmo depois de morrer profetizou, \\par anunciou ao rei seu fim; \\par do seio da terra elevou a sua voz para profetizar, \\par para apagar a iniqüidade do povo. \\par",
+      "reference": "Eclo 46:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

@@ -1,0 +1,121 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Recomendações e saudações\\par }Recomendo-vos Febe, nossa irmã, diaconisa da Igreja de Cencréia,",
+      "reference": "Rm 16:1"
+    },
+    "2": {
+      "text": "para que a recebais no Senhor de modo digno, como convém a santos, e a assistais em tudo o que ela de vós precisar, porque também ela ajudou a muitos, a mim inclusive. \\par",
+      "reference": "Rm 16:2"
+    },
+    "3": {
+      "text": "Saudai Prisca e Áquila, meus colaboradores em Cristo Jesus,",
+      "reference": "Rm 16:3"
+    },
+    "4": {
+      "text": "que para salvar minha vida expuseram sua cabeça. Não somente eu lhes devo gratidão, mas também todas as Igrejas da gentilidade.",
+      "reference": "Rm 16:4"
+    },
+    "5": {
+      "text": "Saudai também a Igreja que se reúne em sua casa. \\par Saudai meu amado Epêneto, primícias da Ásia para Cristo.",
+      "reference": "Rm 16:5"
+    },
+    "6": {
+      "text": "Saudai Maria, que muito fez por vós.",
+      "reference": "Rm 16:6"
+    },
+    "7": {
+      "text": "Saudai Andrônico e Júnia, meus parentes e companheiros de prisão, apóstolos exímios que me precederam na fé em Cristo.",
+      "reference": "Rm 16:7"
+    },
+    "8": {
+      "text": "Saudai Amplíato, meu dileto amigo no Senhor.",
+      "reference": "Rm 16:8"
+    },
+    "9": {
+      "text": "Saudai Urbano, nosso colaborador em Cristo, e meu amado Estáquis.",
+      "reference": "Rm 16:9"
+    },
+    "10": {
+      "text": "Saudai Apeles, homem provado em Cristo. Saudai os da casa de Aristóbulo.",
+      "reference": "Rm 16:10"
+    },
+    "11": {
+      "text": "Saudai Herodião, meu parente. Saudai os da casa de Narciso no Senhor.",
+      "reference": "Rm 16:11"
+    },
+    "12": {
+      "text": "Saudai Trifena e Trifosa, que se afadigaram no Senhor. Saudai a querida Pérside, que muito se afadigou no Senhor.",
+      "reference": "Rm 16:12"
+    },
+    "13": {
+      "text": "Saudai a Rufo, este eleito do Senhor, e sua mãe, que é também minha.",
+      "reference": "Rm 16:13"
+    },
+    "14": {
+      "text": "Saudai Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que estão com eles.",
+      "reference": "Rm 16:14"
+    },
+    "15": {
+      "text": "Saudai Filólogo e Júlia, Nereu e sua irmã, e Olimpas, e todos os santos que estão com eles.",
+      "reference": "Rm 16:15"
+    },
+    "16": {
+      "text": "Saudai-vos uns aos outros com o ósculo santo. Todas as Igrejas de Cristo vos saúdam. \\par",
+      "reference": "Rm 16:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Advertência. Primeiro post-scriptum\\par }Rogo-vos, entretanto, irmãos, que estejais alerta contra os provocadores de dissensões e escândalos contrários ao ensinamento que recebestes. Evitai-os.",
+      "reference": "Rm 16:17"
+    },
+    "18": {
+      "text": "Porque estes tais não servem a Cristo, nosso Senhor, mas ao próprio ventre, e com palavras melífluas e lisonjeiras seduzem os corações dos inocentes.",
+      "reference": "Rm 16:18"
+    },
+    "19": {
+      "text": "Vossa obediência tornou-se conhecida de todos e sois para mim motivo de alegria. Mas desejo que sejais sábios para o bem e sem malícia para o mal.",
+      "reference": "Rm 16:19"
+    },
+    "20": {
+      "text": "Pois o Deus da paz não tardará em esmagar Satanás debaixo de vossos pés. Que a graça de nosso Senhor Jesus Cristo esteja convosco! \\par",
+      "reference": "Rm 16:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Últimas saudações. Segundo post-scriptum\\par }Saúda-vos Timóteo, meu colaborador, e também Lúcio, Jasão e Sosípatro, meus parentes.",
+      "reference": "Rm 16:21"
+    },
+    "22": {
+      "text": "Eu, Tércio, que escrevi esta carta, saúdo-vos no Senhor.",
+      "reference": "Rm 16:22"
+    },
+    "23": {
+      "text": "Saúda-vos Gaio, que hospeda a mim e a toda a Igreja. Saúda-vos Erasto, administrador da cidade e o irmão Quarto. [",
+      "reference": "Rm 16:23"
+    },
+    "24": {
+      "text": "]\\par",
+      "reference": "Rm 16:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Doxologia\\par }Àquele que tem o poder de vos conformar \\par segundo o meu evangelho \\par e a mensagem de Jesus Cristo \\par – revelação de um mistério \\par envolvido em silêncio \\par desde os séculos eternos, \\par",
+      "reference": "Rm 16:25"
+    },
+    "26": {
+      "text": "agora, porém, manifestado \\par e, pelos escritos proféticos \\par e por disposição do Deus eterno, \\par dado a conhecer a todos os gentios, \\par para levá-los à obediência da fé – \\par",
+      "reference": "Rm 16:26"
+    },
+    "27": {
+      "text": "a Deus, o único sábio, \\par por meio de Jesus Cristo, \\par seja dada a glória, \\par pelos séculos dos séculos! Amém. \\par",
+      "reference": "Rm 16:27"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 27
+}

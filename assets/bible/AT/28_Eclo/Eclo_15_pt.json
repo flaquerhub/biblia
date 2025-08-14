@@ -1,0 +1,93 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "O que teme ao Senhor assim faz, \\par o que se torna senhor da lei conseguirá a sabedoria. \\par",
+      "reference": "Eclo 15:1"
+    },
+    "2": {
+      "text": "Sairá ao seu encontro como uma mãe, \\par como uma esposa virgem ela o acolherá. \\par",
+      "reference": "Eclo 15:2"
+    },
+    "3": {
+      "text": "Nutri-lo-á com o pão da prudência \\par e o saciará com a água da sabedoria. \\par",
+      "reference": "Eclo 15:3"
+    },
+    "4": {
+      "text": "Apoiar-se-á sobre ela e não cambaleará, \\par confiará nela e não se envergonhará. \\par",
+      "reference": "Eclo 15:4"
+    },
+    "5": {
+      "text": "Ela o elevará acima de seus companheiros \\par e na assembléia lhe abrirá a boca. \\par",
+      "reference": "Eclo 15:5"
+    },
+    "6": {
+      "text": "Encontrará alegria e uma coroa de júbilo \\par e herdará um renome eterno. \\par",
+      "reference": "Eclo 15:6"
+    },
+    "7": {
+      "text": "Os insensatos não a conseguirão, \\par os homens pecadores jamais a verão. \\par",
+      "reference": "Eclo 15:7"
+    },
+    "8": {
+      "text": "Ela está longe do orgulhoso \\par e os mentirosos nem se lembram dela. \\par",
+      "reference": "Eclo 15:8"
+    },
+    "9": {
+      "text": "O louvor não é belo na boca do pecador, \\par pois não lhe foi concedido pelo Senhor. \\par",
+      "reference": "Eclo 15:9"
+    },
+    "10": {
+      "text": "Porque é na sabedoria que se exprime o louvor, \\par e é o Senhor quem o guia. \\par",
+      "reference": "Eclo 15:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Liberdade humana\\par }Não digas: “É o Senhor que me faz pecar”, \\par porque ele não faz aquilo que odeia. \\par",
+      "reference": "Eclo 15:11"
+    },
+    "12": {
+      "text": "Não digas: “É ele que me faz errar”, \\par porque ele não tem necessidade de um homem pecador. \\par",
+      "reference": "Eclo 15:12"
+    },
+    "13": {
+      "text": "O Senhor odeia toda espécie de abominação \\par e nenhuma é amável para os que o temem. \\par",
+      "reference": "Eclo 15:13"
+    },
+    "14": {
+      "text": "Desde o princípio ele criou o homem \\par e o abandonou nas mãos de sua própria decisão. \\par",
+      "reference": "Eclo 15:14"
+    },
+    "15": {
+      "text": "Se quiseres, observarás os mandamentos: \\par a fidelidade está no fazer a sua vontade. \\par",
+      "reference": "Eclo 15:15"
+    },
+    "16": {
+      "text": "Ele colocou diante de ti o fogo e a água; \\par para o que quiseres estenderás a tua mão. \\par",
+      "reference": "Eclo 15:16"
+    },
+    "17": {
+      "text": "Diante dos homens está a vida e a morte, \\par ser-te-á dado o que preferires. \\par",
+      "reference": "Eclo 15:17"
+    },
+    "18": {
+      "text": "É grande, pois, a sabedoria do Senhor, \\par ele é todo-poderoso e vê tudo. \\par",
+      "reference": "Eclo 15:18"
+    },
+    "19": {
+      "text": "Seus olhos vêem os que o temem, \\par ele conhece todas as obras do homem. \\par",
+      "reference": "Eclo 15:19"
+    },
+    "20": {
+      "text": "Não ordenou a ninguém ser ímpio, \\par não deu a ninguém licença de pecar. \\par",
+      "reference": "Eclo 15:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

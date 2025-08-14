@@ -1,0 +1,189 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Tentação no deserto\\par }Jesus, pleno do Espírito Santo, voltou do Jordão; era conduzido pelo Espírito através do deserto",
+      "reference": "Lc 4:1"
+    },
+    "2": {
+      "text": "durante quarenta dias e tentado pelo diabo. Nada comeu nesses dias e, passado esse tempo, teve fome.",
+      "reference": "Lc 4:2"
+    },
+    "3": {
+      "text": "Disse-lhe, então, o diabo: “Se és Filho de Deus, manda que esta pedra se transforme em pão”.",
+      "reference": "Lc 4:3"
+    },
+    "4": {
+      "text": "Replicou-lhe Jesus: “Está escrito: {\\i Não só de pão vive o homem}”. \\par",
+      "reference": "Lc 4:4"
+    },
+    "5": {
+      "text": "O diabo, levando-o para mais alto, mostrou-lhe num instante todos os reinos da terra",
+      "reference": "Lc 4:5"
+    },
+    "6": {
+      "text": "e disse-lhe: “Eu te darei todo este poder com a glória destes reinos, porque ela me foi entregue e eu a dou a quem eu quiser.",
+      "reference": "Lc 4:6"
+    },
+    "7": {
+      "text": "Por isso, se te prostrares diante de mim, toda ela será tua”.",
+      "reference": "Lc 4:7"
+    },
+    "8": {
+      "text": "Replicou-lhe Jesus: “Está escrito: {\\i Adorarás ao Senhor teu Deus, e só a ele prestarás culto}”. \\par",
+      "reference": "Lc 4:8"
+    },
+    "9": {
+      "text": "Conduziu-o depois a Jerusalém, colocou-o sobre o pináculo do Templo e disse-lhe: “Se és Filho de Deus, atira-te para baixo,",
+      "reference": "Lc 4:9"
+    },
+    "10": {
+      "text": "porque está escrito: \\par {\\i Ele dará ordem a seus anjos a teu respeito, \\par para que te guardem.} \\par",
+      "reference": "Lc 4:10"
+    },
+    "11": {
+      "text": "E ainda: \\par {\\i E eles te tomarão pelas mãos, \\par para que não tropeces em nenhuma pedra}”. \\par",
+      "reference": "Lc 4:11"
+    },
+    "12": {
+      "text": "Mas Jesus lhe respondeu: “Foi dito: \\par {\\i Não tentarás ao Senhor teu Deus}”. \\par",
+      "reference": "Lc 4:12"
+    },
+    "13": {
+      "text": "Tendo acabado toda a tentação, o diabo o deixou até o tempo oportuno. \\par",
+      "reference": "Lc 4:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b {\\i III. Ministério de Jesus na Galiléia}\\par }{\\qc\\b\\i Jesus inaugura sua pregação\\par }Jesus voltou então para a Galiléia, com a força do Espírito, e sua fama espalhou-se por toda a região circunvizinha.",
+      "reference": "Lc 4:14"
+    },
+    "15": {
+      "text": "Ensinava em suas sinagogas e era glorificado por todos. \\par",
+      "reference": "Lc 4:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Jesus em Nazaré\\par }Ele foi a Nazara, onde fora criado, e, segundo seu costume, entrou em dia de sábado na sinagoga e levantou-se para fazer a leitura.",
+      "reference": "Lc 4:16"
+    },
+    "17": {
+      "text": "Foi-lhe entregue o livro do profeta Isaías; abrindo-o, encontrou o lugar onde está escrito: \\par",
+      "reference": "Lc 4:17"
+    },
+    "18": {
+      "text": "{\\i O Espírito do Senhor está sobre mim, \\par porque ele me ungiu \\par para evangelizar os pobres; \\par enviou-me para proclamar a remissão aos presos \\par e aos cegos a recuperação da vista, \\par para restituir a liberdade aos oprimidos }\\par",
+      "reference": "Lc 4:18"
+    },
+    "19": {
+      "text": "{\\i e para proclamar um ano de graça do Senhor. }\\par",
+      "reference": "Lc 4:19"
+    },
+    "20": {
+      "text": "Enrolou o livro, entregou-o ao servente e sentou-se. Todos na sinagoga olhavam-no, atentos.",
+      "reference": "Lc 4:20"
+    },
+    "21": {
+      "text": "Então começou a dizer-lhes: “Hoje se cumpriu aos vossos ouvidos essa passagem da Escritura”.",
+      "reference": "Lc 4:21"
+    },
+    "22": {
+      "text": "Todos testemunhavam a seu respeito, e admiravam-se das palavras cheias de graça que saíam de sua boca. \\par E diziam: “Não é o filho de José?”",
+      "reference": "Lc 4:22"
+    },
+    "23": {
+      "text": "Ele, porém, disse: “Certamente ireis citar-me o provérbio: Médico, cura-te a ti mesmo. Tudo o que ouvimos dizer que fizeste em Cafarnaum, faze-o também aqui em tua pátria”.",
+      "reference": "Lc 4:23"
+    },
+    "24": {
+      "text": "Mas em seguida acrescentou: “Em verdade vos digo que nenhum profeta é bem recebido em sua pátria. \\par",
+      "reference": "Lc 4:24"
+    },
+    "25": {
+      "text": "De fato, eu vos digo que havia em Israel muitas viúvas nos dias de Elias, quando por três anos e seis meses o céu permaneceu fechado e uma grande fome devastou toda a região;",
+      "reference": "Lc 4:25"
+    },
+    "26": {
+      "text": "Elias, no entanto, não foi enviado a nenhuma delas, exceto {\\i a uma viúva, em Sarepta, na região de Sidônia.}",
+      "reference": "Lc 4:26"
+    },
+    "27": {
+      "text": "Havia igualmente muitos leprosos em Israel no tempo do profeta Eliseu; todavia, nenhum deles foi purificado, a não ser o sírio Naamã”. \\par",
+      "reference": "Lc 4:27"
+    },
+    "28": {
+      "text": "Diante dessas palavras, todos na sinagoga se enfureceram.",
+      "reference": "Lc 4:28"
+    },
+    "29": {
+      "text": "E, levantando-se, expulsaram-no para fora da cidade e o conduziram até um cimo da colina sobre a qual a cidade estava construída, com a intenção de precipitá-lo de lá.",
+      "reference": "Lc 4:29"
+    },
+    "30": {
+      "text": "Ele, porém, passando pelo meio deles, prosseguia seu caminho... \\par",
+      "reference": "Lc 4:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Jesus ensina em Cafarnaum e cura um endemoninhado\\par }Desceu então a Cafarnaum, cidade da Galiléia, e ensinava-os aos sábados.",
+      "reference": "Lc 4:31"
+    },
+    "32": {
+      "text": "Eles ficavam pasmados com seu ensinamento, porque falava com autoridade. \\par",
+      "reference": "Lc 4:32"
+    },
+    "33": {
+      "text": "Encontrava-se na sinagoga um homem possesso de um espírito de demônio impuro, que se pôs a gritar fortemente:",
+      "reference": "Lc 4:33"
+    },
+    "34": {
+      "text": "“Ah! Que queres de nós, Jesus Nazareno? Vieste para arruinar-nos? Sei quem tu és: o Santo de Deus”.",
+      "reference": "Lc 4:34"
+    },
+    "35": {
+      "text": "Mas Jesus o conjurou severamente: “Cala-te, e sai dele!” E o demônio, lançando-o no meio de todos, saiu sem lhe fazer mal algum.",
+      "reference": "Lc 4:35"
+    },
+    "36": {
+      "text": "O espanto apossou-se de todos, e falavam entre si: “Que significa isso? Ele dá ordens com autoridade e poder aos espíritos impuros, e eles saem!”",
+      "reference": "Lc 4:36"
+    },
+    "37": {
+      "text": "E sua fama se propagava por todo lugar da redondeza. \\par",
+      "reference": "Lc 4:37"
+    },
+    "38": {
+      "text": "\\par {\\qc\\b\\i Cura da sogra de Simão\\par }Saindo da sinagoga, entrou na casa de Simão. A sogra de Simão estava com febre alta, e pediram-lhe por ela.",
+      "reference": "Lc 4:38"
+    },
+    "39": {
+      "text": "Ele se inclinou para ela, conjurou severamente a febre, e esta a deixou; imediatamente ela se levantou e se pôs a servi-los. \\par",
+      "reference": "Lc 4:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i Diversas curas\\par }Ao pôr-do-sol, todos os que tinham doentes atingidos de males diversos traziam-nos, e ele, impondo as mãos sobre cada um, curava-os.",
+      "reference": "Lc 4:40"
+    },
+    "41": {
+      "text": "De um grande número também saíam demônios gritando: “Tu és o Filho de Deus!” Em tom ameaçador, porém, ele os proibia de falar, pois sabiam que ele era o Cristo. \\par",
+      "reference": "Lc 4:41"
+    },
+    "42": {
+      "text": "\\par {\\qc\\b\\i Jesus deixa secretamente Cafarnaum e percorre a Judéia\\par }Ao raiar do dia, saiu e foi para um lugar deserto. As multidões puseram-se a procurá-lo e, tendo-o encontrado, queriam retê-lo, impedindo-o que as deixasse.",
+      "reference": "Lc 4:42"
+    },
+    "43": {
+      "text": "Ele, porém, lhes disse: “Devo anunciar também a outras cidades a Boa Nova do reino de Deus, pois é para isso que fui enviado”.",
+      "reference": "Lc 4:43"
+    },
+    "44": {
+      "text": "E pregava pelas sinagogas da Judéia. \\par",
+      "reference": "Lc 4:44"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 44
+}

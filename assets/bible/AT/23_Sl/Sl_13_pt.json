@@ -1,0 +1,37 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 13 (12)\\par }{\\qc\\b\\i Pedido confiante\\par }{\\qc\\i Do mestre de canto. Salmo. De Davi.\\par }",
+      "reference": "Sl 13:1"
+    },
+    "2": {
+      "text": "Até quando me esquecerás, Iahweh? Para sempre? \\par Até quando esconderás de mim a tua face? \\par",
+      "reference": "Sl 13:2"
+    },
+    "3": {
+      "text": "Até quando terei sofrimento dentro de mim \\par e tristeza no coração, dia e noite? \\par Até quando vai triunfar meu inimigo? \\par",
+      "reference": "Sl 13:3"
+    },
+    "4": {
+      "text": "Atenta, Iahweh meu Deus! Responde-me! \\par Ilumina meus olhos, \\par para que eu não adormeça na morte. \\par",
+      "reference": "Sl 13:4"
+    },
+    "5": {
+      "text": "Que meu inimigo não diga: “Venci-o!” \\par e meus opressores não exultem com meu fracasso. \\par",
+      "reference": "Sl 13:5"
+    },
+    "6": {
+      "text": "Quanto a mim, eu confio no teu amor! \\par Meu coração exulte com a tua salvação. \\par Vou cantar a Iahweh pelo bem que me fez, \\par vou tocar ao nome de Iahweh, o Altíssimo! \\par",
+      "reference": "Sl 13:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

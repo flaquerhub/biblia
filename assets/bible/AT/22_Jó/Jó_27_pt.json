@@ -1,0 +1,105 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Por ser inocente, Jó conhece o poder de Deus\\par }Jó continuou a exprimir-se em sentenças, dizendo: \\par",
+      "reference": "Jó 27:1"
+    },
+    "2": {
+      "text": "Pelo Deus vivo que me nega justiça, \\par por Shaddai que me amargura a alma, \\par",
+      "reference": "Jó 27:2"
+    },
+    "3": {
+      "text": "enquanto em mim houver um sopro de vida \\par e o alento de Deus nas narinas, \\par",
+      "reference": "Jó 27:3"
+    },
+    "4": {
+      "text": "meus lábios não dirão falsidades, \\par nem minha língua pronunciará mentiras! \\par",
+      "reference": "Jó 27:4"
+    },
+    "5": {
+      "text": "Longe de mim dar-vos razão! \\par Até o último alento manterei minha inocência, \\par",
+      "reference": "Jó 27:5"
+    },
+    "6": {
+      "text": "fico firme em minha justiça e não a deixo; \\par a consciência não me envergonha por meus dias. \\par",
+      "reference": "Jó 27:6"
+    },
+    "7": {
+      "text": "Tenha o meu inimigo a sorte do ímpio, \\par e meu adversário, a do injusto! \\par",
+      "reference": "Jó 27:7"
+    },
+    "8": {
+      "text": "Que esperança tem o perverso quando suplica \\par e quando eleva a Deus a sua alma? \\par",
+      "reference": "Jó 27:8"
+    },
+    "9": {
+      "text": "Acaso Deus escutará seu clamor, \\par quando o surpreende a aflição? \\par",
+      "reference": "Jó 27:9"
+    },
+    "10": {
+      "text": "Enconrará seu conforto em Shaddai, \\par e invocará a Deus a todo momento? \\par",
+      "reference": "Jó 27:10"
+    },
+    "11": {
+      "text": "Instruir-vos-ei acerca do poder de Deus,\\par não vos ocultarei os desígnios de Shaddai. \\par",
+      "reference": "Jó 27:11"
+    },
+    "12": {
+      "text": "Todos vós bem o vedes, \\par por que vos perdeis em vãs ilusões? \\par",
+      "reference": "Jó 27:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Discurso de Sofar: o maldito\\par }Esta é a porção que Deus reserva ao ímpio, \\par a herança que o tirano recebe de Shaddai: \\par",
+      "reference": "Jó 27:13"
+    },
+    "14": {
+      "text": "Se tiver muitos filhos, cairão pela espada, \\par seus descendentes não terão de comer. \\par",
+      "reference": "Jó 27:14"
+    },
+    "15": {
+      "text": "Quem sobreviver será enterrado pela Peste, \\par e suas viúvas não os chorarão. \\par",
+      "reference": "Jó 27:15"
+    },
+    "16": {
+      "text": "Ainda que acumule prata como pó \\par e amontoe vestidos como barro, \\par",
+      "reference": "Jó 27:16"
+    },
+    "17": {
+      "text": "ele amontoa, mas é o justo quem os vestirá; \\par quanto à prata, é o inocente quem a herdará. \\par",
+      "reference": "Jó 27:17"
+    },
+    "18": {
+      "text": "Construiu uma casa como uma teia de aranha, \\par construiu uma choupana para a guarda. \\par",
+      "reference": "Jó 27:18"
+    },
+    "19": {
+      "text": "Deita-se rico – mas será pela última vez –: \\par ao abrir os olhos não terá mais nada. \\par",
+      "reference": "Jó 27:19"
+    },
+    "20": {
+      "text": "Em pleno dia surpreendem-no terrores, \\par de noite arrebata-o um turbilhão. \\par",
+      "reference": "Jó 27:20"
+    },
+    "21": {
+      "text": "O vento leste levanta-o e fá-lo desaparecer \\par e varre-o de seu lugar. \\par",
+      "reference": "Jó 27:21"
+    },
+    "22": {
+      "text": "Precipita-se sobre ele sem piedade, \\par enquanto procura fugir de seu alcance. \\par",
+      "reference": "Jó 27:22"
+    },
+    "23": {
+      "text": "Aplaudem a sua ruína, \\par assobiam contra ele por onde ele vai. \\par {\\super (24:18)} É apenas um feto sobre as águas,\\par cai a maldição sobre sua propriedade na terra, \\par ninguém mais vai para a sua vinha. \\par {\\super (24:19)} Como o calor estivo absorve as águas da neve, \\par assim o Xeol àquele que pecou. \\par {\\super (24:20)} Dele se esquece o ventre que o formou, \\par o seu nome não é mais lembrado. \\par Assim é arrancada a iniqüidade como uma árvore. \\par {\\super (24:21)} Ele maltratou a estéril sem filhos \\par e não socorreu a viúva. \\par {\\super (24:22)} Mas Aquele que prende com força os tiranos \\par aparece e tira-lhe a certeza da vida. \\par {\\super (24:23)} Ele o deixava apoiar-se numa falsa segurança; \\par os seus olhos, porém, observavam os seus caminhos. \\par {\\super (24:24)} Exaltado por breve tempo, deixa de existir; \\par cai como a erva que se colhe \\par e murcha como as espigas. \\par",
+      "reference": "Jó 27:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

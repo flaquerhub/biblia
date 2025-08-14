@@ -1,0 +1,65 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. SUPERIORIDADE DO CULTO, DO SANTUÁRIO\\par E DA MEDIAÇÃO DE CRISTO SACERDOTE\\par }{\\qc\\b\\i O novo sacerdócio e o novo santuário\\par }O tema mais importante da nossa exposição é este: temos um tal sacerdote que {\\i se assentou} à direita do trono da Majestade nos céus.",
+      "reference": "Hb 8:1"
+    },
+    "2": {
+      "text": "Ele é ministro do Santuário e {\\i da Tenda} verdadeira, {\\i armada pelo Senhor}, e não por homem.",
+      "reference": "Hb 8:2"
+    },
+    "3": {
+      "text": "Todo sumo sacerdote, com efeito, é constituído para oferecer dádivas e sacrifícios; pelo que é necessário ter ele mesmo algo a oferecer.",
+      "reference": "Hb 8:3"
+    },
+    "4": {
+      "text": "Na verdade, contudo, se estivesse na terra, não seria nem mesmo sacerdote. Pois já existem os que oferecem dádivas, de acordo com a Lei.",
+      "reference": "Hb 8:4"
+    },
+    "5": {
+      "text": "Estes realizam um culto que é cópia e sombra das realidades celestes, de acordo com a instituição divina recebida por Moisés, a fim de construir a Tenda. Foi-lhe dito, com efeito: {\\i Vê que faças tudo segundo o modelo que te foi mostrado sobre a montanha.}\\par",
+      "reference": "Hb 8:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Cristo mediador de uma aliança melhor\\par }Agora, porém, Cristo possui um ministério superior. Pois é ele o mediador de uma aliança bem melhor, cuja constituição se baseia em melhores promessas.",
+      "reference": "Hb 8:6"
+    },
+    "7": {
+      "text": "De fato, se a primeira aliança fora sem defeito, não se trataria de substituí-la por uma segunda.",
+      "reference": "Hb 8:7"
+    },
+    "8": {
+      "text": "Ele faz, com efeito, uma repreensão: \\par {\\i Dias virão, diz o Senhor, \\par nos quais concluirei com a casa de Israel \\par e com a casa de Judá \\par uma nova aliança. }\\par",
+      "reference": "Hb 8:8"
+    },
+    "9": {
+      "text": "{\\i Não é como a aliança que fiz com os pais deles, \\par no dia que os conduzi pela mão, \\par para fazê-los sair da terra do Egito. \\par Pois eles mesmos \\par não mantiveram a minha aliança; \\par por isso não me interessei por eles, \\par diz o Senhor. }\\par",
+      "reference": "Hb 8:9"
+    },
+    "10": {
+      "text": "{\\i Eis a aliança pela qual ficarei unido ao povo de Israel, \\par depois daqueles dias, diz o Senhor: \\par Colocarei minhas leis na sua mente, \\par e as inscreverei no seu coração; \\par e eu serei o seu Deus, \\par e eles serão o meu povo. }\\par",
+      "reference": "Hb 8:10"
+    },
+    "11": {
+      "text": "{\\i Ninguém mais ensinará o seu próximo, \\par e nem o seu irmão, afirmando: \\par “Conhece o Senhor!” \\par Porque todos hão de me conhecer, \\par do menor até o maior. }\\par",
+      "reference": "Hb 8:11"
+    },
+    "12": {
+      "text": "{\\i Porque terei misericórdia das suas faltas, \\par e não me lembrarei mais dos seus pecados.}\\par",
+      "reference": "Hb 8:12"
+    },
+    "13": {
+      "text": "Assim sendo, ao falar de {\\i nova aliança}, tornou velha a primeira. Ora, o que se torna antigo e envelhece está prestes a desaparecer. \\par",
+      "reference": "Hb 8:13"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 13
+}

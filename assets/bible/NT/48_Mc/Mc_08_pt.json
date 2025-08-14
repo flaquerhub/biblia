@@ -1,0 +1,165 @@
+{
+  "book": 41,
+  "book_name": "Marcos",
+  "book_abbr": "Mc",
+  "book_category": "Evangelhos",
+  "book_english": "Mark",
+  "testament": "NT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Segunda multiplicação dos pães\\par }Naqueles dias, novamente uma grande multidão se ajuntou e não tinha o que comer, por isso ele chamou os discípulos e disse-lhes:",
+      "reference": "Mc 8:1"
+    },
+    "2": {
+      "text": "“Tenho compaixão da multidão, porque já faz três dias que está comigo e não tem o que comer.",
+      "reference": "Mc 8:2"
+    },
+    "3": {
+      "text": "Se eu os mandar em jejum para casa, desfalecerão pelo caminho, pois muitos vieram de longe”.",
+      "reference": "Mc 8:3"
+    },
+    "4": {
+      "text": "Seus discípulos lhe responderam: “Como poderia alguém, aqui num deserto, saciar com pão a tanta gente?”",
+      "reference": "Mc 8:4"
+    },
+    "5": {
+      "text": "Ele perguntou: “Quantos pães tendes?” Responderam: “Sete”.",
+      "reference": "Mc 8:5"
+    },
+    "6": {
+      "text": "Mandou que a multidão se assentasse pelo chão e, tomando os sete pães, deu graças, partiu-os e deu-os aos seus discípulos para que eles os distribuíssem. E eles os distribuíram à multidão.",
+      "reference": "Mc 8:6"
+    },
+    "7": {
+      "text": "Tinham ainda alguns peixinhos. Depois de os ter abençoado, mandou que os distribuíssem também.",
+      "reference": "Mc 8:7"
+    },
+    "8": {
+      "text": "Eles comeram e ficaram saciados. Dos pedaços que sobraram, recolheram sete cestos.",
+      "reference": "Mc 8:8"
+    },
+    "9": {
+      "text": "E eram cerca de quatro mil. E então os despediu.",
+      "reference": "Mc 8:9"
+    },
+    "10": {
+      "text": "Imediatamente, subindo para o barco com seus discípulos, partiu para a região de Dalmanuta. \\par",
+      "reference": "Mc 8:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Os fariseus pedem um sinal no céu\\par }Saíram os fariseus e começaram a discutir com ele. Para pô-lo à prova, pediram-lhe um sinal vindo do céu.",
+      "reference": "Mc 8:11"
+    },
+    "12": {
+      "text": "Suspirando profundamente em seu espírito, ele disse; “Por que esta geração procura um sinal? Em verdade vos digo que a esta geração nenhum sinal será dado”.",
+      "reference": "Mc 8:12"
+    },
+    "13": {
+      "text": "E deixando-os, embarcou de novo e foi para a outra margem. \\par",
+      "reference": "Mc 8:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i O fermento dos fariseus e de Herodes\\par }Eles haviam se esquecido de levar pães e tinham apenas um pão no barco.",
+      "reference": "Mc 8:14"
+    },
+    "15": {
+      "text": "Ele recomendou então: “Cuidado! Guardai-vos do fermento dos fariseus e do fermento de Herodes”.",
+      "reference": "Mc 8:15"
+    },
+    "16": {
+      "text": "Eles, no entanto, refletiam entre si, porque não tinham pães.",
+      "reference": "Mc 8:16"
+    },
+    "17": {
+      "text": "Mas, percebendo, ele disse: “Por que pensais que é por não terdes pães? Ainda não entendeis e nem compreendeis? Tendes o coração endurecido?",
+      "reference": "Mc 8:17"
+    },
+    "18": {
+      "text": "Tendes {\\i olhos e não vedes, ouvidos e não ouvis?} Não vos lembrais",
+      "reference": "Mc 8:18"
+    },
+    "19": {
+      "text": "de quando parti os cinco pães para cinco mil homens, quantos cestos cheios de pedaços recolhestes?” Disseram-lhe: “Doze”.",
+      "reference": "Mc 8:19"
+    },
+    "20": {
+      "text": "–“E dos sete para quatro mil, quantos cestos de pedaços recolhestes?” Disseram: “Sete”.",
+      "reference": "Mc 8:20"
+    },
+    "21": {
+      "text": "Então lhes disse: “Nem assim compreendeis?” \\par",
+      "reference": "Mc 8:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Cura de um cego em Betsaida\\par }E chegaram a Betsaida. Trouxeram-lhe então um cego, rogando que ele o tocasse.",
+      "reference": "Mc 8:22"
+    },
+    "23": {
+      "text": "Tomando o cego pela mão, levou-o para fora do povoado e, cuspindo-lhe nos olhos e impondo-lhe as mãos, perguntou-lhe: “Percebes alguma coisa?”",
+      "reference": "Mc 8:23"
+    },
+    "24": {
+      "text": "E ele, começando a ver, disse: “Vejo as pessoas como se fossem árvores andando”.",
+      "reference": "Mc 8:24"
+    },
+    "25": {
+      "text": "Em seguida, ele colocou novamente as mãos sobre os olhos do cego, que viu distintamente e ficou restabelecido e podia ver tudo nitidamente e de longe.",
+      "reference": "Mc 8:25"
+    },
+    "26": {
+      "text": "E mandou-o para casa, dizendo: “Não entres no povoado!” \\par",
+      "reference": "Mc 8:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Profissão de fé de Pedro\\par }Jesus partiu com seus discípulos para os povoados de Cesaréia de Filipe e, no caminho, perguntou a seus discípulos: “Quem dizem os homens que eu sou?”",
+      "reference": "Mc 8:27"
+    },
+    "28": {
+      "text": "Responderam-lhe: “João Batista; outros, Elias; outros ainda, um dos profetas”.",
+      "reference": "Mc 8:28"
+    },
+    "29": {
+      "text": "–“E vós, perguntou ele, quem dizeis que eu sou?” Pedro respondeu: “Tu és o Cristo”.",
+      "reference": "Mc 8:29"
+    },
+    "30": {
+      "text": "Então proibiu-os severamente de falar a alguém a seu respeito. \\par",
+      "reference": "Mc 8:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Primeiro anúncio da paixão\\par }E começou a ensinar-lhes: “O Filho do Homem deve sofrer muito, ser rejeitado pelos anciãos, pelos chefes dos sacerdotes e pelos escribas, ser morto e, depois de três dias, ressuscitar”.",
+      "reference": "Mc 8:31"
+    },
+    "32": {
+      "text": "Dizia isso abertamente. Pedro, chamando-o de lado, começou a recriminá-lo.",
+      "reference": "Mc 8:32"
+    },
+    "33": {
+      "text": "Ele, porém, voltando-se e vendo seus discípulos, recriminou a Pedro, dizendo: “Afasta-te de mim, Satanás, porque não pensas as coisas de Deus, mas as dos homens!” \\par",
+      "reference": "Mc 8:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Condições para seguir a Jesus\\par }Chamando a multidão, juntamente com seus discípulos, disse-lhes: “Se alguém quiser vir após mim, negue-se a si mesmo, tome a sua cruz e siga-me.",
+      "reference": "Mc 8:34"
+    },
+    "35": {
+      "text": "Pois aquele que quiser salvar a sua vida, irá perdê-la; mas, o que perder a sua vida por causa de mim e do Evangelho, irá salvá-la.",
+      "reference": "Mc 8:35"
+    },
+    "36": {
+      "text": "Com efeito, que aproveita ao homem ganhar o mundo inteiro e arruinar a sua vida?",
+      "reference": "Mc 8:36"
+    },
+    "37": {
+      "text": "Pois o que daria o homem em troca da sua vida?",
+      "reference": "Mc 8:37"
+    },
+    "38": {
+      "text": "De fato, aquele que, nesta geração adúltera e pecadora, se envergonhar de mim e de minhas palavras, também o Filho do Homem se envergonhará dele quando vier na glória do seu Pai com os santos anjos”. \\par",
+      "reference": "Mc 8:38"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 38
+}

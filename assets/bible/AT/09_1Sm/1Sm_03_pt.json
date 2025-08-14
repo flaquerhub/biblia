@@ -1,0 +1,97 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Deus chama Samuel\\par }O jovem Samuel servia, pois, a Iahweh na presença de Eli; naquele tempo, raramente Iahweh falava, e as visões não eram freqüentes.",
+      "reference": "1Sm 3:1"
+    },
+    "2": {
+      "text": "Ora, um dia, Eli já estava deitado no seu quarto – os seus olhos começaram a enfraquecer e não podia mais ver –,",
+      "reference": "1Sm 3:2"
+    },
+    "3": {
+      "text": "a lâmpada de Deus não se tinha ainda extinto e Samuel estava deitado no santuário de Iahweh, no lugar onde se encontrava a Arca de Deus.",
+      "reference": "1Sm 3:3"
+    },
+    "4": {
+      "text": "Iahweh chamou: “Samuel! Samuel!” Ele respondeu: “Eis-me aqui!”,",
+      "reference": "1Sm 3:4"
+    },
+    "5": {
+      "text": "e correu para onde estava Eli, e disse: “Eis-me aqui, porque me chamaste”. – “Não te chamei”, disse Eli; “volta a deitar-te”. Ele foi deitar-se.",
+      "reference": "1Sm 3:5"
+    },
+    "6": {
+      "text": "Iahweh chamou novamente: “Samuel! Samuel!” Levantou-se e foi ter com Eli, dizendo: “Tu me chamaste: aqui estou”. – “Eu não te chamei, filho meu”, disse Eli; “vai deitar-te”.",
+      "reference": "1Sm 3:6"
+    },
+    "7": {
+      "text": "Samuel não conhecia ainda a Iahweh, e a palavra de Iahweh não lhe tinha sido ainda revelada.",
+      "reference": "1Sm 3:7"
+    },
+    "8": {
+      "text": "Iahweh voltou a chamar Samuel pela terceira vez. Ele se levantou, aproximou-se de Eli e disse: “Aqui estou, porque me chamaste”. Então Eli compreendeu que era Iahweh que chamava o menino",
+      "reference": "1Sm 3:8"
+    },
+    "9": {
+      "text": "e disse a Samuel: “Vai deitar-te e, se te chamar de novo, dirás: ‘Fala, Iahweh, que o teu servo ouve’”, e Samuel foi se deitar no seu lugar. \\par",
+      "reference": "1Sm 3:9"
+    },
+    "10": {
+      "text": "Veio Iahweh e ficou ali presente. Chamou, como das outras vezes: “Samuel! Samuel!”, e Samuel respondeu: “Fala, que teu servo ouve”.",
+      "reference": "1Sm 3:10"
+    },
+    "11": {
+      "text": "Iahweh disse a Samuel: “Vou fazer uma coisa em Israel que fará tinir ambos os ouvidos de todos os que a ouvirem.",
+      "reference": "1Sm 3:11"
+    },
+    "12": {
+      "text": "Naquele dia, farei cumprir-se contra Eli tudo o que disse acerca da sua casa, do começo até o fim.",
+      "reference": "1Sm 3:12"
+    },
+    "13": {
+      "text": "Tu lhe anunciarás que eu condeno a sua casa para sempre, porque ele sabia que os seus filhos ofendiam a Deus e não os repreendeu.",
+      "reference": "1Sm 3:13"
+    },
+    "14": {
+      "text": "É por isso – eu juro à casa de Eli – que nem sacrifício nem oferenda jamais expiarão a iniqüidade da casa de Eli”. \\par",
+      "reference": "1Sm 3:14"
+    },
+    "15": {
+      "text": "Samuel repousou até de manhã, e então abriu as portas da casa de Iahweh. Samuel temia contar a visão a Eli,",
+      "reference": "1Sm 3:15"
+    },
+    "16": {
+      "text": "mas Eli o chamou e disse: “Samuel, meu filho!” E ele respondeu: “Eis-me aqui!”",
+      "reference": "1Sm 3:16"
+    },
+    "17": {
+      "text": "Ele perguntou: “Qual foi a palavra que ele te disse? Não me ocultes nada! Que Deus te faça o mesmo mal e lhe some mais outro tanto, se me esconderes uma só palavra de tudo o que ele te disse”.",
+      "reference": "1Sm 3:17"
+    },
+    "18": {
+      "text": "Então Samuel lhe contou tudo, sem lhe ocultar coisa alguma. Eli disse: “Ele é Iahweh. Faça ele o que lhe parecer bom!” \\par",
+      "reference": "1Sm 3:18"
+    },
+    "19": {
+      "text": "Samuel crescia. Iahweh estava com ele, e nenhuma das palavras que lhe dissera deixou cair em terra.",
+      "reference": "1Sm 3:19"
+    },
+    "20": {
+      "text": "Todo o Israel soube, desde Dã até Bersabéia, que Samuel estava confirmado como profeta de Iahweh.",
+      "reference": "1Sm 3:20"
+    },
+    "21": {
+      "text": "Iahweh continuou a manifestar-se em Silo, porque em Silo ele se revelava a Samuel, \\par",
+      "reference": "1Sm 3:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

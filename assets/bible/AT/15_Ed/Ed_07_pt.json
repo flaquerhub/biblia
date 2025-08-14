@@ -1,0 +1,125 @@
+{
+  "book": 15,
+  "book_name": "Esdras",
+  "book_abbr": "Ed",
+  "book_category": "Histórico",
+  "book_english": "Ezra",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. A organização da comunidade por Esdras e Neemias}\\par }{\\qc\\b\\i Missão e personalidade de Esdras\\par }Depois desses fatos, no reinado de Artaxerxes, rei da Pérsia, chegou Esdras, filho de Saraías, filho de Azarias, filho de Helcias,",
+      "reference": "Ed 7:1"
+    },
+    "2": {
+      "text": "filho de Selum, filho de Sadoc, filho de Aquitob,",
+      "reference": "Ed 7:2"
+    },
+    "3": {
+      "text": "filho de Amarias, filho de Azarias, filho de Maraiot,",
+      "reference": "Ed 7:3"
+    },
+    "4": {
+      "text": "filho de Zaraías, filho de Ozi, filho de Boci,",
+      "reference": "Ed 7:4"
+    },
+    "5": {
+      "text": "filho de Abisue, filho de Finéias, filho de Eleazar, filho do sumo sacerdote Aarão;",
+      "reference": "Ed 7:5"
+    },
+    "6": {
+      "text": "este Esdras subiu de Babilônia. Era um escriba versado na Lei de Moisés, dada por Iahweh, o Deus de Israel. Como a mão de Iahweh, seu Deus, estava sobre ele, o rei lhe concedeu tudo o que pediu.",
+      "reference": "Ed 7:6"
+    },
+    "7": {
+      "text": "Subiram também para Jerusalém, no sétimo ano do rei Artaxerxes, certo número de filhos de Israel: de sacerdotes, levitas, cantores, porteiros e “doados”.",
+      "reference": "Ed 7:7"
+    },
+    "8": {
+      "text": "Esdras chegou a Jerusalém no quinto mês do sétimo ano do rei.",
+      "reference": "Ed 7:8"
+    },
+    "9": {
+      "text": "No primeiro dia do primeiro mês ele iniciou sua partida de Babilônia e no primeiro dia do quinto mês chegou a Jerusalém: a mão benfazeja de Deus estava sobre ele!",
+      "reference": "Ed 7:9"
+    },
+    "10": {
+      "text": "Pois Esdras tinha aplicado seu coração a perscrutar a Lei de Iahweh, a praticar e ensinar, em Israel, os estatutos e as normas. \\par",
+      "reference": "Ed 7:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i O rescrito de Artaxerxes\\par }Eis a cópia do documento que o rei Artaxerxes entregou a Esdras, o sacerdote-escriba, sábio intérprete dos mandamentos de Iahweh e de suas leis referentes a Israel. \\par",
+      "reference": "Ed 7:11"
+    },
+    "12": {
+      "text": "“Artaxerxes, o rei dos reis, ao sacerdote Esdras, Secretário da Lei do Deus do céu, paz completa. \\par Agora, pois,",
+      "reference": "Ed 7:12"
+    },
+    "13": {
+      "text": "dei ordem para que todo aquele que, em meu reino, faça parte do povo de Israel, de seus sacerdotes ou levitas e queira partir para Jerusalém, possa ir contigo,",
+      "reference": "Ed 7:13"
+    },
+    "14": {
+      "text": "porque tu és enviado pelo rei e pelos seus sete conselheiros, para vigiares sobre Judá e Jerusalém, segundo a lei de teu Deus, a qual está em tuas mãos,",
+      "reference": "Ed 7:14"
+    },
+    "15": {
+      "text": "e para levares a prata e o ouro que o rei e seus conselheiros ofereceram espontaneamente ao Deus de Israel que reside em Jerusalém,",
+      "reference": "Ed 7:15"
+    },
+    "16": {
+      "text": "e toda a prata e ouro que receberes em toda a província de Babilônia, além dos donativos espontâneos que o povo e os sacerdotes oferecerem para o templo de seu Deus em Jerusalém.",
+      "reference": "Ed 7:16"
+    },
+    "17": {
+      "text": "Com esse dinheiro, pois, cuidarás de comprar touros, carneiros, cordeiros, bem como as oblações e libações que os acompanham: e os oferecerás sobre o altar do templo de vosso Deus em Jerusalém;",
+      "reference": "Ed 7:17"
+    },
+    "18": {
+      "text": "utilizareis o restante da prata e do ouro como vos parecer melhor, a ti e a teus irmãos, em conformidade com a vontade de vosso Deus.",
+      "reference": "Ed 7:18"
+    },
+    "19": {
+      "text": "Deposita diante de teu Deus, em Jerusalém, os utensílios que te foram entregues para o serviço do templo do teu Deus.",
+      "reference": "Ed 7:19"
+    },
+    "20": {
+      "text": "Tudo o mais que for necessário para o templo do teu Deus, que te tocasse fornecer, ser-te-á dado do tesouro real.",
+      "reference": "Ed 7:20"
+    },
+    "21": {
+      "text": "Sou eu mesmo, o rei Artaxerxes, que dou esta ordem a todos os tesoureiros da Transeufratênia: ‘Executai rigorosamente tudo o que vos pedir o sacerdote Esdras, Secretário da Lei do Deus do céu,",
+      "reference": "Ed 7:21"
+    },
+    "22": {
+      "text": "até o limite de cem talentos de prata, cem coros de trigo, cem batos de vinho, cem batos de azeite e sal à vontade.",
+      "reference": "Ed 7:22"
+    },
+    "23": {
+      "text": "Tudo o que o Deus do céu ordenar seja executado com exatidão para o templo do Deus do céu, para que a ira não se desencadeie sobre o reino do monarca e de seus filhos.",
+      "reference": "Ed 7:23"
+    },
+    "24": {
+      "text": "Nós vos fazemos saber, também, que fica proibido cobrar imposto, contribuição ou direito de passagem de todos os sacerdotes, levitas, cantores, porteiros, ‘doados’, numa palavra, de todos os servos desta casa de Deus’.",
+      "reference": "Ed 7:24"
+    },
+    "25": {
+      "text": "E tu, Esdras, segundo a sabedoria de teu Deus, que tens em mãos, estabelecerás escribas e juízes que administrem a justiça para todo o povo da Transeufratênia, para todos os que conhecem a Lei de teu Deus. E deverás ensiná-la a quem não a conhece.",
+      "reference": "Ed 7:25"
+    },
+    "26": {
+      "text": "Todo o que não observar a Lei de teu Deus – que é a Lei do rei – será castigado rigorosamente: com a morte ou o desterro, com multa ou prisão”. \\par",
+      "reference": "Ed 7:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Viagem de Esdras de Babilônia para a Palestina\\par }Bendito seja Iahweh, o Deus de nossos pais, que inspirou assim ao coração do rei o desejo de honrar o Templo de Iahweh em Jerusalém,",
+      "reference": "Ed 7:27"
+    },
+    "28": {
+      "text": "e que me fez obter o favor do rei, de seus conselheiros e de todos os funcionários mais poderosos do rei. Quanto a mim, enchi-me de coragem, pois a mão de Iahweh meu Deus estava sobre mim, e reuni alguns chefes de Israel para que subissem comigo. \\par",
+      "reference": "Ed 7:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

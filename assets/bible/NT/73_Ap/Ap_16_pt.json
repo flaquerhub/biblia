@@ -1,0 +1,97 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Ouvi depois uma forte voz que vinha do templo, dizendo aos sete Anjos: “Ide e derramai pela terra as sete taças do furor de Deus”.",
+      "reference": "Ap 16:1"
+    },
+    "2": {
+      "text": "O primeiro saiu e derramou sua taça pela terra. E uma úlcera maligna e dolorosa atingiu as pessoas que traziam a marca da Besta e as que adoravam a sua imagem.",
+      "reference": "Ap 16:2"
+    },
+    "3": {
+      "text": "O segundo derramou sua taça pelo mar... E este se transformou em sangue, como de um morto, de modo que todos os seres que viviam no mar morreram.",
+      "reference": "Ap 16:3"
+    },
+    "4": {
+      "text": "O terceiro derramou sua taça pelos rios e pelas fontes... E transformaram-se em sangue.",
+      "reference": "Ap 16:4"
+    },
+    "5": {
+      "text": "Ouvi então o Anjo das águas dizer: \\par “Justo és ‘Aquele-que-é e Aquele-que-era’, ó Santo, \\par porque julgaste estas coisas; \\par",
+      "reference": "Ap 16:5"
+    },
+    "6": {
+      "text": "pois estes derramaram sangue de santos e profetas, \\par e tu lhes deste sangue para beber. \\par Eles o merecem!” \\par",
+      "reference": "Ap 16:6"
+    },
+    "7": {
+      "text": "Ouvi então que o altar dizia: \\par “Sim, Senhor, Deus todo-poderoso, \\par teus julgamentos são verdadeiros e justos”. \\par",
+      "reference": "Ap 16:7"
+    },
+    "8": {
+      "text": "O quarto derramou sua taça sobre o sol... E a este foi permitido abrasar os homens com fogo.",
+      "reference": "Ap 16:8"
+    },
+    "9": {
+      "text": "Os homens, então, abrasados por um calor intenso, puseram-se a blasfemar contra o nome do Deus, que tem poder sobre tais pragas. Mas não se converteram para lhe tributar glória... \\par",
+      "reference": "Ap 16:9"
+    },
+    "10": {
+      "text": "O quinto derramou sua taça sobre o trono da Besta... E o seu reino ficou em trevas: os homens mordiam a língua de dor,",
+      "reference": "Ap 16:10"
+    },
+    "11": {
+      "text": "e blasfemaram contra o Deus do céu por causa de suas dores e úlceras. Mas não se converteram de sua conduta...",
+      "reference": "Ap 16:11"
+    },
+    "12": {
+      "text": "O sexto derramou sua taça sobre o grande rio Eufrates... E a água do rio secou, abrindo caminho aos reis do Oriente.",
+      "reference": "Ap 16:12"
+    },
+    "13": {
+      "text": "Nisto vi que da boca do Dragão, da boca da Besta e da boca do falso profeta saíram três espíritos impuros, como sapos.",
+      "reference": "Ap 16:13"
+    },
+    "14": {
+      "text": "São, com efeito, espíritos de demônios: fazem maravilhas e vão até aos reis de toda a terra, a fim de reuni-los para a guerra do grande Dia do Deus todo-poderoso.",
+      "reference": "Ap 16:14"
+    },
+    "15": {
+      "text": "(Eis que eu venho como um ladrão: feliz aquele que vigia e conserva suas vestes, para não andar nu e deixar que vejam a sua vergonha.)",
+      "reference": "Ap 16:15"
+    },
+    "16": {
+      "text": "Eles os reuniram então no lugar que, em hebraico, se chama “Harmagedôn”. \\par",
+      "reference": "Ap 16:16"
+    },
+    "17": {
+      "text": "O sétimo, finalmente, espalhou sua taça pelo ar... Nisto saiu uma forte voz do templo, dizendo: “Está realizado!”",
+      "reference": "Ap 16:17"
+    },
+    "18": {
+      "text": "Houve então relâmpagos, vozes, trovões, e um forte terremoto; um terremoto tão violento {\\i como nunca houve desde que} o homem {\\i apareceu sobre a terra.}",
+      "reference": "Ap 16:18"
+    },
+    "19": {
+      "text": "A Grande Cidade se dividiu em três partes, e as cidades das nações caíram. Deus se lembrou então de Babilônia, a Grande, para lhe dar o cálice do vinho do furor da sua ira.",
+      "reference": "Ap 16:19"
+    },
+    "20": {
+      "text": "As ilhas todas fugiram e os montes desapareceram;",
+      "reference": "Ap 16:20"
+    },
+    "21": {
+      "text": "{\\i do céu caiu sobre os homens um granizo pesado, como chuva de talentos.} E os homens blasfemaram contra Deus por causa da praga do granizo, pois o seu flagelo é muito grande. \\par",
+      "reference": "Ap 16:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

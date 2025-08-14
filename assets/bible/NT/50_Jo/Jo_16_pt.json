@@ -1,0 +1,145 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Digo-vos isto \\par para que não vos escandalizeis. \\par",
+      "reference": "Jo 16:1"
+    },
+    "2": {
+      "text": "Expulsar-vos-ão das sinagogas. \\par E mais ainda: virá a hora \\par em que aquele que vos matar \\par julgará realizar um ato de culto a Deus. \\par",
+      "reference": "Jo 16:2"
+    },
+    "3": {
+      "text": "E isso farão \\par porque não reconheceram o Pai nem a mim. \\par",
+      "reference": "Jo 16:3"
+    },
+    "4": {
+      "text": "Mas eu vos digo tais coisas \\par para que, ao chegar a sua hora, \\par vos lembreis de que eu vos havia dito. \\par \\par {\\qc\\b\\i A vinda do Paráclito\\par } Não vos disse isso desde o princípio \\par porque estava convosco. \\par",
+      "reference": "Jo 16:4"
+    },
+    "5": {
+      "text": "Agora, porém, vou para aquele que me enviou \\par e nenhum de vós me pergunta: \\par ‘Para onde vais?’ \\par",
+      "reference": "Jo 16:5"
+    },
+    "6": {
+      "text": "Mas porque vos disse isso, \\par a tristeza encheu vossos corações. \\par",
+      "reference": "Jo 16:6"
+    },
+    "7": {
+      "text": "No entanto, eu vos digo a verdade: \\par é de vosso interesse que eu parta, \\par pois, se eu não for, \\par o Paráclito não virá a vós. \\par Mas se eu for, \\par enviá-lo-ei a vós. \\par",
+      "reference": "Jo 16:7"
+    },
+    "8": {
+      "text": "E quando ele vier, \\par estabelecerá a culpabilidade do mundo \\par a respeito do pecado, \\par da justiça \\par e do julgamento: \\par",
+      "reference": "Jo 16:8"
+    },
+    "9": {
+      "text": "do pecado, \\par porque não crêem em mim; \\par",
+      "reference": "Jo 16:9"
+    },
+    "10": {
+      "text": "da justiça, \\par porque vou para o Pai \\par e não mais me vereis; \\par",
+      "reference": "Jo 16:10"
+    },
+    "11": {
+      "text": "do julgamento, \\par porque o Príncipe deste mundo \\par está julgado. \\par",
+      "reference": "Jo 16:11"
+    },
+    "12": {
+      "text": "Tenho ainda muito que vos dizer, \\par mas não podeis agora suportar. \\par",
+      "reference": "Jo 16:12"
+    },
+    "13": {
+      "text": "Quando vier o Espírito da Verdade, \\par ele vos conduzirá à verdade plena, \\par pois não falará de si mesmo, \\par mas dirá tudo o que tiver ouvido \\par e vos anunciará as coisas futuras. \\par",
+      "reference": "Jo 16:13"
+    },
+    "14": {
+      "text": "Ele me glorificará \\par porque receberá do que é meu \\par e vos anunciará. \\par",
+      "reference": "Jo 16:14"
+    },
+    "15": {
+      "text": "Tudo o que o Pai tem é meu. \\par Por isso vos disse: \\par ele receberá do que é meu \\par e vos anunciará. \\par",
+      "reference": "Jo 16:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Anúncio de um breve retorno\\par }Um pouco de tempo e já não me vereis, mais um pouco de tempo ainda e me vereis”. \\par",
+      "reference": "Jo 16:16"
+    },
+    "17": {
+      "text": "Disseram entre si alguns de seus discípulos: “Que é isto que ele nos diz: ‘Um pouco e não me vereis e novamente um pouco e me vereis’? E ‘Vou para o Pai’?”",
+      "reference": "Jo 16:17"
+    },
+    "18": {
+      "text": "Eles diziam: “Que é ‘um pouco’? Não sabemos de que fala”.",
+      "reference": "Jo 16:18"
+    },
+    "19": {
+      "text": "Compreendeu Jesus que queriam interrogá-lo e lhes disse: “Vós vos interrogais sobre o que eu disse: \\par ‘Um pouco de tempo e já não me vereis, \\par mais um pouco ainda e me vereis’? \\par",
+      "reference": "Jo 16:19"
+    },
+    "20": {
+      "text": "Em verdade, em verdade, vos digo: \\par chorareis e vos lamentareis, \\par mas o mundo se alegrará. \\par Vós vos entristecereis, \\par mas a vossa tristeza se transformará em alegria. \\par",
+      "reference": "Jo 16:20"
+    },
+    "21": {
+      "text": "Quando a mulher está para dar à luz, entristece-se \\par porque a sua hora chegou; \\par quando, porém, dá à luz a criança \\par ela já não se lembra dos sofrimentos, \\par pela alegria de ter vindo ao mundo um homem. \\par",
+      "reference": "Jo 16:21"
+    },
+    "22": {
+      "text": "Também vós, agora, estais tristes; \\par mas eu vos verei de novo \\par e vosso coração se alegrará \\par e ninguém vos tirará a vossa alegria. \\par",
+      "reference": "Jo 16:22"
+    },
+    "23": {
+      "text": "Nesse dia, \\par nada me perguntareis. \\par Em verdade, em verdade, vos digo: \\par o que pedirdes ao Pai, \\par ele vos dará em meu nome. \\par",
+      "reference": "Jo 16:23"
+    },
+    "24": {
+      "text": "Até agora, nada pedistes em meu nome; \\par pedi e recebereis, \\par para que a vossa alegria seja completa. \\par",
+      "reference": "Jo 16:24"
+    },
+    "25": {
+      "text": "Disse-vos essas coisas por figuras. \\par Chega a hora \\par em que já não vos falarei em figuras, \\par mas claramente vos falarei do Pai. \\par",
+      "reference": "Jo 16:25"
+    },
+    "26": {
+      "text": "Nesse dia, \\par pedireis em meu nome \\par e não vos digo que intervirei junto ao Pai por vós, \\par",
+      "reference": "Jo 16:26"
+    },
+    "27": {
+      "text": "pois o próprio Pai vos ama, \\par porque me amastes \\par e crestes que vim de Deus. \\par",
+      "reference": "Jo 16:27"
+    },
+    "28": {
+      "text": "Saí do Pai e vim ao mundo; \\par de novo deixo o mundo e vou para o Pai”. \\par",
+      "reference": "Jo 16:28"
+    },
+    "29": {
+      "text": "Seus discípulos lhe dizem: “Eis que agora falas claramente, sem figuras!",
+      "reference": "Jo 16:29"
+    },
+    "30": {
+      "text": "Agora vemos que sabes tudo e não tens necessidade de que alguém te interrogue. Por isso cremos que saíste de Deus”.",
+      "reference": "Jo 16:30"
+    },
+    "31": {
+      "text": "Jesus lhes responde: \\par “Credes agora? \\par",
+      "reference": "Jo 16:31"
+    },
+    "32": {
+      "text": "Eis que chega a hora – e ela chegou – \\par em que vos dispersareis, \\par cada um para o seu lado, \\par e me deixareis sozinho. \\par Mas eu não estou só, \\par porque o Pai está comigo. \\par",
+      "reference": "Jo 16:32"
+    },
+    "33": {
+      "text": "Eu vos disse tais coisas \\par para terdes paz em mim. \\par No mundo tereis tribulações, \\par mas tende coragem: \\par eu venci o mundo!” \\par",
+      "reference": "Jo 16:33"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 33
+}

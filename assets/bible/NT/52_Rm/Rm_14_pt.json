@@ -1,0 +1,105 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Amor pelos fracos\\par }Acolhei o fraco na fé sem querer discutir suas opiniões.",
+      "reference": "Rm 14:1"
+    },
+    "2": {
+      "text": "Um acha que pode comer tudo, ao passo que o fraco só come verdura.",
+      "reference": "Rm 14:2"
+    },
+    "3": {
+      "text": "Quem come não despreze aquele que não come; e aquele que não come não condene aquele que come; porque Deus o acolheu.",
+      "reference": "Rm 14:3"
+    },
+    "4": {
+      "text": "Quem és tu que julgas o servo alheio? Que ele fique em pé ou caia, isso é com seu patrão; mas ele ficará em pé, porque o Senhor tem o poder de o sustentar.",
+      "reference": "Rm 14:4"
+    },
+    "5": {
+      "text": "Há quem faça diferença entre dia e dia e há quem ache todos os dias iguais; cada qual siga sua convicção.",
+      "reference": "Rm 14:5"
+    },
+    "6": {
+      "text": "Aquele que distingue os dias, é para o Senhor que os distingue, e aquele que come, é para o Senhor que o faz, porque ele dá graças a Deus. E aquele que não come, é para o Senhor que não come, e ele também dá graças a Deus.",
+      "reference": "Rm 14:6"
+    },
+    "7": {
+      "text": "Pois ninguém de nós vive e ninguém morre para si mesmo,",
+      "reference": "Rm 14:7"
+    },
+    "8": {
+      "text": "porque se vivemos é para o Senhor que vivemos, e se morremos é para o Senhor que morremos. Portanto, quer vivamos, quer morramos, pertencemos ao Senhor.",
+      "reference": "Rm 14:8"
+    },
+    "9": {
+      "text": "Com efeito, Cristo morreu e reviveu para ser o Senhor dos mortos e dos vivos.",
+      "reference": "Rm 14:9"
+    },
+    "10": {
+      "text": "Por que julgas teu irmão? E tu, por que o desprezas? Pois todos nós compareceremos ao tribunal de Deus.",
+      "reference": "Rm 14:10"
+    },
+    "11": {
+      "text": "Com efeito, está escrito: \\par {\\i Por minha vida, }diz o Senhor,{\\i  \\par todo joelho se dobrará diante de mim \\par e toda língua dará glória a Deus.}\\par",
+      "reference": "Rm 14:11"
+    },
+    "12": {
+      "text": "Assim, cada um de nós prestarás contas a Deus de si próprio. \\par",
+      "reference": "Rm 14:12"
+    },
+    "13": {
+      "text": "Deixemos, portanto, de nos julgar uns aos outros: cuidai antes de não colocar tropeço ou escândalo diante de vosso irmão.",
+      "reference": "Rm 14:13"
+    },
+    "14": {
+      "text": "Eu sei e estou convencido no Senhor Jesus que nada é impuro em si. Alguma coisa só é impura para quem a considera impura.",
+      "reference": "Rm 14:14"
+    },
+    "15": {
+      "text": "Entretanto, se por causa de um alimento teu irmão fica contristado, já não procedes com amor. Não faças perecer por causa do teu alimento alguém pelo qual Cristo morreu! \\par",
+      "reference": "Rm 14:15"
+    },
+    "16": {
+      "text": "Que o vosso bem não se torne alvo de injúrias,",
+      "reference": "Rm 14:16"
+    },
+    "17": {
+      "text": "porquanto o Reino de Deus não consiste em comida e bebida, mas é justiça, paz e alegria no Espírito Santo.",
+      "reference": "Rm 14:17"
+    },
+    "18": {
+      "text": "Quem desta maneira serve a Cristo, torna-se agradável a Deus e aprovado pelos homens.",
+      "reference": "Rm 14:18"
+    },
+    "19": {
+      "text": "Procuremos, portanto, o que favorece a paz e a mútua edificação.",
+      "reference": "Rm 14:19"
+    },
+    "20": {
+      "text": "Não destruas a obra de Deus por uma questão de comida. Tudo é puro, é verdade, mas faz mal o homem que se alimenta dando escândalo.",
+      "reference": "Rm 14:20"
+    },
+    "21": {
+      "text": "É bom se abster de carne, de vinho e de tudo o que seja causa de tropeço, de queda ou de enfraquecimento para teu irmão. \\par",
+      "reference": "Rm 14:21"
+    },
+    "22": {
+      "text": "A fé esclarecida que tens, guarda-a para ti diante de Deus. Feliz aquele que não se condena na decisão que toma.",
+      "reference": "Rm 14:22"
+    },
+    "23": {
+      "text": "Mas quem duvida e assim mesmo toma o alimento é condenado, porque não procede de boa fé. Pois tudo o que não procede da boa fé é pecado. \\par",
+      "reference": "Rm 14:23"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 23
+}

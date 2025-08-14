@@ -1,0 +1,113 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i I. O nascimento e a infância de Jesus}\\par }{\\qc\\b\\i Genealogia de Jesus\\par }Livro da origem de Jesus Cristo, filho de Davi, filho de Abraão: \\par",
+      "reference": "Mt 1:1"
+    },
+    "2": {
+      "text": "Abraão gerou Isaac, \\par Isaac gerou Jacó, \\par Jacó gerou Judá e seus irmãos, \\par",
+      "reference": "Mt 1:2"
+    },
+    "3": {
+      "text": "Judá gerou Farés e Zara, de Tamar, \\par Farés gerou Esrom, \\par Esrom gerou Aram, \\par",
+      "reference": "Mt 1:3"
+    },
+    "4": {
+      "text": "Aram gerou Aminadab, \\par Aminadab gerou Naasson, \\par Naasson gerou Salmon, \\par",
+      "reference": "Mt 1:4"
+    },
+    "5": {
+      "text": "Salmon gerou Booz, de Raab, \\par Booz gerou Jobed, de Rute, \\par Jobed gerou Jessé, \\par",
+      "reference": "Mt 1:5"
+    },
+    "6": {
+      "text": "Jessé gerou o rei Davi. \\par Davi gerou Salomão, daquela que foi mulher de Urias, \\par",
+      "reference": "Mt 1:6"
+    },
+    "7": {
+      "text": "Salomão gerou Roboão, \\par Roboão gerou Abias, \\par Abias gerou Asa, \\par",
+      "reference": "Mt 1:7"
+    },
+    "8": {
+      "text": "Asa gerou Josafá, \\par Josafá gerou Jorão, \\par Jorão gerou Ozias, \\par",
+      "reference": "Mt 1:8"
+    },
+    "9": {
+      "text": "Ozias gerou Joatão, \\par Joatão gerou Acaz, \\par Acaz gerou Ezequias, \\par",
+      "reference": "Mt 1:9"
+    },
+    "10": {
+      "text": "Ezequias gerou Manassés, \\par Manassés gerou Amon, \\par Amon gerou Josias, \\par",
+      "reference": "Mt 1:10"
+    },
+    "11": {
+      "text": "Josias gerou Jeconias e seus irmãos \\par por ocasião do exílio na Babilônia. \\par",
+      "reference": "Mt 1:11"
+    },
+    "12": {
+      "text": "Depois do exílio na Babilônia, \\par Jeconias gerou Salatiel, \\par Salatiel gerou Zorobabel, \\par",
+      "reference": "Mt 1:12"
+    },
+    "13": {
+      "text": "Zorobabel gerou Abiud, \\par Abiud gerou Eliacim, \\par Eliacim gerou Azor, \\par",
+      "reference": "Mt 1:13"
+    },
+    "14": {
+      "text": "Azor gerou Sadoc, \\par Sadoc gerou Aquim, \\par Aquim gerou Eliud, \\par",
+      "reference": "Mt 1:14"
+    },
+    "15": {
+      "text": "Eliud gerou Eleazar, \\par Eleazar gerou Matã, \\par Matã gerou Jacó, \\par",
+      "reference": "Mt 1:15"
+    },
+    "16": {
+      "text": "Jacó gerou José, o esposo de Maria, \\par da qual nasceu Jesus chamado Cristo. \\par",
+      "reference": "Mt 1:16"
+    },
+    "17": {
+      "text": "Portanto, o total das gerações é: \\par de Abraão até Davi, quatorze gerações; de Davi até o exílio na Babilônia, quatorze gerações; e do exílio na Babilônia até Cristo, quatorze gerações. \\par",
+      "reference": "Mt 1:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i José assume a paternidade legal de Jesus\\par }A origem de Jesus Cristo foi assim: Maria, sua mãe, comprometida em casamento com José, antes que coabitassem, achou-se grávida pelo Espírito Santo.",
+      "reference": "Mt 1:18"
+    },
+    "19": {
+      "text": "José, seu esposo, sendo justo e não querendo denunciá-la publicamente, resolveu repudiá-la em segredo.",
+      "reference": "Mt 1:19"
+    },
+    "20": {
+      "text": "Enquanto assim decidia, eis que o Anjo do Senhor manifestou-se a ele em sonho, dizendo: “José, filho de Davi, não temas receber Maria, tua mulher, pois o que nela foi gerado vem do Espírito Santo.",
+      "reference": "Mt 1:20"
+    },
+    "21": {
+      "text": "Ela dará à luz um filho e tu o chamarás com o nome de Jesus, pois ele salvará o seu povo dos seus pecados”.",
+      "reference": "Mt 1:21"
+    },
+    "22": {
+      "text": "Tudo isso aconteceu para que se cumprisse o que o Senhor havia dito pelo profeta: \\par",
+      "reference": "Mt 1:22"
+    },
+    "23": {
+      "text": "{\\i Eis que a virgem conceberá e dará à luz um filho \\par e o chamarão com o nome de Emanuel, }\\par o que traduzido significa: “Deus está conosco”.",
+      "reference": "Mt 1:23"
+    },
+    "24": {
+      "text": "José, ao despertar do sono, agiu conforme o Anjo do Senhor lhe ordenara e recebeu em casa sua mulher.",
+      "reference": "Mt 1:24"
+    },
+    "25": {
+      "text": "Mas não a conheceu até o dia em que ela deu à luz um filho. E ele o chamou com o nome de Jesus. \\par",
+      "reference": "Mt 1:25"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 25
+}

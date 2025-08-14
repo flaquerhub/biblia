@@ -1,0 +1,145 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A aparição de Mambré\\par }Iahweh lhe apareceu no Carvalho de Mambré, quando ele estava sentado na entrada da tenda, no maior calor do dia.",
+      "reference": "Gn 18:1"
+    },
+    "2": {
+      "text": "Tendo levantado os olhos, eis que viu três homens de pé, perto dele; logo que os viu, correu da entrada da tenda ao seu encontro e se prostrou por terra.",
+      "reference": "Gn 18:2"
+    },
+    "3": {
+      "text": "E disse: “Meu senhor, eu te peço, se encontrei graça a teus olhos, não passes junto de teu servo sem te deteres.",
+      "reference": "Gn 18:3"
+    },
+    "4": {
+      "text": "Traga-se um pouco de água e vos lavareis os pés, e vos estendereis sob a árvore.",
+      "reference": "Gn 18:4"
+    },
+    "5": {
+      "text": "Trarei um pedaço de pão, e vos reconfortareis o coração antes de irdes mais longe; foi para isso que passastes junto de vosso servo!” Eles responderam: “Faze, pois, como disseste”. \\par",
+      "reference": "Gn 18:5"
+    },
+    "6": {
+      "text": "Abraão apressou-se para a tenda, junto a Sara, e disse: “Toma depressa três medidas de farinha, de flor de farinha, amassa-as e faze pães cozidos”.",
+      "reference": "Gn 18:6"
+    },
+    "7": {
+      "text": "Depois correu Abraão ao rebanho e tomou um vitelo tenro e bom; deu-o ao servo que se apressou em prepará-lo.",
+      "reference": "Gn 18:7"
+    },
+    "8": {
+      "text": "Tomou também coalhada, leite e o vitelo que preparara e colocou tudo diante deles; permaneceu de pé, junto deles, sob a árvore, e eles comeram. \\par",
+      "reference": "Gn 18:8"
+    },
+    "9": {
+      "text": "Eles lhe perguntaram: “Onde está Sara, tua mulher?” Ele respondeu: “Está na tenda”.",
+      "reference": "Gn 18:9"
+    },
+    "10": {
+      "text": "O hóspede disse: “Voltarei a ti no próximo ano; então tua mulher Sara terá um filho”. Sara escutava, na entrada da tenda, atrás dele.",
+      "reference": "Gn 18:10"
+    },
+    "11": {
+      "text": "Ora Abraão e Sara eram velhos, de idade avançada, e Sara deixara de ter o que têm as mulheres.",
+      "reference": "Gn 18:11"
+    },
+    "12": {
+      "text": "Riu-se, pois, Sara no seu íntimo, dizendo: “Agora que estou velha e velho também está o meu senhor, terei ainda prazer?”",
+      "reference": "Gn 18:12"
+    },
+    "13": {
+      "text": "Mas Iahweh disse a Abraão: “Por que se ri Sara, dizendo: ‘Será verdade que vou dar à luz, agora que sou velha?’",
+      "reference": "Gn 18:13"
+    },
+    "14": {
+      "text": "Acaso existe algo de tão maravilhoso para Iahweh? Na mesma estação, no próximo ano, voltarei a ti, e Sara terá um filho”.",
+      "reference": "Gn 18:14"
+    },
+    "15": {
+      "text": "Sara desmentiu: “Eu não ri”, disse ela, porque tinha medo; mas ele replicou: “Sim, tu riste”. \\par",
+      "reference": "Gn 18:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i A intercessão de Abraão\\par }Tendo-se levantado, os homens partiram de lá e chegaram a Sodoma. Abraão caminhava com eles, para os encaminhar.",
+      "reference": "Gn 18:16"
+    },
+    "17": {
+      "text": "Iahweh disse consigo: “Ocultarei a Abraão o que vou fazer,",
+      "reference": "Gn 18:17"
+    },
+    "18": {
+      "text": "já que Abraão se tornará uma nação grande e poderosa e por ele serão benditas todas as nações da terra?",
+      "reference": "Gn 18:18"
+    },
+    "19": {
+      "text": "Pois eu o escolhi para que ele ordene a seus filhos e à sua casa depois dele que guardem o caminho de Iahweh, realizando a justiça e o direito; deste modo Iahweh realizará para Abraão o que lhe prometeu”.",
+      "reference": "Gn 18:19"
+    },
+    "20": {
+      "text": "Disse então Iahweh: “O grito contra Sodoma e Gomorra é muito grande! Seu pecado é muito grave!",
+      "reference": "Gn 18:20"
+    },
+    "21": {
+      "text": "Vou descer e ver se eles fizeram ou não tudo o que indica o grito que, contra eles, subiu até mim; então ficarei sabendo”. \\par",
+      "reference": "Gn 18:21"
+    },
+    "22": {
+      "text": "Os homens partiram de lá e foram a Sodoma. Iahweh se mantinha ainda junto de Abraão.",
+      "reference": "Gn 18:22"
+    },
+    "23": {
+      "text": "Este aproximou-se e disse: “Destruirás o justo com o pecador?",
+      "reference": "Gn 18:23"
+    },
+    "24": {
+      "text": "Talvez haja cinqüenta justos na cidade. Destruirás e não perdoarás à cidade pelos cinqüenta justos que estão em seu seio?",
+      "reference": "Gn 18:24"
+    },
+    "25": {
+      "text": "Longe de ti fazeres tal coisa: fazer morrer o justo com o pecador, de modo que o justo seja tratado como o pecador! Longe de ti! Não fará justiça o juiz de toda a terra?”",
+      "reference": "Gn 18:25"
+    },
+    "26": {
+      "text": "Iahweh respondeu: “Se eu encontrar em Sodoma cinqüenta justos na cidade, perdoarei toda a cidade por causa deles”. \\par",
+      "reference": "Gn 18:26"
+    },
+    "27": {
+      "text": "Disse mais Abraão: “Eu me atrevo a falar ao meu Senhor, eu que sou poeira e cinza.",
+      "reference": "Gn 18:27"
+    },
+    "28": {
+      "text": "Mas talvez faltem cinco aos cinqüenta justos: por causa de cinco destruirás toda a cidade?” Ele respondeu: “Não, se eu encontrar quarenta e cinco justos”.",
+      "reference": "Gn 18:28"
+    },
+    "29": {
+      "text": "Abraão retomou ainda a palavra e disse: “Talvez só existam quarenta”. E ele respondeu: “Eu não o farei por causa dos quarenta”. \\par",
+      "reference": "Gn 18:29"
+    },
+    "30": {
+      "text": "Disse Abraão: “Que meu Senhor não se irrite e que eu possa falar: talvez ali se encontrem trinta”. E ele respondeu: “Eu não o farei se ali encontrar trinta”.",
+      "reference": "Gn 18:30"
+    },
+    "31": {
+      "text": "Ele disse: “Eu me atrevo a falar a meu Senhor: talvez se encontrem vinte”. E ele respondeu: “Não destruirei por causa dos vinte”.",
+      "reference": "Gn 18:31"
+    },
+    "32": {
+      "text": "Ele disse: “Que meu Senhor não se irrite e falarei uma última vez: talvez se encontrem dez”. E ele respondeu: “Não destruirei, por causa dos dez”. \\par",
+      "reference": "Gn 18:32"
+    },
+    "33": {
+      "text": "Iahweh, tendo acabado de falar com Abraão, foi-se e Abraão voltou para o seu lugar. \\par",
+      "reference": "Gn 18:33"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 33
+}

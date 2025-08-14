@@ -1,0 +1,69 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Lembra-te do teu Criador nos dias da mocidade, \\par antes que venham os dias da desgraça \\par e cheguem os anos dos quais dirás: “Não tenho mais prazer”. \\par",
+      "reference": "Ec 12:1"
+    },
+    "2": {
+      "text": "Antes que se escureçam o sol e a luz, \\par a lua e as estrelas, \\par e que voltem as nuvens depois da chuva; \\par",
+      "reference": "Ec 12:2"
+    },
+    "3": {
+      "text": "no dia em que os guardas da casa tremem \\par e os homens fortes se curvam, \\par em que as mulheres, uma a uma, param de moer, \\par e cai a escuridão sobre as que olham pelas janelas; \\par",
+      "reference": "Ec 12:3"
+    },
+    "4": {
+      "text": "quando se fecha a porta da rua \\par e o barulho do moinho diminui, \\par quando se acorda com o canto do pássaro \\par e todas as canções emudecem; \\par",
+      "reference": "Ec 12:4"
+    },
+    "5": {
+      "text": "quando se teme a altura \\par e se levam sustos pelo caminho, \\par quando a amendoeira está em flor \\par e o gafanhoto torna-se pesado \\par e o tempero perde o sabor, \\par é porque o homem já está a caminho de sua morada eterna, \\par e os que choram sua morte começam a rondar pela rua. \\par",
+      "reference": "Ec 12:5"
+    },
+    "6": {
+      "text": "Antes que o fio de prata se rompa \\par e o copo de ouro se parta, \\par antes que o jarro se quebre na fonte \\par e a roldana rebente no poço, \\par",
+      "reference": "Ec 12:6"
+    },
+    "7": {
+      "text": "antes que o pó volte á terra de onde veio \\par e o sopro volte a Deus que o concedeu. \\par",
+      "reference": "Ec 12:7"
+    },
+    "8": {
+      "text": "Vaidade das vaidades – diz Coélet – tudo é vaidade. \\par",
+      "reference": "Ec 12:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Epílogo\\par }Além de ter sido sábio, Coélet também ensinou o conhecimento ao povo; ele ponderou, examinou e corrigiu muitos provérbios. \\par",
+      "reference": "Ec 12:9"
+    },
+    "10": {
+      "text": "Coélet procurou encontrar palavras agradáveis e escrever com propriedade palavras verdadeiras. \\par",
+      "reference": "Ec 12:10"
+    },
+    "11": {
+      "text": "As palavras dos sábios são como aguilhões e como estacas fincadas pelos chefes de rebanhos; são colocadas pelo mesmo pastor. \\par",
+      "reference": "Ec 12:11"
+    },
+    "12": {
+      "text": "Além disso, meu filho, fique atento: fazer livros é um trabalho sem fim, e muito estudo cansa o corpo. \\par",
+      "reference": "Ec 12:12"
+    },
+    "13": {
+      "text": "Fim do discurso. Tudo foi ouvido. Teme a Deus e observa seus mandamentos, porque este é o dever de todo homem. \\par",
+      "reference": "Ec 12:13"
+    },
+    "14": {
+      "text": "Porque Deus julgará toda obra, até mesmo a que está escondida, para ver se é boa ou má. \\par",
+      "reference": "Ec 12:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

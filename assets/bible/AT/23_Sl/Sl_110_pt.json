@@ -1,0 +1,41 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 110,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 110 (109)\\par }{\\qc\\b\\i O sacerdócio do Messias\\par }{\\qc\\i De Davi. Salmo.\\par } Oráculo de Iahweh ao meu senhor: \\par “Senta-te à minha direita, \\par até que eu ponha teus inimigos \\par como escabelo de teus pés”. \\par",
+      "reference": "Sl 110:1"
+    },
+    "2": {
+      "text": "Desde Sião Iahweh estende teu cetro poderoso, \\par e dominas em meio aos teus inimigos. \\par",
+      "reference": "Sl 110:2"
+    },
+    "3": {
+      "text": "A ti o principado no dia do teu nascimento, \\par as honras sagradas desde o seio, \\par desde a aurora da tua juventude. \\par",
+      "reference": "Sl 110:3"
+    },
+    "4": {
+      "text": "Iahweh jurou e jamais desmentirá: \\par “Tu és sacerdote para sempre, \\par segundo a ordem de Melquisedec”. \\par",
+      "reference": "Sl 110:4"
+    },
+    "5": {
+      "text": "O Senhor está à tua direita, \\par ele esmaga os reis no dia da sua ira. \\par",
+      "reference": "Sl 110:5"
+    },
+    "6": {
+      "text": "Ele julga as nações, amontoa cadáveres, \\par esmaga cabeças pela imensidão da terra. \\par",
+      "reference": "Sl 110:6"
+    },
+    "7": {
+      "text": "A caminho ele bebe da torrente, \\par e por isso levanta a cabeça. \\par",
+      "reference": "Sl 110:7"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 7
+}

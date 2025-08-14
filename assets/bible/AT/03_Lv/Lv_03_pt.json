@@ -1,0 +1,81 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O sacrifício de comunhão\\par }Se o seu sacrifício for um sacrifício de comunhão e se oferecer animal grande, macho ou fêmea, será animal sem defeito que oferecerá perante Iahweh.",
+      "reference": "Lv 3:1"
+    },
+    "2": {
+      "text": "Colocará a mão sobre a cabeça da vítima e a imolará à entrada da Tenda da Reunião. Em seguida os filhos de Aarão, os sacerdotes, derramarão o sangue sobre o altar, em redor.",
+      "reference": "Lv 3:2"
+    },
+    "3": {
+      "text": "Oferecerá uma parte deste sacrifício de comunhão como oferenda queimada a Iahweh: a gordura que cobre as entranhas, toda a gordura que está sobre as entranhas,",
+      "reference": "Lv 3:3"
+    },
+    "4": {
+      "text": "os dois rins, a gordura aderente a eles e junto aos lombos, e a massa gordurosa que tirará do fígado e dos rins.",
+      "reference": "Lv 3:4"
+    },
+    "5": {
+      "text": "Os filhos de Aarão queimarão esta parte no altar, em cima do holocausto, em cima da lenha colocada sobre o fogo. Será oferenda queimada em perfume de agradável odor a Iahweh. \\par",
+      "reference": "Lv 3:5"
+    },
+    "6": {
+      "text": "Se for animal pequeno que alguém oferecer como sacrifício de comunhão a Iahweh, deverá oferecer um macho ou uma fêmea sem defeito. \\par",
+      "reference": "Lv 3:6"
+    },
+    "7": {
+      "text": "Se oferecer um carneiro, oferecê-lo-á perante Iahweh,",
+      "reference": "Lv 3:7"
+    },
+    "8": {
+      "text": "e porá a mão sobre a cabeça da vítima e a imolará diante da Tenda da Reunião, e em seguida os filhos de Aarão derramarão o sangue sobre o altar em redor.",
+      "reference": "Lv 3:8"
+    },
+    "9": {
+      "text": "Deste sacrifício de comunhão oferecerá a gordura como oferenda queimada a Iahweh: a cauda inteira, que será cortada rente à espinha dorsal, a gordura que cobre as entranhas, toda a gordura que está sobre as entranhas,",
+      "reference": "Lv 3:9"
+    },
+    "10": {
+      "text": "os dois rins, a gordura aderente a eles e aos lombos, e a massa gordurosa que destacará do fígado e dos rins.",
+      "reference": "Lv 3:10"
+    },
+    "11": {
+      "text": "O sacerdote queimará esta parte sobre o altar como alimento, como oferenda queimada a Iahweh. \\par",
+      "reference": "Lv 3:11"
+    },
+    "12": {
+      "text": "Se a sua oferenda consistir em uma cabra, a oferecerá perante Iahweh,",
+      "reference": "Lv 3:12"
+    },
+    "13": {
+      "text": "porá a mão sobre a sua cabeça e a imolará diante da Tenda da Reunião, e os filhos de Aarão derramarão o sangue sobre o altar, em redor.",
+      "reference": "Lv 3:13"
+    },
+    "14": {
+      "text": "E isto é o que oferecerá em seguida como oferenda queimada para Iahweh: a gordura que cobre as entranhas, toda a gordura que está sobre as entranhas,",
+      "reference": "Lv 3:14"
+    },
+    "15": {
+      "text": "os dois rins, a gordura aderente a eles e aos lombos, e a massa gordurosa que destacará do fígado e dos rins.",
+      "reference": "Lv 3:15"
+    },
+    "16": {
+      "text": "O sacerdote queimará estes pedaços sobre o altar como alimento, como oferenda queimada de agradável odor. \\par Toda gordura pertence a Iahweh.",
+      "reference": "Lv 3:16"
+    },
+    "17": {
+      "text": "É para todos os vossos descendentes uma lei perpétua, em qualquer lugar onde habitardes: não comereis gordura nem sangue”. \\par",
+      "reference": "Lv 3:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

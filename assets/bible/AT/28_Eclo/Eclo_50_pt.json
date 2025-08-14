@@ -1,0 +1,129 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 50,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O sacerdote Simão\\par }Simão, filho de Onias, o sumo sacerdote, \\par em sua vida reparou o Templo, \\par durante seus dias fortificou o santuário. \\par",
+      "reference": "Eclo 50:1"
+    },
+    "2": {
+      "text": "O alicerce do edifício duplo foi feito por ele, \\par o alto contraforte da muralha do Templo. \\par",
+      "reference": "Eclo 50:2"
+    },
+    "3": {
+      "text": "No seu tempo foi cavado o reservatório das águas, \\par um tanque grande como o mar. \\par",
+      "reference": "Eclo 50:3"
+    },
+    "4": {
+      "text": "Preocupado em evitar a ruína de seu povo, \\par fortificou a cidade para o caso de assédio. \\par",
+      "reference": "Eclo 50:4"
+    },
+    "5": {
+      "text": "Como ele era majestoso, cercado de seu povo, \\par quando saía de detrás do véu, \\par",
+      "reference": "Eclo 50:5"
+    },
+    "6": {
+      "text": "como a estrela da manhã em meio às nuvens, \\par como a lua na cheia, \\par",
+      "reference": "Eclo 50:6"
+    },
+    "7": {
+      "text": "como o sol radiante sobre o Templo do Altíssimo, \\par como o arco-íris brilhando nas nuvens de glória, \\par",
+      "reference": "Eclo 50:7"
+    },
+    "8": {
+      "text": "como a rosa na primavera, \\par como o lírio junto de uma fonte, \\par como um ramo de árvore de incenso no verão, \\par",
+      "reference": "Eclo 50:8"
+    },
+    "9": {
+      "text": "como o fogo e o incenso no incensário, \\par como um vaso de ouro maciço,\\par ornado de toda espécie de pedras preciosas, \\par",
+      "reference": "Eclo 50:9"
+    },
+    "10": {
+      "text": "como a oliveira carregada de frutos, \\par como o cipreste elevando-se até as nuvens; \\par",
+      "reference": "Eclo 50:10"
+    },
+    "11": {
+      "text": "quando tomava sua veste de gala \\par e revestia-se de seus soberbos ornamentos, \\par quando subia ao altar sagrado \\par e enchia de glória o recinto do santuário; \\par",
+      "reference": "Eclo 50:11"
+    },
+    "12": {
+      "text": "quando recebia das mãos dos sacerdotes as porções do sacrifício, \\par ele próprio, estando de pé junto à fornalha do altar, \\par cercado de uma coroa de irmãos, \\par como de seus rebentos, os cedros do Líbano, \\par cercavam-no como troncos de palmeiras, \\par",
+      "reference": "Eclo 50:12"
+    },
+    "13": {
+      "text": "quando todos os filhos de Aarão em seu esplendor, \\par tendo nas mãos as oferendas do Senhor, \\par diante de toda a assembléia de Israel, \\par",
+      "reference": "Eclo 50:13"
+    },
+    "14": {
+      "text": "enquanto ele realizava o culto dos altares, \\par apresentando com nobreza a oferenda ao Altíssimo todo-poderoso. \\par",
+      "reference": "Eclo 50:14"
+    },
+    "15": {
+      "text": "Estendia a mão sobre a taça, \\par fazia correr um pouco do sumo de uva \\par e o derramava ao pé do altar, \\par perfume agradável ao Altíssimo, rei do mundo. \\par",
+      "reference": "Eclo 50:15"
+    },
+    "16": {
+      "text": "Então os filhos de Aarão gritavam, \\par soavam as suas trombetas de metal maciço \\par e faziam ouvir um possante som, \\par como memorial diante do Altíssimo. \\par",
+      "reference": "Eclo 50:16"
+    },
+    "17": {
+      "text": "Então, imediatamente, à uma, \\par todo o povo caía com a face por terra: \\par adoravam o seu Senhor, \\par o Todo-poderoso, o Deus Altíssimo. \\par",
+      "reference": "Eclo 50:17"
+    },
+    "18": {
+      "text": "Os cantores também faziam ouvir os seus louvores, \\par todo esse ruído formava uma doce melodia. \\par",
+      "reference": "Eclo 50:18"
+    },
+    "19": {
+      "text": "E o povo suplicava ao Senhor Altíssimo, \\par dirigia preces ao Misericordioso \\par até que terminasse o serviço do Senhor \\par e acabasse a cerimônia. \\par",
+      "reference": "Eclo 50:19"
+    },
+    "20": {
+      "text": "Então ele descia e levantava as mãos \\par sobre toda a assembléia dos filhos de Israel, \\par para dar, em alta voz, a bênção do Senhor \\par e ter a honra de pronunciar seu nome. \\par",
+      "reference": "Eclo 50:20"
+    },
+    "21": {
+      "text": "Então, pela segunda vez, o povo se prostrava \\par para receber a bênção do Altíssimo. \\par",
+      "reference": "Eclo 50:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Exortação\\par }E agora bendizei o Deus do universo \\par que por toda parte fez grandes coisas, \\par que exaltou os nossos dias desde o seio materno, \\par que agiu conosco segundo a sua misericórdia. \\par",
+      "reference": "Eclo 50:22"
+    },
+    "23": {
+      "text": "Que ele nos dê um coração alegre, \\par que ele conceda a paz aos nossos dias, \\par em Israel, pelos séculos dos séculos. \\par",
+      "reference": "Eclo 50:23"
+    },
+    "24": {
+      "text": "Que suas graças fiquem fielmente conosco \\par e que em nossos dias ele nos resgate. \\par",
+      "reference": "Eclo 50:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Provérbio numérico\\par }Há duas nações que minha alma detesta \\par e uma terceira que nem sequer é nação: \\par",
+      "reference": "Eclo 50:25"
+    },
+    "26": {
+      "text": "os habitantes das montanhas de Seir, os filisteus \\par e o povo estúpido que habita em Siquém. \\par",
+      "reference": "Eclo 50:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Conclusão\\par }Uma instrução de sabedoria e ciência, \\par eis o que gravou neste livro \\par Jesus, filho de Sirac, Eleazar, de Jerusalém, \\par que derramou como chuva a sabedoria de seu coração. \\par",
+      "reference": "Eclo 50:27"
+    },
+    "28": {
+      "text": "Feliz o homem que a medita, \\par o que a puser no seu coração será sábio. \\par",
+      "reference": "Eclo 50:28"
+    },
+    "29": {
+      "text": "Se ele agir assim, será forte em todas as circunstâncias, \\par porque a luz do Senhor é a sua pista. \\par {\\i E aos homens piedosos ela dá a sabedoria.\\par Bendito seja o Senhor para sempre. Amém. Amém. }\\par",
+      "reference": "Eclo 50:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

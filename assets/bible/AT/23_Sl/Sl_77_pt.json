@@ -1,0 +1,97 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 77,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 77 (76)\\par }{\\qc\\b\\i Meditação sobre o passado de Israel\\par }{\\qc\\i Do mestre de canto... Iditun. De Asaf. Salmo. \\par }",
+      "reference": "Sl 77:1"
+    },
+    "2": {
+      "text": "A Deus a minha voz: eu grito! \\par A Deus a minha voz: ele me ouve! \\par",
+      "reference": "Sl 77:2"
+    },
+    "3": {
+      "text": "No dia da angústia eu procuro o Senhor; \\par à noite estendo a mão, sem descanso, \\par meu ser recusa todo conforto. \\par",
+      "reference": "Sl 77:3"
+    },
+    "4": {
+      "text": "Lembro-me de Deus e fico gemendo, \\par medito, e meu respirar vacila. \\par",
+      "reference": "Sl 77:4"
+    },
+    "5": {
+      "text": "Tu me seguras as pálpebras dos olhos, \\par fico perturbado e nem posso falar; \\par",
+      "reference": "Sl 77:5"
+    },
+    "6": {
+      "text": "penso nos dias de outrora, \\par os anos longínquos",
+      "reference": "Sl 77:6"
+    },
+    "7": {
+      "text": "recordo; \\par pela noite murmuro em meu coração, \\par medito, e meu respiro pergunta: \\par",
+      "reference": "Sl 77:7"
+    },
+    "8": {
+      "text": "O Senhor vai rejeitar para sempre? \\par Nunca mais será favorável? \\par",
+      "reference": "Sl 77:8"
+    },
+    "9": {
+      "text": "Seu amor esgotou-se para sempre? \\par Terminou a Palavra para gerações de gerações? \\par",
+      "reference": "Sl 77:9"
+    },
+    "10": {
+      "text": "Deus esqueceu-se de ter piedade \\par ou fechou as entranhas com ira? \\par",
+      "reference": "Sl 77:10"
+    },
+    "11": {
+      "text": "E digo: “Este é o meu mal: \\par a direita do Altíssimo mudou!” \\par",
+      "reference": "Sl 77:11"
+    },
+    "12": {
+      "text": "Lembro-me das façanhas de Iahweh, \\par recordo tua maravilha de outrora, \\par",
+      "reference": "Sl 77:12"
+    },
+    "13": {
+      "text": "fico meditando toda a tua obra, \\par meditando em tuas façanhas. \\par",
+      "reference": "Sl 77:13"
+    },
+    "14": {
+      "text": "Ó Deus, teu caminho é santo! \\par Que deus é grande como Deus? \\par",
+      "reference": "Sl 77:14"
+    },
+    "15": {
+      "text": "Tu és o Deus que realiza maravilhas, \\par mostrando tua força às nações; \\par",
+      "reference": "Sl 77:15"
+    },
+    "16": {
+      "text": "com teu braço redimiste teu povo, \\par os filhos de Jacó e de José. \\par",
+      "reference": "Sl 77:16"
+    },
+    "17": {
+      "text": "As águas te viram, ó Deus, \\par as águas te viram e tremeram, \\par e os abismos estremeceram. \\par",
+      "reference": "Sl 77:17"
+    },
+    "18": {
+      "text": "As nuvens derramaram suas águas, \\par trovejaram as nuvens pesadas, \\par tuas flechas ziguezagueavam. \\par",
+      "reference": "Sl 77:18"
+    },
+    "19": {
+      "text": "O estrondo do teu trovão rondava, \\par teus relâmpagos iluminavam o mundo, \\par a terra se agitava e estremecia. \\par",
+      "reference": "Sl 77:19"
+    },
+    "20": {
+      "text": "Teu caminho passava pelo mar, \\par tua senda pelas águas torrenciais, \\par e ninguém reconheceu tuas pegadas. \\par",
+      "reference": "Sl 77:20"
+    },
+    "21": {
+      "text": "Guiaste teu povo como um rebanho, \\par pela mão de Moisés e de Aarão. \\par",
+      "reference": "Sl 77:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

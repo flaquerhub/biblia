@@ -1,0 +1,145 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i VI. Palavras de Agur}\\par }Palavra de Agur, filho de Jaces, de Massa. \\par Oráculo do homem: Que fadiga, \\par ó Deus, que fadiga inútil! \\par",
+      "reference": "Pv 30:1"
+    },
+    "2": {
+      "text": "Eu sou o mais estúpido dos homens, \\par e não tenho inteligência humana; \\par",
+      "reference": "Pv 30:2"
+    },
+    "3": {
+      "text": "não aprendi a sabedoria, \\par nem cheguei a conhecer o Santo. \\par",
+      "reference": "Pv 30:3"
+    },
+    "4": {
+      "text": "Quem subiu ao céu, e de lá desceu? \\par Quem encerrou o vento no punho? \\par Quem amarrou o mar numa túnica? \\par Quem fixou os limites do orbe? \\par Qual é o seu nome, e o nome do seu filho, \\par se é que o sabes? \\par",
+      "reference": "Pv 30:4"
+    },
+    "5": {
+      "text": "A Palavra de Deus é comprovada, \\par ele é um escudo para quem nele se abriga. \\par",
+      "reference": "Pv 30:5"
+    },
+    "6": {
+      "text": "Não acrescentes nada às suas palavras, \\par porque te responderá, e passarás por mentiroso. \\par",
+      "reference": "Pv 30:6"
+    },
+    "7": {
+      "text": "Duas coisas eu te pedi; \\par não mas negues antes de eu morrer: \\par",
+      "reference": "Pv 30:7"
+    },
+    "8": {
+      "text": "afasta de mim a falsidade e a mentira; \\par não me dês nem riqueza e nem pobreza, \\par concede-me o meu pedaço de pão; \\par",
+      "reference": "Pv 30:8"
+    },
+    "9": {
+      "text": "não seja eu saciado, e te renegue, \\par dizendo: “Quem é Iahweh?” \\par Não seja eu necessitado e roube \\par e blasfeme o nome de meu Deus. \\par",
+      "reference": "Pv 30:9"
+    },
+    "10": {
+      "text": "Não calunies o servo diante de seu patrão: \\par ele te amaldiçoará, e serás castigado. \\par",
+      "reference": "Pv 30:10"
+    },
+    "11": {
+      "text": "Há quem amaldiçoa o pai \\par e não abençoa a mãe; \\par",
+      "reference": "Pv 30:11"
+    },
+    "12": {
+      "text": "há quem se considera puro \\par e não se lava de sua imundície; \\par",
+      "reference": "Pv 30:12"
+    },
+    "13": {
+      "text": "há gente de olhares altivos \\par e de semblante altaneiro; \\par",
+      "reference": "Pv 30:13"
+    },
+    "14": {
+      "text": "há quem tem dentes como navalhas \\par e queixos iguais aos punhais, \\par para suprimir da terra os pobres, \\par e os indigentes do meio dos homens. \\par",
+      "reference": "Pv 30:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b {\\i VII. Provérbios numéricos}\\par }A sanguessuga tem duas filhas: “Traz, traz!” \\par Três coisas são insaciáveis, \\par e uma quarta jamais diz: “Basta!” \\par",
+      "reference": "Pv 30:15"
+    },
+    "16": {
+      "text": "O Xeol, o ventre estéril, \\par a terra que não se farta de água, \\par e o fogo que não diz: “Basta!” \\par",
+      "reference": "Pv 30:16"
+    },
+    "17": {
+      "text": "O olho que desdenha um pai \\par e despreza a obediência à mãe, \\par que os corvos o arranquem, \\par e as águias o devorem. \\par",
+      "reference": "Pv 30:17"
+    },
+    "18": {
+      "text": "Há três coisas que me ultrapassam, \\par e uma quarta que não compreendo: \\par",
+      "reference": "Pv 30:18"
+    },
+    "19": {
+      "text": "o caminho da águia no céu, \\par o caminho da serpente na rocha, \\par o caminho da nave no mar, \\par o caminho do homem com a donzela. \\par",
+      "reference": "Pv 30:19"
+    },
+    "20": {
+      "text": "Assim procede a adúltera: \\par come, limpa a boca e diz: \\par “Eu não fiz nada de mal!...” \\par",
+      "reference": "Pv 30:20"
+    },
+    "21": {
+      "text": "Por três coisas treme a terra, \\par e a quarta não pode suportar: \\par",
+      "reference": "Pv 30:21"
+    },
+    "22": {
+      "text": "o servo que chega a ser rei, \\par o louco farto de pão, \\par",
+      "reference": "Pv 30:22"
+    },
+    "23": {
+      "text": "a moça antipática que encontra marido, \\par e a serva que herda da patroa. \\par",
+      "reference": "Pv 30:23"
+    },
+    "24": {
+      "text": "No mundo há quatro coisas pequenas, \\par mais sábias do que os sábios: \\par",
+      "reference": "Pv 30:24"
+    },
+    "25": {
+      "text": "as formigas, povo fraco, \\par que no verão assegura o alimento; \\par",
+      "reference": "Pv 30:25"
+    },
+    "26": {
+      "text": "os arganazes, povo sem força, \\par mas que moram nas rochas; \\par",
+      "reference": "Pv 30:26"
+    },
+    "27": {
+      "text": "os gafanhotos que não têm rei \\par e marcham todos em ordem; \\par",
+      "reference": "Pv 30:27"
+    },
+    "28": {
+      "text": "as lagartixas, que se deixam apanhar pela mão, \\par mas entram nos palácios do rei. \\par",
+      "reference": "Pv 30:28"
+    },
+    "29": {
+      "text": "Há três coisas de belo porte, \\par e uma quarta de belo andar: \\par",
+      "reference": "Pv 30:29"
+    },
+    "30": {
+      "text": "o leão, o mais valente dos animais, \\par que não foge de nada, \\par",
+      "reference": "Pv 30:30"
+    },
+    "31": {
+      "text": "o galo, bem empenado, ou o bode, \\par e o rei na frente do seu povo. \\par",
+      "reference": "Pv 30:31"
+    },
+    "32": {
+      "text": "Se foste louco sem pensar, \\par e depois pensaste, mão na boca: \\par",
+      "reference": "Pv 30:32"
+    },
+    "33": {
+      "text": "Apertas o leite e sai manteiga, \\par apertas o nariz e sai sangue, \\par apertas a ira e saem rixas! \\par",
+      "reference": "Pv 30:33"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 33
+}

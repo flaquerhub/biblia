@@ -1,0 +1,85 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Visão da Mulher e do Dragão\\par }Um sinal grandioso apareceu no céu: uma Mulher vestida com o sol, tendo a lua sob os pés e sobre a cabeça uma coroa de doze estrelas;",
+      "reference": "Ap 12:1"
+    },
+    "2": {
+      "text": "estava grávida e gritava, entre as dores do parto, atormentada para dar à luz.",
+      "reference": "Ap 12:2"
+    },
+    "3": {
+      "text": "Apareceu então outro sinal no céu: um grande Dragão, cor de fogo, com sete cabeças e dez chifres e sobre as cabeças sete diademas;",
+      "reference": "Ap 12:3"
+    },
+    "4": {
+      "text": "sua cauda arrastava um terço {\\i das estrelas do céu, lançando-as para a terra.} O Dragão colocou-se diante da Mulher que estava para dar à luz, a fim de lhe devorar o filho, tão logo nascesse.",
+      "reference": "Ap 12:4"
+    },
+    "5": {
+      "text": "{\\i Ela deu à luz} um filho, {\\i um varão}, que irá {\\i reger} todas {\\i as nações com um cetro de ferro.} Seu filho, porém, foi arrebatado para junto de Deus e de seu trono,",
+      "reference": "Ap 12:5"
+    },
+    "6": {
+      "text": "e a Mulher fugiu para o deserto, onde Deus lhe havia preparado um lugar em que fosse alimentada por mil duzentos e sessenta dias. \\par",
+      "reference": "Ap 12:6"
+    },
+    "7": {
+      "text": "Houve então uma batalha no céu: {\\i Miguel} e seus Anjos guerrearam contra o Dragão. O Dragão batalhou, juntamente com seus Anjos,",
+      "reference": "Ap 12:7"
+    },
+    "8": {
+      "text": "mas foi derrotado, e não se encontrou mais um lugar para eles no céu.",
+      "reference": "Ap 12:8"
+    },
+    "9": {
+      "text": "Foi expulso o grande Dragão, a antiga serpente, o chamado Diabo ou Satanás, sedutor de toda a terra habitada – foi expulso para a terra, e seus Anjos foram expulsos com ele.",
+      "reference": "Ap 12:9"
+    },
+    "10": {
+      "text": "Ouvi então uma voz forte no céu, proclamando: \\par “Agora realizou-se a salvação, o poder \\par e a realeza do nosso Deus, \\par e a autoridade do seu Cristo: \\par porque foi expulso o acusador dos nossos irmãos, \\par aquele que os acusava dia e noite diante do nosso Deus. \\par",
+      "reference": "Ap 12:10"
+    },
+    "11": {
+      "text": "Eles, porém, o venceram \\par pelo sangue do Cordeiro \\par e pela palavra do seu testemunho, \\par pois desprezaram a própria vida até à morte. \\par",
+      "reference": "Ap 12:11"
+    },
+    "12": {
+      "text": "Por isso, alegrai-vos, ó céu, \\par e vós que o habitais! \\par Ai da terra e do mar, \\par porque o Diabo desceu para junto de vós cheio de grande furor, \\par sabendo que lhe resta pouco tempo”. \\par",
+      "reference": "Ap 12:12"
+    },
+    "13": {
+      "text": "Ao ver que fora expulso para a terra, o Dragão pôs-se a perseguir a Mulher que dera à luz o filho varão.",
+      "reference": "Ap 12:13"
+    },
+    "14": {
+      "text": "Ela, porém, recebeu as duas asas da grande águia para voar ao deserto, para o lugar em que, longe da Serpente, é alimentada por {\\i um tempo, dois tempos e metade de um tempo.}",
+      "reference": "Ap 12:14"
+    },
+    "15": {
+      "text": "A Serpente, então, vomitou água como um rio atrás da Mulher, a fim de submergi-la.",
+      "reference": "Ap 12:15"
+    },
+    "16": {
+      "text": "A terra, porém, veio em socorro da Mulher: a terra abriu sua boca e engoliu o rio que o Dragão vomitara.",
+      "reference": "Ap 12:16"
+    },
+    "17": {
+      "text": "Enfurecido por causa da Mulher, o Dragão foi então guerrear contra o resto dos seus descendentes, os que observam os mandamentos de Deus e mantêm o Testemunho de Jesus. \\par",
+      "reference": "Ap 12:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i O Dragão transmite seu poder à Besta\\par }Coloquei-me depois sobre a praia do mar. \\par",
+      "reference": "Ap 12:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

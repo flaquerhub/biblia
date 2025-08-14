@@ -1,0 +1,85 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As mulheres\\par }Não tenhas ciúmes de tua amada esposa, \\par para não lhe ensinares o mal contra ti. \\par",
+      "reference": "Eclo 9:1"
+    },
+    "2": {
+      "text": "Não te entregues a uma mulher, \\par para que ela não usurpe tua autoridade. \\par",
+      "reference": "Eclo 9:2"
+    },
+    "3": {
+      "text": "Não vás ao encontro de uma cortesã, \\par para que não caias em suas redes. \\par",
+      "reference": "Eclo 9:3"
+    },
+    "4": {
+      "text": "Não te entretenhas com uma bailarina, \\par para que não sejas seduzido por suas artimanhas. \\par",
+      "reference": "Eclo 9:4"
+    },
+    "5": {
+      "text": "Não fites uma virgem, \\par para não seres punido com ela. \\par",
+      "reference": "Eclo 9:5"
+    },
+    "6": {
+      "text": "Não te entregues às prostitutas, \\par para não perderes o teu patrimônio. \\par",
+      "reference": "Eclo 9:6"
+    },
+    "7": {
+      "text": "Não gires o teu olhar para as ruas da cidade \\par e não vagueies por seus lugares desertos. \\par",
+      "reference": "Eclo 9:7"
+    },
+    "8": {
+      "text": "Desvia o teu olho de uma mulher formosa, \\par não fites uma beleza alheia. \\par Muitos se perderam por causa da beleza de uma mulher, \\par por sua causa o amor se inflama como o fogo. \\par",
+      "reference": "Eclo 9:8"
+    },
+    "9": {
+      "text": "Não te assentes nunca à mesa com uma mulher casada, \\par não banqueteies com ela tomando vinho, \\par para que o teu coração não se incline para ela \\par e, na tua paixão, escorregues para a perdição. \\par",
+      "reference": "Eclo 9:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Relacionamento com os homens\\par }Não abandones um velho amigo, \\par visto que o novo não é igual a ele. \\par Vinho novo, amigo novo; \\par deixa-o envelhecer, e o beberás com prazer. \\par",
+      "reference": "Eclo 9:10"
+    },
+    "11": {
+      "text": "Não invejes o sucesso do pecador, \\par porque não sabes qual será o seu fim. \\par",
+      "reference": "Eclo 9:11"
+    },
+    "12": {
+      "text": "Não sintas prazer com a felicidade dos ímpios: \\par lembra-te que neste mundo não ficarão impunes. \\par",
+      "reference": "Eclo 9:12"
+    },
+    "13": {
+      "text": "Conserva-te longe do homem que pode matar, \\par e não experimentarás o temor da morte. \\par Se te aproximas dele, não erres, \\par para que ele não te tire a vida. \\par Saibas que caminhas entre laços \\par e avanças sobre as muralhas. \\par",
+      "reference": "Eclo 9:13"
+    },
+    "14": {
+      "text": "O quanto puderes, freqüenta o teu próximo \\par e aconselha-te com os sábios. \\par",
+      "reference": "Eclo 9:14"
+    },
+    "15": {
+      "text": "A tua conversa seja com homens sensatos \\par e todo o teu assunto seja a lei do Altíssimo. \\par",
+      "reference": "Eclo 9:15"
+    },
+    "16": {
+      "text": "Homens justos sejam os teus comensais \\par e a tua glória seja o temor do Senhor. \\par",
+      "reference": "Eclo 9:16"
+    },
+    "17": {
+      "text": "Uma obra feita pela mão hábil do artesão merece louvor, \\par o chefe do povo deve ser sábio em seus discursos. \\par",
+      "reference": "Eclo 9:17"
+    },
+    "18": {
+      "text": "O homem falador é temido em sua cidade \\par e o fogoso no falar é detestado. \\par",
+      "reference": "Eclo 9:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

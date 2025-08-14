@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Oração da tarde}\\par }{\\qc\\i Do mestre de canto. Com instrumentos de corda. Salmo. De Davi.\\par }",
+      "reference": "Sl 4:1"
+    },
+    "2": {
+      "text": "Quando te invoco, responde-me, meu justo Deus! \\par Na angústia tu me aliviaste: \\par tem piedade de mim, ouve a minha prece! \\par",
+      "reference": "Sl 4:2"
+    },
+    "3": {
+      "text": "Ó homens, até quando tereis o coração pesado, \\par e amareis o nada, e buscareis a ilusão? \\par",
+      "reference": "Sl 4:3"
+    },
+    "4": {
+      "text": "Sabei que Iahweh faz maravilhas para seu fiel: \\par Iahweh ouve quando eu o invoco. \\par",
+      "reference": "Sl 4:4"
+    },
+    "5": {
+      "text": "Tremei e não pequeis, \\par refleti no vosso leito e ficai em silêncio. \\par",
+      "reference": "Sl 4:5"
+    },
+    "6": {
+      "text": "Oferecei sacrifícios justos \\par e confiai em Iahweh. \\par",
+      "reference": "Sl 4:6"
+    },
+    "7": {
+      "text": "Muitos dizem: “Quem nos fará ver o bem?” \\par Iahweh, levanta sobre nós a luz da tua face. \\par",
+      "reference": "Sl 4:7"
+    },
+    "8": {
+      "text": "Puseste em meu coração mais alegria \\par do que quando seu trigo e seu vinho transbordam. \\par",
+      "reference": "Sl 4:8"
+    },
+    "9": {
+      "text": "Em paz me deito e logo adormeço, \\par porque só tu, Iahweh, me fazes viver em segurança. \\par",
+      "reference": "Sl 4:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

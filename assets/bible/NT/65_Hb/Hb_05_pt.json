@@ -1,0 +1,69 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Porquanto todo sumo sacerdote, tirado do meio dos homens é constituído em favor dos homens em suas relações com Deus. A sua função é oferecer dons e sacrifícios pelos pecados.",
+      "reference": "Hb 5:1"
+    },
+    "2": {
+      "text": "É capaz de ter compreensão por aqueles que ignoram e erram, porque ele mesmo está cercado de fraqueza.",
+      "reference": "Hb 5:2"
+    },
+    "3": {
+      "text": "Pelo que deve oferecer sacrifícios tanto pelos pecados do povo quanto pelos seus próprios.",
+      "reference": "Hb 5:3"
+    },
+    "4": {
+      "text": "Ninguém, pois, se atribua esta honra, senão o que foi chamado por Deus, como Aarão! \\par",
+      "reference": "Hb 5:4"
+    },
+    "5": {
+      "text": "Deste modo, também Cristo não se atribui a glória de tornar-se sumo sacerdote. Ele, porém, a recebeu daquele que lhe disse: {\\i Tu és o meu Filho, hoje eu te gerei...}",
+      "reference": "Hb 5:5"
+    },
+    "6": {
+      "text": "Conforme diz ainda, em outra passagem: {\\i Tu és sacerdote para sempre, segundo a ordem de Melquisedec.}",
+      "reference": "Hb 5:6"
+    },
+    "7": {
+      "text": "É ele que, nos dias de sua vida terrestre, apresentou pedidos e súplicas, com veemente clamor e lágrimas, àquele que o podia salvar da morte; e foi atendido por causa da sua submissão.",
+      "reference": "Hb 5:7"
+    },
+    "8": {
+      "text": "E embora fosse Filho, aprendeu, contudo, a obediência pelo sofrimento;",
+      "reference": "Hb 5:8"
+    },
+    "9": {
+      "text": "e, levado à perfeição, se tornou para todos os que lhe obedecem princípio de salvação eterna,",
+      "reference": "Hb 5:9"
+    },
+    "10": {
+      "text": "tendo recebido de Deus o título de sumo sacerdote, {\\i segundo a ordem de Melquisedec.}\\par",
+      "reference": "Hb 5:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b {\\i III. O autêntico sacerdócio de Jesus Cristo}\\par }{\\qc\\b\\i Vida cristã e teologia\\par }Muitas coisas teríamos a dizer sobre isso, e a sua explicação é difícil, porque vos tornastes lentos à compreensão.",
+      "reference": "Hb 5:11"
+    },
+    "12": {
+      "text": "Pois, uma vez que com o tempo vós deveríeis ter-vos tornado mestres, necessitais novamente que se vos ensinem os primeiros rudimentos dos oráculos de Deus, e precisais de leite, e não de alimento sólido.",
+      "reference": "Hb 5:12"
+    },
+    "13": {
+      "text": "De fato, aquele que ainda se amamenta não pode degustar a doutrina da justiça, pois é uma criancinha!",
+      "reference": "Hb 5:13"
+    },
+    "14": {
+      "text": "Os adultos, porém, que pelo hábito possuem o senso moral exercitado para discernir o bem e o mal, recebem o alimento sólido. \\par",
+      "reference": "Hb 5:14"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 14
+}

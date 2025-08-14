@@ -1,0 +1,65 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Num outro dia que os Filhos de Deus vieram se apresentar novamente a Iahweh, entre eles veio também Satanás.",
+      "reference": "Jó 2:1"
+    },
+    "2": {
+      "text": "Iahweh perguntou a Satanás: “Donde vens?” Ele respondeu a Iahweh: “Venho de dar uma volta pela terra, andando a esmo”.",
+      "reference": "Jó 2:2"
+    },
+    "3": {
+      "text": "Iahweh disse a Satanás: “Reparaste no meu servo Jó? Na terra não há outro igual: é um homem íntegro e reto, que teme a Deus e se afasta do mal. Ele persevera em sua integridade, e foi por nada que me instigaste contra ele para aniquilá-lo”.",
+      "reference": "Jó 2:3"
+    },
+    "4": {
+      "text": "Satanás respondeu a Iahweh e disse: “Pele após pele! Para salvar a vida, o homem dá tudo o que possui.",
+      "reference": "Jó 2:4"
+    },
+    "5": {
+      "text": "Mas estende a mão sobre ele, fere-o na carne e nos ossos; eu te garanto que te lançará maldições em rosto”.",
+      "reference": "Jó 2:5"
+    },
+    "6": {
+      "text": "“Seja!”, disse Iahweh a Satanás, “faze o que quiseres com ele, mas poupa-lhe a vida”.",
+      "reference": "Jó 2:6"
+    },
+    "7": {
+      "text": "E Satanás saiu da presença de Iahweh. \\par Ele feriu Jó com chagas malignas desde a planta dos pés até o cume da cabeça.",
+      "reference": "Jó 2:7"
+    },
+    "8": {
+      "text": "Então Jó apanhou um caco de cerâmica para se coçar e sentou-se no meio da cinza.",
+      "reference": "Jó 2:8"
+    },
+    "9": {
+      "text": "Sua mulher disse-lhe: “Persistes ainda em tua integridade? Amaldiçoa a Deus e morre duma vez!”",
+      "reference": "Jó 2:9"
+    },
+    "10": {
+      "text": "Ele respondeu: “Falas como uma idiota: se recebemos de Deus os bens, não deveríamos receber também os males?” Apesar de tudo isso, Jó não cometeu pecado com seus lábios. \\par",
+      "reference": "Jó 2:10"
+    },
+    "11": {
+      "text": "Três amigos de Jó – Elifaz de Temã, Baldad de Suás e Sofar de Naamat – ao inteirar-se da desgraça que havia sofrido, partiram de sua terra e reuniram-se para ir compartilhar sua dor e consolá-lo.",
+      "reference": "Jó 2:11"
+    },
+    "12": {
+      "text": "Quando levantaram os olhos, a certa distância, não o reconheceram mais. Levantando a voz, romperam em prantos; rasgaram seus mantos e, a seguir, espalharam pó sobre a cabeça.",
+      "reference": "Jó 2:12"
+    },
+    "13": {
+      "text": "Sentaram-se no chão ao lado dele, sete dias e sete noites, sem dizer-lhe uma palavra, vendo como era atroz seu sofrimento. \\par",
+      "reference": "Jó 2:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

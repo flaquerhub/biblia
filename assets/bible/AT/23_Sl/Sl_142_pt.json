@@ -1,0 +1,45 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 142,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 142 (141)\\par }{\\qc\\b\\i Prece de um perseguido\\par }{\\qc\\i Poema. De Davi. Quando estava na caverna. Prece.\\par }",
+      "reference": "Sl 142:1"
+    },
+    "2": {
+      "text": "Gritando a Iahweh, eu imploro! \\par Gritando a Iahweh, eu suplico! \\par",
+      "reference": "Sl 142:2"
+    },
+    "3": {
+      "text": "Derramo à sua frente o meu lamento, \\par à sua frente exponho a minha angústia, \\par",
+      "reference": "Sl 142:3"
+    },
+    "4": {
+      "text": "enquanto meu alento desfalece; \\par mas tu conheces meu caminho! \\par No caminho em que ando \\par ocultaram para mim uma armadilha. \\par",
+      "reference": "Sl 142:4"
+    },
+    "5": {
+      "text": "Olha para a direita e vê: \\par ninguém mais me reconhece, \\par nenhum lugar de refúgio, \\par ninguém que olhe por mim! \\par",
+      "reference": "Sl 142:5"
+    },
+    "6": {
+      "text": "Eu grito a ti, Iahweh, \\par e digo: Tu és meu refúgio, \\par minha parte na terra dos vivos! \\par",
+      "reference": "Sl 142:6"
+    },
+    "7": {
+      "text": "Dá atenção ao meu clamor, \\par pois já estou muito fraco. \\par Livra-me dos meus perseguidores, \\par pois eles são mais fortes do que eu! \\par",
+      "reference": "Sl 142:7"
+    },
+    "8": {
+      "text": "Faze-me sair da prisão \\par para que eu celebre o teu nome! \\par Os justos se ajuntarão ao meu redor, \\par por causa do bem que me fizeste. \\par",
+      "reference": "Sl 142:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

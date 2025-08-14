@@ -1,0 +1,81 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Tristeza do exílio\\par }Não te alegres, Israel: \\par não exultes como os povos! \\par Porque tu te prostituíste longe de teu Deus, \\par amaste o salário de prostituta em todas as eiras de trigo. \\par",
+      "reference": "Os 9:1"
+    },
+    "2": {
+      "text": "A eira e o lagar não os alimentarão \\par e o mosto os enganará. \\par",
+      "reference": "Os 9:2"
+    },
+    "3": {
+      "text": "Eles não habitarão na terra de Iahweh. \\par Efraim voltará ao Egito, \\par na Assíria comerão coisas impuras. \\par",
+      "reference": "Os 9:3"
+    },
+    "4": {
+      "text": "Não derramarão vinho em libação a Iahweh \\par e não lhe oferecerão os seus sacrifícios. \\par Será para eles como o pão de luto, \\par todos os que o comerem se tornarão impuros. \\par Porque o seu pão chegará apenas para o seu sustento, \\par mas não entrará na Casa de Iahweh. \\par",
+      "reference": "Os 9:4"
+    },
+    "5": {
+      "text": "Que fareis para o dia da assembléia \\par e para o dia da festa de Iahweh? \\par",
+      "reference": "Os 9:5"
+    },
+    "6": {
+      "text": "Pois eis que eles fugiram por causa da devastação! \\par O Egito os reunirá, Mênfis os sepultará, \\par seus objetos preciosos de prata, a erva daninha os herdará, \\par espinhos estarão em suas tendas. \\par",
+      "reference": "Os 9:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i O anúncio de castigo é causa de perseguição ao profeta\\par }Chegaram os dias do castigo, \\par chegaram os dias da retribuição. \\par Que Israel o saiba! \\par – O profeta é um tolo, o inspirado é um louco! \\par – Por causa da gravidade de tua falta, \\par grande é a hostilidade. \\par",
+      "reference": "Os 9:7"
+    },
+    "8": {
+      "text": "O atalaia de Efraim junto ao meu Deus é o profeta, \\par uma rede está estendida em todos os seus caminhos, \\par há hostilidade na Casa de seu Deus. \\par",
+      "reference": "Os 9:8"
+    },
+    "9": {
+      "text": "Eles agiram de modo profundamente corrupto, \\par como nos dias de Gabaá. \\par Ele se lembrará da falta deles \\par e castigará os seus pecados. \\par",
+      "reference": "Os 9:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Castigo do crime de Baalfegor\\par }Como uvas no deserto, assim eu encontrei Israel, \\par como um fruto em uma figueira nova, assim eu vi os vossos pais. \\par Eles, porém, logo que chegaram a Baalfegor, consagraram-se à Vergonha \\par e tornaram-se tão abomináveis como o objeto de seu amor! \\par",
+      "reference": "Os 9:10"
+    },
+    "11": {
+      "text": "Efraim é como um pássaro, a sua glória voará: \\par não há mais nascimento, não há mais gravidez, não há mais concepção. \\par",
+      "reference": "Os 9:11"
+    },
+    "12": {
+      "text": "Mesmo que eles criem seus filhos, \\par eu os privarei deles antes que sejam homens. \\par Sim, ai deles, quando eu me afastar deles! \\par",
+      "reference": "Os 9:12"
+    },
+    "13": {
+      "text": "Efraim, quando eu o vi, era como Tiro, plantado em um prado; \\par contudo, Efraim deverá entregar os seus filhos ao carrasco. \\par",
+      "reference": "Os 9:13"
+    },
+    "14": {
+      "text": "Dá-lhes, Iahweh... Que darás? \\par Dá-lhes entranhas estéreis e seios secos. \\par",
+      "reference": "Os 9:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Castigo do crime de Guilgal\\par }Toda a sua maldade foi em Guilgal. \\par Foi lá que eu comecei a detestá-los. \\par Por causa da perversidade de seus atos, \\par vou expulsá-los de minha casa. \\par Não os amarei mais! \\par Todos os seus príncipes são rebeldes. \\par",
+      "reference": "Os 9:15"
+    },
+    "16": {
+      "text": "Efraim está ferido: \\par suas raízes estão secas, \\par não poderão mais produzir frutos. \\par Ainda que eles gerem filhos, \\par farei morrer o fruto querido do seu seio. \\par",
+      "reference": "Os 9:16"
+    },
+    "17": {
+      "text": "Meu Deus os rejeitará, porque não o escutaram. \\par Eles serão errantes entre as nações. \\par",
+      "reference": "Os 9:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

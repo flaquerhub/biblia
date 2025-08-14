@@ -1,0 +1,81 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A felicidade dos maus\\par }Tu és justo demais, Iahweh, \\par para que eu entre em processo contigo. \\par Contudo, falarei contigo sobre questões de direito: \\par Por que prospera o caminho dos ímpios? \\par Por que os apóstatas estão em paz? \\par",
+      "reference": "Jr 12:1"
+    },
+    "2": {
+      "text": "Tu os plantaste, eles criaram raízes, \\par vão bem e produzem fruto. \\par Tu estás perto de sua boca, \\par mas longe de seus rins. \\par",
+      "reference": "Jr 12:2"
+    },
+    "3": {
+      "text": "Mas tu, Iahweh, me conheces e me vês, \\par provaste o meu coração, que está contigo. \\par Arranca-os como ovelhas para o matadouro, \\par consagra-os para o dia do massacre. \\par",
+      "reference": "Jr 12:3"
+    },
+    "4": {
+      "text": "(Até quando se lamentará a terra, e ficará seca a erva de todo campo? Por causa da maldade de seus habitantes perecem os animais e os pássaros.) \\par Pois eles dizem: \\par Deus não vê o nosso futuro. \\par",
+      "reference": "Jr 12:4"
+    },
+    "5": {
+      "text": "– Se a corrida com os caminhantes te cansa, \\par como queres competir com cavalos? \\par Em uma terra de paz te sentes seguro, \\par mas como farás no matagal do Jordão? \\par",
+      "reference": "Jr 12:5"
+    },
+    "6": {
+      "text": "Porque até os teus irmãos e a casa de te pai, até eles te traíram! Até eles gritaram atrás de ti. Não confies neles quando te falarem coisas boas. \\par",
+      "reference": "Jr 12:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Lamentações de Iahweh sobre sua herança invadida\\par }Eu abandonei a minha casa, \\par rejeitei a minha herança, \\par entreguei a minha amada \\par nas mãos de seus inimigos. \\par",
+      "reference": "Jr 12:7"
+    },
+    "8": {
+      "text": "Minha herança foi para mim \\par como um leão na floresta, \\par levantou contra mim a sua voz: \\par por isso eu a odiei. \\par",
+      "reference": "Jr 12:8"
+    },
+    "9": {
+      "text": "Será a minha herança uma ave de rapina colorida, \\par para que a cerquem as aves de rapina? \\par Ide! Reuni todos os animais selvagens, \\par trazei-os para comer! \\par",
+      "reference": "Jr 12:9"
+    },
+    "10": {
+      "text": "Pastores em grande número destruíram a minha vinha, \\par pisaram a minha possessão, \\par transformaram a minha possessão preferida \\par em um deserto de desolação. \\par",
+      "reference": "Jr 12:10"
+    },
+    "11": {
+      "text": "Fizeram dela uma região devastada, \\par ela está de luto, devastada diante de mim. \\par Toda a terra está devastada \\par e não há ninguém que coloque isto em seu coração! \\par",
+      "reference": "Jr 12:11"
+    },
+    "12": {
+      "text": "Sobre todas as colinas do deserto \\par chegaram os devastadores \\par (porque Iahweh tem uma espada devoradora): \\par de uma à outra extremidade da terra, \\par não há paz para toda carne. \\par",
+      "reference": "Jr 12:12"
+    },
+    "13": {
+      "text": "Eles semearam trigo, colheram espinhos, \\par eles se cansaram sem resultado. \\par Eles têm vergonha de suas colheitas, \\par por causa da ardente ira de Iahweh. \\par",
+      "reference": "Jr 12:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Julgamento e salvação dos povos vizinhos\\par }Assim disse Iahweh a respeito de todos os meus maus vizinhos, que tocaram na herança que eu dei a meu povo, Israel: Eis que vou arrancá-los de seu solo. (Mas a casa de Judá, eu a arrancarei do meio deles.)",
+      "reference": "Jr 12:14"
+    },
+    "15": {
+      "text": "Mas depois que eu os tiver arrancado, terei novamente pena deles, e eu os reconduzirei cada um à sua herança e cada um à sua terra.",
+      "reference": "Jr 12:15"
+    },
+    "16": {
+      "text": "E se realmente aprenderem os caminhos do meu povo, de modo a jurar em meu nome: “Por Iahweh Vivo”, como ensinaram o meu povo a jurar por Baal, então serão edificados no meio do meu povo.",
+      "reference": "Jr 12:16"
+    },
+    "17": {
+      "text": "Mas se não escutarem, eu arrancarei essa nação e a exterminarei, oráculo de Iahweh. \\par",
+      "reference": "Jr 12:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

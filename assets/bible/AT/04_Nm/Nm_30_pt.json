@@ -1,0 +1,81 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "Moisés falou aos filhos de Israel, de acordo com tudo o que Iahweh lhe ordenara. \\par",
+      "reference": "Nm 30:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Leis sobre os votos\\par }Falou então Moisés aos chefes de tribo dos filhos de Israel. Disse: “Eis aqui o que Iahweh ordenou. \\par",
+      "reference": "Nm 30:2"
+    },
+    "3": {
+      "text": "Se um homem fizer um voto a Iahweh ou se obrigar por juramento a uma promessa formal, não violará a sua palavra: tudo aquilo que sair da sua boca, executará. \\par",
+      "reference": "Nm 30:3"
+    },
+    "4": {
+      "text": "Se uma mulher fizer voto a Iahweh ou se obrigar a uma promessa formal, ainda que jovem e morando na casa de seu pai,",
+      "reference": "Nm 30:4"
+    },
+    "5": {
+      "text": "e se este, conhecendo o seu voto ou a promessa que fez, nada lhe disser, o seu voto, qualquer que seja, será válido.",
+      "reference": "Nm 30:5"
+    },
+    "6": {
+      "text": "Porém, se o seu pai, no dia em que tomou conhecimento, fez oposição à promessa, nenhum dos votos e das promessas que ela fez será válido. Iahweh não a tratará com rigor, porque o seu pai fez oposição. \\par",
+      "reference": "Nm 30:6"
+    },
+    "7": {
+      "text": "Se está comprometida por votos ou por uma promessa que saiu irrefletidamente da sua boca e se casa,",
+      "reference": "Nm 30:7"
+    },
+    "8": {
+      "text": "e se o seu marido, ao tomar conhecimento, nada lhe disser no dia em que é informado, os seus votos serão válidos e as promessas que fez serão válidas.",
+      "reference": "Nm 30:8"
+    },
+    "9": {
+      "text": "Contudo, se no dia em que tomar conhecimento, o seu marido lhe fizer oposição, é nulo o voto que ela fez ou a promessa que a obriga, saída irrefletidamente de sua boca. Iahweh não a tratará com rigor. \\par",
+      "reference": "Nm 30:9"
+    },
+    "10": {
+      "text": "O voto de uma mulher viúva ou repudiada e todas as promessas que fizer serão validos para ela. \\par",
+      "reference": "Nm 30:10"
+    },
+    "11": {
+      "text": "Se foi na casa de seu marido que fez um voto ou se obrigou a uma promessa por juramento,",
+      "reference": "Nm 30:11"
+    },
+    "12": {
+      "text": "e se o seu marido, sabendo do fato, nada lhe disser e não lhe fizer oposição, o seu voto, qualquer que seja, será válido e a promessa que fez, qualquer que seja, será válida.",
+      "reference": "Nm 30:12"
+    },
+    "13": {
+      "text": "Porém, se o seu marido, sabendo dos votos, os anula no dia em que é informado a respeito deles, nada é válido de tudo quanto saiu da sua boca, votos ou promessas. Visto que o seu marido os tornou nulos, Iahweh não a tratará com rigor. \\par",
+      "reference": "Nm 30:13"
+    },
+    "14": {
+      "text": "Todo voto e todo juramento que obriga a mulher pode ser confirmado ou anulado pelo seu marido.",
+      "reference": "Nm 30:14"
+    },
+    "15": {
+      "text": "Contudo, se o seu marido nada lhe diz até o dia seguinte, torna válido o seu voto, qualquer que seja, ou a sua promessa qualquer que seja. Ele os torna válidos, no dia em que é informado e nada lhe diz a respeito deles.",
+      "reference": "Nm 30:15"
+    },
+    "16": {
+      "text": "Mas se ele, informado, os anular mais tarde, levará o peso da falta que era da responsabilidade da sua mulher”. \\par",
+      "reference": "Nm 30:16"
+    },
+    "17": {
+      "text": "Esses são os estatutos que Iahweh prescreveu a Moisés, naquilo que se refere à relação entre um homem e sua mulher e um pai e sua filha que, ainda jovem, mora na casa de seu pai. \\par",
+      "reference": "Nm 30:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

@@ -1,0 +1,33 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 45,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Palavra de consolo para Baruc\\par }Palavra que o profeta Jeremias disse a Baruc, filho de Nerias, quando este escreveu estas palavras, ditadas por Jeremias, num livro, no quarto ano de Joaquim, filho de Josias, rei de Judá.",
+      "reference": "Jr 45:1"
+    },
+    "2": {
+      "text": "Assim disse Iahweh, Deus de Israel, a teu respeito, Baruc:",
+      "reference": "Jr 45:2"
+    },
+    "3": {
+      "text": "Tu disseste: “Ai de mim, pois Iahweh acumula aflição à minha dor! Estou cansado de gemer e não encontro repouso!”",
+      "reference": "Jr 45:3"
+    },
+    "4": {
+      "text": "Assim lhe dirás: Assim disse Iahweh. Eis que vou demolir o que construí, e o que plantei vou arrancar, e isto para toda a terra!",
+      "reference": "Jr 45:4"
+    },
+    "5": {
+      "text": "E tu procuras para ti grandes coisas! Não procures! Porque eis que vou trazer a desgraça sobre toda a carne, oráculo de Iahweh. Mas a ti eu concederei a vida em recompensa, em todos os lugares para onde fores. \\par",
+      "reference": "Jr 45:5"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 5
+}

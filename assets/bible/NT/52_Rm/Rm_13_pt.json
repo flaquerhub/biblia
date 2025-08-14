@@ -1,0 +1,69 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Submissão à autoridade civil\\par }Todo homem se submeta às autoridades constituídas, pois não há autoridade que não venha de Deus, e as que existem foram estabelecidas por Deus.",
+      "reference": "Rm 13:1"
+    },
+    "2": {
+      "text": "De modo que aquele que se revolta contra a autoridade, opõe-se à ordem estabelecida por Deus. E os que se opõem atrairão sobre si a condenação.",
+      "reference": "Rm 13:2"
+    },
+    "3": {
+      "text": "Os que governam incutem medo quando se pratica o mal, não quando se faz o bem. Queres então não ter medo da autoridade? Pratica o bem e dela receberás elogios,",
+      "reference": "Rm 13:3"
+    },
+    "4": {
+      "text": "pois ela é instrumento de Deus para te conduzir ao bem. Se, porém, praticares o mal, teme, porque não é à toa que ela traz a espada: ela é instrumento de Deus para fazer justiça e punir quem pratica o mal.",
+      "reference": "Rm 13:4"
+    },
+    "5": {
+      "text": "Por isso é necessário submeter-se não somente por temor do castigo, mas também por dever de consciência.",
+      "reference": "Rm 13:5"
+    },
+    "6": {
+      "text": "É também por isso que pagais os impostos, pois os que governam são servidores de Deus, que se desincumbem com zelo do seu ofício.",
+      "reference": "Rm 13:6"
+    },
+    "7": {
+      "text": "Dai a cada um o que lhe é devido: o imposto a quem é devido; a taxa a quem é devida; a reverência a quem é devida; a honra a quem é devida. \\par",
+      "reference": "Rm 13:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i O amor, síntese da Lei\\par }Não devais nada a ninguém, a não ser o amor mútuo, pois quem ama o outro cumpriu a Lei.",
+      "reference": "Rm 13:8"
+    },
+    "9": {
+      "text": "De fato, os preceitos: {\\i Não cometerás adultério, não matarás, não furtarás, não cobiçarás}, e todos os outros se resumem nesta sentença: {\\i Amarás o teu próximo como a ti mesmo.}",
+      "reference": "Rm 13:9"
+    },
+    "10": {
+      "text": "A caridade não pratica o mal contra o próximo. Portanto, a caridade é a plenitude da Lei. \\par",
+      "reference": "Rm 13:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i O cristão é filho da luz\\par }Tanto mais que sabeis em que tempo estamos vivendo: já chegou a hora de acordar, pois nossa salvação está mais próxima agora do que quando abraçamos a fé.",
+      "reference": "Rm 13:11"
+    },
+    "12": {
+      "text": "A noite avançou e o dia se aproxima. Portanto, deixemos as obras das trevas e vistamos a armadura da luz.",
+      "reference": "Rm 13:12"
+    },
+    "13": {
+      "text": "Como de dia, andemos decentemente; não em orgias e bebedeiras, nem em devassidão e libertinagem, nem em rixas e ciúmes.",
+      "reference": "Rm 13:13"
+    },
+    "14": {
+      "text": "Mas vesti-vos do Senhor Jesus Cristo e não procureis satisfazer os desejos da carne. \\par",
+      "reference": "Rm 13:14"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 14
+}

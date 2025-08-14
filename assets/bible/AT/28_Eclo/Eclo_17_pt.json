@@ -1,0 +1,141 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "O Senhor criou o homem da terra \\par e a ela o faz voltar novamente. \\par",
+      "reference": "Eclo 17:1"
+    },
+    "2": {
+      "text": "Deu aos homens número preciso de dia e tempo determinado, \\par deu-lhes poder sobre tudo o que está sobre a terra. \\par",
+      "reference": "Eclo 17:2"
+    },
+    "3": {
+      "text": "Revestiu-os de força como a si mesmo, \\par criou-os à sua imagem. \\par",
+      "reference": "Eclo 17:3"
+    },
+    "4": {
+      "text": "A toda carne inspirou o temor do homem, \\par para que ele domine feras e pássaros. \\par",
+      "reference": "Eclo 17:4"
+    },
+    "5": {
+      "text": "*",
+      "reference": "Eclo 17:5"
+    },
+    "6": {
+      "text": "Dotou-os de língua, olhos, ouvidos \\par e lhes deu um coração para pensar. \\par",
+      "reference": "Eclo 17:6"
+    },
+    "7": {
+      "text": "Encheu-os de conhecimento e inteligência \\par e mostrou-lhes o bem e o mal. \\par",
+      "reference": "Eclo 17:7"
+    },
+    "8": {
+      "text": "Pôs sua luz nos seus corações, \\par para lhes mostrar a grandeza de suas obras, \\par",
+      "reference": "Eclo 17:8"
+    },
+    "9": {
+      "text": "*",
+      "reference": "Eclo 17:9"
+    },
+    "10": {
+      "text": "Eles louvarão o seu santo nome, \\par narrando a grandeza de suas obras. \\par",
+      "reference": "Eclo 17:10"
+    },
+    "11": {
+      "text": "Concedeu-lhes o conhecimento, \\par repartiu com eles a lei da vida. \\par",
+      "reference": "Eclo 17:11"
+    },
+    "12": {
+      "text": "Fez com eles uma aliança eterna \\par e deu-lhes a conhecer seus julgamentos. \\par",
+      "reference": "Eclo 17:12"
+    },
+    "13": {
+      "text": "Seus olhos viram a grandeza de sua majestade, \\par seus ouvidos ouviram a magnificência de sua voz. \\par",
+      "reference": "Eclo 17:13"
+    },
+    "14": {
+      "text": "E disse-lhes: “Guardai-vos de toda injustiça”, \\par deu a cada um mandamentos para com o próximo. \\par",
+      "reference": "Eclo 17:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i O juiz divino\\par }Os seus caminhos estão sempre diante dele, \\par não podem ficar ocultos aos seus olhos. \\par",
+      "reference": "Eclo 17:15"
+    },
+    "16": {
+      "text": "*",
+      "reference": "Eclo 17:16"
+    },
+    "17": {
+      "text": "{\\i pois na divisão dos povos de toda a terra, }\\par para cada povo estabeleceu um chefe, \\par mas Israel é a porção do Senhor, \\par",
+      "reference": "Eclo 17:17"
+    },
+    "18": {
+      "text": "*",
+      "reference": "Eclo 17:18"
+    },
+    "19": {
+      "text": "Todas as suas ações são para ele como o sol, \\par os seus olhos observam continuamente os seus caminhos. \\par",
+      "reference": "Eclo 17:19"
+    },
+    "20": {
+      "text": "As suas injustiças não lhe são ocultas, \\par e todos os seus pecados estão diante do Senhor. \\par",
+      "reference": "Eclo 17:20"
+    },
+    "21": {
+      "text": "*",
+      "reference": "Eclo 17:21"
+    },
+    "22": {
+      "text": "A esmola de um homem é para ele como um selo, \\par ele conserva uma boa obra como a pupila do olho, \\par {\\i concedendo a seus filhos e filhas o arrependimento. }\\par",
+      "reference": "Eclo 17:22"
+    },
+    "23": {
+      "text": "Levantar-se-á depois para dar-lhes a recompensa, \\par recairá sobre suas cabeças o merecido. \\par",
+      "reference": "Eclo 17:23"
+    },
+    "24": {
+      "text": "Mas aos que se arrependem ele concede o retorno, \\par reconforta os que perderam a esperança. \\par",
+      "reference": "Eclo 17:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Convite à penitência\\par }Converte-te ao Senhor e abandona os pecados, \\par suplica diante de sua face e atenua a ofensa. \\par",
+      "reference": "Eclo 17:25"
+    },
+    "26": {
+      "text": "Volta para o Altíssimo, desvia-te da injustiça \\par {\\i pois é ele que te tirará das trevas para conduzir-te à luz da salvação }\\par e odeia profundamente a iniqüidade. \\par",
+      "reference": "Eclo 17:26"
+    },
+    "27": {
+      "text": "Quem louvará o Altíssimo no Xeol, \\par se os vivos não lhe dão glória? \\par",
+      "reference": "Eclo 17:27"
+    },
+    "28": {
+      "text": "Para o morto, como se não existisse mais nada, o louvor acabou; \\par o que tem vida e saúde glorifica o Senhor. \\par",
+      "reference": "Eclo 17:28"
+    },
+    "29": {
+      "text": "Como é grande a misericórdia do Senhor \\par e seu perdão para aqueles que se voltam para ele. \\par",
+      "reference": "Eclo 17:29"
+    },
+    "30": {
+      "text": "Porque no homem não podem existir todas as coisas \\par pois o filho do homem não é imortal. \\par",
+      "reference": "Eclo 17:30"
+    },
+    "31": {
+      "text": "Que há de mais luminoso que o sol? E, contudo, ele desaparece. \\par A carne e o sangue desejam só maldade. \\par",
+      "reference": "Eclo 17:31"
+    },
+    "32": {
+      "text": "Ele passa revista ao exército do mais alto dos céus, \\par e os homens são apenas terra e cinza. \\par",
+      "reference": "Eclo 17:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

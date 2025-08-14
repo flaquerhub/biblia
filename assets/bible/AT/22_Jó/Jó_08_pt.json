@@ -1,0 +1,101 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O curso necessário da justiça divina\\par }Baldad de Suás tomou a palavra e disse: \\par",
+      "reference": "Jó 8:1"
+    },
+    "2": {
+      "text": "Até quando falarás dessa maneira? \\par As palavras de tua boca são um vento impetuoso. \\par",
+      "reference": "Jó 8:2"
+    },
+    "3": {
+      "text": "Acaso Deus torce o direito, \\par ou Shaddai perverte a justiça? \\par",
+      "reference": "Jó 8:3"
+    },
+    "4": {
+      "text": "Se teus filhos pecaram contra ele, \\par entregou-os ao poder de seus delitos. \\par {\\super (6a)} Se és irrepreensível e reto, \\par",
+      "reference": "Jó 8:4"
+    },
+    "5": {
+      "text": "procura a Deus, implora a Shaddai. \\par",
+      "reference": "Jó 8:5"
+    },
+    "6": {
+      "text": "{\\super (6b)} Desde agora a sua luz brilhará sobre ti \\par e restaurará a casa de um justo. \\par",
+      "reference": "Jó 8:6"
+    },
+    "7": {
+      "text": "Teu passado parecerá pouca coisa \\par diante da exímia grandeza de teu futuro. \\par",
+      "reference": "Jó 8:7"
+    },
+    "8": {
+      "text": "Pergunta às gerações passadas \\par e medita a experiência dos antepassados. \\par",
+      "reference": "Jó 8:8"
+    },
+    "9": {
+      "text": "Somos de ontem, não sabemos nada. \\par Nossos dias são uma sombra sobre a terra. \\par",
+      "reference": "Jó 8:9"
+    },
+    "10": {
+      "text": "Eles, porém, te instruirão e falarão contigo, \\par e em sua experiência encontrarão palavras adequadas. \\par",
+      "reference": "Jó 8:10"
+    },
+    "11": {
+      "text": "Acaso brota o papiro fora do pântano, \\par cresce o junco sem água? \\par",
+      "reference": "Jó 8:11"
+    },
+    "12": {
+      "text": "Verde ainda e sem ser arrancado, \\par seca antes de todas as ervas. \\par",
+      "reference": "Jó 8:12"
+    },
+    "13": {
+      "text": "Tal é o destino daqueles que esquecem a Deus, \\par assim desvanece a esperança do ímpio. \\par",
+      "reference": "Jó 8:13"
+    },
+    "14": {
+      "text": "Sua confiança é um fiapo no ar, \\par uma teia de aranha sua segurança: \\par",
+      "reference": "Jó 8:14"
+    },
+    "15": {
+      "text": "ao se apoiar em sua casa, esta cairá; \\par quando nela se agarrar, ela não resistirá. \\par",
+      "reference": "Jó 8:15"
+    },
+    "16": {
+      "text": "Cheio de seiva, ao sol, \\par lança rebentos no seu jardim, \\par",
+      "reference": "Jó 8:16"
+    },
+    "17": {
+      "text": "enreda as raízes entre pedras \\par e vive no meio das rochas. \\par",
+      "reference": "Jó 8:17"
+    },
+    "18": {
+      "text": "Mas, se o arrancam do lugar, \\par este o renegará: “Nunca te vi”. \\par",
+      "reference": "Jó 8:18"
+    },
+    "19": {
+      "text": "E ei-lo apodrecendo no caminho, \\par e do solo outros germinam. \\par",
+      "reference": "Jó 8:19"
+    },
+    "20": {
+      "text": "Não, Deus não rejeita o homem íntegro, \\par nem dá a mão aos malvados: \\par",
+      "reference": "Jó 8:20"
+    },
+    "21": {
+      "text": "pode ainda encher tua boca de sorrisos \\par e teus lábios de gritos de júbilo.\\par",
+      "reference": "Jó 8:21"
+    },
+    "22": {
+      "text": "Teus inimigos cobrir-se-ão de vergonha \\par e desaparecerá a tenda dos ímpios. \\par",
+      "reference": "Jó 8:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

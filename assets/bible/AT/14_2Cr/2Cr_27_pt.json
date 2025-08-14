@@ -1,0 +1,49 @@
+{
+  "book": 14,
+  "book_name": "2Crônicas",
+  "book_abbr": "2Cr",
+  "book_category": "Histórico",
+  "book_english": "2 Chronicles",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O reinado de Joatão\\par }Joatão tinha vinte e cinco anos quando começou a reinar e reinou dezesseis anos em Jerusalém; sua mãe chamava-se Jerusa e era filha de Sadoc.",
+      "reference": "2Cr 27:1"
+    },
+    "2": {
+      "text": "Fez o que é agradável aos olhos de Iahweh, imitando em tudo a conduta de seu pai Ozias. Apenas não entrou no santuário de Iahweh. Mas o povo continuou a se corromper. \\par",
+      "reference": "2Cr 27:2"
+    },
+    "3": {
+      "text": "Foi ele que construiu a Porta Superior do Templo de Iahweh e fez numerosas obras na muralha do Ofel.",
+      "reference": "2Cr 27:3"
+    },
+    "4": {
+      "text": "Construiu cidades na região montanhosa de Judá e também cidadelas e torres nas terras cultivadas. \\par",
+      "reference": "2Cr 27:4"
+    },
+    "5": {
+      "text": "Combateu contra o rei dos amonitas. Venceu-os e os amonitas pagaram-lhe, naquele ano, cem talentos de prata, dez mil coros de trigo e dez mil de cevada. Foi isso que os amonitas tiveram de pagar-lhe; o mesmo se deu no segundo e no terceiro anos.",
+      "reference": "2Cr 27:5"
+    },
+    "6": {
+      "text": "Joatão tornou-se poderoso, pois caminhava com firmeza na presença de Iahweh seu Deus. \\par",
+      "reference": "2Cr 27:6"
+    },
+    "7": {
+      "text": "O resto da história de Joatão, todas as suas guerras e sua política, tudo está registrado no livro dos Reis de Israel e de Judá.",
+      "reference": "2Cr 27:7"
+    },
+    "8": {
+      "text": "Tinha vinte e cinco anos quando começou a reinar e reinou dezesseis anos em Jerusalém.",
+      "reference": "2Cr 27:8"
+    },
+    "9": {
+      "text": "Depois Joatão adormeceu com seus pais e foi sepultado na Cidade de Davi, e seu filho Acaz reinou em seu lugar. \\par",
+      "reference": "2Cr 27:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

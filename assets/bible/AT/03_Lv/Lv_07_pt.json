@@ -1,0 +1,165 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i D. O sacrifício de reparação\\par }O ritual do sacrifício de reparação é o seguinte: \\par É coisa santíssima.",
+      "reference": "Lv 7:1"
+    },
+    "2": {
+      "text": "Imolar-se-á a vítima onde se imolam os holocaustos, e o sacerdote derramará o sangue dela sobre o altar, em redor.",
+      "reference": "Lv 7:2"
+    },
+    "3": {
+      "text": "Oferecer-se-á dela toda a gordura: a cauda, a gordura que cobre as entranhas,",
+      "reference": "Lv 7:3"
+    },
+    "4": {
+      "text": "os dois rins, a gordura aderente a eles e aos lombos, e a massa gordurosa que será retirada do fígado e dos rins.",
+      "reference": "Lv 7:4"
+    },
+    "5": {
+      "text": "O sacerdote queimará esses pedaços no altar, como oferenda queimada para Iahweh. É um sacrifício de reparação:",
+      "reference": "Lv 7:5"
+    },
+    "6": {
+      "text": "todo varão entre os sacerdotes poderá comer dele. Comer-se-á em um lugar sagrado; é uma coisa santíssima. \\par",
+      "reference": "Lv 7:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Direitos dos sacerdotes\\par }Como o sacrifício pelo pecado, assim será o sacrifício de reparação: haverá para ambos o mesmo ritual. Ao sacerdote pertencerá a oferenda com a qual tiver feito o rito de expiação.",
+      "reference": "Lv 7:7"
+    },
+    "8": {
+      "text": "O couro da vítima que alguém apresentar a um sacerdote para ser oferecida em holocausto pertencerá a esse sacerdote.",
+      "reference": "Lv 7:8"
+    },
+    "9": {
+      "text": "Toda oblação cozida no forno, toda oblação preparada em uma panela ou em assadeira pertencerá ao sacerdote que a tiver oferecido.",
+      "reference": "Lv 7:9"
+    },
+    "10": {
+      "text": "Toda oblação amassada com azeite, ou seca, pertencerá a todos os filhos de Aarão, indistintamente. \\par",
+      "reference": "Lv 7:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i E. O sacrifício de comunhão: a) sacrifício com louvor\\par }Este é o ritual do sacrifício de comunhão que se oferecerá a Iahweh: \\par",
+      "reference": "Lv 7:11"
+    },
+    "12": {
+      "text": "Se se acrescentar algo a um sacrifício com louvor, ajuntar-se-á a este uma oferenda de bolos sem levedo amassados com azeite, de fogaças sem levedo untadas com azeite e de flor de farinha bem amassada na forma de bolos amassados com azeite.",
+      "reference": "Lv 7:12"
+    },
+    "13": {
+      "text": "Ajuntar-se-á, portanto, esta oferenda aos bolos de pão fermentado e ao sacrifício de comunhão com louvor.",
+      "reference": "Lv 7:13"
+    },
+    "14": {
+      "text": "Apresentar-se-á um dos bolos desta oferenda como tributo a Iahweh; ele pertencerá ao sacerdote que espargir o sangue do sacrifício de comunhão.",
+      "reference": "Lv 7:14"
+    },
+    "15": {
+      "text": "A carne da vítima será comida no mesmo dia em que se fizer a oferenda, sem nada deixar dela para o dia seguinte. \\par",
+      "reference": "Lv 7:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i b) sacrifícios votivos ou voluntários\\par }Se a vítima for oferecida como sacrifício votivo ou voluntário, será comida no dia em que for oferecida, bem como no dia seguinte,",
+      "reference": "Lv 7:16"
+    },
+    "17": {
+      "text": "mas queimar-se-á no fogo, no terceiro dia, o que restar da carne da vítima. \\par",
+      "reference": "Lv 7:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Regras gerais\\par }Se ao terceiro dia se comer da carne oferecida em sacrifício de comunhão, aquele que a ofereceu não será aceito. Não lhe será atribuído o sacrifício, pois é carne estragada, e a pessoa que dela comer levará o peso da sua falta. \\par",
+      "reference": "Lv 7:18"
+    },
+    "19": {
+      "text": "A carne que tocar qualquer coisa impura não poderá ser comida; será jogada ao fogo. \\par Todo aquele que estiver puro poderá comer da carne;",
+      "reference": "Lv 7:19"
+    },
+    "20": {
+      "text": "mas se alguém se encontrar em estado de impureza e comer da carne de um sacrifício de comunhão oferecido a Iahweh, será exterminado do meio do seu povo.",
+      "reference": "Lv 7:20"
+    },
+    "21": {
+      "text": "Se alguém tocar uma impureza qualquer, de homem, de animal, ou qualquer coisa imunda, e comer em seguida a carne de um sacrifício de comunhão oferecido a Iahweh, será exterminado do meio do seu povo”. \\par",
+      "reference": "Lv 7:21"
+    },
+    "22": {
+      "text": "Iahweh falou a Moisés e disse:",
+      "reference": "Lv 7:22"
+    },
+    "23": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: \\par Não comereis gordura de boi, de carneiro ou de cabra.",
+      "reference": "Lv 7:23"
+    },
+    "24": {
+      "text": "A gordura do animal morto ou dilacerado poderá servir para qualquer uso, mas de maneira alguma a comereis.",
+      "reference": "Lv 7:24"
+    },
+    "25": {
+      "text": "Todo aquele que comer a gordura de animal do qual se faz uma oferenda queimada a Iahweh, tal pessoa será eliminada do meio do seu povo. \\par",
+      "reference": "Lv 7:25"
+    },
+    "26": {
+      "text": "Onde quer que habiteis, não comereis sangue, quer se trate de ave ou de gado.",
+      "reference": "Lv 7:26"
+    },
+    "27": {
+      "text": "Todo aquele que comer qualquer sangue será eliminado do seu povo”. \\par",
+      "reference": "Lv 7:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Parte dos sacerdotes\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Lv 7:28"
+    },
+    "29": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: \\par Quem oferecer um sacrifício de comunhão a Iahweh trará como oferenda a Iahweh uma parte do seu sacrifício.",
+      "reference": "Lv 7:29"
+    },
+    "30": {
+      "text": "Com suas próprias mãos trará a Iahweh as oferendas queimadas, isto é, a gordura que adere ao peito. Trará também o peito, com o qual fará o gesto de apresentação perante Iahweh.",
+      "reference": "Lv 7:30"
+    },
+    "31": {
+      "text": "O sacerdote queimará a gordura no altar, e o peito pertencerá a Aarão e seus filhos.",
+      "reference": "Lv 7:31"
+    },
+    "32": {
+      "text": "Como tributo dos vossos sacrifícios de comunhão dareis ao sacerdote a coxa direita.",
+      "reference": "Lv 7:32"
+    },
+    "33": {
+      "text": "Essa coxa direita será a parte do filho de Aarão que tiver oferecido o sangue e a gordura do sacrifício de comunhão.",
+      "reference": "Lv 7:33"
+    },
+    "34": {
+      "text": "Porque, na verdade, eu tomo dos filhos de Israel, dos seus sacrifícios de comunhão, o peito a ser oferecido e a coxa do tributo; dou-os a Aarão, o sacerdote, e a seus filhos: é uma lei perpétua para os filhos de Israel. \\par",
+      "reference": "Lv 7:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b\\i Conclusão\\par }Esta foi a parte de Aarão nas oferendas queimadas a Iahweh, e também de seus filhos, no dia em que os apresentou a Iahweh, para que fossem seus sacerdotes.",
+      "reference": "Lv 7:35"
+    },
+    "36": {
+      "text": "Foi isso que Iahweh ordenou aos filhos de Israel que lhes dessem, no dia da sua unção: lei perpétua para todos os seus descendentes. \\par",
+      "reference": "Lv 7:36"
+    },
+    "37": {
+      "text": "Este é o ritual referente ao holocausto, à oblação, ao sacrifício pelo pecado, aos sacrifícios de reparação, de investidura e de comunhão.",
+      "reference": "Lv 7:37"
+    },
+    "38": {
+      "text": "Isto foi o que Iahweh ordenou a Moisés no monte Sinai, no dia em que ordenou aos filhos de Israel que apresentassem as suas oferendas a Iahweh no deserto do Sinai”. \\par",
+      "reference": "Lv 7:38"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 38
+}

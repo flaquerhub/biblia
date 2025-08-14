@@ -1,0 +1,85 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i I. Conquista da Terra Prometida}\\par 1. PREPARATIVOS\\par }{\\qc\\b\\i Convite a passar à Terra Prometida\\par }Depois da morte de Moisés, servo de Iahweh, Iahweh falou a Josué, filho de Nun, ministro de Moisés, e lhe disse:",
+      "reference": "Js 1:1"
+    },
+    "2": {
+      "text": "“Moisés, meu servo, morreu; agora, levanta-te! Atravessa este Jordão, tu e todo este povo, para a terra que lhes dou (aos filhos de Israel).",
+      "reference": "Js 1:2"
+    },
+    "3": {
+      "text": "Todo lugar que a planta dos vossos pés pisar eu vo-lo dou, como disse a Moisés.",
+      "reference": "Js 1:3"
+    },
+    "4": {
+      "text": "Desde o deserto e o Líbano até o grande rio, o Eufrates (toda a terra dos heteus), e até o Grande Mar, no poente do sol, será o vosso território.",
+      "reference": "Js 1:4"
+    },
+    "5": {
+      "text": "Ninguém te poderá resistir durante toda a tua vida; assim como estive com Moisés, estarei contigo: jamais te abandonarei, nem te desampararei. \\par",
+      "reference": "Js 1:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Fidelidade à Lei, condição da ajuda divina\\par }Sê firme e corajoso, porque farás este povo herdar a terra que a seus pais jurei dar-lhes.",
+      "reference": "Js 1:6"
+    },
+    "7": {
+      "text": "Tão-somente sê de fato firme e corajoso, para teres o cuidado de agir segundo toda a Lei que te ordenou Moisés, meu servo. Não te apartes dela, nem para a direita nem para a esquerda, para que triunfes em todas as tuas realizações.",
+      "reference": "Js 1:7"
+    },
+    "8": {
+      "text": "Que o livro desta Lei esteja sempre nos teus lábios: medita nele dia e noite, para que tenhas o cuidado de agir de acordo com tudo que está escrito nele. Assim serás bem sucedido nas tuas realizações e alcançarás êxito.",
+      "reference": "Js 1:8"
+    },
+    "9": {
+      "text": "Não te ordenei: Sê firme e corajoso? Não temas e não te apavores, porque Iahweh teu Deus está contigo por onde quer que andes”. \\par",
+      "reference": "Js 1:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Reunião das tribos além do Jordão\\par }Então Josué ordenou aos oficiais do povo:",
+      "reference": "Js 1:10"
+    },
+    "11": {
+      "text": "“Passai pelo meio do acampamento e dai esta ordem ao povo: Tomai provisões porque, dentro de três dias, atravessareis este Jordão, para ocupardes a terra cuja posse Iahweh vosso Deus vos dá”. \\par",
+      "reference": "Js 1:11"
+    },
+    "12": {
+      "text": "Aos rubenitas, aos gaditas e à meia tribo de Manassés, Josué disse:",
+      "reference": "Js 1:12"
+    },
+    "13": {
+      "text": "“Lembrai-vos da palavra que vos ordenou Moisés, servo de Iahweh, dizendo: ‘Iahweh vosso Deus concede repouso e vos dá esta terra’.",
+      "reference": "Js 1:13"
+    },
+    "14": {
+      "text": "As vossas mulheres, as vossas crianças e os vossos rebanhos permanecerão na terra que Moisés vos deu aquém do Jordão; vós, porém, todos os homens de guerra, passareis armados adiante dos vossos irmãos e os auxiliareis,",
+      "reference": "Js 1:14"
+    },
+    "15": {
+      "text": "até que Iahweh conceda descanso aos vossos irmãos, como a vós, e também eles tomem posse da terra que Iahweh vosso Deus lhes dá. Então podereis voltar para a terra que vos pertence e tomareis posse dela, terra que vos deu Moisés, servo de Iahweh, aquém do Jordão, do lado do oriente”.",
+      "reference": "Js 1:15"
+    },
+    "16": {
+      "text": "Eles responderam a Josué, dizendo: “Tudo o que nos ordenaste, nós o faremos e, para onde quer que nos enviares, iremos.",
+      "reference": "Js 1:16"
+    },
+    "17": {
+      "text": "Assim como em tudo obedecemos a Moisés, da mesma forma obedeceremos a ti; basta que Iahweh teu Deus esteja contigo, assim como esteve com Moisés.",
+      "reference": "Js 1:17"
+    },
+    "18": {
+      "text": "Todo aquele que se rebelar contra a tua ordem e não obedecer às tuas palavras, em tudo quanto lhe ordenares, será morto. Tão-somente, sê firme e corajoso”. \\par",
+      "reference": "Js 1:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

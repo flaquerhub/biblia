@@ -1,0 +1,173 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 37,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 37 (36)\\par }{\\qc\\b\\i A sorte do justo e do ímpio\\par }{\\qc\\i De Davi.\\par } \\par {\\qc\\b\\i Alef\\par } Não te irrites por causa dos maus, \\par nem invejes os que praticam injustiça: \\par",
+      "reference": "Sl 37:1"
+    },
+    "2": {
+      "text": "pois são como erva, secam depressa, \\par eles murcham como a verde relva. \\par",
+      "reference": "Sl 37:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Bet\\par }Confia em Iahweh e faze o bem, \\par habita na terra e vive tranqüilo, \\par",
+      "reference": "Sl 37:3"
+    },
+    "4": {
+      "text": "coloca tua alegria em Iahweh \\par e ele realizará os desejos do teu coração. \\par",
+      "reference": "Sl 37:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Guimel\\par }Entrega teu caminho a Iahweh, \\par confia nele, e ele agirá; \\par",
+      "reference": "Sl 37:5"
+    },
+    "6": {
+      "text": "manifestará tua justiça como a luz \\par e teu direito como o meio-dia. \\par",
+      "reference": "Sl 37:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Dalet\\par }Descansa em Iahweh e nele espera, \\par não te irrites contra quem triunfa, \\par contra o homem que se serve de intrigas. \\par",
+      "reference": "Sl 37:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Hê\\par }Deixa a ir, abandona o furor, \\par não te irrites: só farias o mal; \\par",
+      "reference": "Sl 37:8"
+    },
+    "9": {
+      "text": "porque os maus vão ser extirpados \\par e quem espera em Iahweh possuirá a terra. \\par",
+      "reference": "Sl 37:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Waw\\par }Mais um pouco e não haverá mais ímpio, \\par buscarás seu lugar e não existirá; \\par",
+      "reference": "Sl 37:10"
+    },
+    "11": {
+      "text": "mas os pobres vão possuir a terra \\par e deleitar-se com paz abundante. \\par",
+      "reference": "Sl 37:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Záin\\par }O ímpio faz intrigas contra o justo \\par e contra ele range os dentes; \\par",
+      "reference": "Sl 37:12"
+    },
+    "13": {
+      "text": "mas o Senhor ri às custas dele, \\par pois vê que seu dia vem chegando. \\par",
+      "reference": "Sl 37:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Het\\par }Os ímpios desembainham a espada \\par e retesam o arco para matar o homem reto, \\par para abater o pobre e o indigente; \\par",
+      "reference": "Sl 37:14"
+    },
+    "15": {
+      "text": "mas a espada lhes entrará no coração \\par e seus arcos serão quebrados. \\par",
+      "reference": "Sl 37:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Tet\\par }Vale mais o pouco do justo \\par que as grandes riquezas dos ímpios; \\par",
+      "reference": "Sl 37:16"
+    },
+    "17": {
+      "text": "pois os braços do ímpio serão quebrados, \\par mas Iahweh é o apoio dos justos. \\par",
+      "reference": "Sl 37:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Yod\\par }Iahweh conhece os dias dos íntegros \\par e sua herança permanecerá para sempre; \\par",
+      "reference": "Sl 37:18"
+    },
+    "19": {
+      "text": "não irão envergonhar-se nos dias maus, \\par nos dias de fome eles ficarão saciados. \\par",
+      "reference": "Sl 37:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Kaf\\par }Eis que os ímpios vão perecer, \\par os inimigos de Iahweh \\par vão murchar como a beleza dos prados, \\par vão desfazer-se em fumaça. \\par",
+      "reference": "Sl 37:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par }O ímpio toma emprestado e não devolve, \\par mas o justo se compadece e dá; \\par",
+      "reference": "Sl 37:21"
+    },
+    "22": {
+      "text": "os que ele abençoa vão possuir a terra, \\par os que ele amaldiçoa vão ser extirpados. \\par",
+      "reference": "Sl 37:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Mem\\par }Iahweh assegura os passos do homem, \\par eles são firmes e seu caminho lhe agrada; \\par",
+      "reference": "Sl 37:23"
+    },
+    "24": {
+      "text": "quando tropeça não chega a cair, \\par pois Iahweh o sustenta pela mão. \\par",
+      "reference": "Sl 37:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Nun\\par }Fui jovem e já estou velho, \\par mas nunca vi um homem justo abandonado, \\par nem sua descendência mendigando pão. \\par",
+      "reference": "Sl 37:25"
+    },
+    "26": {
+      "text": "Todo dia ele se compadece e empresta, \\par e sua descendência é uma bênção. \\par",
+      "reference": "Sl 37:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Samec\\par }Evita o mal e pratica o bem, \\par e para sempre terás habitação; \\par",
+      "reference": "Sl 37:27"
+    },
+    "28": {
+      "text": "pois Iahweh ama o direito \\par e jamais abandona seus fiéis. \\par \\par {\\qc\\b\\i Áin\\par } Os malfeitores serão destruídos para sempre \\par e a descendência dos ímpios extirpada; \\par",
+      "reference": "Sl 37:28"
+    },
+    "29": {
+      "text": "os justos vão possuir a terra \\par e nela habitarão para sempre. \\par",
+      "reference": "Sl 37:29"
+    },
+    "30": {
+      "text": "\\par {\\qc\\b\\i Pê\\par }A boca do justo medita a sabedoria \\par e sua língua fala o direito; \\par",
+      "reference": "Sl 37:30"
+    },
+    "31": {
+      "text": "no seu coração está a lei do seu Deus, \\par seus passos nunca vacilam. \\par",
+      "reference": "Sl 37:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i Çade\\par }O ímpio espreita o justo \\par e procura levá-lo à morte: \\par",
+      "reference": "Sl 37:32"
+    },
+    "33": {
+      "text": "Iahweh não o abandona em sua mão, \\par e no julgamento não o deixa condenar. \\par",
+      "reference": "Sl 37:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Qof\\par }Espera por Iahweh e observa o seu caminho; \\par ele te exaltará, para que possuas a terra: \\par tu verás os ímpios extirpados. \\par",
+      "reference": "Sl 37:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b\\i Resh\\par }Eu vi um ímpio muito poderoso \\par elevar-se como um cedro do Líbano; \\par",
+      "reference": "Sl 37:35"
+    },
+    "36": {
+      "text": "passei de novo e eis que não existia mais, \\par procurei-o, mas não foi encontrado. \\par",
+      "reference": "Sl 37:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i Shin\\par }Observa o íntegro, vê o homem direito: \\par há uma posteridade para o homem pacífico; \\par",
+      "reference": "Sl 37:37"
+    },
+    "38": {
+      "text": "mas os transgressores serão todos destruídos, \\par a posteridade dos ímpios será extirpada. \\par",
+      "reference": "Sl 37:38"
+    },
+    "39": {
+      "text": "\\par {\\qc\\b\\i Taw\\par }A salvação dos justos vem de Iahweh, \\par sua fortaleza no tempo da angústia. \\par",
+      "reference": "Sl 37:39"
+    },
+    "40": {
+      "text": "Iahweh os ajuda e liberta, \\par ele vai libertá-los dos ímpios \\par e salvá-los, porque nele se abrigaram. \\par",
+      "reference": "Sl 37:40"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 40
+}

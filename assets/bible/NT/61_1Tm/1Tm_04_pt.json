@@ -1,0 +1,77 @@
+{
+  "book": 54,
+  "book_name": "1Timóteo",
+  "book_abbr": "1Tm",
+  "book_category": "Epístolas Pastorais",
+  "book_english": "1 Timothy",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os falsos doutores\\par }O Espírito diz expressamente que nos últimos tempos alguns renegarão a fé, dando atenção a espíritos sedutores e a doutrinas demoníacas,",
+      "reference": "1Tm 4:1"
+    },
+    "2": {
+      "text": "por causa da hipocrisia dos mentirosos, que têm a própria consciência como que marcada por ferro quente;",
+      "reference": "1Tm 4:2"
+    },
+    "3": {
+      "text": "eles proibirão o casamento, exigirão a abstinência de certos alimentos, quando Deus os criou para serem recebidos, com ação de graças, pelos que têm fé e conhecem a verdade.",
+      "reference": "1Tm 4:3"
+    },
+    "4": {
+      "text": "Pois tudo o que Deus criou é bom, e nada é desprezível, se tomado com ação de graças,",
+      "reference": "1Tm 4:4"
+    },
+    "5": {
+      "text": "porque é santificado pela Palavra de Deus e pela oração.",
+      "reference": "1Tm 4:5"
+    },
+    "6": {
+      "text": "Expondo estas coisas aos irmãos, serás um bom servidor de Cristo Jesus, nutrido com as palavras da fé e da boa doutrina que tens seguido.",
+      "reference": "1Tm 4:6"
+    },
+    "7": {
+      "text": "Rejeita, porém, as fábulas ímpias, coisas de pessoas caducas. Exercita-te na piedade.",
+      "reference": "1Tm 4:7"
+    },
+    "8": {
+      "text": "A pouco serve o exercício corporal, ao passo que a piedade é proveitosa a tudo, pois contém a promessa da vida presente e futura.",
+      "reference": "1Tm 4:8"
+    },
+    "9": {
+      "text": "Fiel é esta palavra digna de toda aceitação.",
+      "reference": "1Tm 4:9"
+    },
+    "10": {
+      "text": "Pois se nós trabalhamos e lutamos, é porque colocamos a nossa esperança no Deus vivo, Salvador de todos os homens, sobretudo dos que têm fé.",
+      "reference": "1Tm 4:10"
+    },
+    "11": {
+      "text": "Eis o que deves prescrever e ensinar. \\par",
+      "reference": "1Tm 4:11"
+    },
+    "12": {
+      "text": "Que ninguém despreze a tua jovem idade. Quanto a ti, sê para os fiéis um modelo na palavra, na conduta, na caridade, na fé, na pureza.",
+      "reference": "1Tm 4:12"
+    },
+    "13": {
+      "text": "Esperando a minha chegada, aplica-te à leitura, à exortação, à instrução.",
+      "reference": "1Tm 4:13"
+    },
+    "14": {
+      "text": "Não descuides do dom da graça que há em ti, que te foi conferido mediante profecia, junto com a imposição das mãos do presbitério.",
+      "reference": "1Tm 4:14"
+    },
+    "15": {
+      "text": "Desvela-te por estas coisas, nelas persevera, a fim de que a todos seja manifesto o teu progresso.",
+      "reference": "1Tm 4:15"
+    },
+    "16": {
+      "text": "Vigia a ti mesmo e a doutrina. Persevera nestas disposições porque, assim fazendo, salvarás a ti mesmo e aos teus ouvintes. \\par",
+      "reference": "1Tm 4:16"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 16
+}

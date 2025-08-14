@@ -1,0 +1,185 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As vestimentas dos sacerdotes\\par }Farás aproximar de ti, dentre os filhos de Israel, Aarão teu irmão e os seus filhos com ele, para que sejam meus sacerdotes: Aarão, Nadab, Abiú, Eleazar e Itamar, filhos de Aarão.",
+      "reference": "Ex 28:1"
+    },
+    "2": {
+      "text": "Farás para Aarão, teu irmão, vestimentas sagradas para esplendor e ornamento.",
+      "reference": "Ex 28:2"
+    },
+    "3": {
+      "text": "Dirás a todas as pessoas hábeis, a quem enchi de espírito de sabedoria, que façam vestimentas para Aarão, para consagrá-lo ao exercício do meu sacerdócio.",
+      "reference": "Ex 28:3"
+    },
+    "4": {
+      "text": "Eis as vestimentas que farão: um peitoral, um efod, um manto, uma túnica bordada, um turbante e um cinto. Farão vestimentas sagradas para o teu irmão Aarão e para os seus filhos, a fim de que exerçam o meu sacerdócio.",
+      "reference": "Ex 28:4"
+    },
+    "5": {
+      "text": "Empregarão ouro, púrpura violeta, púrpura escarlate, carmesim e linho fino.\\par",
+      "reference": "Ex 28:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i O efod\\par }Farão o efod bordado de ouro, púrpura violeta, púrpura escarlate, carmesim e linho fino retorcido.",
+      "reference": "Ex 28:6"
+    },
+    "7": {
+      "text": "Duas ombreiras nele serão fixadas; ele aí será fixado por suas duas extremidades.",
+      "reference": "Ex 28:7"
+    },
+    "8": {
+      "text": "O cinto que está por cima dele para sustentá-lo, formando uma só peça com ele, será do mesmo trabalho: ouro, púrpura violeta, púrpura escarlate, carmesim e linho fino retorcido.",
+      "reference": "Ex 28:8"
+    },
+    "9": {
+      "text": "Tomarás duas pedras de ônix e gravarás nelas os nomes dos filhos de Israel.",
+      "reference": "Ex 28:9"
+    },
+    "10": {
+      "text": "Seis nomes em uma e os outros seis na outra, por ordem de nascimento.",
+      "reference": "Ex 28:10"
+    },
+    "11": {
+      "text": "Como faz quem trabalha a pedra para a incisão de um selo, gravarás nas duas pedras os nomes dos filhos de Israel, engastadas com ouro ao redor as farás.",
+      "reference": "Ex 28:11"
+    },
+    "12": {
+      "text": "Porás as duas pedras nas ombreiras do efod, como memorial para os filhos de Israel; e Aarão levará os seus nomes sobre os ombros à presença de Iahweh, para memória.",
+      "reference": "Ex 28:12"
+    },
+    "13": {
+      "text": "Farás também engastes de ouro",
+      "reference": "Ex 28:13"
+    },
+    "14": {
+      "text": "e duas correntes de ouro puro, trançadas como um cordão, e fixarás as correntes assim trançadas nos engastes. \\par",
+      "reference": "Ex 28:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i O peitoral\\par }Farás o peitoral do julgamento; tu o farás bordado como o efod, de ouro, púrpura violeta, púrpura escarlate, carmesim e linho fino retorcido.",
+      "reference": "Ex 28:15"
+    },
+    "16": {
+      "text": "Será quadrado e duplo, com um palmo de comprimento e um palmo de largura.",
+      "reference": "Ex 28:16"
+    },
+    "17": {
+      "text": "Colocarás nele engastes de pedras dispostas em quatro filas: uma sardônica, um topázio e uma esmeralda na primeira fileira;",
+      "reference": "Ex 28:17"
+    },
+    "18": {
+      "text": "na segunda: um carbúnculo, uma safira e um diamante;",
+      "reference": "Ex 28:18"
+    },
+    "19": {
+      "text": "a terceira fileira será de jacinto, ágata e ametista;",
+      "reference": "Ex 28:19"
+    },
+    "20": {
+      "text": "na quarta fileira: berilo, ônix e jaspe; elas serão guarnecidas de ouro nos seus engastes.",
+      "reference": "Ex 28:20"
+    },
+    "21": {
+      "text": "As pedras corresponderão aos nomes dos filhos de Israel: doze, como os seus nomes; estarão gravadas como os selos, cada uma com o seu nome segundo as doze tribos.",
+      "reference": "Ex 28:21"
+    },
+    "22": {
+      "text": "Farás para o peitoral correntes trançadas como um cordão, de ouro puro,",
+      "reference": "Ex 28:22"
+    },
+    "23": {
+      "text": "e farás para o peitoral duas argolas de ouro, e as porás nas extremidades do peitoral.",
+      "reference": "Ex 28:23"
+    },
+    "24": {
+      "text": "Passarás as duas correntes de ouro pelas duas argolas, nas extremidades do peitoral.",
+      "reference": "Ex 28:24"
+    },
+    "25": {
+      "text": "Fixarás as duas pontas das correntes nos dois engastes, e as porás nas ombreiras do efod, na sua parte dianteira.",
+      "reference": "Ex 28:25"
+    },
+    "26": {
+      "text": "Farás duas argolas de ouro e as porás nas duas pontas do peitoral, na sua orla interior, junto ao efod.",
+      "reference": "Ex 28:26"
+    },
+    "27": {
+      "text": "Farás igualmente duas argolas de ouro, e as porás nas duas ombreiras do efod, na sua parte inferior dianteira, perto de sua juntura sobre o cinto do efod.",
+      "reference": "Ex 28:27"
+    },
+    "28": {
+      "text": "Prender-se-á o peitoral, através de suas argolas, às argolas do efod, com um cordão de púrpura violeta, para que ele fique por cima do cinto do efod e não possa desprender-se do efod.",
+      "reference": "Ex 28:28"
+    },
+    "29": {
+      "text": "Assim Aarão levará os nomes dos filhos de Israel no peitoral do julgamento, sobre o coração, quando entrar no santuário, para memória diante de Iahweh, continuamente.",
+      "reference": "Ex 28:29"
+    },
+    "30": {
+      "text": "Porás também no peitoral do julgamento o {\\i Urim} e o {\\i Tummim}, para que estejam sobre o coração de Aarão quando entrar na presença de Iahweh, e Aarão levará sobre seu coração o julgamento dos filhos de Israel diante de Iahweh, continuamente. \\par",
+      "reference": "Ex 28:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i O manto\\par }Farás o manto do efod todo de púrpura violeta.",
+      "reference": "Ex 28:31"
+    },
+    "32": {
+      "text": "No meio dele haverá uma abertura para a cabeça; essa abertura será debruada como a abertura de um colete, para que não se rompa.",
+      "reference": "Ex 28:32"
+    },
+    "33": {
+      "text": "Ao redor da sua orla inferior porás romãs de púrpura violeta, púrpura escarlate e carmesim, e linho fino retorcido, e entre elas, em todo o redor, campainhas de ouro.",
+      "reference": "Ex 28:33"
+    },
+    "34": {
+      "text": "Haverá em toda a orla do manto uma campainha de ouro e uma romã, outra campainha de ouro e outra romã.",
+      "reference": "Ex 28:34"
+    },
+    "35": {
+      "text": "Aarão o vestirá para oficiar para que se ouça o seu sonido quando entrar no santuário diante de Iahweh, ou quando sair, e assim não morra. \\par",
+      "reference": "Ex 28:35"
+    },
+    "36": {
+      "text": "\\par {\\qc\\b\\i O sinal da consagração\\par }Farás uma flor de ouro puro, na qual gravarás, como se gravam os selos: ‘Consagrado a Iahweh’.",
+      "reference": "Ex 28:36"
+    },
+    "37": {
+      "text": "Atá-la-ás com um cordão de púrpura violeta, de maneira que esteja sobre o turbante: deverá estar na sua parte dianteira.",
+      "reference": "Ex 28:37"
+    },
+    "38": {
+      "text": "Ela estará sobre a fronte de Aarão, e Aarão carregará a iniqüidade concernente às coisas santas, que os filhos de Israel consagrarão em todas as suas santas oferendas. Estará continuamente sobre a sua fronte, para obter para eles favor diante de Iahweh.",
+      "reference": "Ex 28:38"
+    },
+    "39": {
+      "text": "Tecerás uma túnica de linho fino, farás um turbante de linho fino e um cinto com trabalho de bordador. \\par",
+      "reference": "Ex 28:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i Vestimentas dos sacerdotes\\par }Para os filhos de Aarão farás túnicas e cintos. Far-lhe-ás também barretes para esplendor e ornamento.",
+      "reference": "Ex 28:40"
+    },
+    "41": {
+      "text": "E com isso vestirás a Aarão, teu irmão, bem como a seus filhos. Depois os ungirás, dar-lhe-ás a investidura e os consagrarás para que exerçam o meu sacerdócio.",
+      "reference": "Ex 28:41"
+    },
+    "42": {
+      "text": "Faze-lhes também calções de linho para cobrir a sua nudez: irão da cintura às coxas.",
+      "reference": "Ex 28:42"
+    },
+    "43": {
+      "text": "Aarão e seus filhos os vestirão quando entrarem na Tenda da Reunião, ou quando se aproximarem do altar para ministrar no santuário, a fim de não incorrerem em pecado e não morrerem. Isto será um decreto perpétuo para Aarão e para a sua posteridade depois dele. \\par",
+      "reference": "Ex 28:43"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 43
+}

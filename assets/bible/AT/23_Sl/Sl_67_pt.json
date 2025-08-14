@@ -1,0 +1,45 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 67,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 67 (66)\\par }{\\qc\\b\\i Prece coletiva após a colheita anual\\par }{\\qc\\i Do mestre de canto. Com instrumentos de corda. Salmo. Cântico. \\par }",
+      "reference": "Sl 67:1"
+    },
+    "2": {
+      "text": "Deus tenha piedade de nós e nos abençoe, \\par fazendo sua face brilhar sobre nós, {\\i Pausa} \\par",
+      "reference": "Sl 67:2"
+    },
+    "3": {
+      "text": "para que se conheça o teu caminho sobre a terra, \\par em todas as nações a tua salvação. \\par",
+      "reference": "Sl 67:3"
+    },
+    "4": {
+      "text": "Que os povos te celebrem, ó Deus, \\par que os povos todos te celebrem. \\par",
+      "reference": "Sl 67:4"
+    },
+    "5": {
+      "text": "Que as nações se alegrem e exultem, \\par porque julgas o mundo com justiça, \\par julgas os povos com retidão, \\par e sobre a terra governas as nações. {\\i Pausa} \\par",
+      "reference": "Sl 67:5"
+    },
+    "6": {
+      "text": "Que os povos te celebrem, ó Deus, \\par que os povos todos te celebrem. \\par",
+      "reference": "Sl 67:6"
+    },
+    "7": {
+      "text": "A terra produziu o seu fruto: \\par Deus, o nosso Deus, nos abençoa. \\par",
+      "reference": "Sl 67:7"
+    },
+    "8": {
+      "text": "Que Deus nos abençoe, \\par e todos os confins da terra o temerão! \\par",
+      "reference": "Sl 67:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

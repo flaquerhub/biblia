@@ -1,0 +1,133 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "A zombaria está no vinho, e a insolência na bebida! \\par Quem nisso se perde não chega a ser sábio. \\par",
+      "reference": "Pv 20:1"
+    },
+    "2": {
+      "text": "A cólera do rei é rugido de leão! \\par Quem a excita peca contra si mesmo. \\par",
+      "reference": "Pv 20:2"
+    },
+    "3": {
+      "text": "É uma honra para o homem evitar um processo, \\par mas o estulto se enreda em disputas. \\par",
+      "reference": "Pv 20:3"
+    },
+    "4": {
+      "text": "No outono o preguiçoso não trabalha, \\par na colheita procura e nada encontra. \\par",
+      "reference": "Pv 20:4"
+    },
+    "5": {
+      "text": "Água profunda é o conselho no coração do homem, \\par o homem inteligente tem apenas que hauri-la. \\par",
+      "reference": "Pv 20:5"
+    },
+    "6": {
+      "text": "Muitos se dizem homens fiéis, \\par mas quem encontrará um homem leal? \\par",
+      "reference": "Pv 20:6"
+    },
+    "7": {
+      "text": "O justo que se comporta honestamente: \\par felizes seus filhos depois dele! \\par",
+      "reference": "Pv 20:7"
+    },
+    "8": {
+      "text": "Um rei que se assenta no tribunal \\par dissipa todo mal por seu olhar. \\par",
+      "reference": "Pv 20:8"
+    },
+    "9": {
+      "text": "Quem pode dizer: “Purifiquei meu coração, \\par do meu pecado estou puro”? \\par",
+      "reference": "Pv 20:9"
+    },
+    "10": {
+      "text": "Dois pesos e duas medidas: \\par ambos são abominação para Iahweh. \\par",
+      "reference": "Pv 20:10"
+    },
+    "11": {
+      "text": "Mesmo por seus atos um jovem se dá a conhecer, \\par se sua ação é pura ou se ela é correta. \\par",
+      "reference": "Pv 20:11"
+    },
+    "12": {
+      "text": "O ouvido que ouve, o olho que vê, \\par Iahweh os fez a ambos. \\par",
+      "reference": "Pv 20:12"
+    },
+    "13": {
+      "text": "Não ames o sono, porque ficarás pobre: \\par fica de olhos abertos e te saciarás de pão. \\par",
+      "reference": "Pv 20:13"
+    },
+    "14": {
+      "text": "“Mau, mau”, diz o comprador, \\par e depois vai-se gabando da compra. \\par",
+      "reference": "Pv 20:14"
+    },
+    "15": {
+      "text": "Mesmo que tenhas ouro e pérolas, \\par o mais precioso são os lábios com conhecimento. \\par",
+      "reference": "Pv 20:15"
+    },
+    "16": {
+      "text": "Ao fiador de um estrangeiro tiram-lhe a roupa, \\par e fica empenhado por um estranho. \\par",
+      "reference": "Pv 20:16"
+    },
+    "17": {
+      "text": "Parece doce o pão da fraude, \\par mas depois a boca fica cheia de areia. \\par",
+      "reference": "Pv 20:17"
+    },
+    "18": {
+      "text": "No conselho se consolidam os projetos: \\par faze a guerra com cálculos sábios. \\par",
+      "reference": "Pv 20:18"
+    },
+    "19": {
+      "text": "O que anda falando revela o segredo, \\par não te ajuntes com o de lábios fáceis! \\par",
+      "reference": "Pv 20:19"
+    },
+    "20": {
+      "text": "Quem maldiz pai e mãe \\par verá apagar-se a sua lâmpada no coração das trevas. \\par",
+      "reference": "Pv 20:20"
+    },
+    "21": {
+      "text": "Fortuna que começa muito depressa, \\par no final não será abençoada. \\par",
+      "reference": "Pv 20:21"
+    },
+    "22": {
+      "text": "Não digas: vingar-me-ei do mal; \\par espera por Iahweh e ele te salvará. \\par",
+      "reference": "Pv 20:22"
+    },
+    "23": {
+      "text": "Abominação para Iahweh: dois pesos; \\par e balança falsa não é boa. \\par",
+      "reference": "Pv 20:23"
+    },
+    "24": {
+      "text": "Iahweh dirige os passos do homem: \\par como, pois, poderá o homem compreender o seu caminho? \\par",
+      "reference": "Pv 20:24"
+    },
+    "25": {
+      "text": "É armadilha para o homem gritar: “É santo!” \\par e só refletir depois de fazer o voto. \\par",
+      "reference": "Pv 20:25"
+    },
+    "26": {
+      "text": "Um rei sábio joeira os ímpios \\par e faz passar sobre eles a roda. \\par",
+      "reference": "Pv 20:26"
+    },
+    "27": {
+      "text": "A lâmpada de Iahweh é o espírito do homem, \\par a qual esquadrinha o mais íntimo do corpo. \\par",
+      "reference": "Pv 20:27"
+    },
+    "28": {
+      "text": "Amor e Fidelidade preservam o rei; \\par ele sustenta no amor o seu trono. \\par",
+      "reference": "Pv 20:28"
+    },
+    "29": {
+      "text": "A beleza dos jovens é o seu vigor, \\par e o enfeite dos velhos, suas cãs. \\par",
+      "reference": "Pv 20:29"
+    },
+    "30": {
+      "text": "Os vergões das feridas purificam do mal, \\par e os açoites, o mais íntimo do corpo. \\par",
+      "reference": "Pv 20:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

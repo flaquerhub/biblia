@@ -1,0 +1,85 @@
+{
+  "book": 47,
+  "book_name": "2Coríntios",
+  "book_abbr": "2Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Corinthians",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Por isto, já que por misericórdia fomos revestidos de tal ministério, não perdemos a coragem.",
+      "reference": "2Co 4:1"
+    },
+    "2": {
+      "text": "Dissemos “não” aos procedimentos secretos e vergonhosos; procedemos sem astúcia e não falsificamos a palavra de Deus. Muito ao contrário, pela manifestação da verdade recomendamo-nos à consciência de cada homem diante de Deus.",
+      "reference": "2Co 4:2"
+    },
+    "3": {
+      "text": "Por conseguinte, se o nosso evangelho permanece velado, está velado para aqueles que se perdem,",
+      "reference": "2Co 4:3"
+    },
+    "4": {
+      "text": "para os incrédulos, dos quais o deus deste mundo obscureceu a inteligência, a fim de que não vejam brilhar a luz do evangelho da glória de Cristo, que é a imagem de Deus.",
+      "reference": "2Co 4:4"
+    },
+    "5": {
+      "text": "Não pregamos a nós mesmos, mas a Cristo Jesus, Senhor. Quanto a nós mesmos, apresentamo-nos como vossos servos por causa de Jesus.",
+      "reference": "2Co 4:5"
+    },
+    "6": {
+      "text": "Porquanto Deus, que disse: {\\i Do meio das trevas brilhe a luz}!, foi ele mesmo quem reluziu em nossos corações, para fazer brilhar o conhecimento da glória de Deus, que resplandece na face de Cristo. \\par",
+      "reference": "2Co 4:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Tribulações e esperanças do ministério\\par }Trazemos, porém, este tesouro em vasos de argila, para que esse incomparável poder seja de Deus e não de nós.",
+      "reference": "2Co 4:7"
+    },
+    "8": {
+      "text": "Somos atribulados por todos os lados, mas não esmagados; postos em extrema dificuldade, mas não vencidos pelos impasses;",
+      "reference": "2Co 4:8"
+    },
+    "9": {
+      "text": "perseguidos, mas não abandonados; prostrados por terra, mas não aniquilados.",
+      "reference": "2Co 4:9"
+    },
+    "10": {
+      "text": "Incessantemente e por toda parte trazemos em nosso corpo a agonia de Jesus, a fim de que a vida de Jesus seja também manifestada em nosso corpo.",
+      "reference": "2Co 4:10"
+    },
+    "11": {
+      "text": "Com efeito, nós embora vivamos, somos sempre entregues à morte por causa de Jesus, a fim de que também a vida de Jesus seja manifestada em nossa carne mortal.",
+      "reference": "2Co 4:11"
+    },
+    "12": {
+      "text": "Assim a morte trabalha em nós; a vida, porém, em vós. \\par",
+      "reference": "2Co 4:12"
+    },
+    "13": {
+      "text": "Por conseguinte, tendo o mesmo espírito de fé a respeito do qual está escrito: {\\i Acreditei, por isto falei}, cremos também nós, e por isto falamos.",
+      "reference": "2Co 4:13"
+    },
+    "14": {
+      "text": "Pois sabemos que aquele que ressuscitou o Senhor Jesus ressuscitará também a nós com Jesus e nos colocará ao lado dele, juntamente convosco.",
+      "reference": "2Co 4:14"
+    },
+    "15": {
+      "text": "E tudo isto se realiza em vosso favor, para que a graça, multiplicando-se entre muitos, faça transbordar a ação de graças para a glória de Deus. \\par",
+      "reference": "2Co 4:15"
+    },
+    "16": {
+      "text": "Por isto não nos deixamos abater. Pelo contrário, embora em nós o homem exterior vá caminhando para a sua ruína, o homem interior se renova dia-a-dia.",
+      "reference": "2Co 4:16"
+    },
+    "17": {
+      "text": "Pois nossas tribulações momentâneas são leves em relação ao peso eterno de glória que elas nos preparam até o excesso.",
+      "reference": "2Co 4:17"
+    },
+    "18": {
+      "text": "Não olhamos para as coisas que se vêem, mas para as que não se vêem; pois o que se vê é transitório, mas o que não se vê é eterno. \\par",
+      "reference": "2Co 4:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

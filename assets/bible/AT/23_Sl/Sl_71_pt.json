@@ -1,0 +1,109 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 71,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 71 (70)\\par }{\\qc\\b\\i Súplica de um ancião\\par }Iahweh eu me abrigo em ti: \\par que eu nunca fique envergonhado! \\par",
+      "reference": "Sl 71:1"
+    },
+    "2": {
+      "text": "Salva-me, por tua justiça! Liberta-me! \\par Inclina depressa teu ouvido para mim! \\par",
+      "reference": "Sl 71:2"
+    },
+    "3": {
+      "text": "Sê pra mim uma rocha hospitaleira, \\par sempre acessível; \\par tu decidiste salvar-me, \\par pois meu rochedo e muralha és tu. \\par",
+      "reference": "Sl 71:3"
+    },
+    "4": {
+      "text": "Deus meu, liberta-me da mão do ímpio, \\par do punho do criminoso e do violento. \\par",
+      "reference": "Sl 71:4"
+    },
+    "5": {
+      "text": "Pois minha esperança és tu, Senhor, \\par Iahweh é minha confiança desde a juventude. \\par",
+      "reference": "Sl 71:5"
+    },
+    "6": {
+      "text": "Desde o seio tu és o meu apoio, \\par tu és minha parte desde as entranhas maternas, \\par em ti está continuamente o meu louvor. \\par",
+      "reference": "Sl 71:6"
+    },
+    "7": {
+      "text": "Para muitos eu me tornava um prodígio, \\par tu, porém, és meu abrigo seguro. \\par",
+      "reference": "Sl 71:7"
+    },
+    "8": {
+      "text": "Minha boca está cheia do teu louvor, \\par do teu esplendor, todo o dia. \\par",
+      "reference": "Sl 71:8"
+    },
+    "9": {
+      "text": "Não me rejeites no tempo da velhice, \\par não me abandones quando meu vigor se extingue! \\par",
+      "reference": "Sl 71:9"
+    },
+    "10": {
+      "text": "Pois meus inimigos falam de mim, \\par juntos planejam os que espreitam minha vida! \\par",
+      "reference": "Sl 71:10"
+    },
+    "11": {
+      "text": "“Deus o abandonou, persegui-o! \\par Agarrai-o, pois não há quem o salve!” \\par",
+      "reference": "Sl 71:11"
+    },
+    "12": {
+      "text": "Ó Deus, não fiques longe de mim! \\par Deus meu, vem socorrer-me depressa! \\par",
+      "reference": "Sl 71:12"
+    },
+    "13": {
+      "text": "Fiquem envergonhados e arruinados \\par os que perseguem minha vida; \\par fiquem cobertos de ultraje e desonra \\par os que buscam o mal contra mim. \\par",
+      "reference": "Sl 71:13"
+    },
+    "14": {
+      "text": "Quanto a mim, eu espero sem cessar, \\par continuando o teu louvor; \\par",
+      "reference": "Sl 71:14"
+    },
+    "15": {
+      "text": "minha boca narrará tua justiça, \\par todo o dia a tua salvação. \\par",
+      "reference": "Sl 71:15"
+    },
+    "16": {
+      "text": "Eu virei com o poder de Iahweh, \\par para recordar tua única justiça. \\par",
+      "reference": "Sl 71:16"
+    },
+    "17": {
+      "text": "Ó Deus, tu me ensinaste desde a minha juventude, \\par e até aqui eu anuncio tuas maravilhas. \\par",
+      "reference": "Sl 71:17"
+    },
+    "18": {
+      "text": "E agora, velho e encanecido, \\par não me abandones, ó Deus, \\par até que eu anuncie teu braço às gerações futuras, \\par teu poder",
+      "reference": "Sl 71:18"
+    },
+    "19": {
+      "text": "e tua justiça, ó Deus, até às nuvens! \\par Tu realizaste coisas grandiosas: \\par ó Deus, quem é como tu? \\par",
+      "reference": "Sl 71:19"
+    },
+    "20": {
+      "text": "Fizeste-me ver tantas angústias e males, \\par tu voltarás para dar-me vida, \\par voltarás para tirar-me dos abismos da terra, \\par",
+      "reference": "Sl 71:20"
+    },
+    "21": {
+      "text": "aumentarás minha grandeza, e me consolarás de novo. \\par",
+      "reference": "Sl 71:21"
+    },
+    "22": {
+      "text": "Quanto a mim, vou celebrar-te com a cítara, \\par por tua verdade, meu Deus; \\par vou tocar harpa em tua honra, \\par ó Santo de Israel! \\par",
+      "reference": "Sl 71:22"
+    },
+    "23": {
+      "text": "Que meus lábios exultem, quando eu tocar para ti, \\par e também minha vida, porque a resgataste! \\par",
+      "reference": "Sl 71:23"
+    },
+    "24": {
+      "text": "Tambem minha língua todo o dia \\par medita a tua justiça, \\par pois foram envergonhados e confundidos \\par os que buscam o mal contra mim! \\par",
+      "reference": "Sl 71:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

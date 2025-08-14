@@ -1,0 +1,141 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os porteiros\\par }Eis as classes dos porteiros: Dos coreítas: Meselemias, filho de Coré, um dos filhos de Abiasaf.",
+      "reference": "1Cr 26:1"
+    },
+    "2": {
+      "text": "Foram filhos de Meselemias: Zacarias, o primeiro, Jediel, o segundo, Zabadias, o terceiro, Jatanael, o quarto,",
+      "reference": "1Cr 26:2"
+    },
+    "3": {
+      "text": "Elam, o quinto, Joanã, o sexto, Elioenai, o sétimo. \\par",
+      "reference": "1Cr 26:3"
+    },
+    "4": {
+      "text": "Foram filhos de Obed-Edom: Semeías, o mais velho. Jozabad, o segundo, Joaá, o terceiro, Sacar, o quarto, Natanael, o quinto,",
+      "reference": "1Cr 26:4"
+    },
+    "5": {
+      "text": "Amiel, o sexto, Issacar, o sétimo, Folati, o oitavo; com efeito, Deus o havia abençoado.",
+      "reference": "1Cr 26:5"
+    },
+    "6": {
+      "text": "A seu filho Semeías nasceram filhos que tiveram autoridade sobre suas famílias, pois eram homens valentes.",
+      "reference": "1Cr 26:6"
+    },
+    "7": {
+      "text": "Filhos de Semeías: Otni, Rafael, Obed, Elzabad, e seus irmãos Eliú e Samaquias, homens de valor.",
+      "reference": "1Cr 26:7"
+    },
+    "8": {
+      "text": "Todos esses eram filhos de Obed-Edom. Eles, seus filhos e irmãos, todos muito hábeis na sua função, somavam sessenta e dois, da linhagem de Obed-Edom. \\par",
+      "reference": "1Cr 26:8"
+    },
+    "9": {
+      "text": "Meselemias teve filhos e irmãos: dezoito homens valentes. \\par",
+      "reference": "1Cr 26:9"
+    },
+    "10": {
+      "text": "Hosa, um dos filhos de Merari, teve os seguintes filhos: Semri, que era o primeiro, porque, embora não fosse o mais velho, seu pai o nomeara chefe.",
+      "reference": "1Cr 26:10"
+    },
+    "11": {
+      "text": "Helcias era o segundo, Tebelias, o terceiro, Zacarias o quarto. Eram treze, ao todo, os filhos e irmãos de Hosa. \\par",
+      "reference": "1Cr 26:11"
+    },
+    "12": {
+      "text": "A essas ordens de porteiros, a seus chefes e a seus irmãos, foi confiada a guarda para o serviço da casa de Iahweh.",
+      "reference": "1Cr 26:12"
+    },
+    "13": {
+      "text": "Para cada porta tiraram-se sorte por famílias, quer pequenas quer grandes.",
+      "reference": "1Cr 26:13"
+    },
+    "14": {
+      "text": "O lado do oriente coube por sorte a Selemias, cujo filho Zacarias dava conselhos prudentes. Tiraram-se as sortes e o norte coube a este último.",
+      "reference": "1Cr 26:14"
+    },
+    "15": {
+      "text": "A Obed-Edom coube o sul, e a casa dos armazéns a seus filhos.",
+      "reference": "1Cr 26:15"
+    },
+    "16": {
+      "text": "A Sefim e a Hosa coube o oeste com a porta do Tronco abatido, no caminho que sobe. Estes corpos de guarda se correspondiam uns aos outros:",
+      "reference": "1Cr 26:16"
+    },
+    "17": {
+      "text": "seis por dia a leste, quatro por dia ao norte, quatro por dia ao sul, e dois de cada vez nos armazéns;",
+      "reference": "1Cr 26:17"
+    },
+    "18": {
+      "text": "no Parbar, a oeste: quatro na rua, dois no Parbar.",
+      "reference": "1Cr 26:18"
+    },
+    "19": {
+      "text": "Tais eram as classes de porteiros entre os coreítas e os meraritas. \\par",
+      "reference": "1Cr 26:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Outras funções levíticas\\par }Os levitas, seus irmãos, eram responsáveis pelos tesouros do Templo de Deus e pelos tesouros das oferendas consagradas. \\par",
+      "reference": "1Cr 26:20"
+    },
+    "21": {
+      "text": "Os filhos de Leedã, filhos de Gérson por Leedã, tinham os jaielitas por chefes das famílias de Leedã, o gersonita.",
+      "reference": "1Cr 26:21"
+    },
+    "22": {
+      "text": "Os jaielitas, Zatam e Joel, seu irmão, eram responsáveis pelos tesouros do Templo de Iahweh. \\par",
+      "reference": "1Cr 26:22"
+    },
+    "23": {
+      "text": "Quanto aos amramitas, isaaritas, hebronitas e ozielitas:",
+      "reference": "1Cr 26:23"
+    },
+    "24": {
+      "text": "Subael, filho de Gersam, filho de Moisés, era chefe responsável pelos tesouros.",
+      "reference": "1Cr 26:24"
+    },
+    "25": {
+      "text": "Seus irmãos pela linha de Eliezer: Roobias, seu filho, Isaías, seu filho, Jorão, seu filho, Zecri, seu filho e Salomit, seu filho.",
+      "reference": "1Cr 26:25"
+    },
+    "26": {
+      "text": "Este Salomit e seus irmãos eram responsáveis por todos os tesouros das oferendas consagradas pelo rei Davi e pelos chefes de famílias, pelos chefes de esquadrões de mil e de cem e pelos chefes do exército;",
+      "reference": "1Cr 26:26"
+    },
+    "27": {
+      "text": "(eles os haviam consagrado, tomando-os dos despojos de guerra para enriquecer o Templo de Iahweh),",
+      "reference": "1Cr 26:27"
+    },
+    "28": {
+      "text": "como também por tudo o que havia sido consagrado por Samuel, o vidente, por Saul, filho de Cis, por Abner, filho de Ner, e por Joab, filho de Sárvia. Tudo o que se consagrava estava sob a responsabilidade de Salomit e seus irmãos. \\par",
+      "reference": "1Cr 26:28"
+    },
+    "29": {
+      "text": "Dentre os isaaritas: Conenias e seus filhos eram encarregados dos negócios profanos em Israel, como escribas e juízes. \\par",
+      "reference": "1Cr 26:29"
+    },
+    "30": {
+      "text": "Dentre os hebronitas: Hasabias e seus irmãos, homens valentes, em número de mil e setecentos, eram responsáveis pela segurança de Israel a oeste do Jordão, por todos os afazeres de Iahweh e pelo serviço do rei.",
+      "reference": "1Cr 26:30"
+    },
+    "31": {
+      "text": "Quanto aos hebronitas, cujo chefe era Jerias, no quadragésimo ano do reinado de Davi fizeram-se pesquisas sobre as genealogias das famílias hebronitas, e encontraram-se entre elas homens de valor em Jazer de Galaad.",
+      "reference": "1Cr 26:31"
+    },
+    "32": {
+      "text": "Quanto aos irmãos de Jerias, dois mil e setecentos guerreiros chefes de famílias, o rei Davi os nomeou inspetores dos rubenitas, dos gaditas e da meia tribo de Manassés, para todos os afazeres de Deus e negócios do rei. \\par",
+      "reference": "1Cr 26:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

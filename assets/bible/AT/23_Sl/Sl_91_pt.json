@@ -1,0 +1,77 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 91,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 91 (90)\\par }{\\qc\\b\\i Sob as asas divinas\\par }Quem habita na proteção do Altíssimo \\par pernoita à sombra de Shaddai, \\par",
+      "reference": "Sl 91:1"
+    },
+    "2": {
+      "text": "dizendo a Iahweh: \\par Meu amigo, minha fortaleza, \\par meu Deus, em quem confio! \\par",
+      "reference": "Sl 91:2"
+    },
+    "3": {
+      "text": "É ele quem te livra do laço \\par do caçador que se ocupa em destruir; \\par",
+      "reference": "Sl 91:3"
+    },
+    "4": {
+      "text": "ele te esconde com suas penas, \\par sob suas asas encontras um abrigo. \\par Sua fidelidade é escudo e couraça. \\par",
+      "reference": "Sl 91:4"
+    },
+    "5": {
+      "text": "Não temerás o terror da noite \\par nem a flecha que voa de dia, \\par",
+      "reference": "Sl 91:5"
+    },
+    "6": {
+      "text": "nem a peste que caminha na treva, \\par nem a epidemia que devasta ao meio dia. \\par",
+      "reference": "Sl 91:6"
+    },
+    "7": {
+      "text": "Caiam mil ao teu lado \\par e dez mil à tua direita, \\par a ti nada atingirá. \\par",
+      "reference": "Sl 91:7"
+    },
+    "8": {
+      "text": "Basta que olhes com teus olhos, \\par para ver o salário dos ímpios, \\par",
+      "reference": "Sl 91:8"
+    },
+    "9": {
+      "text": "tu, que dizes: Iahweh é o meu abrigo, \\par e fazes do Altíssimo teu refúgio. \\par",
+      "reference": "Sl 91:9"
+    },
+    "10": {
+      "text": "A desgraça jamais te atingirá \\par e praga nenhuma chegará à tua tenda: \\par",
+      "reference": "Sl 91:10"
+    },
+    "11": {
+      "text": "pois em teu favor ele ordenou aos seus anjos \\par que te guardem em teus caminhos todos. \\par",
+      "reference": "Sl 91:11"
+    },
+    "12": {
+      "text": "Eles te levarão em suas mãos, \\par para que teus pés não tropecem numa pedra; \\par",
+      "reference": "Sl 91:12"
+    },
+    "13": {
+      "text": "poderás caminhar sobre o leão e a víbora, \\par pisarás o leãozinho e o dragão. \\par",
+      "reference": "Sl 91:13"
+    },
+    "14": {
+      "text": "Porque a mim se apegou, eu o livrarei, \\par eu o protegerei, pois conhece o meu nome. \\par",
+      "reference": "Sl 91:14"
+    },
+    "15": {
+      "text": "Ele me invocará e eu responderei: \\par “Na angústia estarei com ele, \\par eu o livrarei e o glorificarei; \\par",
+      "reference": "Sl 91:15"
+    },
+    "16": {
+      "text": "vou saciá-lo com longos dias \\par e lhe mostrarei a minha salvação”. \\par",
+      "reference": "Sl 91:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

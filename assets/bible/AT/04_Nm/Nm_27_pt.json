@@ -1,0 +1,105 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A herança das filhas\\par }Vieram então as filhas de Salfaad. Este era filho de Héfer, filho de Galaad, filho de Maquir, filho de Manassés; era dos clãs de Manassés, filho de José. Estes são os nomes das suas filhas: Maala, Noa, Hegla, Melca e Tersa.",
+      "reference": "Nm 27:1"
+    },
+    "2": {
+      "text": "Apresentaram-se diante de Moisés, diante de Eleazar, o sacerdote, diante dos príncipes e de toda a comunidade, à entrada da Tenda da Reunião, e disseram:",
+      "reference": "Nm 27:2"
+    },
+    "3": {
+      "text": "“Nosso pai morreu no deserto. Não era do grupo que se formou contra Iahweh, do grupo de Coré; morreu pelo seu próprio pecado e sem ter filhos.",
+      "reference": "Nm 27:3"
+    },
+    "4": {
+      "text": "Por que haveria de desaparecer o nome do nosso pai do seu clã? Visto que ele não teve filhos, dai-nos uma propriedade no meio dos irmãos do nosso pai”. \\par",
+      "reference": "Nm 27:4"
+    },
+    "5": {
+      "text": "Moisés levou o caso delas diante de Iahweh",
+      "reference": "Nm 27:5"
+    },
+    "6": {
+      "text": "e Iahweh falou a Moisés. Disse:",
+      "reference": "Nm 27:6"
+    },
+    "7": {
+      "text": "“As filhas de Salfaad falaram corretamente. Dar-lhes-ás, portanto, uma propriedade que será a herança delas no meio dos irmãos de seu pai; transmitirás a elas a herança do pai.",
+      "reference": "Nm 27:7"
+    },
+    "8": {
+      "text": "Falarás, então, aos filhos de Israel: Se um homem morrer sem deixar filhos, transmitireis a sua herança à sua filha.",
+      "reference": "Nm 27:8"
+    },
+    "9": {
+      "text": "Se não tiver filha, dareis a sua herança aos seus irmãos.",
+      "reference": "Nm 27:9"
+    },
+    "10": {
+      "text": "Se não tiver irmãos, dareis a sua herança aos irmãos de seu pai.",
+      "reference": "Nm 27:10"
+    },
+    "11": {
+      "text": "Se o seu pai não tiver irmãos, dareis a sua herança àquele do seu clã que é o seu parente mais próximo: este tomará posse. Isso será para os filhos de Israel um estatuto de direito, conforme Iahweh ordenou a Moisés”. \\par",
+      "reference": "Nm 27:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Josué, chefe da comunidade\\par }Iahweh disse a Moisés: “Sobe a esta montanha da cadeia dos Abarim e contempla a terra que dei aos filhos de Israel.",
+      "reference": "Nm 27:12"
+    },
+    "13": {
+      "text": "E tendo-a contemplado, serás reunido aos teus, como Aarão, teu irmão.",
+      "reference": "Nm 27:13"
+    },
+    "14": {
+      "text": "Pois fostes rebeldes no deserto de Sin, quando a comunidade contendeu contra mim e eu vos ordenei que manifestásseis diante dela a minha santidade, pela água”. (Estas são as águas de Meriba de Cades, no deserto de Sin). \\par",
+      "reference": "Nm 27:14"
+    },
+    "15": {
+      "text": "Moisés falou a Iahweh e disse:",
+      "reference": "Nm 27:15"
+    },
+    "16": {
+      "text": "“Que Iahweh, Deus dos espíritos que animam toda carne, estabeleça sobre esta comunidade um homem",
+      "reference": "Nm 27:16"
+    },
+    "17": {
+      "text": "que saia e entre à frente dela e que a faça sair e entrar, para que a comunidade de Iahweh não seja como um rebanho sem pastor”.",
+      "reference": "Nm 27:17"
+    },
+    "18": {
+      "text": "Iahweh respondeu a Moisés: “Toma a Josué, filho de Nun, homem em quem está o espírito. Tu lhe imporás a mão.",
+      "reference": "Nm 27:18"
+    },
+    "19": {
+      "text": "Depois traze-o para diante de Eleazar, o sacerdote, e de toda a comunidade, e dá-lhe, diante deles, as tuas ordens",
+      "reference": "Nm 27:19"
+    },
+    "20": {
+      "text": "e comunica-lhe uma parte da tua autoridade, a fim de que toda a comunidade dos filhos de Israel lhe obedeça.",
+      "reference": "Nm 27:20"
+    },
+    "21": {
+      "text": "Ele se apresentará diante do sacerdote Eleazar, que consultará por ele segundo o rito do {\\i Urim,} diante de Iahweh. Sob a sua ordem sairão e entrarão com ele todos os filhos de Israel, toda a comunidade”. \\par",
+      "reference": "Nm 27:21"
+    },
+    "22": {
+      "text": "Moisés fez conforme Iahweh lhe ordenara. Tomou Josué e o trouxe para diante de Eleazar, o sacerdote, e de toda a comunidade;",
+      "reference": "Nm 27:22"
+    },
+    "23": {
+      "text": "impôs-lhe as mãos e transmitiu-lhe as suas ordens, conforme Iahweh dissera por intermédio de Moisés. \\par",
+      "reference": "Nm 27:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

@@ -1,0 +1,77 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 49,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Josias\\par }A lembrança de Josias é uma mistura de incenso, \\par preparada pelos cuidados de um perfumista; \\par é como mel, doce em todas as bocas, \\par como a música em meio a um banquete. \\par",
+      "reference": "Eclo 49:1"
+    },
+    "2": {
+      "text": "Ele mesmo tomou o bom caminho, o de converter o povo, \\par extirpou a impiedade abominável. \\par",
+      "reference": "Eclo 49:2"
+    },
+    "3": {
+      "text": "Encaminhou seu coração para o Senhor, \\par em dias de impiedade fez prevalecer a piedade. \\par",
+      "reference": "Eclo 49:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Últimos reis e últimos profetas\\par }Exceto Davi, Ezequias e Josias, \\par todos multiplicaram as transgressões \\par porque abandonaram a lei do Altíssimo: \\par os reis de Judá desapareceram. \\par",
+      "reference": "Eclo 49:4"
+    },
+    "5": {
+      "text": "Porque eles entregaram seu vigor a outros \\par e sua glória a uma nação estrangeira. \\par",
+      "reference": "Eclo 49:5"
+    },
+    "6": {
+      "text": "Os inimigos incendiaram a cidade santa eleita, \\par reduziram suas ruas a deserto, \\par",
+      "reference": "Eclo 49:6"
+    },
+    "7": {
+      "text": "segundo a palavra de Jeremias. Porque eles o maltrataram, \\par a ele, consagrado profeta desde o seio materno, \\par {\\i para erradicar,} destruir {\\i e arruinar,} \\par mas também {\\i para construir e para plantar.}\\par",
+      "reference": "Eclo 49:7"
+    },
+    "8": {
+      "text": "Ezequiel contemplou uma visão de glória, \\par que Deus lhe mostrou sobre o carro dos querubins, \\par",
+      "reference": "Eclo 49:8"
+    },
+    "9": {
+      "text": "porque ele fez menção de inimigos na tempestade \\par para favorecer os que seguiam o caminho reto. \\par",
+      "reference": "Eclo 49:9"
+    },
+    "10": {
+      "text": "Quanto aos doze profetas, \\par que seus ossos floresçam no sepulcro, \\par porque eles consolaram Jacó, \\par eles o resgataram na fé e na esperança. \\par",
+      "reference": "Eclo 49:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Zorobabel e Josué\\par }Como fazer o elogio de Zorobabel? \\par Ele é como um selo na mão direita, \\par",
+      "reference": "Eclo 49:11"
+    },
+    "12": {
+      "text": "e como Josué, filho de Josedec, \\par os quais, nos seus dias, construíram o Templo \\par e fizeram subir em direção do Senhor um povo santo, \\par destinado a uma glória eterna. \\par",
+      "reference": "Eclo 49:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Neemias\\par }De Neemias a lembrança é grande, \\par ele que reergueu para nós os muros em ruína, \\par assentou portas e ferrolhos \\par e reergueu nossas habitações. \\par",
+      "reference": "Eclo 49:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Recapitulação\\par }Ninguém sobre a terra foi criado igual a Henoc, \\par ele que foi arrebatado da terra. \\par",
+      "reference": "Eclo 49:14"
+    },
+    "15": {
+      "text": "Também não se viu nascer um homem como José, \\par chefe dos irmãos, sustentáculo do povo; \\par seus ossos foram visitados. \\par",
+      "reference": "Eclo 49:15"
+    },
+    "16": {
+      "text": "Sem e Set foram glorificados entre os homens \\par mas acima de todo ser vivente está Adão. \\par",
+      "reference": "Eclo 49:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

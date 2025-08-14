@@ -1,0 +1,177 @@
+{
+  "book": 12,
+  "book_name": "2Reis",
+  "book_abbr": "2Rs",
+  "book_category": "Histórico",
+  "book_english": "2 Kings",
+  "testament": "AT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Reinado de Oséias em Israel (732-724)\\par }No décimo segundo ano de Acaz, rei de Judá, Oséias, filho de Ela, tornou-se rei de Israel em Samaria e reinou nove anos.",
+      "reference": "2Rs 17:1"
+    },
+    "2": {
+      "text": "Fez o mal aos olhos de Iahweh, mas não como os reis de Israel seus predecessores. \\par",
+      "reference": "2Rs 17:2"
+    },
+    "3": {
+      "text": "Salmanasar, rei de Assíria, marchou contra Oséias e este submeteu-se a ele, pagando-lhe tributo.",
+      "reference": "2Rs 17:3"
+    },
+    "4": {
+      "text": "Mas o rei da Assíria descobriu que Oséias o traía: é que este havia mandado mensageiros a Sais, rei do Egito, e tinha deixado de pagar o tributo ao rei da Assíria, como o fazia todo ano. Então o rei da Assíria mandou encarcerá-lo e prendê-lo com grilhões. \\par",
+      "reference": "2Rs 17:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Tomada de Samaria (721)\\par }Depois, o rei da Assíria invadiu toda a terra e pôs cerco a Samaria durante três anos.",
+      "reference": "2Rs 17:5"
+    },
+    "6": {
+      "text": "No nono ano de Oséias, o rei da Assíria tomou Samaria e deportou Israel para a Assíria, estabelecendo-o em Hala e às margens do Habor, rio de Gozã, e nas cidades dos medos. \\par",
+      "reference": "2Rs 17:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Reflexões sobre a ruína do reino de Israel\\par }Isso aconteceu porque os filhos de Israel pecaram contra Iahweh seu Deus, que os fizera subir da terra do Egito, libertando-os da opressão do Faraó, rei do Egito. Adoraram outros deuses",
+      "reference": "2Rs 17:7"
+    },
+    "8": {
+      "text": "e seguiram os costumes das nações que Iahweh havia expulsado de diante deles.",
+      "reference": "2Rs 17:8"
+    },
+    "9": {
+      "text": "Os filhos de Israel proferiram palavras inconvenientes contra Iahweh seu Deus, construíram para si lugares altos em todas as cidades onde moravam, desde as torres de vigia até as cidades fortificadas.",
+      "reference": "2Rs 17:9"
+    },
+    "10": {
+      "text": "Erigiram para si estelas e postes sagrados sobre toda colina elevada e debaixo de toda árvore verdejante.",
+      "reference": "2Rs 17:10"
+    },
+    "11": {
+      "text": "Sacrificaram em todos os lugares altos, imitando as nações que Iahweh havia expulsado de diante deles, e cometeram ações más, provocando a ira de Iahweh.",
+      "reference": "2Rs 17:11"
+    },
+    "12": {
+      "text": "Prestaram culto aos ídolos, embora Iahweh lhes houvesse dito: Vós não fareis tal coisa”. \\par",
+      "reference": "2Rs 17:12"
+    },
+    "13": {
+      "text": "No entanto, Iahweh tinha feito esta advertência a Israel e a Judá, por meio de todos os profetas e videntes: “Convertei-vos de vossa má conduta e observai meus mandamentos e meus estatutos, conforme toda a Lei que prescrevi a vossos pais e que lhes comuniquei por intermédio de meus servos, os profetas”.",
+      "reference": "2Rs 17:13"
+    },
+    "14": {
+      "text": "Mas eles não obedeceram e endureceram a sua cerviz mais do que o haviam feito seus pais, que não tinham acreditado em Iahweh seu Deus.",
+      "reference": "2Rs 17:14"
+    },
+    "15": {
+      "text": "Desprezaram seus estatutos, bem como a aliança que ele havia concluído com seus pais, e as ordens que lhes havia dado. Correndo atrás da Vaidade, eles próprios se tornaram vaidade, como as nações ao redor, apesar de Iahweh lhes ter ordenado que não agissem como elas.",
+      "reference": "2Rs 17:15"
+    },
+    "16": {
+      "text": "Rejeitaram todos os mandamentos de Iahweh seu Deus, fabricaram para si estátuas de metal fundido, os dois bezerros de ouro, fizeram um poste sagrado, adoraram todo o exército do céu e prestaram culto a Baal.",
+      "reference": "2Rs 17:16"
+    },
+    "17": {
+      "text": "Fizeram passar pelo fogo seus filhos e filhas, praticaram a adivinhação e a feitiçaria, e venderam-se para fazer o mal na presença de Iahweh, provocando sua ira.",
+      "reference": "2Rs 17:17"
+    },
+    "18": {
+      "text": "Então Iahweh irritou-se sobremaneira contra Israel e arrojou-o para longe de sua face. Restou apenas a tribo de Judá. \\par",
+      "reference": "2Rs 17:18"
+    },
+    "19": {
+      "text": "Judá tampouco guardou os mandamentos de Iahweh seu Deus; seguiu os estatutos que Israel praticava.",
+      "reference": "2Rs 17:19"
+    },
+    "20": {
+      "text": "Por isso, Iahweh rejeitou toda a raça de Israel, humilhou-a e entregou-a aos saqueadores, e enfim baniu-a para longe de sua face.",
+      "reference": "2Rs 17:20"
+    },
+    "21": {
+      "text": "Ele, com efeito, havia separado Israel da casa de Davi e Israel tinha proclamado como rei Jeroboão, filho de Nabat; Jeroboão afastou Israel de Iahweh e levou-o a cometer um grande pecado.",
+      "reference": "2Rs 17:21"
+    },
+    "22": {
+      "text": "Os filhos de Israel imitaram o pecado que Jeroboão cometera e dele não se afastaram,",
+      "reference": "2Rs 17:22"
+    },
+    "23": {
+      "text": "até que finalmente Iahweh baniu Israel de sua presença, como o havia anunciado por intermédio de seus servos, os profetas; deportou Israel para longe de sua terra, para a Assíria, onde está até hoje. \\par",
+      "reference": "2Rs 17:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Origem dos samaritanos\\par }O rei da Assíria mandou vir gente de Babilônia, de Cuta, de Ava, de Emat e de Sefarvaim, e estabeleceu-os nas cidades de Samaria, em lugar dos filhos de Israel; tomaram posse de Samaria e fixaram-se em suas cidades. \\par",
+      "reference": "2Rs 17:24"
+    },
+    "25": {
+      "text": "Quando começaram a se instalar na terra, não veneravam a Iahweh e este mandou contra eles leões, que os matavam.",
+      "reference": "2Rs 17:25"
+    },
+    "26": {
+      "text": "Disseram, pois, ao rei da Assíria: “As populações que deportaste para fixá-las nas cidades de Samaria não conhecem o ritual do deus da terra, e ele mandou leões contra elas. Os leões as matam porque elas não conhecem o ritual do deus da terra”.",
+      "reference": "2Rs 17:26"
+    },
+    "27": {
+      "text": "Então o rei da Assíria ordenou: “Mandai para lá um dos sacerdotes que deportei; que ele se estabeleça lá e lhes ensine o ritual do deus da terra”.",
+      "reference": "2Rs 17:27"
+    },
+    "28": {
+      "text": "Então veio um dos sacerdotes que haviam deportado de Samaria e se fixou em Betel; este ensinava-lhes como deviam venerar a Iahweh. \\par",
+      "reference": "2Rs 17:28"
+    },
+    "29": {
+      "text": "Mas cada nação fabricou para si seus próprios deuses e os colocou nos templos dos lugares altos, que os samaritanos haviam feito; assim fez cada povo nas cidades em que habitou.",
+      "reference": "2Rs 17:29"
+    },
+    "30": {
+      "text": "Os babilônios fizeram uma estátua de Sucot-Benot, os de Cuta, uma de Nergel, os de Emat, uma de Asima,",
+      "reference": "2Rs 17:30"
+    },
+    "31": {
+      "text": "os de Ava, uma de Nebaaz e uma de Tartac, e os de Sefarvaim queimavam seus filhos em honra de Adramelec e de Anamelec, deuses de Sefarvaim.",
+      "reference": "2Rs 17:31"
+    },
+    "32": {
+      "text": "Prestavam culto também a Iahweh e dentre seus homens elegeram sacerdotes, que oficiavam para eles nos templos dos lugares altos.",
+      "reference": "2Rs 17:32"
+    },
+    "33": {
+      "text": "Veneravam a Iahweh e serviam a seus deuses, segundo o costume das nações de onde tinham sido deportados.",
+      "reference": "2Rs 17:33"
+    },
+    "34": {
+      "text": "Seguem ainda hoje seus ritos antigos. \\par Não honravam a Iahweh, nem observavam seus estatutos e suas normas, nem a lei e os mandamentos que Iahweh havia determinado aos filhos de Jacó, a quem dera o nome de Israel.",
+      "reference": "2Rs 17:34"
+    },
+    "35": {
+      "text": "Iahweh concluíra com eles uma aliança e lhes havia dado esta ordem: “Não adorareis outros deuses, nem vos prostrareis diante deles, não lhes prestareis culto e não lhes oferecereis sacrifícios.",
+      "reference": "2Rs 17:35"
+    },
+    "36": {
+      "text": "Mas somente a Iahweh, que vos fez subir da terra do Egito pelo grande poder de seu braço estendido, é que deveis tributar vosso culto, adoração e sacrifícios.",
+      "reference": "2Rs 17:36"
+    },
+    "37": {
+      "text": "Observareis os estatutos e as normas, a lei e os mandamentos que ele vos deu por escrito, a fim de que os guardeis para sempre, e não prestareis culto a outros deuses.",
+      "reference": "2Rs 17:37"
+    },
+    "38": {
+      "text": "Não esqueçais a aliança que concluí convosco e não presteis culto a outros deuses;",
+      "reference": "2Rs 17:38"
+    },
+    "39": {
+      "text": "adorai somente a Iahweh, vosso Deus, e ele vos libertará da mão de todos os vossos inimigos”.",
+      "reference": "2Rs 17:39"
+    },
+    "40": {
+      "text": "Eles, porém, não obedeceram e continuaram a viver segundo seu costume antigo. \\par",
+      "reference": "2Rs 17:40"
+    },
+    "41": {
+      "text": "Assim, essas nações adoravam a Iahweh e prestavam culto a seus ídolos; seus filhos e seus netos continuam até hoje fazendo o que fizeram seus pais. \\par",
+      "reference": "2Rs 17:41"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 41
+}

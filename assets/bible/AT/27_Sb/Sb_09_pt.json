@@ -1,0 +1,85 @@
+{
+  "book": 69,
+  "book_name": "Sabedoria",
+  "book_abbr": "Sb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Wisdom",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Oração para obter a Sabedoria\\par }“Deus dos Pais, Senhor de misericórdia, \\par que tudo criaste com tua palavra \\par",
+      "reference": "Sb 9:1"
+    },
+    "2": {
+      "text": "e com tua Sabedoria formaste o homem \\par para dominar as criaturas que fizeste, \\par",
+      "reference": "Sb 9:2"
+    },
+    "3": {
+      "text": "governar o mundo com justiça e santidade \\par e exercer o julgamento com retidão de vida, \\par",
+      "reference": "Sb 9:3"
+    },
+    "4": {
+      "text": "dá-me a Sabedoria contigo entronizada \\par e não me excluas do número de teus filhos. \\par",
+      "reference": "Sb 9:4"
+    },
+    "5": {
+      "text": "Pois sou teu servo, filho de tua serva, \\par homem frágil, de vida efêmera, \\par incapaz de compreender a justiça e as leis. \\par",
+      "reference": "Sb 9:5"
+    },
+    "6": {
+      "text": "Por mais perfeito que seja alguém entre os filhos dos homens, \\par se lhe falta a Sabedoria que vem de ti, de nada valerá. \\par",
+      "reference": "Sb 9:6"
+    },
+    "7": {
+      "text": "Escolheste-me como rei de teu povo, \\par como juiz de teus filhos e de tuas filhas. \\par",
+      "reference": "Sb 9:7"
+    },
+    "8": {
+      "text": "Mandaste-me construir um templo em teu santo monte \\par e um altar na cidade onde fixaste a tua tenda, \\par cópia da tenda santa que preparaste desde a origem. \\par",
+      "reference": "Sb 9:8"
+    },
+    "9": {
+      "text": "Contigo está a Sabedoria que conhece tuas obras, \\par estava presente quando fazias o mundo; \\par ela sabe o que é agradável a teus olhos \\par e o que é conforme aos teus mandamentos. \\par",
+      "reference": "Sb 9:9"
+    },
+    "10": {
+      "text": "Dos céus sagrados, envia-a, \\par manda-a de teu trono de glória \\par para que me assista nos trabalhos, \\par ensinando-me o que te agrada. \\par",
+      "reference": "Sb 9:10"
+    },
+    "11": {
+      "text": "É ela, que tudo sabe e compreende, \\par prudentemente me guiará em minhas ações \\par e me protegerá com a sua glória. \\par",
+      "reference": "Sb 9:11"
+    },
+    "12": {
+      "text": "Minhas obras serão assim bem acolhidas, \\par julgarei o teu povo com justiça, \\par serei digno do trono de meu pai. \\par",
+      "reference": "Sb 9:12"
+    },
+    "13": {
+      "text": "Pois, que homem conhece o desígnio de Deus? \\par Quem pode conceber a vontade do Senhor? \\par",
+      "reference": "Sb 9:13"
+    },
+    "14": {
+      "text": "Os pensamentos dos mortais são tímidos \\par e falíveis os nossos raciocínios; \\par",
+      "reference": "Sb 9:14"
+    },
+    "15": {
+      "text": "um corpo corruptível pesa sobre a alma \\par e – tenda de argila – oprime a mente pensativa. \\par",
+      "reference": "Sb 9:15"
+    },
+    "16": {
+      "text": "A custo conjeturamos o terrestre, \\par com trabalhos encontramos o que está à mão: \\par mas quem rastreará o que há nos céus? \\par",
+      "reference": "Sb 9:16"
+    },
+    "17": {
+      "text": "Quem conhecerá tua vontade, se não lhe dás Sabedoria \\par enviando dos céus teu santo espírito? \\par",
+      "reference": "Sb 9:17"
+    },
+    "18": {
+      "text": "Somente assim foram retos os caminhos dos terrestres, \\par e os homens aprenderam o que te agrada, \\par e a Sabedoria os salvou”. \\par",
+      "reference": "Sb 9:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

@@ -1,0 +1,77 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Quando eu queria curar Israel, \\par então aparecia a culpa de Efraim \\par e as maldades de Samaria, \\par porque eles praticaram a mentira. \\par Um ladrão entra em casa, \\par enquanto fora, a quadrilha saqueia. \\par",
+      "reference": "Os 7:1"
+    },
+    "2": {
+      "text": "Não dizem em seus corações \\par que eu levo em conta toda a sua maldade! \\par Agora seus próprios atos os cercaram, \\par eles estão diante de mim. \\par",
+      "reference": "Os 7:2"
+    },
+    "3": {
+      "text": "Com sua maldade eles alegram o rei, \\par e com suas mentiras, os príncipes. \\par",
+      "reference": "Os 7:3"
+    },
+    "4": {
+      "text": "Todos eles são adúlteros, \\par são semelhantes a um fogo aceso, \\par que o padeiro deixa de atiçar \\par desde que amassou até que fermente a massa. \\par",
+      "reference": "Os 7:4"
+    },
+    "5": {
+      "text": "No dia de nosso rei, \\par os príncipes ficaram doentes pelo calor do vinho, \\par e ele estendeu a sua mão",
+      "reference": "Os 7:5"
+    },
+    "6": {
+      "text": "aos petulantes quando se aproximaram. \\par Seu coração é como um forno em suas insídias, \\par a noite inteira dorme a sua ira, \\par pela manhã ele arde como uma fogueira. \\par",
+      "reference": "Os 7:6"
+    },
+    "7": {
+      "text": "Todos eles estão quentes como um forno, \\par devoram seus juízes. \\par Todos os seus reis caíram. \\par Não há entre eles quem me invoque! \\par",
+      "reference": "Os 7:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Israel arruinado por apelar ao estrangeiro\\par }Efraim mistura-se com os povos, \\par Efraim é uma fogaça que não foi virada. \\par",
+      "reference": "Os 7:8"
+    },
+    "9": {
+      "text": "Os estrangeiros devoram o seu vigor, \\par mas ele não se dá conta! \\par Até mesmo os cabelos brancos se espalham nele, \\par mas ele não se dá conta. \\par",
+      "reference": "Os 7:9"
+    },
+    "10": {
+      "text": "(O orgulho de Israel testemunha contra ele, \\par mas eles não se convertem a Iahweh, seu Deus, \\par e não o procuram, apesar de tudo isso!) \\par",
+      "reference": "Os 7:10"
+    },
+    "11": {
+      "text": "Efraim é como uma pomba ingênua, sem inteligência, \\par pedem auxílio ao Egito, vão à Assíria. \\par",
+      "reference": "Os 7:11"
+    },
+    "12": {
+      "text": "Enquanto vão, lanço sobre eles a minha rede, \\par eu os abato como pássaros do céu, \\par eu os puno por causa de sua maldade. \\par",
+      "reference": "Os 7:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Ingratidão e castigo de Israel\\par }Ai deles, que fugiram de mim! \\par Desolação para eles, que se rebelaram contra mim! \\par Eu os queria libertar, \\par mas eles proferem mentiras contra mim! \\par",
+      "reference": "Os 7:13"
+    },
+    "14": {
+      "text": "Eles não clamam a mim em seus corações, \\par quando se lamentam em seus leitos. \\par Eles freqüentam Dagã e Tiros, \\par mas se rebelam contra mim. \\par",
+      "reference": "Os 7:14"
+    },
+    "15": {
+      "text": "Eu fortifiquei o seu braço, \\par mas eles maquinam o mal contra mim. \\par",
+      "reference": "Os 7:15"
+    },
+    "16": {
+      "text": "Eles se voltam para o que é nada, \\par são como um arco frouxo. \\par Seus príncipes tombarão pela espada, \\par por causa da insolência de sua língua. \\par Isso é motivo de escárnio para eles na terra do Egito... \\par",
+      "reference": "Os 7:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

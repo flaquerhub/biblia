@@ -1,0 +1,73 @@
+{
+  "book": 64,
+  "book_name": "3João",
+  "book_abbr": "3Jo",
+  "book_category": "Epístolas Joaninas",
+  "book_english": "3 John",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Saudação\\par }O Ancião ao caríssimo Gaio, a quem amo na verdade.",
+      "reference": "3Jo 1:1"
+    },
+    "2": {
+      "text": "Caríssimo, desejo que em tudo prosperes e que a tua saúde corporal seja tão boa como a da tua alma. \\par",
+      "reference": "3Jo 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Elogio a Gaio\\par }Muito me alegrei com a chegada dos irmãos e com o testemunho que deram da tua verdade, isto é, de como vives na verdade.",
+      "reference": "3Jo 1:3"
+    },
+    "4": {
+      "text": "Não há alegria maior para mim do que saber que os meus filhos vivem na verdade. \\par",
+      "reference": "3Jo 1:4"
+    },
+    "5": {
+      "text": "Caríssimo, procedes fielmente agindo assim com teus irmãos, ainda que estrangeiros.",
+      "reference": "3Jo 1:5"
+    },
+    "6": {
+      "text": "Eles deram testemunho da tua caridade diante da Igreja. Farás bem provendo-os do necessário para a viagem, de um modo digno de Deus.",
+      "reference": "3Jo 1:6"
+    },
+    "7": {
+      "text": "É pelo Nome que eles se puseram a caminho, sem nada receber dos gentios.",
+      "reference": "3Jo 1:7"
+    },
+    "8": {
+      "text": "Devemos, pois, acolher esses homens, para que sejamos cooperadores da Verdade. \\par",
+      "reference": "3Jo 1:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Conduta de Diótrefes\\par }Escrevi algumas palavras à Igreja. Mas Diótrefes, que ambiciona o primeiro lugar, não nos recebe.",
+      "reference": "3Jo 1:9"
+    },
+    "10": {
+      "text": "Por isso, se eu for aí, repreenderei a sua conduta, pois ele propaga palavras más contra nós. Não satisfeito com isso, se recusa a receber os irmãos e impede aqueles que o desejam fazer, expulsando-os da Igreja.",
+      "reference": "3Jo 1:10"
+    },
+    "11": {
+      "text": "Caríssimo, não imites o mal, mas o bem. O que faz o bem é de Deus. Quem faz o mal não viu a Deus. \\par",
+      "reference": "3Jo 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Elogio de Demétrio\\par }Quanto a Demétrio, todos dão testemunho dele, inclusive a própria Verdade. Nós também testemunhamos a seu favor, e tu sabes que o nosso testemunho é verdadeiro. \\par",
+      "reference": "3Jo 1:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Epílogo\\par }Teria muitas coisas a te escrever, mas não quero fazê-lo com tinta e pena.",
+      "reference": "3Jo 1:13"
+    },
+    "14": {
+      "text": "Espero ver-te em breve e então falaremos face a face.",
+      "reference": "3Jo 1:14"
+    },
+    "15": {
+      "text": "Que a paz esteja contigo! Teus amigos te saúdam. Saúda os nossos, cada um por seu nome. \\par",
+      "reference": "3Jo 1:15"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 15
+}

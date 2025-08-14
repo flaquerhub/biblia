@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 108,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 108 (107)\\par }{\\qc\\b\\i Hino matinal e prece nacional\\par }{\\qc\\i Cântico. Salmo. De Davi.\\par }",
+      "reference": "Sl 108:1"
+    },
+    "2": {
+      "text": "Meu coração está firme, ó Deus, \\par – eu quero cantar e tocar! – \\par vamos, glória minha, \\par",
+      "reference": "Sl 108:2"
+    },
+    "3": {
+      "text": "desperta, cítara e harpa, \\par eu vou despertar a aurora! \\par",
+      "reference": "Sl 108:3"
+    },
+    "4": {
+      "text": "Quero louvar-te entre os povos, Iahweh, \\par tocar para ti em meio às nações; \\par",
+      "reference": "Sl 108:4"
+    },
+    "5": {
+      "text": "pois mais que o céu é grande o teu amor, \\par e tua verdade vai até às nuvens. \\par",
+      "reference": "Sl 108:5"
+    },
+    "6": {
+      "text": "Ó Deus, eleva-te acima do céu, \\par e tua glória domine a terra toda. \\par",
+      "reference": "Sl 108:6"
+    },
+    "7": {
+      "text": "Para que teus amados sejam libertos, \\par salva pela tua direita! Responde-nos! \\par",
+      "reference": "Sl 108:7"
+    },
+    "8": {
+      "text": "Deus falou em seu santuário: \\par “Eu exulto ao partilhar Siquém \\par e ao medir o vale de Sucot. \\par",
+      "reference": "Sl 108:8"
+    },
+    "9": {
+      "text": "Meu é Galaad, Manassés me pertence, \\par o elmo da minha cabeça é Efraim, \\par Judá, cetro do meu comando. \\par",
+      "reference": "Sl 108:9"
+    },
+    "10": {
+      "text": "Moab é a bacia em que me lavo, \\par e sobre Edom eu lanço a minha sandália, \\par contra a Filistéia eu grito a vitória”. \\par",
+      "reference": "Sl 108:10"
+    },
+    "11": {
+      "text": "Quem me levará a uma cidade-forte, \\par quem me conduzirá até Edom, \\par",
+      "reference": "Sl 108:11"
+    },
+    "12": {
+      "text": "senão tu, ó Deus, que nos rejeitaste, \\par um Deus que já não sai com nossos exércitos? \\par",
+      "reference": "Sl 108:12"
+    },
+    "13": {
+      "text": "Concede-nos socorro na opressão, \\par pois a salvação humana é inútil! \\par",
+      "reference": "Sl 108:13"
+    },
+    "14": {
+      "text": "Com Deus nós faremos proezas, \\par ele vai calcar nossos opressores! \\par",
+      "reference": "Sl 108:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

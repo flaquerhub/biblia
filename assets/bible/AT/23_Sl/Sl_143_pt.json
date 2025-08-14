@@ -1,0 +1,61 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 143,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 143 (142)\\par }{\\qc\\b\\i Súplica humilde\\par }{\\qc\\i Salmo. De Davi.\\par } Iahweh, ouve a minha prece, \\par dá ouvido às minhas súplicas, \\par por tua fidelidade, responde-me, por tua justiça! \\par",
+      "reference": "Sl 143:1"
+    },
+    "2": {
+      "text": "Não entres em julgamento com teu servo, \\par pois frente a ti nenhum vivente é justo! \\par",
+      "reference": "Sl 143:2"
+    },
+    "3": {
+      "text": "O inimigo me persegue, \\par esmaga minha vida por terra, \\par faz-me habitar nas trevas \\par como os que estão mortos para sempre. \\par",
+      "reference": "Sl 143:3"
+    },
+    "4": {
+      "text": "Meu alento já vai desfalecendo, \\par e dentro de mim meu coração se assusta. \\par",
+      "reference": "Sl 143:4"
+    },
+    "5": {
+      "text": "Recordo os dias de outrora, \\par em todo o teu agir eu medito, \\par refletindo sobre a obra de tuas mãos. \\par",
+      "reference": "Sl 143:5"
+    },
+    "6": {
+      "text": "A ti estendo meus braços, \\par minha vida é terra sedenta de ti. \\par",
+      "reference": "Sl 143:6"
+    },
+    "7": {
+      "text": "Responde-me depressa, Iahweh, \\par pois meu alento se extingue! \\par Não escondas tua face de mim: \\par eu ficaria como os que baixam à cova. \\par",
+      "reference": "Sl 143:7"
+    },
+    "8": {
+      "text": "Faze-me ouvir teu amor pela manhã, \\par pois é em ti que eu confio; \\par indica-me o caminho a seguir, \\par pois eu me elevo a ti. \\par",
+      "reference": "Sl 143:8"
+    },
+    "9": {
+      "text": "Livra-me dos meus inimigos, Iahweh, \\par pois estou protegido junto a ti. \\par",
+      "reference": "Sl 143:9"
+    },
+    "10": {
+      "text": "Ensina-me a cumprir tua vontade, \\par pois tu és o meu Deus, \\par que teu bom espírito me conduza \\par por uma terra aplanada. \\par",
+      "reference": "Sl 143:10"
+    },
+    "11": {
+      "text": "Por teu nome, Iahweh, tu me conservas, \\par por tua justiça me tiras da angústia, \\par",
+      "reference": "Sl 143:11"
+    },
+    "12": {
+      "text": "por teu amor aniquilas meus inimigos \\par e destróis meus adversários todos, \\par porque eu sou um servo teu! \\par",
+      "reference": "Sl 143:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

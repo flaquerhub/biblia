@@ -1,0 +1,101 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 103,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 103 (102)\\par }{\\qc\\b\\i Deus é amor\\par }{\\qc\\i De Davi.\\par } Bendize a Iahweh, ó minha alma, \\par e tudo o que há em mim ao seu nome santo! \\par",
+      "reference": "Sl 103:1"
+    },
+    "2": {
+      "text": "Bendize a Iahweh, ó minha alma, \\par e não esqueças nenhum dos seus benefícios. \\par",
+      "reference": "Sl 103:2"
+    },
+    "3": {
+      "text": "É ele quem perdoa tua culpa toda \\par e cura todos os teus males. \\par",
+      "reference": "Sl 103:3"
+    },
+    "4": {
+      "text": "É ele quem redime tua vida da cova \\par e te coroa de amor e compaixão. \\par",
+      "reference": "Sl 103:4"
+    },
+    "5": {
+      "text": "É ele quem sacia teus anos de bens \\par e, como a da águia, tua juventude se renova. \\par",
+      "reference": "Sl 103:5"
+    },
+    "6": {
+      "text": "Iahweh realiza atos justos, \\par fazendo justiça a todos os oprimidos; \\par",
+      "reference": "Sl 103:6"
+    },
+    "7": {
+      "text": "revelou seus caminhos a Moisés \\par e suas façanhas aos filhos de Israel. \\par",
+      "reference": "Sl 103:7"
+    },
+    "8": {
+      "text": "Iahweh é compaixão e piedade, \\par lento para a cólera e cheio de amor; \\par",
+      "reference": "Sl 103:8"
+    },
+    "9": {
+      "text": "ele não vai disputar perpetuamente, \\par e seu rancor não dura para sempre. \\par",
+      "reference": "Sl 103:9"
+    },
+    "10": {
+      "text": "Nunca nos trata conforme nossos erros, \\par nem nos devolve segundo nossas culpas. \\par",
+      "reference": "Sl 103:10"
+    },
+    "11": {
+      "text": "Como o céu que se alteia sobre a terra, \\par é forte seu amor por aqueles que o temem. \\par",
+      "reference": "Sl 103:11"
+    },
+    "12": {
+      "text": "Como o oriente está longe do ocidente, \\par ele afasta de nós as nossas transgressões. \\par",
+      "reference": "Sl 103:12"
+    },
+    "13": {
+      "text": "Como um pai é compassivo com seus filhos, \\par Iahweh é compassivo com aqueles que o temem; \\par",
+      "reference": "Sl 103:13"
+    },
+    "14": {
+      "text": "porque ele conhece nossa estrutura, \\par ele se lembra do pó que somos nós. \\par",
+      "reference": "Sl 103:14"
+    },
+    "15": {
+      "text": "O homem!... seus dias são como a relva: \\par ele floresce como a flor do campo; \\par",
+      "reference": "Sl 103:15"
+    },
+    "16": {
+      "text": "roça-lhe um vento e já desaparece, \\par e ninguém mais reconhece seu lugar. \\par",
+      "reference": "Sl 103:16"
+    },
+    "17": {
+      "text": "Mas o amor de Iahweh!... existe desde sempre \\par e para sempre existirá por aqueles que o temem; \\par sua justiça é para os filhos dos filhos, \\par",
+      "reference": "Sl 103:17"
+    },
+    "18": {
+      "text": "para os que observam sua aliança \\par e se lembram de cumprir suas ordens. \\par",
+      "reference": "Sl 103:18"
+    },
+    "19": {
+      "text": "Iahweh firmou no céu seu trono \\par e sua realeza governa o universo. \\par",
+      "reference": "Sl 103:19"
+    },
+    "20": {
+      "text": "Bendizei a Iahweh, anjos seus, \\par executores poderosos da sua palavra, \\par obedientes ao som da sua palavra. \\par",
+      "reference": "Sl 103:20"
+    },
+    "21": {
+      "text": "Bendizei a Iahweh, seus exércitos todos, \\par ministros que cumpris a sua vontade. \\par",
+      "reference": "Sl 103:21"
+    },
+    "22": {
+      "text": "Bendizei a Iahweh, todas as suas obras, \\par nos lugares todos que ele governa. \\par Bendize a Iahweh, ó minha alma! \\par",
+      "reference": "Sl 103:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

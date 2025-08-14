@@ -1,0 +1,125 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Tudo isso meus olhos viram \\par e meus ouvidos ouviram e entenderam. \\par",
+      "reference": "Jó 13:1"
+    },
+    "2": {
+      "text": "O que vós sabeis, eu também o sei, \\par e não sou em nada inferior a vós. \\par",
+      "reference": "Jó 13:2"
+    },
+    "3": {
+      "text": "Mas prefiro dirigir-me a Shaddai, \\par desejo discutir com Deus. \\par",
+      "reference": "Jó 13:3"
+    },
+    "4": {
+      "text": "Vós não sois senão embusteiros, \\par todos vós meros charlatães. \\par",
+      "reference": "Jó 13:4"
+    },
+    "5": {
+      "text": "Se, ao menos, calásseis, \\par tomar-vos-iam por sábios! \\par",
+      "reference": "Jó 13:5"
+    },
+    "6": {
+      "text": "Por favor, escutai os meus argumentos, \\par atendei às razões de meus lábios. \\par",
+      "reference": "Jó 13:6"
+    },
+    "7": {
+      "text": "Pensais defender a Deus com linguagem iníqua \\par e com mentiras? \\par",
+      "reference": "Jó 13:7"
+    },
+    "8": {
+      "text": "Quereis tomar o seu partido \\par e ser seus advogados? \\par",
+      "reference": "Jó 13:8"
+    },
+    "9": {
+      "text": "Que tal se ele vos examinasse? \\par Iríeis enganá-lo como se engana um homem? \\par",
+      "reference": "Jó 13:9"
+    },
+    "10": {
+      "text": "Ele vos infligirá severa reprimenda, \\par se fordes parciais às escondidas. \\par",
+      "reference": "Jó 13:10"
+    },
+    "11": {
+      "text": "Não vos atemoriza sua majestade? \\par Não desce sobre vós seu terror? \\par",
+      "reference": "Jó 13:11"
+    },
+    "12": {
+      "text": "Vossas lições aprendidas são cinzas, \\par e vossas defesas, defesas de barro. \\par",
+      "reference": "Jó 13:12"
+    },
+    "13": {
+      "text": "Guardai silêncio, agora sou eu quem fala, \\par venha o que vier. \\par",
+      "reference": "Jó 13:13"
+    },
+    "14": {
+      "text": "Porei minha carne entre os meus dentes, \\par levarei nas mãos minha vida. \\par",
+      "reference": "Jó 13:14"
+    },
+    "15": {
+      "text": "Ele pode me matar: mas não tenho outra esperança \\par senão defender diante dele o meu caminho. \\par",
+      "reference": "Jó 13:15"
+    },
+    "16": {
+      "text": "Isto já seria minha salvação, \\par pois o ímpio não ousaria comparecer diante dele. \\par",
+      "reference": "Jó 13:16"
+    },
+    "17": {
+      "text": "Escutai, escutai minhas palavras, \\par dai ouvido ao que vou declarar. \\par",
+      "reference": "Jó 13:17"
+    },
+    "18": {
+      "text": "Eis que procederei com justiça, \\par e sei que sou inocente. \\par",
+      "reference": "Jó 13:18"
+    },
+    "19": {
+      "text": "Quem quer disputar comigo? \\par De antemão, estou pronto para calar-me e para morrer! \\par",
+      "reference": "Jó 13:19"
+    },
+    "20": {
+      "text": "Faz-me apenas duas concessões, \\par e não me esconderei de tua presença: \\par",
+      "reference": "Jó 13:20"
+    },
+    "21": {
+      "text": "afasta de mim a tua mão \\par e não me amedrontes com teu terror. \\par",
+      "reference": "Jó 13:21"
+    },
+    "22": {
+      "text": "Depois me acusarás e te responderei, \\par ou falarei eu e tu me replicarás: \\par",
+      "reference": "Jó 13:22"
+    },
+    "23": {
+      "text": "Quantos são os meus pecados e minhas culpas? \\par Prova meus delitos e pecados. \\par",
+      "reference": "Jó 13:23"
+    },
+    "24": {
+      "text": "Por que ocultas tua face \\par e me tratas como teu inimigo? \\par",
+      "reference": "Jó 13:24"
+    },
+    "25": {
+      "text": "Queres, então, assustar uma folha levada pelo vento \\par e perseguir a palha seca? \\par",
+      "reference": "Jó 13:25"
+    },
+    "26": {
+      "text": "Pois rediges contra mim sentenças amargas, \\par obrigas-me a assumir os pecados de minha juventude, \\par",
+      "reference": "Jó 13:26"
+    },
+    "27": {
+      "text": "e prendes meus pés ao cepo; \\par vigias todos os meus passos \\par e examinas as minhas pegadas. \\par",
+      "reference": "Jó 13:27"
+    },
+    "28": {
+      "text": "O homem consome-se como a podridão, \\par como um vestido roído pela traça. \\par",
+      "reference": "Jó 13:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

@@ -1,0 +1,137 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Livro da consolação de Israel}\\par }{\\qc\\b\\i Anúncio da libertação\\par }“Consolai, consolai o meu povo, \\par diz o vosso Deus, \\par",
+      "reference": "Is 40:1"
+    },
+    "2": {
+      "text": "falai ao coração de Jerusalém e dizei-lhe em alta voz \\par que o seu serviço está cumprido, \\par que a sua iniqüidade está expiada, \\par que ela recebeu da mão de Iahweh paga dobrada \\par por todos os seus pecados”. \\par",
+      "reference": "Is 40:2"
+    },
+    "3": {
+      "text": "Uma voz clama: “No deserto, abri \\par um caminho para Iahweh; \\par na estepe, aplainai \\par uma vereda para o nosso Deus. \\par",
+      "reference": "Is 40:3"
+    },
+    "4": {
+      "text": "Seja entulhado todo vale, \\par todo monte e toda colina sejam nivelados; \\par transformem-se os lugares escarpados em planície, \\par e as elevações, em largos vales. \\par",
+      "reference": "Is 40:4"
+    },
+    "5": {
+      "text": "Então a glória de Iahweh há de revelar-se \\par e toda carne, de uma só vez, o verá, \\par pois a boca de Iahweh o afirmou”. \\par",
+      "reference": "Is 40:5"
+    },
+    "6": {
+      "text": "Eis uma voz que diz: “Clama”, ao que pergunto: “Que hei de clamar?” \\par – “Toda carne é erva \\par e toda a sua graça como a flor do campo. \\par",
+      "reference": "Is 40:6"
+    },
+    "7": {
+      "text": "Seca-se a erva e murcha-se a flor, \\par quando o vento de Iahweh sopra sobre elas; \\par (com efeito, o povo é erva) \\par",
+      "reference": "Is 40:7"
+    },
+    "8": {
+      "text": "seca-se a erva, murcha-se a flor, \\par mas a palavra do nosso Deus subsiste para sempre”. \\par",
+      "reference": "Is 40:8"
+    },
+    "9": {
+      "text": "Sobe a um alto monte, \\par mensageira de Sião; \\par eleva a tua voz com vigor, \\par mensageira de Jerusalém; \\par eleva-a, não temas; dize às cidades de Judá: \\par “Eis aqui o vosso Deus!” \\par",
+      "reference": "Is 40:9"
+    },
+    "10": {
+      "text": "Eis aqui o Senhor Iahweh: ele vem com poder, \\par o seu braço lhe assegura o domínio; \\par eis com ele o seu salário, \\par diante dele a recompensa. \\par",
+      "reference": "Is 40:10"
+    },
+    "11": {
+      "text": "Como um pastor apascenta ele o seu rebanho, \\par com o seu braço reúne os cordeiros, \\par carrega-os no seu regaço, \\par conduz carinhosamente as ovelhas que amamentam. \\par",
+      "reference": "Is 40:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A grandeza divina\\par }Quem pôde medir as águas do mar na cavidade da sua mão? \\par Quem conseguiu avaliar a extensão dos céus a palmos, \\par medir o pó da terra com o alqueire \\par e pesar os montes na balança \\par e os outeiros nos seus pratos? \\par",
+      "reference": "Is 40:12"
+    },
+    "13": {
+      "text": "Quem dirigiu o espírito de Iahweh \\par ou, como conselheiro, o instruiu? \\par",
+      "reference": "Is 40:13"
+    },
+    "14": {
+      "text": "Com quem se aconselhou para que o fizesse compreender, \\par para que o instruísse na vereda da justiça, \\par para que lhe ensinasse o conhecimento, \\par para que o fizesse conhecer o caminho do entendimento? \\par",
+      "reference": "Is 40:14"
+    },
+    "15": {
+      "text": "Para ele as nações não passam de uma gota que cai de um balde, \\par são reputadas como o pó depositado nos pratos de uma balança. \\par As ilhas pesam tanto como um grão de areia! \\par",
+      "reference": "Is 40:15"
+    },
+    "16": {
+      "text": "O Líbano não bastaria para o seu fogo, \\par nem a sua fauna para um holocausto. \\par",
+      "reference": "Is 40:16"
+    },
+    "17": {
+      "text": "Todas as nações são como nada diante dele, \\par não passam de coisa vã e irreal. \\par",
+      "reference": "Is 40:17"
+    },
+    "18": {
+      "text": "Que haveis de comparar a Deus? \\par Que semelhança podereis produzir dele? \\par",
+      "reference": "Is 40:18"
+    },
+    "19": {
+      "text": "Um artífice funde uma imagem, \\par um ourives a reveste de ouro, \\par para ele funde cadeias de prata. \\par",
+      "reference": "Is 40:19"
+    },
+    "20": {
+      "text": "Aquele que faz uma oferenda pobre \\par escolhe uma madeira que não apodreça, \\par busca um artífice perito, \\par capaz de erigir uma imagem que não vacile. \\par",
+      "reference": "Is 40:20"
+    },
+    "21": {
+      "text": "Não o sabeis? Não o ouvistes? \\par Não vos foi anunciado desde o princípio? \\par Não compreendestes os fundamentos da terra? \\par",
+      "reference": "Is 40:21"
+    },
+    "22": {
+      "text": "Ele está entronizado sobre o círculo da terra, \\par cujos habitantes são como gafanhotos; \\par ele estende os céus como uma tela, \\par abre-os como uma tenda que sirva de habitação. \\par",
+      "reference": "Is 40:22"
+    },
+    "23": {
+      "text": "Ele reduz os príncipes a nada \\par e faz dos juízes da terra uma coisa vã. \\par",
+      "reference": "Is 40:23"
+    },
+    "24": {
+      "text": "Mal foram plantados, mal foram semeados, \\par mal o seu tronco deita raízes, \\par já o sopro de Deus cai sobre eles \\par e eles se secam; \\par a tempestade os leva como a palha. \\par",
+      "reference": "Is 40:24"
+    },
+    "25": {
+      "text": "A quem me haveis de comparar? \\par A quem me assemelharei?, pergunta o Santo. \\par",
+      "reference": "Is 40:25"
+    },
+    "26": {
+      "text": "Elevai os olhos para o alto e vede: \\par Quem criou estes astros? \\par É ele que faz sair o seu exército \\par em número certo e fixo; \\par a todos chama pelo nome. \\par Tal é o seu vigor, tão grande a sua força \\par que nenhum deles deixa de apresentar-se. \\par",
+      "reference": "Is 40:26"
+    },
+    "27": {
+      "text": "Por que dizes tu, Jacó, e por que afirmas, Israel: \\par “O meu caminho está oculto a Iahweh; \\par o meu direito passa despercebido a Deus?” \\par",
+      "reference": "Is 40:27"
+    },
+    "28": {
+      "text": "Pois não sabes? Por acaso não ouviste isto? \\par Iahweh é um Deus eterno, \\par criador das regiões mais remotas da terra. \\par Ele não se cansa nem se fatiga, \\par a sua inteligência é insondável. \\par",
+      "reference": "Is 40:28"
+    },
+    "29": {
+      "text": "É ele que dá forças ao cansado, \\par que prodigaliza vigor ao enfraquecido. \\par",
+      "reference": "Is 40:29"
+    },
+    "30": {
+      "text": "Mesmo os jovens se cansam e se fatigam; \\par até os moços vivem a tropeçar, \\par",
+      "reference": "Is 40:30"
+    },
+    "31": {
+      "text": "mas os que põem a sua esperança em Iahweh renovam as suas forças, \\par abrem asas como as águias, \\par correm e não se fatigam, \\par caminham e não se cansam. \\par",
+      "reference": "Is 40:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

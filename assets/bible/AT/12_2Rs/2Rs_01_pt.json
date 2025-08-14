@@ -1,0 +1,85 @@
+{
+  "book": 12,
+  "book_name": "2Reis",
+  "book_abbr": "2Rs",
+  "book_category": "Histórico",
+  "book_english": "2 Kings",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Depois da morte de Acab, Moab revoltou-se contra Israel.",
+      "reference": "2Rs 1:1"
+    },
+    "2": {
+      "text": "Ocozias caiu da sacada de seu aposento em Samaria e adoeceu. Enviou mensageiros, dizendo-lhes: “Ide consultar Baal Zebub, deus de Acaron, para saber se ficarei curado deste mal”.",
+      "reference": "2Rs 1:2"
+    },
+    "3": {
+      "text": "Mas o Anjo de Iahweh disse a Elias, o tesbita: “Levanta-te e vai ao encontro dos mensageiros do rei de Samaria, e dize-lhes: Porventura não há um Deus em Israel, para irdes consultar Baal Zebub, deus de Acaron?",
+      "reference": "2Rs 1:3"
+    },
+    "4": {
+      "text": "Por isso, assim diz Iahweh: Não descerás do leito ao qual subiste, mas com certeza morrerás”. E Elias partiu.",
+      "reference": "2Rs 1:4"
+    },
+    "5": {
+      "text": "Os mensageiros voltaram para junto de Ocozias, que lhes perguntou: “Por que voltastes?”",
+      "reference": "2Rs 1:5"
+    },
+    "6": {
+      "text": "Responderam-lhe: “Veio ao nosso encontro um homem, que nos disse: ‘Ide, voltai para junto do rei que vos enviou e dizei-lhe: Assim fala Iahweh. Porventura não há um Deus em Israel, para mandares consultar Baal Zebub, deus de Acaron? Por isso, não descerás do leito ao qual subiste, mas com certeza morrerás’”.",
+      "reference": "2Rs 1:6"
+    },
+    "7": {
+      "text": "Perguntou-lhes Ocozias: “Que aparência tinha o homem que veio ao vosso encontro e vos disse essas palavras?”",
+      "reference": "2Rs 1:7"
+    },
+    "8": {
+      "text": "Responderam-lhe: “Era um homem vestido de pêlos e com um cinto de couro ao redor dos rins”. E disse o rei: “É Elias, o tesbita!” \\par",
+      "reference": "2Rs 1:8"
+    },
+    "9": {
+      "text": "Enviou-lhe um chefe de cinqüenta com seus cinqüenta comandados, o qual subiu até ele – ele estava sentado no alto da montanha – e lhe disse: “Homem de Deus! O rei ordenou: Desce!”",
+      "reference": "2Rs 1:9"
+    },
+    "10": {
+      "text": "Elias respondeu e disse ao chefe dos cinqüenta: “Se eu sou um homem de Deus, que desça fogo do céu e te devore a ti e aos teus cinqüenta”; e um fogo desceu do céu e o devorou, a ele e aos seus cinqüenta.",
+      "reference": "2Rs 1:10"
+    },
+    "11": {
+      "text": "O rei enviou de novo outro chefe de cinqüenta com seus cinqüenta comandados, o qual subiu e lhe disse: “Homem de Deus! O rei ordenou: Desce depressa!”",
+      "reference": "2Rs 1:11"
+    },
+    "12": {
+      "text": "Elias respondeu: “Se eu sou um homem de Deus, que desça fogo do céu e te devore a ti e aos teus cinqüenta”, e um fogo desceu do céu e o devorou, a ele e aos seus cinqüenta.",
+      "reference": "2Rs 1:12"
+    },
+    "13": {
+      "text": "O rei tornou a mandar um chefe de cinqüenta com seus cinqüenta comandados. Esse terceiro chefe subiu, dobrou os joelhos diante de Elias e suplicou-lhe assim: “Ó homem de Deus! Que tenham algum valor a teus olhos a minha vida e a destes teus cinqüenta servos.",
+      "reference": "2Rs 1:13"
+    },
+    "14": {
+      "text": "Caiu fogo e devorou os dois primeiros chefes de cinqüenta com seus comandados; mas agora, que a minha vida tenha algum valor a teus olhos!”",
+      "reference": "2Rs 1:14"
+    },
+    "15": {
+      "text": "O Anjo de Iahweh disse a Elias: “Desce com ele, não o temas”. Ele se levantou, desceu com ele e foi ter com o rei,",
+      "reference": "2Rs 1:15"
+    },
+    "16": {
+      "text": "a quem disse: “Assim fala Iahweh. Por teres enviado mensageiros para consultar Baal Zebub, deus de Acaron, não descerás do leito ao qual subiste, mas com certeza morrerás”. \\par",
+      "reference": "2Rs 1:16"
+    },
+    "17": {
+      "text": "E ele morreu, conforme a palavra de Iahweh, pronunciada por Elias. Jorão, seu irmão, tornou-se rei em seu lugar, no segundo ano de Jorão, filho de Josafá, rei de Judá, uma vez que ele não tinha filhos.",
+      "reference": "2Rs 1:17"
+    },
+    "18": {
+      "text": "O resto da história de Ocozias e seus feitos, não está tudo escrito no livro dos Anais dos reis de Israel? \\par",
+      "reference": "2Rs 1:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

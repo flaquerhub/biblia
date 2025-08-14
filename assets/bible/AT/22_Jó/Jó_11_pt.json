@@ -1,0 +1,93 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A sabedoria de Deus desafia a Jó\\par }Sofar de Naamat tomou a palavra e disse: \\par",
+      "reference": "Jó 11:1"
+    },
+    "2": {
+      "text": "O falador ficará sem resposta? \\par Dar-se-á razão ao eloqüente? \\par",
+      "reference": "Jó 11:2"
+    },
+    "3": {
+      "text": "A tua vã linguagem calará os homens? \\par Zombarás sem que ninguém te repreenda? \\par",
+      "reference": "Jó 11:3"
+    },
+    "4": {
+      "text": "Disseste: “Minha conduta é pura, \\par sou inocente aos teus olhos”. \\par",
+      "reference": "Jó 11:4"
+    },
+    "5": {
+      "text": "Sim, prouvera que Deus falasse, \\par que abrisse os lábios para responder-te. \\par",
+      "reference": "Jó 11:5"
+    },
+    "6": {
+      "text": "Revelar-te-ia os segredos da Sabedoria, \\par que desconcertam toda insensatez! \\par Então saberia que Deus te pede contas da tua falta. \\par",
+      "reference": "Jó 11:6"
+    },
+    "7": {
+      "text": "Acaso podes sondar a profundeza de Deus, \\par e atingir os limites de Shaddai? \\par",
+      "reference": "Jó 11:7"
+    },
+    "8": {
+      "text": "É mais alto que o céu: que poderás fazer? \\par Mais profundo que o Xeol: que poderás saber? \\par",
+      "reference": "Jó 11:8"
+    },
+    "9": {
+      "text": "É mais vasto que a terra \\par e mais extenso que o mar. \\par",
+      "reference": "Jó 11:9"
+    },
+    "10": {
+      "text": "Se ele intervém para encerrar e convocar a assembléia, \\par quem pode impedi-lo? \\par",
+      "reference": "Jó 11:10"
+    },
+    "11": {
+      "text": "Conhece os homens falsos: \\par vê o crime e nele presta atenção. \\par",
+      "reference": "Jó 11:11"
+    },
+    "12": {
+      "text": "Homens estúpidos deverão começar a ser sábios \\par e o homem com modos de asno deixar-se domesticar! \\par",
+      "reference": "Jó 11:12"
+    },
+    "13": {
+      "text": "Se dirigires teu coração a Deus \\par e estenderes as mãos para ele, \\par",
+      "reference": "Jó 11:13"
+    },
+    "14": {
+      "text": "se afastares das tuas mãos a maldade \\par e não alojares a injustiça em tua tenda, \\par",
+      "reference": "Jó 11:14"
+    },
+    "15": {
+      "text": "poderás levantar teu rosto sem mácula, \\par serás inabalável e nada temerás. \\par",
+      "reference": "Jó 11:15"
+    },
+    "16": {
+      "text": "Esquecerás tuas desgraças \\par ou recordá-la-ás como a água que passou. \\par",
+      "reference": "Jó 11:16"
+    },
+    "17": {
+      "text": "Tua vida ressurgirá como o meio-dia, \\par a escuridão será como a manhã. \\par",
+      "reference": "Jó 11:17"
+    },
+    "18": {
+      "text": "Terás confiança, porque agora há esperança; \\par vivias perturbado, deitar-te-ás tranqüilo.\\par",
+      "reference": "Jó 11:18"
+    },
+    "19": {
+      "text": "Repousarás sem sobressaltos \\par e muitos acariciarão teu rosto. \\par",
+      "reference": "Jó 11:19"
+    },
+    "20": {
+      "text": "Porém, os olhos do ímpio se turvam, \\par seu refúgio malogra, \\par sua esperança é um alento que se extingue. \\par",
+      "reference": "Jó 11:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

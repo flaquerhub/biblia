@@ -1,0 +1,69 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Prólogo}\\par }{\\qc\\b\\i A grandeza do Filho de Deus encarnado\\par }Muitas vezes e de modos diversos falou Deus, outrora, aos Pais pelos profetas;",
+      "reference": "Hb 1:1"
+    },
+    "2": {
+      "text": "agora, nestes dias que são os últimos, falou-nos por meio do Filho, a quem constituiu herdeiro de todas as coisas, e pelo qual fez os séculos.",
+      "reference": "Hb 1:2"
+    },
+    "3": {
+      "text": "É ele o resplendor de sua glória e a expressão do seu ser; sustenta o universo com o poder de sua palavra; e depois de ter realizado a purificação dos pecados, sentou-se nas alturas à direita da Majestade,",
+      "reference": "Hb 1:3"
+    },
+    "4": {
+      "text": "tão superior aos anjos quanto o nome que herdou excede o deles. \\par",
+      "reference": "Hb 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b {\\i I. O Filho é superior aos anjos}\\par }{\\qc\\b\\i Prova escriturística\\par }De fato, a qual dos anjos disse Deus jamais: {\\i Tu és o meu Filho, eu hoje te gerei}? Ou ainda: {\\i Eu lhe serei pai, e ele me será filho}?",
+      "reference": "Hb 1:5"
+    },
+    "6": {
+      "text": "E ao introduzir o Primogênito no mundo, diz novamente: {\\i Adorem-no todos os anjos de Deus.}",
+      "reference": "Hb 1:6"
+    },
+    "7": {
+      "text": "A respeito dos anjos, porém, ele declara: {\\i Torna em vendavais os seus anjos, e em chama de fogo os seus ministros.}",
+      "reference": "Hb 1:7"
+    },
+    "8": {
+      "text": "Ao Filho, porém, diz: {\\i O teu trono, ó Deus, é para os séculos dos séculos; o cetro da retidão é o cetro de sua realeza.} E:",
+      "reference": "Hb 1:8"
+    },
+    "9": {
+      "text": "{\\i Amaste a justiça e odiaste a iniqüidade, por isso, ó Deus, te ungiu o teu Deus com o óleo da alegria como a nenhum dos teus companheiros.}",
+      "reference": "Hb 1:9"
+    },
+    "10": {
+      "text": "Diz ainda: {\\i És tu, Senhor, que nas origens fundaste a terra; e os céus são obras de tuas mãos.}",
+      "reference": "Hb 1:10"
+    },
+    "11": {
+      "text": "{\\i Eles perecerão; tu, porém, permanecerás; todos hão de envelhecer como um vestido;}",
+      "reference": "Hb 1:11"
+    },
+    "12": {
+      "text": "{\\i e a todos enrolarás como um manto, e serão mudados como vestimenta. Tu, porém, és sempre o mesmo, e os teus anos jamais terão fim.}",
+      "reference": "Hb 1:12"
+    },
+    "13": {
+      "text": "A qual dos anjos disse ele jamais: {\\i Senta-te à minha direita, até que eu reduza os teus inimigos a escabelo dos teus pés?}",
+      "reference": "Hb 1:13"
+    },
+    "14": {
+      "text": "Porventura, não são todos eles espíritos servidores, enviados ao serviço dos que devem herdar a salvação? \\par",
+      "reference": "Hb 1:14"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 14
+}

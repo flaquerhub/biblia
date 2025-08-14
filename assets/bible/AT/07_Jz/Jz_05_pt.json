@@ -1,0 +1,137 @@
+{
+  "book": 7,
+  "book_name": "Juízes",
+  "book_abbr": "Jz",
+  "book_category": "Histórico",
+  "book_english": "Judges",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b CÂNTICO DE DÉBORA E DE BARAC\\par }Naquele dia, Débora e Barac, filho de Abinoem, entoaram um cântico: \\par",
+      "reference": "Jz 5:1"
+    },
+    "2": {
+      "text": "Já que, em Israel, os guerreiros soltaram a cabeleira \\par e o povo espontaneamente se apresentou, \\par bendizei a Iahweh! \\par",
+      "reference": "Jz 5:2"
+    },
+    "3": {
+      "text": "Ó reis, ouvi! Ó príncipes, escutai! \\par A Iahweh, eu, sim, eu cantarei, \\par celebrarei a Iahweh, Deus de Israel. \\par",
+      "reference": "Jz 5:3"
+    },
+    "4": {
+      "text": "Iahweh! Quando saíste de Seir, \\par quando avançaste nas planícies de Edom, \\par a terra tremeu, \\par troaram os céus, as nuvens desfizeram-se em água. \\par",
+      "reference": "Jz 5:4"
+    },
+    "5": {
+      "text": "Os montes deslizaram na presença de Iahweh, o do Sinai, \\par diante de Iahweh, o Deus de Israel. \\par",
+      "reference": "Jz 5:5"
+    },
+    "6": {
+      "text": "Nos dias de Samgar, filho de Anat, nos dias de Jael, \\par não existiam mais caravanas; \\par aqueles que andavam pelos caminhos \\par seguiam tortuosos atalhos. \\par",
+      "reference": "Jz 5:6"
+    },
+    "7": {
+      "text": "As aldeias estavam mortas em Israel, \\par estavam mortas, \\par até que te levantaste, ó Débora, \\par até que te levantaste, mãe em Israel! \\par",
+      "reference": "Jz 5:7"
+    },
+    "8": {
+      "text": "Escolhiam deuses novos, \\par e a guerra batia às portas. \\par Não se viam escudos nem lanças, \\par e eram quarenta mil em Israel! \\par",
+      "reference": "Jz 5:8"
+    },
+    "9": {
+      "text": "O meu coração volta-se para os chefes de Israel, \\par com os voluntários do povo! \\par Bendizei a Iahweh! \\par",
+      "reference": "Jz 5:9"
+    },
+    "10": {
+      "text": "Vos que cavalgais brancas jumentas \\par e vos assentais em tapetes, \\par e vós que ides pelos caminhos, cantai, \\par",
+      "reference": "Jz 5:10"
+    },
+    "11": {
+      "text": "ao som da voz dos pastores, \\par à beira dos bebedouros. \\par Aí se celebram os atos justos de Iahweh, \\par os seus atos de justiça pelas aldeias de Israel! \\par (Então o povo de Iahweh desceu às portas.) \\par",
+      "reference": "Jz 5:11"
+    },
+    "12": {
+      "text": "Desperta, Débora, desperta! \\par Desperta, desperta, entoa um cântico! \\par Coragem, Barac! Levanta-te \\par e domina os que te haviam aprisionado, filho de Abinoem! \\par",
+      "reference": "Jz 5:12"
+    },
+    "13": {
+      "text": "Então Israel desceu às portas, \\par o povo de Iahweh desceu por sua causa, como herói. \\par",
+      "reference": "Jz 5:13"
+    },
+    "14": {
+      "text": "Os príncipes de Efraim estão no vale. \\par À tua retaguarda, Benjamim está entre os teus. \\par Os chefes desceram de Maquir, \\par de Zabulon, aqueles que levam o bastão de comando. \\par",
+      "reference": "Jz 5:14"
+    },
+    "15": {
+      "text": "Os príncipes de Issacar estão com Débora, \\par e Neftali, com Barac, pelo vale, seguiu as suas pegadas. \\par Nos clãs de Rúben, \\par demoradamente se deliberava. \\par",
+      "reference": "Jz 5:15"
+    },
+    "16": {
+      "text": "Por que ficaste nos currais \\par a escutar o assobio, junto aos rebanhos? \\par (Nos clãs de Rúben \\par demoradamente se deliberava.) \\par",
+      "reference": "Jz 5:16"
+    },
+    "17": {
+      "text": "Galaad ficou do outro lado do Jordão, \\par e Dã, por que vive nos navios? \\par Aser permaneceu na orla do mar, \\par e tranqüilo habita em seus portos. \\par",
+      "reference": "Jz 5:17"
+    },
+    "18": {
+      "text": "Zabulon é um povo que enfrentou a morte, \\par como Neftali, nos planaltos do território. \\par",
+      "reference": "Jz 5:18"
+    },
+    "19": {
+      "text": "Os reis vieram e combateram, \\par os reis de Canaã combateram \\par em Tanac, à beira das águas de Meguido, \\par mas não levaram dinheiro por espólio. \\par",
+      "reference": "Jz 5:19"
+    },
+    "20": {
+      "text": "Do alto dos céus as estrelas lutaram, \\par de seus caminhos, lutaram contra Sísara. \\par",
+      "reference": "Jz 5:20"
+    },
+    "21": {
+      "text": "A torrente do Quison os arrastou, \\par a torrente dos antigos tempos, a torrente do Quison! \\par Marcha, minh’alma, ousadamente! \\par",
+      "reference": "Jz 5:21"
+    },
+    "22": {
+      "text": "Então os cascos dos cavalos martelaram o chão: \\par galopam, galopam os seus corcéis. \\par",
+      "reference": "Jz 5:22"
+    },
+    "23": {
+      "text": "Maldito seja Meroz, diz o Anjo de Iahweh, \\par amaldiçoai, amaldiçoai os seus habitantes: \\par pois não vieram em auxílio de Iahweh, \\par entre os heróis, em auxílio de Iahweh. \\par",
+      "reference": "Jz 5:23"
+    },
+    "24": {
+      "text": "Bendita entre as mulheres Jael seja \\par (a mulher de Héber, o quenita), \\par entre as mulheres que habitam em tendas, bendita seja ela! \\par",
+      "reference": "Jz 5:24"
+    },
+    "25": {
+      "text": "Ele pediu-lhe água: leite lhe trouxe, \\par na taça dos nobres serviu-lhe creme. \\par",
+      "reference": "Jz 5:25"
+    },
+    "26": {
+      "text": "Estendeu a mão para apanhar a estaca, \\par a direita para alcançar o martelo dos trabalhadores. \\par Então matou Sísara, rachou-lhe a cabeça, \\par com um golpe perfurou-lhe a têmpora. \\par",
+      "reference": "Jz 5:26"
+    },
+    "27": {
+      "text": "Entre os seus pés ele desabou e se estendeu. \\par Onde caiu, ali ficou, sem vida. \\par",
+      "reference": "Jz 5:27"
+    },
+    "28": {
+      "text": "À janela a mãe de Sísara se debruça \\par e espia, através da grade: \\par “Por que tanto tarda o seu carro a vir? \\par Por que são lentos os seus cavalos?” \\par",
+      "reference": "Jz 5:28"
+    },
+    "29": {
+      "text": "A mais sábia das suas donzelas lhe responde, \\par e a si própria ela repete: \\par",
+      "reference": "Jz 5:29"
+    },
+    "30": {
+      "text": "“É que sem dúvida demoram em repartir os despojos: \\par uma jovem, duas jovens para cada guerreiro! \\par Finos tecidos bordados e coloridos para Sísara, \\par um enfeite, dois enfeites para meu pescoço!” \\par",
+      "reference": "Jz 5:30"
+    },
+    "31": {
+      "text": "Assim perecem todos os teus adversários, Iahweh! \\par Aqueles que te amam sejam como o sol \\par quando se levanta na sua força! \\par E a terra descansou quarenta anos. \\par",
+      "reference": "Jz 5:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

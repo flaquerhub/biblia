@@ -1,0 +1,165 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Preparação do ministério de Jesus}\\par }{\\qc\\b\\i Pregação de João Batista\\par }No ano décimo quinto do império de Tibério César, quando Pôncio Pilatos era governador da Judéia, Herodes tetrarca da Galiléia, seu irmão Filipe tetrarca da Ituréia e da Traconítide, Lisânias tetrarca de Abilene,",
+      "reference": "Lc 3:1"
+    },
+    "2": {
+      "text": "sendo Sumo Sacerdote Anás, e Caifás, a palavra de Deus foi dirigida a João, filho de Zacarias, no deserto.",
+      "reference": "Lc 3:2"
+    },
+    "3": {
+      "text": "E ele percorreu toda a região do Jordão, proclamando um batismo de arrependimento para a remissão dos pecados,",
+      "reference": "Lc 3:3"
+    },
+    "4": {
+      "text": "conforme está escrito no livro das palavras do profeta Isaías: \\par {\\i Voz do que clama no deserto: \\par Preparai o caminho do Senhor, \\par tornai retas suas veredas; }\\par",
+      "reference": "Lc 3:4"
+    },
+    "5": {
+      "text": "{\\i todo vale será aterrado, \\par toda montanha ou colina será abaixada; \\par as vias sinuosas se transformarão em retas \\par e os caminhos acidentados serão nivelados. }\\par",
+      "reference": "Lc 3:5"
+    },
+    "6": {
+      "text": "{\\i E toda a carne verá a salvação de Deus.} \\par",
+      "reference": "Lc 3:6"
+    },
+    "7": {
+      "text": "Ele dizia às multidões que vinham para ser batizadas por ele: “Raça de víboras! Quem vos ensinou a fugir da ira que está para vir?",
+      "reference": "Lc 3:7"
+    },
+    "8": {
+      "text": "Produzi, então, frutos dignos do arrependimento e não comeceis a dizer em vós mesmos: ‘Temos por pai a Abraão’. Pois eu vos digo que até mesmo destas pedras Deus pode suscitar filhos a Abraão!",
+      "reference": "Lc 3:8"
+    },
+    "9": {
+      "text": "O machado já está posto à raiz das árvores; e toda a árvore que não produzir bom fruto será cortada e lançada ao fogo”. \\par",
+      "reference": "Lc 3:9"
+    },
+    "10": {
+      "text": "E as multidões o interrogavam: “Que devemos fazer?”",
+      "reference": "Lc 3:10"
+    },
+    "11": {
+      "text": "Respondia-lhes: “Quem tiver duas túnicas, reparta-as com aquele que não tem, e quem tiver o que comer, faça o mesmo”.",
+      "reference": "Lc 3:11"
+    },
+    "12": {
+      "text": "Alguns publicanos também vieram para ser batizados e disseram-lhe: “Mestre, que devemos fazer?”",
+      "reference": "Lc 3:12"
+    },
+    "13": {
+      "text": "Ele disse: “Não deveis exigir nada além do que vos foi prescrito”.",
+      "reference": "Lc 3:13"
+    },
+    "14": {
+      "text": "Os soldados, por sua vez, perguntavam: “E nós, que precisamos fazer?” Disse-lhes: “A ninguém molesteis com extorsões; não denuncieis falsamente e contentai-vos com o vosso soldo”. \\par",
+      "reference": "Lc 3:14"
+    },
+    "15": {
+      "text": "Como o povo estivesse na expectativa e todos cogitassem em seus corações se João não seria o Cristo,",
+      "reference": "Lc 3:15"
+    },
+    "16": {
+      "text": "João tomou a palavra e disse a todos: “Eu vos batizo com água, mas vem aquele que é mais forte do que eu, do qual não sou digno de desatar a correia das sandálias; ele vos batizará com o Espírito Santo e com o fogo.",
+      "reference": "Lc 3:16"
+    },
+    "17": {
+      "text": "A pá está em sua mão; limpará a sua eira e recolherá o trigo em seu celeiro; a palha, porém, ele a queimará num fogo inextinguível”.",
+      "reference": "Lc 3:17"
+    },
+    "18": {
+      "text": "E, com muitas outras exortações, continuava a anunciar ao povo a Boa Nova. \\par",
+      "reference": "Lc 3:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Prisão de João Batista\\par }O tetrarca Herodes, admoestado por causa de Herodíades, mulher de seu irmão, e por causa de todas as más ações que havia cometido,",
+      "reference": "Lc 3:19"
+    },
+    "20": {
+      "text": "acrescentou a tudo ainda isto: pôs João na prisão. \\par",
+      "reference": "Lc 3:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Batismo de Jesus\\par }Ora, tendo todo o povo recebido o batismo, e no momento em que Jesus, também batizado, achava-se em oração, o céu se abriu",
+      "reference": "Lc 3:21"
+    },
+    "22": {
+      "text": "e o Espírito Santo desceu sobre ele em forma corporal, como pomba. E do céu veio uma voz: “{\\i Tu és o meu Filho;} eu, hoje, te gerei!” \\par",
+      "reference": "Lc 3:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Genealogia de Jesus\\par }Ao iniciar o ministério, Jesus tinha mais ou menos trinta anos e era, conforme se supunha, filho de José, filho de Eli,",
+      "reference": "Lc 3:23"
+    },
+    "24": {
+      "text": "filho de Matat, filho de Levi, filho de Melqui, filho de Janai, filho de José,",
+      "reference": "Lc 3:24"
+    },
+    "25": {
+      "text": "filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagai,",
+      "reference": "Lc 3:25"
+    },
+    "26": {
+      "text": "filho de Maat, filho de Matatias, filho de Semein, filho de Josec, filho de Jodá,",
+      "reference": "Lc 3:26"
+    },
+    "27": {
+      "text": "filho de Joanã, filho de Ressa, filho de Zorobabel, filho de Salatiel, \\par filho de Neri,",
+      "reference": "Lc 3:27"
+    },
+    "28": {
+      "text": "filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadã, filho de Her,",
+      "reference": "Lc 3:28"
+    },
+    "29": {
+      "text": "filho de Jesus, filho de Eliezer, filho de Jorim, filho de Matat, filho de Levi,",
+      "reference": "Lc 3:29"
+    },
+    "30": {
+      "text": "filho de Simeão, filho de Judá, filho de José, filho de Jonã, filho de Eliacim,",
+      "reference": "Lc 3:30"
+    },
+    "31": {
+      "text": "filho de Meléia, filho de Mená, filho de Matatá, filho de Natã, filho de Davi, \\par",
+      "reference": "Lc 3:31"
+    },
+    "32": {
+      "text": "filho de Jessé, filho de Obed, filho de Booz, filho de Salá, filho de Naasson,",
+      "reference": "Lc 3:32"
+    },
+    "33": {
+      "text": "filho de Aminadab, filho de Admin, filho de Arni, filho de Esron, filho de Farés, filho de Judá,",
+      "reference": "Lc 3:33"
+    },
+    "34": {
+      "text": "filho de Jacó, filho de Isaac, filho de Abraão, \\par filho de Taré, filho de Nacor,",
+      "reference": "Lc 3:34"
+    },
+    "35": {
+      "text": "filho de Seruc, filho de Ragau, filho de Faleg, filho de Eber, filho de Salá,",
+      "reference": "Lc 3:35"
+    },
+    "36": {
+      "text": "filho de Cainã, filho de Arfaxad, filho de Sem, filho de Noé, filho de Lamec,",
+      "reference": "Lc 3:36"
+    },
+    "37": {
+      "text": "filho de Matusalém, filho de Henoc, filho de Jared, filho de Malaleel, filho de Cainã,",
+      "reference": "Lc 3:37"
+    },
+    "38": {
+      "text": "filho de Enós, filho de Set, filho de Adão, filho de Deus. \\par",
+      "reference": "Lc 3:38"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 38
+}

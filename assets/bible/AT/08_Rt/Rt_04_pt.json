@@ -1,0 +1,101 @@
+{
+  "book": 8,
+  "book_name": "Rute",
+  "book_abbr": "Rt",
+  "book_category": "Histórico",
+  "book_english": "Ruth",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b BOOZ CASA-SE COM RUTE\\par }Booz subiu à porta da cidade e sentou-se ali; e eis que passou o parente do qual tinha falado. Disse-lhe Booz: “Olá, Fulano, chega aqui e assenta-te”. O homem se aproximou e sentou-se.",
+      "reference": "Rt 4:1"
+    },
+    "2": {
+      "text": "Booz convidou dez homens dentre os anciãos da cidade e disse-lhes: “Sentai-vos aqui”. E eles se sentaram.",
+      "reference": "Rt 4:2"
+    },
+    "3": {
+      "text": "Então disse ao homem que tinha o direito de resgate: “Noemi, aquela que voltou dos Campos de Moab, quer vender a parte do terreno que pertencia a nosso irmão Elimelec.",
+      "reference": "Rt 4:3"
+    },
+    "4": {
+      "text": "Resolvi informar-te disso, dizendo-te: ‘Adquire-a diante dos que aqui estão sentados e diante dos anciãos do meu povo’. Se queres exercer teu direito de resgate, exerce-o; mas se não o queres, declara-mo, para eu tomar conhecimento. Pois ninguém mais tem o direito de resgate a não ser tu, e depois de ti, eu”. O outro respondeu: “Sim, eu quero exercer meu direito”.",
+      "reference": "Rt 4:4"
+    },
+    "5": {
+      "text": "Mas Booz disse: “No dia em que adquirires esse campo da mão de Noemi, estarás adquirindo também Rute, a moabita, a mulher daquele que morreu, para perpetuar o nome do morto sobre seu patrimônio”.",
+      "reference": "Rt 4:5"
+    },
+    "6": {
+      "text": "Então respondeu o que tinha direito de resgate: “Assim não posso exercer meu direito, pois não quero prejudicar meu patrimônio. Podes exercer meu direito de resgate, pois eu não posso fazê-lo”. \\par",
+      "reference": "Rt 4:6"
+    },
+    "7": {
+      "text": "Ora, antigamente era costume em Israel, em caso de resgate ou de permuta, para validar o negócio, um tirar a sandália e entregá-la ao outro; era esse o modo de atestar em Israel.",
+      "reference": "Rt 4:7"
+    },
+    "8": {
+      "text": "Disse então a Booz aquele que tinha o direito de resgate: “Adquire-a para ti”, e tirou a sandália. \\par",
+      "reference": "Rt 4:8"
+    },
+    "9": {
+      "text": "Booz disse aos anciãos e a todo o povo: “Sois testemunhas hoje de que comprei da mão de Noemi tudo o que pertencia a Elimelec e tudo o que pertencia a Quelion e a Maalon;",
+      "reference": "Rt 4:9"
+    },
+    "10": {
+      "text": "ao mesmo tempo adquiro por mulher Rute, a moabita, viúva de Maalon, para perpetuar o nome do falecido sobre sua herança e para que o nome do falecido não desapareça do meio de seus irmãos nem da porta de sua cidade. Disso sois testemunhas hoje”.",
+      "reference": "Rt 4:10"
+    },
+    "11": {
+      "text": "E todo o povo que se achava junto à porta, bem como os anciãos, responderam: “Nós somos testemunhas! Que Iahweh torne essa mulher que entra em tua casa semelhante a Raquel e a Lia, que formaram a casa de Israel. \\par Torna-te poderoso em Éfrata \\par adquire renome em Belém. \\par",
+      "reference": "Rt 4:11"
+    },
+    "12": {
+      "text": "E que, graças à posteridade que Iahweh te vai dar desta jovem, tua casa seja semelhante à de Farés, que Tamar deu à luz para Judá”. \\par",
+      "reference": "Rt 4:12"
+    },
+    "13": {
+      "text": "Assim Booz desposou Rute, que se tornou sua esposa. Uniu-se a ela, e Iahweh deu a Rute a graça de conceber e ela deu à luz um filho.",
+      "reference": "Rt 4:13"
+    },
+    "14": {
+      "text": "As mulheres disseram então a Noemi: “Bendito seja Iahweh, que não te deixou sem alguém para te resgatar; que o seu nome seja célebre em Israel!",
+      "reference": "Rt 4:14"
+    },
+    "15": {
+      "text": "Ele será para ti um consolador e um apoio na tua velhice, pois quem o gerou é tua nora, que te ama, que para ti vale mais do que sete filhos”.",
+      "reference": "Rt 4:15"
+    },
+    "16": {
+      "text": "E, Noemi, tomando o menino, colocou-o no colo e serviu-lhe de ama. \\par",
+      "reference": "Rt 4:16"
+    },
+    "17": {
+      "text": "As vizinhas deram-lhe um nome, dizendo: “Nasceu um filho a Noemi” e chamaram-no de Obed. Foi ele o pai de Jessé, pai de Davi. \\par",
+      "reference": "Rt 4:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Genealogia de Davi\\par }Está é a posteridade de Farés: \\par Fares gerou Hesron.",
+      "reference": "Rt 4:18"
+    },
+    "19": {
+      "text": "Hesron gerou Ram e Ram gerou Aminadab.",
+      "reference": "Rt 4:19"
+    },
+    "20": {
+      "text": "Aminadab gerou Naason e Naason gerou Salmon.",
+      "reference": "Rt 4:20"
+    },
+    "21": {
+      "text": "Salmon gerou Booz e Booz gerou Obed.",
+      "reference": "Rt 4:21"
+    },
+    "22": {
+      "text": "Obed gerou Jessé e Jessé gerou Davi. \\par",
+      "reference": "Rt 4:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

@@ -1,0 +1,45 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Parábola da vinha\\par }A palavra de Iahweh me foi dirigida nestes termos: \\par",
+      "reference": "Ez 15:1"
+    },
+    "2": {
+      "text": "Filho do homem, por que seria a parreira mais preciosa \\par do que todas as plantas sarmentosas que se encontram entre as árvores do bosque? \\par",
+      "reference": "Ez 15:2"
+    },
+    "3": {
+      "text": "Por acaso se tira dela madeira para fazer alguma coisa? \\par Ou tira-se dela uma estaca que possa servir para pendurar alguma coisa? \\par",
+      "reference": "Ez 15:3"
+    },
+    "4": {
+      "text": "Ei-la lançada no fogo para ser consumida. \\par O fogo consome-lhe as duas extremidades. \\par A parte média fica queimada; porventura servirá ainda para alguma coisa? \\par",
+      "reference": "Ez 15:4"
+    },
+    "5": {
+      "text": "Já quando estava intacta, nada se podia fazer com ela; \\par quanto mais agora que o fogo a consumiu \\par e ela ficou queimada, que se pode fazer com ela? \\par",
+      "reference": "Ez 15:5"
+    },
+    "6": {
+      "text": "Pois bem, assim diz o Senhor Iahweh: \\par Como aconteceu com a parreira entre as árvores do bosque, \\par a qual pus no fogo para ser consumida, \\par assim tratei os habitantes de Jerusalém. \\par",
+      "reference": "Ez 15:6"
+    },
+    "7": {
+      "text": "Voltei a minha face contra eles. \\par Escaparam do fogo, mas o fogo há de consumi-los \\par e sabereis que eu sou Iahweh, quando puser a minha face contra vós. \\par",
+      "reference": "Ez 15:7"
+    },
+    "8": {
+      "text": "Farei da terra uma desolação, visto que cometeram infidelidades, \\par oráculo do Senhor Iahweh. \\par",
+      "reference": "Ez 15:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

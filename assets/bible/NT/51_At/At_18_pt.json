@@ -1,0 +1,125 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Fundação da igreja de Corinto\\par }Depois disso, Paulo afastou-se de Atenas e foi para Corinto.",
+      "reference": "At 18:1"
+    },
+    "2": {
+      "text": "Lá encontrou um judeu chamado Áquila, natural do Ponto, recém-chegado da Itália com Priscila, sua mulher, em vista de Cláudio ter decretado que todos os judeus se afastassem de Roma. Foi, pois, ter com eles.",
+      "reference": "At 18:2"
+    },
+    "3": {
+      "text": "Como exercesse a mesma atividade artesanal, ficou ali hospedado e trabalhando: era, de profissão, fabricantes de tendas.",
+      "reference": "At 18:3"
+    },
+    "4": {
+      "text": "Cada sábado, ele discorria na sinagoga, esforçando-se por persuadir a judeus e a gregos. \\par",
+      "reference": "At 18:4"
+    },
+    "5": {
+      "text": "Quando, porém, Silas e Timóteo, chegaram da Macedônia, Paulo começou a dedicar-se inteiramente à Palavra, atestando aos judeus que Jesus é o Cristo.",
+      "reference": "At 18:5"
+    },
+    "6": {
+      "text": "Contudo, diante da oposição e das blasfêmias deles, Paulo sacudiu suas vestes e disse-lhes: “Vosso sangue recaia sobre a vossa cabeça! Quanto a mim, estou puro, e de agora em diante vou dirigir-me aos gentios”.",
+      "reference": "At 18:6"
+    },
+    "7": {
+      "text": "Então, retirando-se dali, dirigiu-se à casa de um certo Justo, adorador de Deus, cuja casa era contígua à sinagoga.",
+      "reference": "At 18:7"
+    },
+    "8": {
+      "text": "Mas Crispo, o chefe da sinagoga, creu no Senhor com toda a sua casa. Também muitos dos coríntios, ouvindo a Paulo, abraçaram a fé e eram batizados.",
+      "reference": "At 18:8"
+    },
+    "9": {
+      "text": "Uma noite, disse o Senhor a Paulo, em visão: “Não temas. Continua a falar e não te cales.",
+      "reference": "At 18:9"
+    },
+    "10": {
+      "text": "Eu estou contigo, e ninguém porá a mão sobre ti para fazer-te mal, pois tenho um povo numeroso nesta cidade”.",
+      "reference": "At 18:10"
+    },
+    "11": {
+      "text": "Assim, permaneceu ali um ano e seis meses, ensinando entre eles a palavra de Deus. \\par",
+      "reference": "At 18:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Paulo entregue à justiça pelos judeus\\par }Sendo Galião procônsul da Acaia, os judeus levantaram-se unanimemente contra Paulo e conduziram-no ao tribunal,",
+      "reference": "At 18:12"
+    },
+    "13": {
+      "text": "dizendo: “Este indivíduo procura persuadir os outros a adorarem a Deus de maneira contrária à Lei”.",
+      "reference": "At 18:13"
+    },
+    "14": {
+      "text": "Paulo ia abrir a boca, quando Galião retrucou aos judeus: “Se se tratasse de um delito ou ato perverso, ó judeus, com razão eu vos atenderia.",
+      "reference": "At 18:14"
+    },
+    "15": {
+      "text": "Mas se são questões de palavras, de nomes, e da vossa própria Lei, tratai vós mesmos disso! Juiz dessas coisas eu não quero ser”.",
+      "reference": "At 18:15"
+    },
+    "16": {
+      "text": "E despediu-os do tribunal.",
+      "reference": "At 18:16"
+    },
+    "17": {
+      "text": "Todos então se apoderaram de Sóstenes, o chefe da sinagoga, e o espancaram diante do tribunal, sem que Galião absolutamente interviesse. \\par",
+      "reference": "At 18:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Volta a Antioquia e partida para a terceira viagem\\par }Paulo, porém, permaneceu ali ainda muitos dias. Depois, despediu-se dos irmãos e embarcou para a Síria. Priscila e Áquila o acompanhavam. Ele havia raspado a cabeça em Cencréia, por causa de uma promessa. \\par",
+      "reference": "At 18:18"
+    },
+    "19": {
+      "text": "Chegados a Éfeso, deixou os companheiros ali. Ele próprio dirigiu-se à sinagoga, onde se entreteve com os judeus.",
+      "reference": "At 18:19"
+    },
+    "20": {
+      "text": "Estes lhe pediram que prolongasse a sua estada, mas Paulo não concordou.",
+      "reference": "At 18:20"
+    },
+    "21": {
+      "text": "Despedindo-se deles, porém, disse: “Virei ter convosco novamente, se Deus quiser!” E zarpou de Éfeso. \\par",
+      "reference": "At 18:21"
+    },
+    "22": {
+      "text": "Tendo desembarcado em Cesaréia, subiu para saudar a Igreja descendo depois para Antioquia. \\par",
+      "reference": "At 18:22"
+    },
+    "23": {
+      "text": "Passado algum tempo, partiu de novo e percorreu sucessivamente o território da Galácia e da Frígia, confirmando todos os discípulos. \\par",
+      "reference": "At 18:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Apolo\\par }Um judeu, chamado Apolo, natural de Alexandria, havia chegado a Éfeso. Era um homem eloqüente e versado nas Escrituras.",
+      "reference": "At 18:24"
+    },
+    "25": {
+      "text": "Tinha sido instruído no caminho do Senhor e, no fervor do espírito, falava e ensinava com exatidão o que se refere a Jesus, embora só conhecesse o batismo de João.",
+      "reference": "At 18:25"
+    },
+    "26": {
+      "text": "Começou, pois, a falar com intrepidez na sinagoga. Tendo-o ouvido, Priscila e Áquila tomaram-no consigo e, com mais exatidão, expuseram-lhe o Caminho. \\par",
+      "reference": "At 18:26"
+    },
+    "27": {
+      "text": "Como ele quisesse partir para a Acaia, animaram-no os irmãos e escreveram aos discípulos para que o acolhessem. Tendo lá chegado, muito ajudou, por efeito da graça, aos que tinham abraçado a fé.",
+      "reference": "At 18:27"
+    },
+    "28": {
+      "text": "Pois refutava vigorosamente os judeus em público, demonstrando pelas Escrituras que Jesus é o Cristo. \\par",
+      "reference": "At 18:28"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 28
+}

@@ -1,0 +1,69 @@
+{
+  "book": 38,
+  "book_name": "Zacarias",
+  "book_abbr": "Zc",
+  "book_category": "Profético",
+  "book_english": "Zechariah",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Quinta visão: o lampadário e as oliveiras\\par }O anjo que falava comigo retornou e despertou-me, como um homem que é despertado de seu sono.",
+      "reference": "Zc 4:1"
+    },
+    "2": {
+      "text": "Ele me disse: “Que vês?” E eu disse: “Vejo um lampadário todo de ouro com um reservatório em sua parte superior; sete lâmpadas estão sobre ele e sete canais para as lâmpadas que estão em sua parte superior.",
+      "reference": "Zc 4:2"
+    },
+    "3": {
+      "text": "E junto dele estão duas oliveiras, uma à sua direita e outra à sua esquerda”.",
+      "reference": "Zc 4:3"
+    },
+    "4": {
+      "text": "Então eu perguntei ao anjo que falava comigo: “O que significam estas coisas, meu Senhor?”",
+      "reference": "Zc 4:4"
+    },
+    "5": {
+      "text": "E o anjo que falava comigo respondeu-me: “Não sabes o que significam estas coisas?” Eu disse: “Não, meu Senhor!”",
+      "reference": "Zc 4:5"
+    },
+    "6": {
+      "text": "{\\super (6a)} E ele respondeu-me:",
+      "reference": "Zc 4:6"
+    },
+    "7": {
+      "text": "{\\cf15 [Veja v. 14]}",
+      "reference": "Zc 4:7"
+    },
+    "8": {
+      "text": "{\\cf15 [Veja v. 14]}",
+      "reference": "Zc 4:8"
+    },
+    "9": {
+      "text": "{\\cf15 [Veja v. 14]}",
+      "reference": "Zc 4:9"
+    },
+    "10": {
+      "text": "{\\super (10b)} “Estes sete são os olhos de Iahweh, que percorrem toda a terra”.",
+      "reference": "Zc 4:10"
+    },
+    "11": {
+      "text": "E eu lhe perguntei: “Que são estas duas oliveiras à direita do lampadário e à sua esquerda?”",
+      "reference": "Zc 4:11"
+    },
+    "12": {
+      "text": "(E eu lhe perguntei de novo: “O que significam os dois ramos de oliveira que deitam óleo por meio dos dois bicos de ouro?”)",
+      "reference": "Zc 4:12"
+    },
+    "13": {
+      "text": "Ele me disse: “Não sabes o que significam estas coisas?” E eu disse: “Não, meu Senhor!”",
+      "reference": "Zc 4:13"
+    },
+    "14": {
+      "text": "Ele disse: “Estes são os dois Ungidos que estão de pé diante do Senhor de toda a terra”. \\par \\par {\\qc\\b\\i Três palavras relativas a Zorobabel\\par }{\\super (6b)} Esta é a palavra de Iahweh a Zorobabel: \\par Não pelo poder, não pela força, mas sim por meu espírito – disse Iahweh dos Exércitos. {\\super (7)} Quem és tu grande montanha? Diante de Zorobabel és uma planície! Ele tirará a pedra de remate aos gritos: “Graça, graça a ela!” \\par  {\\super (8)} E a palavra de Iahweh me foi dirigida nestes termos: {\\super (9)} As mãos de Zorobabel lançaram os fundamentos deste Templo: suas mãos o terminarão. (E vós reconhecereis que Iahweh dos Exércitos me enviou a vós.) {\\super (10a)} Pois quem desprezou o dia de pequenos acontecimentos? Que eles se alegrem vendo a pedra escolhida na mão de Zorobabel. \\par",
+      "reference": "Zc 4:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

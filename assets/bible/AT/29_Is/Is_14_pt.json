@@ -1,0 +1,141 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Fim do exílio\\par }Com efeito, Iahweh mostrará compaixão para com Jacó; ele voltará a escolher a Israel. Estabelecê-los-á em seu território. O estrangeiro se unirá a eles, fazendo parte da casa de Jacó.",
+      "reference": "Is 14:1"
+    },
+    "2": {
+      "text": "Povos os tomarão e os trarão à sua terra. A casa de Israel os submeterá na terra de Iahweh, fazendo deles servos e servas. Reduzirão ao cativeiro aquele que os tinham feito cativos e dominarão aqueles que os tinham oprimido. \\par",
+      "reference": "Is 14:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i A morte do rei da Babilônia\\par }E sucederá, no dia em que Iahweh te der descanso do teu sofrimento, da tua inquietude e da dura servidão a que foste sujeitado,",
+      "reference": "Is 14:3"
+    },
+    "4": {
+      "text": "que entoarás esta sátira a respeito do rei da Babilônia: \\par Como terminou o opressor? Como terminou a arrogância? \\par",
+      "reference": "Is 14:4"
+    },
+    "5": {
+      "text": "Iahweh quebrou a vara dos ímpios, \\par e o cetro dos dominadores, \\par",
+      "reference": "Is 14:5"
+    },
+    "6": {
+      "text": "daquele que feria os povos com furor, \\par que feria com golpes intermináveis, \\par que com ira dominava as nações, \\par perseguindo-as sem que o pudessem deter. \\par",
+      "reference": "Is 14:6"
+    },
+    "7": {
+      "text": "O mundo inteiro repousa, está tranqüilo; \\par todos rompem em canto de alegria. \\par",
+      "reference": "Is 14:7"
+    },
+    "8": {
+      "text": "Até os ciprestes se regozijam por causa de ti, \\par bem como os cedros do Líbano; \\par “Depois que jazes caído, \\par ninguém mais sobe até aqui para pôr-nos abaixo!” \\par",
+      "reference": "Is 14:8"
+    },
+    "9": {
+      "text": "Nas profundezas, o Xeol se agita por causa de ti, \\par para vir ao teu encontro; \\par para receber-te despertou os mortos, \\par todos os potentados da terra, \\par fez erguerem-se dos seus tronos todos os reis das nações. \\par",
+      "reference": "Is 14:9"
+    },
+    "10": {
+      "text": "Todos eles se interpelam e se dizem: \\par “Então, também tu foste abatido como nós, \\par acabaste igual a nós. \\par",
+      "reference": "Is 14:10"
+    },
+    "11": {
+      "text": "O teu fausto foi precipitado no Xeol, \\par juntamente com a música das tuas harpas. \\par Sob o teu corpo os vermes formam como um colchão, \\par os bichos te cobrem como um cobertor. \\par",
+      "reference": "Is 14:11"
+    },
+    "12": {
+      "text": "Como caíste do céu, \\par ó estrela d’alva, filho da aurora! \\par Como foste atirado à terra, \\par vencedor das nações! \\par",
+      "reference": "Is 14:12"
+    },
+    "13": {
+      "text": "E, no entanto, dizias no teu coração: \\par ‘Hei de subir até o céu, \\par acima das estrelas de Deus colocarei o meu trono, \\par estabelecer-me-ei na montanha da Assembléia, \\par nos confins do norte. \\par",
+      "reference": "Is 14:13"
+    },
+    "14": {
+      "text": "Subirei acima das nuvens, \\par tornar-me-ei semelhante ao Altíssimo’. \\par",
+      "reference": "Is 14:14"
+    },
+    "15": {
+      "text": "E, contudo, foste precipitado ao Xeol, \\par nas profundezas do abismo”. \\par",
+      "reference": "Is 14:15"
+    },
+    "16": {
+      "text": "Os que te vêem fitam os olhos em ti, \\par e te observam com toda atenção, perguntando: \\par “Porventura é este o homem que fazia tremer a terra, \\par que abalava reinos? \\par",
+      "reference": "Is 14:16"
+    },
+    "17": {
+      "text": "Que reduziu o mundo a um deserto, \\par arrasou as suas cidades \\par e nunca permitiu que voltassem para a sua pátria os seus prisioneiros? \\par",
+      "reference": "Is 14:17"
+    },
+    "18": {
+      "text": "Todos os reis das nações repousam com honra, \\par cada um no seu jazigo. \\par",
+      "reference": "Is 14:18"
+    },
+    "19": {
+      "text": "Tu, porém, foste lançado fora da tua sepultura, \\par como um ramo abominável, \\par rodeado de gente imolada, trespassada à espada, \\par atirada sobre as pedras da fossa, \\par como uma carcaça pisada aos pés. \\par",
+      "reference": "Is 14:19"
+    },
+    "20": {
+      "text": "Tu não te reunirás àqueles na sepultura, \\par pois que arruinaste a tua terra, fizeste perecer o teu povo, \\par nunca mais se nomeará \\par essa raça de malvados. \\par",
+      "reference": "Is 14:20"
+    },
+    "21": {
+      "text": "Por causa da maldade dos pais \\par promovei a matança dos filhos. \\par Não se tornem eles a levantar para submeterem a terra \\par e encherem de cidades a face da terra”. \\par",
+      "reference": "Is 14:21"
+    },
+    "22": {
+      "text": "Levantar-me-ei contra eles, oráculo de Iahweh dos Exércitos, e extirparei da Babilônia o seu nome e o seu resto, a sua descendência e a sua posteridade, oráculo de Iahweh.",
+      "reference": "Is 14:22"
+    },
+    "23": {
+      "text": "Farei dela uma morada de ouriços e um brejo. Varrê-la-ei com a vassoura do extermínio, oráculo de Iahweh dos Exércitos. \\par",
+      "reference": "Is 14:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Contra a Assíria\\par }Iahweh dos Exércitos jurou, dizendo: \\par Certamente o que projetei se cumprirá, \\par aquilo que decidi se realizará: \\par",
+      "reference": "Is 14:24"
+    },
+    "25": {
+      "text": "Desmantelarei a Assíria na minha terra, \\par pisá-la-ei nos meus montes. \\par O seu jugo será removido do meu povo, \\par o seu fardo será removido dos seus ombros. \\par",
+      "reference": "Is 14:25"
+    },
+    "26": {
+      "text": "Este é o projeto que ele decidiu contra a terra inteira, \\par e esta é a mão estendida contra todas as nações. \\par",
+      "reference": "Is 14:26"
+    },
+    "27": {
+      "text": "Com efeito, Iahweh dos Exércitos tomou uma decisão, quem a anulará? \\par A sua mão está estendida, quem a fará recuar? \\par",
+      "reference": "Is 14:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Contra os filisteus\\par }No ano em que morreu o rei Acaz, foi recebido este oráculo: \\par",
+      "reference": "Is 14:28"
+    },
+    "29": {
+      "text": "Não te alegres, ó Filistéia toda, \\par por ter sido partido o bastão que te feria, \\par porque da raiz da serpente sairá uma víbora, e o seu fruto será uma serpente voadora. \\par",
+      "reference": "Is 14:29"
+    },
+    "30": {
+      "text": "Os primogênitos dos fracos terão pastagem, \\par os indigentes repousarão em segurança, \\par mas farei perecer pela fome a tua raiz \\par e darei a morte ao que resta de ti. \\par",
+      "reference": "Is 14:30"
+    },
+    "31": {
+      "text": "Uiva, ó porta! Grita, ó cidade! \\par Tu cambaleias toda, ó Filistéia! \\par Com efeito, do norte vem uma nuvem de fumaça; \\par ninguém deserta do seu posto. \\par",
+      "reference": "Is 14:31"
+    },
+    "32": {
+      "text": "Que resposta se dará aos mensageiros desta nação? \\par Que Iahweh fundou Sião \\par e ali se refugiarão os pobres do seu povo. \\par",
+      "reference": "Is 14:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

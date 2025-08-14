@@ -1,0 +1,141 @@
+{
+  "book": 49,
+  "book_name": "Efésios",
+  "book_abbr": "Ef",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Ephesians",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Parênese}\\par }{\\qc\\b\\i Apelo à unidade\\par }Exorto-vos, pois, eu, o prisioneiro no Senhor, a andardes de modo digno da vocação a que fostes chamados:",
+      "reference": "Ef 4:1"
+    },
+    "2": {
+      "text": "com toda humildade e mansidão, com longanimidade, suportando-vos uns aos outros com amor,",
+      "reference": "Ef 4:2"
+    },
+    "3": {
+      "text": "procurando conservar a unidade do Espírito pelo vínculo da paz.",
+      "reference": "Ef 4:3"
+    },
+    "4": {
+      "text": "Há um só Corpo e um só Espírito, assim como é uma só a esperança da vocação a que fostes chamados;",
+      "reference": "Ef 4:4"
+    },
+    "5": {
+      "text": "há um só Senhor, uma só fé, um só batismo;",
+      "reference": "Ef 4:5"
+    },
+    "6": {
+      "text": "há um só Deus e Pai de todos, que é sobre todos, por meio de todos e em todos. \\par",
+      "reference": "Ef 4:6"
+    },
+    "7": {
+      "text": "Mas a cada um de nós foi dada a graça pela medida do dom de Cristo,",
+      "reference": "Ef 4:7"
+    },
+    "8": {
+      "text": "por isso é que se diz: \\par {\\i Tendo subido às alturas, levou cativo o cativeiro, \\par concedeu dons aos homens.}\\par",
+      "reference": "Ef 4:8"
+    },
+    "9": {
+      "text": "Que significa “subiu”, senão que ele também desceu às profundezas da terra?",
+      "reference": "Ef 4:9"
+    },
+    "10": {
+      "text": "O que desceu é também o que subiu acima de todos os céus, a fim de plenificar todas as coisas.",
+      "reference": "Ef 4:10"
+    },
+    "11": {
+      "text": "E ele é que “concedeu” a uns ser apóstolos, a outros profetas, a outros evangelistas, a outros pastores e mestres,",
+      "reference": "Ef 4:11"
+    },
+    "12": {
+      "text": "para aperfeiçoar os santos em vista do ministério, para a edificação do Corpo de Cristo,",
+      "reference": "Ef 4:12"
+    },
+    "13": {
+      "text": "até que alcancemos todos nós a unidade da fé e do pleno conhecimento do Filho de Deus, o estado de Homem Perfeito, a medida da estatura da plenitude de Cristo. \\par",
+      "reference": "Ef 4:13"
+    },
+    "14": {
+      "text": "Assim, não seremos mais crianças, joguetes das ondas, agitados por todo vento de doutrina, presos pela artimanha dos homens e da sua astúcia que nos induz ao erro.",
+      "reference": "Ef 4:14"
+    },
+    "15": {
+      "text": "Mas, seguindo a verdade em amor, cresceremos em tudo em direção àquele que é a Cabeça, Cristo,",
+      "reference": "Ef 4:15"
+    },
+    "16": {
+      "text": "cujo Corpo, em sua inteireza, bem ajustado e unido por meio de toda junta e ligadura, com a operação harmoniosa de cada uma das suas partes, realiza o seu crescimento para a sua própria edificação no amor. \\par",
+      "reference": "Ef 4:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i A vida nova em Cristo\\par }Isto, portanto, digo e no Senhor testifico. Não andeis mais como andam os demais gentios, na futilidade dos seus pensamentos,",
+      "reference": "Ef 4:17"
+    },
+    "18": {
+      "text": "com entendimento entenebrecido, alienados da vida de Deus pela sua ignorância e pela dureza dos seus corações.",
+      "reference": "Ef 4:18"
+    },
+    "19": {
+      "text": "Tendo-se tornado insensíveis, entregaram-se à dissolução para praticarem avidamente toda sorte de impureza.",
+      "reference": "Ef 4:19"
+    },
+    "20": {
+      "text": "Vós, porém, não aprendestes assim a Cristo,",
+      "reference": "Ef 4:20"
+    },
+    "21": {
+      "text": "se realmente o ouvistes e, como é a verdade em Jesus, nele fostes ensinados",
+      "reference": "Ef 4:21"
+    },
+    "22": {
+      "text": "a remover o vosso modo de vida anterior – o homem velho, que se corrompe ao sabor das concupiscências enganosas –",
+      "reference": "Ef 4:22"
+    },
+    "23": {
+      "text": "e a renovar-vos pela transformação espiritual da vossa mente,",
+      "reference": "Ef 4:23"
+    },
+    "24": {
+      "text": "e revestir-vos do Homem Novo, criado segundo Deus, na justiça e santidade da verdade. \\par",
+      "reference": "Ef 4:24"
+    },
+    "25": {
+      "text": "Por isso abandonai a mentira e {\\i falai a verdade cada um ao seu próximo}, porque somos membros uns dos outros.",
+      "reference": "Ef 4:25"
+    },
+    "26": {
+      "text": "{\\i Irai-vos, mas não pequeis}: não se ponha o sol sobre a vossa ira,",
+      "reference": "Ef 4:26"
+    },
+    "27": {
+      "text": "nem deis lugar ao diabo.",
+      "reference": "Ef 4:27"
+    },
+    "28": {
+      "text": "O que furtava não mais furte, mas trabalhe com as suas próprias mãos, realizando o que é bom, para que tenha o que partilhar com o que tiver necessidade.",
+      "reference": "Ef 4:28"
+    },
+    "29": {
+      "text": "Não saia dos vossos lábios nenhuma palavra inconveniente, mas, na hora oportuna, a que for boa para edificação, que comunique graça aos que a ouvirem.",
+      "reference": "Ef 4:29"
+    },
+    "30": {
+      "text": "E não entristeçais o Espírito Santo de Deus, pelo qual fostes selados para o dia da redenção.",
+      "reference": "Ef 4:30"
+    },
+    "31": {
+      "text": "Toda amargura e exaltação e cólera, e toda palavra pesada e injuriosa, assim como toda malícia, sejam afastadas de entre vós.",
+      "reference": "Ef 4:31"
+    },
+    "32": {
+      "text": "Sede bondosos e compassivos uns com os outros, perdoando-vos mutuamente, como Deus em Cristo vos perdoou. \\par",
+      "reference": "Ef 4:32"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 32
+}

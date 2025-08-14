@@ -1,0 +1,73 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 144,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 144 (143)\\par }{\\qc\\b\\i Hino para a guerra e a vitória\\par }{\\qc\\i De Davi.\\par } Bendito seja Iahweh, o meu rochedo, \\par que treina minhas mãos para a batalha \\par e meus dedos para a guerra; \\par",
+      "reference": "Sl 144:1"
+    },
+    "2": {
+      "text": "meu amor e minha fortaleza, \\par minha torre forte e meu libertador, \\par o escudo em que me abrigo \\par e que a mim submete os povos. \\par",
+      "reference": "Sl 144:2"
+    },
+    "3": {
+      "text": "Iahweh, que é o homem para que o conheças, \\par o filho do mortal, que o consideres? \\par",
+      "reference": "Sl 144:3"
+    },
+    "4": {
+      "text": "O homem é como um sopro, \\par seus dias como a sombra que passa. \\par",
+      "reference": "Sl 144:4"
+    },
+    "5": {
+      "text": "Iahweh, inclina teu céu e desce, \\par toca os montes, e eles fumegarão, \\par",
+      "reference": "Sl 144:5"
+    },
+    "6": {
+      "text": "fulmina o raio e dispersa-os, \\par lança tuas flechas e afugenta-os! \\par",
+      "reference": "Sl 144:6"
+    },
+    "7": {
+      "text": "Do alto estende a tua mão, \\par salva-me, livra-me das águas torrenciais, \\par da mão dos estrangeiros: \\par",
+      "reference": "Sl 144:7"
+    },
+    "8": {
+      "text": "sua boca fala mentiras, \\par e sua direita é direita de perjúrio. \\par",
+      "reference": "Sl 144:8"
+    },
+    "9": {
+      "text": "Ó Deus, eu canto a ti um cântico novo, \\par vou tocar para ti a harpa de dez cordas: \\par",
+      "reference": "Sl 144:9"
+    },
+    "10": {
+      "text": "és que tu dás a vitória aos reis \\par e salvas a Davi, teu servo. \\par Da espada cruel",
+      "reference": "Sl 144:10"
+    },
+    "11": {
+      "text": "salva-me! \\par Livra-me da mão dos estrangeiros: \\par sua boca fala mentiras \\par e sua direita é direita de perjúrio. \\par",
+      "reference": "Sl 144:11"
+    },
+    "12": {
+      "text": "Sejam nossos filhos como plantas, \\par crescidos desde a adolescência; \\par nossas filhas sejam colunas talhadas, \\par imagem de um palácio; \\par",
+      "reference": "Sl 144:12"
+    },
+    "13": {
+      "text": "nossos celeiros cheios, transbordantes \\par de frutos de toda espécie; \\par nossos rebanhos se multipliquem aos milhares \\par e miríades, em nossos campos; \\par",
+      "reference": "Sl 144:13"
+    },
+    "14": {
+      "text": "nossos bois estejam carregados; \\par não haja brecha ou fuga, \\par nem grito de alarme em nossas praças. \\par",
+      "reference": "Sl 144:14"
+    },
+    "15": {
+      "text": "Feliz o povo em que assim acontece, \\par feliz o povo cujo Deus é Iahweh! \\par",
+      "reference": "Sl 144:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

@@ -1,0 +1,85 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O temor de Deus na provação\\par }Filho, se te dedicares a servir ao Senhor, \\par prepara-te para a prova. \\par",
+      "reference": "Eclo 2:1"
+    },
+    "2": {
+      "text": "Endireita teu coração e sê constante, \\par não te apavores no tempo da adversidade. \\par",
+      "reference": "Eclo 2:2"
+    },
+    "3": {
+      "text": "Une-te a ele e não te separes, \\par a fim de seres exaltado no teu último dia. \\par",
+      "reference": "Eclo 2:3"
+    },
+    "4": {
+      "text": "Tudo o que te acontecer, aceita-o, \\par e nas vicissitudes de tua pobre condição sê paciente, \\par",
+      "reference": "Eclo 2:4"
+    },
+    "5": {
+      "text": "pois o ouro se prova no fogo, \\par e os eleitos, no cadinho da humilhação. \\par",
+      "reference": "Eclo 2:5"
+    },
+    "6": {
+      "text": "Confia no Senhor, ele te ajudará, \\par endireita teus caminhos e espera nele. \\par",
+      "reference": "Eclo 2:6"
+    },
+    "7": {
+      "text": "Vós que temeis ao Senhor, contai com sua misericórdia \\par e não vos afasteis para não cairdes. \\par",
+      "reference": "Eclo 2:7"
+    },
+    "8": {
+      "text": "Vós que temeis ao Senhor, tende confiança nele \\par e a recompensa não vos faltará. \\par",
+      "reference": "Eclo 2:8"
+    },
+    "9": {
+      "text": "Vós que temeis ao Senhor, esperai bens, \\par alegria eterna e misericórdia. \\par",
+      "reference": "Eclo 2:9"
+    },
+    "10": {
+      "text": "Considerai as gerações passadas e vede: \\par quem confiou no Senhor e ficou desiludido? \\par Ou quem perseverou no seu temor e foi abandonado? \\par Ou quem clamou por ele e ele o desprezou? \\par",
+      "reference": "Eclo 2:10"
+    },
+    "11": {
+      "text": "Porque o Senhor é compassivo e misericordioso, \\par perdoa os pecados e salva no dia da tribulação. \\par",
+      "reference": "Eclo 2:11"
+    },
+    "12": {
+      "text": "Ai dos corações covardes e das mãos fracas, \\par e do pecador que segue dois caminhos. \\par",
+      "reference": "Eclo 2:12"
+    },
+    "13": {
+      "text": "Ai do coração fraco, pois não acredita, \\par por isso não será protegido. \\par",
+      "reference": "Eclo 2:13"
+    },
+    "14": {
+      "text": "Ai de vós que perdestes a paciência: \\par que fareis quando o Senhor vos visitar? \\par",
+      "reference": "Eclo 2:14"
+    },
+    "15": {
+      "text": "Os que temem ao Senhor não desobedecem às suas palavras, \\par os que o amam observam seus caminhos. \\par",
+      "reference": "Eclo 2:15"
+    },
+    "16": {
+      "text": "Os que temem ao Senhor procuram o seu beneplácito, \\par os que o amam saciam-se com a lei. \\par",
+      "reference": "Eclo 2:16"
+    },
+    "17": {
+      "text": "Os que temem ao Senhor preparam os seus corações \\par e diante dele se humilham. \\par",
+      "reference": "Eclo 2:17"
+    },
+    "18": {
+      "text": "Caiamos nas mãos do Senhor e não nas dos homens, \\par pois tal como é sua grandeza, assim é sua misericórdia. \\par",
+      "reference": "Eclo 2:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

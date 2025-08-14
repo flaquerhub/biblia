@@ -1,0 +1,85 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os operários do santuário\\par }Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 31:1"
+    },
+    "2": {
+      "text": "“Eis que chamei pelo nome a Beseleel, filho de Uri, filho de Hur, da tribo de Judá.",
+      "reference": "Ex 31:2"
+    },
+    "3": {
+      "text": "Eu o enchi com o espírito de Deus em sabedoria, entendimento e conhecimento para toda espécie de trabalho,",
+      "reference": "Ex 31:3"
+    },
+    "4": {
+      "text": "para elaborar desenhos, para trabalhar em ouro, prata e bronze,",
+      "reference": "Ex 31:4"
+    },
+    "5": {
+      "text": "para lapidação de pedras de engaste, para entalho de madeira, e para realizar toda espécie de trabalhos.",
+      "reference": "Ex 31:5"
+    },
+    "6": {
+      "text": "Eis que lhe dou por companheiro Ooliab, filho de Aquisamec, da tribo de Dã; coloquei a sabedoria no coração de todos os homens de coração sábio, para que façam tudo o que te ordenei:",
+      "reference": "Ex 31:6"
+    },
+    "7": {
+      "text": "a Tenda da Reunião, a arca do Testemunho, o propiciatório que está sobre ela e toda a mobília da Tenda;",
+      "reference": "Ex 31:7"
+    },
+    "8": {
+      "text": "a mesa com todos os seus acessórios, o candelabro de ouro puro com todos os seus acessórios, o altar do incenso,",
+      "reference": "Ex 31:8"
+    },
+    "9": {
+      "text": "o altar do holocausto com todos os seus acessórios, a bacia com a sua base;",
+      "reference": "Ex 31:9"
+    },
+    "10": {
+      "text": "as vestimentas litúrgicas, as vestimentas sagradas para o sacerdote Aarão e as vestimentas dos seus filhos para o exercício do sacerdócio;",
+      "reference": "Ex 31:10"
+    },
+    "11": {
+      "text": "o óleo da unção e o incenso para o santuário. Farão tudo de acordo com o que te ordenei”. \\par",
+      "reference": "Ex 31:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Repouso sabático\\par }Iahweh disse a Moisés:",
+      "reference": "Ex 31:12"
+    },
+    "13": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: Observareis de verdade os meus sábados, porque são um sinal entre mim e vós em vossas gerações, a fim de que saibais que eu sou Iahweh, o que vos santifica.",
+      "reference": "Ex 31:13"
+    },
+    "14": {
+      "text": "Observareis, pois, o sábado, porque é uma coisa santa para vós. Quem o profanar será castigado com a morte. Todo o que realizar nele algum trabalho será retirado do meio do povo.",
+      "reference": "Ex 31:14"
+    },
+    "15": {
+      "text": "Durante seis dias poder-se-á trabalhar; no sétimo dia, porém, se fará repouso absoluto, em honra de Iahweh. Todo aquele que trabalhar no dia do sábado deverá ser morto.",
+      "reference": "Ex 31:15"
+    },
+    "16": {
+      "text": "Os filhos de Israel observarão o sábado, celebrando-o de geração em geração, como uma aliança eterna.",
+      "reference": "Ex 31:16"
+    },
+    "17": {
+      "text": "Será um sinal perpétuo entre mim e os filhos de Israel, porque em seis dias Iahweh fez os céus e a terra; no sétimo dia, porém, descansou e tomou alento”. \\par",
+      "reference": "Ex 31:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Entrega das tábuas da lei a Moisés\\par }Quando ele terminou de falar com Moisés no monte Sinai, entregou-lhe as duas tábuas do Testemunho, tábuas de pedra escritas pelo dedo de Deus. \\par",
+      "reference": "Ex 31:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

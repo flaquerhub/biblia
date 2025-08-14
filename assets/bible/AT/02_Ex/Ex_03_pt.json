@@ -1,0 +1,101 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A sarça ardente\\par }Apascentava Moisés o rebanho de Jetro, seu sogro, sacerdote de Madiã. Conduziu as ovelhas para além do deserto e chegou ao Horeb, a montanha de Deus.",
+      "reference": "Ex 3:1"
+    },
+    "2": {
+      "text": "O Anjo de Iahweh lhe apareceu numa chama de fogo, do meio de uma sarça. Moisés olhou, e eis que a sarça ardia no fogo, e a sarça não se consumia.",
+      "reference": "Ex 3:2"
+    },
+    "3": {
+      "text": "Então disse Moisés: “Darei uma volta e verei este fenômeno estranho; verei por que a sarça não se consome”.",
+      "reference": "Ex 3:3"
+    },
+    "4": {
+      "text": "Viu Iahweh que ele deu uma volta para ver. E Deus o chamou do meio da sarça. Disse: “Moisés, Moisés”. Este respondeu: “Eis-me aqui”.",
+      "reference": "Ex 3:4"
+    },
+    "5": {
+      "text": "Ele disse: “Não te aproximes daqui; tira as sandálias dos pés porque o lugar em que estás é uma terra santa”.",
+      "reference": "Ex 3:5"
+    },
+    "6": {
+      "text": "Disse mais: “Eu sou o Deus de teus pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó”. Então Moisés cobriu o rosto, porque temia olhar para Deus. \\par",
+      "reference": "Ex 3:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i A missão de Moisés\\par }Iahweh disse: “Eu vi, eu vi a miséria do meu povo que está no Egito. Ouvi o seu clamor por causa dos seus opressores; pois eu conheço as suas angustias.",
+      "reference": "Ex 3:7"
+    },
+    "8": {
+      "text": "Por isso desci a fim de libertá-lo da mão dos egípcios, e para fazê-lo subir daquela terra a uma terra boa e vasta, terra que mana leite e mel, o lugar dos cananeus, dos heteus, dos amorreus, dos ferezeus, dos heveus e dos jebuseus.",
+      "reference": "Ex 3:8"
+    },
+    "9": {
+      "text": "Agora, o clamor dos filhos de Israel chegou até mim, e também vejo a opressão com que os egípcios os estão oprimindo.",
+      "reference": "Ex 3:9"
+    },
+    "10": {
+      "text": "Vai, pois, e eu te enviarei a Faraó, para fazer sair do Egito o meu povo, os filhos de Israel”. \\par",
+      "reference": "Ex 3:10"
+    },
+    "11": {
+      "text": "Então disse Moisés a Deus: “Quem sou eu para ir a Faraó e fazer sair do Egito os filhos de Israel?”",
+      "reference": "Ex 3:11"
+    },
+    "12": {
+      "text": "Deus disse: “Eu estarei contigo; e este será o sinal de que eu te enviei: quando fizeres o povo sair do Egito, vós servireis a Deus nesta montanha”. \\par",
+      "reference": "Ex 3:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i A revelação do Nome divino\\par }Moisés disse a Deus: “Quando eu for aos filhos de Israel e disser: ‘O Deus de vossos pais me enviou até vós’; e me perguntarem: ‘Qual é o seu nome?’, que direi?”",
+      "reference": "Ex 3:13"
+    },
+    "14": {
+      "text": "Disse Deus a Moisés: “Eu sou aquele que é”. Disse mais: “Assim dirás aos filhos de Israel: ‘EU SOU me enviou até vós’”.",
+      "reference": "Ex 3:14"
+    },
+    "15": {
+      "text": "Disse Deus ainda a Moisés: “Assim dirás aos filhos de Israel: ‘Iahweh, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó me enviou até vós. Este é o meu nome para sempre, e esta será a minha lembrança de geração em geração’. \\par",
+      "reference": "Ex 3:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Instruções para a missão de Moisés\\par }Vai, reúne os anciãos de Israel e dize-lhes: ‘Iahweh, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó me apareceu, dizendo: De fato, vos tenho visitado e visto o que vos é feito no Egito.",
+      "reference": "Ex 3:16"
+    },
+    "17": {
+      "text": "Então eu disse: Far-vos-ei subir da aflição do Egito para a terra dos cananeus, dos heteus, dos amorreus, dos ferezeus, dos heveus e dos jebuseus, para uma terra que mana leite e mel’.",
+      "reference": "Ex 3:17"
+    },
+    "18": {
+      "text": "E ouvirão a tua voz; e irás com os anciãos de Israel ao rei do Egito, e lhe dirás: ‘Iahweh, o Deus dos hebreus, veio ao nosso encontro. Agora, pois, deixa-nos ir pelo caminho de três dias de marcha no deserto para sacrificar a Iahweh nosso Deus’.",
+      "reference": "Ex 3:18"
+    },
+    "19": {
+      "text": "Eu sei, no entanto, que o rei do Egito não vós deixará ir, se não for obrigado por mão forte.",
+      "reference": "Ex 3:19"
+    },
+    "20": {
+      "text": "Portanto, estenderei a mão e ferirei o Egito com todas as maravilhas que farei no meio dele; depois disso é que ele vos deixará partir”. \\par",
+      "reference": "Ex 3:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i A espoliação dos egípcios\\par }Darei a este povo a boa graça dos egípcios; e quando sairdes, não será de mãos vazias.",
+      "reference": "Ex 3:21"
+    },
+    "22": {
+      "text": "Cada mulher pedirá à sua vizinha e à sua hóspede jóias de prata, jóias de ouro e vestimentas, que poreis sobre os vossos filhos e sobre as vossas filhas; e despojareis os egípcios”. \\par",
+      "reference": "Ex 3:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

@@ -1,0 +1,73 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Vitória contra os amonitas\\par }Cerca de um mês depois, Naás, o amonita, levantou-se contra Jabes de Galaad. Todos os habitantes de Jabes disseram a Naás: “Faze conosco um tratado, e te serviremos”.",
+      "reference": "1Sm 11:1"
+    },
+    "2": {
+      "text": "Mas Naás, o amonita, lhes respondeu: “Eis o preço que de vós exigirei: todos vós tereis vazado o olho direito, e assim provocarei a todo o Israel”.",
+      "reference": "1Sm 11:2"
+    },
+    "3": {
+      "text": "Então os anciãos de Jabes lhe responderam: “Dá-nos uma trégua de sete dias. Mandaremos mensageiros a todo o território de Israel e, se ninguém vier em nosso auxílio, nos renderemos a ti”.",
+      "reference": "1Sm 11:3"
+    },
+    "4": {
+      "text": "Os mensageiros chegaram a Gabaá de Saul e expuseram os fatos a todo o povo, e todo o povo se pôs a gritar e a chorar. \\par",
+      "reference": "1Sm 11:4"
+    },
+    "5": {
+      "text": "Ora, aconteceu que Saul, ao vir de cuidar dos bois no campo, perguntou: “Que há com o povo, que chora tanto?” Contaram-lhe o que lhes haviam dito os homens de Jabes",
+      "reference": "1Sm 11:5"
+    },
+    "6": {
+      "text": "e, quando Saul ouviu tais coisas, o espírito de Iahweh caiu sobre ele, e ele se encheu de cólera.",
+      "reference": "1Sm 11:6"
+    },
+    "7": {
+      "text": "Tomou uma junta de bois e os fez em pedaços, e os mandou por mensageiros a todo o território de Israel, com este recado: “A todo aquele que não seguir imediatamente a Saul, assim se fará a todos os seus bois”. Um terror de Iahweh se abateu sobre o povo e eles marcharam como se fossem um só homem.",
+      "reference": "1Sm 11:7"
+    },
+    "8": {
+      "text": "Saul os passou em revista em Besec: contou trezentos mil filhos de Israel e trinta mil homens de Judá.",
+      "reference": "1Sm 11:8"
+    },
+    "9": {
+      "text": "Então ele disse àqueles mensageiros: “Dizei aos homens de Jabes de Galaad: Amanhã quando o sol aquecer, vos chegará o socorro”. Quando voltaram, os mensageiros deram a notícia aos homens de Jabes, os quais rejubilaram",
+      "reference": "1Sm 11:9"
+    },
+    "10": {
+      "text": "e disseram a Naás: “Amanhã iremos a vós e então fareis conosco o que vos aprouver”. \\par",
+      "reference": "1Sm 11:10"
+    },
+    "11": {
+      "text": "No dia seguinte, Saul dispôs o exército em três corpos, que invadiram o acampamento ao raiar da manhã e atacaram os amonitas até à hora mais quente do dia. Os sobreviventes se dispersaram, de modo que não ficaram dois juntos. \\par",
+      "reference": "1Sm 11:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Saul é proclamado rei\\par }Então o povo disse a Samuel: “Quem eram os que diziam: ‘Saul não reinará sobre nós?’ Dize-nos os seus nomes e os condenaremos à morte!”",
+      "reference": "1Sm 11:12"
+    },
+    "13": {
+      "text": "Mas Saul disse: “Ninguém será condenado à morte hoje, porque neste dia Iahweh realizou a salvação em Israel”.",
+      "reference": "1Sm 11:13"
+    },
+    "14": {
+      "text": "Depois, Samuel disse ao povo: “Vinde e vamos a Guilgal e renovemos ali a realeza”. \\par",
+      "reference": "1Sm 11:14"
+    },
+    "15": {
+      "text": "Todo o povo se reuniu em Guilgal e Saul foi proclamado rei perante Iahweh, em Guilgal. Ali se imolaram sacrifícios de comunhão diante de Iahweh, e Saul e todos os homens de Israel se entregaram a grandes manifestações de alegria. \\par",
+      "reference": "1Sm 11:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

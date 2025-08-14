@@ -1,0 +1,129 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A nova ordem do mundo\\par }Deus abençoou Noé e seus filhos, e lhes disse: “Sede fecundos, multiplicai-vos, enchei a terra.",
+      "reference": "Gn 9:1"
+    },
+    "2": {
+      "text": "Sede o medo e o pavor de todos os animais da terra e de todas as aves do céu, como de tudo o que se move na terra e de todos os peixes do mar: eles são entregues nas vossas mãos.",
+      "reference": "Gn 9:2"
+    },
+    "3": {
+      "text": "Tudo o que se move e possui a vida vos servirá de alimento, tudo isso eu vos dou, como vos dei a verdura das plantas.",
+      "reference": "Gn 9:3"
+    },
+    "4": {
+      "text": "Mas não comereis a carne com sua alma, isto é, o sangue.",
+      "reference": "Gn 9:4"
+    },
+    "5": {
+      "text": "Pedirei contas, porém, do sangue de cada um de vós. Pedirei conta a todos os animais e ao homem, aos homens entre si, eu pedirei conta da alma do homem. \\par",
+      "reference": "Gn 9:5"
+    },
+    "6": {
+      "text": "Quem derrama o sangue do homem \\par pelo homem terá seu sangue derramado. \\par Pois à imagem de Deus \\par o homem foi feito. \\par",
+      "reference": "Gn 9:6"
+    },
+    "7": {
+      "text": "Quanto a vós, sede fecundos, multiplicai-vos, povoai a terra e dominai-a”. \\par",
+      "reference": "Gn 9:7"
+    },
+    "8": {
+      "text": "Deus falou assim a Noé e a seus filhos:",
+      "reference": "Gn 9:8"
+    },
+    "9": {
+      "text": "“Eis que estabeleço minha aliança convosco e com os vossos descendentes depois de vós,",
+      "reference": "Gn 9:9"
+    },
+    "10": {
+      "text": "e com todos os seres animados que estão convosco: aves, animais, todas as feras, tudo o que saiu da arca convosco, todos os animais da terra.",
+      "reference": "Gn 9:10"
+    },
+    "11": {
+      "text": "Estabeleço minha aliança convosco: tudo o que existe não será mais destruído pelas águas do dilúvio; não haverá mais dilúvio para devastar a terra”. \\par",
+      "reference": "Gn 9:11"
+    },
+    "12": {
+      "text": "Disse Deus: “Eis o sinal da aliança que instituo entre mim e vós e todos os seres vivos que estão convosco, para todas as gerações futuras:",
+      "reference": "Gn 9:12"
+    },
+    "13": {
+      "text": "porei meu arco na nuvem e ele se tornará um sinal da aliança entre mim e a terra.",
+      "reference": "Gn 9:13"
+    },
+    "14": {
+      "text": "Quando eu reunir as nuvens sobre a terra e o arco aparecer na nuvem,",
+      "reference": "Gn 9:14"
+    },
+    "15": {
+      "text": "eu me lembrarei da aliança que há entre mim e vós e todos os seres vivos: toda carne e as águas não mais se tornarão um dilúvio para destruir toda carne.",
+      "reference": "Gn 9:15"
+    },
+    "16": {
+      "text": "Quando o arco estiver na nuvem, eu o verei e me lembrarei da aliança eterna que há entre Deus e os seres vivos com toda carne que existe sobre a terra”. \\par",
+      "reference": "Gn 9:16"
+    },
+    "17": {
+      "text": "Deus disse a Noé: “Este é o sinal da aliança que estabeleço entre mim e toda carne que existe sobre a terra”. \\par",
+      "reference": "Gn 9:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b 3. DO DILÚVIO A ABRAÃO\\par }{\\qc\\b\\i Noé e seus filhos\\par }Os filhos de Noé, que saíram da arca, foram Sem, Cam e Jafé; Cam é o pai de Canaã.",
+      "reference": "Gn 9:18"
+    },
+    "19": {
+      "text": "Esses três foram os filhos de Noé e a partir deles se fez o povoamento de toda a terra. \\par",
+      "reference": "Gn 9:19"
+    },
+    "20": {
+      "text": "Noé, o cultivador, começou a plantar a vinha.",
+      "reference": "Gn 9:20"
+    },
+    "21": {
+      "text": "Bebendo vinho, embriagou-se e ficou nu dentro de sua tenda.",
+      "reference": "Gn 9:21"
+    },
+    "22": {
+      "text": "Cam, pai de Canaã, viu a nudez de seu pai e advertiu, fora, a seus dois irmãos.",
+      "reference": "Gn 9:22"
+    },
+    "23": {
+      "text": "Mas Sem e Jafé tomaram o manto, puseram-no sobre os seus próprios ombros e, andando de costas, cobriram a nudez de seu pai; seus rostos estavam voltados para trás e eles não viram a nudez de seu pai.",
+      "reference": "Gn 9:23"
+    },
+    "24": {
+      "text": "Quando Noé acordou de sua embriaguez, soube o que lhe fizera seu filho mais jovem.",
+      "reference": "Gn 9:24"
+    },
+    "25": {
+      "text": "E disse: \\par “Maldito seja Canaã! \\par Que ele seja, para seus irmãos, \\par o último dos escravos!” \\par",
+      "reference": "Gn 9:25"
+    },
+    "26": {
+      "text": "E disse também: \\par “Bendito seja Iahweh, o Deus de Sem, \\par e que Canaã seja seu escravo! \\par",
+      "reference": "Gn 9:26"
+    },
+    "27": {
+      "text": "Que Deus dilate Jafé, \\par que ele habite nas tendas de Sem, \\par e que Canaã seja seu escravo!” \\par",
+      "reference": "Gn 9:27"
+    },
+    "28": {
+      "text": "Depois do dilúvio, Noé viveu trezentos e cinqüenta anos.",
+      "reference": "Gn 9:28"
+    },
+    "29": {
+      "text": "Toda a duração da vida de Noé foi de novecentos e cinqüenta anos, depois morreu. \\par",
+      "reference": "Gn 9:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

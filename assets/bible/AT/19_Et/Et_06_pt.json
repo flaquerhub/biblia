@@ -1,0 +1,69 @@
+{
+  "book": 17,
+  "book_name": "Ester",
+  "book_abbr": "Et",
+  "book_category": "Histórico",
+  "book_english": "Esther",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i IV. Desforra dos judeus}\\par }{\\qc\\b\\i Desgraça de Amã\\par }Ora, naquela noite, como não conseguisse dormir, o rei pediu que trouxessem o livro das Memórias ou Crônicas para ser lido diante dele.",
+      "reference": "Et 6:1"
+    },
+    "2": {
+      "text": "Ali se contava como Mardoqueu havia denunciado a Bagatã e a Tares, os dois eunucos guardas da porta, culpados de terem projetado atentar contra a vida de Assuero.",
+      "reference": "Et 6:2"
+    },
+    "3": {
+      "text": "“E que distinção, que dignidade”, disse o rei, “foram por isso conferidas a este Mardoqueu?” – “Nada foi feito por ele”, responderam os cortesãos de serviço.",
+      "reference": "Et 6:3"
+    },
+    "4": {
+      "text": "Então o rei perguntou: “Quem está no vestíbulo?” Era exatamente o momento em que Amã chegava ao vestíbulo exterior do palácio real para pedir ao rei que mandasse enforcar a Mardoqueu na forca por ele preparada.",
+      "reference": "Et 6:4"
+    },
+    "5": {
+      "text": "Os servos responderam: “É Amã que está no vestíbulo”. – “Que entre!”, ordenou o rei.",
+      "reference": "Et 6:5"
+    },
+    "6": {
+      "text": "Logo que entrou, disse-lhe o rei: “Como se deve tratar um homem a quem o rei quer honrar?” – “E a quem deseja o rei honrar senão a mim?”, pensou Amã.",
+      "reference": "Et 6:6"
+    },
+    "7": {
+      "text": "Respondeu ele: “Se o rei quer honrar alguém,",
+      "reference": "Et 6:7"
+    },
+    "8": {
+      "text": "que se tomem vestes principescas, dessas que usa o rei; que se traga um cavalo, desses que o rei monta, e sobre sua cabeça se ponha um diadema real.",
+      "reference": "Et 6:8"
+    },
+    "9": {
+      "text": "Em seguida, vestes e cavalo serão confiados a um dos mais nobres dos altos oficiais reais. Este, então, revestirá com essa roupa o homem a quem o rei quer honrar e o conduzirá a cavalo pela praça da cidade, gritando diante dele: Assim se faz ao homem a quem o rei quer honrar!”",
+      "reference": "Et 6:9"
+    },
+    "10": {
+      "text": "–“Não percas um instante”, respondeu o rei a Amã: “toma vestes e cavalo e faze tudo o que acabas de dizer ao judeu Mardoqueu, funcionário da Porta Real. Sobretudo, não omitas nada do que disseste!” \\par",
+      "reference": "Et 6:10"
+    },
+    "11": {
+      "text": "Tomando, pois, vestes e cavalo, Amã vestiu a Mardoqueu e depois fê-lo passear a cavalo pela praça da cidade, gritando diante dele: “Assim se faz ao homem a quem o rei quer honrar!”",
+      "reference": "Et 6:11"
+    },
+    "12": {
+      "text": "Depois disso, Mardoqueu voltou à Porta Real, ao passo que Amã se retirou rapidamente para casa, consternado e com o rosto coberto.",
+      "reference": "Et 6:12"
+    },
+    "13": {
+      "text": "Contou à sua mulher Zares e a todos os seus amigos o que acabava de acontecer. Sua mulher Zares e seus amigos lhe disseram: “Tu começas a cair diante de Mardoqueu: se ele é da raça dos judeus, tu não prevalecerás contra ele. Antes, certamente cairás mais baixo diante dele”. \\par",
+      "reference": "Et 6:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Amã no banquete de Ester\\par }Ainda falaram quando chegaram os eunucos do rei à procura de Amã, para o conduzirem apressadamente ao banquete oferecido por Ester. \\par",
+      "reference": "Et 6:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

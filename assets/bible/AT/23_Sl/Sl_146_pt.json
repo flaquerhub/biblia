@@ -1,0 +1,53 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 146,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 146 (145)\\par }{\\qc\\b\\i Hino ao Deus que socorre\\par }Aleluia! \\par Louva a Iahweh, ó minha alma! \\par",
+      "reference": "Sl 146:1"
+    },
+    "2": {
+      "text": "Enquanto eu viver, vou louvar a Iahweh, \\par vou tocar ao meu Deus, enquanto existir! \\par",
+      "reference": "Sl 146:2"
+    },
+    "3": {
+      "text": "Não coloqueis a segurança nos nobres \\par e nos filhos do homem, que não podem salvar! \\par",
+      "reference": "Sl 146:3"
+    },
+    "4": {
+      "text": "Exalam o espírito e voltam à terra, \\par e no mesmo dia perecem seus planos! \\par",
+      "reference": "Sl 146:4"
+    },
+    "5": {
+      "text": "Feliz quem se apóia no Deus de Jacó, \\par quem põe a esperança em Iahweh seu Deus: \\par",
+      "reference": "Sl 146:5"
+    },
+    "6": {
+      "text": "foi ele quem fez o céu e a terra, \\par o mar e tudo o que neles existe. \\par Ele mantém para sempre a verdade: \\par",
+      "reference": "Sl 146:6"
+    },
+    "7": {
+      "text": "fazendo justiça aos oprimidos, \\par dando pão aos famintos; \\par Iahweh liberta os prisioneiros, \\par",
+      "reference": "Sl 146:7"
+    },
+    "8": {
+      "text": "Iahweh abre os olhos dos cegos, \\par Iahweh endireita os curvados, \\par Iahweh ama os justos, \\par",
+      "reference": "Sl 146:8"
+    },
+    "9": {
+      "text": "Iahweh protege o estrangeiro, \\par sustenta o órfão e a viúva; \\par mas transtorna o caminho dos ímpios. \\par",
+      "reference": "Sl 146:9"
+    },
+    "10": {
+      "text": "Iahweh reina para sempre, \\par teu Deus, ó Sião, de geração em geração! \\par",
+      "reference": "Sl 146:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

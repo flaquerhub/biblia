@@ -1,0 +1,121 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O exemplo de Paulo\\par }Não sou, porventura, livre? Não sou apóstolo? Não vi Jesus, nosso Senhor? Não sois minha obra no Senhor?",
+      "reference": "1Co 9:1"
+    },
+    "2": {
+      "text": "Ainda que para outros eu não seja apóstolo, para vós, ao menos, o sou; pois o selo do meu apostolado sois vós, no Senhor.",
+      "reference": "1Co 9:2"
+    },
+    "3": {
+      "text": "Esta é a minha resposta àqueles que me acusam:",
+      "reference": "1Co 9:3"
+    },
+    "4": {
+      "text": "Não temos o direito de comer e beber?",
+      "reference": "1Co 9:4"
+    },
+    "5": {
+      "text": "Não temos o direito de levar conosco, nas viagens, uma mulher cristã, como os outros apóstolos e os irmãos do Senhor e Cefas?",
+      "reference": "1Co 9:5"
+    },
+    "6": {
+      "text": "Ou somente eu e Barnabé não temos o direito de ser dispensados de trabalhar?",
+      "reference": "1Co 9:6"
+    },
+    "7": {
+      "text": "Quem vai alguma vez à guerra com seus próprios recursos? Quem planta uma vinha e não come do seu fruto? Quem apascenta um rebanho e não se alimenta do leite do rebanho? \\par",
+      "reference": "1Co 9:7"
+    },
+    "8": {
+      "text": "Digo isto, baseado apenas em considerações humanas? Ou a Lei não diz também a mesma coisa?",
+      "reference": "1Co 9:8"
+    },
+    "9": {
+      "text": "Com efeito, na Lei de Moisés está escrito: {\\i Não amordaçarás o boi que tritura o grão.} Acaso Deus se preocupa com os bois?",
+      "reference": "1Co 9:9"
+    },
+    "10": {
+      "text": "Não é, sem dúvida, por causa de nós que ele assim fala? Sim; por causa de nós é que isso foi escrito, pois aquele que trabalha deve trabalhar com esperança e aquele que pisa o grão deve ter a esperança de receber a sua parte.",
+      "reference": "1Co 9:10"
+    },
+    "11": {
+      "text": "Se semeamos em vós os bens espirituais, será excessivo que colhamos os vossos bens materiais?",
+      "reference": "1Co 9:11"
+    },
+    "12": {
+      "text": "Se outros exercem esse direito sobre vós, por que não o poderíamos nós com mais razão? Todavia não usamos esse direito; ao contrário, tudo suportamos, para não criar obstáculo ao evangelho de Cristo.",
+      "reference": "1Co 9:12"
+    },
+    "13": {
+      "text": "Não sabeis que aqueles que desempenham funções sagradas vivem do rendimento do templo, e aqueles que servem ao altar têm parte no que é oferecido sobre o altar?",
+      "reference": "1Co 9:13"
+    },
+    "14": {
+      "text": "Da mesma forma o Senhor ordenou àqueles que anunciam o evangelho, que vivam do evangelho. \\par",
+      "reference": "1Co 9:14"
+    },
+    "15": {
+      "text": "Da minha parte, porém, não me vali de nenhum desses direitos. Nem escrevo estas coisas no intuito de reclamá-los em meu favor. Antes morrer que... Não! Ninguém me arrebatará esse título de glória!",
+      "reference": "1Co 9:15"
+    },
+    "16": {
+      "text": "Anunciar o evangelho não é título de glória para mim; é, antes, uma necessidade que se me impõe. Ai de mim, se eu não anunciar o evangelho!",
+      "reference": "1Co 9:16"
+    },
+    "17": {
+      "text": "Se eu o fizesse por iniciativa própria, teria direito a um salário; mas, já que o faço por imposição, desempenho um encargo que me foi confiado.",
+      "reference": "1Co 9:17"
+    },
+    "18": {
+      "text": "Qual é então o meu salário? É que, pregando o evangelho, eu o prego gratuitamente, sem usar dos direitos que a pregação do evangelho me confere. \\par",
+      "reference": "1Co 9:18"
+    },
+    "19": {
+      "text": "Ainda que livre em relação a todos, fiz-me o servo de todos, a fim de ganhar o maior número possível.",
+      "reference": "1Co 9:19"
+    },
+    "20": {
+      "text": "Para os judeus, fiz-me como judeu, a fim de ganhar os judeus. Para os que estão sujeitos à Lei, fiz-me como se estivesse sujeito à Lei – se bem que não esteja sujeito à Lei –, para ganhar aqueles que estão sujeitos à Lei.",
+      "reference": "1Co 9:20"
+    },
+    "21": {
+      "text": "Para aqueles que vivem sem a Lei, fiz-me como se vivesse sem a Lei – ainda que não viva sem a lei de Deus, pois estou sob a lei de Cristo –, para ganhar aqueles que vivem sem a Lei.",
+      "reference": "1Co 9:21"
+    },
+    "22": {
+      "text": "Para os fracos, fiz-me fraco, a fim de ganhar os fracos.",
+      "reference": "1Co 9:22"
+    },
+    "23": {
+      "text": "E isto tudo eu faço por causa do evangelho, para dele me tornar participante. \\par",
+      "reference": "1Co 9:23"
+    },
+    "24": {
+      "text": "Não sabeis que aqueles que correm no estádio, correm todos, mas um só ganha o prêmio? Correi, portanto, de maneira a consegui-lo.",
+      "reference": "1Co 9:24"
+    },
+    "25": {
+      "text": "Os atletas se abstêm de tudo; eles, para ganhar uma coroa perecível; nós, porém, para ganhar uma coroa imperecível.",
+      "reference": "1Co 9:25"
+    },
+    "26": {
+      "text": "Quanto a mim, é assim que corro, não ao incerto; é assim que pratico o pugilato, mas não como quem fere o ar.",
+      "reference": "1Co 9:26"
+    },
+    "27": {
+      "text": "Trato duramente o meu corpo e reduzo-o à servidão, a fim de que não aconteça que, tendo proclamado a mensagem aos outros, venha eu mesmo a ser reprovado. \\par",
+      "reference": "1Co 9:27"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 27
+}

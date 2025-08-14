@@ -1,0 +1,105 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 94,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 94 (93)\\par }{\\qc\\b\\i O Deus justo\\par }Iahweh, ó Deus das vinganças, \\par aparece, ó Deus das vinganças! \\par",
+      "reference": "Sl 94:1"
+    },
+    "2": {
+      "text": "Levanta-te, ó juiz da terra, \\par devolve o merecido aos soberbos! \\par",
+      "reference": "Sl 94:2"
+    },
+    "3": {
+      "text": "Até quando os ímpios, Iahweh, \\par até quando os ímpios irão triunfar? \\par",
+      "reference": "Sl 94:3"
+    },
+    "4": {
+      "text": "Eles transbordam em palavras insolentes, \\par todos os malfeitores se gabam! \\par",
+      "reference": "Sl 94:4"
+    },
+    "5": {
+      "text": "É teu povo, Iahweh, que eles massacram, \\par é tua herança que eles humilham; \\par",
+      "reference": "Sl 94:5"
+    },
+    "6": {
+      "text": "matam a viúva e o estrangeiro \\par e aos órfãos assassinam. \\par",
+      "reference": "Sl 94:6"
+    },
+    "7": {
+      "text": "E pensam: “Iahweh nada vê, \\par o Deus de Jacó nem percebe...” \\par",
+      "reference": "Sl 94:7"
+    },
+    "8": {
+      "text": "Percebei vós, ó imbecis consumados, \\par idiotas, quando ireis entender? \\par",
+      "reference": "Sl 94:8"
+    },
+    "9": {
+      "text": "Quem plantou o ouvido não ouvirá? \\par Quem formou o olho não olhará? \\par",
+      "reference": "Sl 94:9"
+    },
+    "10": {
+      "text": "Quem educa as nações não punirá? \\par Ele ensina ao homem o conhecimento: \\par",
+      "reference": "Sl 94:10"
+    },
+    "11": {
+      "text": "Iahweh conhece os pensamentos do homem, \\par e que são apenas um sopro. \\par",
+      "reference": "Sl 94:11"
+    },
+    "12": {
+      "text": "Feliz o homem a quem corriges, Iahweh, \\par e a quem ensinas por meio de tua lei, \\par",
+      "reference": "Sl 94:12"
+    },
+    "13": {
+      "text": "dando-lhe descanso nos dias maus, \\par até que abram uma cova para o ímpio. \\par",
+      "reference": "Sl 94:13"
+    },
+    "14": {
+      "text": "Pois Iahweh não rejeita seu povo, \\par jamais abandona sua herança, \\par",
+      "reference": "Sl 94:14"
+    },
+    "15": {
+      "text": "até que o julgamento se converta em justiça \\par e todos os corações retos o sigam. \\par",
+      "reference": "Sl 94:15"
+    },
+    "16": {
+      "text": "Quem se levanta por mim contra os maus? \\par Quem se coloca ao meu lado contra os malfeitores? \\par",
+      "reference": "Sl 94:16"
+    },
+    "17": {
+      "text": "Se Iahweh não viesse em meu socorro, \\par em breve eu habitaria no silêncio. \\par",
+      "reference": "Sl 94:17"
+    },
+    "18": {
+      "text": "Quando eu digo: “Meu pé vai tropeçar”, \\par o teu amor, Iahweh, me sustenta; \\par",
+      "reference": "Sl 94:18"
+    },
+    "19": {
+      "text": "quando as preocupações se multiplicam em mim, \\par as tuas consolações me deleitam. \\par",
+      "reference": "Sl 94:19"
+    },
+    "20": {
+      "text": "Estás aliado a um tribunal criminoso \\par que erige a desordem em nome da lei? \\par",
+      "reference": "Sl 94:20"
+    },
+    "21": {
+      "text": "Eles atacam a vida do justo, \\par declaram culpado o sangue do inocente. \\par",
+      "reference": "Sl 94:21"
+    },
+    "22": {
+      "text": "Mas Iahweh é uma fortaleza para mim, \\par meu Deus é a rocha em que me abrigo; \\par",
+      "reference": "Sl 94:22"
+    },
+    "23": {
+      "text": "ele fará sua iniqüidade recair sobre eles \\par e os destruirá por sua própria maldade. \\par Iahweh nosso Deus os destruirá! \\par",
+      "reference": "Sl 94:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

@@ -1,0 +1,133 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Só o homem abatido conhece sua miséria\\par }Jó tomou a palavra e disse: \\par",
+      "reference": "Jó 6:1"
+    },
+    "2": {
+      "text": "Ah, se pudessem pesar minha aflição \\par e pôr na balança meu infortúnio, \\par",
+      "reference": "Jó 6:2"
+    },
+    "3": {
+      "text": "seriam mais pesados que a areia do mar, \\par por isso as minhas palavras são desvairadas. \\par",
+      "reference": "Jó 6:3"
+    },
+    "4": {
+      "text": "Levo cravadas as flechas de Shaddai \\par e sinto absorver seu veneno. \\par Os terrores de Deus assediam-me. \\par",
+      "reference": "Jó 6:4"
+    },
+    "5": {
+      "text": "Porventura, zurra o asno quando tem erva? \\par Ou muge o boi diante da forragem? \\par",
+      "reference": "Jó 6:5"
+    },
+    "6": {
+      "text": "Come-se um manjar insípido, sem sal? \\par Ou que gosto pode haver numa clara de ovo? \\par",
+      "reference": "Jó 6:6"
+    },
+    "7": {
+      "text": "Ora, o que meu apetite recusa tocar, \\par isso é a minha comida de doente. \\par",
+      "reference": "Jó 6:7"
+    },
+    "8": {
+      "text": "Oxalá se cumprisse o que pedi, \\par e Deus concedesse o que espero: \\par",
+      "reference": "Jó 6:8"
+    },
+    "9": {
+      "text": "que se dignasse esmagar-me, \\par que soltasse sua mão e me suprimisse. \\par",
+      "reference": "Jó 6:9"
+    },
+    "10": {
+      "text": "Seria até um consolo para mim: \\par torturado sem piedade, saltaria de gozo, \\par pois não reneguei as palavras do Santo. \\par",
+      "reference": "Jó 6:10"
+    },
+    "11": {
+      "text": "Que forças me sobram para resistir? \\par Que destino espero para ter paciência? \\par",
+      "reference": "Jó 6:11"
+    },
+    "12": {
+      "text": "É minha força a força das pedras, \\par ou é de bronze minha carne? \\par",
+      "reference": "Jó 6:12"
+    },
+    "13": {
+      "text": "Teria por apoio o nada, \\par e toda ajuda não fugiu longe de mim? \\par",
+      "reference": "Jó 6:13"
+    },
+    "14": {
+      "text": "Recusar a misericórdia a seu próximo, \\par é rejeitar o temor de Shaddai. \\par",
+      "reference": "Jó 6:14"
+    },
+    "15": {
+      "text": "Meus irmãos atraiçoaram-me como uma torrente, \\par como canais de um rio que transborda, \\par",
+      "reference": "Jó 6:15"
+    },
+    "16": {
+      "text": "tornando-se turvo pelo degelo \\par e arrastando consigo a neve. \\par",
+      "reference": "Jó 6:16"
+    },
+    "17": {
+      "text": "No tempo de verão, porém, desaparece, \\par ao vir o calor extingue-se em seu leito. \\par",
+      "reference": "Jó 6:17"
+    },
+    "18": {
+      "text": "As caravanas desviam-se de sua rota, \\par penetram no deserto e se perdem. \\par",
+      "reference": "Jó 6:18"
+    },
+    "19": {
+      "text": "As caravanas de Tema procuram-no, \\par e os mercadores de Sabá contam com ele: \\par",
+      "reference": "Jó 6:19"
+    },
+    "20": {
+      "text": "mas fica burlada sua esperança, \\par ao encontrá-lo se vêem decepcionados. \\par",
+      "reference": "Jó 6:20"
+    },
+    "21": {
+      "text": "Tais sois para mim agora: \\par Ao me verdes, cheios de medo, ficais com pavor. \\par",
+      "reference": "Jó 6:21"
+    },
+    "22": {
+      "text": "Porventura disse eu: “Dai-me algo”? \\par “Resgatai-me com a vossa fortuna”? \\par",
+      "reference": "Jó 6:22"
+    },
+    "23": {
+      "text": "“Arrancai-me da mão de um opressor”? \\par “Resgatai-me da mão dos tiranos”? \\par",
+      "reference": "Jó 6:23"
+    },
+    "24": {
+      "text": "Instruí-me e guardarei silêncio, \\par fazei-me ver em que me equivoquei. \\par",
+      "reference": "Jó 6:24"
+    },
+    "25": {
+      "text": "Como são agradáveis as palavras justas! \\par Porém, como podeis censurar-me e repreender-me? \\par",
+      "reference": "Jó 6:25"
+    },
+    "26": {
+      "text": "Pretendeis increpar-me por palavras, \\par considerar como vento as palavras de um desesperado? \\par",
+      "reference": "Jó 6:26"
+    },
+    "27": {
+      "text": "Seríeis capazes de leiloar um órfão, \\par de traficar o vosso amigo. \\par",
+      "reference": "Jó 6:27"
+    },
+    "28": {
+      "text": "Agora, olhai-me atentamente: \\par juro não mentir diante de vós. \\par",
+      "reference": "Jó 6:28"
+    },
+    "29": {
+      "text": "Voltai atrás, por favor: que não se faça injustiça, \\par voltai atrás, porque justa é a minha causa. \\par",
+      "reference": "Jó 6:29"
+    },
+    "30": {
+      "text": "Há falsidade sobre minha língua? \\par meu paladar não poderá distinguir o mal? \\par",
+      "reference": "Jó 6:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

@@ -1,0 +1,133 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 44,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Último ministério de Jeremias: Os judeus no Egito e a rainha do Céu\\par }Palavra que foi dirigida a Jeremias para todos os judeus residentes na terra do Egito, residentes em Magdol, Táfnis, Nof e na terra de Patros. \\par",
+      "reference": "Jr 44:1"
+    },
+    "2": {
+      "text": "Assim disse Iahweh dos Exércitos, Deus de Israel: Vós vistes toda a desgraça que fiz vir sobre Jerusalém e sobre todas as cidades de Judá: ei-las hoje em ruínas e sem habitantes!",
+      "reference": "Jr 44:2"
+    },
+    "3": {
+      "text": "Foi por causa das maldades que cometeram para me irritarem, indo incensar e servir deuses estrangeiros, que nem eles, nem vós, nem vossos pais conheciam.",
+      "reference": "Jr 44:3"
+    },
+    "4": {
+      "text": "E eu vos enviei, constantemente, todos os meus servos, os profetas, para dizer: “Não façais essa coisa abominável que detesto!”",
+      "reference": "Jr 44:4"
+    },
+    "5": {
+      "text": "Mas não escutaram nem deram ouvidos para se converterem de sua maldade e não mais incensarem deuses estrangeiros.",
+      "reference": "Jr 44:5"
+    },
+    "6": {
+      "text": "Então minha fúria e minha cólera transbordaram e abrasaram as cidades de Judá e as ruas de Jerusalém, que se tornaram ruína e solidão, como hoje.",
+      "reference": "Jr 44:6"
+    },
+    "7": {
+      "text": "Agora, assim disse Iahweh, Deus dos Exércitos, Deus de Israel: Por que causais a vós mesmos um mal tão grande? Iríeis exterminar do meio de Judá homens e mulheres, crianças e lactentes, sem que vos subsista um resto,",
+      "reference": "Jr 44:7"
+    },
+    "8": {
+      "text": "visto que me teríeis irritado com as obras de vossas mãos, incensando deuses estrangeiros na terra do Egito, onde entrastes para nela morardes, trabalhando assim para o vosso extermínio e tornando-vos um objeto de maldição e zombaria entre todas as nações da terra?",
+      "reference": "Jr 44:8"
+    },
+    "9": {
+      "text": "Vós vos esquecestes das maldades de vossos pais, das maldades dos reis de Judá e da maldade de vossos príncipes, de vossas maldades e das maldades de vossas mulheres, cometidas na terra de Judá e nas ruas de Jerusalém?",
+      "reference": "Jr 44:9"
+    },
+    "10": {
+      "text": "Eles não se deixaram abater até o dia de hoje, não temeram e não caminharam conforme a minha Lei e conforme as prescrições que coloquei diante de vós e diante de vossos pais.",
+      "reference": "Jr 44:10"
+    },
+    "11": {
+      "text": "Por isso, assim disse Iahweh dos Exércitos, Deus de Israel: Eis que volto minha face contra vós para vossa desgraça, para exterminar todo Judá.",
+      "reference": "Jr 44:11"
+    },
+    "12": {
+      "text": "Tomarei o resto de Judá que decidiu entrar na terra do Egito para ali morar: eles perecerão todos, na terra do Egito eles cairão, eles perecerão pela espada e pela fome, do menor ao maior eles morrerão pela espada e pela fome, e serão objeto de escárnio, estupefação, desprezo e opróbrio.",
+      "reference": "Jr 44:12"
+    },
+    "13": {
+      "text": "Castigarei aqueles que se instalaram na terra do Egito, como castiguei Jerusalém: pela espada, pela fome e pela peste.",
+      "reference": "Jr 44:13"
+    },
+    "14": {
+      "text": "Não haverá quem escape ou fuja, do resto de Judá, daqueles que entraram na terra do Egito para lá morarem. Quanto a voltar para a terra de Judá, para onde eles desejam voltar, a fim de lá habitarem, certamente não voltarão, a não ser alguns fugitivos. \\par",
+      "reference": "Jr 44:14"
+    },
+    "15": {
+      "text": "Todos os homens que sabiam que suas mulheres incensavam deuses estrangeiros e todas as mulheres presentes – uma grande assembléia – (e todo povo que habitava na terra do Egito e em Patros) responderam a Jeremias, dizendo:",
+      "reference": "Jr 44:15"
+    },
+    "16": {
+      "text": "“A palavra que nos falaste em nome de Iahweh, nós não a queremos escutar.",
+      "reference": "Jr 44:16"
+    },
+    "17": {
+      "text": "Porque continuaremos a fazer tudo o que prometemos: oferecer incenso à rainha do Céu e fazer-lhe libações, como fazíamos, nós e nossos pais, nossos reis e nossos príncipes, nas cidades de Judá e nas ruas de Jerusalém; tínhamos, então, fartura de pão, éramos felizes e não víamos a desgraça.",
+      "reference": "Jr 44:17"
+    },
+    "18": {
+      "text": "Mas desde que cessamos de oferecer incenso à rainha do Céu e de fazer-lhe libações, tudo nos faltou e nós perecemos pela espada e pela fome.",
+      "reference": "Jr 44:18"
+    },
+    "19": {
+      "text": "Por outro lado, quando oferecemos incenso à rainha do Céu e quando lhe fazemos libações é, por acaso, sem que saibam nossos maridos que lhe fazemos bolos que a representam e lhe fazemos libações?” \\par",
+      "reference": "Jr 44:19"
+    },
+    "20": {
+      "text": "Jeremias disse, então, a todo o povo, aos homens e às mulheres, a todo o povo que lhe tinha dado esta resposta:",
+      "reference": "Jr 44:20"
+    },
+    "21": {
+      "text": "“O incenso que oferecestes nas cidades de Judá e nas ruas de Jerusalém vós e vossos pais, vossos reis e vossos príncipes, assim como o povo da região, não foi dele que Iahweh se lembrou e lhe subiu ao coração?",
+      "reference": "Jr 44:21"
+    },
+    "22": {
+      "text": "Iahweh já não se pôde conter diante da maldade de vossos atos, diante das coisas abomináveis que fizestes: assim vossa terra tornou-se uma ruína, um objeto de espanto e uma maldição, sem habitantes, como é hoje.",
+      "reference": "Jr 44:22"
+    },
+    "23": {
+      "text": "Porque oferecestes incenso e pecastes contra Iahweh e não escutastes a voz de Iahweh nem andastes segundo a sua Lei, suas prescrições e suas ordens, por isso esta desgraça vos atingiu, como é o caso de hoje”. \\par",
+      "reference": "Jr 44:23"
+    },
+    "24": {
+      "text": "Depois disse Jeremias a todo o povo e a todas as mulheres: “Escutai a palavra de Iahweh, vós todos, judeus, que estais na terra do Egito:",
+      "reference": "Jr 44:24"
+    },
+    "25": {
+      "text": "Assim disse Iahweh dos Exércitos, Deus de Israel. Vós e vossas mulheres não só dissestes com vossas bocas, mas também realizastes com vossas mãos: ‘Cumpriremos exatamente os votos que fizemos: oferecer incenso à rainha do Céu e fazer-lhe libações’. Pois bem, confirmai os vossos votos, cumpri, exatamente, vossos votos!",
+      "reference": "Jr 44:25"
+    },
+    "26": {
+      "text": "Contudo, escutai a palavra de Iahweh, vós todos, judeus que habitais na terra do Egito; eis que juro por meu grande Nome, disse Iahweh, que em toda a terra do Egito meu Nome não será mais invocado pela boca de nenhum homem de Judá, dizendo: ‘Pela vida do Senhor Iahweh!’",
+      "reference": "Jr 44:26"
+    },
+    "27": {
+      "text": "Eis que velarei sobre eles para a sua desgraça, e não para a sua felicidade: todos os homens de Judá que se encontram na terra do Egito morrerão pela espada e pela fome, até a sua extinção total.",
+      "reference": "Jr 44:27"
+    },
+    "28": {
+      "text": "No entanto, os que escaparem à espada – um pequeno número – voltarão da terra do Egito para a terra de Judá. Então todo o resto de Judá vindo à terra do Egito para ali habitar reconhecerá qual a palavra que se realiza: a minha ou a sua! \\par",
+      "reference": "Jr 44:28"
+    },
+    "29": {
+      "text": "Este será para vós – oráculo de Iahweh – o sinal de que vos visitarei neste lugar: então reconhecereis que minhas palavras de ameaça contra vós se realizarão.",
+      "reference": "Jr 44:29"
+    },
+    "30": {
+      "text": "Assim disse Iahweh: Eis que entregarei o Faraó Hofra, rei do Egito, nas mãos de seus inimigos e dos que querem matá-lo, assim como entreguei Sedecias, rei de Judá, nas mãos de Nabucodonosor, rei da Babilônia, seu inimigo, que queria matá-lo”. \\par",
+      "reference": "Jr 44:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

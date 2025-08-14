@@ -1,0 +1,61 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 57,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 57 (56)\\par }{\\qc\\b\\i No meio de “leões”\\par }{\\qc\\i Do mestre de canto. “Não destruas”. De Davi. À meia-voz. Quando ele fugia de Saul na caverna. \\par }",
+      "reference": "Sl 57:1"
+    },
+    "2": {
+      "text": "Piedade de mim, ó Deus, tem piedade de mim, \\par pois eu me abrigo em ti; \\par eu me abrigo à sombra de tuas asas, \\par até que a desgraça tenha passado. \\par",
+      "reference": "Sl 57:2"
+    },
+    "3": {
+      "text": "Eu clamo ao Deus Altíssimo, \\par ao Deus que faz tudo por mim: \\par",
+      "reference": "Sl 57:3"
+    },
+    "4": {
+      "text": "que do céu ele mande salvar-me, \\par confundindo os que me atormentam! \\par Que Deus envie seu amor e verdade! \\par",
+      "reference": "Sl 57:4"
+    },
+    "5": {
+      "text": "Eu me deito em meio a leões \\par que devoram os filhos de Adão; \\par seus dentes são lanças e flechas, \\par sua língua é espada afiada. \\par",
+      "reference": "Sl 57:5"
+    },
+    "6": {
+      "text": "Ó Deus, eleva-te acima do céu, \\par tua glória domine sobre a terra inteira! \\par",
+      "reference": "Sl 57:6"
+    },
+    "7": {
+      "text": "Armaram uma rede aos meus passos: \\par eu fiquei encurvado; \\par cavaram um buraco à minha frente, \\par e foram eles que nele caíram. \\par",
+      "reference": "Sl 57:7"
+    },
+    "8": {
+      "text": "Meu coração está firme, ó Deus, \\par meu coração está firme; \\par eu quero cantar e tocar! \\par",
+      "reference": "Sl 57:8"
+    },
+    "9": {
+      "text": "Desperta, glória minha, \\par desperta, cítara e harpa, \\par vou despertar a aurora! \\par",
+      "reference": "Sl 57:9"
+    },
+    "10": {
+      "text": "Quero louvar-te entre os povos, Senhor, \\par tocar para ti em meio às nações; \\par",
+      "reference": "Sl 57:10"
+    },
+    "11": {
+      "text": "pois teu amor é grande até o céu, \\par e tua verdade chega às nuvens. \\par",
+      "reference": "Sl 57:11"
+    },
+    "12": {
+      "text": "Ó Deus, eleva-te acima do céu, \\par e sobre a terra inteira domine a tua glória! \\par",
+      "reference": "Sl 57:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

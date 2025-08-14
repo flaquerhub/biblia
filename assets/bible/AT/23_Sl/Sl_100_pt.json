@@ -1,0 +1,33 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 100,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 100 (99)\\par }{\\qc\\b\\i Convite ao louvor\\par }{\\qc\\i Salmo. Para a ação de graças.\\par } Aclamai a Iahweh, terra inteira, \\par",
+      "reference": "Sl 100:1"
+    },
+    "2": {
+      "text": "servi a Iahweh com alegria, \\par ide a ele com gritos jubilosos! \\par",
+      "reference": "Sl 100:2"
+    },
+    "3": {
+      "text": "Sabei que só Iahweh é Deus, \\par ele nos fez e a ele pertencemos, \\par somos seu povo, o rebanho do seu pasto. \\par",
+      "reference": "Sl 100:3"
+    },
+    "4": {
+      "text": "Entrai por suas portas dando graças, \\par com cantos de louvor pelos seus átrios, \\par celebrai-o, bendizei o seu nome. \\par",
+      "reference": "Sl 100:4"
+    },
+    "5": {
+      "text": "Sim! Porque Iahweh é bom: \\par o seu amor é para sempre, \\par e sua verdade de geração em geração. \\par",
+      "reference": "Sl 100:5"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 5
+}

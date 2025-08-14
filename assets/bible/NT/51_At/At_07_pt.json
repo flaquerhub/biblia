@@ -1,0 +1,253 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Discurso de Estêvão\\par }O sumo sacerdote perguntou: “As coisas são mesmo assim?”",
+      "reference": "At 7:1"
+    },
+    "2": {
+      "text": "E ele respondeu: “Irmãos e pais, ouvi. O Deus da glória apareceu a nosso pai Abraão, ainda na Mesopotâmia, antes que se estabelecesse em Harã,",
+      "reference": "At 7:2"
+    },
+    "3": {
+      "text": "e disse-lhe: ‘{\\i Sai da tua terra e da tua parentela, e vai para a terra que eu te mostrarei}’.",
+      "reference": "At 7:3"
+    },
+    "4": {
+      "text": "Saindo, pois, da terra dos caldeus, ele veio estabelecer-se em Harã. Dali, após a morte de seu pai, Deus o transferiu para esta terra, na qual vós agora habitais.",
+      "reference": "At 7:4"
+    },
+    "5": {
+      "text": "Nela não lhe deu herança alguma, nem sequer o equivalente a um passo. Mas prometeu que {\\i lha daria em propriedade, a ele e à sua descendência depois dele, embora não tivesse filho.}",
+      "reference": "At 7:5"
+    },
+    "6": {
+      "text": "E falou-lhe Deus que {\\i a sua descendência seria peregrina em terra estrangeira, e a escravizariam e a maltratariam por quatrocentos anos. }",
+      "reference": "At 7:6"
+    },
+    "7": {
+      "text": "{\\i Mas a nação da qual serão escravos, eu a julgarei,} disse Deus. {\\i Depois disto sairão de lá e me renderão culto neste} Lugar.",
+      "reference": "At 7:7"
+    },
+    "8": {
+      "text": "Deu-lhe em seguida {\\i a aliança da circuncisão.} Por isso, tendo gerado Isaac, Abraão {\\i circuncidou-o no oitavo dia.} E Isaac fez o mesmo a Jacó, e Jacó aos doze patriarcas. \\par",
+      "reference": "At 7:8"
+    },
+    "9": {
+      "text": "Os patriarcas, {\\i invejosos de José, venderam-no para o Egito.} Mas {\\i Deus estava com ele}",
+      "reference": "At 7:9"
+    },
+    "10": {
+      "text": "e o livrou de todas as suas tribulações: {\\i deu-lhe graça} e sabedoria diante do Faraó, rei do Egito, que {\\i o nomeou superintendente do Egito e de toda a casa real. }",
+      "reference": "At 7:10"
+    },
+    "11": {
+      "text": "{\\i Sobreveio então a fome sobre todo o Egito e Canaã.} A aflição era grande, e nossos pais não encontravam mantimentos. \\par",
+      "reference": "At 7:11"
+    },
+    "12": {
+      "text": "{\\i Ao saber que no Egito havia trigo,} Jacó para lá enviou nossos pais uma primeira vez.",
+      "reference": "At 7:12"
+    },
+    "13": {
+      "text": "Na segunda vez {\\i José deu-se a conhecer a seus irmãos,} e tornou-se conhecida do Faraó a sua origem.",
+      "reference": "At 7:13"
+    },
+    "14": {
+      "text": "José mandou então buscar Jacó, seu pai, e toda a sua parentela, em número de {\\i setenta e cinco pessoas.}",
+      "reference": "At 7:14"
+    },
+    "15": {
+      "text": "Desceu Jacó par o Egito e aí morreu, ele e também nossos pais.",
+      "reference": "At 7:15"
+    },
+    "16": {
+      "text": "Seus restos foram trasladados a Siquém e depostos no sepulcro que Abraão comprara a dinheiro aos filhos de Emor, pai de Siquém. \\par",
+      "reference": "At 7:16"
+    },
+    "17": {
+      "text": "Aproximava-se, porém, o tempo da promessa que Deus fizera solenemente a Abraão. O povo {\\i foi crescendo e multiplicando-se }no Egito,",
+      "reference": "At 7:17"
+    },
+    "18": {
+      "text": "até que {\\i surgiu no Egito outro rei,} o qual não tinha mais conhecimento {\\i de José.}",
+      "reference": "At 7:18"
+    },
+    "19": {
+      "text": "E ele, {\\i usando de astúcia} para com a nossa raça, {\\i atormentou} nossos pais a ponto de obrigá-los a expor nossos recém-nascidos, {\\i para que não sobrevivessem.}",
+      "reference": "At 7:19"
+    },
+    "20": {
+      "text": "Nesse momento nasceu Moisés, que {\\i era belo} aos olhos de Deus. {\\i Por três meses} foi nutrido na casa paterna;",
+      "reference": "At 7:20"
+    },
+    "21": {
+      "text": "e depois, tendo sido exposto, {\\i recolheu-o a filha do Faraó} e o criou {\\i como seu próprio filho.}",
+      "reference": "At 7:21"
+    },
+    "22": {
+      "text": "Assim foi Moisés iniciado em toda a sabedoria dos egípcios, e tornou-se poderoso em suas palavras e obras. \\par",
+      "reference": "At 7:22"
+    },
+    "23": {
+      "text": "Ao completar quarenta anos, veio-lhe à mente a idéia de visitar {\\i seus irmãos, os filhos de Israel.}",
+      "reference": "At 7:23"
+    },
+    "24": {
+      "text": "Ao ver um deles maltratado injustamente, tomou-lhe a defesa e vingou o oprimido, {\\i matando o egípcio.}",
+      "reference": "At 7:24"
+    },
+    "25": {
+      "text": "Julgava que seus irmãos compreenderiam que Deus queria salvá-los por meio dele. Mas não compreenderam.",
+      "reference": "At 7:25"
+    },
+    "26": {
+      "text": "No dia seguinte, apareceu quando alguns deles se batiam e tentou reconduzi-los à paz, dizendo: “Homens, sois irmãos: por que vos maltratais um ao outro?’",
+      "reference": "At 7:26"
+    },
+    "27": {
+      "text": "Então, {\\i o que maltratava o companheiro} o repeliu, dizendo: ‘{\\i Quem te constituiu chefe e juiz sobre nós}?",
+      "reference": "At 7:27"
+    },
+    "28": {
+      "text": "{\\i Pretenderias matar-me, da mesma forma como ontem mataste o egípcio}?’",
+      "reference": "At 7:28"
+    },
+    "29": {
+      "text": "A estas palavras, Moisés fugiu e {\\i foi viver como forasteiro na terra de Madiã,} onde gerou dois filhos. \\par",
+      "reference": "At 7:29"
+    },
+    "30": {
+      "text": "Decorridos quarenta anos, {\\i apareceu-lhe um anjo no deserto do monte} Sinai, {\\i na chama de uma sarça ardente.}",
+      "reference": "At 7:30"
+    },
+    "31": {
+      "text": "Ao percebê-lo, Moisés ficou admirado com o que via. {\\i E, aproximando-se para ver melhor, fez-se ouvir a voz do Senhor: }",
+      "reference": "At 7:31"
+    },
+    "32": {
+      "text": "‘{\\i Eu sou o Deus de teus pais, o Deus de Abraão, de Isaac e de Jacó}’. Todo trêmulo, Moisés não ousava olhar.",
+      "reference": "At 7:32"
+    },
+    "33": {
+      "text": "E o Senhor lhe disse: ‘{\\i Tira a sandália dos pés, pois o lugar em que estás é terra santa.",
+      "reference": "At 7:33"
+    },
+    "34": {
+      "text": "Eu vi, eu vi o sofrimento de meu povo no Egito, e ouvi seus gemidos. Por isso desci para livrá-los. Agora vem, eu vou enviar-te ao Egito}’. \\par",
+      "reference": "At 7:34"
+    },
+    "35": {
+      "text": "Este Moisés, a quem tinham negado com as palavras: ‘{\\i Quem te constituiu chefe e juiz}?’, Deus o enviou como chefe e redentor, com a assistência do anjo que lhe apareceu na sarça.",
+      "reference": "At 7:35"
+    },
+    "36": {
+      "text": "Foi ele quem os fez sair, operando {\\i prodígios e sinais na terra do Egito, }no mar Vermelho{\\i  e no deserto, durante quarenta anos.}",
+      "reference": "At 7:36"
+    },
+    "37": {
+      "text": "Foi ele, Moisés, quem disse aos filhos de Israel: ‘{\\i Deus vos suscitará, dentre vossos irmãos, um profeta como eu}’.",
+      "reference": "At 7:37"
+    },
+    "38": {
+      "text": "Foi ele quem, {\\i na assembléia} do deserto, esteve com o anjo que lhe falava no monte Sinai e também com nossos pais; foi ele quem recebeu palavras de vida para no-las transmitir.",
+      "reference": "At 7:38"
+    },
+    "39": {
+      "text": "Mas nossos pais não quiseram obedecer-lhe. Antes, repeliram-no e, nos seus corações, {\\i voltaram para o Egito, }",
+      "reference": "At 7:39"
+    },
+    "40": {
+      "text": "{\\i ao dizerem a Aarão: }‘{\\i Faze-nos deuses que caminhem à nossa frente. Pois a este Moisés, que nos fez sair da terra do Egito, não sabemos o que lhe aconteceu}’.",
+      "reference": "At 7:40"
+    },
+    "41": {
+      "text": "E nesses dias {\\i fizeram um bezerro e ofereceram sacrifício} ao ídolo, regozijando-se com as obras de suas mãos.",
+      "reference": "At 7:41"
+    },
+    "42": {
+      "text": "Deus então voltou-se contra eles e os entregou ao culto do exército do céu, como está escrito no livro dos Profetas: \\par {\\i Acaso me oferecestes vítimas e sacrifícios \\par durante quarenta anos no deserto, ó casa de Israel? }\\par",
+      "reference": "At 7:42"
+    },
+    "43": {
+      "text": "{\\i Entretanto, carregastes a tenda de Moloc \\par e a estrela do deus Refã, \\par figuras que havíeis feito para adorar; \\par por isso eu vos deportarei para além} de Babilônia. \\par",
+      "reference": "At 7:43"
+    },
+    "44": {
+      "text": "A Tenda do Testemunho esteve com nossos pais no deserto, segundo ordenara aquele que falava a Moisés, determinando {\\i que a fizesse conforme o modelo} que havia visto.",
+      "reference": "At 7:44"
+    },
+    "45": {
+      "text": "Tendo-a recebido, nossos pais, guiados por Josué, a introduziram no país conquistado das nações que Deus expulsou diante deles, até os dias de Davi.",
+      "reference": "At 7:45"
+    },
+    "46": {
+      "text": "Este encontrou graça diante de Deus e suplicou o favor de {\\i providenciar morada para} a casa de {\\i Jacó.}",
+      "reference": "At 7:46"
+    },
+    "47": {
+      "text": "Foi {\\i Salomão,} porém, que {\\i lhe construiu uma casa.}",
+      "reference": "At 7:47"
+    },
+    "48": {
+      "text": "Entretanto, o Altíssimo não habita em obras de mãos humanas, como diz o profeta: \\par",
+      "reference": "At 7:48"
+    },
+    "49": {
+      "text": "{\\i O céu é o meu trono, \\par e a terra, o estrado de meus pés. \\par Que casa me construireis, diz o Senhor, \\par ou qual será o lugar do meu repouso? }\\par",
+      "reference": "At 7:49"
+    },
+    "50": {
+      "text": "{\\i Não foi minha mão que fez tudo isto? }\\par",
+      "reference": "At 7:50"
+    },
+    "51": {
+      "text": "Homens de dura cerviz, incircuncisos de coração e de ouvidos, vós sempre resistis ao Espírito Santo! Como foram vossos pais, assim também vós!",
+      "reference": "At 7:51"
+    },
+    "52": {
+      "text": "A qual dos profetas vossos pais não perseguiram? Mataram os que prediziam a vinda do Justo, de quem vós agora vos tornastes traidores e assassinos,",
+      "reference": "At 7:52"
+    },
+    "53": {
+      "text": "vós, que recebestes a Lei por intermédio de anjos, e não a guardastes!” \\par",
+      "reference": "At 7:53"
+    },
+    "54": {
+      "text": "Ouvindo isto, tremiam de raiva em seus corações e rangiam os dentes contra ele. \\par",
+      "reference": "At 7:54"
+    },
+    "55": {
+      "text": "\\par {\\qc\\b\\i Apedrejamento de Estêvão. Saulo perseguidor.\\par }Estêvão, porém, repleto do Espírito Santo, fitou os olhos no céu e viu a glória de Deus, e Jesus, de pé, à direita de Deus.",
+      "reference": "At 7:55"
+    },
+    "56": {
+      "text": "E disse: “Eu vejo os céus abertos, e o Filho do Homem, de pé, à direita de Deus”.",
+      "reference": "At 7:56"
+    },
+    "57": {
+      "text": "Eles, porém, dando grandes gritos, taparam os ouvidos e precipitaram-se à uma sobre ele.",
+      "reference": "At 7:57"
+    },
+    "58": {
+      "text": "E, arrastando-o para fora da cidade, começaram a apedrejá-lo. As testemunhas depuseram seus mantos aos pés de um jovem chamado Saulo.",
+      "reference": "At 7:58"
+    },
+    "59": {
+      "text": "E apedrejaram a Estêvão, enquanto este invocava e dizia: “Senhor Jesus, recebe meu espírito”.",
+      "reference": "At 7:59"
+    },
+    "60": {
+      "text": "Depois, caindo de joelhos, gritou em voz alta: “Senhor, não lhes leves em conta este pecado”. E, dizendo isto, adormeceu. \\par",
+      "reference": "At 7:60"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 60
+}

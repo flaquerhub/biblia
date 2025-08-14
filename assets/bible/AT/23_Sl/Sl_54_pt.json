@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 54,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 54 (53)\\par }{\\qc\\b\\i Súplica ao Deus justo\\par }{\\qc\\i Do mestre de canto. Com instrumentos de corda. Poema. De Davi. \\par }",
+      "reference": "Sl 54:1"
+    },
+    "2": {
+      "text": "{\\qc\\i Quando os zifeus vieram dizer a Saul: “Não está Davi escondido entre nós?”\\par }",
+      "reference": "Sl 54:2"
+    },
+    "3": {
+      "text": "Salva-me, ó Deus, por teu nome, \\par pelo teu poder faze-me justiça! \\par",
+      "reference": "Sl 54:3"
+    },
+    "4": {
+      "text": "Ouve, ó Deus, minha prece, \\par dá ouvido às palavras de minha boca! \\par",
+      "reference": "Sl 54:4"
+    },
+    "5": {
+      "text": "Os soberbos se levantam contra mim \\par e os violentos perseguem minha vida: \\par eles não colocam Deus à sua frente.\\par",
+      "reference": "Sl 54:5"
+    },
+    "6": {
+      "text": "Deus, porém, é meu socorro, \\par o Senhor é quem sustenta minha vida. \\par",
+      "reference": "Sl 54:6"
+    },
+    "7": {
+      "text": "Que o mal caia sobre aqueles que me espreitam, \\par aniquila-os, Iahweh, por tua verdade! \\par",
+      "reference": "Sl 54:7"
+    },
+    "8": {
+      "text": "Eu te oferecerei um sacrifício espontâneo, \\par e agradecerei o teu nome, porque ele é bom; \\par",
+      "reference": "Sl 54:8"
+    },
+    "9": {
+      "text": "porque das angústias todas me livrou, \\par e meu olho contemplou meus inimigos. \\par",
+      "reference": "Sl 54:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

@@ -1,0 +1,129 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Proibição de uma prática idolátrica\\par }Sois filhos de Iahweh vosso Deus. Nunca vos marcareis com uma incisão ou tonsura entre os vossos olhos por causa de um morto.",
+      "reference": "Dt 14:1"
+    },
+    "2": {
+      "text": "Sim! Tu és um povo consagrado a Iahweh teu Deus: foi a ti que Iahweh escolheu para que pertenças a ele como seu povo próprio, dentre todos os povos que existem sobre a face da terra. \\par",
+      "reference": "Dt 14:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Animais puros e impuros\\par }Não comerás nada que seja abominável.",
+      "reference": "Dt 14:3"
+    },
+    "4": {
+      "text": "Eis os animais de que podereis comer: boi, carneiro, cabra,",
+      "reference": "Dt 14:4"
+    },
+    "5": {
+      "text": "cervo, gazela, gamo, cabrito montês, antílope, órix e cabra selvagem.",
+      "reference": "Dt 14:5"
+    },
+    "6": {
+      "text": "Podereis comer também de qualquer animal que tenha o casco fendido, a unha fendida nos dois cascos, e que rumine.",
+      "reference": "Dt 14:6"
+    },
+    "7": {
+      "text": "Contudo, há ruminantes e animais com casco fendido de que não comereis: o camelo, a lebre e o texugo, que ruminam mas não têm o casco fendido; esses serão impuros para vós.",
+      "reference": "Dt 14:7"
+    },
+    "8": {
+      "text": "Quanto ao porco, que tem o casco fendido mas não rumina, vós o considerareis impuro. Não comereis de sua carne e nem tocareis em seus cadáveres. \\par",
+      "reference": "Dt 14:8"
+    },
+    "9": {
+      "text": "De tudo quanto vive na água podereis comer o seguinte: de todos os que têm barbatanas e escamas podereis comer.",
+      "reference": "Dt 14:9"
+    },
+    "10": {
+      "text": "Não comereis, porém, de todo o que não tiver barbatanas e escamas: vós o considerareis impuro. \\par",
+      "reference": "Dt 14:10"
+    },
+    "11": {
+      "text": "Podereis comer de toda ave pura.",
+      "reference": "Dt 14:11"
+    },
+    "12": {
+      "text": "Dentre elas, eis o que não podereis comer: o abutre, o giapeto, o xofrango;",
+      "reference": "Dt 14:12"
+    },
+    "13": {
+      "text": "o milhafre negro, as diversas espécies de milhafre vermelho,",
+      "reference": "Dt 14:13"
+    },
+    "14": {
+      "text": "todas as espécies de corvo,",
+      "reference": "Dt 14:14"
+    },
+    "15": {
+      "text": "o avestruz, a coruja, a gaivota e as diversas espécies de gavião,",
+      "reference": "Dt 14:15"
+    },
+    "16": {
+      "text": "o mocho, o íbis, o grão-duque,",
+      "reference": "Dt 14:16"
+    },
+    "17": {
+      "text": "o pelicano, o abutre branco, o alcatraz,",
+      "reference": "Dt 14:17"
+    },
+    "18": {
+      "text": "a cegonha, as diversas espécies de garça, a poupa, o morcego.",
+      "reference": "Dt 14:18"
+    },
+    "19": {
+      "text": "Considerareis impuros todos os bichos que voam. Deles não comereis.",
+      "reference": "Dt 14:19"
+    },
+    "20": {
+      "text": "Podereis comer todas as aves puras. \\par",
+      "reference": "Dt 14:20"
+    },
+    "21": {
+      "text": "Não podereis comer de nenhum animal que tenha morrido por si. Tu o darás ao forasteiro que vive em tua cidade para que ele o coma, ou vendê-lo-ás a um estrangeiro. Porque tu és um povo consagrado a Iahweh teu Deus. \\par Não cozerás um cabritinho no leite de sua mãe. \\par",
+      "reference": "Dt 14:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i O dízimo anual\\par }Todos os anos separarás o dízimo de todo o produto da tua semeadura que o campo produzir,",
+      "reference": "Dt 14:22"
+    },
+    "23": {
+      "text": "e diante de Iahweh teu Deus, no lugar que ele houver escolhido para aí fazer habitar o seu nome, comerás o dízimo do teu trigo, de teu vinho novo e do teu óleo, como também os primogênitos das tuas vacas e das tuas ovelhas, para que aprendas continuamente a temer a Iahweh teu Deus. \\par",
+      "reference": "Dt 14:23"
+    },
+    "24": {
+      "text": "Caso o caminho seja longo demais para ti, e não possas levar o dízimo – porque o lugar que Iahweh teu Deus escolheu para aí colocar o seu nome fica muito longe de ti, quando Iahweh teu Deus te houver abençoado, –",
+      "reference": "Dt 14:24"
+    },
+    "25": {
+      "text": "vende-o então por dinheiro, toma o dinheiro em tua mão e vai para o lugar que Iahweh teu Deus houver escolhido.",
+      "reference": "Dt 14:25"
+    },
+    "26": {
+      "text": "Lá trocarás o dinheiro por tudo o que desejares: vacas, ovelhas, vinho, bebida embriagante, tudo enfim que te apetecer. Comerás lá, diante de Iahweh teu Deus, e te alegrarás, tu e a tua família.",
+      "reference": "Dt 14:26"
+    },
+    "27": {
+      "text": "Quanto ao levita que mora nas tuas cidades, não o abandonarás, pois ele não tem parte nem herança contigo. \\par",
+      "reference": "Dt 14:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i O dízimo trienal\\par }A cada três anos tomarás o dízimo da tua colheita no terceiro ano e o colocarás em tuas portas.",
+      "reference": "Dt 14:28"
+    },
+    "29": {
+      "text": "Virá então o levita (pois ele não tem parte nem herança contigo), o estrangeiro, o órfão e a viúva que vivem nas tuas cidades, e eles comerão e se saciarão. Deste modo Iahweh teu Deus te abençoará em todo trabalho que a tua mão realizar. \\par",
+      "reference": "Dt 14:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

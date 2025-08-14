@@ -1,0 +1,133 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Ainda a invasão\\par }Fugi, benjaminitas, \\par do meio de Jerusalém! \\par Em Técua tocai a trombeta! \\par Levantai um sinal sobre Bet-Acarem! \\par Porque uma desgraça se ergue do norte, \\par um desastre enorme. \\par",
+      "reference": "Jr 6:1"
+    },
+    "2": {
+      "text": "A bela, a delicada, \\par eu a destruo, a filha de Sião! \\par",
+      "reference": "Jr 6:2"
+    },
+    "3": {
+      "text": "Pastores entram nela com seus rebanhos! \\par Lançam tendas em seu redor, \\par e apascenta cada um a sua parte. \\par",
+      "reference": "Jr 6:3"
+    },
+    "4": {
+      "text": "Proclamai contra ela uma guerra santa! \\par Levantai-vos, subamos em pleno meio-dia! \\par Ai de nós, que o dia declina, \\par que as sombras da tarde se estendem! \\par",
+      "reference": "Jr 6:4"
+    },
+    "5": {
+      "text": "Levantai-vos, subamos de noite \\par e destruamos os seus palácios! \\par",
+      "reference": "Jr 6:5"
+    },
+    "6": {
+      "text": "Porque assim fala Iahweh dos Exércitos: \\par Cortai árvores, \\par levantai contra Jerusalém um muro de assédio. \\par Ela é a cidade que foi visitada; \\par em seu seio tudo é opressão. \\par",
+      "reference": "Jr 6:6"
+    },
+    "7": {
+      "text": "Como um poço faz brotar as suas águas, \\par assim ela faz brotar a sua maldade. \\par Violência e devastação é o que se ouve nela; \\par há continuamente diante de mim doenças e ferimentos. \\par",
+      "reference": "Jr 6:7"
+    },
+    "8": {
+      "text": "Emenda-te, Jerusalém, \\par para que eu não me desvie de ti, \\par para que eu não te reduza a ruínas, \\par a terra não habitada. \\par",
+      "reference": "Jr 6:8"
+    },
+    "9": {
+      "text": "Assim disse Iahweh dos Exércitos: \\par Rebuscarão, como a uma vinha, o resto de Israel; \\par repassa a tua mão, como o vindimador, sobre os sarmentos. \\par",
+      "reference": "Jr 6:9"
+    },
+    "10": {
+      "text": "– A quem falarei e testemunharei \\par para que eles ouçam? \\par Eis que seus ouvidos são incircuncisos \\par e não podem atender. \\par Eis que a palavra de Iahweh foi para eles um objeto de escárnio, \\par eles não gostam dela! \\par",
+      "reference": "Jr 6:10"
+    },
+    "11": {
+      "text": "Mas eu estou repleto da cólera de Iahweh, \\par não posso contê-la! \\par – Derrama-a sobre o menino na rua \\par e, também sobre o grupo dos jovens. \\par Porque serão aprisionados o homem com a mulher, \\par o velho com aquele que está repleto de dias. \\par",
+      "reference": "Jr 6:11"
+    },
+    "12": {
+      "text": "Suas casas passarão a outros, \\par seus campos juntamente com suas mulheres. \\par Sim, estenderei a minha mão \\par sobre os habitantes da terra, oráculo de Iahweh. \\par",
+      "reference": "Jr 6:12"
+    },
+    "13": {
+      "text": "Porque desde o menor até o maior, \\par todos eles são gananciosos; \\par e desde o profeta até o sacerdote, \\par todos eles praticam a mentira. \\par",
+      "reference": "Jr 6:13"
+    },
+    "14": {
+      "text": "Eles cuidam da ferida do meu povo superficialmente, \\par dizendo: “Paz! Paz!”, quando não há paz. \\par",
+      "reference": "Jr 6:14"
+    },
+    "15": {
+      "text": "Eles deveriam envergonhar-se, \\par porque praticaram coisas abomináveis, \\par mas não se envergonham \\par e nem sabem ficar envergonhados. \\par Por isso eles cairão entre os que caem, \\par no tempo em que eu os visitar, eles tropeçarão, \\par disse Iahweh. \\par",
+      "reference": "Jr 6:15"
+    },
+    "16": {
+      "text": "Assim disse Iahweh: \\par Parai sobre os vossos caminhos e vede, \\par perguntai sobre as sendas de outrora: \\par qual era o caminho do bem? Caminhai nele! \\par Então alcançareis repouso para vós. \\par Mas eles disseram: “Não caminharemos nele” \\par",
+      "reference": "Jr 6:16"
+    },
+    "17": {
+      "text": "Coloquei sobre vós sentinelas: \\par “Atendei ao sinal da trombeta!” \\par Mas eles disseram: “Não atenderemos!” \\par",
+      "reference": "Jr 6:17"
+    },
+    "18": {
+      "text": "Por isso escutai, nações, \\par conhece, ó assembléia, o que te irá acontecer! \\par",
+      "reference": "Jr 6:18"
+    },
+    "19": {
+      "text": "Escuta, terra! \\par Eis que eu farei vir uma desgraça sobre este povo, \\par fruto de suas cogitações, \\par porque não atenderam às minhas palavras \\par e desprezaram a minha lei. \\par",
+      "reference": "Jr 6:19"
+    },
+    "20": {
+      "text": "Que me importa o incenso que vem de Seba, \\par e a cana aromática de países longínquos? \\par Vossos holocaustos não me agradam \\par e vossos sacrifícios não me comprazem. \\par",
+      "reference": "Jr 6:20"
+    },
+    "21": {
+      "text": "Por isso assim disse Iahweh: \\par Eis que colocarei para este povo \\par obstáculos, e tropeçarão neles. \\par Pais e filhos, todos juntos, \\par vizinho e amigo, eles perecerão. \\par",
+      "reference": "Jr 6:21"
+    },
+    "22": {
+      "text": "Assim disse Iahweh: \\par Eis que virá um povo do Norte, \\par e uma grande nação se levantará dos confins da terra. \\par",
+      "reference": "Jr 6:22"
+    },
+    "23": {
+      "text": "Eles manejam o arco e o dardo, \\par são bárbaros e sem piedade; \\par seu ruído é como o bramido do mar; montam cavalos, \\par estão preparados para o combate, como um só homem, \\par contra ti, filha de Sião. \\par",
+      "reference": "Jr 6:23"
+    },
+    "24": {
+      "text": "Logo que ouvimos a sua notícia, \\par as nossas mãos desfaleceram, \\par a angústia se apoderou de nós, \\par uma dor como a da parturiente. \\par",
+      "reference": "Jr 6:24"
+    },
+    "25": {
+      "text": "Não saiais para o campo, \\par nem andeis pelo caminho, \\par porque o inimigo carrega a espada, \\par terror de todos os lados! \\par",
+      "reference": "Jr 6:25"
+    },
+    "26": {
+      "text": "Filha de meu povo, veste-te de saco, \\par revolve-te no pó, \\par lamenta-te como por um filho único; \\par uma lamentação amarga, \\par porque, de repente, chega \\par sobre nós o devastador. \\par",
+      "reference": "Jr 6:26"
+    },
+    "27": {
+      "text": "Eu te estabeleci em meu povo como um observador, \\par para que conheças e proves o seu caminho. \\par",
+      "reference": "Jr 6:27"
+    },
+    "28": {
+      "text": "Eles são todos completamente rebeldes, \\par semeadores de calúnias, \\par duros como bronze e ferro, \\par são todos eles destruidores. \\par",
+      "reference": "Jr 6:28"
+    },
+    "29": {
+      "text": "O foleiro sopra, \\par pelo fogo o chumbo é devorado, \\par em vão trabalha o fundidor, \\par as escórias não se desprendem. \\par",
+      "reference": "Jr 6:29"
+    },
+    "30": {
+      "text": "“Prata de refugo”, chamam-nos \\par porque Iahweh os rejeitou! \\par",
+      "reference": "Jr 6:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

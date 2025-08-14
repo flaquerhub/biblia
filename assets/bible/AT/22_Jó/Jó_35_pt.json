@@ -1,0 +1,77 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 35,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Deus não fica indiferente aos afazeres humanos\\par }Eliú prosseguiu dizendo: \\par",
+      "reference": "Jó 35:1"
+    },
+    "2": {
+      "text": "Julgas ter razão, \\par pretendendo justificar-te diante de Deus? \\par",
+      "reference": "Jó 35:2"
+    },
+    "3": {
+      "text": "Já que dizes: “Que te importa? \\par Que vantagem tenho a mais do que se houvesse pecado?” \\par",
+      "reference": "Jó 35:3"
+    },
+    "4": {
+      "text": "Vou responder-te, \\par a ti e a teus amigos. \\par",
+      "reference": "Jó 35:4"
+    },
+    "5": {
+      "text": "Contempla os céus e vê, \\par observa as nuvens: são mais altas que tu. \\par",
+      "reference": "Jó 35:5"
+    },
+    "6": {
+      "text": "Se pecas, que mal lhe fazes? \\par Se acumulas delitos, que dano lhe causas? \\par",
+      "reference": "Jó 35:6"
+    },
+    "7": {
+      "text": "Se és justo, que lhe dás, \\par que recebe ele de tua mão? \\par",
+      "reference": "Jó 35:7"
+    },
+    "8": {
+      "text": "A tua maldade só afeta a um homem como tu; \\par a tua justiça, só a um mortal. \\par",
+      "reference": "Jó 35:8"
+    },
+    "9": {
+      "text": "Uns gemem sob o peso da opressão, \\par e pedem socorro contra o braço dos poderosos, \\par",
+      "reference": "Jó 35:9"
+    },
+    "10": {
+      "text": "mas alguém diz: “Onde está o Deus que me criou, \\par que inspira cantos de louvor durante a noite, \\par",
+      "reference": "Jó 35:10"
+    },
+    "11": {
+      "text": "que nos instrui mais do que aos animais da terra, \\par e nos faz mais sábios do que os pássaros do céu?” \\par",
+      "reference": "Jó 35:11"
+    },
+    "12": {
+      "text": "E, então, por mais que gritem, ele não responde, \\par pois vê a arrogância dos maus. \\par",
+      "reference": "Jó 35:12"
+    },
+    "13": {
+      "text": "Certamente Deus não escuta a vaidade, \\par Shaddai a isso não presta atenção. \\par",
+      "reference": "Jó 35:13"
+    },
+    "14": {
+      "text": "Muito menos quando dizes: “Eu não o vejo, \\par meu processo está aberto diante dele e o espero”. \\par",
+      "reference": "Jó 35:14"
+    },
+    "15": {
+      "text": "Ou então: “Sua ira não castiga, \\par parece ignorar a revolta do homem”. \\par",
+      "reference": "Jó 35:15"
+    },
+    "16": {
+      "text": "Jó abre a boca para o vazio, \\par e insensatamente multiplica palavras. \\par",
+      "reference": "Jó 35:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

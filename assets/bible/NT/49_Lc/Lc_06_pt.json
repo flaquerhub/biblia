@@ -1,0 +1,209 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As espigas arrancadas\\par }Certo sábado, ao passarem pelas plantações, seus discípulos arrancavam espigas e as comiam, debulhando-as com as mãos.",
+      "reference": "Lc 6:1"
+    },
+    "2": {
+      "text": "Alguns fariseus disseram: “Por que fazeis o que não é permitido em dia de sábado?”",
+      "reference": "Lc 6:2"
+    },
+    "3": {
+      "text": "Jesus respondeu-lhes: “Não lestes o que fez Davi, ele e seus companheiros, quando tiveram fome?",
+      "reference": "Lc 6:3"
+    },
+    "4": {
+      "text": "Entrou na casa de Deus, tomou {\\i os pães da proposição,} comeu-os e deu-os aos companheiros – esses pães dos quais só os sacerdotes podem comer”.",
+      "reference": "Lc 6:4"
+    },
+    "5": {
+      "text": "E dizia-lhes: “O Filho do Homem é senhor do sábado!” \\par",
+      "reference": "Lc 6:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Cura de um homem com a mão atrofiada\\par }Em outro sábado, entrou ele na sinagoga e começou a ensinar. Estava ali um homem com a mão direita atrofiada.",
+      "reference": "Lc 6:6"
+    },
+    "7": {
+      "text": "Os escribas e os fariseus observavam-no para ver se ele o curaria no sábado, e assim encontrar com que o acusar.",
+      "reference": "Lc 6:7"
+    },
+    "8": {
+      "text": "Ele, porém, percebeu seus pensamentos e disse ao homem da mão atrofiada: “Levanta-te e fica de pé no meio de todos”. Ele se levantou e ficou de pé.",
+      "reference": "Lc 6:8"
+    },
+    "9": {
+      "text": "Jesus lhes disse: “Eu vos pergunto se, no sábado, é permitido fazer o bem ou o mal, salvar uma vida ou arruiná-la”.",
+      "reference": "Lc 6:9"
+    },
+    "10": {
+      "text": "Correndo os olhos por todos eles, disse ao homem: “Estende a mão”. Ele o fez, e a mão voltou ao estado normal.",
+      "reference": "Lc 6:10"
+    },
+    "11": {
+      "text": "Eles, porém, se enfureceram e combinavam o que fariam a Jesus. \\par",
+      "reference": "Lc 6:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Escolha dos Doze\\par }Naqueles dias, ele foi à montanha para orar e passou a noite inteira em oração a Deus.",
+      "reference": "Lc 6:12"
+    },
+    "13": {
+      "text": "Depois que amanheceu, chamou os discípulos e dentre eles escolheu doze, aos quais deu o nome de apóstolos:",
+      "reference": "Lc 6:13"
+    },
+    "14": {
+      "text": "Simão, a quem impôs o nome de Pedro, seu irmão André, Tiago, João, Filipe, Bartolomeu,",
+      "reference": "Lc 6:14"
+    },
+    "15": {
+      "text": "Mateus, Tomé, Tiago, filho de Alfeu, Simão, chamado Zelota,",
+      "reference": "Lc 6:15"
+    },
+    "16": {
+      "text": "Judas, filho de Tiago, e Judas Iscariot, que se tornou um traidor. \\par",
+      "reference": "Lc 6:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i As multidões seguem Jesus\\par }Desceu com eles e parou num lugar plano, onde havia numeroso grupo de discípulos e imensa multidão de pessoas de toda a Judéia, de Jerusalém e do litoral de Tiro e Sidônia.",
+      "reference": "Lc 6:17"
+    },
+    "18": {
+      "text": "Tinham vindo para ouvi-lo e ser curados de suas doenças. Os atormentados por espíritos impuros também eram curados.",
+      "reference": "Lc 6:18"
+    },
+    "19": {
+      "text": "E toda a multidão procurava tocá-lo, porque dele saía uma força que a todos curava. \\par",
+      "reference": "Lc 6:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Discurso inaugural. As bem-aventuranças\\par }Erguendo então os olhos para os seus discípulos, dizia: \\par “Bem-aventurados vós, {\\i os pobres,} porque vosso é o Reino de Deus. \\par",
+      "reference": "Lc 6:20"
+    },
+    "21": {
+      "text": "Bem-aventurados vós, que agora tendes fome, porque sereis saciados. \\par Bem-aventurados vós, que agora chorais, porque haveis de rir. \\par",
+      "reference": "Lc 6:21"
+    },
+    "22": {
+      "text": "Bem-aventurados sereis quando os homens vos odiarem, quando vos rejeitarem, insultarem e proscreverem vosso nome como infame, por causa do Filho do Homem. \\par",
+      "reference": "Lc 6:22"
+    },
+    "23": {
+      "text": "Alegrai-vos naquele dia e exultai, porque no céu será grande a vossa recompensa; pois do mesmo modo seus pais tratavam os profetas. \\par",
+      "reference": "Lc 6:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i As maldições\\par }Mas, ai de vós, ricos, porque já tendes a vossa consolação! \\par",
+      "reference": "Lc 6:24"
+    },
+    "25": {
+      "text": "Ai de vós, que agora estais saciados, porque tereis fome! \\par Ai de vós, que agora rides, porque conhecereis o luto e as lágrimas! \\par",
+      "reference": "Lc 6:25"
+    },
+    "26": {
+      "text": "Ai de vós, quando todos vos bendisserem, pois do mesmo modo seus pais tratavam os falsos profetas. \\par",
+      "reference": "Lc 6:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i O amor aos inimigos\\par }Eu, porém, vos digo a vós que me escutais: Amais os vossos inimigos, fazei o bem aos que vos odeiam,",
+      "reference": "Lc 6:27"
+    },
+    "28": {
+      "text": "bendizei os que vos amaldiçoam, orai por aqueles que vos difamam.",
+      "reference": "Lc 6:28"
+    },
+    "29": {
+      "text": "A quem te ferir numa face, oferece a outra; a quem te arrebatar a capa, não recuses a túnica.",
+      "reference": "Lc 6:29"
+    },
+    "30": {
+      "text": "Dá a quem te pedir e não reclames de quem tomar o que é teu.",
+      "reference": "Lc 6:30"
+    },
+    "31": {
+      "text": "Como quereis que os outros vos façam, fazei também a eles.",
+      "reference": "Lc 6:31"
+    },
+    "32": {
+      "text": "Se amais os que vos amam, que graça alcançais? Pois até mesmo os pecadores amam aqueles que os amam.",
+      "reference": "Lc 6:32"
+    },
+    "33": {
+      "text": "E se fazeis o bem aos que vo-lo fazem, que graça alcançais? Até mesmo os pecadores agem assim!",
+      "reference": "Lc 6:33"
+    },
+    "34": {
+      "text": "E se emprestais àqueles de quem esperais receber, que graça alcançais? Até mesmo os pecadores emprestam aos pecadores para receberem o equivalente.",
+      "reference": "Lc 6:34"
+    },
+    "35": {
+      "text": "Muito pelo contrário, amai vossos inimigos, fazei o bem e emprestai sem esperar coisa alguma em troca. Será grande a vossa recompensa, e sereis filhos do Altíssimo, pois ele é bom para com os ingratos e com os maus. \\par",
+      "reference": "Lc 6:35"
+    },
+    "36": {
+      "text": "\\par {\\qc\\b\\i Misericórdia e gratuidade\\par }Sede misericordiosos como o vosso Pai é misericordioso.",
+      "reference": "Lc 6:36"
+    },
+    "37": {
+      "text": "Não julgueis, para não serdes julgados; não condeneis, para não serdes condenados; perdoai, e vos será perdoado.",
+      "reference": "Lc 6:37"
+    },
+    "38": {
+      "text": "Dai, e vos será dado; será derramada no vosso regaço uma boa medida, calcada, sacudida, transbordante, pois com a medida com que medirdes sereis medidos também”. \\par",
+      "reference": "Lc 6:38"
+    },
+    "39": {
+      "text": "\\par {\\qc\\b\\i Condições do zelo\\par }Disse-lhes ainda uma parábola: “Pode acaso um cego guiar outro cego? Não cairão ambos num buraco?",
+      "reference": "Lc 6:39"
+    },
+    "40": {
+      "text": "Não existe discípulo superior ao mestre; todo o discípulo perfeito deverá ser como o mestre.",
+      "reference": "Lc 6:40"
+    },
+    "41": {
+      "text": "Por que olhas o cisco no olho de teu irmão, e não percebes a trave que há no teu?",
+      "reference": "Lc 6:41"
+    },
+    "42": {
+      "text": "Como podes dizer ao teu irmão: ‘Irmão, deixa-me tirar o cisco do teu olho’, quando não vês a trave em teu próprio olho? Hipócrita, tira primeiro a trave de teu olho, e então verás bem para tirar o cisco do olho de teu irmão. \\par",
+      "reference": "Lc 6:42"
+    },
+    "43": {
+      "text": "Não há árvore boa que dê fruto mau, e nem árvore má que dê fruto bom;",
+      "reference": "Lc 6:43"
+    },
+    "44": {
+      "text": "com efeito, uma árvore é conhecida por seu próprio fruto; não se colhem figos de espinheiros, nem se vindimam uvas de sarças.",
+      "reference": "Lc 6:44"
+    },
+    "45": {
+      "text": "O homem bom, do bom tesouro do coração tira o que é bom, mas o mau, de seu mal tira o que é mau; porque a boca fala daquilo de que está cheio o coração. \\par",
+      "reference": "Lc 6:45"
+    },
+    "46": {
+      "text": "\\par {\\qc\\b\\i Necessidade da prática\\par }Por que me chamais ‘Senhor! Senhor!’, mas não fazeis o que eu digo? \\par",
+      "reference": "Lc 6:46"
+    },
+    "47": {
+      "text": "Vou mostrar-vos a quem é comparável todo o que vem a mim, escuta as minhas palavras e as põe em prática.",
+      "reference": "Lc 6:47"
+    },
+    "48": {
+      "text": "Assemelha-se a um homem que, ao construir uma casa, cavou, aprofundou e lançou o alicerce sobre a rocha. Veio a enchente, a torrente deu contra essa casa, mas não a pôde abalar, porque estava bem construída.",
+      "reference": "Lc 6:48"
+    },
+    "49": {
+      "text": "Aquele, porém, que escutou e não pôs em prática é semelhante a um homem que construiu sua casa ao rés do chão, sem alicerce. A torrente deu contra ela, e imediatamente desabou; e foi grande a sua ruína!” \\par",
+      "reference": "Lc 6:49"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 49
+}

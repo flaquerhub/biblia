@@ -1,0 +1,137 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 109,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 109 (108)\\par }{\\qc\\b\\i Salmo imprecatório\\par }{\\qc\\i Do mestre de canto. De Davi. Salmo. \\par } Deus a quem louvo, não te cales! \\par",
+      "reference": "Sl 109:1"
+    },
+    "2": {
+      "text": "Pois boca maldosa e boca enganadora \\par abriram-se contra mim. \\par Falam a mim com língua mentirosa, \\par",
+      "reference": "Sl 109:2"
+    },
+    "3": {
+      "text": "palavras de ódio me cercam \\par e me combatem sem motivo. \\par",
+      "reference": "Sl 109:3"
+    },
+    "4": {
+      "text": "Em troca da minha amizade me acusam, \\par e eu fico suplicando; \\par",
+      "reference": "Sl 109:4"
+    },
+    "5": {
+      "text": "contra mim trazem o mal, \\par em paga de um benefício, \\par o ódio em paga de minha amizade. \\par",
+      "reference": "Sl 109:5"
+    },
+    "6": {
+      "text": "“Designa um ímpio contra ele, \\par que um acusador se poste à sua direita! \\par",
+      "reference": "Sl 109:6"
+    },
+    "7": {
+      "text": "Saia condenado do julgamento, \\par e sua prece seja tida por pecado! \\par",
+      "reference": "Sl 109:7"
+    },
+    "8": {
+      "text": "Que seus dias fiquem reduzidos \\par e um outro tome o seu encargo! \\par",
+      "reference": "Sl 109:8"
+    },
+    "9": {
+      "text": "Que seus filhos fiquem órfãos \\par e sua mulher se torne viúva! \\par",
+      "reference": "Sl 109:9"
+    },
+    "10": {
+      "text": "Que seus filhos fiquem vagando a mendigar, \\par e sejam expulsos das suas ruínas! \\par",
+      "reference": "Sl 109:10"
+    },
+    "11": {
+      "text": "Que o usurário roube o que possuem \\par e estrangeiros depredem os seus bens! \\par",
+      "reference": "Sl 109:11"
+    },
+    "12": {
+      "text": "Que ninguém lhe mostre clemência, \\par que ninguém tenha piedade de seus órfãos! \\par",
+      "reference": "Sl 109:12"
+    },
+    "13": {
+      "text": "Que sua descendência seja cortada, \\par que seu nome se extinga numa geração! \\par",
+      "reference": "Sl 109:13"
+    },
+    "14": {
+      "text": "Que Iahweh se lembre da culpa de seus pais, \\par e o pecado de sua mãe nunca seja apagado! \\par",
+      "reference": "Sl 109:14"
+    },
+    "15": {
+      "text": "Que estejam sempre à frente de Iahweh, \\par para que ele corte da terra a sua lembrança!” \\par",
+      "reference": "Sl 109:15"
+    },
+    "16": {
+      "text": "Ele não se lembrou de agir com clemência: \\par perseguiu o pobre e o indigente, \\par e o coração contrito até à morte. \\par",
+      "reference": "Sl 109:16"
+    },
+    "17": {
+      "text": "Ele amava a maldição: que recaia sobre ele! \\par Não gostava da bênção: que ela o abandone! \\par",
+      "reference": "Sl 109:17"
+    },
+    "18": {
+      "text": "Vestia a maldição como um manto: \\par que ela o penetre como água, \\par e como óleo em seus ossos! \\par",
+      "reference": "Sl 109:18"
+    },
+    "19": {
+      "text": "Seja-lhe como roupa a cobri-lo, \\par como um cinto que sempre o aperte! \\par",
+      "reference": "Sl 109:19"
+    },
+    "20": {
+      "text": "Que Iahweh pague assim os que me acusam, \\par os que proferem o mal contra mim! \\par",
+      "reference": "Sl 109:20"
+    },
+    "21": {
+      "text": "Tu, porém, Iahweh meu Senhor, \\par trata-me conforme o teu nome, \\par liberta-me, pois teu amor é bondade! \\par",
+      "reference": "Sl 109:21"
+    },
+    "22": {
+      "text": "Quanto a mim, sou pobre e indigente, \\par e, dentro de mim, meu coração está ferido; \\par",
+      "reference": "Sl 109:22"
+    },
+    "23": {
+      "text": "vou passando como sombra que se expande, \\par sou atirado para longe, como gafanhoto. \\par",
+      "reference": "Sl 109:23"
+    },
+    "24": {
+      "text": "Jejuei tanto que meus joelhos se dobram, \\par e sem óleo minha carne emagrece; \\par",
+      "reference": "Sl 109:24"
+    },
+    "25": {
+      "text": "tornei-me um ultraje para eles, \\par os que me vêem meneiam a cabeça. \\par",
+      "reference": "Sl 109:25"
+    },
+    "26": {
+      "text": "Socorre-me, Iahweh meu Deus, \\par conforme o teu amor, salva-me! \\par",
+      "reference": "Sl 109:26"
+    },
+    "27": {
+      "text": "Eles vão reconhecer que isto vem da tua mão, \\par que tu, ó Iahweh, o realizaste! \\par",
+      "reference": "Sl 109:27"
+    },
+    "28": {
+      "text": "Eles maldizem, mas tu irás abençoar; \\par eles se levantam: que se envergonhem \\par e teu servo se alegre. \\par",
+      "reference": "Sl 109:28"
+    },
+    "29": {
+      "text": "Cubram-se de infâmia os que me acusam, \\par que a vergonha os envolva como um manto! \\par",
+      "reference": "Sl 109:29"
+    },
+    "30": {
+      "text": "Vou celebrar a Iahweh em alta voz, \\par louvando-o em meio à multidão; \\par",
+      "reference": "Sl 109:30"
+    },
+    "31": {
+      "text": "pois ele se põe à direita do indigente, \\par para dos juízes salvar a sua vida. \\par",
+      "reference": "Sl 109:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

@@ -1,0 +1,161 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O escândalo\\par }Depois, disse a seus discípulos: “É inevitável que haja escândalos, mas ai daquele que os causar!",
+      "reference": "Lc 17:1"
+    },
+    "2": {
+      "text": "Melhor lhe fora ser lançado ao mar com uma pedra de moinho enfiada no pescoço do que escandalizar um só destes pequeninos.",
+      "reference": "Lc 17:2"
+    },
+    "3": {
+      "text": "Acautelai-vos! \\par \\par {\\qc\\b\\i Correção fraterna\\par } Se teu irmão pecar, repreende-o, e se ele se arrepender, perdoa-lhe.",
+      "reference": "Lc 17:3"
+    },
+    "4": {
+      "text": "E caso ele peque contra ti sete vezes por dia e sete vezes retornar, dizendo ‘Estou arrependido’, tu lhe perdoarás”. \\par",
+      "reference": "Lc 17:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Poder da fé\\par }Os apóstolos disseram ao Senhor: “Aumenta-nos a fé!”",
+      "reference": "Lc 17:5"
+    },
+    "6": {
+      "text": "O Senhor respondeu: “Se tivésseis fé como um grão de mostarda, diríeis a esta amoreira: ‘Arranca-te e replanta-te no mar’, e ela vos obedeceria. \\par",
+      "reference": "Lc 17:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Servir com humildade\\par }Quem de vós, tendo um servo que trabalha a terra ou guarda os animais, lhe dirá quando volta do campo: ‘Tão logo chegues, vem para a mesa’?",
+      "reference": "Lc 17:7"
+    },
+    "8": {
+      "text": "Ou, ao contrário, não lhe dirá: ‘Prepara-me o jantar, cinge-te e serve-me, até que eu tenha comido e bebido; depois, comerás e beberás por tua vez’?",
+      "reference": "Lc 17:8"
+    },
+    "9": {
+      "text": "Acaso se sentirá obrigado para com esse servo por ter feito o que lhe fora mandado?",
+      "reference": "Lc 17:9"
+    },
+    "10": {
+      "text": "Assim também vós, quando tiverdes cumprido todas as ordens, dizei: Somos servos inúteis, fizemos apenas o que devíamos fazer”. \\par",
+      "reference": "Lc 17:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Os dez leprosos\\par }Como ele se encaminhasse para Jerusalém, passava através da Samaria e da Galiléia.",
+      "reference": "Lc 17:11"
+    },
+    "12": {
+      "text": "Ao entrar num povoado, dez leprosos vieram-lhe ao encontro. Pararam à distância",
+      "reference": "Lc 17:12"
+    },
+    "13": {
+      "text": "e clamaram: “Jesus, Mestre, tem compaixão de nós!”",
+      "reference": "Lc 17:13"
+    },
+    "14": {
+      "text": "Vendo-os, ele lhes disse: ‘Ide {\\i mostrar-vos aos sacerdotes}”. E aconteceu que, enquanto iam, ficaram purificados.",
+      "reference": "Lc 17:14"
+    },
+    "15": {
+      "text": "Um dentre eles, vendo-se curado, voltou atrás, glorificando a Deus em alta voz,",
+      "reference": "Lc 17:15"
+    },
+    "16": {
+      "text": "e lançou-se aos pés de Jesus com o rosto por terra, agradecendo-lhe. Pois bem, era um samaritano.",
+      "reference": "Lc 17:16"
+    },
+    "17": {
+      "text": "Tomando a palavra, Jesus lhe disse: “Os dez não ficaram purificados? Onde estão os outros nove?",
+      "reference": "Lc 17:17"
+    },
+    "18": {
+      "text": "Não houve, acaso, quem voltasse para dar glória a Deus senão este estrangeiro?”",
+      "reference": "Lc 17:18"
+    },
+    "19": {
+      "text": "Em seguida, disse-lhe: “Levanta-te e vai; a tua fé te salvou”. \\par",
+      "reference": "Lc 17:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i A vinda do Reino de Deus\\par }Interrogado pelos fariseus sobre quando chegaria o Reino de Deus, respondeu-lhes: “A vinda do Reino de Deus não é observável.",
+      "reference": "Lc 17:20"
+    },
+    "21": {
+      "text": "Não se poderá dizer: ‘Ei-lo aqui! Ei-lo ali!’, pois eis que o Reino de Deus está no meio de vós”. \\par",
+      "reference": "Lc 17:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i O Dia do Filho do Homem\\par }Disse ainda a seus discípulos: “Dias virão em que desejareis ver apenas um dos dias do Filho do Homem, mas não o vereis.",
+      "reference": "Lc 17:22"
+    },
+    "23": {
+      "text": "E vos dirão: ‘Ei-lo aqui! Ei-lo ali!’ – não saiais, não sigais.",
+      "reference": "Lc 17:23"
+    },
+    "24": {
+      "text": "De fato, como o relâmpago relampeja de um ponto do céu e fulgura até o outro, assim acontecerá com o Filho do Homem em seu Dia.",
+      "reference": "Lc 17:24"
+    },
+    "25": {
+      "text": "Mas será preciso primeiro que ele sofra muito e seja rejeitado por esta geração. \\par",
+      "reference": "Lc 17:25"
+    },
+    "26": {
+      "text": "Como aconteceu nos dias de Noé, assim também ocorrerá nos dias do Filho do Homem.",
+      "reference": "Lc 17:26"
+    },
+    "27": {
+      "text": "Comiam, bebiam, casavam e davam-se em casamento até o dia em que {\\i Noé entrou na arca;} então veio o dilúvio, que os fez perecer a todos.",
+      "reference": "Lc 17:27"
+    },
+    "28": {
+      "text": "Do mesmo modo como aconteceu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam, construíam,",
+      "reference": "Lc 17:28"
+    },
+    "29": {
+      "text": "mas no dia em que Ló saiu de Sodoma, {\\i caiu do céu fogo e enxofre,} eliminando a todos.",
+      "reference": "Lc 17:29"
+    },
+    "30": {
+      "text": "Será desse modo o Dia em que o Filho do Homem for revelado. \\par",
+      "reference": "Lc 17:30"
+    },
+    "31": {
+      "text": "Naquele Dia, quem estiver no terraço e tiver utensílios em casa, não desça para pegá-los; igualmente quem estiver no campo, {\\i não volte atrás.}",
+      "reference": "Lc 17:31"
+    },
+    "32": {
+      "text": "Lembrai-vos da mulher de Ló.",
+      "reference": "Lc 17:32"
+    },
+    "33": {
+      "text": "Quem procurar ganhar sua vida, vai perdê-la, e quem a perder vai conservá-la.",
+      "reference": "Lc 17:33"
+    },
+    "34": {
+      "text": "Digo-vos, naquela noite dois estarão num leito; um será tomado e o outro deixado;",
+      "reference": "Lc 17:34"
+    },
+    "35": {
+      "text": "duas mulheres estarão moendo juntas; uma será tomada e a outra deixada”. [",
+      "reference": "Lc 17:35"
+    },
+    "36": {
+      "text": "]",
+      "reference": "Lc 17:36"
+    },
+    "37": {
+      "text": "Tomando a palavra, perguntaram-lhe então: “Onde, Senhor?” Jesus lhes respondeu: “Onde estiver o corpo, aí também se reunirão os abutres”. \\par",
+      "reference": "Lc 17:37"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 37
+}

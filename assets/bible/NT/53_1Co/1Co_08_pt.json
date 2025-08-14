@@ -1,0 +1,65 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. AS CARNES SACRIFICADAS AOS ÍDOLOS\\par }{\\qc\\b\\i O aspecto teórico\\par }No tocante às carnes sacrificadas aos ídolos, é inegável que todos temos a ciência exata. Mas a ciência exata incha; é a caridade que edifica.",
+      "reference": "1Co 8:1"
+    },
+    "2": {
+      "text": "Se alguém julga saber alguma coisa, ainda não sabe como deveria saber.",
+      "reference": "1Co 8:2"
+    },
+    "3": {
+      "text": "Mas, se alguém ama a Deus, é conhecido por Deus.",
+      "reference": "1Co 8:3"
+    },
+    "4": {
+      "text": "Por conseguinte, a respeito do consumo das carnes imoladas aos ídolos, sabemos que um ídolo nada é no mundo e não há outro Deus a não ser o Deus único.",
+      "reference": "1Co 8:4"
+    },
+    "5": {
+      "text": "Se bem que existam aqueles que são chamados deuses, quer no céu, quer na terra – e há, de fato, muitos deuses e muitos senhores –,",
+      "reference": "1Co 8:5"
+    },
+    "6": {
+      "text": "para nós, contudo existe um só Deus, o Pai, de quem tudo procede e para quem nós somos, e um só Senhor, Jesus Cristo, por quem tudo existe e por quem nós somos. \\par",
+      "reference": "1Co 8:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i O ponto de vista da caridade\\par }Mas nem todos têm esta ciência. Alguns, habituados, até há pouco, ao culto dos ídolos, comem a carne dos sacrifícios como se fosse realmente oferecida aos ídolos, e a sua consciência, que é fraca, fica manchada.",
+      "reference": "1Co 8:7"
+    },
+    "8": {
+      "text": "Não são os alimentos que nos aproximam de Deus: se deixamos de comer, nada perdemos; e, se comemos, nada lucramos.",
+      "reference": "1Co 8:8"
+    },
+    "9": {
+      "text": "Tomai cuidado, porém, para que essa vossa liberdade não se torne ocasião de queda para os fracos.",
+      "reference": "1Co 8:9"
+    },
+    "10": {
+      "text": "Se alguém te vê assentado à mesa em um templo de ídolo, a ti que tens a consciência esclarecida, porventura a consciência dele, que é fraco, não será induzida a comer carnes imoladas aos ídolos?",
+      "reference": "1Co 8:10"
+    },
+    "11": {
+      "text": "E, assim, por causa da tua ciência perecerá o fraco, esse irmão pelo qual Cristo morreu!",
+      "reference": "1Co 8:11"
+    },
+    "12": {
+      "text": "Pecando assim contra vossos irmãos e ferindo a sua consciência, que é fraca, é contra Cristo que pecais.",
+      "reference": "1Co 8:12"
+    },
+    "13": {
+      "text": "Eis porque, se um alimento é ocasião de queda para meu irmão, para sempre deixarei de comer carne, a fim de não causar a queda de meu irmão. \\par",
+      "reference": "1Co 8:13"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 13
+}

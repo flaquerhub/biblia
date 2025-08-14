@@ -1,0 +1,133 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A miséria do homem\\par }Uma enorme dificuldade foi criada para todos os homens, \\par um pesado jugo para os filhos de Adão, \\par desde o dia em que saíram do ventre materno, \\par até o dia em que voltarem para a mãe comum. \\par",
+      "reference": "Eclo 40:1"
+    },
+    "2": {
+      "text": "O objeto de seus pensamentos, o temor de seu coração, \\par é a espera angustiosa do dia da morte. \\par",
+      "reference": "Eclo 40:2"
+    },
+    "3": {
+      "text": "Desde o que está sentado no trono, na glória, \\par até o miserável sentado na terra e na cinza, \\par",
+      "reference": "Eclo 40:3"
+    },
+    "4": {
+      "text": "desde o que traz a púrpura e a coroa, \\par até o que se veste com o linho cru, \\par não é senão furor, inveja, perturbação, agitação, \\par medo da morte, ressentimento, lutas. \\par",
+      "reference": "Eclo 40:4"
+    },
+    "5": {
+      "text": "E na hora do repouso, no leito, \\par o sono da noite apenas muda as preocupações: \\par",
+      "reference": "Eclo 40:5"
+    },
+    "6": {
+      "text": "apenas iniciado o repouso, \\par imediatamente, ao dormir, como em pleno dia, \\par ele é agitado por pesadelos, \\par como quem fugiu da linha de batalha. \\par",
+      "reference": "Eclo 40:6"
+    },
+    "7": {
+      "text": "No momento de salvar-se acorda, \\par admira-se de que nada havia para temer. \\par",
+      "reference": "Eclo 40:7"
+    },
+    "8": {
+      "text": "Assim sucede com toda criatura, do homem ao animal, \\par mas para o pecador é sete vezes pior, \\par",
+      "reference": "Eclo 40:8"
+    },
+    "9": {
+      "text": "a morte, o sangue, a luta e a espada, \\par a miséria, a fome, a tribulação, a calamidade! \\par",
+      "reference": "Eclo 40:9"
+    },
+    "10": {
+      "text": "Tudo isso foi criado para os pecadores \\par e foi por causa deles que houve o dilúvio. \\par",
+      "reference": "Eclo 40:10"
+    },
+    "11": {
+      "text": "Tudo o que vem da terra volta à terra \\par e o que vem das águas volta ao mar. \\par",
+      "reference": "Eclo 40:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Máximas diversas\\par }Toda corrupção e injustiça desaparecerão, \\par mas a fidelidade permanece para sempre. \\par",
+      "reference": "Eclo 40:12"
+    },
+    "13": {
+      "text": "A riqueza mal adquirida, como uma torrente, secar-se-á, \\par é como um raio que ressoa na tempestade. \\par",
+      "reference": "Eclo 40:13"
+    },
+    "14": {
+      "text": "Quando abre as mãos, ele se alegra, \\par assim os pecadores irão para a ruína. \\par",
+      "reference": "Eclo 40:14"
+    },
+    "15": {
+      "text": "Os rebentos dos ímpios não são abundantes em ramos, \\par as raízes impuras estão sobre a rocha dura. \\par",
+      "reference": "Eclo 40:15"
+    },
+    "16": {
+      "text": "O junco que abunda em todas as águas e nas margens do rio \\par será arrancado primeiro. \\par",
+      "reference": "Eclo 40:16"
+    },
+    "17": {
+      "text": "A caridade é como um paraíso de bênçãos \\par e a esmola permanece para sempre. \\par",
+      "reference": "Eclo 40:17"
+    },
+    "18": {
+      "text": "Doce é a vida do homem independente e do trabalhador; \\par melhor do que a dos dois é a vida daquele que encontra um tesouro. \\par",
+      "reference": "Eclo 40:18"
+    },
+    "19": {
+      "text": "Filhos e cidade fundada perpetuam um nome; \\par mais do que isso vale uma mulher irrepreensível. \\par",
+      "reference": "Eclo 40:19"
+    },
+    "20": {
+      "text": "O vinho e a arte alegram o coração; \\par melhor do que ambos é o amor da sabedoria. \\par",
+      "reference": "Eclo 40:20"
+    },
+    "21": {
+      "text": "Flauta e harpa tornam agradável o canto; \\par melhor do que ambas é uma voz melodiosa. \\par",
+      "reference": "Eclo 40:21"
+    },
+    "22": {
+      "text": "Graça e beleza deleitam os olhos; \\par melhor do que ambas é o verdor dos campos. \\par",
+      "reference": "Eclo 40:22"
+    },
+    "23": {
+      "text": "Amigo e companheiro encontram-se no momento oportuno; \\par melhor do que ambos é a mulher com o homem. \\par",
+      "reference": "Eclo 40:23"
+    },
+    "24": {
+      "text": "Irmão e auxiliar são úteis no tempo da tribulação; \\par mais do que ambos a esmola preserva do perigo. \\par",
+      "reference": "Eclo 40:24"
+    },
+    "25": {
+      "text": "Ouro e prata tornam a caminhada firme; \\par melhor do que ambos é estimado o conselho. \\par",
+      "reference": "Eclo 40:25"
+    },
+    "26": {
+      "text": "Riqueza e força engrandecem o coração; \\par melhor do que ambas é o temor do Senhor. \\par No temor do Senhor nada falta, \\par com ele não é preciso buscar outra ajuda. \\par",
+      "reference": "Eclo 40:26"
+    },
+    "27": {
+      "text": "O temor do Senhor é como um paraíso de bênçãos, \\par melhor do que qualquer glória ele protege. \\par",
+      "reference": "Eclo 40:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i A mendicância\\par }Filho, não vivas mendigando, \\par é melhor morrer do que mendigar. \\par",
+      "reference": "Eclo 40:28"
+    },
+    "29": {
+      "text": "O homem que olha para a mesa alheia, \\par a sua vida não é para ser contada como uma vida. \\par Ele suja a garganta com o alimento alheio, \\par mas o homem instruído e educado guarda-se disso. \\par",
+      "reference": "Eclo 40:29"
+    },
+    "30": {
+      "text": "Na boca do desavergonhado a mendicância é doce, \\par mas nas suas entranhas queima como fogo. \\par",
+      "reference": "Eclo 40:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

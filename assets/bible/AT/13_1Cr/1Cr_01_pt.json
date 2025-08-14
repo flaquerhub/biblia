@@ -1,0 +1,229 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i I. Em torno de Davi: Genealogias}\\par 1. DE ADÃO E ISRAEL\\par }{\\qc\\b\\i Origem dos três grandes grupos\\par }Adão, Set, Enós,",
+      "reference": "1Cr 1:1"
+    },
+    "2": {
+      "text": "Cainã, Malaleel, Jared,",
+      "reference": "1Cr 1:2"
+    },
+    "3": {
+      "text": "Henoc, Matusalém, Lamec,",
+      "reference": "1Cr 1:3"
+    },
+    "4": {
+      "text": "Noé, Sem, Cam e Jafé. \\par",
+      "reference": "1Cr 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Os jafetitas\\par }Filhos de Jafé: Gomer, Magog, os medos, Javã, Tubal, Mosoc, Tiras.",
+      "reference": "1Cr 1:5"
+    },
+    "6": {
+      "text": "Filhos de Gomer: Asquenez, Rifat, Togorma.",
+      "reference": "1Cr 1:6"
+    },
+    "7": {
+      "text": "Filhos de Javã: Elisa, Társis, os Cetim e os Dodanim. \\par",
+      "reference": "1Cr 1:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Os camitas\\par }Filhos de Cam: Cuch, Mesraim, Fut, Canaã. \\par",
+      "reference": "1Cr 1:8"
+    },
+    "9": {
+      "text": "Filhos de Cuch: Seba, Hévila, Sabata, Regma, Sabataca. Filhos de Regma: Sabá e Dadã.",
+      "reference": "1Cr 1:9"
+    },
+    "10": {
+      "text": "Cuch gerou Nemrod, que foi o primeiro homem poderoso na terra. \\par",
+      "reference": "1Cr 1:10"
+    },
+    "11": {
+      "text": "Mesraim gerou os povos de Lud, de Anam, de Laab, de Naftu,",
+      "reference": "1Cr 1:11"
+    },
+    "12": {
+      "text": "de Patros, de Caslu e de Cáftor, dos quais descendem os filisteus.",
+      "reference": "1Cr 1:12"
+    },
+    "13": {
+      "text": "Canaã gerou Sidon, seu primogênito, depois Het,",
+      "reference": "1Cr 1:13"
+    },
+    "14": {
+      "text": "os jebuseus, os amorreus, os gergeseus,",
+      "reference": "1Cr 1:14"
+    },
+    "15": {
+      "text": "os heveus, os araceus, os sineus,",
+      "reference": "1Cr 1:15"
+    },
+    "16": {
+      "text": "os arádios, os samareus e os emateus. \\par",
+      "reference": "1Cr 1:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Os semitas\\par }Filhos de Sem: Elam, Assur, Arfaxad, Lud e Aram. Filhos de Aram: Hus, Hul, Geter e Mes. \\par",
+      "reference": "1Cr 1:17"
+    },
+    "18": {
+      "text": "Arfaxad gerou Salé, e Salé gerou Héber.",
+      "reference": "1Cr 1:18"
+    },
+    "19": {
+      "text": "Héber teve dois filhos: o primeiro recebeu o nome de Faleg, pois foi na sua época que a terra foi dividida, e seu irmão chamava-se Jectã. \\par",
+      "reference": "1Cr 1:19"
+    },
+    "20": {
+      "text": "Jectã gerou Elmodad, Salef, Asarmot, Jaré,",
+      "reference": "1Cr 1:20"
+    },
+    "21": {
+      "text": "Aduram, Uzal, Decla,",
+      "reference": "1Cr 1:21"
+    },
+    "22": {
+      "text": "Ebal, Abimael, Sabá,",
+      "reference": "1Cr 1:22"
+    },
+    "23": {
+      "text": "Ofir, Hévila, Jobab, todos eles filhos de Jectã. \\par",
+      "reference": "1Cr 1:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i De Sem a Abraão\\par }Sem, Arfaxad, Salé,",
+      "reference": "1Cr 1:24"
+    },
+    "25": {
+      "text": "Héber, Faleg, Reú,",
+      "reference": "1Cr 1:25"
+    },
+    "26": {
+      "text": "Sarug, Nacor, Taré,",
+      "reference": "1Cr 1:26"
+    },
+    "27": {
+      "text": "Abrão, ou melhor, Abraão.",
+      "reference": "1Cr 1:27"
+    },
+    "28": {
+      "text": "Filhos de Abraão: Isaac e Ismael.",
+      "reference": "1Cr 1:28"
+    },
+    "29": {
+      "text": "São estes os seus descendentes: \\par \\par {\\qc\\b\\i Os ismaelitas\\par } O primogênito de Ismael foi Nabaiot; depois nasceram-lhe Cedar, Adbeel, Mabsam,",
+      "reference": "1Cr 1:29"
+    },
+    "30": {
+      "text": "Masma, Duma, Massa, Hadad, Tema,",
+      "reference": "1Cr 1:30"
+    },
+    "31": {
+      "text": "Jetur, Nafis e Cedma. Esses são os filhos de Ismael. \\par",
+      "reference": "1Cr 1:31"
+    },
+    "32": {
+      "text": "Filhos de Cetura, concubina de Abraão. Deu à luz Zamrã, Jecsã, Madã, Madiã, Jesboc e Sué. Filhos de Jecsã: Sabá e Dadã.",
+      "reference": "1Cr 1:32"
+    },
+    "33": {
+      "text": "Filhos de Madiã: Efa, Ofer, Henoc, Abida, Eldaá. Todos esses são filhos de Cetura. \\par",
+      "reference": "1Cr 1:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Isaac e Esaú\\par }Abraão gerou Isaac. Filhos de Isaac: Esaú e Israel.",
+      "reference": "1Cr 1:34"
+    },
+    "35": {
+      "text": "Filhos de Esaú: Elifaz, Reuel, Jeús, Jalam e Coré.",
+      "reference": "1Cr 1:35"
+    },
+    "36": {
+      "text": "Filhos de Elifaz: Temã, Omar, Sefo, Gatam, Cenez, Tamna, Amalec.",
+      "reference": "1Cr 1:36"
+    },
+    "37": {
+      "text": "Filhos de Reuel: Naat, Zara, Sama, Meza.",
+      "reference": "1Cr 1:37"
+    },
+    "38": {
+      "text": "Filhos de Seir: Lotã, Sobal, Sebeon, Ana, Dison, Eser, Disã.",
+      "reference": "1Cr 1:38"
+    },
+    "39": {
+      "text": "Filhos de Lotã: Hori e Emam. Irmã de Lotã: Tamna.",
+      "reference": "1Cr 1:39"
+    },
+    "40": {
+      "text": "Filhos de Sobal: Aliã, Manaat, Ebal, Sefo, Onam. Filhos de Sebeon: Aía e Ana.",
+      "reference": "1Cr 1:40"
+    },
+    "41": {
+      "text": "Filho de Ana: Dison. Filhos de Dison: Hamrã, Esebã, Jetrã, Carã.",
+      "reference": "1Cr 1:41"
+    },
+    "42": {
+      "text": "Filhos de Eser: Balaã, Zavã, Jacã. Filhos de Disã: Hus e Arã. \\par",
+      "reference": "1Cr 1:42"
+    },
+    "43": {
+      "text": "\\par {\\qc\\b\\i Os reis de Edom\\par }São estes os reis que reinaram na terra de Edom, antes que reinasse um rei israelita: Bela, filho de Beor, cuja cidade se chamava Danaba.",
+      "reference": "1Cr 1:43"
+    },
+    "44": {
+      "text": "Após a morte de Bela, reinou em seu lugar Jobab, filho de Zara, de Bosra.",
+      "reference": "1Cr 1:44"
+    },
+    "45": {
+      "text": "Após a morte de Jobab, reinou em seu lugar Husam, da terra dos temanitas.",
+      "reference": "1Cr 1:45"
+    },
+    "46": {
+      "text": "Morto Husam, reinou em seu lugar Adad, filho de Badad, que venceu os madianitas nos Campos de Moab; sua cidade chamava-se Avit.",
+      "reference": "1Cr 1:46"
+    },
+    "47": {
+      "text": "Morto Adad, sucedeu-lhe no trono Semla de Masreca.",
+      "reference": "1Cr 1:47"
+    },
+    "48": {
+      "text": "Morto Semla, sucedeu-lhe Saul de Reobot Naar.",
+      "reference": "1Cr 1:48"
+    },
+    "49": {
+      "text": "Saul morreu e, em seu lugar, reinou Baalanã, filho de Acobor.",
+      "reference": "1Cr 1:49"
+    },
+    "50": {
+      "text": "Quando morreu Baalanã, sucedeu-lhe Adad, natural da cidade de Fau e casado com Meetabel, filha de Matred, filha de Mezaab. \\par",
+      "reference": "1Cr 1:50"
+    },
+    "51": {
+      "text": "\\par {\\qc\\b\\i Os chefes de Edom\\par }Após a morte de Adad, surgiram chefes em Edom: o chefe Tamna, o chefe Alva, o chefe Jetet,",
+      "reference": "1Cr 1:51"
+    },
+    "52": {
+      "text": "o chefe Oolibama, o chefe Ela, o chefe Finon,",
+      "reference": "1Cr 1:52"
+    },
+    "53": {
+      "text": "o chefe Cenez, o chefe Temã, o chefe Mabsar,",
+      "reference": "1Cr 1:53"
+    },
+    "54": {
+      "text": "o chefe Magdiel, o chefe Iram. São esses os chefes de Edom. \\par",
+      "reference": "1Cr 1:54"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 54
+}

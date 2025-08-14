@@ -1,0 +1,217 @@
+{
+  "book": 10,
+  "book_name": "2Samuel",
+  "book_abbr": "2Sm",
+  "book_category": "Histórico",
+  "book_english": "2 Samuel",
+  "testament": "AT",
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Salmos de Davi\\par }Davi dedicou a Iahweh as palavras deste cântico, quando Iahweh o livrou de todos os seus inimigos e da mão de Saul.",
+      "reference": "2Sm 22:1"
+    },
+    "2": {
+      "text": "Ele disse: \\par “Iahweh é a minha rocha e minha fortaleza, \\par o meu libertador:",
+      "reference": "2Sm 22:2"
+    },
+    "3": {
+      "text": "ele é o meu Deus. \\par Nele me abrigo: é meu rochedo, \\par escudo, fortaleza e salvação, \\par é a minha cidadela e o meu refúgio. \\par Meu salvador, tu me salvaste da violência. \\par",
+      "reference": "2Sm 22:3"
+    },
+    "4": {
+      "text": "Digno é ele de louvor: eu invoco a Iahweh \\par e sou salvo dos meus inimigos. \\par",
+      "reference": "2Sm 22:4"
+    },
+    "5": {
+      "text": "As vagas da Morte me cercavam, \\par as torrentes de Belial me apavoravam; \\par",
+      "reference": "2Sm 22:5"
+    },
+    "6": {
+      "text": "as cordas do Xeol me rodeavam, \\par as ciladas da Morte me esperavam. \\par",
+      "reference": "2Sm 22:6"
+    },
+    "7": {
+      "text": "Na minha angústia invoquei a Iahweh, \\par ao meu Deus lancei meu grito, \\par ele escutou do seu Templo a minha voz \\par e o meu clamor chegou aos seus ouvidos. \\par",
+      "reference": "2Sm 22:7"
+    },
+    "8": {
+      "text": "E a terra tremeu e vacilou, \\par os fundamentos do céu se abalaram \\par (pela sua ira eles oscilaram); \\par",
+      "reference": "2Sm 22:8"
+    },
+    "9": {
+      "text": "fumo se elevou de suas narinas \\par e da sua boca um fogo devorador \\par (carvões inflamados saíam dele). \\par",
+      "reference": "2Sm 22:9"
+    },
+    "10": {
+      "text": "Ele inclinou os céus e desceu, \\par uma névoa escura debaixo dos seus pés; \\par",
+      "reference": "2Sm 22:10"
+    },
+    "11": {
+      "text": "cavalgou um querubim e alçou vôo, \\par planou sobre as asas do vento. \\par",
+      "reference": "2Sm 22:11"
+    },
+    "12": {
+      "text": "Fez das trevas a sua companhia \\par e sua tenda, treva d’água, \\par nuvem sobre nuvem; \\par",
+      "reference": "2Sm 22:12"
+    },
+    "13": {
+      "text": "um fulgor adiante dele inflamou \\par granizo e brasas de fogo. \\par",
+      "reference": "2Sm 22:13"
+    },
+    "14": {
+      "text": "Iahweh trovejou desde os céus, \\par o Altíssimo fez ouvir a sua voz; \\par",
+      "reference": "2Sm 22:14"
+    },
+    "15": {
+      "text": "disparou setas e as espalhou, \\par fez cintilar os relâmpagos e os dissipou. \\par",
+      "reference": "2Sm 22:15"
+    },
+    "16": {
+      "text": "O leito dos mares apareceu, \\par os fundamentos do mundo se descobriram, \\par pela repreensão de Iahweh \\par e ao sopro do vento de suas narinas. \\par",
+      "reference": "2Sm 22:16"
+    },
+    "17": {
+      "text": "Enviou das alturas e me tomou, \\par e me tirou das águas profundas; \\par",
+      "reference": "2Sm 22:17"
+    },
+    "18": {
+      "text": "livrou-me do feroz inimigo, \\par de adversários mais fortes do que eu. \\par",
+      "reference": "2Sm 22:18"
+    },
+    "19": {
+      "text": "Atacaram-me no dia da minha desgraça, \\par mas Iahweh foi a minha fortaleza; \\par",
+      "reference": "2Sm 22:19"
+    },
+    "20": {
+      "text": "livrou-me e me colocou em amplo espaço, \\par e salvou-me porque me ama. \\par",
+      "reference": "2Sm 22:20"
+    },
+    "21": {
+      "text": "Iahweh recompensou-me segundo a minha justiça, \\par segundo a pureza das minhas mãos me retribuiu, \\par",
+      "reference": "2Sm 22:21"
+    },
+    "22": {
+      "text": "porque me mantive nos caminhos de Iahweh, \\par sem me distanciar do meu Deus. \\par",
+      "reference": "2Sm 22:22"
+    },
+    "23": {
+      "text": "Os seus julgamentos estão todos diante de mim, \\par e dos seus decretos não me afastei; \\par",
+      "reference": "2Sm 22:23"
+    },
+    "24": {
+      "text": "mas sou inocente perante ele, \\par eu me resguardei do pecado. \\par",
+      "reference": "2Sm 22:24"
+    },
+    "25": {
+      "text": "E Iahweh me retribuiu segundo a minha justiça, \\par segundo a pureza que ele viu em mim com os seus olhos. \\par",
+      "reference": "2Sm 22:25"
+    },
+    "26": {
+      "text": "Com o homem fiel tu és fiel, \\par irrepreensível com quem é sem repreensão, \\par",
+      "reference": "2Sm 22:26"
+    },
+    "27": {
+      "text": "puro com quem é puro, \\par tortuoso com o perverso \\par",
+      "reference": "2Sm 22:27"
+    },
+    "28": {
+      "text": "tu salvas o povo dos pobres \\par e abates os olhos presunçosos. \\par",
+      "reference": "2Sm 22:28"
+    },
+    "29": {
+      "text": "Tu és a minha lâmpada, Iahweh: \\par o meu Deus alumia as minhas trevas; \\par",
+      "reference": "2Sm 22:29"
+    },
+    "30": {
+      "text": "contigo eu salto a muralha, \\par com o meu Deus escalo os muros. \\par",
+      "reference": "2Sm 22:30"
+    },
+    "31": {
+      "text": "O caminho de Deus é sem mácula, \\par e a palavra de Iahweh sem impureza. \\par Ele é o escudo de quem nele se refugia. \\par",
+      "reference": "2Sm 22:31"
+    },
+    "32": {
+      "text": "Quem, pois, é Deus, senão Iahweh? \\par Quem é Rochedo senão o nosso Deus? \\par",
+      "reference": "2Sm 22:32"
+    },
+    "33": {
+      "text": "Esse Deus que me cinge de força \\par e torna o meu caminho irrepreensível, \\par",
+      "reference": "2Sm 22:33"
+    },
+    "34": {
+      "text": "que faz os meus pés como os das corças \\par e me sustenta de pé nas alturas, \\par",
+      "reference": "2Sm 22:34"
+    },
+    "35": {
+      "text": "que instrui as minhas mãos para o combate \\par e meus braços a retesarem o arco de bronze. \\par",
+      "reference": "2Sm 22:35"
+    },
+    "36": {
+      "text": "Tu me cedes o teu escudo de salvação, \\par jamais deixas de acudir-me. \\par",
+      "reference": "2Sm 22:36"
+    },
+    "37": {
+      "text": "Alargaste os meus passos debaixo de mim, \\par e os meus artelhos não vacilaram. \\par",
+      "reference": "2Sm 22:37"
+    },
+    "38": {
+      "text": "Persigo os meus inimigos e os extermino, \\par e não retorno sem os ter destruído. \\par",
+      "reference": "2Sm 22:38"
+    },
+    "39": {
+      "text": "Eu os esmago e não podem levantar-se, \\par tombam e jazem sob os meus pés. \\par",
+      "reference": "2Sm 22:39"
+    },
+    "40": {
+      "text": "Tu me cingiste de força para a guerra, \\par esmagaste debaixo de mim os meus agressores; \\par",
+      "reference": "2Sm 22:40"
+    },
+    "41": {
+      "text": "dos meus inimigos fizeste-me ver as costas, \\par e aqueles que me odeiam, eu os extermino. \\par",
+      "reference": "2Sm 22:41"
+    },
+    "42": {
+      "text": "Clamam, e não há quem os salve, \\par chamam por Iahweh, mas não vem resposta: \\par",
+      "reference": "2Sm 22:42"
+    },
+    "43": {
+      "text": "eu os trituro como pó das praças, \\par como a lama dos becos os amasso. \\par",
+      "reference": "2Sm 22:43"
+    },
+    "44": {
+      "text": "Tu me livras das querelas dos povos, \\par e me pões à testa das nações; \\par o povo que eu não conhecia me serve, \\par",
+      "reference": "2Sm 22:44"
+    },
+    "45": {
+      "text": "os filhos dos estrangeiros me cortejam, \\par prestam atenção e me obedecem, \\par",
+      "reference": "2Sm 22:45"
+    },
+    "46": {
+      "text": "os filhos dos estrangeiros se debilitam, \\par e a tremer abandonam os seus redutos. \\par",
+      "reference": "2Sm 22:46"
+    },
+    "47": {
+      "text": "Viva Iahweh, e bendito seja o meu Rochedo, \\par exaltado seja o Deus da minha salvação, \\par",
+      "reference": "2Sm 22:47"
+    },
+    "48": {
+      "text": "o Deus que me dá a vingança \\par e esmaga os povos debaixo de mim, \\par",
+      "reference": "2Sm 22:48"
+    },
+    "49": {
+      "text": "que me tira do meio dos meus inimigos. \\par Tu me exaltas acima dos meus agressores \\par e me livras do homem violento. \\par",
+      "reference": "2Sm 22:49"
+    },
+    "50": {
+      "text": "Ó Iahweh, louvar-te-ei no meio das nações, \\par e cantarei em louvor do teu nome. \\par",
+      "reference": "2Sm 22:50"
+    },
+    "51": {
+      "text": "Ele multiplica a salvação do seu rei \\par e mostra amor pelo seu ungido, \\par por Davi e por sua descendência para sempre”. \\par",
+      "reference": "2Sm 22:51"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 51
+}

@@ -1,0 +1,185 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O juiz e a viúva importuna\\par }Contou-lhes ainda uma parábola para mostrar a necessidade de orar sempre, sem jamais esmorecer.",
+      "reference": "Lc 18:1"
+    },
+    "2": {
+      "text": "“Havia numa cidade um juiz que não temia a Deus e não tinha consideração para com os homens.",
+      "reference": "Lc 18:2"
+    },
+    "3": {
+      "text": "Nessa mesma cidade, existia uma viúva que vinha a ele, dizendo: ‘Faz-me justiça contra o meu adversário!’",
+      "reference": "Lc 18:3"
+    },
+    "4": {
+      "text": "Durante muito tempo ele se recusou. Depois pensou consigo mesmo: ‘Embora eu não tema a Deus, nem respeite os homens,",
+      "reference": "Lc 18:4"
+    },
+    "5": {
+      "text": "contudo, já que essa viúva está me dando fastio, vou fazer-lhe justiça, para que não venha por fim esbofetear-me’”. \\par",
+      "reference": "Lc 18:5"
+    },
+    "6": {
+      "text": "E o Senhor acrescentou: “Escutai o que diz esse juiz iníquo.",
+      "reference": "Lc 18:6"
+    },
+    "7": {
+      "text": "E Deus não faria justiça a seus eleitos que clamam a ele dia e noite, mesmo que os faça esperar?",
+      "reference": "Lc 18:7"
+    },
+    "8": {
+      "text": "Digo-vos que lhes fará justiça muito em breve. Mas quando o Filho do Homem voltar, encontrará a fé sobre a terra?” \\par",
+      "reference": "Lc 18:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i O fariseu e o publicano\\par }Contou ainda esta parábola para alguns que, convencidos de serem justos, desprezavam os outros:",
+      "reference": "Lc 18:9"
+    },
+    "10": {
+      "text": "“Dois homens subiram ao Templo para orar; um era fariseu e o outro publicano.",
+      "reference": "Lc 18:10"
+    },
+    "11": {
+      "text": "O fariseu, de pé, orava interiormente deste modo: ‘Ó Deus, eu te dou graças porque não sou como o resto dos homens, ladrões, injustos, adúlteros, nem como este publicano;",
+      "reference": "Lc 18:11"
+    },
+    "12": {
+      "text": "jejuo duas vezes por semana, pago o dízimo de todos os meus rendimentos’.",
+      "reference": "Lc 18:12"
+    },
+    "13": {
+      "text": "O publicano, mantendo-se à distância, não ousava sequer levantar os olhos para o céu, mas batia no peito dizendo: ‘Meu Deus, tem piedade de mim, pecador!’",
+      "reference": "Lc 18:13"
+    },
+    "14": {
+      "text": "Eu vos digo que este último desceu para casa justificado, o outro não. Pois todo o que se exalta será humilhado, e quem se humilha será exaltado”. \\par",
+      "reference": "Lc 18:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Jesus e as criancinhas\\par }Traziam-lhe até mesmo as criancinhas para que as tocasse; vendo isso, os discípulos as repreendiam.",
+      "reference": "Lc 18:15"
+    },
+    "16": {
+      "text": "Jesus, porém chamou-as, dizendo: “Deixai as criancinhas virem a mim e não as impeçais, pois delas é o Reino de Deus.",
+      "reference": "Lc 18:16"
+    },
+    "17": {
+      "text": "Em verdade vos digo, aquele que não receber o Reino de Deus como uma criancinha, não entrará nele”. \\par",
+      "reference": "Lc 18:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i O rico de notável posição\\par }Certo homem de posição lhe perguntou: “Bom Mestre, que devo fazer para herdar a vida eterna?”",
+      "reference": "Lc 18:18"
+    },
+    "19": {
+      "text": "Jesus respondeu: “Por que me chamas bom? Ninguém é bom, senão só Deus!",
+      "reference": "Lc 18:19"
+    },
+    "20": {
+      "text": "Conheces os mandamentos: {\\i Não cometas adultério, não mates, não roubes, não levantes falso testemunho; honra teu pai e tua mãe}”.",
+      "reference": "Lc 18:20"
+    },
+    "21": {
+      "text": "Ele disse: “Tudo isso tenho guardado desde a minha juventude”.",
+      "reference": "Lc 18:21"
+    },
+    "22": {
+      "text": "Ouvindo, Jesus disse-lhe: “Uma coisa ainda te falta. Vende tudo o que tens, distribui aos pobres e terás um tesouro nos céus; depois vem e segue-me”.",
+      "reference": "Lc 18:22"
+    },
+    "23": {
+      "text": "Ele, porém, ouvindo isso, ficou cheio de tristeza, pois era muito rico. \\par",
+      "reference": "Lc 18:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i O perigo das riquezas\\par }Vendo-o assim, Jesus disse: “Como é difícil aos que têm riquezas entrar no Reino de Deus!",
+      "reference": "Lc 18:24"
+    },
+    "25": {
+      "text": "Com efeito, é mais fácil um camelo entrar pelo buraco de uma agulha do que um rico entrar no Reino de Deus!”",
+      "reference": "Lc 18:25"
+    },
+    "26": {
+      "text": "Os ouvintes disseram: “Mas então, quem poderá salvar-se?”",
+      "reference": "Lc 18:26"
+    },
+    "27": {
+      "text": "Jesus respondeu: “As coisas impossíveis aos homens são possíveis a Deus”. \\par",
+      "reference": "Lc 18:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Recompensa prometida ao desapego\\par }Disse, então, Pedro: “Eis que deixamos nossos bens e te seguimos!”",
+      "reference": "Lc 18:28"
+    },
+    "29": {
+      "text": "Jesus lhes disse: “Em verdade eu vos digo, não há quem tenha deixado casa, mulher, irmãos, pais ou filhos por causa do Reino de Deus,",
+      "reference": "Lc 18:29"
+    },
+    "30": {
+      "text": "sem que receba muito mais neste tempo e, no mundo futuro, a vida eterna”. \\par",
+      "reference": "Lc 18:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Terceiro anúncio da paixão\\par }Tomando consigo os Doze, disse-lhes: “Eis que estamos subindo a Jerusalém e vai cumprir-se tudo o que foi escrito pelos Profetas a respeito do Filho do Homem.",
+      "reference": "Lc 18:31"
+    },
+    "32": {
+      "text": "De fato, ele será entregue aos gentios, escarnecido, ultrajado, coberto de escarros;",
+      "reference": "Lc 18:32"
+    },
+    "33": {
+      "text": "depois de o açoitar, eles o matarão. E no terceiro dia ressuscitará”.",
+      "reference": "Lc 18:33"
+    },
+    "34": {
+      "text": "Mas eles não entenderam nada. Essa palavra era obscura para eles e não compreendiam o que ele dizia. \\par",
+      "reference": "Lc 18:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b\\i O cego de Jericó\\par }Quando ele se aproximava de Jericó, havia um cego, mendigando, sentado à beira do caminho.",
+      "reference": "Lc 18:35"
+    },
+    "36": {
+      "text": "Ouvindo os passos da multidão que transitava, perguntou o que era.",
+      "reference": "Lc 18:36"
+    },
+    "37": {
+      "text": "Informaram-no de que Jesus, o Nazareu, estava passando.",
+      "reference": "Lc 18:37"
+    },
+    "38": {
+      "text": "E ele pôs-se a gritar: “Jesus, filho de Davi, tem compaixão de mim!”",
+      "reference": "Lc 18:38"
+    },
+    "39": {
+      "text": "Os que estavam à frente repreendiam-no, para que ficasse em silêncio; ele, porém, gritava mais ainda: “Filho de Davi, tem compaixão de mim!”",
+      "reference": "Lc 18:39"
+    },
+    "40": {
+      "text": "Jesus se deteve e mandou que lho trouxessem. Quando chegou perto, perguntou-lhe:",
+      "reference": "Lc 18:40"
+    },
+    "41": {
+      "text": "“Que queres que eu te faça?” Ele respondeu: “Senhor, que eu possa ver novamente!”",
+      "reference": "Lc 18:41"
+    },
+    "42": {
+      "text": "Jesus lhe disse: “Vê de novo; tua fé te salvou”.",
+      "reference": "Lc 18:42"
+    },
+    "43": {
+      "text": "No mesmo instante, ele recuperou a vista, e seguia a Jesus, glorificando a Deus. E, vendo o acontecido, todo o povo celebrou os louvores de Deus. \\par",
+      "reference": "Lc 18:43"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 43
+}

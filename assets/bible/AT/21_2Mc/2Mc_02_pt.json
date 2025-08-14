@@ -1,0 +1,141 @@
+{
+  "book": 73,
+  "book_name": "2Macabeus",
+  "book_abbr": "2Mc",
+  "book_category": "Deuterocanônicos",
+  "book_english": "2 Maccabees",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Jeremias esconde o material do culto\\par }Encontra-se, nos documentos, que o profeta Jeremias deu aos deportados a ordem de tomarem do fogo, como já foi indicado.",
+      "reference": "2Mc 2:1"
+    },
+    "2": {
+      "text": "Além disso, confiando-lhes a Lei, o profeta recomendou aos deportados que não se esquecessem dos mandamentos do Senhor. E que, à vista das estátuas de ouro e prata e dos ornamentos de que estavam revestidas, não se deixassem desviar em seus pensamentos.",
+      "reference": "2Mc 2:2"
+    },
+    "3": {
+      "text": "E dizendo outras coisas semelhantes, exortava-os a que não deixassem a Lei afastar-se do seu coração.",
+      "reference": "2Mc 2:3"
+    },
+    "4": {
+      "text": "No documento estava também que o profeta, advertido por um oráculo, ordenou que o acompanhassem com a tenda e a arca, ao sair ele para a montanha onde Moisés, tendo subido, contemplou a herança de Deus.",
+      "reference": "2Mc 2:4"
+    },
+    "5": {
+      "text": "Ali chegando, Jeremias encontrou uma habitação em forma de gruta, onde introduziu a tenda, a arca e o altar dos perfumes, obstruindo, depois, a entrada.",
+      "reference": "2Mc 2:5"
+    },
+    "6": {
+      "text": "Aproximando-se, então, alguns dos que o tinham acompanhado, ao pretenderem assinalar o caminho, não puderam mais identificá-lo.",
+      "reference": "2Mc 2:6"
+    },
+    "7": {
+      "text": "Ao saber disso, Jeremias censurou-os, dizendo: “O lugar permanecerá incógnito até que Deus realize a reunião do seu povo, mostrando-se misericordioso.",
+      "reference": "2Mc 2:7"
+    },
+    "8": {
+      "text": "Então o Senhor mostrará de novo estas coisas, e aparecerá a glória do Senhor assim como a Nuvem, como se manifestava no tempo de Moisés e quando Salomão rezou para que o Lugar fosse grandiosamente consagrado”.",
+      "reference": "2Mc 2:8"
+    },
+    "9": {
+      "text": "Narrava-se também como este, dotado de sabedoria, ofereceu sacrifícios pela dedicação e pelo acabamento do Templo.",
+      "reference": "2Mc 2:9"
+    },
+    "10": {
+      "text": "E à semelhança de Moisés, que havia orado ao Senhor, do céu descendo o fogo que consumiu as oferendas do sacrifício, assim também Salomão orou. E o fogo, descendo do alto, devorou os holocaustos.",
+      "reference": "2Mc 2:10"
+    },
+    "11": {
+      "text": "Moisés havia dito: “Por não se ter dele comido, o sacrifício pelo pecado foi destruído”.",
+      "reference": "2Mc 2:11"
+    },
+    "12": {
+      "text": "Da mesma forma, também Salomão celebrou os oito dias. \\par",
+      "reference": "2Mc 2:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i A biblioteca de Neemias\\par }Também nos documentos e nas Memórias de Neemias eram narradas essas coisas. E, além disso, como ele, fundando uma biblioteca, reuniu os livros referentes aos reis e aos profetas, os escritos de Davi e as cartas dos reis sobre as oferendas.",
+      "reference": "2Mc 2:13"
+    },
+    "14": {
+      "text": "Da mesma forma, também Judas recolheu todos os livros que tinham sido dispersos por causa da guerra que nos foi feita, e eles estão em nossas mãos.",
+      "reference": "2Mc 2:14"
+    },
+    "15": {
+      "text": "Se, pois, deles precisardes, quaisquer que sejam, enviai-nos pessoas que vo-los possam levar. \\par",
+      "reference": "2Mc 2:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Convite à festa da dedicação do Templo\\par }Estando, pois, para celebrar a purificação, nós vos escrevemos. Fareis bem, portanto, em celebrar estes dias.",
+      "reference": "2Mc 2:16"
+    },
+    "17": {
+      "text": "E Deus, que salvou todo o seu povo e a todos restituiu a herança, a realeza, o sacerdócio e a santificação,",
+      "reference": "2Mc 2:17"
+    },
+    "18": {
+      "text": "como o havia prometido pela Lei, em Deus nós esperamos que ele terá logo compaixão de nós. E que, de qualquer região sob o céu, nos reunirá no lugar santo. Pois foi ele que nos arrancou de grandes males e purificou o Lugar. \\par",
+      "reference": "2Mc 2:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b {\\i II. Prefácio do autor}\\par }Os fatos referentes a Judas Macabeu e a seus irmãos, a purificação do grandioso Templo e a consagração do altar;",
+      "reference": "2Mc 2:19"
+    },
+    "20": {
+      "text": "as guerras contra Antíoco Epífanes e seu filho Eupátor;",
+      "reference": "2Mc 2:20"
+    },
+    "21": {
+      "text": "as aparições vindas do céu em favor dos que generosamente realizaram façanhas pelo judaísmo, a ponto de, embora poucos, devastarem todo o país e porem em fuga as hordas bárbaras:",
+      "reference": "2Mc 2:21"
+    },
+    "22": {
+      "text": "o fato de recuperarem o Templo, afamado em toda a terra habitada, de libertarem a cidade e de restabelecerem as leis que estavam para ser abolidas, tendo-lhes sido propício o Senhor com toda a sua mansidão,",
+      "reference": "2Mc 2:22"
+    },
+    "23": {
+      "text": "todos esses acontecimentos, expostos por Jasão de Cirene em cinco livros, tentaremos sintetizá-los num só compêndio.",
+      "reference": "2Mc 2:23"
+    },
+    "24": {
+      "text": "De fato, considerando a afluência dos números e a dificuldade que existe, por causa da abundância da matéria, para os que desejem adentrar-se nos relatos desta história,",
+      "reference": "2Mc 2:24"
+    },
+    "25": {
+      "text": "tivemos o cuidado de proporcionar satisfação para os que pretendam apenas ler, facilidade para os que se interessem por confiar os fatos à sua memória, utilidade, enfim, a todos a cujas mãos chegar este livro.",
+      "reference": "2Mc 2:25"
+    },
+    "26": {
+      "text": "Para nós, porém, que assumimos a dura tarefa deste resumo, não foi coisa fácil, mas antes uma obra de suores e vigílias,",
+      "reference": "2Mc 2:26"
+    },
+    "27": {
+      "text": "como também não é empenho simples o de quem prepara um banquete e procura a satisfação dos outros. Contudo, pelo reconhecimento que esperamos de muitos, de boa mente submetemo-nos à dura tarefa,",
+      "reference": "2Mc 2:27"
+    },
+    "28": {
+      "text": "deixando ao historiador a exata distinção de cada pormenor, para nos esforçarmos por seguir as linhas de um simples resumo.",
+      "reference": "2Mc 2:28"
+    },
+    "29": {
+      "text": "E assim como o arquiteto de uma casa nova deve responsabilizar-se por toda a estrutura, ao passo que aquele que se encarrega de pintá-la e decorá-la deve procurar os materiais adequados para a sua ornamentação, da mesma forma penso que deve ser o nosso caso.",
+      "reference": "2Mc 2:29"
+    },
+    "30": {
+      "text": "De fato, engolfar-se e como que pervagar pelos acontecimentos, detendo-se com curiosidade nos pormenores, é dever do autor primordial da história.",
+      "reference": "2Mc 2:30"
+    },
+    "31": {
+      "text": "Quanto ao que dela faz uma adaptação, deve-se-lhe conceder que procure a brevidade no expressar e renuncie, portanto, à exposição pormenorizada dos fatos.",
+      "reference": "2Mc 2:31"
+    },
+    "32": {
+      "text": "Aqui, pois, demos início à narração, só isto acrescentando ao que já foi dito: seria simplório alongar-se antes da história, para depois resumir a própria história. \\par",
+      "reference": "2Mc 2:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

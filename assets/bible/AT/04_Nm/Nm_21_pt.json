@@ -1,0 +1,153 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Tomada de Horma\\par }O rei de Arad, o cananeu, que habitava o Negueb, soube que Israel vinha pelo caminho de Atarim. Atacou a Israel e fez prisioneiros dentre eles.",
+      "reference": "Nm 21:1"
+    },
+    "2": {
+      "text": "Israel fez então o seguinte voto a Iahweh: “Se entregares este povo em meu poder, consagrarei suas cidades ao anátema”.",
+      "reference": "Nm 21:2"
+    },
+    "3": {
+      "text": "Iahweh ouviu a voz de Israel e entregou os cananeus em seu poder. Consagraram-nos ao anátema, eles e suas cidades. Deu-se a este lugar o nome de Horma. \\par",
+      "reference": "Nm 21:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i A serpente de bronze\\par }Então, partiram da montanha de Hor pelo caminho do mar de Suf, para contornarem a terra de Edom. No caminho o povo perdeu a paciência.",
+      "reference": "Nm 21:4"
+    },
+    "5": {
+      "text": "Falou contra Deus e contra Moisés: “Por que nos fizestes subir do Egito para morrermos neste deserto? Pois não há nem pão, nem água; estamos enfastiados deste alimento de penúria”. \\par",
+      "reference": "Nm 21:5"
+    },
+    "6": {
+      "text": "Então Iahweh enviou contra o povo serpentes abrasadoras, cuja mordedura fez perecer muita gente em Israel.",
+      "reference": "Nm 21:6"
+    },
+    "7": {
+      "text": "Veio o povo dizer a Moisés: “Pecamos ao falarmos contra Iahweh e contra ti. Intercede junto de Iahweh para que afaste de nós estas serpentes”. Moisés intercedeu pelo povo",
+      "reference": "Nm 21:7"
+    },
+    "8": {
+      "text": "e Iahweh respondeu-lhe: “Faze uma serpente abrasadora e coloca-a em uma haste. Todo aquele que for mordido e a contemplar viverá”.",
+      "reference": "Nm 21:8"
+    },
+    "9": {
+      "text": "Moisés, portanto, fez uma serpente de bronze e a colocou em uma haste; se alguém era mordido por uma serpente, contemplava a serpente de bronze e vivia. \\par",
+      "reference": "Nm 21:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Etapas em direção à Transjordânia\\par }Partiram os filhos de Israel e acamparam em Obot.",
+      "reference": "Nm 21:10"
+    },
+    "11": {
+      "text": "Depois partiram de Obot e acamparam em Jeabarim, no deserto que faz limite com Moab, do lado do sol levante.",
+      "reference": "Nm 21:11"
+    },
+    "12": {
+      "text": "Partiram dali e acamparam na torrente de Zared.",
+      "reference": "Nm 21:12"
+    },
+    "13": {
+      "text": "E dali partiram e acamparam no outro lado do Arnon. \\par Esta torrente saía da terra dos amorreus, no deserto. Porque o Arnon estava na fronteira de Moab, entre os moabitas e os amorreus.",
+      "reference": "Nm 21:13"
+    },
+    "14": {
+      "text": "Por isso se diz no livro das Guerras de Iahweh: \\par ...Vaeb, junto de Sufa, e a torrente de Arnon \\par",
+      "reference": "Nm 21:14"
+    },
+    "15": {
+      "text": "e o declive da ravina que se inclina em direção à sede de Ar se encosta na fronteira de Moab. \\par",
+      "reference": "Nm 21:15"
+    },
+    "16": {
+      "text": "Dali partiram para Beer. – \\par Foi a respeito deste poço que Iahweh disse a Moisés: “Reúne o povo e dar-lhe-ei água”. \\par",
+      "reference": "Nm 21:16"
+    },
+    "17": {
+      "text": "Então Israel cantou este cântico: \\par A respeito do Poço. \\par Entoai-lhe cânticos. \\par",
+      "reference": "Nm 21:17"
+    },
+    "18": {
+      "text": "O Poço cavado pelos príncipes, \\par que foi perfurado pelos chefes do povo, \\par com o cetro, com seus bastões. \\par – e do deserto para Matana,",
+      "reference": "Nm 21:18"
+    },
+    "19": {
+      "text": "de Matana para Naaliel, de Naaliel para Bamot,",
+      "reference": "Nm 21:19"
+    },
+    "20": {
+      "text": "e de Bamor para o vale que se abre para os campos de Moab, em direção às alturas do Fasga, que fica diante do deserto e o domina. \\par",
+      "reference": "Nm 21:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Conquista da Transjordânia\\par }Israel enviou mensageiros a Seon, rei dos amorreus, a fim de dizer-lhe: \\par",
+      "reference": "Nm 21:21"
+    },
+    "22": {
+      "text": "“Desejo atravessar a tua terra. Não nos desviaremos pelos campos nem pelas vinhas; não beberemos a água dos poços; seguiremos a estrada real, até que tenhamos atravessado o teu território”. \\par",
+      "reference": "Nm 21:22"
+    },
+    "23": {
+      "text": "Seon, contudo, não deixou Israel atravessar a sua terra. Reuniu todo o seu povo, marchou pelo deserto ao encontro de Israel, e chegou a Jasa, onde pelejou contra Israel.",
+      "reference": "Nm 21:23"
+    },
+    "24": {
+      "text": "Israel, porém, o feriu a golpes de espada e conquistou a sua terra, desde o Arnon até o Jaboc, até aos filhos de Amon, pois Jazer se encontrava na fronteira amonita. \\par",
+      "reference": "Nm 21:24"
+    },
+    "25": {
+      "text": "Israel tomou todas essas cidades. Ocupou todas as cidades dos amorreus, Hesebon e todos os seus arredores.",
+      "reference": "Nm 21:25"
+    },
+    "26": {
+      "text": "Hesebon era, com efeito, a capital de Seon, rei dos amorreus. Foi Seon que fez guerra ao primeiro rei de Moab e lhe tomou toda a sua terra até o Arnon.",
+      "reference": "Nm 21:26"
+    },
+    "27": {
+      "text": "Por isso dizem os poetas: \\par Vinde a Hesebon, \\par seja ela reconstruída, seja restabelecida \\par a cidade de Seon! \\par",
+      "reference": "Nm 21:27"
+    },
+    "28": {
+      "text": "Um fogo saiu de Hesebon, \\par uma chama da cidade de Seon, \\par e devorou Ar Moab, \\par consumiu as alturas do Arnon. \\par",
+      "reference": "Nm 21:28"
+    },
+    "29": {
+      "text": "Ai de ti, Moab! \\par Estás perdido, povo de Camos! \\par Fez dos seus filhos fugitivos \\par e das suas filhas cativas \\par de Seon, rei dos amorreus. \\par",
+      "reference": "Nm 21:29"
+    },
+    "30": {
+      "text": "A sua posteridade foi destruída \\par desde Hesebon até Dibon, \\par e destruímos pelo fogo \\par desde Nofe até Medaba. \\par",
+      "reference": "Nm 21:30"
+    },
+    "31": {
+      "text": "Estabeleceu-se Israel na terra dos amorreus. \\par",
+      "reference": "Nm 21:31"
+    },
+    "32": {
+      "text": "E Moisés enviou exploradores a Jazer, e Israel a tomou, bem como os seus arredores; e desalojaram os amorreus que ali habitavam. \\par",
+      "reference": "Nm 21:32"
+    },
+    "33": {
+      "text": "Depois tomaram a direção de Basã e nele subiram. O rei de Basã, Og, marchou ao encontro deles com todo o seu povo, a fim de dar-lhes combate em Edrai.",
+      "reference": "Nm 21:33"
+    },
+    "34": {
+      "text": "Iahweh disse a Moisés: “Não o temas, pois o entreguei em teu poder, ele, o seu povo e a sua terra. Tratá-lo-ás como trataste Seon, rei dos amorreus, que habitava em Hesebon”.",
+      "reference": "Nm 21:34"
+    },
+    "35": {
+      "text": "Derrotaram-no, a ele, a seus filhos e a seu povo, sem que ninguém escapasse. E tomaram posse da sua terra. \\par",
+      "reference": "Nm 21:35"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 35
+}

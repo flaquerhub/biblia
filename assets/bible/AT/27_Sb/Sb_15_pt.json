@@ -1,0 +1,89 @@
+{
+  "book": 69,
+  "book_name": "Sabedoria",
+  "book_abbr": "Sb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Wisdom",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Israel não é idólatra\\par }Mas tu, nosso Deus, és bom e verdadeiro; \\par paciente, governas o universo com misericórdia. \\par",
+      "reference": "Sb 15:1"
+    },
+    "2": {
+      "text": "Mesmo pecando somos teus, pois acatamos teu poder, \\par mas não pecaremos, sabendo que te pertencemos. \\par",
+      "reference": "Sb 15:2"
+    },
+    "3": {
+      "text": "Conhecer-te é a justiça perfeita, \\par acatar teu poder é a raiz da imortalidade. \\par",
+      "reference": "Sb 15:3"
+    },
+    "4": {
+      "text": "Não nos extraviaram as perversas artes, invenções humanas, \\par nem o trabalho estéril dos pintores \\par – figuras besuntadas com manchas policromas –, \\par",
+      "reference": "Sb 15:4"
+    },
+    "5": {
+      "text": "cuja vista desperta a paixão dos insensatos, \\par que se entusiasmam com a forma sem vida de uma imagem morta. \\par",
+      "reference": "Sb 15:5"
+    },
+    "6": {
+      "text": "Enamorados do mal e dignos de tais esperanças, \\par tanto os autores como os entusiastas e adoradores! \\par",
+      "reference": "Sb 15:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Loucura dos fabricantes de ídolos\\par }Eis um oleiro que penosamente amassa uma terra mole \\par e modela cada objeto para nosso uso. \\par Da mesma argila modelou \\par os vasos que servem às ações puras, \\par como também, do mesmo modo, a usos contrários; \\par qual deva ser o uso de cada um desses, \\par o juiz é o oleiro. \\par",
+      "reference": "Sb 15:7"
+    },
+    "8": {
+      "text": "E depois – esforço mal empregado! – \\par da mesma argila modela uma divindade vazia, \\par ele que pouco antes nascera da terra \\par e que em breve voltará à terra donde foi tirado, \\par quando se lhe pedirá conta da vida que lhe foi emprestada. \\par",
+      "reference": "Sb 15:8"
+    },
+    "9": {
+      "text": "Não o preocupa o fato de que vai se esgotar \\par e que sua vida seja efêmera; \\par compete com os ourives e os que lavram a prata, \\par plagia os fundidores de cobre, \\par vangloriando-se de fabricar réplicas. \\par",
+      "reference": "Sb 15:9"
+    },
+    "10": {
+      "text": "Cinzas, o seu coração! \\par Sua esperança: mais vil que a terra! \\par Sua existência: mais desprezível que o barro! \\par",
+      "reference": "Sb 15:10"
+    },
+    "11": {
+      "text": "Pois desconheceu Aquele que o modelou, \\par infundiu-lhe uma alma ativa \\par e inspirou-lhe um sopro vital. \\par",
+      "reference": "Sb 15:11"
+    },
+    "12": {
+      "text": "Mas ele considerou a nossa vida como um jogo \\par e a existência uma feira de negócios: \\par “É preciso ganhar – diz ele – por todos os meios, mesmo maus!” \\par",
+      "reference": "Sb 15:12"
+    },
+    "13": {
+      "text": "Sim, este, mais que todos, sabe que peca: \\par o que fabrica, de matéria terrena, frágeis vasos e estátuas de ídolos. \\par",
+      "reference": "Sb 15:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Loucura dos egípcios: sua idolatria universal\\par }Mas muito insensatos e mais infelizes que a alma de uma criança \\par são os inimigos de teu povo, que o oprimiram, \\par",
+      "reference": "Sb 15:14"
+    },
+    "15": {
+      "text": "pois eles consideraram como deuses todos os ídolos dos pagãos, \\par cujo uso dos olhos não lhes serve para ver, \\par nem o nariz para respirar o ar, \\par nem os ouvidos para ouvir, \\par nem os dedos da mão para apalpar, \\par e seus pés são inúteis para caminhar. \\par",
+      "reference": "Sb 15:15"
+    },
+    "16": {
+      "text": "Pois foi um homem quem os fez, \\par modelou-os um ser de espírito emprestado: \\par nenhum homem pode plasmar um deus semelhante a si; \\par",
+      "reference": "Sb 15:16"
+    },
+    "17": {
+      "text": "mortal, suas mãos ímpias produzem um cadáver. \\par Ele é melhor do que os objetos que adora: \\par ele pelo menos teve vida, eles jamais! \\par",
+      "reference": "Sb 15:17"
+    },
+    "18": {
+      "text": "Adoram até os animais mais odiosos \\par que, comparados com os demais, são os mais estúpidos; \\par",
+      "reference": "Sb 15:18"
+    },
+    "19": {
+      "text": "não têm nenhuma beleza que os faça atraentes \\par – coisa que sucede à vista com outros animais –, \\par eles escaparam ao elogio de Deus e à sua bênção. \\par",
+      "reference": "Sb 15:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

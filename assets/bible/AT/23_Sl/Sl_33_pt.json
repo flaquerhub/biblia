@@ -1,0 +1,101 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 33,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 33 (32)\\par }{\\qc\\b\\i Hino à Providência\\par }Ó justos, exultai em Iahweh, \\par aos retos convém o louvor. \\par",
+      "reference": "Sl 33:1"
+    },
+    "2": {
+      "text": "Celebrai a Iahweh com harpa, \\par tocai-lhe a lira de dez cordas; \\par",
+      "reference": "Sl 33:2"
+    },
+    "3": {
+      "text": "cantai-lhe um cântico novo, \\par tocai com arte na hora da ovação! \\par",
+      "reference": "Sl 33:3"
+    },
+    "4": {
+      "text": "Pois a palavra de Iahweh é reta, \\par e sua obra toda é verdade; \\par",
+      "reference": "Sl 33:4"
+    },
+    "5": {
+      "text": "ele ama a justiça e o direito, \\par a terra está cheia do amor de Iahweh. \\par",
+      "reference": "Sl 33:5"
+    },
+    "6": {
+      "text": "O céu foi feito com a palavra de Iahweh, \\par e seu exército com o sopro de sua boca. \\par",
+      "reference": "Sl 33:6"
+    },
+    "7": {
+      "text": "Ele represa num dique as águas do mar, \\par coloca os oceanos em reservatórios. \\par",
+      "reference": "Sl 33:7"
+    },
+    "8": {
+      "text": "Que a terra inteira tema a Iahweh, \\par temam-no todos os habitantes do mundo! \\par",
+      "reference": "Sl 33:8"
+    },
+    "9": {
+      "text": "Porque ele diz e a coisa acontece, \\par ele ordena e ela se afirma. \\par",
+      "reference": "Sl 33:9"
+    },
+    "10": {
+      "text": "Iahweh desfaz o desígnio das nações \\par e frustra os projetos dos povos. \\par",
+      "reference": "Sl 33:10"
+    },
+    "11": {
+      "text": "O desígnio de Iahweh permanece para sempre, \\par os projetos de seu coração, de geração em geração. \\par",
+      "reference": "Sl 33:11"
+    },
+    "12": {
+      "text": "Feliz a nação cujo Deus é Iahweh, \\par o povo que escolheu para si como herança. \\par",
+      "reference": "Sl 33:12"
+    },
+    "13": {
+      "text": "Do céu Iahweh contempla \\par e vê todos os filhos de Adão. \\par",
+      "reference": "Sl 33:13"
+    },
+    "14": {
+      "text": "Do lugar de sua morada ele observa \\par os habitantes todos da terra: \\par",
+      "reference": "Sl 33:14"
+    },
+    "15": {
+      "text": "ele forma o coração de cada um \\par e discerne todos os seus atos. \\par",
+      "reference": "Sl 33:15"
+    },
+    "16": {
+      "text": "Nenhum rei se salva com exército numeroso, \\par o valente não se livra pela sua grande força; \\par",
+      "reference": "Sl 33:16"
+    },
+    "17": {
+      "text": "para salvar, o cavalo é ilusão, \\par e todo o seu vigor não ajuda a escapar. \\par",
+      "reference": "Sl 33:17"
+    },
+    "18": {
+      "text": "Eis que o olho de Iahweh está sobre os que o temem, \\par sobre aqueles que esperam seu amor, \\par",
+      "reference": "Sl 33:18"
+    },
+    "19": {
+      "text": "para a morte libertar a sua vida \\par e no tempo da fome fazê-los viver. \\par",
+      "reference": "Sl 33:19"
+    },
+    "20": {
+      "text": "Quanto a nós, nós esperamos por Iahweh: \\par ele é nosso auxílio e nosso escudo. \\par",
+      "reference": "Sl 33:20"
+    },
+    "21": {
+      "text": "Nele se alegra o nosso coração, \\par é no seu nome santo que confiamos. \\par",
+      "reference": "Sl 33:21"
+    },
+    "22": {
+      "text": "Iahweh, que teu amor esteja sobre nós, \\par assim como está em ti nossa esperança! \\par",
+      "reference": "Sl 33:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

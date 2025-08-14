@@ -1,0 +1,53 @@
+{
+  "book": 52,
+  "book_name": "1Tessalonicenses",
+  "book_abbr": "1Ts",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Thessalonians",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Endereço\\par }Paulo, Silvano e Timóteo à Igreja de Tessalônica, em Deus Pai, e no Senhor Jesus Cristo. A vós graça e paz! \\par",
+      "reference": "1Ts 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Ação de graças e felicitações\\par }Damos graças a Deus por todos vós, sempre que fazemos menção de vós em nossas orações.",
+      "reference": "1Ts 1:2"
+    },
+    "3": {
+      "text": "É que recordamos sem cessar, aos olhos de Deus, nosso Pai, a atividade de vossa fé, o esforço da vossa caridade e a perseverança da vossa esperança em nosso Senhor Jesus Cristo. \\par",
+      "reference": "1Ts 1:3"
+    },
+    "4": {
+      "text": "Sabemos, irmãos amados de Deus, que sois do número dos eleitos",
+      "reference": "1Ts 1:4"
+    },
+    "5": {
+      "text": "– porque o nosso evangelho vos foi pregado não somente com palavras, mas com grande eficácia no Espírito Santo e com toda a convicção. Assim, sabeis como temos andado no meio de vós para o vosso bem.",
+      "reference": "1Ts 1:5"
+    },
+    "6": {
+      "text": "Vós vos tornastes imitadores nossos e do Senhor, acolhendo a Palavra com a alegria do Espírito Santo, apesar das numerosas tribulações;",
+      "reference": "1Ts 1:6"
+    },
+    "7": {
+      "text": "de sorte que vos tornastes modelo para todos os fiéis da Macedônia e da Acaia.",
+      "reference": "1Ts 1:7"
+    },
+    "8": {
+      "text": "Porque, partindo de vós, se divulgou a Palavra do Senhor, não apenas pela Macedônia e Acaia, mas propagou-se por toda parte a fé que tendes em Deus. Não é necessário falarmos disso,",
+      "reference": "1Ts 1:8"
+    },
+    "9": {
+      "text": "pois eles mesmos contam qual acolhimento que da vossa parte tivemos, e como vos convertestes dos ídolos a Deus, para servirdes ao Deus vivo e verdadeiro,",
+      "reference": "1Ts 1:9"
+    },
+    "10": {
+      "text": "e esperardes dos céus a seu Filho, a quem ele ressuscitou dentre os mortos: Jesus que nos livra da ira futura. \\par",
+      "reference": "1Ts 1:10"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 10
+}

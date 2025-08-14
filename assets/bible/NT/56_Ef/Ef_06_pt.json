@@ -1,0 +1,109 @@
+{
+  "book": 49,
+  "book_name": "Efésios",
+  "book_abbr": "Ef",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Ephesians",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Filhos, obedecei aos vossos pais, no Senhor, pois isso é justo.",
+      "reference": "Ef 6:1"
+    },
+    "2": {
+      "text": "{\\i Honra a teu pai e a tua mãe} – é o primeiro mandamento com promessa –",
+      "reference": "Ef 6:2"
+    },
+    "3": {
+      "text": "{\\i para seres feliz e teres uma longa vida sobre a terra.}",
+      "reference": "Ef 6:3"
+    },
+    "4": {
+      "text": "E vós, pais, não deis a vossos filhos motivo de revolta contra vós, mas criai-os na disciplina e correção do Senhor. \\par",
+      "reference": "Ef 6:4"
+    },
+    "5": {
+      "text": "Servos, obedecei, com temor e tremor, em simplicidade de coração, a vossos senhores nesta vida, como a Cristo,",
+      "reference": "Ef 6:5"
+    },
+    "6": {
+      "text": "servindo-os, não quando vigiados, para agradar a homens, mas como servos de Cristo, que põem a alma em atender à vontade de Deus.",
+      "reference": "Ef 6:6"
+    },
+    "7": {
+      "text": "Tende boa vontade em servi-los, como ao Senhor e não como a homens,",
+      "reference": "Ef 6:7"
+    },
+    "8": {
+      "text": "sabendo que todo aquele que fizer o bem receberá o bem do Senhor, seja ele servo ou livre.",
+      "reference": "Ef 6:8"
+    },
+    "9": {
+      "text": "E vós, senhores, fazei o mesmo para com eles, sem ameaças, sabendo que o Senhor deles e vosso está nos céus e que ele não faz acepção de pessoas. \\par",
+      "reference": "Ef 6:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i O combate espiritual\\par }Finalmente, fortalecei-vos no Senhor e na força do seu poder.",
+      "reference": "Ef 6:10"
+    },
+    "11": {
+      "text": "Revesti-vos da armadura de Deus, para poderdes resistir às insídias do diabo.",
+      "reference": "Ef 6:11"
+    },
+    "12": {
+      "text": "Pois o nosso combate não é contra o sangue nem contra a carne, mas contra os Principados, contra as Autoridades, contra os Dominadores deste mundo de trevas, contra os Espíritos do Mal, que povoam as regiões celestiais.",
+      "reference": "Ef 6:12"
+    },
+    "13": {
+      "text": "Por isso deveis vestir a armadura de Deus, para poderdes resistir no dia mau e sair firmes de todo o combate. \\par",
+      "reference": "Ef 6:13"
+    },
+    "14": {
+      "text": "Portanto, ponde-vos de pé e {\\i cingi os vossos rins com a verdade e revesti-vos da couraça da justiça}",
+      "reference": "Ef 6:14"
+    },
+    "15": {
+      "text": "e calçai os vossos pés com a {\\i preparação do evangelho da paz},",
+      "reference": "Ef 6:15"
+    },
+    "16": {
+      "text": "empunhando sempre o escudo da fé, com o qual podereis extinguir os dardos inflamados do Maligno.",
+      "reference": "Ef 6:16"
+    },
+    "17": {
+      "text": "E tomai o {\\i capacete da salvação} e a espada do Espírito, que é a Palavra de Deus. \\par",
+      "reference": "Ef 6:17"
+    },
+    "18": {
+      "text": "Com orações e súplicas de toda a sorte, orai em todo tempo, no Espírito, e para isso vigiai com toda perseverança e súplica por todos os santos.",
+      "reference": "Ef 6:18"
+    },
+    "19": {
+      "text": "Orai também por mim, para que, quando eu abrir os meus lábios, me seja dada a palavra para anunciar com ousadia o mistério do evangelho,",
+      "reference": "Ef 6:19"
+    },
+    "20": {
+      "text": "do qual sou o embaixador em cadeias: que eu fale ousadamente, como importa que eu fale. \\par",
+      "reference": "Ef 6:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Notícias pessoais e saudação final\\par }Para saberdes o que se passa comigo e o que é que eu estou fazendo, envio a vós Tíquico, irmão amado e fiel ministro no Senhor.",
+      "reference": "Ef 6:21"
+    },
+    "22": {
+      "text": "Ele vos dirá tudo o que se passa entre nós e leva a minha exortação aos vossos corações. \\par",
+      "reference": "Ef 6:22"
+    },
+    "23": {
+      "text": "Aos irmãos paz, amor e fé da parte de Deus, o Pai, e do Senhor Jesus Cristo.",
+      "reference": "Ef 6:23"
+    },
+    "24": {
+      "text": "A graça esteja com todos os que amam a nosso Senhor Jesus Cristo com amor perene! \\par",
+      "reference": "Ef 6:24"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 24
+}

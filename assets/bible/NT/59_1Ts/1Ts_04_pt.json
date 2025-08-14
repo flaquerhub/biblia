@@ -1,0 +1,85 @@
+{
+  "book": 52,
+  "book_name": "1Tessalonicenses",
+  "book_abbr": "1Ts",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Thessalonians",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Recomendações: santidade de vida e amor\\par }Finalmente, meus irmãos, vos pedimos e exortamos no Senhor Jesus que, tendo ouvido de nós como deveis viver para agradar a Deus, e assim já viveis: todavia, deveis ainda progredir.",
+      "reference": "1Ts 4:1"
+    },
+    "2": {
+      "text": "Pois conheceis as instruções que vos demos da parte do Senhor Jesus. \\par",
+      "reference": "1Ts 4:2"
+    },
+    "3": {
+      "text": "Porquanto, é esta a vontade de Deus: a vossa santificação, que vos aparteis da luxúria,",
+      "reference": "1Ts 4:3"
+    },
+    "4": {
+      "text": "que cada qual saiba tratar a própria esposa com santidade e respeito,",
+      "reference": "1Ts 4:4"
+    },
+    "5": {
+      "text": "sem se deixar levar pelas paixões, como os {\\i gentios, que não conhecem a Deus.}",
+      "reference": "1Ts 4:5"
+    },
+    "6": {
+      "text": "Nessa matéria ninguém fira ou lese a seu irmão, porque de tudo isso {\\i se vinga o Senhor}, como já vos temos dito e assegurado.",
+      "reference": "1Ts 4:6"
+    },
+    "7": {
+      "text": "Pois Deus não nos chamou para a impureza, mas sim para a santidade.",
+      "reference": "1Ts 4:7"
+    },
+    "8": {
+      "text": "Portanto, quem desprezar estas instruções não despreza um homem, mas Deus, {\\i que vos infundiu o seu Espírito Santo.}\\par",
+      "reference": "1Ts 4:8"
+    },
+    "9": {
+      "text": "Não precisamos vos escrever sobre o amor fraterno; pois aprendestes pessoalmente de Deus a amar-vos mutuamente;",
+      "reference": "1Ts 4:9"
+    },
+    "10": {
+      "text": "e é o que fazeis muito bem para com todos os irmãos em toda a Macedônia. Nós, porém, vos exortamos, irmãos, a progredir cada vez mais.",
+      "reference": "1Ts 4:10"
+    },
+    "11": {
+      "text": "Empenhai a vossa honra em levar vida tranqüila, ocupar-vos dos vossos negócios, e trabalhar com vossas mãos, conforme as nossas diretrizes.",
+      "reference": "1Ts 4:11"
+    },
+    "12": {
+      "text": "Assim levareis vida honrada aos olhos dos de fora, e não tereis necessidade de ninguém. \\par",
+      "reference": "1Ts 4:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Os mortos e os vivos na Vinda do Senhor\\par }Irmãos, não queremos que ignoreis \\par o que se refere aos mortos, \\par para não ficardes tristes como os outros \\par que não têm esperança. \\par",
+      "reference": "1Ts 4:13"
+    },
+    "14": {
+      "text": "Se cremos que Jesus morreu e ressuscitou, \\par assim também os que morreram em Jesus, \\par Deus há de levá-los em sua companhia. \\par",
+      "reference": "1Ts 4:14"
+    },
+    "15": {
+      "text": "Pois isto vos declaramos, \\par segundo a palavra do Senhor: \\par que os vivos, os que ainda estivermos aqui \\par para a Vinda do Senhor, \\par não passaremos à frente dos que morreram. \\par",
+      "reference": "1Ts 4:15"
+    },
+    "16": {
+      "text": "Quando o Senhor, ao sinal dado, \\par à voz do arcanjo e ao som \\par da trombeta divina, \\par descer do céu, então os mortos em Cristo \\par ressuscitarão primeiro; \\par",
+      "reference": "1Ts 4:16"
+    },
+    "17": {
+      "text": "em seguida nós, os vivos que estivermos lá, \\par seremos arrebatados com eles nas nuvens \\par para o encontro com o Senhor, nos ares. \\par E assim, estaremos para sempre com o Senhor. \\par",
+      "reference": "1Ts 4:17"
+    },
+    "18": {
+      "text": "Consolai-vos, pois, uns aos outros com estas palavras. \\par",
+      "reference": "1Ts 4:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

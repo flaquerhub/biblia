@@ -1,0 +1,105 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 44,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b II. NA HISTÓRIA\\par }{\\qc\\b\\i Elogio dos antepassados\\par }Elogiemos os homens ilustres, \\par nossos antepassados, em sua ordem de sucessão. \\par",
+      "reference": "Eclo 44:1"
+    },
+    "2": {
+      "text": "O Senhor criou uma imensa glória \\par e mostrou sua grandeza desde os tempos antigos. \\par",
+      "reference": "Eclo 44:2"
+    },
+    "3": {
+      "text": "Homens exerceram autoridade real, \\par ganharam nome por seus feitos; \\par outros foram ponderados nos conselhos \\par e exprimiram-se em oráculos proféticos. \\par",
+      "reference": "Eclo 44:3"
+    },
+    "4": {
+      "text": "Outros regeram o povo com seus conselhos, \\par inteligência da sabedoria popular \\par e os sábios discursos de seu ensinamento; \\par",
+      "reference": "Eclo 44:4"
+    },
+    "5": {
+      "text": "outros cultivaram a música \\par e escreveram poesias; \\par",
+      "reference": "Eclo 44:5"
+    },
+    "6": {
+      "text": "outros foram ricos e dotados de recursos, \\par vivendo em paz em suas habitações. \\par",
+      "reference": "Eclo 44:6"
+    },
+    "7": {
+      "text": "Todos esses foram honrados por seus contemporâneos \\par e glorificados já em seus dias. \\par",
+      "reference": "Eclo 44:7"
+    },
+    "8": {
+      "text": "Alguns deles deixaram um nome \\par que ainda é citado em elogios. \\par",
+      "reference": "Eclo 44:8"
+    },
+    "9": {
+      "text": "Outros não deixaram nenhuma lembrança \\par e desapareceram como se não tivessem existido. \\par Existiram como se não tivessem existido, \\par assim como os seus filhos depois deles. \\par",
+      "reference": "Eclo 44:9"
+    },
+    "10": {
+      "text": "Mas eis os homens de bem \\par cujos benefícios não foram esquecidos. \\par",
+      "reference": "Eclo 44:10"
+    },
+    "11": {
+      "text": "Na sua descendência eles encontram \\par uma rica herança, sua posteridade. \\par",
+      "reference": "Eclo 44:11"
+    },
+    "12": {
+      "text": "Os seus descendentes ficam fiéis aos mandamentos \\par e também, graças a eles, os seus filhos. \\par",
+      "reference": "Eclo 44:12"
+    },
+    "13": {
+      "text": "Para sempre dura sua descendência \\par e a sua glória não acabará jamais. \\par",
+      "reference": "Eclo 44:13"
+    },
+    "14": {
+      "text": "Os seus corpos serão sepultados em paz \\par e seus nomes vivem por gerações. \\par",
+      "reference": "Eclo 44:14"
+    },
+    "15": {
+      "text": "Os povos proclamarão sua sabedoria, \\par a assembléia anunciará os seus louvores. \\par",
+      "reference": "Eclo 44:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Henoc\\par }Henoc agradou ao Senhor e foi arrebatado, \\par exemplo de conversão para as gerações. \\par",
+      "reference": "Eclo 44:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Noé\\par }Noé foi reconhecido como o perfeito justo, \\par no tempo da cólera tornou-se um rebento: \\par graças a ele ficou um resto na terra, \\par quando houve o dilúvio. \\par",
+      "reference": "Eclo 44:17"
+    },
+    "18": {
+      "text": "Nele foram estabelecidas alianças eternas, \\par para que ninguém mais seja aniquilado por dilúvio. \\par",
+      "reference": "Eclo 44:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Abraão\\par }Abraão, célebre antepassado de uma multidão de nações, \\par ninguém foi reconhecido como ele em glória. \\par",
+      "reference": "Eclo 44:19"
+    },
+    "20": {
+      "text": "Observou a lei do Altíssimo \\par e fez uma aliança com ele. \\par Estabeleceu essa aliança na sua carne \\par e foi reconhecido fiel na prova. \\par",
+      "reference": "Eclo 44:20"
+    },
+    "21": {
+      "text": "Por isso, com juramento Deus lhe prometeu \\par abençoar todas as nações de sua descendência, \\par multiplicá-la como o pó da terra \\par e exaltar sua posteridade como as estrelas, \\par dar-lhe em herança o país, \\par de um mar a outro, \\par desde o rio até às extremidades da terra. \\par",
+      "reference": "Eclo 44:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Isaac e Jacó\\par }Em Isaac, por causa de Abraão, seu pai, \\par ele renovou",
+      "reference": "Eclo 44:22"
+    },
+    "23": {
+      "text": "a bênção de todos os homens; \\par fez repousar a aliança sobre a cabeça de Jacó. \\par Confirmou-o com suas bênçãos \\par e lhe deu o país em herança; \\par dividiu-o em partes \\par e o distribuiu entre as doze tribos. \\par",
+      "reference": "Eclo 44:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

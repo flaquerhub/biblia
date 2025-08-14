@@ -1,0 +1,241 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Ressurreição de Lázaro\\par }Havia um doente, Lázaro, de Betânia, povoado de Maria e de sua irmã Marta.",
+      "reference": "Jo 11:1"
+    },
+    "2": {
+      "text": "Maria era aquela que ungira o Senhor com bálsamo e lhe enxugara os pés com seus cabelos. Seu irmão Lázaro se achava doente.",
+      "reference": "Jo 11:2"
+    },
+    "3": {
+      "text": "As duas irmãs mandaram, então, dizer a Jesus: “Senhor, aquele que amas está doente”.",
+      "reference": "Jo 11:3"
+    },
+    "4": {
+      "text": "A essa notícia, Jesus disse: “Essa doença não é mortal, mas para a glória de Deus, para que, por ela, seja glorificado o Filho de Deus”. \\par",
+      "reference": "Jo 11:4"
+    },
+    "5": {
+      "text": "Ora, Jesus amava Marta e sua irmã e Lázaro. \\par",
+      "reference": "Jo 11:5"
+    },
+    "6": {
+      "text": "Quando soube que este se achava doente, permaneceu ainda dois dias no lugar em que se encontrava;",
+      "reference": "Jo 11:6"
+    },
+    "7": {
+      "text": "só depois, disse aos discípulos: “Vamos outra vez até a Judéia!”",
+      "reference": "Jo 11:7"
+    },
+    "8": {
+      "text": "Seus discípulos disseram-lhe: “Rabi, há pouco os judeus procuravam apedrejar-te e vais outra vez para lá?”",
+      "reference": "Jo 11:8"
+    },
+    "9": {
+      "text": "Respondeu Jesus: \\par “Não são doze as horas do dia? \\par Se alguém caminha durante o dia, não tropeça, \\par porque vê a luz deste mundo; \\par",
+      "reference": "Jo 11:9"
+    },
+    "10": {
+      "text": "mas se alguém caminha à noite, tropeça, \\par porque a luz não está nele”. \\par",
+      "reference": "Jo 11:10"
+    },
+    "11": {
+      "text": "Disse isso e depois acrescentou: “Nosso amigo Lázaro dorme, mas vou despertá-lo”.",
+      "reference": "Jo 11:11"
+    },
+    "12": {
+      "text": "Os discípulos responderam: “Senhor, se ele está dormindo, vai se salvar!”",
+      "reference": "Jo 11:12"
+    },
+    "13": {
+      "text": "Jesus, porém, falara de sua morte e eles julgaram que falasse do repouso do sono.",
+      "reference": "Jo 11:13"
+    },
+    "14": {
+      "text": "Então Jesus lhes falou claramente: “Lázaro morreu.",
+      "reference": "Jo 11:14"
+    },
+    "15": {
+      "text": "Por vossa causa, alegro-me de não ter estado lá, para que creiais. Mas vamos para junto dele!”",
+      "reference": "Jo 11:15"
+    },
+    "16": {
+      "text": "Tomé, chamado Dídimo, disse então aos outros discípulos: “Vamos também nós, para morrermos com ele!” \\par",
+      "reference": "Jo 11:16"
+    },
+    "17": {
+      "text": "Ao chegar, Jesus encontrou Lázaro já sepultado havia quatro dias.",
+      "reference": "Jo 11:17"
+    },
+    "18": {
+      "text": "Betânia ficava perto de Jerusalém, a uns quinze estádios.",
+      "reference": "Jo 11:18"
+    },
+    "19": {
+      "text": "Muitos judeus tinham vindo até Marta e Maria, para as consolar da perda do irmão.",
+      "reference": "Jo 11:19"
+    },
+    "20": {
+      "text": "Quando Marta soube que Jesus chegara, saiu ao seu encontro; Maria, porém, continuava sentada, em casa.",
+      "reference": "Jo 11:20"
+    },
+    "21": {
+      "text": "Então, disse Marta a Jesus: “Senhor, se estivesses aqui, meu irmão não teria morrido.",
+      "reference": "Jo 11:21"
+    },
+    "22": {
+      "text": "Mas ainda agora sei que tudo o que pedires a Deus, ele te concederá”.",
+      "reference": "Jo 11:22"
+    },
+    "23": {
+      "text": "Disse-lhe Jesus: “Teu irmão ressuscitará”.",
+      "reference": "Jo 11:23"
+    },
+    "24": {
+      "text": "“Sei, disse Marta, que ele ressuscitará na ressurreição, no último dia!”",
+      "reference": "Jo 11:24"
+    },
+    "25": {
+      "text": "Disse-lhe Jesus: \\par “Eu sou a ressurreição. \\par Quem crê em mim, ainda que morra, viverá. \\par",
+      "reference": "Jo 11:25"
+    },
+    "26": {
+      "text": "E quem vive e crê em mim \\par jamais morrerá. \\par Crês nisso?” \\par",
+      "reference": "Jo 11:26"
+    },
+    "27": {
+      "text": "Disse ela: “Sim, Senhor, eu creio que tu és o Cristo, o Filho de Deus que vem ao mundo”. \\par",
+      "reference": "Jo 11:27"
+    },
+    "28": {
+      "text": "Tendo dito isso, afastou-se e chamou sua irmã Maria, dizendo baixinho: “O Senhor está aqui e te chama!”",
+      "reference": "Jo 11:28"
+    },
+    "29": {
+      "text": "Esta, ouvindo isso, ergueu-se logo e foi ao seu encontro.",
+      "reference": "Jo 11:29"
+    },
+    "30": {
+      "text": "Jesus não entrara ainda no povoado, mas estava no lugar em que Marta o fora encontrar.",
+      "reference": "Jo 11:30"
+    },
+    "31": {
+      "text": "Quando os judeus, que estavam na casa com Maria, consolando-a, viram-na levantar-se rapidamente e sair, acompanharam-na, julgando que fosse ao sepulcro para aí chorar. \\par",
+      "reference": "Jo 11:31"
+    },
+    "32": {
+      "text": "Chegando ao lugar onde Jesus estava, Maria, vendo-o, prostrou-se a seus pés e lhe disse: “Senhor, se estivesses aqui, meu irmão não teria morrido”.",
+      "reference": "Jo 11:32"
+    },
+    "33": {
+      "text": "Quando Jesus a viu chorar e também os judeus que a acompanhavam, comoveu-se interiormente e ficou conturbado.",
+      "reference": "Jo 11:33"
+    },
+    "34": {
+      "text": "E perguntou: “Onde o colocastes?” Responderam-lhe: “Senhor, vem e vê!”",
+      "reference": "Jo 11:34"
+    },
+    "35": {
+      "text": "Jesus chorou.",
+      "reference": "Jo 11:35"
+    },
+    "36": {
+      "text": "Diziam, então, os judeus: “Vede como ele o amava!”",
+      "reference": "Jo 11:36"
+    },
+    "37": {
+      "text": "Alguns deles disseram: “Esse, que abriu os olhos do cego, não poderia ter feito com que ele não morresse?”",
+      "reference": "Jo 11:37"
+    },
+    "38": {
+      "text": "Comoveu-se de novo Jesus e dirigiu-se ao sepulcro. Era uma gruta, com uma pedra sobreposta.",
+      "reference": "Jo 11:38"
+    },
+    "39": {
+      "text": "Disse Jesus: “Retirai a pedra!” Marta, a irmã do morto, disse-lhe: “Senhor, já cheira mal: é o quarto dia!”",
+      "reference": "Jo 11:39"
+    },
+    "40": {
+      "text": "Disse-lhe Jesus: “Não te disse que, se creres, verás a glória de Deus?”",
+      "reference": "Jo 11:40"
+    },
+    "41": {
+      "text": "Retiraram, então, a pedra. Jesus ergueu os olhos para o alto e disse: \\par “Pai, dou-te graças porque me ouviste. \\par",
+      "reference": "Jo 11:41"
+    },
+    "42": {
+      "text": "Eu sabia que sempre me ouves; \\par mas digo isso por causa da multidão \\par que me rodeia, \\par para que creiam que me enviaste”. \\par",
+      "reference": "Jo 11:42"
+    },
+    "43": {
+      "text": "Tendo dito isso, gritou em alta voz: “Lázaro, vem para fora!”",
+      "reference": "Jo 11:43"
+    },
+    "44": {
+      "text": "O morto saiu, com os pés e mãos enfaixados e com o rosto recoberto com um sudário. Jesus lhes disse: “Desatai-o e deixai-o ir embora”. \\par",
+      "reference": "Jo 11:44"
+    },
+    "45": {
+      "text": "\\par {\\qc\\b\\i Os chefes judeus sentenciam a morte de Jesus\\par }Muitos dos judeus que tinham vindo à casa de Maria, tendo visto o que ele fizera, creram nele.",
+      "reference": "Jo 11:45"
+    },
+    "46": {
+      "text": "Mas alguns dirigiram-se aos fariseus e lhes disseram o que Jesus fizera.",
+      "reference": "Jo 11:46"
+    },
+    "47": {
+      "text": "Então, os chefes dos sacerdotes e os fariseus reuniram o Conselho e disseram: “Que faremos? Esse homem realiza muitos sinais.",
+      "reference": "Jo 11:47"
+    },
+    "48": {
+      "text": "Se o deixarmos assim, todos crerão nele e os romanos virão, destruindo o nosso lugar santo e a nação”.",
+      "reference": "Jo 11:48"
+    },
+    "49": {
+      "text": "Um deles, porém, Caifás, que era Sumo Sacerdote naquele ano, disse-lhes: “Vós de nada entendeis.",
+      "reference": "Jo 11:49"
+    },
+    "50": {
+      "text": "Não compreendeis que é de vosso interesse que um só homem morra pelo povo e não pereça a nação toda?”",
+      "reference": "Jo 11:50"
+    },
+    "51": {
+      "text": "Não dizia isso por si mesmo, mas sendo Sumo Sacerdote naquele ano, profetizou que Jesus iria morrer pela nação",
+      "reference": "Jo 11:51"
+    },
+    "52": {
+      "text": "– e não só pela nação, mas também para congregar na unidade todos os filhos de Deus dispersos.",
+      "reference": "Jo 11:52"
+    },
+    "53": {
+      "text": "Então, a partir desse dia, resolveram matá-lo.",
+      "reference": "Jo 11:53"
+    },
+    "54": {
+      "text": "Jesus, por isso, não andava em público, entre os judeus, mas retirou-se para a região próxima do deserto, para a cidade chamada Efraim, e aí permaneceu com os seus discípulos. \\par",
+      "reference": "Jo 11:54"
+    },
+    "55": {
+      "text": "\\par {\\qc\\b 6. FIM DO MINISTÉRIO PÚBLICO E PRELIMINARES DA ÚLTIMA PÁSCOA\\par }{\\qc\\b\\i A aproximação da Páscoa\\par }Ora, a Páscoa dos judeus estava próxima, e muitos subiram do campo a Jerusalém, antes da Páscoa, para se purificarem.",
+      "reference": "Jo 11:55"
+    },
+    "56": {
+      "text": "Eles procuravam Jesus e, estando no Templo, diziam entre si: “Que pensais? Virá ele à festa?”",
+      "reference": "Jo 11:56"
+    },
+    "57": {
+      "text": "Os chefes dos sacerdotes e os fariseus, porém, tinham ordenado que quem soubesse onde Jesus estava, o indicasse, para que o prendessem. \\par",
+      "reference": "Jo 11:57"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 57
+}

@@ -1,0 +1,93 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 147,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 147 (146-147)\\par }{\\qc\\b\\i Hino ao Onipotente\\par }Aleluia!\\par Louvai a Iahweh, pois é bom cantar \\par ao nosso Deus – doce é o louvor. \\par",
+      "reference": "Sl 147:1"
+    },
+    "2": {
+      "text": "Iahweh reconstrói Jerusalém, \\par reúne os exilados de Israel; \\par",
+      "reference": "Sl 147:2"
+    },
+    "3": {
+      "text": "ele cura os corações despedaçados \\par e cuida dos seus ferimentos; \\par",
+      "reference": "Sl 147:3"
+    },
+    "4": {
+      "text": "ele conta o número das estrelas, \\par e chama cada uma por seu nome. \\par",
+      "reference": "Sl 147:4"
+    },
+    "5": {
+      "text": "Nosso Senhor é grande e onipotente \\par e sua inteligência é incalculável. \\par",
+      "reference": "Sl 147:5"
+    },
+    "6": {
+      "text": "Iahweh sustenta os pobres \\par e rebaixa os ímpios ao chão. \\par",
+      "reference": "Sl 147:6"
+    },
+    "7": {
+      "text": "Entoai a Iahweh o louvor, \\par cantai ao nosso Deus com a harpa: \\par",
+      "reference": "Sl 147:7"
+    },
+    "8": {
+      "text": "ele cobre o céu com nuvens, \\par preparando a chuva para a terra; \\par faz brotar erva sobre os montes, \\par e plantas úteis ao homem; \\par",
+      "reference": "Sl 147:8"
+    },
+    "9": {
+      "text": "fornece alimento ao rebanho \\par e aos filhotes do corvo, que grasnam. \\par",
+      "reference": "Sl 147:9"
+    },
+    "10": {
+      "text": "Ele não se compraz com o vigor do cavalo, \\par nem aprecia os músculos do homem; \\par",
+      "reference": "Sl 147:10"
+    },
+    "11": {
+      "text": "Iahweh aprecia aqueles que o temem, \\par aqueles que esperam no seu amor. \\par",
+      "reference": "Sl 147:11"
+    },
+    "12": {
+      "text": "Glorifica a Iahweh, Jerusalém, \\par louva teu Deus, ó Sião: \\par",
+      "reference": "Sl 147:12"
+    },
+    "13": {
+      "text": "pois ele reforçou as trancas de tuas portas, \\par abençoou os teus filhos no teu seio; \\par",
+      "reference": "Sl 147:13"
+    },
+    "14": {
+      "text": "colocou paz em tuas fronteiras, \\par com a flor de trigo te sacia. \\par",
+      "reference": "Sl 147:14"
+    },
+    "15": {
+      "text": "Ele envia suas ordens à terra, \\par e sua palavra corre velozmente: \\par",
+      "reference": "Sl 147:15"
+    },
+    "16": {
+      "text": "faz cair a neve como lã, \\par espalha a geada como cinza. \\par",
+      "reference": "Sl 147:16"
+    },
+    "17": {
+      "text": "Ele atira seu gelo em migalhas: \\par diante do seu frio, quem pode resistir? \\par",
+      "reference": "Sl 147:17"
+    },
+    "18": {
+      "text": "Ele envia sua palavra e as derrete, \\par sopra seu vento e as águas correm. \\par",
+      "reference": "Sl 147:18"
+    },
+    "19": {
+      "text": "Anuncia sua palavra a Jacó, \\par seus estatutos e normas a Israel; \\par",
+      "reference": "Sl 147:19"
+    },
+    "20": {
+      "text": "com nação nenhuma agiu deste modo, \\par e nenhuma conheceu as suas normas. \\par",
+      "reference": "Sl 147:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

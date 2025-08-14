@@ -1,0 +1,69 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "{\\cf15 [Veja v. 14]}",
+      "reference": "Jó 26:1"
+    },
+    "2": {
+      "text": "{\\cf15 [Veja v. 14]}",
+      "reference": "Jó 26:2"
+    },
+    "3": {
+      "text": "{\\cf15 [Veja v. 14]}",
+      "reference": "Jó 26:3"
+    },
+    "4": {
+      "text": "{\\cf15 [Veja v. 14]}",
+      "reference": "Jó 26:4"
+    },
+    "5": {
+      "text": "As sombras tremem debaixo da terra, \\par as águas e seus habitantes estão com medo. \\par",
+      "reference": "Jó 26:5"
+    },
+    "6": {
+      "text": "O Xeol está nu a seus olhos \\par e a Perdição está sem véu. \\par",
+      "reference": "Jó 26:6"
+    },
+    "7": {
+      "text": "Estendeu o setentrião sobre o vazio \\par e suspendeu a terra sobre o nada. \\par",
+      "reference": "Jó 26:7"
+    },
+    "8": {
+      "text": "Ele prende as águas nas nuvens, \\par sem que estas se rasguem com o peso. \\par",
+      "reference": "Jó 26:8"
+    },
+    "9": {
+      "text": "Encobre a face da lua cheia \\par e estende sobre ela sua nuvem. \\par",
+      "reference": "Jó 26:9"
+    },
+    "10": {
+      "text": "Traçou um círculo sobre a superfície das águas, \\par onde a luz confina com as trevas. \\par",
+      "reference": "Jó 26:10"
+    },
+    "11": {
+      "text": "As colunas do céu se abalam, \\par assustadas com sua ameaça. \\par",
+      "reference": "Jó 26:11"
+    },
+    "12": {
+      "text": "Com seu poder aquietou o Mar, \\par com sua destreza aniquilou Raab. \\par",
+      "reference": "Jó 26:12"
+    },
+    "13": {
+      "text": "O seu sopro clareou os Céus \\par e sua mão traspassou a Serpente fugitiva. \\par",
+      "reference": "Jó 26:13"
+    },
+    "14": {
+      "text": "Tudo isso é o exterior das suas obras, \\par e ouvimos apenas um suave eco. \\par Quem compreenderá o estrondo do seu poder? \\par \\par {\\super (1)} \\par {\\qc\\b\\i Baldad fala a esmo\\par }Jó tomou a palavra e disse: \\par {\\super (2)} Como sabes sustentar o débil \\par e socorrer um braço sem vigor!\\par {\\super (3)} Como sabes aconselhar o ignorante \\par e dar mostras de profundo conhecimento! \\par {\\super (4)} A quem dirigiste tuas palavras? \\par Ou que espírito falou em ti? \\par",
+      "reference": "Jó 26:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

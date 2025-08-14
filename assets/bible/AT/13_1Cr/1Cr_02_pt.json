@@ -1,0 +1,233 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. JUDÁ\\par }{\\qc\\b\\i Filhos de Israel\\par }Estes são os filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar e Zabulon.",
+      "reference": "1Cr 2:1"
+    },
+    "2": {
+      "text": "Dã, José e Benjamim, Neftali, Gad e Aser.\\par",
+      "reference": "1Cr 2:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Descendentes de Judá\\par }Filhos de Judá: Her, Onã e Sela. Todos esses três lhe nasceram de Bat-Sua, a cananéia. Her, primogênito de Judá, fez o mal aos olhos de Iahweh, que lhe tirou a vida.",
+      "reference": "1Cr 2:3"
+    },
+    "4": {
+      "text": "Tamar, nora de Judá, lhe gerou Farés e Zara. Foram, ao todo, cinco os filhos de Judá. \\par",
+      "reference": "1Cr 2:4"
+    },
+    "5": {
+      "text": "Filhos de Farés: Hesron e Hamul. \\par",
+      "reference": "1Cr 2:5"
+    },
+    "6": {
+      "text": "Filhos de Zara: Zambri, Etã, Emã, Calcol e Darda; cinco ao todo. \\par",
+      "reference": "1Cr 2:6"
+    },
+    "7": {
+      "text": "Filho de Carmi: Acar, que atraiu a desgraça sobre Israel, por ter violado o anátema. \\par",
+      "reference": "1Cr 2:7"
+    },
+    "8": {
+      "text": "Filho de Etã: Azarias. \\par",
+      "reference": "1Cr 2:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Origens de Davi\\par }Filhos de Hesron: nasceram-lhe Jerameel, Ram e Calubi. \\par",
+      "reference": "1Cr 2:9"
+    },
+    "10": {
+      "text": "Ram gerou Aminadab, Aminadab gerou Naasson, príncipe dos filhos de Judá.",
+      "reference": "1Cr 2:10"
+    },
+    "11": {
+      "text": "Naasson gerou Salma e Salma gerou Booz.",
+      "reference": "1Cr 2:11"
+    },
+    "12": {
+      "text": "Booz gerou Obed e Obed gerou Jessé.",
+      "reference": "1Cr 2:12"
+    },
+    "13": {
+      "text": "Jessé gerou Eliab, seu primogênito; Abinadab, o segundo, Samaá, o terceiro;",
+      "reference": "1Cr 2:13"
+    },
+    "14": {
+      "text": "Natanael, o quarto; Radai, o quinto;",
+      "reference": "1Cr 2:14"
+    },
+    "15": {
+      "text": "Asom, o sexto; Davi, o sétimo.",
+      "reference": "1Cr 2:15"
+    },
+    "16": {
+      "text": "Eles tinham duas irmãs: Sárvia e Abigail. Filhos de Sárvia: Abisaí, Joab e Asael: três.",
+      "reference": "1Cr 2:16"
+    },
+    "17": {
+      "text": "Abigail deu à luz a Amasa, cujo pai foi Jeter, o ismaelita. \\par",
+      "reference": "1Cr 2:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Caleb\\par }Caleb, filho de Hesron, gerou Jeriot, de sua mulher Azuba; são estes os filhos que ela teve: Jaser, Sobab e Ardon.",
+      "reference": "1Cr 2:18"
+    },
+    "19": {
+      "text": "Quando Azuba morreu, Caleb casou-se com Éfrata, que lhe deu à luz Hur.",
+      "reference": "1Cr 2:19"
+    },
+    "20": {
+      "text": "Hur gerou Uri, e Uri gerou Beseleel. \\par",
+      "reference": "1Cr 2:20"
+    },
+    "21": {
+      "text": "Depois Herson desposou a filha de Maquir, pai de Galaad. Aos sessenta anos casou-se com ela, que lhe gerou Segub.",
+      "reference": "1Cr 2:21"
+    },
+    "22": {
+      "text": "Segub gerou Jair, que possuía vinte e três cidades na terra de Galaad.",
+      "reference": "1Cr 2:22"
+    },
+    "23": {
+      "text": "Mais tarde, Aram e Gessur apoderaram-se dos Aduares de Jair, Canat e suas adjacências, num total de sessenta localidades. Tudo isso pertencia aos filhos de Maquir, pai de Galaad. \\par",
+      "reference": "1Cr 2:23"
+    },
+    "24": {
+      "text": "Depois que morreu Hesron, Caleb casou-se com Éfrata, esposa de seu pai Hesron, que lhe gerou Asur, pai de Técua. \\par",
+      "reference": "1Cr 2:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Jerameel\\par }Jerameel, primogênito de Hesron, teve os seguintes filhos: Ram, o primogênito, Buna, Oren, Asom, Aías.",
+      "reference": "1Cr 2:25"
+    },
+    "26": {
+      "text": "Jerameel teve outra mulher, chamada Atara, que foi a mãe de Onam. \\par",
+      "reference": "1Cr 2:26"
+    },
+    "27": {
+      "text": "Os filhos de Ram, primogênito de Jerameel, foram Moos, Jamin e Acar. \\par",
+      "reference": "1Cr 2:27"
+    },
+    "28": {
+      "text": "Os filhos de Onam foram Semei e Jada. Filhos de Semei: Nadab e Abisur.",
+      "reference": "1Cr 2:28"
+    },
+    "29": {
+      "text": "A mulher de Abisur chamava-se Abiail; ela lhe deu à luz Aobã e Molid.",
+      "reference": "1Cr 2:29"
+    },
+    "30": {
+      "text": "Filhos de Nadab: Saled e Efraim. Saled morreu sem filhos.",
+      "reference": "1Cr 2:30"
+    },
+    "31": {
+      "text": "Filho de Efraim: Jesi; filho de Jesi: Sesã; filho de Sesã: Oolai.",
+      "reference": "1Cr 2:31"
+    },
+    "32": {
+      "text": "Filhos de Jada, irmão de Semei: Jeter e Jônatas. Jeter morreu sem filhos.",
+      "reference": "1Cr 2:32"
+    },
+    "33": {
+      "text": "Filhos de Jônatas: Falet e Ziza. \\par Foi essa a descendência de Jerameel. \\par",
+      "reference": "1Cr 2:33"
+    },
+    "34": {
+      "text": "Sesã não teve filhos, mas filhas sim. Tinha ele um servo egípcio de nome Jaraá,",
+      "reference": "1Cr 2:34"
+    },
+    "35": {
+      "text": "ao qual Sesã deu sua filha por esposa. Ela lhe deu à luz Etei.",
+      "reference": "1Cr 2:35"
+    },
+    "36": {
+      "text": "Etei gerou Natã, Natã gerou Zabad,",
+      "reference": "1Cr 2:36"
+    },
+    "37": {
+      "text": "Zabad gerou Oflal, Oflal gerou Obed,",
+      "reference": "1Cr 2:37"
+    },
+    "38": {
+      "text": "Obed gerou Jeú, Jeú gerou Azarias,",
+      "reference": "1Cr 2:38"
+    },
+    "39": {
+      "text": "Azarias gerou Helés, Helés gerou Elasa,",
+      "reference": "1Cr 2:39"
+    },
+    "40": {
+      "text": "Elasa gerou Sisamoi, Sisamoi gerou Selum,",
+      "reference": "1Cr 2:40"
+    },
+    "41": {
+      "text": "Selum gerou Icamias, Icamias gerou Elisama. \\par",
+      "reference": "1Cr 2:41"
+    },
+    "42": {
+      "text": "\\par {\\qc\\b\\i Caleb\\par }Filhos de Caleb, irmão de Jerameel: Mesa, o primogênito; é o pai de Zif. Seu filho, Maresa, pai de Hebron.",
+      "reference": "1Cr 2:42"
+    },
+    "43": {
+      "text": "Filhos de Hebron: Coré, Tafua, Recém e Sama.",
+      "reference": "1Cr 2:43"
+    },
+    "44": {
+      "text": "Sama gerou Raam, pai de Jercaam. Recém gerou Samai.",
+      "reference": "1Cr 2:44"
+    },
+    "45": {
+      "text": "O filho de Samai foi Maon, o qual foi pai de Betsur. \\par",
+      "reference": "1Cr 2:45"
+    },
+    "46": {
+      "text": "Efa, concubina de Caleb, gerou Harã, Mosa e Gezez. Harã gerou Gezez. \\par",
+      "reference": "1Cr 2:46"
+    },
+    "47": {
+      "text": "Filhos de Jaadai: Regom, Joatão, Gesã, Falet, Efa e Saaf. \\par",
+      "reference": "1Cr 2:47"
+    },
+    "48": {
+      "text": "Maaca, concubina de Caleb, gerou Saber e Tarana.",
+      "reference": "1Cr 2:48"
+    },
+    "49": {
+      "text": "Gerou também Saaf, pai de Madmana, e Sué, pai de Macbena e de Gabaá. \\par A filha de Caleb chamava-se Acsa. \\par",
+      "reference": "1Cr 2:49"
+    },
+    "50": {
+      "text": "Foram esses os descendentes de Caleb. \\par \\par {\\qc\\b\\i Hur\\par } Filhos de Hur, primogênito de Éfrata: Sobal, pai de Cariat-Iarim,",
+      "reference": "1Cr 2:50"
+    },
+    "51": {
+      "text": "Salma, pai de Belém, Harif, pai de Bet-Gader.",
+      "reference": "1Cr 2:51"
+    },
+    "52": {
+      "text": "Sobal, pai de Cariat-Iarim, teve por filhos: Haroe, a metade dos manaatitas,",
+      "reference": "1Cr 2:52"
+    },
+    "53": {
+      "text": "e os clãs de Cariat-Iarim, jetritas, futitas, sematitas e maseritas. Deles descendem os povos de Saraá e de Estaol. \\par",
+      "reference": "1Cr 2:53"
+    },
+    "54": {
+      "text": "Filhos de Salma: Belém, os netofatitas, Atarot-Bet-Joab, a metade dos manaatitas, os saraítas,",
+      "reference": "1Cr 2:54"
+    },
+    "55": {
+      "text": "os clãs sofritas que moram em Jabes, os tiriateus, os simeateus, os sucateus. São esses os quenitas que vêm de Emat, pai da casa de Recab. \\par",
+      "reference": "1Cr 2:55"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 55
+}

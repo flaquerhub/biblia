@@ -1,0 +1,77 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Maria e Aarão contra Moisés\\par }Maria e Aarão murmuraram contra Moisés por causa da mulher cuchita que ele havia tomado. Pois ele havia desposado uma mulher cuchita.",
+      "reference": "Nm 12:1"
+    },
+    "2": {
+      "text": "Disseram-lhe: “Falou, porventura, Iahweh, somente a Moisés? Não falou também a nós?” Iahweh os ouviu.",
+      "reference": "Nm 12:2"
+    },
+    "3": {
+      "text": "Ora, Moisés era um homem muito humilde, o mais humilde dos homens que havia na terra. \\par",
+      "reference": "Nm 12:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Resposta divina\\par }Subitamente disse Iahweh a Moisés, a Aarão e a Maria: “Vinde, todos os três, à Tenda da Reunião”. Todos os três foram",
+      "reference": "Nm 12:4"
+    },
+    "5": {
+      "text": "e Iahweh desceu numa coluna de nuvem e se deteve à entrada da Tenda. Chamou a Aarão e a Maria; ambos se apresentaram.",
+      "reference": "Nm 12:5"
+    },
+    "6": {
+      "text": "Disse Iahweh: \\par “Ouvi, pois, as minhas palavras: \\par Se há entre vós um profeta, \\par é em visão que me revelo a ele, \\par é em sonho que lhe falo. \\par",
+      "reference": "Nm 12:6"
+    },
+    "7": {
+      "text": "Assim não se dá com o meu servo Moisés, \\par a quem toda a minha casa está confiada. \\par",
+      "reference": "Nm 12:7"
+    },
+    "8": {
+      "text": "Falo-lhe face a face, \\par claramente e não em enigmas, \\par e ele vê a forma de Iahweh. \\par Por que ousastes falar contra meu servo Moisés?” \\par",
+      "reference": "Nm 12:8"
+    },
+    "9": {
+      "text": "A ira de Iahweh se inflamou contra eles. E retirou-se",
+      "reference": "Nm 12:9"
+    },
+    "10": {
+      "text": "e a Nuvem deixou a Tenda. E Maria tornou-se leprosa, branca como a neve. Aarão voltou-se para ela, e estava leprosa. \\par",
+      "reference": "Nm 12:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Intercessão de Aarão e de Moisés\\par }Disse Aarão a Moisés: \\par “Ai, meu senhor! Não queiras nos infligir a culpa do pecado que tivemos a loucura de cometer e do qual somos culpados.",
+      "reference": "Nm 12:11"
+    },
+    "12": {
+      "text": "Peço-te, não seja ela como um aborto cuja carne já está meio consumida ao sair do seio de sua mãe!” \\par",
+      "reference": "Nm 12:12"
+    },
+    "13": {
+      "text": "Moisés clamou a Iahweh: “Ó Deus”, disse ele, “digna-te dar-lhe a cura, eu te suplico!” \\par",
+      "reference": "Nm 12:13"
+    },
+    "14": {
+      "text": "Disse então Iahweh a Moisés: “E se seu pai lhe cuspisse no rosto não ficaria ela envergonhada por sete dias? Seja, portanto, segregada sete dias fora do acampamento e depois seja nele admitida novamente”. \\par",
+      "reference": "Nm 12:14"
+    },
+    "15": {
+      "text": "Maria foi segregada durante sete dias fora do acampamento. O povo não partiu antes do seu retorno.",
+      "reference": "Nm 12:15"
+    },
+    "16": {
+      "text": "Depois o povo partiu de Haserot e foi acampar no deserto de Farã. \\par",
+      "reference": "Nm 12:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

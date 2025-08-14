@@ -1,0 +1,109 @@
+{
+  "book": 68,
+  "book_name": "Judite",
+  "book_abbr": "Jt",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Judith",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Conselho de guerra no acampamento de Holofernes\\par }Contaram a Holofernes, general do exército assírio, que os filhos de Israel se preparavam para a guerra. Disseram-lhe que eles tinham fechado as passagens da montanha, fortificado todos os cumes dos montes elevados e colocado obstáculos nas planícies.",
+      "reference": "Jt 5:1"
+    },
+    "2": {
+      "text": "Então ele irritou-se muito, chamou todos os chefes de Moab e os generais de Amon e todos os sátrapas do litoral.",
+      "reference": "Jt 5:2"
+    },
+    "3": {
+      "text": "“Homens de Canaã”, disse-lhes, “contai-me: qual é esse povo que mora nas montanhas? Quais as cidades em que habita? Qual o número de seu exército? Em que consiste o seu poder e a sua força? Quem se elevou sobre eles como rei e governa suas tropas?",
+      "reference": "Jt 5:3"
+    },
+    "4": {
+      "text": "Por que desdenharam vier ao meu encontro, ao contrário do que fizeram os que habitam o ocidente?” \\par",
+      "reference": "Jt 5:4"
+    },
+    "5": {
+      "text": "Disse-lhe Aquior, chefe de todos os filhos de Amon: “Escuta, pois, meu senhor, a palavra da boca de teu servo. Declarar-te-ei a verdade sobre esse povo que habita nesta montanha, perto de onde habitas.",
+      "reference": "Jt 5:5"
+    },
+    "6": {
+      "text": "Esse povo é descendente dos caldeus.",
+      "reference": "Jt 5:6"
+    },
+    "7": {
+      "text": "Primeiro emigraram para a Mesopotâmia, porque não quiseram seguir os deuses de seus pais, que viveram na terra dos caldeus.",
+      "reference": "Jt 5:7"
+    },
+    "8": {
+      "text": "Abandonaram os caminhos dos seus progenitores e adoraram o Deus do céu, que reconheceram como Deus. Banidos, então, da presença de seus deuses, fugiram para a Mesopotâmia e aí habitaram por longo tempo.",
+      "reference": "Jt 5:8"
+    },
+    "9": {
+      "text": "O Deus deles ordenou que saíssem do estrangeiro e fossem para a terra de Canaã. Nela se instalaram e enriqueceram-se muito com ouro, prata e numerosos rebanhos.",
+      "reference": "Jt 5:9"
+    },
+    "10": {
+      "text": "Desceram, em seguida, para o Egito, porque uma fome se abateu sobre a terra de Canaã. Habitaram lá enquanto encontraram alimento. Tornaram-se ali uma grande multidão, era inumerável a raça deles.",
+      "reference": "Jt 5:10"
+    },
+    "11": {
+      "text": "Mas o rei do Egito levantou-se contra eles e enganou-os, submetendo-os ao trabalho pesado e ao fabrico de tijolos. Humilharam-nos e reduziram-nos a escravos.",
+      "reference": "Jt 5:11"
+    },
+    "12": {
+      "text": "Eles clamaram ao seu Deus, que feriu toda a terra do Egito com pragas, para as quais não havia remédio. Então os egípcios expulsaram-nos de suas vistas.",
+      "reference": "Jt 5:12"
+    },
+    "13": {
+      "text": "Deus secou o mar Vermelho diante deles",
+      "reference": "Jt 5:13"
+    },
+    "14": {
+      "text": "e conduziu-os pelo caminho do Sinai e de Cades Barne. Eles expulsaram todos os habitantes do deserto,",
+      "reference": "Jt 5:14"
+    },
+    "15": {
+      "text": "estabeleceram-se na terra dos amorreus e exterminaram, vigorosamente, todos os habitantes de Hesebon. Atravessaram o Jordão, tomaram toda a montanha,",
+      "reference": "Jt 5:15"
+    },
+    "16": {
+      "text": "expulsaram de suas vistas os cananeus, os ferezeus, os jebuseus, os siquemitas e todos os gergeseus, e habitaram aí por muitos dias.",
+      "reference": "Jt 5:16"
+    },
+    "17": {
+      "text": "Enquanto não pecaram contra o seu Deus, a prosperidade estava com eles, porque o seu Deus odeia a iniqüidade.",
+      "reference": "Jt 5:17"
+    },
+    "18": {
+      "text": "Quando, porém, se afastaram do caminho que lhes havia assinalado, uma parte foi completamente exterminada em guerras, outra foi levada cativa para terra estranha. O Templo de seu Deus foi arrasado e suas cidades foram conquistadas pelos adversários.",
+      "reference": "Jt 5:18"
+    },
+    "19": {
+      "text": "Agora, voltando-se para seu Deus, retornaram da diáspora, dos lugares em que estavam dispersos, ocuparam Jerusalém, onde está o santuário deles, e repovoaram a montanha, por estar deserta.",
+      "reference": "Jt 5:19"
+    },
+    "20": {
+      "text": "E agora, mestre e senhor, se há algum delito nesse povo, se pecaram contra seu Deus, neste caso, examinaremos bem se há mesmo neles esse tropeço. Depois subiremos e os atacaremos.",
+      "reference": "Jt 5:20"
+    },
+    "21": {
+      "text": "Mas se não há iniqüidade na sua gente, que meu senhor passe adiante, para que não aconteça que o Senhor e Deus deles os proteja e esteja a seu favor. Seriamos então motivo de escárnio para toda a terra”. \\par",
+      "reference": "Jt 5:21"
+    },
+    "22": {
+      "text": "Aconteceu que, quando Aquior acabou de dizer essas palavras, todo o povo que estava ao redor da tenda murmurou. Os notáveis de Holofernes, todos os habitantes da costa e de Moab falaram em destruí-lo.",
+      "reference": "Jt 5:22"
+    },
+    "23": {
+      "text": "“Não vamos temer os filhos de Israel. É um povo sem força e sem poder para sustentar um combate duro.",
+      "reference": "Jt 5:23"
+    },
+    "24": {
+      "text": "Por isso, subiremos, e serão pasto para a voracidade de todo o teu exército, senhor Holofernes”. \\par",
+      "reference": "Jt 5:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

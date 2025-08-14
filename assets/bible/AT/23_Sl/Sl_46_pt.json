@@ -1,0 +1,61 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 46,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 46 (45)\\par }{\\qc\\b\\i Iahweh é a nossa fortaleza\\par }{\\qc\\i Do mestre de canto. Dos filhos de Coré. Com oboé. Cântico.\\par }",
+      "reference": "Sl 46:1"
+    },
+    "2": {
+      "text": "Deus é nosso refúgio e nossa força, \\par um socorro sempre alerta nos perigos. \\par",
+      "reference": "Sl 46:2"
+    },
+    "3": {
+      "text": "E por isso não tememos se a terra vacila, \\par se as montanhas se abalam no seio do mar; \\par",
+      "reference": "Sl 46:3"
+    },
+    "4": {
+      "text": "se as águas do mar estrondam e fervem, \\par e com sua fúria estremecem os montes. \\par (Iahweh dos Exércitos está conosco, \\par nossa fortaleza é o Deus de Jacó!) {\\i Pausa} \\par",
+      "reference": "Sl 46:4"
+    },
+    "5": {
+      "text": "Há um rio, cujos braços alegram a cidade de Deus, \\par santificando as moradas do Altíssimo. \\par",
+      "reference": "Sl 46:5"
+    },
+    "6": {
+      "text": "Deus está em seu meio: ela é inabalável, \\par Deus a socorre ao romper da manhã. \\par",
+      "reference": "Sl 46:6"
+    },
+    "7": {
+      "text": "Povos estrondam, reinos se abalam, \\par ele alteia sua voz e a terra se dissolve, \\par",
+      "reference": "Sl 46:7"
+    },
+    "8": {
+      "text": "Iahweh dos Exércitos está conosco, \\par nossa fortaleza é o Deus de Jacó! {\\i Pausa} \\par",
+      "reference": "Sl 46:8"
+    },
+    "9": {
+      "text": "Vinde ver os atos de Iahweh, \\par é ele quem na terra faz assombros: \\par",
+      "reference": "Sl 46:9"
+    },
+    "10": {
+      "text": "acaba com as guerras até ao extremo da terra, \\par quebra os arcos, despedaça as lanças, \\par e atira os carros no fogo. \\par",
+      "reference": "Sl 46:10"
+    },
+    "11": {
+      "text": "“Tranqüilizai-vos e reconhecei: Eu sou Deus, \\par mais alto que os povos, mais alto que a terra!” \\par",
+      "reference": "Sl 46:11"
+    },
+    "12": {
+      "text": "Iahweh dos Exércitos está conosco, \\par nossa fortaleza é o Deus de Jacó! {\\i Pausa} \\par",
+      "reference": "Sl 46:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

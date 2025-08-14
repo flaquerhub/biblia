@@ -1,0 +1,169 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i F. A festa das Aclamações\\par }No sétimo mês, no primeiro dia do mês, tereis uma assembléia santa; não fareis nenhuma obra servil. Será para vós o dia das Aclamações.",
+      "reference": "Nm 29:1"
+    },
+    "2": {
+      "text": "Oferecereis em holocausto, em perfume agradável a Iahweh: um novilho, um carneiro, sete cordeiros de um ano, perfeitos.",
+      "reference": "Nm 29:2"
+    },
+    "3": {
+      "text": "A sua oblação, de flor de farinha amassada com azeite, será de três décimos para o novilho, de dois décimos para o carneiro,",
+      "reference": "Nm 29:3"
+    },
+    "4": {
+      "text": "de um décimo para cada um dos sete cordeiros.",
+      "reference": "Nm 29:4"
+    },
+    "5": {
+      "text": "E um bode em sacrifício pelo pecado, para se fazer por vós o rito de expiação.",
+      "reference": "Nm 29:5"
+    },
+    "6": {
+      "text": "Isso além do holocausto mensal e da sua oblação, do holocausto perpétuo e da sua oblação, e das suas libações correspondentes, segundo o estatuto, em perfume agradável, como oferenda queimada a Iahweh. \\par",
+      "reference": "Nm 29:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i G. O Dia das Expiações\\par }No décimo dia do sétimo mês, tereis uma assembléia santa. Jejuareis e não fareis trabalho nenhum.",
+      "reference": "Nm 29:7"
+    },
+    "8": {
+      "text": "Oferecereis um holocausto a Iahweh, em perfume agradável: um novilho, um carneiro e sete cordeiros de um ano, que escolhereis dentre aqueles que são perfeitos.",
+      "reference": "Nm 29:8"
+    },
+    "9": {
+      "text": "A sua oblação, em flor de farinha amassada com azeite, será de três décimos para o novilho, de dois décimos para o carneiro",
+      "reference": "Nm 29:9"
+    },
+    "10": {
+      "text": "e de um décimo para cada um dos sete cordeiros.",
+      "reference": "Nm 29:10"
+    },
+    "11": {
+      "text": "Será oferecido um bode em sacrifício pelo pecado. Isso além da vítima pelo pecado da festa das Expiações, do holocausto perpétuo e da sua oblação, e das suas libações correspondentes. \\par",
+      "reference": "Nm 29:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i H. A festa das Tendas\\par }“No décimo quinto dia do sétimo mês, tereis uma assembléia santa: não fareis nenhuma obra servil e durante sete dias celebrareis festa a Iahweh.",
+      "reference": "Nm 29:12"
+    },
+    "13": {
+      "text": "Oferecereis um holocausto, oferenda queimada em perfume agradável a Iahweh: treze novilhos, dois carneiros e catorze cordeiros de um ano, perfeitos.",
+      "reference": "Nm 29:13"
+    },
+    "14": {
+      "text": "As suas oblações, em flor de farinha amassada com azeite, serão de três décimos para cada um dos treze novilhos, de dois décimos para cada um dos dois carneiros",
+      "reference": "Nm 29:14"
+    },
+    "15": {
+      "text": "e de um décimo para cada um dos catorze cordeiros.",
+      "reference": "Nm 29:15"
+    },
+    "16": {
+      "text": "Acrescentar-se-á um bode em sacrifício pelo pecado. Isso além do holocausto perpétuo, da sua oblação e da sua libação. \\par",
+      "reference": "Nm 29:16"
+    },
+    "17": {
+      "text": "No segundo dia: doze novilhos, dois carneiros e catorze cordeiros de um ano, perfeitos;",
+      "reference": "Nm 29:17"
+    },
+    "18": {
+      "text": "a oblação e as libações correspondentes, feitas de acordo com o estatuto, segundo o número dos novilhos, dos carneiros e dos cordeiros;",
+      "reference": "Nm 29:18"
+    },
+    "19": {
+      "text": "um bode para o sacrifício pelo pecado; isso além do holocausto perpétuo, da sua oblação e das suas libações. \\par",
+      "reference": "Nm 29:19"
+    },
+    "20": {
+      "text": "No terceiro dia: onze novilhos, dois carneiros e catorze cordeiros de um ano, perfeitos;",
+      "reference": "Nm 29:20"
+    },
+    "21": {
+      "text": "a oblação e as libações correspondentes, feitas de acordo com o estatuto, segundo o número dos novilhos, dos carneiros e dos cordeiros;",
+      "reference": "Nm 29:21"
+    },
+    "22": {
+      "text": "e um bode para o sacrifício pelo pecado; isso além do holocausto perpétuo, da sua oblação e da sua libação. \\par",
+      "reference": "Nm 29:22"
+    },
+    "23": {
+      "text": "No quarto dia: dez novilhos, dois carneiros e catorze cordeiros de um ano, perfeitos;",
+      "reference": "Nm 29:23"
+    },
+    "24": {
+      "text": "a oblação e as libações correspondentes, feitas de acordo com o estatuto, segundo o número dos novilhos, dos carneiros e dos cordeiros;",
+      "reference": "Nm 29:24"
+    },
+    "25": {
+      "text": "e um bode para o sacrifício pelo pecado; isso além do holocausto perpétuo, da sua oblação e da sua libação. \\par",
+      "reference": "Nm 29:25"
+    },
+    "26": {
+      "text": "No quinto dia: nove novilhos, dois carneiros e catorze cordeiros de um ano, perfeitos;",
+      "reference": "Nm 29:26"
+    },
+    "27": {
+      "text": "as oblações e libações correspondentes, feitas de acordo com o estatuto, segundo o número dos novilhos, dos carneiros e dos cordeiros;",
+      "reference": "Nm 29:27"
+    },
+    "28": {
+      "text": "e um bode para o sacrifício pelo pecado; isso além do holocausto perpétuo, da sua oblação e da sua libação. \\par",
+      "reference": "Nm 29:28"
+    },
+    "29": {
+      "text": "No sexto dia: oito novilhos, dois carneiros e catorze cordeiros de um ano, perfeitos;",
+      "reference": "Nm 29:29"
+    },
+    "30": {
+      "text": "a oblação e as libações correspondentes, feitas de acordo com o estatuto, segundo o número dos novilhos, dos carneiros e dos cordeiros;",
+      "reference": "Nm 29:30"
+    },
+    "31": {
+      "text": "e um bode para o sacrifício pelo pecado; isso além do holocausto perpétuo, da sua oblação e das suas libações. \\par",
+      "reference": "Nm 29:31"
+    },
+    "32": {
+      "text": "No sétimo dia: sete novilhos, dois carneiros e catorze cordeiros de um ano, perfeitos;",
+      "reference": "Nm 29:32"
+    },
+    "33": {
+      "text": "as oblações e libações correspondentes, feitas de acordo com o estatuto, segundo o número dos novilhos, dos carneiros e dos cordeiros;",
+      "reference": "Nm 29:33"
+    },
+    "34": {
+      "text": "e um bode para o sacrifício pelo pecado; isso além do holocausto perpétuo, da sua oblação e da sua libação. \\par",
+      "reference": "Nm 29:34"
+    },
+    "35": {
+      "text": "No oitavo dia, tereis assembléia. Não fareis nenhuma obra servil.",
+      "reference": "Nm 29:35"
+    },
+    "36": {
+      "text": "Oferecereis um holocausto de oferenda queimada, em perfume agradável a Iahweh: um novilho, um carneiro e sete cordeiros de um ano, perfeitos;",
+      "reference": "Nm 29:36"
+    },
+    "37": {
+      "text": "a oblação e as libações correspondentes, feitas de acordo com o estatuto, segundo o número dos novilhos, dos carneiros e dos cordeiros;",
+      "reference": "Nm 29:37"
+    },
+    "38": {
+      "text": "e um bode para o sacrifício pelo pecado; isso além do holocausto perpétuo, da sua oblação e da sua libação. \\par",
+      "reference": "Nm 29:38"
+    },
+    "39": {
+      "text": "Isso é o que oferecereis a Iahweh, nas vossas solenidades, além das vossas oferendas votivas e das vossas oferendas voluntárias, dos vossos holocaustos, oblações e libações, e dos vossos sacrifícios de comunhão”. \\par",
+      "reference": "Nm 29:39"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 39
+}

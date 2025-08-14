@@ -1,0 +1,121 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O nazireato\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 6:1"
+    },
+    "2": {
+      "text": "“Fala aos filhos de Israel; tu lhes dirás: \\par Quando um homem ou uma mulher fizer um voto especial, o voto do nazireato, pelo qual se consagra a Iahweh,",
+      "reference": "Nm 6:2"
+    },
+    "3": {
+      "text": "abster-se-á de vinho e de bebidas fermentadas, não beberá vinagre de vinho ou de bebidas fermentadas, nem tomará suco algum de uvas, e não comerá uvas frescas ou secas.",
+      "reference": "Nm 6:3"
+    },
+    "4": {
+      "text": "Durante todo o tempo da sua consagração não tomará produto algum da videira, desde as sementes até às cascas.",
+      "reference": "Nm 6:4"
+    },
+    "5": {
+      "text": "Durante o tempo do seu nazireato não rapará a cabeça com navalha; até que se cumpra o tempo pelo qual se consagrou a Iahweh será consagrado e deixará crescer livremente a sua cabeleira.",
+      "reference": "Nm 6:5"
+    },
+    "6": {
+      "text": "Durante todo o tempo da sua consagração a Iahweh não se aproximará de um morto;",
+      "reference": "Nm 6:6"
+    },
+    "7": {
+      "text": "nem por seu pai ou por sua mãe e nem por seu irmão ou por sua irmã se tornará impuro, caso venham eles a morrer, visto que traz sobre sua cabeça a consagração de seu Deus.",
+      "reference": "Nm 6:7"
+    },
+    "8": {
+      "text": "Durante todo o tempo do seu nazireato estará consagrado a Iahweh. \\par",
+      "reference": "Nm 6:8"
+    },
+    "9": {
+      "text": "Se alguém morrer de morte súbita perto dele, tornando impura a sua cabeleira consagrada, rapará a cabeça no dia da sua purificação; no sétimo dia rapará a cabeça.",
+      "reference": "Nm 6:9"
+    },
+    "10": {
+      "text": "No oitavo dia levará ao sacerdote duas rolas ou dois pombinhos, à entrada da Tenda da Reunião.",
+      "reference": "Nm 6:10"
+    },
+    "11": {
+      "text": "O sacerdote oferecerá um em sacrifício pelo pecado e o outro em holocausto, e realizará em seguida sobre esse homem o rito de expiação, devido à contaminação relativa ao morto. O homem consagrará a sua cabeça naquele mesmo dia;",
+      "reference": "Nm 6:11"
+    },
+    "12": {
+      "text": "ele se consagrará a Iahweh durante todo o tempo do seu nazireato e levará um cordeiro de um ano como sacrifício de reparação. O tempo já decorrido não se contará, visto que a sua cabeleira se tornou impura. \\par",
+      "reference": "Nm 6:12"
+    },
+    "13": {
+      "text": "Este é o ritual do nazireu, no dia em que se findar o seu nazireato. Conduzido à entrada da Tenda da Reunião,",
+      "reference": "Nm 6:13"
+    },
+    "14": {
+      "text": "oferecerá a Iahweh a sua oferenda: um cordeiro perfeito, de um ano, em holocausto; uma ovelha perfeita, de um ano, em sacrifício pelo pecado; um carneiro perfeito, como oferta de comunhão;",
+      "reference": "Nm 6:14"
+    },
+    "15": {
+      "text": "um cesto de bolos de flor de farinha, sem fermento, amassada com azeite, e tortas sem fermento, untadas com azeite, acompanhadas das suas oblações e libações.",
+      "reference": "Nm 6:15"
+    },
+    "16": {
+      "text": "E o sacerdote, havendo trazido tudo diante de Iahweh, apresentará o sacrifício pelo pecado e o holocausto do nazireu.",
+      "reference": "Nm 6:16"
+    },
+    "17": {
+      "text": "Oferecerá um sacrifício de comunhão com o carneiro e com os ázimos do cesto; o sacerdote oferecerá também a oblação e a libação que acompanham o sacrifício.",
+      "reference": "Nm 6:17"
+    },
+    "18": {
+      "text": "Em seguida o nazireu rapará a cabeleira consagrada, à entrada da Tenda da Reunião, e, tomando os cabelos da sua cabeça consagrada, colocá-los-á no fogo do sacrifício de comunhão.",
+      "reference": "Nm 6:18"
+    },
+    "19": {
+      "text": "O sacerdote tomará a espádua do carneiro, já cozida, um bolo sem fermento do cesto e uma torta sem fermento e colocará tudo na mão do nazireu quando este já houver rapado a sua cabeleira.",
+      "reference": "Nm 6:19"
+    },
+    "20": {
+      "text": "E o sacerdote os erguerá em apresentação diante de Iahweh; é a parte santa que pertence ao sacerdote, além do peito que é apresentado e da coxa que é reservada. Depois disso o nazireu poderá beber vinho. \\par",
+      "reference": "Nm 6:20"
+    },
+    "21": {
+      "text": "Este é o ritual referente ao nazireu. Se, além da sua cabeleira, fez um voto de oferenda pessoal a Iahweh (sem contar aquilo que as suas posses lhe permitem), pagará o voto que fez, além do previsto no ritual para a sua cabeleira”. \\par",
+      "reference": "Nm 6:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i A fórmula da bênção\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 6:22"
+    },
+    "23": {
+      "text": "“Fala a Aarão e a seus filhos e dize-lhes: \\par Assim abençoareis os filhos de Israel. Dir-lhes-eis: \\par",
+      "reference": "Nm 6:23"
+    },
+    "24": {
+      "text": "‘Iahweh te abençoe e te guarde! \\par",
+      "reference": "Nm 6:24"
+    },
+    "25": {
+      "text": "Iahweh faça resplandecer o seu rosto sobre ti e te seja benigno! \\par",
+      "reference": "Nm 6:25"
+    },
+    "26": {
+      "text": "Iahweh mostre para ti a sua face e te conceda a paz!’ \\par",
+      "reference": "Nm 6:26"
+    },
+    "27": {
+      "text": "Porão assim o meu nome sobre os filhos de Israel e eu os abençoarei”. \\par",
+      "reference": "Nm 6:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

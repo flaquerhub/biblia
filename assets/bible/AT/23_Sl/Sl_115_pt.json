@@ -1,0 +1,85 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 115,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 115 (113B)\\par }{\\qc\\b\\i O único Deus verdadeiro\\par }Não a nós, Iahweh, não a nós, \\par mas ao teu nome dá glória, \\par por teu amor e tua verdade! \\par",
+      "reference": "Sl 115:1"
+    },
+    "2": {
+      "text": "Por que diriam as nações: \\par “Onde está o Deus deles?” \\par",
+      "reference": "Sl 115:2"
+    },
+    "3": {
+      "text": "O nosso Deus está no céu \\par e faz tudo o que deseja. \\par",
+      "reference": "Sl 115:3"
+    },
+    "4": {
+      "text": "Os ídolos deles são prata e ouro, \\par obra de mãos humanas: \\par",
+      "reference": "Sl 115:4"
+    },
+    "5": {
+      "text": "têm boca, mas não falam; \\par têm olhos, mas não vêem; \\par",
+      "reference": "Sl 115:5"
+    },
+    "6": {
+      "text": "têm ouvidos, mas não ouvem; \\par têm nariz, mas não cheiram; \\par",
+      "reference": "Sl 115:6"
+    },
+    "7": {
+      "text": "têm mãos, mas não tocam; \\par têm pés, mas não andam; \\par não há um murmúrio em sua garganta. \\par",
+      "reference": "Sl 115:7"
+    },
+    "8": {
+      "text": "Os que os fazem ficam como eles, \\par todos aqueles que neles confiam. \\par",
+      "reference": "Sl 115:8"
+    },
+    "9": {
+      "text": "Casa de Israel, confia em Iahweh: \\par ele é seu socorro e seu escudo! \\par",
+      "reference": "Sl 115:9"
+    },
+    "10": {
+      "text": "Casa de Aarão, confia em Iahweh: \\par ele é seu socorro e seu escudo! \\par",
+      "reference": "Sl 115:10"
+    },
+    "11": {
+      "text": "Vós que temeis a Iahweh, confiai em Iahweh: \\par ele é seu socorro e seu escudo! \\par",
+      "reference": "Sl 115:11"
+    },
+    "12": {
+      "text": "Iahweh se lembra de nós \\par e vai abençoar-nos: \\par vai abençoar a casa de Israel, \\par vai abençoar a casa de Aarão, \\par",
+      "reference": "Sl 115:12"
+    },
+    "13": {
+      "text": "vai abençoar os que temem a Iahweh, \\par os pequenos com os grandes. \\par",
+      "reference": "Sl 115:13"
+    },
+    "14": {
+      "text": "Que Iahweh vos multiplique, \\par a vós e a vossos filhos! \\par",
+      "reference": "Sl 115:14"
+    },
+    "15": {
+      "text": "Sede benditos de Iahweh, \\par que fez o céu e a terra. \\par",
+      "reference": "Sl 115:15"
+    },
+    "16": {
+      "text": "O céu é o céu de Iahweh, \\par mas a terra, ele a deu para os filhos de Adão. \\par",
+      "reference": "Sl 115:16"
+    },
+    "17": {
+      "text": "Os mortos já não louvam a Iahweh, \\par nem os que descem ao lugar do Silêncio. \\par",
+      "reference": "Sl 115:17"
+    },
+    "18": {
+      "text": "Nós, os vivos, nós bendizemos a Iahweh, \\par desde agora e para sempre! \\par",
+      "reference": "Sl 115:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

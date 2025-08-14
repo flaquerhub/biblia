@@ -1,0 +1,85 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Exortação\\par }Pelo que, importa observemos tanto mais cuidadosamente os ensinamentos que ouvimos para que não nos transviemos.",
+      "reference": "Hb 2:1"
+    },
+    "2": {
+      "text": "Pois, se a palavra promulgada por anjos entrou em vigor, e qualquer transgressão ou desobediência recebeu justa retribuição,",
+      "reference": "Hb 2:2"
+    },
+    "3": {
+      "text": "como escaparemos nós, se negligenciarmos tão grande salvação? Esta começou a ser anunciada pelo Senhor. Depois, foi-nos fielmente transmitida pelos que a ouviram,",
+      "reference": "Hb 2:3"
+    },
+    "4": {
+      "text": "testemunhando Deus juntamente com eles, por meio de sinais, de prodígios e de vários milagres e por dons do Espírito Santo, distribuídos segundo a sua vontade. \\par",
+      "reference": "Hb 2:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i A redenção realizada por Cristo e não pelos anjos\\par }Não foi a anjos que ele sujeitou o mundo futuro, de que estamos falando.",
+      "reference": "Hb 2:5"
+    },
+    "6": {
+      "text": "A esse respeito, porém, houve quem afirmasse: {\\i O que é o homem, para que dele te lembres? Ou o filho do homem, para que o visites}?",
+      "reference": "Hb 2:6"
+    },
+    "7": {
+      "text": "{\\i Fizeste-o, por um pouco, menor que os anjos, de glória e de honra o coroaste,}",
+      "reference": "Hb 2:7"
+    },
+    "8": {
+      "text": "{\\i e todas as coisas colocaste debaixo dos seus pés.} Se Deus lhe {\\i submeteu todas as coisas}, nada deixou que lhe ficasse insubmisso. Agora, porém, ainda não vemos que {\\i tudo lhe esteja submisso.}",
+      "reference": "Hb 2:8"
+    },
+    "9": {
+      "text": "Vemos, todavia, a Jesus, que foi {\\i feito, por um pouco, menor que os anjos}, por causa dos sofrimentos da morte, {\\i coroado de honra e de glória.} É que pela graça de Deus ele provou a morte em favor de todos os homens. \\par",
+      "reference": "Hb 2:9"
+    },
+    "10": {
+      "text": "Convinha, de fato, que aquele por quem e para quem todas as coisas existem, querendo conduzir muitos filhos à glória, levasse à perfeição, por meio de sofrimentos, o Autor da salvação deles.",
+      "reference": "Hb 2:10"
+    },
+    "11": {
+      "text": "Pois tanto o Santificador quanto os santificados, todos, descendem de um só; razão por que não se envergonha de os chamar {\\i irmãos},",
+      "reference": "Hb 2:11"
+    },
+    "12": {
+      "text": "dizendo: {\\i Anunciarei o teu nome a meus irmãos; em plena assembléia eu te louvarei};",
+      "reference": "Hb 2:12"
+    },
+    "13": {
+      "text": "e mais: {\\i Porei nele a minha confiança}; e ainda: {\\i Eis-me aqui com os filhos que Deus me deu.}\\par",
+      "reference": "Hb 2:13"
+    },
+    "14": {
+      "text": "Uma vez que os {\\i filhos} têm em comum carne e sangue, por isso também ele participou da mesma condição, a fim de destruir pela morte o dominador da morte, isto é, o diabo;",
+      "reference": "Hb 2:14"
+    },
+    "15": {
+      "text": "e libertar os que passaram toda a vida em estado de servidão, pelo medo da morte.",
+      "reference": "Hb 2:15"
+    },
+    "16": {
+      "text": "Pois não veio ele {\\i ocupar-se} com anjos, mas, sim, com {\\i a descendência de Abraão.}",
+      "reference": "Hb 2:16"
+    },
+    "17": {
+      "text": "Convinha, por isso, que em tudo se tornasse semelhante aos {\\i irmãos}, para ser, em relação a Deus, um sumo sacerdote {\\i misericordioso e fiel}, para expiar assim os pecados do povo.",
+      "reference": "Hb 2:17"
+    },
+    "18": {
+      "text": "Pois, tendo ele mesmo sofrido pela tentação, é capaz de socorrer os que são tentados. \\par",
+      "reference": "Hb 2:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

@@ -1,0 +1,141 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O povoamento da terra\\par }Eis a descendência dos filhos de Noé, Sem, Cam e Jafé, aos quais nasceram filhos depois do dilúvio: \\par",
+      "reference": "Gn 10:1"
+    },
+    "2": {
+      "text": "Filhos de Jafé: Gomer, Magog, Madai, Javã, Tubal, Mosoc, Tiras.",
+      "reference": "Gn 10:2"
+    },
+    "3": {
+      "text": "Filhos de Gomer: Asquenez, Rifat, Togorma.",
+      "reference": "Gn 10:3"
+    },
+    "4": {
+      "text": "Filhos de Javã: Elisa, Társis, os Cetim, os Dodanim.",
+      "reference": "Gn 10:4"
+    },
+    "5": {
+      "text": "A partir deles fez-se a dispersão nas ilhas das nações. \\par Esses foram os filhos de Jafé, segundo suas terras e cada qual segundo sua língua, segundo seus clãs e segundo suas nações. \\par",
+      "reference": "Gn 10:5"
+    },
+    "6": {
+      "text": "Filhos de Cam: Cuch, Mesraim, Fut, Canaã.",
+      "reference": "Gn 10:6"
+    },
+    "7": {
+      "text": "Filhos de Cuch: Sabá, Hévila, Sabata, Regma, Sabataca. Filhos de Regma: Sabá, Dadã. \\par",
+      "reference": "Gn 10:7"
+    },
+    "8": {
+      "text": "Cuch gerou Nemrod, que foi o primeiro potentado sobre a terra.",
+      "reference": "Gn 10:8"
+    },
+    "9": {
+      "text": "Foi um valente caçador diante de Iahweh, e é por isso que se diz: “Como Nemrod, valente caçador diante de Iahweh”.",
+      "reference": "Gn 10:9"
+    },
+    "10": {
+      "text": "Os sustentáculos de seu reino foram Babel, Arac e Acad, cidades que estão todas na terra de Senaar.",
+      "reference": "Gn 10:10"
+    },
+    "11": {
+      "text": "Dessa terra saiu Assur, que construiu Nínive, Reobot-Ir, Cale,",
+      "reference": "Gn 10:11"
+    },
+    "12": {
+      "text": "e Resen entre Nínive e Cale (é a grande cidade). \\par",
+      "reference": "Gn 10:12"
+    },
+    "13": {
+      "text": "Mesraim gerou os de Lud, de Anam, de Laab, de Naftu,",
+      "reference": "Gn 10:13"
+    },
+    "14": {
+      "text": "de Patros, de Caslu e de Cáftor, de onde saíram os filisteus. \\par",
+      "reference": "Gn 10:14"
+    },
+    "15": {
+      "text": "Canaã gerou Sídon, seu primogênito, depois Het,",
+      "reference": "Gn 10:15"
+    },
+    "16": {
+      "text": "e o jebuseu, o amorreu, o gergeseu,",
+      "reference": "Gn 10:16"
+    },
+    "17": {
+      "text": "o heveu, o araceu, o sineu,",
+      "reference": "Gn 10:17"
+    },
+    "18": {
+      "text": "o arádio, o samareu, o emateu; em seguida dispersaram-se os clãs cananeus.",
+      "reference": "Gn 10:18"
+    },
+    "19": {
+      "text": "A fronteira dos cananeus ia de Sidônia em direção de Gerara, até Gaza, depois em direção de Sodoma, Gomorra, Adama e Seboim, até Lesa. \\par",
+      "reference": "Gn 10:19"
+    },
+    "20": {
+      "text": "Esses foram os filhos de Cam, segundo seus clãs e suas línguas, segundo suas terras e suas nações. \\par",
+      "reference": "Gn 10:20"
+    },
+    "21": {
+      "text": "Uma descendência nasceu também a Sem, o pai de todos os filhos de Héber e irmão mais velho de Jafé. \\par",
+      "reference": "Gn 10:21"
+    },
+    "22": {
+      "text": "Filhos de Sem: Elam, Assur, Arfaxad, Lud, Aram.",
+      "reference": "Gn 10:22"
+    },
+    "23": {
+      "text": "Filhos de Aram: Hus, Hul, Geter e Mes. \\par",
+      "reference": "Gn 10:23"
+    },
+    "24": {
+      "text": "Arfaxad gerou Salé e Salé gerou Héber.",
+      "reference": "Gn 10:24"
+    },
+    "25": {
+      "text": "A Héber nasceram dois filhos: o primeiro chamava-se Faleg, porque em seus dias a terra foi dividida, e seu irmão chamava-se Jectã.",
+      "reference": "Gn 10:25"
+    },
+    "26": {
+      "text": "Jectã gerou Elmodad, Salef, Asarmot, Jaré,",
+      "reference": "Gn 10:26"
+    },
+    "27": {
+      "text": "Aduram, Uzal, Decla,",
+      "reference": "Gn 10:27"
+    },
+    "28": {
+      "text": "Ebal, Abimael, Sabá,",
+      "reference": "Gn 10:28"
+    },
+    "29": {
+      "text": "Ofir, Hévila, Jobab; todos esses são filhos de Jectã.",
+      "reference": "Gn 10:29"
+    },
+    "30": {
+      "text": "Eles habitavam a partir de Mesa, em direção de Sefar, a montanha do Oriente. \\par",
+      "reference": "Gn 10:30"
+    },
+    "31": {
+      "text": "Esses foram os filhos de Sem, segundo seus clãs e suas línguas, segundo suas terras e suas nações. \\par",
+      "reference": "Gn 10:31"
+    },
+    "32": {
+      "text": "Esses foram os clãs dos descendentes de Noé, segundo suas linhagens e segundo suas nações. Foi a partir deles que os povos se dispersaram sobre a terra depois do dilúvio. \\par",
+      "reference": "Gn 10:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

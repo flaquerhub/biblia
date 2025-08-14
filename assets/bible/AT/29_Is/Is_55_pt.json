@@ -1,0 +1,65 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 55,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Convite final\\par }Ah! Todos que tendes sede, vinde à água. \\par Vós, os que não tendes dinheiro, vinde, \\par comprai e comei; comprai, sem dinheiro \\par e sem pagar, vinho e leite. \\par",
+      "reference": "Is 55:1"
+    },
+    "2": {
+      "text": "Por que gastais dinheiro com aquilo que não é pão, \\par e o produto do vosso trabalho com aquilo que não pode satisfazer? \\par Ouvi-me com toda atenção e comei o que é bom; \\par haveis de deleitar-vos com manjares revigorantes. \\par",
+      "reference": "Is 55:2"
+    },
+    "3": {
+      "text": "Escutai-me e vinde a mim, \\par ouvi-me e haveis de viver. \\par Farei convosco uma aliança eterna, \\par assegurando-vos as graças prometidas a Davi. \\par",
+      "reference": "Is 55:3"
+    },
+    "4": {
+      "text": "Com efeito, eu o pus como testemunha aos povos, \\par como regente e comandante de povos. \\par",
+      "reference": "Is 55:4"
+    },
+    "5": {
+      "text": "Assim, tu chamarás por uma nação que não conheces, \\par sim, uma nação que não te conhece acorrerá a ti, \\par por causa de Iahweh teu Deus, à busca do Santo de Israel, \\par porque ele te cobriu de esplendor. \\par",
+      "reference": "Is 55:5"
+    },
+    "6": {
+      "text": "Procurai a Iahweh enquanto pode ser achado, \\par invocai-o enquanto está perto. \\par",
+      "reference": "Is 55:6"
+    },
+    "7": {
+      "text": "Abandone o ímpio o seu caminho, \\par e o homem mau os seus pensamentos, \\par e volte para Iahweh, pois terá compaixão dele, \\par e para o nosso Deus, porque é rico em perdão. \\par",
+      "reference": "Is 55:7"
+    },
+    "8": {
+      "text": "Com efeito, os meus pensamentos não são os vossos pensamentos, \\par e os vossos caminhos não são os meus caminhos, \\par oráculo de Iahweh. \\par",
+      "reference": "Is 55:8"
+    },
+    "9": {
+      "text": "Quanto os céus estão acima da terra, \\par tanto os meus caminhos estão acima dos vossos caminhos, \\par e os meus pensamentos acima dos vossos pensamentos. \\par",
+      "reference": "Is 55:9"
+    },
+    "10": {
+      "text": "Como a chuva e a neve descem do céu \\par e para lá não voltam, sem terem regado a terra, \\par tornando-a fecunda e fazendo-a germinar, \\par dando semente ao semeador e pão ao que come, \\par",
+      "reference": "Is 55:10"
+    },
+    "11": {
+      "text": "tal ocorre com a palavra que sai da minha boca: \\par ela não torna a mim sem fruto; \\par antes, ela cumpre a minha vontade \\par e assegura o êxito da missão para a qual a enviei. \\par",
+      "reference": "Is 55:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Conclusão\\par }Haveis de sair com alegria e em paz sereis reconduzidos. \\par Na vossa presença, montes e outeiros romperão em canto, \\par e todas as árvores do campo baterão palmas. \\par",
+      "reference": "Is 55:12"
+    },
+    "13": {
+      "text": "Em lugar do espinheiro crescerá o zimbro, \\par em lugar da urtiga crescerá o mirto; \\par isto trará renome a Iahweh \\par e um sinal eterno, que nunca será extirpado. \\par",
+      "reference": "Is 55:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

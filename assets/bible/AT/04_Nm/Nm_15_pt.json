@@ -1,0 +1,177 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i VI. Disposições sobre os sacrifícios. Poderes dos sacerdotes e dos levitas}\\par }{\\qc\\b\\i A oblação que acompanha os sacrifícios\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 15:1"
+    },
+    "2": {
+      "text": "“Fala aos filhos de Israel; tu lhes dirás: \\par Quando tiverdes entrado na terra onde habitareis e que vos dou,",
+      "reference": "Nm 15:2"
+    },
+    "3": {
+      "text": "se apresentardes manjares queimados ao Senhor, em holocausto ou em sacrifício, seja para cumprir um voto ou seja a título de oferenda espontânea, seja por ocasião das vossas solenidades – fazendo assim do vosso gado miúdo ou graúdo um perfume agradável a Iahweh –,",
+      "reference": "Nm 15:3"
+    },
+    "4": {
+      "text": "o ofertante trará, para sua oferenda pessoal a Iahweh, uma oblação de um décimo de flor de farinha, amassada com um quarto de hin de azeite.",
+      "reference": "Nm 15:4"
+    },
+    "5": {
+      "text": "Farás uma libação de vinho de um quarto de hin por cordeiro, além do holocausto ou do sacrifício.",
+      "reference": "Nm 15:5"
+    },
+    "6": {
+      "text": "Para um carneiro farás uma oblação de dois décimos de flor de farinha, amassada com um terço de hin de azeite,",
+      "reference": "Nm 15:6"
+    },
+    "7": {
+      "text": "e uma libação de vinho de um terço de hin, que oferecerás em perfume agradável a Iahweh.",
+      "reference": "Nm 15:7"
+    },
+    "8": {
+      "text": "Se for um novilho que vieres oferecer em holocausto ou em sacrifício, a fim de cumprir um voto, ou como sacrifício de comunhão a Iahweh,",
+      "reference": "Nm 15:8"
+    },
+    "9": {
+      "text": "será oferecida, além do animal, uma oblação de três décimos de flor de farinha, amassada com meio hin de azeite,",
+      "reference": "Nm 15:9"
+    },
+    "10": {
+      "text": "e oferecerás uma libação de vinho de meio hin, como oferenda queimada, de perfume agradável a Iahweh.",
+      "reference": "Nm 15:10"
+    },
+    "11": {
+      "text": "Assim se fará para cada novilho, cada carneiro ou cada cabeça de animal pequeno, ovelha ou cabrito.",
+      "reference": "Nm 15:11"
+    },
+    "12": {
+      "text": "Segundo o número das vítimas que fordes imolar, fareis o mesmo para cada uma delas, conforme o seu número. \\par",
+      "reference": "Nm 15:12"
+    },
+    "13": {
+      "text": "Assim fará todo o natural dentre o vosso povo, quando oferecer uma oferenda queimada em perfume agradável a Iahweh.",
+      "reference": "Nm 15:13"
+    },
+    "14": {
+      "text": "E se algum estrangeiro residir convosco, ou com os vossos descendentes, oferecerá uma oferenda queimada em perfume agradável a Iahweh: como fizerdes, assim fará",
+      "reference": "Nm 15:14"
+    },
+    "15": {
+      "text": "a assembléia. Haverá somente um estatuto, tanto para vós como para o estrangeiro. É um estatuto perpétuo para os vossos descendentes: diante de Iahweh, será tanto para vós como para o estrangeiro.",
+      "reference": "Nm 15:15"
+    },
+    "16": {
+      "text": "Haverá somente uma lei e um direito, tanto para vós como para o estrangeiro que habita no meio de vós”. \\par",
+      "reference": "Nm 15:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i As primícias do pão\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 15:17"
+    },
+    "18": {
+      "text": "“Fala aos filhos de Israel; tu lhes dirás: \\par Quando tiverdes entrado na terra para a qual eu vos conduzo,",
+      "reference": "Nm 15:18"
+    },
+    "19": {
+      "text": "devereis oferecer um tributo a Iahweh, tão logo comais do pão dessa terra.",
+      "reference": "Nm 15:19"
+    },
+    "20": {
+      "text": "Como primícias da vossa massa separareis um pão; fareis esta separação como aquela que se faz com a eira.",
+      "reference": "Nm 15:20"
+    },
+    "21": {
+      "text": "Dareis a Iahweh um tributo do melhor das vossas massas. Isso é válido para os vossos descendentes. \\par",
+      "reference": "Nm 15:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Expiação das faltas cometidas por inadvertência\\par }“Se deixardes de cumprir, por inadvertência, a qualquer um destes mandamentos que Iahweh transmitiu a Moisés",
+      "reference": "Nm 15:22"
+    },
+    "23": {
+      "text": "(tudo aquilo que Iahweh vos ordenou por intermédio de Moisés, desde o dia em que ordenou todas estas coisas, e às vossas gerações),",
+      "reference": "Nm 15:23"
+    },
+    "24": {
+      "text": "proceder-se-á assim: \\par Se foi a comunidade que cometeu a inadvertência, a comunidade inteira fará holocausto de um novilho em perfume agradável a Iahweh, juntamente com a oblação e a libação, segundo a norma, e oferecerá um bode em sacrifício pelo pecado.",
+      "reference": "Nm 15:24"
+    },
+    "25": {
+      "text": "O sacerdote fará o rito de expiação por toda a comunidade dos filhos de Israel e o pecado lhes será perdoado, pois que foi uma inadvertência. Quando trouxerem a sua oferenda para ser queimada perante Iahweh e apresentarem diante de Iahweh o seu sacrifício pelo pecado, a fim de reparar a sua inadvertência,",
+      "reference": "Nm 15:25"
+    },
+    "26": {
+      "text": "ele será perdoado a toda a comunidade dos filhos de Israel e de igual modo ao estrangeiro que reside no meio deles, pois que todo o povo agiu por inadvertência. \\par",
+      "reference": "Nm 15:26"
+    },
+    "27": {
+      "text": "Se for apenas uma pessoa que pecou por inadvertência, oferecerá, em sacrifício pelo pecado, uma cabra de um ano.",
+      "reference": "Nm 15:27"
+    },
+    "28": {
+      "text": "O sacerdote fará perante Iahweh o rito de expiação pela pessoa que se desviou pelo pecado de inadvertência, cumprindo sobre a pessoa o rito de expiação, e ela será perdoada,",
+      "reference": "Nm 15:28"
+    },
+    "29": {
+      "text": "quer se trate de um nativo dentre os filhos de Israel, quer de um estrangeiro que habita no meio deles. Haverá uma só lei entre vós, para aquele que procede por inadvertência. \\par",
+      "reference": "Nm 15:29"
+    },
+    "30": {
+      "text": "Aquele, porém, que procede deliberadamente, quer seja nativo, quer estrangeiro, comete ultraje contra Iahweh. Tal indivíduo será exterminado do meio do seu povo:",
+      "reference": "Nm 15:30"
+    },
+    "31": {
+      "text": "desprezou a palavra de Iahweh e violou o seu mandamento. Este indivíduo deverá ser eliminado, pois a sua culpa está nele mesmo”. \\par",
+      "reference": "Nm 15:31"
+    },
+    "32": {
+      "text": "\\par {\\qc\\b\\i Violação do sábado\\par }Enquanto os filhos de Israel estavam no deserto, um homem foi surpreendido apanhando lenha no dia de sábado.",
+      "reference": "Nm 15:32"
+    },
+    "33": {
+      "text": "Aqueles que o surpreenderam recolhendo lenha trouxeram-no a Moisés, a Aarão e a toda a comunidade.",
+      "reference": "Nm 15:33"
+    },
+    "34": {
+      "text": "Puseram-no sob guarda, pois não estava ainda determinado o que se devia fazer come ele.",
+      "reference": "Nm 15:34"
+    },
+    "35": {
+      "text": "Iahweh disse a Moisés: “Tal homem deve ser morto. Toda a comunidade o apedrejará fora do acampamento”.",
+      "reference": "Nm 15:35"
+    },
+    "36": {
+      "text": "Toda a comunidade o levou para fora do acampamento e o apedrejou até que morreu, como Iahweh ordenara a Moisés. \\par",
+      "reference": "Nm 15:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i As borlas das vestes\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 15:37"
+    },
+    "38": {
+      "text": "“Fala aos filhos de Israel: tu lhes dirás, para as suas gerações, que façam borlas nas pontas das suas vestes e ponham um fio de púrpura violeta na borla da ponta.",
+      "reference": "Nm 15:38"
+    },
+    "39": {
+      "text": "Trareis, portanto, uma borla, e vendo-a vos lembrareis de todos os mandamentos de Iahweh. E os poreis em prática, sem jamais seguir os desejos do vosso coração e dos vossos olhos, que vos têm levado a vos prostituir. \\par",
+      "reference": "Nm 15:39"
+    },
+    "40": {
+      "text": "Assim vós vos lembrareis de todos os meus mandamentos e os poreis em prática e sereis consagrados ao vosso Deus.",
+      "reference": "Nm 15:40"
+    },
+    "41": {
+      "text": "Eu sou Iahweh vosso Deus, que vos tirei da terra do Egito, a fim de ser vosso Deus, eu, Iahweh vosso Deus”. \\par",
+      "reference": "Nm 15:41"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 41
+}

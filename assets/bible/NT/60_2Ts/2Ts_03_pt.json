@@ -1,0 +1,85 @@
+{
+  "book": 53,
+  "book_name": "2Tessalonicenses",
+  "book_abbr": "2Ts",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Thessalonians",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Oração e trabalho\\par }Quanto ao mais, irmãos, orai por nós, para que a palavra do Senhor continue o seu caminho, e seja glorificada, como aconteceu entre vós,",
+      "reference": "2Ts 3:1"
+    },
+    "2": {
+      "text": "e para que sejamos livres de homens ímpios e perversos; pois nem todos têm fé.",
+      "reference": "2Ts 3:2"
+    },
+    "3": {
+      "text": "Mas o Senhor é fiel, e há de fortalecer-vos e guardar-vos do Maligno.",
+      "reference": "2Ts 3:3"
+    },
+    "4": {
+      "text": "Temos confiança em vós, no Senhor, de que vos deixais guiar agora pelas nossas diretrizes e de que o fareis também no futuro.",
+      "reference": "2Ts 3:4"
+    },
+    "5": {
+      "text": "Que o Senhor conduza os vossos corações para o amor a Deus e a perseverança de Cristo. \\par",
+      "reference": "2Ts 3:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Advertência contra a desordem\\par }Nós vos ordenamos, irmãos, em nome do Senhor Jesus Cristo, que vos afasteis de todo irmão que leve vida desordenada e contrária à tradição que de nós receberam. \\par",
+      "reference": "2Ts 3:6"
+    },
+    "7": {
+      "text": "Bem sabeis como deveis imitar-nos. Não vivemos de maneira desordenada em vosso meio,",
+      "reference": "2Ts 3:7"
+    },
+    "8": {
+      "text": "nem recebemos de graça o pão que comemos; antes, no esforço e na fadiga, de noite e de dia, trabalhamos para não sermos pesados a nenhum de vós.",
+      "reference": "2Ts 3:8"
+    },
+    "9": {
+      "text": "Não porque não tivéssemos direito a isso; mas foi para vos dar exemplo a ser imitado. \\par",
+      "reference": "2Ts 3:9"
+    },
+    "10": {
+      "text": "Quando estávamos entre vós, já vos damos esta ordem: quem não quer trabalhar também não há de comer.",
+      "reference": "2Ts 3:10"
+    },
+    "11": {
+      "text": "Ora, ouvimos dizer que alguns dentre vós levam vida à-toa, muitos atarefados sem nada fazer.",
+      "reference": "2Ts 3:11"
+    },
+    "12": {
+      "text": "A estas pessoas ordenamos e exortamos, no Senhor Jesus Cristo, que trabalhem na tranqüilidade, para ganhar o pão com o próprio esforço. \\par",
+      "reference": "2Ts 3:12"
+    },
+    "13": {
+      "text": "Quanto a vós, irmãos, não vos canseis de fazer o bem.",
+      "reference": "2Ts 3:13"
+    },
+    "14": {
+      "text": "Se alguém desobedecer ao que dizemos nesta carta, notai-o, e não tenhais nenhuma comunicação com ele, para que fique envergonhado.",
+      "reference": "2Ts 3:14"
+    },
+    "15": {
+      "text": "Não o considereis, todavia, como um inimigo, mas procurai corrigi-lo como irmão. \\par",
+      "reference": "2Ts 3:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Oração e despedida\\par }O Senhor da paz vos conceda a paz, em todo tempo e lugar. O Senhor esteja com todos vós.",
+      "reference": "2Ts 3:16"
+    },
+    "17": {
+      "text": "A saudação é de meu próprio punho, Paulo. É este o sinal que distingue minhas cartas. Aí está a minha letra!",
+      "reference": "2Ts 3:17"
+    },
+    "18": {
+      "text": "A graça de nosso Senhor Jesus Cristo esteja com todos vós! \\par",
+      "reference": "2Ts 3:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

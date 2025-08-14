@@ -1,0 +1,717 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 119,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 119 (118)\\par }{\\qc\\b\\i Elogio da lei divina\\par }\\par \\par {\\qc\\b\\i Alef\\par }Felizes os íntegros em seu caminho, \\par os que andam conforme a lei de Iahweh! \\par",
+      "reference": "Sl 119:1"
+    },
+    "2": {
+      "text": "Felizes os que guardam seus testemunhos, \\par procurando-o de todo o coração, \\par",
+      "reference": "Sl 119:2"
+    },
+    "3": {
+      "text": "e que, sem praticar a iniqüidade, \\par andam em seus caminhos! \\par",
+      "reference": "Sl 119:3"
+    },
+    "4": {
+      "text": "Tu promulgaste teus preceitos \\par para serem observados à risca. \\par",
+      "reference": "Sl 119:4"
+    },
+    "5": {
+      "text": "Que meus caminhos sejam firmes \\par para eu observar teus estatutos. \\par",
+      "reference": "Sl 119:5"
+    },
+    "6": {
+      "text": "Então eu não terei vergonha \\par ao considerar todos os teus mandamentos. \\par",
+      "reference": "Sl 119:6"
+    },
+    "7": {
+      "text": "Eu te celebrarei com um coração reto, \\par aprendendo tuas justas normas. \\par",
+      "reference": "Sl 119:7"
+    },
+    "8": {
+      "text": "Vou observar teus estatutos, \\par não me abandones completamente. \\par",
+      "reference": "Sl 119:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Bet\\par }Como um jovem conservará puro o seu caminho? \\par Observando a tua palavra. \\par",
+      "reference": "Sl 119:9"
+    },
+    "10": {
+      "text": "Eu te busco de todo o coração, \\par não me deixes afastar dos teus mandamentos. \\par",
+      "reference": "Sl 119:10"
+    },
+    "11": {
+      "text": "Conservei tua promessa no meu coração \\par para não pecar contra ti. \\par",
+      "reference": "Sl 119:11"
+    },
+    "12": {
+      "text": "Bendito sejas, Iahweh, \\par ensina-me teus estatutos. \\par",
+      "reference": "Sl 119:12"
+    },
+    "13": {
+      "text": "Com meus lábios eu enumero \\par todas as normas de tua boca. \\par",
+      "reference": "Sl 119:13"
+    },
+    "14": {
+      "text": "Eu me alegro com o caminho dos teus testemunhos, \\par mais do que com todas as riquezas. \\par",
+      "reference": "Sl 119:14"
+    },
+    "15": {
+      "text": "Vou meditar teus preceitos \\par e considerar teus caminhos. \\par",
+      "reference": "Sl 119:15"
+    },
+    "16": {
+      "text": "Eu me delicio com teus estatutos \\par e não me esqueço da tua palavra. \\par",
+      "reference": "Sl 119:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Guimel\\par }Faze o bem ao teu servo e eu viverei \\par observando a tua palavra. \\par",
+      "reference": "Sl 119:17"
+    },
+    "18": {
+      "text": "Abre meus olhos para eu contemplar \\par as maravilhas que vêm de tua lei. \\par",
+      "reference": "Sl 119:18"
+    },
+    "19": {
+      "text": "Eu sou um estrangeiro na terra, \\par não escondas de mim teus mandamentos. \\par",
+      "reference": "Sl 119:19"
+    },
+    "20": {
+      "text": "Minha alma se consome, desejando \\par tuas normas todo o tempo. \\par",
+      "reference": "Sl 119:20"
+    },
+    "21": {
+      "text": "Ameaças os soberbos, os malditos, \\par que se desviam dos teus mandamentos. \\par",
+      "reference": "Sl 119:21"
+    },
+    "22": {
+      "text": "Tira de mim o ultraje e o desprezo, \\par pois eu guardo os teus testemunhos. \\par",
+      "reference": "Sl 119:22"
+    },
+    "23": {
+      "text": "Que os príncipes se reúnam e falem contra mim, \\par o teu servo medita os teus estatutos. \\par",
+      "reference": "Sl 119:23"
+    },
+    "24": {
+      "text": "Teus testemunhos são as minhas delícias, \\par teus estatutos são os meus conselheiros. \\par",
+      "reference": "Sl 119:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Dalet\\par }Minha garganta está pegada ao pó, \\par dá-me vida pela tua palavra. \\par",
+      "reference": "Sl 119:25"
+    },
+    "26": {
+      "text": "Eu enumero meus caminhos, tu me respondes, \\par ensina-me teus estatutos. \\par",
+      "reference": "Sl 119:26"
+    },
+    "27": {
+      "text": "Faze-me entender o caminho de teus preceitos, \\par e eu meditarei sobre as tuas maravilhas. \\par",
+      "reference": "Sl 119:27"
+    },
+    "28": {
+      "text": "Minha alma se desfaz de tristeza, \\par põe-me de pé, conforme tua palavra. \\par",
+      "reference": "Sl 119:28"
+    },
+    "29": {
+      "text": "Afasta-me do caminho da mentira, \\par e gratifica-me com tua lei. \\par",
+      "reference": "Sl 119:29"
+    },
+    "30": {
+      "text": "Eu escolhi o caminho da verdade, \\par e me conformo às tuas normas. \\par",
+      "reference": "Sl 119:30"
+    },
+    "31": {
+      "text": "Eu me apego aos teus testemunhos, \\par Iahweh, não me deixes envergonhado. \\par",
+      "reference": "Sl 119:31"
+    },
+    "32": {
+      "text": "Eu corro no caminho dos teus mandamentos, \\par pois tu alargas o meu coração. \\par",
+      "reference": "Sl 119:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Hê\\par }Indica-me, Iahweh, o caminho dos teus estatutos, \\par eu quero guardá-lo como recompensa. \\par",
+      "reference": "Sl 119:33"
+    },
+    "34": {
+      "text": "Faze-me entender e guardar tua lei, \\par para observá-la de todo o coração. \\par",
+      "reference": "Sl 119:34"
+    },
+    "35": {
+      "text": "Guia-me no caminho dos teus mandamentos, \\par pois nele está meu prazer. \\par",
+      "reference": "Sl 119:35"
+    },
+    "36": {
+      "text": "Inclina meu coração para os teus testemunhos, \\par e não para o proveito. \\par",
+      "reference": "Sl 119:36"
+    },
+    "37": {
+      "text": "Evita que meus olhos vejam o que é inútil, \\par dá-me vida com tua palavra. \\par",
+      "reference": "Sl 119:37"
+    },
+    "38": {
+      "text": "Confirma tua promessa ao teu servo, \\par para que seja temido. \\par",
+      "reference": "Sl 119:38"
+    },
+    "39": {
+      "text": "Desvia de mim o ultraje que eu temo, \\par pois tuas normas são boas. \\par",
+      "reference": "Sl 119:39"
+    },
+    "40": {
+      "text": "Eis que eu desejo teus preceitos, \\par dá-me vida pela tua justiça. \\par",
+      "reference": "Sl 119:40"
+    },
+    "41": {
+      "text": "\\par {\\qc\\b\\i Waw\\par }Que teu amor venha até mim, Iahweh, \\par e tua salvação, conforme tua promessa! \\par",
+      "reference": "Sl 119:41"
+    },
+    "42": {
+      "text": "Que eu responda ao ultraje pela palavra, \\par pois eu confio na tua palavra. \\par",
+      "reference": "Sl 119:42"
+    },
+    "43": {
+      "text": "Não me tires da boca a palavra da verdade, \\par pois eu espero em tuas normas. \\par",
+      "reference": "Sl 119:43"
+    },
+    "44": {
+      "text": "Vou observar tua lei sem cessar, \\par para sempre e eternamente. \\par",
+      "reference": "Sl 119:44"
+    },
+    "45": {
+      "text": "Vou andar por um caminho largo, \\par pois eu procuro teus preceitos. \\par",
+      "reference": "Sl 119:45"
+    },
+    "46": {
+      "text": "Vou falar de teus testemunhos frente aos reis, \\par sem ficar envergonhado. \\par",
+      "reference": "Sl 119:46"
+    },
+    "47": {
+      "text": "Nos teus mandamentos estão as minhas delícias: \\par eu os amo. \\par",
+      "reference": "Sl 119:47"
+    },
+    "48": {
+      "text": "Levanto as mãos aos teus mandamentos, que amo, \\par e medito em teus estatutos. \\par",
+      "reference": "Sl 119:48"
+    },
+    "49": {
+      "text": "\\par {\\qc\\b\\i Záin\\par }Lembra-te da tua palavra ao teu servo, \\par na qual tu me fazes esperar. \\par",
+      "reference": "Sl 119:49"
+    },
+    "50": {
+      "text": "Esta é a minha consolação na minha miséria: \\par a tua promessa me dá vida. \\par",
+      "reference": "Sl 119:50"
+    },
+    "51": {
+      "text": "Os soberbos caçoam de mim à vontade, \\par mas eu não me desvio de tua lei. \\par",
+      "reference": "Sl 119:51"
+    },
+    "52": {
+      "text": "Recordo tuas normas de outrora, \\par Iahweh, e me consolo. \\par",
+      "reference": "Sl 119:52"
+    },
+    "53": {
+      "text": "Fiquei enfurecido frente aos ímpios \\par que abandonam tua lei.\\par",
+      "reference": "Sl 119:53"
+    },
+    "54": {
+      "text": "Teus estatutos são cânticos para mim, \\par na minha casa de peregrino. \\par",
+      "reference": "Sl 119:54"
+    },
+    "55": {
+      "text": "Lembro-me do teu nome pela noite, Iahweh, \\par e observo tua lei. \\par",
+      "reference": "Sl 119:55"
+    },
+    "56": {
+      "text": "Esta é a parte que me cabe: \\par observar os teus preceitos. \\par",
+      "reference": "Sl 119:56"
+    },
+    "57": {
+      "text": "\\par {\\qc\\b\\i Het\\par }Minha parte, Iahweh, eu o digo, \\par é observar as tuas palavras. \\par",
+      "reference": "Sl 119:57"
+    },
+    "58": {
+      "text": "De todo o coração busco acalmar tua face, \\par tem piedade de mim, conforme tua promessa! \\par",
+      "reference": "Sl 119:58"
+    },
+    "59": {
+      "text": "Reflito em meus caminhos, \\par voltando meus pés para teus testemunhos. \\par",
+      "reference": "Sl 119:59"
+    },
+    "60": {
+      "text": "Eu me apresso e não me atraso \\par em observar teus mandamentos. \\par",
+      "reference": "Sl 119:60"
+    },
+    "61": {
+      "text": "Os laços dos ímpios me envolvem, \\par eu não me esqueço de tua lei. \\par",
+      "reference": "Sl 119:61"
+    },
+    "62": {
+      "text": "Levanto-me à meia-noite para te celebrar \\par por tuas normas justas. \\par",
+      "reference": "Sl 119:62"
+    },
+    "63": {
+      "text": "Eu me associo a todos os que te temem, \\par e observam tuas normas. \\par",
+      "reference": "Sl 119:63"
+    },
+    "64": {
+      "text": "A terra, Iahweh, está cheia do teu amor, \\par ensina-me teus estatutos. \\par",
+      "reference": "Sl 119:64"
+    },
+    "65": {
+      "text": "\\par {\\qc\\b\\i Tet\\par }Agiste bem com o teu servo, \\par Iahweh, segundo a tua palavra. \\par",
+      "reference": "Sl 119:65"
+    },
+    "66": {
+      "text": "Ensina-me o bom senso e o saber, \\par pois eu creio nos teus mandamentos. \\par",
+      "reference": "Sl 119:66"
+    },
+    "67": {
+      "text": "Antes de ser afligido eu me desviava, \\par agora eu observo a tua promessa. \\par",
+      "reference": "Sl 119:67"
+    },
+    "68": {
+      "text": "Tu és bom e benfeitor, \\par ensina-me teus estatutos. \\par",
+      "reference": "Sl 119:68"
+    },
+    "69": {
+      "text": "Os soberbos lançam calúnia contra mim, \\par de todo o coração eu guardo teus preceitos. \\par",
+      "reference": "Sl 119:69"
+    },
+    "70": {
+      "text": "Seu coração é espesso como gordura, \\par eu me delicio com tua lei. \\par",
+      "reference": "Sl 119:70"
+    },
+    "71": {
+      "text": "Para mim é bom ser afligido \\par para aprender teus estatutos. \\par",
+      "reference": "Sl 119:71"
+    },
+    "72": {
+      "text": "A lei de tua boca é um bem para mim, \\par mais que milhões em ouro e prata. \\par",
+      "reference": "Sl 119:72"
+    },
+    "73": {
+      "text": "\\par {\\qc\\b\\i Yod\\par }Tuas mãos me fizeram e firmaram, \\par faz-me entender, aprender teus mandamentos. \\par",
+      "reference": "Sl 119:73"
+    },
+    "74": {
+      "text": "Que os que temem a ti vejam-me com alegria, \\par pois eu espero em tua palavra. \\par",
+      "reference": "Sl 119:74"
+    },
+    "75": {
+      "text": "Eu sei, Iahweh, que tuas normas são justas, \\par e que por fidelidade me afliges. \\par",
+      "reference": "Sl 119:75"
+    },
+    "76": {
+      "text": "Que teu amor seja minha consolação, \\par conforme tua promessa ao teu servo! \\par",
+      "reference": "Sl 119:76"
+    },
+    "77": {
+      "text": "Que tua misericórdia venha a mim, e eu viverei, \\par pois tua lei são as minhas delícias. \\par",
+      "reference": "Sl 119:77"
+    },
+    "78": {
+      "text": "Envergonhem-se os soberbos que me lançam calúnias! \\par Eu medito os teus preceitos. \\par",
+      "reference": "Sl 119:78"
+    },
+    "79": {
+      "text": "Voltem-se a mim os que temem a ti, \\par os que conhecem teus testemunhos. \\par",
+      "reference": "Sl 119:79"
+    },
+    "80": {
+      "text": "Que meu coração seja íntegro em teus estatutos, \\par para que eu não fique envergonhado. \\par",
+      "reference": "Sl 119:80"
+    },
+    "81": {
+      "text": "\\par {\\qc\\b\\i Kaf\\par }Eu me consumo pela tua salvação, \\par espero pela tua palavra. \\par",
+      "reference": "Sl 119:81"
+    },
+    "82": {
+      "text": "Meus olhos se consomem pela tua promessa: \\par quando me consolarás? \\par",
+      "reference": "Sl 119:82"
+    },
+    "83": {
+      "text": "Estou como um odre na fumaça, \\par nunca me esqueço dos teus estatutos. \\par",
+      "reference": "Sl 119:83"
+    },
+    "84": {
+      "text": "Quantos vão ser os dias do teu servo? \\par Quando me farás justiça contra meus perseguidores? \\par",
+      "reference": "Sl 119:84"
+    },
+    "85": {
+      "text": "Abriram covas para mim os soberbos \\par que não andam conforme tua lei. \\par",
+      "reference": "Sl 119:85"
+    },
+    "86": {
+      "text": "Teus mandamentos todos são verdade; \\par quando a mentira me persegue, ajuda-me! \\par",
+      "reference": "Sl 119:86"
+    },
+    "87": {
+      "text": "Por pouco não me lançavam por terra, \\par mas eu não abandono teus preceitos. \\par",
+      "reference": "Sl 119:87"
+    },
+    "88": {
+      "text": "Vivifica-me, conforme o teu amor, \\par e observarei o testemunho de tua boca. \\par",
+      "reference": "Sl 119:88"
+    },
+    "89": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par }Iahweh, tua palavra é para sempre, \\par ela está firmada no céu; \\par",
+      "reference": "Sl 119:89"
+    },
+    "90": {
+      "text": "tua verdade continua, de geração em geração: \\par fixaste a terra, e ela permanece. \\par",
+      "reference": "Sl 119:90"
+    },
+    "91": {
+      "text": "Tudo existe até hoje conforme tuas normas, \\par pois todas as coisas te servem. \\par",
+      "reference": "Sl 119:91"
+    },
+    "92": {
+      "text": "Se tua lei não fosse o meu prazer, \\par eu já teria perecido na miséria. \\par",
+      "reference": "Sl 119:92"
+    },
+    "93": {
+      "text": "Jamais vou esquecer teus preceitos, \\par pois é por eles que me fazes viver. \\par",
+      "reference": "Sl 119:93"
+    },
+    "94": {
+      "text": "Eu pertenço a ti: salva-me, \\par pois eu busco teus preceitos. \\par",
+      "reference": "Sl 119:94"
+    },
+    "95": {
+      "text": "Que os ímpios esperem minha ruína: \\par eu sei discernir teus testemunhos. \\par",
+      "reference": "Sl 119:95"
+    },
+    "96": {
+      "text": "Eu vi o limite de toda perfeição: \\par teu mandamento é muito amplo. \\par",
+      "reference": "Sl 119:96"
+    },
+    "97": {
+      "text": "\\par {\\qc\\b\\i Mem\\par }Como amo a tua lei! \\par Eu a medito todo o dia. \\par",
+      "reference": "Sl 119:97"
+    },
+    "98": {
+      "text": "Teu mandamento me faz mais sábio que meus inimigos, \\par porque ele me pertence para sempre. \\par",
+      "reference": "Sl 119:98"
+    },
+    "99": {
+      "text": "Percebo mais do que todos os meus mestres, \\par porque eu medito teus testemunhos. \\par",
+      "reference": "Sl 119:99"
+    },
+    "100": {
+      "text": "Tenho mais discernimento que os idosos, \\par porque eu observo os teus preceitos. \\par",
+      "reference": "Sl 119:100"
+    },
+    "101": {
+      "text": "Desvio meus pés de todo caminho mau, \\par para observar a tua palavra. \\par",
+      "reference": "Sl 119:101"
+    },
+    "102": {
+      "text": "Jamais me desvio de tuas normas, \\par porque és tu que me ensinas. \\par",
+      "reference": "Sl 119:102"
+    },
+    "103": {
+      "text": "Quão doce ao meu paladar é tua promessa, \\par é mais do que o mel em minha boca! \\par",
+      "reference": "Sl 119:103"
+    },
+    "104": {
+      "text": "Com teus preceitos sou capaz de discernir \\par e detestar todo caminho mau. \\par",
+      "reference": "Sl 119:104"
+    },
+    "105": {
+      "text": "\\par {\\qc\\b\\i Nun\\par }Tua palavra é lâmpada para os meus pés, \\par e luz para o meu caminho. \\par",
+      "reference": "Sl 119:105"
+    },
+    "106": {
+      "text": "Eu jurei, e sustento: \\par observar as tuas normas justas. \\par",
+      "reference": "Sl 119:106"
+    },
+    "107": {
+      "text": "Estou por demais humilhado, Iahweh, \\par vivifica-me, conforme tua palavra. \\par",
+      "reference": "Sl 119:107"
+    },
+    "108": {
+      "text": "Iahweh, aceita a oferta de minha boca \\par e ensina-me tuas normas. \\par",
+      "reference": "Sl 119:108"
+    },
+    "109": {
+      "text": "Minha vida está sempre em minha mão, \\par eu não me esqueço de tua lei. \\par",
+      "reference": "Sl 119:109"
+    },
+    "110": {
+      "text": "Os ímpios estendem um laço para mim, \\par e eu não me desvio de teus preceitos. \\par",
+      "reference": "Sl 119:110"
+    },
+    "111": {
+      "text": "Teus testemunhos são minha herança para sempre, \\par a alegria do meu coração. \\par",
+      "reference": "Sl 119:111"
+    },
+    "112": {
+      "text": "Aplico meu coração a praticar teus estatutos, \\par é a minha recompensa para sempre. \\par",
+      "reference": "Sl 119:112"
+    },
+    "113": {
+      "text": "\\par {\\qc\\b\\i Samec\\par }Detesto os corações divididos \\par e amo a tua lei. \\par",
+      "reference": "Sl 119:113"
+    },
+    "114": {
+      "text": "Tu és meu abrigo e meu escudo, \\par eu espero por tua palavra. \\par",
+      "reference": "Sl 119:114"
+    },
+    "115": {
+      "text": "Afastai-vos de mim, perversos, \\par eu vou guardar os mandamentos do meu Deus. \\par",
+      "reference": "Sl 119:115"
+    },
+    "116": {
+      "text": "Sustenta-me, conforme tua promessa, e eu viverei, \\par não deixes que minha esperança me envergonhe.\\par",
+      "reference": "Sl 119:116"
+    },
+    "117": {
+      "text": "Apóia-me e eu serei salvo \\par e estarei sempre atento aos teus estatutos. \\par",
+      "reference": "Sl 119:117"
+    },
+    "118": {
+      "text": "Desprezas todos os que se desviam dos teus estatutos, \\par pois o seu cálculo é mentira. \\par",
+      "reference": "Sl 119:118"
+    },
+    "119": {
+      "text": "Reduzes à escória todos os ímpios da terra, \\par por isso eu amo teus testemunhos. \\par",
+      "reference": "Sl 119:119"
+    },
+    "120": {
+      "text": "Minha carne se arrepia com temor de ti, \\par e eu temo por causa de tuas normas. \\par",
+      "reference": "Sl 119:120"
+    },
+    "121": {
+      "text": "\\par {\\qc\\b\\i Áin\\par }Pratiquei o direito e a justiça, \\par não me entregues aos meus opressores. \\par",
+      "reference": "Sl 119:121"
+    },
+    "122": {
+      "text": "Sê fiador do teu servo para o bem, \\par que os soberbos não me oprimam. \\par",
+      "reference": "Sl 119:122"
+    },
+    "123": {
+      "text": "Meu olhos se consomem pela tua salvação, \\par e pela promessa da tua justiça.\\par",
+      "reference": "Sl 119:123"
+    },
+    "124": {
+      "text": "Age com teu servo conforme teu amor, \\par e ensina-me teus estatutos. \\par",
+      "reference": "Sl 119:124"
+    },
+    "125": {
+      "text": "Eu sou teu servo, faze-me discernir \\par e compreenderei teus testemunhos. \\par",
+      "reference": "Sl 119:125"
+    },
+    "126": {
+      "text": "Iahweh, é tempo de agir: \\par eles violaram a tua lei. \\par",
+      "reference": "Sl 119:126"
+    },
+    "127": {
+      "text": "Por isso eu amo teus mandamentos, \\par mais que ao ouro, e ouro refinado. \\par",
+      "reference": "Sl 119:127"
+    },
+    "128": {
+      "text": "Por isso eu me regro com teus preceitos todos \\par e odeio todo caminho da mentira. \\par",
+      "reference": "Sl 119:128"
+    },
+    "129": {
+      "text": "\\par {\\qc\\b\\i Pê\\par }Teus testemunhos são maravilhas, \\par por isso eu os guardo. \\par",
+      "reference": "Sl 119:129"
+    },
+    "130": {
+      "text": "A descoberta das tuas palavras ilumina, \\par e traz discernimento aos simples. \\par",
+      "reference": "Sl 119:130"
+    },
+    "131": {
+      "text": "Abro minha boca e aspiro, \\par pois anseio pelos teus mandamentos. \\par",
+      "reference": "Sl 119:131"
+    },
+    "132": {
+      "text": "Volta-te para mim, tem piedade de mim, \\par é a justiça para os que amam o teu nome. \\par",
+      "reference": "Sl 119:132"
+    },
+    "133": {
+      "text": "Firma meus passos com tua promessa \\par e não deixes mal nenhum me dominar. \\par",
+      "reference": "Sl 119:133"
+    },
+    "134": {
+      "text": "Resgata-me da opressão do homem \\par e observarei teus preceitos. \\par",
+      "reference": "Sl 119:134"
+    },
+    "135": {
+      "text": "Ilumina tua face para o teu servo, \\par e ensina-me teus estatutos. \\par",
+      "reference": "Sl 119:135"
+    },
+    "136": {
+      "text": "Torrentes de lágrimas descem dos meus olhos, \\par porque não observam a tua lei. \\par",
+      "reference": "Sl 119:136"
+    },
+    "137": {
+      "text": "\\par {\\qc\\b\\i Çade\\par }Tu és justo, Iahweh, \\par e tuas normas são retas. \\par",
+      "reference": "Sl 119:137"
+    },
+    "138": {
+      "text": "Como justiça, ordenaste teus testemunhos, \\par como verdade suprema. \\par",
+      "reference": "Sl 119:138"
+    },
+    "139": {
+      "text": "O meu zelo me consome, \\par pois meus adversários esquecem tuas palavras. \\par",
+      "reference": "Sl 119:139"
+    },
+    "140": {
+      "text": "Tua promessa é puríssima \\par e teu servo a ama. \\par",
+      "reference": "Sl 119:140"
+    },
+    "141": {
+      "text": "Sou pequeno e desprezado, \\par mas não esqueço teus preceitos. \\par",
+      "reference": "Sl 119:141"
+    },
+    "142": {
+      "text": "Tua justiça é justiça para sempre, \\par e tua lei é a verdade. \\par",
+      "reference": "Sl 119:142"
+    },
+    "143": {
+      "text": "Angústia e opressão me atingiram, \\par teus mandamentos são minhas delícias. \\par",
+      "reference": "Sl 119:143"
+    },
+    "144": {
+      "text": "Teus testemunhos são justiça para sempre, \\par dá-me discernimento e eu viverei. \\par",
+      "reference": "Sl 119:144"
+    },
+    "145": {
+      "text": "\\par {\\qc\\b\\i Qof\\par }Clamo de todo o coração, responde-me, Iahweh! \\par Eu observarei teus estatutos. \\par",
+      "reference": "Sl 119:145"
+    },
+    "146": {
+      "text": "Clamo a ti, salva-me! \\par Eu guardarei teus testemunhos. \\par",
+      "reference": "Sl 119:146"
+    },
+    "147": {
+      "text": "Antecipo a aurora e imploro, \\par esperando pelas tuas palavras. \\par",
+      "reference": "Sl 119:147"
+    },
+    "148": {
+      "text": "Meus olhos antecipam as vigílias \\par para meditar a tua promessa. \\par",
+      "reference": "Sl 119:148"
+    },
+    "149": {
+      "text": "Iahweh, ouve minha voz com teu amor, \\par faze-me reviver, conforme as tuas normas. \\par",
+      "reference": "Sl 119:149"
+    },
+    "150": {
+      "text": "Perseguidores infames se aproximam, \\par eles se afastam de tua lei. \\par",
+      "reference": "Sl 119:150"
+    },
+    "151": {
+      "text": "Tu estás próximo, Iahweh, \\par e teus mandamentos todos são verdade. \\par",
+      "reference": "Sl 119:151"
+    },
+    "152": {
+      "text": "Conheço teus testemunhos há tempo, \\par porque os firmaste para sempre. \\par",
+      "reference": "Sl 119:152"
+    },
+    "153": {
+      "text": "\\par {\\qc\\b\\i Resh\\par }Vê minha miséria e liberta-me, \\par pois não me esqueço de tua lei. \\par",
+      "reference": "Sl 119:153"
+    },
+    "154": {
+      "text": "Redime a minha causa e defende-me, \\par pela tua promessa faze-me reviver. \\par",
+      "reference": "Sl 119:154"
+    },
+    "155": {
+      "text": "A salvação está longe dos ímpios, \\par pois não procuram teus estatutos. \\par",
+      "reference": "Sl 119:155"
+    },
+    "156": {
+      "text": "Iahweh, tua compaixão é grande, \\par faze-me reviver, conforme tuas normas. \\par",
+      "reference": "Sl 119:156"
+    },
+    "157": {
+      "text": "Meus perseguidores e meus opressores são numerosos, \\par mas eu não me afastei dos teus testemunhos.\\par",
+      "reference": "Sl 119:157"
+    },
+    "158": {
+      "text": "Vi os traidores e fiquei desgostoso: \\par eles não observam tua promessa. \\par",
+      "reference": "Sl 119:158"
+    },
+    "159": {
+      "text": "Vê como eu amo teus preceitos, Iahweh, \\par faze-me reviver, conforme o teu amor. \\par",
+      "reference": "Sl 119:159"
+    },
+    "160": {
+      "text": "O princípio da tua palavra é a verdade, \\par tuas normas são justiça para sempre. \\par",
+      "reference": "Sl 119:160"
+    },
+    "161": {
+      "text": "\\par {\\qc\\b\\i Shin\\par }Príncipes me perseguem sem motivo, \\par meu coração teme as tuas palavras. \\par",
+      "reference": "Sl 119:161"
+    },
+    "162": {
+      "text": "Alegro-me com tua promessa, \\par como quem acha um grande despojo. \\par",
+      "reference": "Sl 119:162"
+    },
+    "163": {
+      "text": "Detesto e abomino a mentira, \\par e amo a tua lei. \\par",
+      "reference": "Sl 119:163"
+    },
+    "164": {
+      "text": "Sete vezes por dia eu te louvo \\par por causa de tuas normas justas. \\par",
+      "reference": "Sl 119:164"
+    },
+    "165": {
+      "text": "É grande a paz dos que amam a tua lei, \\par para eles não existe um tropeço. \\par",
+      "reference": "Sl 119:165"
+    },
+    "166": {
+      "text": "Eu espero tua salvação, Iahweh, \\par e pratico teus mandamentos. \\par",
+      "reference": "Sl 119:166"
+    },
+    "167": {
+      "text": "Observo os teus testemunhos, \\par eu os amo de fato. \\par",
+      "reference": "Sl 119:167"
+    },
+    "168": {
+      "text": "Observo teus preceitos e teus testemunhos, \\par meus caminhos estão todos à tua frente. \\par",
+      "reference": "Sl 119:168"
+    },
+    "169": {
+      "text": "\\par {\\qc\\b\\i Taw\\par }Que meu grito chegue à tua presença, Iahweh, \\par dá-me discernimento, conforme tua palavra! \\par",
+      "reference": "Sl 119:169"
+    },
+    "170": {
+      "text": "Que minha súplica chegue à tua presença, \\par liberta-me, conforme tua promessa! \\par",
+      "reference": "Sl 119:170"
+    },
+    "171": {
+      "text": "Que meus lábios publiquem o louvor, \\par pois tu me ensinas os teus estatutos. \\par",
+      "reference": "Sl 119:171"
+    },
+    "172": {
+      "text": "Que minha língua cante a tua promessa, \\par pois teus mandamentos todos são justiça. \\par",
+      "reference": "Sl 119:172"
+    },
+    "173": {
+      "text": "Que a tua mão venha socorrer-me, \\par pois escolhi teus preceitos. \\par",
+      "reference": "Sl 119:173"
+    },
+    "174": {
+      "text": "Desejo tua salvação, Iahweh, \\par e minhas delícias estão em tua lei. \\par",
+      "reference": "Sl 119:174"
+    },
+    "175": {
+      "text": "Que eu possa viver para te louvar, \\par e tuas normas venham socorrer-me. \\par",
+      "reference": "Sl 119:175"
+    },
+    "176": {
+      "text": "Eu me desvio como ovelha perdida: \\par vem procurar o teu servo!\\par Sim, eu nunca me esqueço dos teus mandamentos! \\par",
+      "reference": "Sl 119:176"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 176
+}

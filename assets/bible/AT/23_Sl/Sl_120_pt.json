@@ -1,0 +1,41 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 120,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 120 (119)\\par }{\\qc\\b\\i Os inimigos da paz\\par }{\\qc\\i Cântico das subidas.\\par } Em minha angústia eu grito a Iahweh, \\par e ele me responde. \\par",
+      "reference": "Sl 120:1"
+    },
+    "2": {
+      "text": "Livra-me, Iahweh, dos lábios mentirosos, \\par da língua traidora! \\par",
+      "reference": "Sl 120:2"
+    },
+    "3": {
+      "text": "Que te será dado ou acrescentado, \\par ó língua traidora? \\par",
+      "reference": "Sl 120:3"
+    },
+    "4": {
+      "text": "Flechas de guerreiro, afiadas \\par com brasas de giesta. \\par",
+      "reference": "Sl 120:4"
+    },
+    "5": {
+      "text": "Ai de mim, peregrino em Mosoc, \\par acampado na tendas de Cedar! \\par",
+      "reference": "Sl 120:5"
+    },
+    "6": {
+      "text": "Já há muito que moro \\par com os que odeiam a paz. \\par",
+      "reference": "Sl 120:6"
+    },
+    "7": {
+      "text": "Eu sou pela paz, mas, quando falo, \\par eles são pela guerra. \\par",
+      "reference": "Sl 120:7"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 7
+}

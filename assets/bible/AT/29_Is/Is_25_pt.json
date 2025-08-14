@@ -1,0 +1,61 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Hino de ação de graças\\par }Iahweh, tu és o meu Deus, \\par exaltar-te-ei, louvarei o teu nome, \\par porque tu realizaste os teus desígnios maravilhosos de outrora, \\par com toda a fidelidade. \\par",
+      "reference": "Is 25:1"
+    },
+    "2": {
+      "text": "Sim, da cidade fizeste um entulho, \\par a cidade fortificada está uma ruína. \\par A cidadela dos estrangeiros deixou de ser uma cidade, \\par nunca mais será reconstruída. \\par",
+      "reference": "Is 25:2"
+    },
+    "3": {
+      "text": "Eis por que um povo forte te glorifica, \\par a cidade das nações tirânicas teme a ti. \\par",
+      "reference": "Is 25:3"
+    },
+    "4": {
+      "text": "Porque foste um refúgio para o fraco, \\par um refúgio para o indigente na sua angústia, \\par um abrigo contra a chuva e uma sombra contra o calor. \\par Com efeito, o sopro dos tiranos é como a chuva de inverno. \\par",
+      "reference": "Is 25:4"
+    },
+    "5": {
+      "text": "Como o calor em uma terra árida, \\par assim tu abates o tumulto dos estrangeiros: \\par o calor se abranda sob a sombra das nuvens; \\par assim o canto dos tiranos se cala. \\par",
+      "reference": "Is 25:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i O banquete divino\\par }Iahweh dos Exércitos prepara para todos os povos, sobre esta montanha, \\par um banquete de carnes gordas, um banquete de vinhos finos, \\par de carnes suculentas, de vinhos depurados. \\par",
+      "reference": "Is 25:6"
+    },
+    "7": {
+      "text": "Destruiu neste monte \\par o véu que envolvia todos os povos \\par e a cortina que se estendia sobre todas as nações; \\par",
+      "reference": "Is 25:7"
+    },
+    "8": {
+      "text": "destruiu a morte para sempre. \\par O Senhor Iahweh enxugou a lágrima de todos os rostos; \\par ele há de remover de toda a terra o opróbrio do seu povo, \\par porque Iahweh o disse. \\par",
+      "reference": "Is 25:8"
+    },
+    "9": {
+      "text": "Nesse dia se dirá: \\par Vede, este é o nosso Deus, \\par nele esperávamos, certos de que nos salvaria; \\par este é Iahweh, em quem esperávamos. \\par Exultemos, alegremo-nos na sua salvação. \\par",
+      "reference": "Is 25:9"
+    },
+    "10": {
+      "text": "Com efeito, a mão de Iahweh repousará neste monte, \\par mas Moab será pisado sob os pés, \\par como se pisa a palha nas águas de Madmena. \\par",
+      "reference": "Is 25:10"
+    },
+    "11": {
+      "text": "Estenderá, em meio da montanha, as suas mãos, \\par como faz o nadador para nadar, \\par mas acabará pondo por terra a sua própria altivez, \\par apesar da habilidade das suas mãos. \\par",
+      "reference": "Is 25:11"
+    },
+    "12": {
+      "text": "A fortaleza inacessível dos teus muros, \\par ele a abateu, rebaixou e fê-la lamber o pó da terra. \\par",
+      "reference": "Is 25:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

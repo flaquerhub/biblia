@@ -1,0 +1,69 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra Damasco e Israel\\par }Oráculo a respeito de Damasco. \\par Damasco deixará de ser uma cidade; \\par reduzir-se-á a um montão de ruínas. \\par",
+      "reference": "Is 17:1"
+    },
+    "2": {
+      "text": "As suas cidades, abandonadas para sempre, \\par pertencerão aos rebanhos: \\par eles se deitarão ali sem que ninguém os espante. \\par",
+      "reference": "Is 17:2"
+    },
+    "3": {
+      "text": "Efraim deixará de ser uma fortaleza, \\par Damasco deixará de ser um reino. \\par O que restar de Aram terá uma glória \\par semelhante à glória de Israel. \\par Oráculo de Iahweh dos Exércitos. \\par",
+      "reference": "Is 17:3"
+    },
+    "4": {
+      "text": "Naquele dia, sucederá que a glória de Jacó definhará \\par e a gordura do seu corpo se esvairá. \\par",
+      "reference": "Is 17:4"
+    },
+    "5": {
+      "text": "Tudo se passará como quando o ceifeiro colhe o trigo, \\par quando os seus braços apanham as espigas; \\par tudo se passará como quando alguém anda a respigar espigas no vale dos rafaim. \\par",
+      "reference": "Is 17:5"
+    },
+    "6": {
+      "text": "Sobrará algum restolho, \\par como quando se vareja a oliveira: \\par ficam duas ou três azeitonas nos ramos mais altos, \\par quatro ou cinco nos demais galhos. \\par Oráculo de Iahweh, Deus de Israel. \\par",
+      "reference": "Is 17:6"
+    },
+    "7": {
+      "text": "Naquele dia o homem atentará para o seu criador e os seus olhos se voltarão para o Santo de Israel.",
+      "reference": "Is 17:7"
+    },
+    "8": {
+      "text": "Ele não tornará a atentar para os altares, obra das suas mãos, objeto que os seus dedos fabricaram; ele não voltará a olhar para as estelas sagradas, nem para os altares de incenso. \\par",
+      "reference": "Is 17:8"
+    },
+    "9": {
+      "text": "Naquele dia as suas cidades de refúgio serão abandonadas, \\par como outrora as florestas e os matagais, \\par diante dos filhos de Israel: \\par será uma desolação. \\par",
+      "reference": "Is 17:9"
+    },
+    "10": {
+      "text": "Visto que te esqueceste do Deus da tua salvação \\par e não te lembraste da rocha da tua fortaleza, \\par tu te pões a formar plantações de deleite \\par e a plantar sarmentos estranhos. \\par",
+      "reference": "Is 17:10"
+    },
+    "11": {
+      "text": "No dia em que os plantas, tu os fazes crescer, \\par na manhã seguinte fazes com que eles floresçam, \\par mas a colheita se esvai no dia da doença, \\par da dor incurável. \\par",
+      "reference": "Is 17:11"
+    },
+    "12": {
+      "text": "Ai! Alvoroço de uma multidão de povos, \\par como o rugir dos mares agitados, \\par de povos em tumulto como o tumultuar de grandes águas! \\par",
+      "reference": "Is 17:12"
+    },
+    "13": {
+      "text": "(De povos em tumulto como o tumultuar de águas poderosas.) \\par Ele as ameaça e elas fogem para longe, \\par arrastadas como a palha dos montes pelo vento, \\par como as hastes secas pelo tufão. \\par",
+      "reference": "Is 17:13"
+    },
+    "14": {
+      "text": "Ao entardecer sobrevém o susto; \\par antes do amanhecer não há mais nada. \\par Tal a porção daqueles que nos despojam, \\par a sorte daqueles que nos saqueiam. \\par",
+      "reference": "Is 17:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

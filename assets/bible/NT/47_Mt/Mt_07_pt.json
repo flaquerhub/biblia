@@ -1,0 +1,129 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Não julgar\\par }Não julgueis para não serdes julgados.",
+      "reference": "Mt 7:1"
+    },
+    "2": {
+      "text": "Pois com o julgamento com que julgais sereis julgados, e com a medida com que medis sereis medidos.",
+      "reference": "Mt 7:2"
+    },
+    "3": {
+      "text": "Por que reparas no cisco que está no olho do teu irmão, quando não percebes a trave que está no teu?",
+      "reference": "Mt 7:3"
+    },
+    "4": {
+      "text": "Ou como poderás dizer ao teu irmão: ‘Deixa-me tirar o cisco do teu olho’, quando tu mesmo tens uma trave no teu?",
+      "reference": "Mt 7:4"
+    },
+    "5": {
+      "text": "Hipócrita, tira primeiro a trave do teu olho, e então verás bem para tirar o cisco do olho do teu irmão. \\par",
+      "reference": "Mt 7:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Não profanar as coisas santas\\par }Não deis aos cães o que é santo, nem atireis as vossas pérolas aos porcos, para que não as pisem e, voltando-se contra vós, vos estraçalhem. \\par",
+      "reference": "Mt 7:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Eficácia da oração\\par }Pedi e vos será dado; buscai e achareis; batei e vos será aberto;",
+      "reference": "Mt 7:7"
+    },
+    "8": {
+      "text": "pois todo o que pede recebe; o que busca acha e ao que bate se lhe abrirá.",
+      "reference": "Mt 7:8"
+    },
+    "9": {
+      "text": "Quem dentre vós dará uma pedra a seu filho, se este lhe pedir pão?",
+      "reference": "Mt 7:9"
+    },
+    "10": {
+      "text": "Ou lhe dará uma cobra, se este lhe pedir peixe?",
+      "reference": "Mt 7:10"
+    },
+    "11": {
+      "text": "Ora, se vós que sois maus sabeis dar boas dádivas aos vossos filhos, quanto mais o vosso Pai que está nos céus dará coisas boas aos que lhe pedem! \\par",
+      "reference": "Mt 7:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A regra de ouro\\par }Tudo aquilo, portanto, que quereis que os homens vos façam, fazei-o vós a eles, pois esta é a Lei e os Profetas. \\par",
+      "reference": "Mt 7:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Os dois caminhos\\par }Entrai pela porta estreita, porque largo e espaçoso é o caminho que conduz à perdição. E muitos são os que entram por ele.",
+      "reference": "Mt 7:13"
+    },
+    "14": {
+      "text": "Estreita, porém, é a porta e apertado o caminho que conduz à Vida. E poucos são os que o encontram. \\par",
+      "reference": "Mt 7:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Os falsos profetas\\par }Guardai-vos dos falsos profetas, que vêm a vós disfarçados de ovelhas, mas por dentro são lobos ferozes.",
+      "reference": "Mt 7:15"
+    },
+    "16": {
+      "text": "Pelos seus frutos os conhecereis. Por acaso colhem-se uvas dos espinheiros ou figos dos cardos?",
+      "reference": "Mt 7:16"
+    },
+    "17": {
+      "text": "Do mesmo modo, toda árvore boa dá bons frutos, mas a árvore má dá frutos ruins.",
+      "reference": "Mt 7:17"
+    },
+    "18": {
+      "text": "Uma árvore boa não pode dar frutos ruins, nem uma árvore má dar bons frutos.",
+      "reference": "Mt 7:18"
+    },
+    "19": {
+      "text": "Toda árvore que não produz bom fruto é cortada e lançada ao fogo.",
+      "reference": "Mt 7:19"
+    },
+    "20": {
+      "text": "É pelos seus frutos, portanto, que os reconhecereis. \\par",
+      "reference": "Mt 7:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Os verdadeiros discípulos\\par }Nem todo aquele que me diz ‘Senhor, Senhor’ entrará no Reino dos Céus, mas sim aquele que pratica a vontade de meu Pai que está nos céus.",
+      "reference": "Mt 7:21"
+    },
+    "22": {
+      "text": "Muitos me dirão naquele dia: ‘Senhor, Senhor, não foi {\\i em teu nome que profetizamos} e em teu nome que expulsamos demônios e em teu nome que fizemos muitos milagres?’",
+      "reference": "Mt 7:22"
+    },
+    "23": {
+      "text": "Então eu lhes declararei: ‘Nunca vos conheci. {\\i Apartai-vos de mim, vós que praticais a iniqüidade}’. \\par",
+      "reference": "Mt 7:23"
+    },
+    "24": {
+      "text": "Assim, todo aquele que ouve essas minhas palavras e as põe em prática será comparado a um homem sensato que construiu a sua casa sobre a rocha.",
+      "reference": "Mt 7:24"
+    },
+    "25": {
+      "text": "Caiu a chuva, vieram as enxurradas, sopraram os ventos e deram contra aquela casa, mas ela não caiu, porque estava alicerçada na rocha.",
+      "reference": "Mt 7:25"
+    },
+    "26": {
+      "text": "Por outro lado, todo aquele que ouve essas minhas palavras, mas não as pratica, será comparado a um homem insensato que construiu a sua casa sobre a areia.",
+      "reference": "Mt 7:26"
+    },
+    "27": {
+      "text": "Caiu a chuva, vieram as enxurradas, sopraram os ventos e deram contra aquela casa, e ela caiu. E foi grande sua ruína!” \\par",
+      "reference": "Mt 7:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Espanto da multidão\\par }Aconteceu que ao terminar Jesus essas palavras, as multidões ficaram extasiadas com o seu ensinamento,",
+      "reference": "Mt 7:28"
+    },
+    "29": {
+      "text": "porque as ensinava com autoridade e não como os seus escribas. \\par",
+      "reference": "Mt 7:29"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 29
+}

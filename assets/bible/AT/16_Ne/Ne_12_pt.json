@@ -1,0 +1,201 @@
+{
+  "book": 16,
+  "book_name": "Neemias",
+  "book_abbr": "Ne",
+  "book_category": "Histórico",
+  "book_english": "Nehemiah",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Sacerdotes e levitas que voltaram sob Zorobabel e Josué\\par }Estes são os sacerdotes e os levitas que subiram com Zorobabel, filho de Salatiel, e Josué: Saraías, Jeremias, Esdras,",
+      "reference": "Ne 12:1"
+    },
+    "2": {
+      "text": "Amarias, Meluc, Hatus,",
+      "reference": "Ne 12:2"
+    },
+    "3": {
+      "text": "Sequenias, Reum, Meremot,",
+      "reference": "Ne 12:3"
+    },
+    "4": {
+      "text": "Ado, Genton, Abias,",
+      "reference": "Ne 12:4"
+    },
+    "5": {
+      "text": "Miamin, Madias, Belga,",
+      "reference": "Ne 12:5"
+    },
+    "6": {
+      "text": "Semeías, Joiarib, Jedaías,",
+      "reference": "Ne 12:6"
+    },
+    "7": {
+      "text": "Salu, Amoc, Helcias, Jedaías. \\par Esses eram os chefes dos sacerdotes e seus irmãos, no tempo de Josué,",
+      "reference": "Ne 12:7"
+    },
+    "8": {
+      "text": "isto é, os levitas eram: Josué, Benui, Cadmiel, Serebias, Judá, Matanias – este último, com seus irmãos, dirigia os hinos de ação de graças,",
+      "reference": "Ne 12:8"
+    },
+    "9": {
+      "text": "enquanto Becbecias, Ani e seus irmãos ficavam defronte deles, segundo suas respectivas classes. \\par",
+      "reference": "Ne 12:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Lista genealógica dos sumos sacerdotes\\par }Josué gerou Joaquim; Joaquim gerou Eliasib; Eliasib gerou Joiada;",
+      "reference": "Ne 12:10"
+    },
+    "11": {
+      "text": "Joiada gerou Joanã; e Joanã gerou Jedua. \\par",
+      "reference": "Ne 12:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Sacerdotes e levitas no tempo do sumo sacerdote Joaquim\\par }No tempo de Joaquim, as famílias sacerdotais tinham por chefes: família de Saraías: Maraías; família de Jeremias: Hananias;",
+      "reference": "Ne 12:12"
+    },
+    "13": {
+      "text": "família de Esdras: Mosolam; família de Amarias: Joanã;",
+      "reference": "Ne 12:13"
+    },
+    "14": {
+      "text": "família de Meluc: Jônatas; família de Sebanias: José;",
+      "reference": "Ne 12:14"
+    },
+    "15": {
+      "text": "família de Harim: Ednas; família de Maraiot: Helci;",
+      "reference": "Ne 12:15"
+    },
+    "16": {
+      "text": "família de Ado: Zacarias; família de Genton: Mosolam;",
+      "reference": "Ne 12:16"
+    },
+    "17": {
+      "text": "família de Abias: Zecri; família de Miniamin: ...; família de Moadias: Felti;",
+      "reference": "Ne 12:17"
+    },
+    "18": {
+      "text": "família de Belga: Samua; família de Semeías: Jônatas;",
+      "reference": "Ne 12:18"
+    },
+    "19": {
+      "text": "família de Joiarib: Matanai; família de Jedaías: Ozi;",
+      "reference": "Ne 12:19"
+    },
+    "20": {
+      "text": "família de Selai: Celai; família de Amoc: Héber;",
+      "reference": "Ne 12:20"
+    },
+    "21": {
+      "text": "família de Helcias: Hasabias; família de Zedaías: Natanael; \\par",
+      "reference": "Ne 12:21"
+    },
+    "22": {
+      "text": "No tempo de Eliasib, de Joiada, de Joanã e de Jedua, os chefes das famílias dos sacerdotes foram inscritos no Livro das Crônicas até o reinado de Dario, o persa. \\par",
+      "reference": "Ne 12:22"
+    },
+    "23": {
+      "text": "Os filhos de Levi. \\par Os chefes das famílias foram inscritos no Livro das Crônicas, mas só até o tempo de Joanã, neto de Eliasib. \\par",
+      "reference": "Ne 12:23"
+    },
+    "24": {
+      "text": "Os chefes dos levitas eram: Hasabias, Serebias, Josué, Benui, Cadmiel; e seus irmãos que ficavam defronte deles para executarem os hinos de louvor e de ações de graças segundo as instruções de Davi, homem de Deus, um grupo alternando com outro grupo,",
+      "reference": "Ne 12:24"
+    },
+    "25": {
+      "text": "eram: Matanias, Becbecias e Abdias. Mosolam, Telmon e Acub eram porteiros e montavam a guarda nos armazéns perto das portas. \\par",
+      "reference": "Ne 12:25"
+    },
+    "26": {
+      "text": "Esses viviam no tempo de Joaquim, filho de Josué, filho de Josedec, e no tempo de Neemias, o governador, e de Esdras, o sacerdote-escriba. \\par",
+      "reference": "Ne 12:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Dedicação da muralha de Jerusalém\\par }Por ocasião da dedicação da muralha de Jerusalém, convocaram-se os levitas de todos os lugares onde residiam para virem a Jerusalém, a fim de celebrarem a dedicação alegremente, com cânticos de ação de graças ao som de címbalos, cítaras e harpas.",
+      "reference": "Ne 12:27"
+    },
+    "28": {
+      "text": "Os cantões, filhos de Levi, reuniram-se, pois, do distrito que circunda Jerusalém, das cidades dos netofatitas,",
+      "reference": "Ne 12:28"
+    },
+    "29": {
+      "text": "de Bet-Guilgal, dos campos de Gaba e de Azmot: pois os cantores tinham construído aldeias em torno de Jerusalém.",
+      "reference": "Ne 12:29"
+    },
+    "30": {
+      "text": "Sacerdotes e levitas se purificaram e, depois, purificaram o povo, as portas e a muralha. \\par",
+      "reference": "Ne 12:30"
+    },
+    "31": {
+      "text": "Mandei então que subissem à muralha os chefes de Judá e organizei dois grandes coros. O primeiro caminhava no alto da muralha, para a direita, em direção da porta do Esterco;",
+      "reference": "Ne 12:31"
+    },
+    "32": {
+      "text": "atrás dele iam Osaías e a metade dos chefes de Judá –",
+      "reference": "Ne 12:32"
+    },
+    "33": {
+      "text": "como também Azarias, Esdras, Mosolam,",
+      "reference": "Ne 12:33"
+    },
+    "34": {
+      "text": "Judá, Benjamim, Semeías e Jeremias,",
+      "reference": "Ne 12:34"
+    },
+    "35": {
+      "text": "escolhidos dentre os sacerdotes e levando trombetas; depois Zacarias, filho de Jônatas, filho de Semeías, filho de Matanias, filho de Micas, filho de Zacur, filho de Asaf,",
+      "reference": "Ne 12:35"
+    },
+    "36": {
+      "text": "com seus irmãos Semeías, Azareel, Malalai, Galalai, Maai, Natanael, Judá, Hanani, com instrumentos musicais de Davi, homem de Deus. E Esdras, o escriba, ia na frente deles. –",
+      "reference": "Ne 12:36"
+    },
+    "37": {
+      "text": "Chegando à porta da Fonte, subiram em linha reta diante deles pelas escadarias da Cidade de Davi, pelo alto da muralha, e pela subida do Palácio de Davi, até a porta das Águas, ao oriente. \\par",
+      "reference": "Ne 12:37"
+    },
+    "38": {
+      "text": "O segundo coro caminhava para a esquerda: eu o segui, com a outra metade dos chefes do povo, pelo alto da muralha, passando por cima da torre dos Fornos, até a muralha larga;",
+      "reference": "Ne 12:38"
+    },
+    "39": {
+      "text": "depois, passando por cima da porta de Efraim, da porta dos Peixes, da torre de Hananeel e da torre dos Cem, até a porta das Ovelhas; paramos na porta da Guarda. \\par",
+      "reference": "Ne 12:39"
+    },
+    "40": {
+      "text": "Depois os dois coros tomaram lugar no Templo de Deus. – Eu tinha comigo a metade dos magistrados",
+      "reference": "Ne 12:40"
+    },
+    "41": {
+      "text": "e também os sacerdotes Eliaquim, Maasias, Miniamin, Micas, Elioenai, Zacarias, Hananias, que levavam trombetas,",
+      "reference": "Ne 12:41"
+    },
+    "42": {
+      "text": "e também Maasias, Semeías, Eleazar, Ozi, Joanã, Melquias, Elam e Ezer. – Os cantores fizeram-se ouvir sob a direção de Jezraías.",
+      "reference": "Ne 12:42"
+    },
+    "43": {
+      "text": "Naquele dia, oferecemos importantes sacrifícios e o povo expandiu sua alegria: é que Deus lhe havia concedido grande motivo de alegria; também as mulheres e as crianças se alegraram. E a alegria de Jerusalém ouvia-se ao longe. \\par",
+      "reference": "Ne 12:43"
+    },
+    "44": {
+      "text": "\\par {\\qc\\b\\i Uma época ideal\\par }Naquele tempo, estabeleceram-se homens para guardar as salas destinadas às provisões, às contribuições, às primícias e aos dízimos; esses homens deveriam recolher, do território das cidades, as partes que a Lei reserva para os sacerdotes e os levitas. Pois Judá punha sua alegria nos sacerdotes e nos levitas em exercício.",
+      "reference": "Ne 12:44"
+    },
+    "45": {
+      "text": "Eram eles que executavam o serviço de seu Deus e o serviço das purificações – como também os cantores e os porteiros –, segundo as normas de Davi e de Salomão, seu filho.",
+      "reference": "Ne 12:45"
+    },
+    "46": {
+      "text": "Com efeito, desde os dias de Davi e de Asaf, desde muito tempo, havia um chefe de cantores e dos cânticos de louvor e de ação de graças a Deus.",
+      "reference": "Ne 12:46"
+    },
+    "47": {
+      "text": "Portanto, todo o Israel, no tempo de Zorobabel e no tempo de Neemias, servia aos cantores e aos porteiros as partes que lhes cabiam, segundo suas necessidades de cada dia. As oferendas sagradas eram entregues aos levitas e os levitas as entregavam aos filhos de Aarão. \\par",
+      "reference": "Ne 12:47"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 47
+}

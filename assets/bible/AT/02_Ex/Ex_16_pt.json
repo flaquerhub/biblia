@@ -1,0 +1,157 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O maná e as codornizes\\par }Partiram de Elim, e toda a comunidade dos filhos de Israel chegou ao deserto de Sin, situado entre Elim e o Sinai, no décimo quinto dia do segundo mês, depois que tinham saído do Egito.",
+      "reference": "Ex 16:1"
+    },
+    "2": {
+      "text": "Toda a comunidade dos filhos de Israel murmurou contra Moisés e Aarão no deserto.",
+      "reference": "Ex 16:2"
+    },
+    "3": {
+      "text": "Os filhos de Israel disseram-lhes: “Antes fôssemos mortos pela mão de Iahweh na terra do Egito, quando estávamos sentados junto à panela de carne e comíamos pão com fartura! Certamente nos trouxestes a este deserto para fazer toda esta multidão morrer de fome”. \\par",
+      "reference": "Ex 16:3"
+    },
+    "4": {
+      "text": "Iahweh disse a Moisés: “Eis que vos farei chover pão do céu; sairá o povo e colherá a porção de cada dia, a fim de que eu o ponha à prova para ver se anda ou não na minha lei.",
+      "reference": "Ex 16:4"
+    },
+    "5": {
+      "text": "Mas, no sexto dia, prepararão o que colherem, e será dois tantos do que colhem a cada dia”. \\par",
+      "reference": "Ex 16:5"
+    },
+    "6": {
+      "text": "Então Moisés e Aarão disseram a toda a comunidade dos filhos de Israel: “À tarde sabereis que foi Iahweh que vos fez sair da terra do Egito,",
+      "reference": "Ex 16:6"
+    },
+    "7": {
+      "text": "e, pela manhã, vereis a glória de Iahweh, porque Iahweh ouviu as vossas murmurações contra ele. Nós, porém, o que somos para que murmureis contra nós?”",
+      "reference": "Ex 16:7"
+    },
+    "8": {
+      "text": "E Moisés disse: “Iahweh vos dará esta tarde carne para comer, e pela manhã pão com fartura, pois ouviu a vossa murmuração contra ele. Porque nós, o que somos? Não são contra nós as vossas murmurações, e sim contra Iahweh”. \\par",
+      "reference": "Ex 16:8"
+    },
+    "9": {
+      "text": "Disse Moisés a Aarão: “Dize a toda a comunidade dos filhos de Israel: Aproximai-vos da presença de Iahweh, pois ouviu as vossas murmurações”.",
+      "reference": "Ex 16:9"
+    },
+    "10": {
+      "text": "Ora, quando Aarão falava a toda a comunidade dos filhos de Israel, olharam para o deserto, e eis que a glória de Iahweh apareceu na nuvem.",
+      "reference": "Ex 16:10"
+    },
+    "11": {
+      "text": "Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 16:11"
+    },
+    "12": {
+      "text": "“Eu ouvi as murmurações dos filhos de Israel; dize-lhes: Ao crepúsculo comereis carne, e pela manhã vos fartareis de pão; e sabereis que eu sou Iahweh vosso Deus”.",
+      "reference": "Ex 16:12"
+    },
+    "13": {
+      "text": "À tarde subiram codornizes e cobriram o acampamento; e pela manhã havia uma camada de orvalho ao redor do acampamento.",
+      "reference": "Ex 16:13"
+    },
+    "14": {
+      "text": "Quando se evaporou a camada de orvalho que caíra, apareceu na superfície do deserto uma coisa miúda, granulosa, fina como a geada sobre a terra.",
+      "reference": "Ex 16:14"
+    },
+    "15": {
+      "text": "Tendo visto isso, os filhos de Israel disseram entre si: “Que é isto?” Pois não sabiam o que era. Disse-lhes Moisés: “Isto é o pão que Iahweh vos deu para vosso alimento.",
+      "reference": "Ex 16:15"
+    },
+    "16": {
+      "text": "Eis que Iahweh vos ordena: Cada um colha dele quanto baste para comer, um gomor por pessoa. Cada um tomará segundo o número de pessoas que se acham na sua tenda”. \\par",
+      "reference": "Ex 16:16"
+    },
+    "17": {
+      "text": "E os filhos de Israel assim fizeram; e apanharam, uns mais outros menos.",
+      "reference": "Ex 16:17"
+    },
+    "18": {
+      "text": "Quando mediram um gomor, nem aquele que tinha juntado mais tinha maior quantidade, nem aquele que tinha colhido menos encontrou menos: cada um tinha apanhado o quanto podia comer. \\par",
+      "reference": "Ex 16:18"
+    },
+    "19": {
+      "text": "Moisés disse-lhes: “Ninguém guarde para a manhã seguinte”.",
+      "reference": "Ex 16:19"
+    },
+    "20": {
+      "text": "Mas eles não deram ouvidos a Moisés, e alguns guardaram para o dia seguinte; porém deu vermes e cheirava mal. E Moisés indignou-se contra eles.",
+      "reference": "Ex 16:20"
+    },
+    "21": {
+      "text": "Colhiam-no pois, manhã após manhã, cada um o quanto podia comer e quando o sol fazia sentir o seu ardor, se derretia. \\par",
+      "reference": "Ex 16:21"
+    },
+    "22": {
+      "text": "Ora, no sexto dia colheram pão em dobro, dois gomores por pessoa; e todos os chefes de comunidade foram comunicá-lo a Moisés.",
+      "reference": "Ex 16:22"
+    },
+    "23": {
+      "text": "Ele lhes disse: “Eis o que disse Iahweh: Amanhã é repouso completo, um santo sábado para Iahweh. Cozei o que quiserdes cozer, e fervei o que quiserdes ferver, e o que sobrar, guardai-o de reserva para a manhã seguinte”.",
+      "reference": "Ex 16:23"
+    },
+    "24": {
+      "text": "Fizeram a reserva até a manhã seguinte, como Moisés ordenara; e não cheirou mal e nem deu vermes.",
+      "reference": "Ex 16:24"
+    },
+    "25": {
+      "text": "Então disse Moisés: “Comei-o hoje, porque este dia é um sábado para Iahweh; hoje não o encontrareis nos campos.",
+      "reference": "Ex 16:25"
+    },
+    "26": {
+      "text": "Durante seis dias o recolhereis, mas no sétimo dia, no sábado, não o haverá”.",
+      "reference": "Ex 16:26"
+    },
+    "27": {
+      "text": "No sétimo dia saíram alguns do povo para colhê-lo, porém não o acharam.",
+      "reference": "Ex 16:27"
+    },
+    "28": {
+      "text": "Iahweh disse a Moisés: “Até quando recusareis guardar meus mandamentos e minhas leis?",
+      "reference": "Ex 16:28"
+    },
+    "29": {
+      "text": "Considerai que Iahweh vos deu o sábado, e que por isso vos dará ao sexto dia pão por dois dias. Cada um fique onde está, ninguém saia do seu lugar no sétimo dia”.",
+      "reference": "Ex 16:29"
+    },
+    "30": {
+      "text": "E o povo descansou no sétimo dia. \\par",
+      "reference": "Ex 16:30"
+    },
+    "31": {
+      "text": "A casa de Israel deu-lhe o nome de maná. Era como a semente de coentro, branco, e o seu sabor como bolo de mel. \\par",
+      "reference": "Ex 16:31"
+    },
+    "32": {
+      "text": "Disse Moisés: “Eis o que Iahweh ordenou: Dele enchereis um gomor e o guardareis para as vossas gerações, para que vejam o pão com que vos alimentei no deserto, quando vos fiz sair do país do Egito”.",
+      "reference": "Ex 16:32"
+    },
+    "33": {
+      "text": "Moisés disse a Aarão: “Toma um vaso, põe nele um gomor cheio de maná e coloca-o diante de Iahweh, a fim de conservá-lo para as vossas gerações”.",
+      "reference": "Ex 16:33"
+    },
+    "34": {
+      "text": "Como Iahweh havia ordenado a Moisés, Aarão o colocou diante do Testemunho para ser conservado. \\par",
+      "reference": "Ex 16:34"
+    },
+    "35": {
+      "text": "Os filhos de Israel comeram maná durante quarenta anos, até chegarem à terra habitada; comeram maná até chegarem aos confins do país de Canaã.",
+      "reference": "Ex 16:35"
+    },
+    "36": {
+      "text": "O gomor é a décima parte do efá. \\par",
+      "reference": "Ex 16:36"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 36
+}

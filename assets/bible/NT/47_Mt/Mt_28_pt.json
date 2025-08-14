@@ -1,0 +1,93 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O túmulo vazio. A mensagem do Anjo\\par }Após o sábado, ao raiar do primeiro dia da semana, Maria Madalena e a outra Maria vieram ver o sepulcro.",
+      "reference": "Mt 28:1"
+    },
+    "2": {
+      "text": "E eis que houve um grande terremoto: pois o Anjo do Senhor, descendo do céu e aproximando-se, removeu a pedra e sentou-se sobre ela.",
+      "reference": "Mt 28:2"
+    },
+    "3": {
+      "text": "O seu aspecto era como o do relâmpago e a sua roupa, alva como a neve.",
+      "reference": "Mt 28:3"
+    },
+    "4": {
+      "text": "Os guardas tremeram de medo dele e ficaram como mortos.",
+      "reference": "Mt 28:4"
+    },
+    "5": {
+      "text": "Mas o Anjo, dirigindo-se às mulheres, disse-lhes: “Não temais! Sei que estais procurando Jesus, o crucificado.",
+      "reference": "Mt 28:5"
+    },
+    "6": {
+      "text": "Ele não está aqui, pois ressuscitou, conforme havia dito. Vinde ver o lugar onde ele jazia.",
+      "reference": "Mt 28:6"
+    },
+    "7": {
+      "text": "Ide já contar aos discípulos que ele ressuscitou dos mortos, e que ele vos precede na Galiléia. Ali o vereis. Vede bem, eu vo-lo disse!”",
+      "reference": "Mt 28:7"
+    },
+    "8": {
+      "text": "Elas, partindo depressa do túmulo, com medo e grande alegria, correram a anunciá-lo aos seus discípulos. \\par",
+      "reference": "Mt 28:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i A aparição às santas mulheres\\par }E eis que Jesus veio ao seu encontro e lhes disse: “Alegrai-vos”. Elas, aproximando-se, abraçaram-lhe os pés, prostrando-se diante dele.",
+      "reference": "Mt 28:9"
+    },
+    "10": {
+      "text": "Então Jesus disse: “Não temais! Ide anunciar a meus irmãos que se dirijam para a Galiléia; lá me verão”. \\par",
+      "reference": "Mt 28:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A astúcia dos chefes judaicos\\par }Enquanto elas iam, eis que alguns da guarda foram à cidade e anunciaram aos chefes dos sacerdotes tudo o que acontecera.",
+      "reference": "Mt 28:11"
+    },
+    "12": {
+      "text": "Estes, depois de se reunirem com os anciãos e deliberarem com eles, deram aos soldados uma vultosa quantia de dinheiro,",
+      "reference": "Mt 28:12"
+    },
+    "13": {
+      "text": "recomendando: “Dizei que os seus discípulos vieram de noite, enquanto dormíeis, e o roubaram.",
+      "reference": "Mt 28:13"
+    },
+    "14": {
+      "text": "Se isso chegar aos ouvidos do governador, nós o convenceremos e vos deixaremos sem complicação”.",
+      "reference": "Mt 28:14"
+    },
+    "15": {
+      "text": "Eles pegaram o dinheiro e agiram de acordo com as instruções recebidas. E espalhou-se essa história entre os judeus até o dia de hoje. \\par",
+      "reference": "Mt 28:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i A aparição de Jesus na Galiléia e a missão universal\\par }Os onze discípulos caminharam para a Galiléia, à montanha que Jesus lhes determinara.",
+      "reference": "Mt 28:16"
+    },
+    "17": {
+      "text": "Ao vê-lo, prostraram-se diante dele. Alguns, porém, duvidaram.",
+      "reference": "Mt 28:17"
+    },
+    "18": {
+      "text": "Jesus, aproximando-se deles, falou: “Toda a autoridade sobre o céu e sobre a terra me foi entregue.",
+      "reference": "Mt 28:18"
+    },
+    "19": {
+      "text": "Ide, portanto, e fazei que todas as nações se tornem discípulos, batizando-as em nome do Pai, do Filho e do Espírito Santo",
+      "reference": "Mt 28:19"
+    },
+    "20": {
+      "text": "e ensinando-as a observar tudo quanto vos ordenei. E eis que eu estou convosco todos os dias, até a consumação dos séculos!” \\par",
+      "reference": "Mt 28:20"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 20
+}

@@ -1,0 +1,101 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 48,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Iahweh tinha predito tudo\\par }Ouvi isto vós, casa de Jacó, \\par vós que sois chamados pelo nome de Israel \\par que brotastes das águas de Judá, \\par que jurais pelo nome de Iahweh, \\par que invocais o Deus de Israel, \\par mas não com fidelidade e com justiça. \\par",
+      "reference": "Is 48:1"
+    },
+    "2": {
+      "text": "Com efeito, o seu nome, eles o derivam da cidade santa, \\par apóiam-se sobre o Deus de Israel \\par – Iahweh dos Exércitos é o seu nome –. \\par",
+      "reference": "Is 48:2"
+    },
+    "3": {
+      "text": "As coisas antigas, proclamei-as há muito tempo; \\par elas saíram da minha boca, eu as proclamei, \\par de repente passei à ação e elas se realizaram. \\par",
+      "reference": "Is 48:3"
+    },
+    "4": {
+      "text": "Porque eu sabia que tu és obstinado, \\par que o músculo do teu pescoço é de ferro, \\par e que a tua testa é de bronze. \\par",
+      "reference": "Is 48:4"
+    },
+    "5": {
+      "text": "Eu to anunciei há muito, \\par proclamei-o antes que acontecesse, \\par para que não dissesses: \\par “O meu ídolo fez estas coisas, \\par a minha imagem esculpida ou a minha imagem fundida o determinaram”. \\par",
+      "reference": "Is 48:5"
+    },
+    "6": {
+      "text": "Ouviste e viste tudo isto, \\par e vós, não haveis de anunciá-lo? \\par Desde agora te faço ouvir coisas novas, \\par coisas ocultas, que não conhecias. \\par",
+      "reference": "Is 48:6"
+    },
+    "7": {
+      "text": "Foram criadas agora, e não em tempos antigos, \\par até o dia de hoje nada tinhas ouvido a respeito delas, \\par para que não dissesses: “Ora, isto eu já sabia”. \\par",
+      "reference": "Is 48:7"
+    },
+    "8": {
+      "text": "Mas tu não só não tinhas ouvido; antes, também não o sabias; \\par há muito que os teus ouvidos não estavam atentos. \\par Com efeito, eu sabia que agias com muita perfídia \\par e que desde o berço te chamavam rebelde. \\par",
+      "reference": "Is 48:8"
+    },
+    "9": {
+      "text": "Mas por causa do meu nome retardo a minha ira, \\par por causa da minha honra procuro conter-me, \\par a fim de não exterminar-te. \\par",
+      "reference": "Is 48:9"
+    },
+    "10": {
+      "text": "Vê que te comprei, mas não por dinheiro, \\par escolhi-te quando estavas no cadinho da aflição. \\par",
+      "reference": "Is 48:10"
+    },
+    "11": {
+      "text": "Por causa de mim mesmo, só de mim mesmo, é que vou agir; \\par com efeito, como haveria de ser profanado o meu nome? \\par A minha glória, não a darei a outrem. \\par",
+      "reference": "Is 48:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Iahweh escolheu Ciro\\par }Ouve-me, Jacó, Israel, a quem chamei, \\par eu sou; sou o primeiro \\par e sou também o último. \\par",
+      "reference": "Is 48:12"
+    },
+    "13": {
+      "text": "A minha mão fundou a terra, \\par a minha destra estendeu os céus; \\par eu chamo-os \\par e todos juntos se apresentam. \\par",
+      "reference": "Is 48:13"
+    },
+    "14": {
+      "text": "Reuni-vos todos e ouvi: \\par quem dentre vós anunciou estas coisas? \\par Iahweh o ama; ele realizará aquilo que lhe apraz \\par a respeito da Babilônia e da raça dos caldeus. \\par",
+      "reference": "Is 48:14"
+    },
+    "15": {
+      "text": "Eu, eu é que lhe falei, sim, eu o chamei, \\par eu o trouxe; eis por que o seu empreendimento se cobrirá de êxito. \\par",
+      "reference": "Is 48:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i O destino de Israel\\par }Chegai-vos a mim e ouvi isto: \\par desde o princípio não vos falei às escondidas, \\par quando estas coisas aconteceram eu estava lá, \\par e agora o Senhor Iahweh me enviou com o seu espírito. \\par",
+      "reference": "Is 48:16"
+    },
+    "17": {
+      "text": "Assim diz Iahweh, o teu redentor, o Santo de Israel: \\par Eu sou Iahweh teu Deus, aquele que te ensina para o teu bem, \\par aquele que te conduz pelo caminho que deves trilhar. \\par",
+      "reference": "Is 48:17"
+    },
+    "18": {
+      "text": "Se ao menos tivesses dado ouvidos aos meus mandamentos! \\par Então a tua paz seria como um rio \\par e a tua justiça como as ondas do mar. \\par",
+      "reference": "Is 48:18"
+    },
+    "19": {
+      "text": "A tua raça seria como a areia; \\par os que saíram das tuas entranhas, como os seus grãos! \\par O seu nome não seria cortado nem extirpado diante de mim. \\par",
+      "reference": "Is 48:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i O fim do Exílio\\par }Saí da Babilônia, fugi dentre os caldeus, \\par com voz de júbilo anunciai, proclamai isto, \\par espalhai-o até os confins da terra. \\par Dizei: Iahweh redimiu o seu servo Jacó. \\par",
+      "reference": "Is 48:20"
+    },
+    "21": {
+      "text": "Eles não tiveram sede quando os conduziu pelo deserto, \\par porque ele fez brotar água da rocha para seu uso, \\par fendeu a rocha e a água jorrou. \\par",
+      "reference": "Is 48:21"
+    },
+    "22": {
+      "text": "Mas para os maus não há paz, diz Iahweh. \\par",
+      "reference": "Is 48:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

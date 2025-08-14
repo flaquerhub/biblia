@@ -1,0 +1,73 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 48,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 48 (47)\\par }{\\qc\\b\\i Sião, a montanha de Deus\\par }{\\qc\\i Cântico. Salmo. Dos filhos de Coré.\\par }",
+      "reference": "Sl 48:1"
+    },
+    "2": {
+      "text": "Iahweh é grande e muito louvável \\par na cidade do nosso Deus, \\par a montanha sagrada,",
+      "reference": "Sl 48:2"
+    },
+    "3": {
+      "text": "bela em altura, \\par alegria da terra toda; \\par o monte Sião, no longínquo Norte, \\par cidade do grande rei: \\par",
+      "reference": "Sl 48:3"
+    },
+    "4": {
+      "text": "entre seus palácios, Deus \\par se mostrou como fortaleza. \\par",
+      "reference": "Sl 48:4"
+    },
+    "5": {
+      "text": "Eis que os reis tinham-se aliado \\par e juntos avançavam; \\par",
+      "reference": "Sl 48:5"
+    },
+    "6": {
+      "text": "mas viram e logo se aterraram, \\par e, apavorados, debandaram às pressas. \\par",
+      "reference": "Sl 48:6"
+    },
+    "7": {
+      "text": "Ali apossou-se deles um tremor \\par como espasmo de parturiente, \\par",
+      "reference": "Sl 48:7"
+    },
+    "8": {
+      "text": "como o vento leste \\par destroçando os navios de Társis. \\par",
+      "reference": "Sl 48:8"
+    },
+    "9": {
+      "text": "Conforme ouvimos, assim vimos também \\par na cidade de Iahweh dos Exércitos, \\par na cidade do nosso Deus. \\par Deus firmou-a para sempre! {\\i Pausa} \\par",
+      "reference": "Sl 48:9"
+    },
+    "10": {
+      "text": "Ó Deus, nós meditamos teu amor \\par no meio do teu Templo! \\par",
+      "reference": "Sl 48:10"
+    },
+    "11": {
+      "text": "Como teu nome, ó Deus, também teu louvor \\par atinge os limites da terra! \\par Tua direita está cheia de justiça: \\par",
+      "reference": "Sl 48:11"
+    },
+    "12": {
+      "text": "alegra-se o monte Sião \\par e as filhas de Judá exultam, \\par por causa dos teus julgamentos. \\par",
+      "reference": "Sl 48:12"
+    },
+    "13": {
+      "text": "Rodeai Sião, percorrei-a, \\par enumerai suas torres; \\par",
+      "reference": "Sl 48:13"
+    },
+    "14": {
+      "text": "colocai os corações em seus muros, \\par explorai seus palácios; \\par para contar à geração futura \\par",
+      "reference": "Sl 48:14"
+    },
+    "15": {
+      "text": "que este Deus \\par é o nosso Deus para sempre! \\par É ele quem nos conduz! \\par",
+      "reference": "Sl 48:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

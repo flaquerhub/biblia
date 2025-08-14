@@ -1,0 +1,105 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A desconfiança frente à estrangeira e os verdadeiros amores do sábio\\par }Meu filho, presta atenção à minha sabedoria, \\par dá ouvidos ao meu entendimento: \\par",
+      "reference": "Pv 5:1"
+    },
+    "2": {
+      "text": "assim conservarás a reflexão \\par e os teus lábios guardarão o conhecimento. \\par Não dês atenção à mulher perversa. \\par",
+      "reference": "Pv 5:2"
+    },
+    "3": {
+      "text": "Os lábios da estrangeira destilam mel, \\par e o seu paladar é mais suave do que o azeite. \\par",
+      "reference": "Pv 5:3"
+    },
+    "4": {
+      "text": "No final, porém, é amarga como o absinto, \\par e afiada como uma espada de dois gumes. \\par",
+      "reference": "Pv 5:4"
+    },
+    "5": {
+      "text": "Os seus pés levam para a Morte, \\par e os seus passos descem para o Xeol. \\par",
+      "reference": "Pv 5:5"
+    },
+    "6": {
+      "text": "Não segue o caminho da vida, \\par e seus trilhos se extraviam sem que perceba. \\par",
+      "reference": "Pv 5:6"
+    },
+    "7": {
+      "text": "E agora, ó filhos, escutai-me. \\par Não vos afasteis de minhas sentenças. \\par",
+      "reference": "Pv 5:7"
+    },
+    "8": {
+      "text": "Afasta dela o teu caminho, \\par não te aproximes da porta de sua casa, \\par",
+      "reference": "Pv 5:8"
+    },
+    "9": {
+      "text": "para que ela não dê a outros a tua dignidade, \\par nem os teus anos à gente implacável. \\par",
+      "reference": "Pv 5:9"
+    },
+    "10": {
+      "text": "Não se fartem com o teu vigor os estranhos, \\par e com os teus suores a casa do desconhecido. \\par",
+      "reference": "Pv 5:10"
+    },
+    "11": {
+      "text": "Gemerás quando chegar o desenlace \\par e consumir a carne do teu corpo. \\par",
+      "reference": "Pv 5:11"
+    },
+    "12": {
+      "text": "Então dirás: “Por que odiei a disciplina \\par e meu coração recusou a exortação? \\par",
+      "reference": "Pv 5:12"
+    },
+    "13": {
+      "text": "Por que não dei atenção aos meus mestres, \\par nem dei ouvido aos meus educadores? \\par",
+      "reference": "Pv 5:13"
+    },
+    "14": {
+      "text": "Por pouco cheguei ao cúmulo da desgraça, \\par no meio da assembléia e da comunidade”. \\par",
+      "reference": "Pv 5:14"
+    },
+    "15": {
+      "text": "Bebe a água da tua cisterna, \\par a água que jorra do teu poço. \\par",
+      "reference": "Pv 5:15"
+    },
+    "16": {
+      "text": "Não derrames pela rua o teu manancial, \\par nem os seus ribeiros pelas praças. \\par",
+      "reference": "Pv 5:16"
+    },
+    "17": {
+      "text": "Sejam para ti somente, \\par sem reparti-los com estrangeiros. \\par",
+      "reference": "Pv 5:17"
+    },
+    "18": {
+      "text": "Bendita seja a tua fonte, \\par goza com a esposa a tua juventude: \\par",
+      "reference": "Pv 5:18"
+    },
+    "19": {
+      "text": "cerva querida, gazela formosa; \\par que te embriaguem sempre as suas carícias, \\par e o seu amor te satisfaça sem cessar! \\par",
+      "reference": "Pv 5:19"
+    },
+    "20": {
+      "text": "Meu filho, por que errar com uma estranha? \\par Por que abraçar os seios de uma desconhecida? \\par",
+      "reference": "Pv 5:20"
+    },
+    "21": {
+      "text": "Pois os olhos de Iahweh observam os caminhos do homem \\par e vigiam todos os seus trilhos. \\par",
+      "reference": "Pv 5:21"
+    },
+    "22": {
+      "text": "O ímpio é preso por suas próprias culpas, \\par e é apanhado pelos laços do pecado. \\par",
+      "reference": "Pv 5:22"
+    },
+    "23": {
+      "text": "Ele morre por falta de disciplina, \\par e perece por sua grande estultícia! \\par",
+      "reference": "Pv 5:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

@@ -1,0 +1,73 @@
+{
+  "book": 47,
+  "book_name": "2Coríntios",
+  "book_abbr": "2Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Corinthians",
+  "testament": "NT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "A propósito do serviço a ser prestado aos santos, é inútil que vos escreva.",
+      "reference": "2Co 9:1"
+    },
+    "2": {
+      "text": "Conheço a vossa boa vontade e por causa dela me ufano de vós junto aos macedônios, dizendo-lhes: “A Acaia está preparada desde o ano passado”. E o vosso zelo tem servido de estímulo à maioria das Igrejas.",
+      "reference": "2Co 9:2"
+    },
+    "3": {
+      "text": "Entretanto, mando-vos os irmãos, a fim de que o elogio que de vós fiz não seja desmentido neste ponto e para que, como dizia, estejais realmente preparados.",
+      "reference": "2Co 9:3"
+    },
+    "4": {
+      "text": "Se alguns macedônios fossem comigo e não vos encontrassem preparados, essa plena confiança seria motivo de nos envergonharmos – para não dizer: de vos envergonhardes.",
+      "reference": "2Co 9:4"
+    },
+    "5": {
+      "text": "Julguei, pois, necessário pedir aos irmãos que nos antecedessem junto a vós e organizassem as vossas ofertas já prometidas: estas, uma vez recolhidas, seriam um sinal de genuína liberalidade e não uma demonstração de avareza. \\par",
+      "reference": "2Co 9:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Benefícios que resultarão da coleta\\par }Sabei que quem semeia com parcimônia, com parcimônia também colherá, e quem semeia com largueza, com largueza também colherá. \\par",
+      "reference": "2Co 9:6"
+    },
+    "7": {
+      "text": "Cada um dê como dispôs em seu coração, sem pena nem constrangimento, pois {\\i Deus} ama {\\i a quem dá com alegria.}",
+      "reference": "2Co 9:7"
+    },
+    "8": {
+      "text": "Deus pode cumular-vos de toda espécie de graças, para que tenhais sempre e em tudo o necessário e vos fique algo de excedente para toda obra boa,",
+      "reference": "2Co 9:8"
+    },
+    "9": {
+      "text": "conforme está escrito: \\par {\\i Distribuiu, deu aos pobres. \\par A sua justiça permanece para sempre.}\\par",
+      "reference": "2Co 9:9"
+    },
+    "10": {
+      "text": "Aquele que fornece {\\i semente ao semeador e pão para o alimento} vos fornecerá também a semente e a multiplicará, e fará crescer {\\i os frutos da vossa justiça.}",
+      "reference": "2Co 9:10"
+    },
+    "11": {
+      "text": "Sereis enriquecidos de todos os modos, para praticar toda espécie de obras de generosidade, que suscitarão a ação de graças a Deus por nosso intermédio.",
+      "reference": "2Co 9:11"
+    },
+    "12": {
+      "text": "Pois o serviço desta coleta não deve apenas satisfazer às necessidades dos santos, mas há de ser ocasião de efusivas ações de graças a Deus.",
+      "reference": "2Co 9:12"
+    },
+    "13": {
+      "text": "Vista a vossa comprovada virtude exercida nesse serviço, eles darão glória a Deus pela obediência que professais em relação ao evangelho de Cristo, e pela generosidade com que a eles e a todos fazeis participar dos vossos bens.",
+      "reference": "2Co 9:13"
+    },
+    "14": {
+      "text": "E, orando por vós, eles vos manifestarão a sua ternura, por causa da extraordinária graça que Deus vos concedeu.",
+      "reference": "2Co 9:14"
+    },
+    "15": {
+      "text": "Graças sejam tributadas a Deus por seu dom inefável! \\par",
+      "reference": "2Co 9:15"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 15
+}

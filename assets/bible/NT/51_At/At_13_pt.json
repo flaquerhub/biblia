@@ -1,0 +1,221 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. Missão de Barnabé e de Paulo. \\par O Concílio de Jerusalém }\\par }{\\qc\\b\\i O envio em missão\\par }Havia em Antioquia, na Igreja local, profetas e doutores: Barnabé, Simeão cognominado Níger, Lúcio de Cirene, e ainda Manaém, companheiro de infância do tetrarca Herodes, e Saulo.",
+      "reference": "At 13:1"
+    },
+    "2": {
+      "text": "Celebrando eles a liturgia em honra do Senhor e jejuando, disse-lhes o Espírito Santo: “Separai para mim Barnabé e Saulo, para a obra à qual os destinei”.",
+      "reference": "At 13:2"
+    },
+    "3": {
+      "text": "Então, depois de terem jejuado e orado, impuseram-lhes as mãos e despediram-nos.\\par",
+      "reference": "At 13:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Em Chipre. O mago Elimas.\\par }Enviados, pois, pelo Espírito Santo, eles desceram até Selêucia, de onde navegaram para Chipre.",
+      "reference": "At 13:4"
+    },
+    "5": {
+      "text": "Chegados a Salamina, puseram-se a anunciar a palavra de Deus nas sinagogas dos judeus. Tinham também João como auxiliar. \\par",
+      "reference": "At 13:5"
+    },
+    "6": {
+      "text": "Tendo atravessado toda a ilha até Pafos, aí encontraram um mago, falso profeta, que era judeu e se chamava Bar-Jesus.",
+      "reference": "At 13:6"
+    },
+    "7": {
+      "text": "Ele estava com o procônsul Sérgio Paulo, homem prudente, o qual mandara chamar Barnabé e Saulo, desejoso de ouvir a palavra de Deus.",
+      "reference": "At 13:7"
+    },
+    "8": {
+      "text": "Elimas, porém, o mago – assim se traduz o seu nome – começou a opor-se a eles, procurando afastar o procônsul da fé.",
+      "reference": "At 13:8"
+    },
+    "9": {
+      "text": "Então Saulo, que também se chamava Paulo, repleto do Espírito Santo, fixando nele os olhos,",
+      "reference": "At 13:9"
+    },
+    "10": {
+      "text": "disse: “Homem cheio de toda a falsidade e de toda a malícia, filho do diabo e inimigo de toda a justiça, não cessarás de perverter os caminhos do Senhor, que são retos?",
+      "reference": "At 13:10"
+    },
+    "11": {
+      "text": "Pois agora, a mão do Senhor está sobre ti: ficarás cego, e por um tempo não verás mais o sol!” No mesmo instante, escuridão e trevas caíram sobre ele, de tal sorte que, andando à roda, procurava quem o levasse pela mão.",
+      "reference": "At 13:11"
+    },
+    "12": {
+      "text": "Então, vendo o que acontecera, o procônsul abraçou a fé, maravilhado com a doutrina do Senhor. \\par",
+      "reference": "At 13:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Chegada a Antioquia da Pisídia\\par }De Pafos, onde embarcaram, Paulo e seus companheiros alcançaram Perge, na Panfília. Quanto a João, separando-se deles, voltou para Jerusalém.",
+      "reference": "At 13:13"
+    },
+    "14": {
+      "text": "Eles, porém, penetrando além de Perge, chegaram a Antioquia da Pisídia. Lá, entrando na sinagoga em dia de sábado, sentaram-se.",
+      "reference": "At 13:14"
+    },
+    "15": {
+      "text": "Depois da leitura da Lei e dos Profetas, mandaram dizer-lhes os chefes da sinagoga: “Irmãos, se tendes alguma palavra de exortação ao povo, falai”.",
+      "reference": "At 13:15"
+    },
+    "16": {
+      "text": "Então, levantando-se, Paulo fez sinal com a mão, e disse:\\par \\par {\\qc\\b\\i Pregação de Paulo diante dos judeus\\par } “Homens de Israel, e vós que temeis a Deus, escutai!",
+      "reference": "At 13:16"
+    },
+    "17": {
+      "text": "O Deus deste povo, o Deus de Israel, escolheu nossos pais e exaltou o povo em seu exílio na terra do Egito. Depois, erguendo seu braço, fê-los sair de lá",
+      "reference": "At 13:17"
+    },
+    "18": {
+      "text": "e, durante quarenta anos aproximadamente, cercou-os de cuidados no deserto.",
+      "reference": "At 13:18"
+    },
+    "19": {
+      "text": "Depois, havendo exterminado sete nações na terra de Canaã, deu-lhes em herança essa terra.",
+      "reference": "At 13:19"
+    },
+    "20": {
+      "text": "Isto, durante cerca de quatrocentos e cinqüenta anos. Depois disto concedeu-lhes juízes, até o profeta Samuel.",
+      "reference": "At 13:20"
+    },
+    "21": {
+      "text": "A seguir pediram um rei, e Deus lhes concedeu Saul filho de Cis, da tribo de Benjamim, por quarenta anos.",
+      "reference": "At 13:21"
+    },
+    "22": {
+      "text": "Removido este, suscitou-lhes Davi como rei, e dele deu este testemunho: {\\i Encontrei Davi}, filho de Jessé, {\\i homem segundo o meu coração que em tudo fará a minha vontade.}",
+      "reference": "At 13:22"
+    },
+    "23": {
+      "text": "Da sua descendência, conforme a promessa, Deus fez surgir a Israel um Salvador, que é Jesus.",
+      "reference": "At 13:23"
+    },
+    "24": {
+      "text": "Antes da sua entrada, João proclamara com antecedência, a todo o povo de Israel, um batismo de arrependimento.",
+      "reference": "At 13:24"
+    },
+    "25": {
+      "text": "E, estando para terminar sua carreira, ele dizia: ‘Quem suspeitais que eu seja, não o sou! Mas aí vem, depois de mim, aquele de quem não sou digno de desatar a sandália’. \\par",
+      "reference": "At 13:25"
+    },
+    "26": {
+      "text": "Irmãos, filhos da raça de Abraão, e vós aqui presentes, que temeis a Deus! A vós foi enviada esta palavra de salvação.",
+      "reference": "At 13:26"
+    },
+    "27": {
+      "text": "Pois os habitantes de Jerusalém e seus chefes cumpriram, sem o saber, as palavras dos profetas, que a cada sábado são lidas.",
+      "reference": "At 13:27"
+    },
+    "28": {
+      "text": "Sem encontrar nele motivo algum de morte, condenaram-no e pediram a Pilatos que o mandasse matar.",
+      "reference": "At 13:28"
+    },
+    "29": {
+      "text": "Quando, pois, cumpriram tudo o que estava escrito a seu respeito, retiraram-no do madeiro e o depuseram num túmulo.",
+      "reference": "At 13:29"
+    },
+    "30": {
+      "text": "Mas Deus o ressuscitou dentre os mortos,",
+      "reference": "At 13:30"
+    },
+    "31": {
+      "text": "e por muitos dias apareceu aos que com ele tinham subido da Galiléia para Jerusalém, os quais são agora suas testemunhas diante do povo. \\par",
+      "reference": "At 13:31"
+    },
+    "32": {
+      "text": "Quanto a nós, anunciamo-vos a Boa Nova: a promessa, feita a nossos pais,",
+      "reference": "At 13:32"
+    },
+    "33": {
+      "text": "Deus a realizou plenamente para nós, seus filhos, ressuscitando Jesus, como também está escrito nos Salmos: {\\i Tu és o meu filho, eu hoje te gerei.}",
+      "reference": "At 13:33"
+    },
+    "34": {
+      "text": "E que o tenha ressuscitado dentre os mortos e ele não deva tornar à corrupção, assim já o dissera: {\\i Eu vos darei as coisas santas de Davi, aquelas que são dignas de fé.}",
+      "reference": "At 13:34"
+    },
+    "35": {
+      "text": "Por isso diz, noutra passagem: {\\i Não deixarás o teu Santo experimentar a corrupção.}",
+      "reference": "At 13:35"
+    },
+    "36": {
+      "text": "Ora, tendo a seu tempo servido aos desígnios de Deus, Davi morreu. E foi reunir-se a seus pais e {\\i experimentou a corrupção.}",
+      "reference": "At 13:36"
+    },
+    "37": {
+      "text": "Aquele, porém, a quem Deus ressuscitou, {\\i não experimentou a corrupção.}",
+      "reference": "At 13:37"
+    },
+    "38": {
+      "text": "Ficai sabendo, pois, irmãos: é por ele que vos é anunciada a remissão dos pecados. Com efeito, de todas as coisas das quais não pudestes obter a justificação pela lei de Moisés,",
+      "reference": "At 13:38"
+    },
+    "39": {
+      "text": "por ele é justificado todo aquele que crê. \\par",
+      "reference": "At 13:39"
+    },
+    "40": {
+      "text": "Vede, pois, que não vos sobrevenha o que está dito no livro dos Profetas: \\par",
+      "reference": "At 13:40"
+    },
+    "41": {
+      "text": "{\\i Olhai, desprezadores, maravilhai-vos e desaparecei! \\par Porque eu vou fazer, ainda em vossos dias, \\par uma obra tal que não acreditaríeis, se alguém vo-la narrasse!}” \\par",
+      "reference": "At 13:41"
+    },
+    "42": {
+      "text": "À saída, convidaram-nos a falar novamente sobre essas coisas no sábado seguinte.",
+      "reference": "At 13:42"
+    },
+    "43": {
+      "text": "Dissolvida a reunião da sinagoga, muitos dos judeus e dos prosélitos praticantes seguiram a Paulo e a Barnabé. E estes, entretendo-se com eles, persuadiram-nos a que perseverassem na graça de Deus. \\par",
+      "reference": "At 13:43"
+    },
+    "44": {
+      "text": "\\par {\\qc\\b\\i Paulo e Barnabé dirigem-se aos gentios\\par }No sábado seguinte, quase toda a cidade reuniu-se para ouvir a palavra de Deus.",
+      "reference": "At 13:44"
+    },
+    "45": {
+      "text": "Vendo as multidões, porém, os judeus encheram-se de inveja, e com blasfêmias contradiziam ao que Paulo falava.",
+      "reference": "At 13:45"
+    },
+    "46": {
+      "text": "Com toda a intrepidez, porém, Paulo e Barnabé disseram: “Era preciso que a vós primeiro fosse dirigida a palavra de Deus. Uma vez, porém, que a rejeitais e julgais a vós mesmos indignos da vida eterna, nós nos voltamos para os gentios.",
+      "reference": "At 13:46"
+    },
+    "47": {
+      "text": "Pois assim nos ordenou o Senhor: \\par {\\i Eu te estabeleci como luz das nações, \\par para que sejas portador de salvação até os confins da terra}”. \\par",
+      "reference": "At 13:47"
+    },
+    "48": {
+      "text": "Ouvindo isto, os gentios se alegravam e glorificavam a palavra do Senhor, e todos os que eram destinados à vida eterna abraçaram a fé.",
+      "reference": "At 13:48"
+    },
+    "49": {
+      "text": "Assim, a palavra do Senhor difundia-se por toda a região. \\par",
+      "reference": "At 13:49"
+    },
+    "50": {
+      "text": "Mas os judeus instigaram as mulheres religiosas de mais prestígio, bem como os principais da cidade, e moveram perseguição contra Paulo e Barnabé, expulsando-os de seu território.",
+      "reference": "At 13:50"
+    },
+    "51": {
+      "text": "Estes, porém, sacudindo a poeira dos pés contra eles, prosseguiram para Icônio.",
+      "reference": "At 13:51"
+    },
+    "52": {
+      "text": "Quanto aos discípulos, achavam-se repletos de alegria e do Espírito Santo. \\par",
+      "reference": "At 13:52"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 52
+}

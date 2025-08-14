@@ -1,0 +1,45 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Purificação da mulher depois do parto\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Lv 12:1"
+    },
+    "2": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: \\par Se uma mulher conceber e der à luz um menino, ficará impura durante sete dias, como por ocasião da impureza das suas regras.",
+      "reference": "Lv 12:2"
+    },
+    "3": {
+      "text": "No oitavo dia, circuncidar-se-á o prepúcio do menino",
+      "reference": "Lv 12:3"
+    },
+    "4": {
+      "text": "e, durante trinta e três dias, ela ficará ainda purificando-se do seu sangue. Não tocará coisa alguma consagrada e não irá ao santuário, até que se cumpra o tempo da sua purificação. \\par",
+      "reference": "Lv 12:4"
+    },
+    "5": {
+      "text": "Se der à luz uma menina, ficará impura durante duas semanas, como durante as suas regras, e ficará mais sessenta e seis dias purificando-se do seu sangue. \\par",
+      "reference": "Lv 12:5"
+    },
+    "6": {
+      "text": "Quando tiver cumprido o período da sua purificação, quer seja por um menino, quer seja por uma menina, levará ao sacerdote, à entrada da Tenda da Reunião, um cordeiro de um ano para holocausto e um pombinho ou uma rola em sacrifício pelo pecado.",
+      "reference": "Lv 12:6"
+    },
+    "7": {
+      "text": "O sacerdote os oferecerá diante de Iahweh, realizará por ela o rito de expiação e ela ficará purificada do seu fluxo de sangue. \\par Essa é a lei referente à mulher que dá à luz um menino ou uma menina.",
+      "reference": "Lv 12:7"
+    },
+    "8": {
+      "text": "Se ela não tiver possibilidade de conseguir a soma necessária para um cordeiro, tomará duas rolas ou dois pombinhos, um para o holocausto e o outro em sacrifício pelo pecado. O sacerdote fará por ela o rito de expiação e ela ficará purificada”. \\par",
+      "reference": "Lv 12:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

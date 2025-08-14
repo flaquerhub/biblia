@@ -1,0 +1,97 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A ira não prevalecerá sobre o princípio da justiça\\par }Baldad de Suás tomou a palavra e disse: \\par",
+      "reference": "Jó 18:1"
+    },
+    "2": {
+      "text": "Até quando impedirás as palavras? \\par Reflete e depois falaremos. \\par",
+      "reference": "Jó 18:2"
+    },
+    "3": {
+      "text": "Por que nos consideras como animais, \\par e passamos por estúpidos aos teus olhos?\\par",
+      "reference": "Jó 18:3"
+    },
+    "4": {
+      "text": "Tu, que te desmembras em tua cólera, \\par acaso ficará a terra desabitada por tua causa, \\par ou os rochedos serão mudados de seu lugar? \\par",
+      "reference": "Jó 18:4"
+    },
+    "5": {
+      "text": "A luz do ímpio se extingue, \\par e a chama de seu fogo deixará de alumiar. \\par",
+      "reference": "Jó 18:5"
+    },
+    "6": {
+      "text": "A luz se obscurece em sua tenda, \\par e acima dela se apaga sua lâmpada. \\par",
+      "reference": "Jó 18:6"
+    },
+    "7": {
+      "text": "Seus passos vigorosos encurtam-se, \\par e seus próprios projetos deitam-no por terra. \\par",
+      "reference": "Jó 18:7"
+    },
+    "8": {
+      "text": "Os seus pés jogam-no na armadilha, \\par e ele caminha entre as redes. \\par",
+      "reference": "Jó 18:8"
+    },
+    "9": {
+      "text": "A armadilha prende-o pelo calcanhar, \\par e o laço segura-o firme; \\par",
+      "reference": "Jó 18:9"
+    },
+    "10": {
+      "text": "a corda está escondida no chão, \\par e a armadilha em seu caminho. \\par",
+      "reference": "Jó 18:10"
+    },
+    "11": {
+      "text": "Rodeiam-no terrores que o amedrontam, \\par perseguindo-o passo a passo. \\par",
+      "reference": "Jó 18:11"
+    },
+    "12": {
+      "text": "A fome torna-se a sua companheira, \\par e a desgraça se instala a seu lado. \\par",
+      "reference": "Jó 18:12"
+    },
+    "13": {
+      "text": "A enfermidade consome-lhe a pele, \\par devora seus membros o Primogênito da Morte. \\par",
+      "reference": "Jó 18:13"
+    },
+    "14": {
+      "text": "Arrancam-no da paz de sua tenda, \\par e tu o conduzes ao rei dos terrores. \\par",
+      "reference": "Jó 18:14"
+    },
+    "15": {
+      "text": "Podes habitar a tenda que não é mais sua, \\par e espalham o enxofre sobre o teu redil. \\par",
+      "reference": "Jó 18:15"
+    },
+    "16": {
+      "text": "Por baixo secam suas raízes, \\par por cima murcham seus ramos. \\par",
+      "reference": "Jó 18:16"
+    },
+    "17": {
+      "text": "Sua memória desaparecerá de sua terra, \\par seu nome se apagará na região. \\par",
+      "reference": "Jó 18:17"
+    },
+    "18": {
+      "text": "Lançado da luz às trevas, \\par ele se vê banido da terra, \\par",
+      "reference": "Jó 18:18"
+    },
+    "19": {
+      "text": "sem prole nem descendência entre seu povo, \\par sem um sobrevivente em seu território. \\par",
+      "reference": "Jó 18:19"
+    },
+    "20": {
+      "text": "De seu destino espanta-se o Ocidente, \\par e o Oriente enche-se de terror. \\par",
+      "reference": "Jó 18:20"
+    },
+    "21": {
+      "text": "Esta era a morada do malvado \\par e o lugar daquele que não reconhecia a Deus! \\par",
+      "reference": "Jó 18:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

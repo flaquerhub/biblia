@@ -1,0 +1,141 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "Iahweh falou a Jó, e disse: \\par",
+      "reference": "Jó 40:1"
+    },
+    "2": {
+      "text": "O adversário de Shaddai cederá? \\par O censor de Deus irá responder? \\par",
+      "reference": "Jó 40:2"
+    },
+    "3": {
+      "text": "Jó respondeu a Iahweh: \\par",
+      "reference": "Jó 40:3"
+    },
+    "4": {
+      "text": "Eis que falei levianamente: que poderei responder-te? \\par Porei minha mão sobre a boca; \\par",
+      "reference": "Jó 40:4"
+    },
+    "5": {
+      "text": "falei uma vez, não replicarei; \\par duas vezes, nada mais acrescentarei. \\par",
+      "reference": "Jó 40:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b SEGUNDO DISCURSO\\par }{\\qc\\b\\i O domínio de Deus sobre as forças do mal\\par }Iahweh respondeu a Jó do meio da tempestade e disse: \\par",
+      "reference": "Jó 40:6"
+    },
+    "7": {
+      "text": "Cinge teus rins como um herói: \\par vou interrogar-te, e tu me responderás. \\par",
+      "reference": "Jó 40:7"
+    },
+    "8": {
+      "text": "Atreves-te a anular meu julgamento, \\par ou a condenar-me, para ficares justificado? \\par",
+      "reference": "Jó 40:8"
+    },
+    "9": {
+      "text": "Se tens um braço como o de Deus \\par e podes trovejar com voz semelhante à sua, \\par",
+      "reference": "Jó 40:9"
+    },
+    "10": {
+      "text": "reveste-te de glória e majestade, \\par cobre-te de fausto e esplendor. \\par",
+      "reference": "Jó 40:10"
+    },
+    "11": {
+      "text": "Derrama o ardor de tua ira \\par e, com um simples olhar, abate o arrogante. \\par",
+      "reference": "Jó 40:11"
+    },
+    "12": {
+      "text": "Humilha com o olhar o soberbo \\par e esmaga no chão os ímpios; \\par",
+      "reference": "Jó 40:12"
+    },
+    "13": {
+      "text": "enterra-os todos juntos no pó \\par e amarra-os cada qual na prisão. \\par",
+      "reference": "Jó 40:13"
+    },
+    "14": {
+      "text": "Então também te louvarei, \\par porque podes com tua direita garantir-te a salvação. \\par",
+      "reference": "Jó 40:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Beemot\\par }Vê o Beemot que eu criei igual a ti! \\par Alimenta-se de erva como o boi. \\par",
+      "reference": "Jó 40:15"
+    },
+    "16": {
+      "text": "Vê a força de suas ancas, \\par o vigor de seu ventre musculoso, \\par",
+      "reference": "Jó 40:16"
+    },
+    "17": {
+      "text": "quando ergue sua cauda como um cedro, \\par trançados os nervos de suas coxas. \\par",
+      "reference": "Jó 40:17"
+    },
+    "18": {
+      "text": "Seus ossos são tubos de bronze; \\par sua carcaça, barras de ferro. \\par",
+      "reference": "Jó 40:18"
+    },
+    "19": {
+      "text": "É a obra-prima de Deus. \\par O seu Criador o ameaça com a espada, \\par",
+      "reference": "Jó 40:19"
+    },
+    "20": {
+      "text": "proíbe-lhe a região das montanhas, \\par onde as feras se divertem. \\par",
+      "reference": "Jó 40:20"
+    },
+    "21": {
+      "text": "Deita-se debaixo do lótus, \\par esconde-se entre o junco do pântano. \\par",
+      "reference": "Jó 40:21"
+    },
+    "22": {
+      "text": "Dão-lhe sombra os lótus, \\par e cobrem-no os salgueiros da torrente. \\par",
+      "reference": "Jó 40:22"
+    },
+    "23": {
+      "text": "Ainda que o rio transborde, não se assusta, \\par fica tranqüilo, mesmo que o Jordão borbulhe até sua goela. \\par",
+      "reference": "Jó 40:23"
+    },
+    "24": {
+      "text": "Quem poderá agarrá-lo pela frente, \\par ou atravessar-lhe o focinho com um gancho? \\par",
+      "reference": "Jó 40:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Leviatã\\par }Poderás pescar o Leviatã com anzol \\par e atar-lhe a língua com uma corda? \\par",
+      "reference": "Jó 40:25"
+    },
+    "26": {
+      "text": "Serás capaz de passar-lhe um junco pelas narinas, \\par ou perfurar-lhe as mandíbulas com um gancho? \\par",
+      "reference": "Jó 40:26"
+    },
+    "27": {
+      "text": "Virá a ti com muitas súplicas, \\par ou dirigir-te-á palavras ternas? \\par",
+      "reference": "Jó 40:27"
+    },
+    "28": {
+      "text": "Fará um contrato contigo, \\par para que faças dele o teu criado perpétuo? \\par",
+      "reference": "Jó 40:28"
+    },
+    "29": {
+      "text": "Brincarás com ele como um pássaro, \\par ou amarrá-lo-ás para as tuas filhas? \\par",
+      "reference": "Jó 40:29"
+    },
+    "30": {
+      "text": "Negociá-lo-ão os pescadores, \\par ou dividi-lo-ão entre si os negociantes? \\par",
+      "reference": "Jó 40:30"
+    },
+    "31": {
+      "text": "Poderás crivar-lhe a pele com dardos, \\par ou a cabeça com arpão de pesca? \\par",
+      "reference": "Jó 40:31"
+    },
+    "32": {
+      "text": "Põe-lhe em cima a mão: \\par pensa na luta, não o farás de novo. \\par",
+      "reference": "Jó 40:32"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 32
+}

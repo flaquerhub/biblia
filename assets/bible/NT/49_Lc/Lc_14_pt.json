@@ -1,0 +1,153 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Cura de um hidrópico em dia de sábado\\par }Certo sábado, ele entrou na casa de um dos chefes dos fariseus para tomar uma refeição, e eles o espiavam.",
+      "reference": "Lc 14:1"
+    },
+    "2": {
+      "text": "Eis que um hidrópico estava ali, diante dele.",
+      "reference": "Lc 14:2"
+    },
+    "3": {
+      "text": "Tomando a palavra, Jesus disse aos legistas e aos fariseus: “É lícito ou não curar no sábado?”",
+      "reference": "Lc 14:3"
+    },
+    "4": {
+      "text": "Eles, porém, ficaram calados. Tomou-o então, curou-o e despediu-o.",
+      "reference": "Lc 14:4"
+    },
+    "5": {
+      "text": "Depois perguntou-lhes: “Qual de vós, se o seu filho ou seu boi cai num poço, não o retira imediatamente em dia de sábado?”",
+      "reference": "Lc 14:5"
+    },
+    "6": {
+      "text": "Diante disso, nada lhe puderam replicar. \\par",
+      "reference": "Lc 14:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i A escolha dos lugares\\par }Em seguida contou uma parábola aos convidados, ao notar como eles escolhiam os primeiros lugares. Disse-lhes:",
+      "reference": "Lc 14:7"
+    },
+    "8": {
+      "text": "“Quando alguém te convidar para uma festa de casamento, não te coloques no primeiro lugar; não aconteça que alguém mais digno do que tu tenha sido convidado por ele,",
+      "reference": "Lc 14:8"
+    },
+    "9": {
+      "text": "e quem convidou a ti e a ele venha a te dizer: ‘Cede-lhe o lugar’. Deverás, então, todo envergonhado, ocupar o último lugar.",
+      "reference": "Lc 14:9"
+    },
+    "10": {
+      "text": "Pelo contrário, quando fores convidado, ocupa o último lugar, de modo que, ao chegar quem te convidou, te diga: ‘Amigo, vem mais para cima’. E isso será para ti uma glória em presença de todos os convivas.",
+      "reference": "Lc 14:10"
+    },
+    "11": {
+      "text": "Pois todo aquele que se exalta será humilhado, e quem se humilha será exaltado”. \\par",
+      "reference": "Lc 14:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A escolha dos convidados\\par }Em seguida disse àquele que o convidara: “Ao dares um almoço ou jantar, não convides teus amigos, nem teus irmãos, nem teus parentes, nem os vizinhos ricos; para que não te convidem por sua vez e te retribuam do mesmo modo.",
+      "reference": "Lc 14:12"
+    },
+    "13": {
+      "text": "Pelo contrário, quando deres uma festa, chama pobres, estropiados, coxos, cegos;",
+      "reference": "Lc 14:13"
+    },
+    "14": {
+      "text": "feliz serás, então, porque eles não têm com que retribuir. Serás, porém, recompensado na ressurreição dos justos”. \\par",
+      "reference": "Lc 14:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Os convidados que recusam o banquete\\par }Ouvindo isso, um dos comensais lhe disse: “Feliz aquele que tomar refeição no Reino de Deus!”",
+      "reference": "Lc 14:15"
+    },
+    "16": {
+      "text": "Mas ele respondeu: “Um homem estava dando um grande jantar e convidou a muitos.",
+      "reference": "Lc 14:16"
+    },
+    "17": {
+      "text": "À hora do jantar, enviou seu servo para dizer aos convidados: ‘Vinde, já está tudo pronto’.",
+      "reference": "Lc 14:17"
+    },
+    "18": {
+      "text": "Mas todos, unânimes, começaram a se desculpar. O primeiro disse-lhe: ‘Comprei um terreno e preciso vê-lo; peço-te que me dês por escusado’.",
+      "reference": "Lc 14:18"
+    },
+    "19": {
+      "text": "Outro disse: ‘Comprei cinco juntas de bois e vou experimentá-las; rogo-te que me dês por escusado’.",
+      "reference": "Lc 14:19"
+    },
+    "20": {
+      "text": "E outro disse: ‘Casei-me, e por essa razão não posso ir’. \\par",
+      "reference": "Lc 14:20"
+    },
+    "21": {
+      "text": "Voltando, o servo relatou tudo ao seu senhor. Indignado, o dono da casa disse ao seu servo: ‘Vai depressa pelas praças e ruas da cidade, e introduz aqui os pobres, os estropiados, os cegos e os coxos’.",
+      "reference": "Lc 14:21"
+    },
+    "22": {
+      "text": "Disse-lhe o servo: ‘Senhor, o que mandaste já foi feito, e ainda há lugar’.",
+      "reference": "Lc 14:22"
+    },
+    "23": {
+      "text": "O senhor disse então ao servo: ‘Vai pelos caminhos e trilhas e obriga as pessoas a entrarem, para que a minha casa fique repleta.",
+      "reference": "Lc 14:23"
+    },
+    "24": {
+      "text": "Pois eu vos digo que nenhum daqueles que haviam sido convidados provará o meu jantar’”. \\par",
+      "reference": "Lc 14:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Renunciar ao que temos de mais caro\\par }Grandes multidões o acompanhavam. Jesus voltou-se e disse-lhes:",
+      "reference": "Lc 14:25"
+    },
+    "26": {
+      "text": "“Se alguém vem a mim e não odeia seu próprio pai e mãe, mulher, filhos, irmãos, irmãs e até a própria vida, não pode ser meu discípulo.",
+      "reference": "Lc 14:26"
+    },
+    "27": {
+      "text": "Quem não carrega sua cruz e não vem após mim, não pode ser meu discípulo. \\par",
+      "reference": "Lc 14:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Renúncia a todos os bens\\par }Quem de vós, com efeito, querendo construir uma torre, primeiro não se senta para calcular as despesas e ponderar se tem com que terminar?",
+      "reference": "Lc 14:28"
+    },
+    "29": {
+      "text": "Não aconteça que, tendo colocado o alicerce e não sendo capaz de acabar, todos os que virem comecem a caçoar dele, dizendo:",
+      "reference": "Lc 14:29"
+    },
+    "30": {
+      "text": "‘Esse homem começou a construir e não pôde acabar!’",
+      "reference": "Lc 14:30"
+    },
+    "31": {
+      "text": "Ou ainda, qual o rei que, partindo para guerrear com um outro rei, primeiro não se senta para examinar se, com dez mil homens, poderá confrontar-se com aquele que vem contra ele com vinte mil?",
+      "reference": "Lc 14:31"
+    },
+    "32": {
+      "text": "Do contrário, enquanto o outro ainda está longe, envia uma embaixada para perguntar as condições de paz.",
+      "reference": "Lc 14:32"
+    },
+    "33": {
+      "text": "Igualmente, portanto, qualquer de vós, que não renunciar a tudo o que possui, não pode ser meu discípulo. \\par",
+      "reference": "Lc 14:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Não se tornar insosso\\par }O sal, de fato, é bom. Porém, se até o sal se tornar insosso, com que se há de temperar?",
+      "reference": "Lc 14:34"
+    },
+    "35": {
+      "text": "Não presta para a terra, nem é útil para estrume: jogam-no fora. Quem tem ouvidos para ouvir, ouça!” \\par",
+      "reference": "Lc 14:35"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 35
+}

@@ -1,0 +1,113 @@
+{
+  "book": 65,
+  "book_name": "Judas",
+  "book_abbr": "Jd",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Jude",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Endereço\\par }Judas, servo de Jesus Cristo, irmão de Tiago, aos que foram chamados, amados por Deus Pai e guardados em Jesus Cristo,",
+      "reference": "Jd 1:1"
+    },
+    "2": {
+      "text": "misericórdia, paz e caridade vos sejam concedidas em abundância. \\par",
+      "reference": "Jd 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Ocasião\\par }Amados, enquanto estava todo empenhado em escrever-vos a respeito da nossa salvação comum, tive de fazê-lo por uma razão especial, para exortar-vos a combaterdes pela fé, uma vez por todas confiada aos santos.",
+      "reference": "Jd 1:3"
+    },
+    "4": {
+      "text": "De fato, infiltraram-se entre vós alguns homens já há muito marcados para esta sentença, uns ímpios, que convertem a graça do nosso Deus num pretexto para licenciosidade e negam Jesus Cristo, nosso único mestre e Senhor. \\par",
+      "reference": "Jd 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Os falsos doutores. O castigo que os ameaça\\par }Quero trazer-vos à memória, embora já saibais tudo de uma vez por todas, que o Senhor, depois de ter libertado o seu povo da terra do Egito, destruiu os incrédulos.",
+      "reference": "Jd 1:5"
+    },
+    "6": {
+      "text": "E, quanto aos anjos que não conservaram o seu principado, mas abandonaram a sua morada, guardou-os presos em cadeias eternas, sob as trevas, para o julgamento do grande Dia.",
+      "reference": "Jd 1:6"
+    },
+    "7": {
+      "text": "De modo semelhante, Sodoma, Gomorra e as cidades vizinhas, por se terem prostituído, procurando unir-se a seres de uma natureza diferente, foram postas como exemplo, ficando sujeitas ao castigo de um fogo eterno. \\par",
+      "reference": "Jd 1:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i As suas blasfêmias\\par }Ora, estes agem do mesmo modo: na sua alucinação conspurcam a carne, desprezam a Autoridade e injuriam as Glórias.",
+      "reference": "Jd 1:8"
+    },
+    "9": {
+      "text": "E, no entanto, o arcanjo Miguel, quando disputava com o diabo, discutindo a respeito do corpo de Moisés, não se atreveu a pronunciar uma sentença injuriosa contra ele, mas limitou-se a dizer: “{\\i O Senhor te repreenda}!”",
+      "reference": "Jd 1:9"
+    },
+    "10": {
+      "text": "Mas estes injuriaram o que não conhecem; por outra parte, as coisas que conhecem fisicamente, como os animais irracionais, só servem para perdê-los. \\par",
+      "reference": "Jd 1:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A sua perversidade\\par }Ai deles, porque trilharam o caminho de Caim; seduzidos por dinheiro, entregaram-se aos desvarios de Balaão e pereceram na revolta de Coré.",
+      "reference": "Jd 1:11"
+    },
+    "12": {
+      "text": "São eles que constituem escolhos nos vossos ágapes, regalando-se irreverentemente, apascentando-se a si mesmos: são nuvens sem água, levadas pelo vento, árvores que no fim do outono não dão o seu fruto, duas vezes mortas, arrancadas pela raiz,",
+      "reference": "Jd 1:12"
+    },
+    "13": {
+      "text": "ondas bravias do mar a espumarem a sua própria impudência, astros errantes, aos quais está reservada a escuridão das trevas para a eternidade.",
+      "reference": "Jd 1:13"
+    },
+    "14": {
+      "text": "A respeito deles profetizou Henoc, o sétimo dos patriarcas a contar de Adão, quando disse: “Eis que o Senhor veio com as suas santas milícias",
+      "reference": "Jd 1:14"
+    },
+    "15": {
+      "text": "exercer o julgamento sobre todos os homens e argüir todos os ímpios de todas as obras de impiedade que praticaram e de todas as palavras duras que proferiram contra ele os pecadores ímpios”.",
+      "reference": "Jd 1:15"
+    },
+    "16": {
+      "text": "São uns murmuradores, revoltados contra o destino, que procedem de acordo com as suas concupiscências; {\\i a sua boca profere palavras arrogantes}, mas estão sempre prontos a bajular, quando o seu interesse está em jogo. \\par",
+      "reference": "Jd 1:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Exortações aos fiéis. O ensinamento dos apóstolos\\par }Vós, porém, amados, lembrai-vos das palavras de antemão preditas pelos apóstolos de nosso Senhor Jesus Cristo,",
+      "reference": "Jd 1:17"
+    },
+    "18": {
+      "text": "pois vos diziam: “Nos últimos tempos surgirão escarnecedores, que levarão uma vida de acordo com as suas próprias concupiscências ímpias”.",
+      "reference": "Jd 1:18"
+    },
+    "19": {
+      "text": "São estes os que causam divisões, estes seres “psíquicos”, que não têm o Espírito. \\par",
+      "reference": "Jd 1:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Os deveres da caridade\\par }Mas vós, amados, edificando-vos a vós mesmos sobre a vossa santíssima fé e orando no Espírito Santo,",
+      "reference": "Jd 1:20"
+    },
+    "21": {
+      "text": "guardai-vos no amor de Deus, pondo a vossa esperança na misericórdia de nosso Senhor Jesus Cristo para a vida eterna.",
+      "reference": "Jd 1:21"
+    },
+    "22": {
+      "text": "Procurai convencer os hesitantes;",
+      "reference": "Jd 1:22"
+    },
+    "23": {
+      "text": "a outros procurai salvar, arrancando-os ao fogo; de outros ainda tende misericórdia, mas com temor, aborrecendo a própria veste manchada pela carne. \\par",
+      "reference": "Jd 1:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Doxologia\\par }Àquele que pode guardar-vos da queda e apresentar-vos perante a sua glória irrepreensíveis e jubilosos,",
+      "reference": "Jd 1:24"
+    },
+    "25": {
+      "text": "ao único Deus, nosso Salvador, mediante Jesus Cristo nosso Senhor, glória, majestade, poder e domínio, antes de todos os séculos, agora e por todos os séculos! Amém. \\par",
+      "reference": "Jd 1:25"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 25
+}

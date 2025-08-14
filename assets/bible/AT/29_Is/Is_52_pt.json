@@ -1,0 +1,73 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 52,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Libertação de Jerusalém\\par }Desperta, desperta, \\par mune-te da tua força, ó Sião! \\par Põe os teus vestidos de gala, \\par ó Jerusalém, cidade santa, \\par pois nunca mais tornarão a entrar em ti \\par o incircunciso e o impuro. \\par",
+      "reference": "Is 52:1"
+    },
+    "2": {
+      "text": "Sacode de ti o pó, levanta-te, Jerusalém cativa! \\par Desatadas estão as cadeias do teu pescoço, filha de Sião cativa! \\par",
+      "reference": "Is 52:2"
+    },
+    "3": {
+      "text": "Com efeito, assim diz Iahweh: \\par Sem paga fostes vendidos, \\par sem dinheiro haveis de ser resgatados, \\par",
+      "reference": "Is 52:3"
+    },
+    "4": {
+      "text": "pois assim diz o Senhor Iahweh: \\par Em tempos antigos foi ao Egito que meu povo desceu e peregrinou ali. \\par Mais tarde a Assíria o oprimiu. \\par",
+      "reference": "Is 52:4"
+    },
+    "5": {
+      "text": "Mas agora que tenho a fazer aqui? – oráculo de Iahweh – \\par porque o meu povo foi levado sem paga, \\par os seus dominadores cantam vitória – oráculo de Iahweh – \\par e continuamente, durante todo o tempo, o meu nome é vilipendiado. \\par",
+      "reference": "Is 52:5"
+    },
+    "6": {
+      "text": "Por isto mesmo o meu povo conhecerá o meu nome, \\par por isto mesmo ele saberá, naquele dia, \\par que eu sou o que diz: “Eis-me aqui”. \\par",
+      "reference": "Is 52:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Anúncio da salvação\\par }Como são belos, sobre os montes, os pés do mensageiro que anuncia a paz, \\par do que proclama boas novas e anuncia a salvação, \\par do que diz a Sião: “O teu Deus reina”. \\par",
+      "reference": "Is 52:7"
+    },
+    "8": {
+      "text": "Eis a voz das tuas sentinelas; ei-las que levantam a voz, \\par juntas lançam gritos de alegria, \\par porque com os seus próprios olhos vêem a Iahweh que volta a Sião. \\par",
+      "reference": "Is 52:8"
+    },
+    "9": {
+      "text": "Regozijai-vos, juntas lançai gritos de alegria, ó ruínas de Jerusalém! \\par Porque Iahweh consolou o seu povo, ele redimiu Jerusalém. \\par",
+      "reference": "Is 52:9"
+    },
+    "10": {
+      "text": "Iahweh descobriu o seu braço santo \\par aos olhos de todas as nações, \\par e todas as extremidades da terra \\par viram a salvação do nosso Deus. \\par",
+      "reference": "Is 52:10"
+    },
+    "11": {
+      "text": "Ide-vos! Ide-vos! Saí daqui! \\par Não toqueis nada do que seja impuro, \\par saí do meio dela, purificai-vos, \\par vós os que levais os utensílios de Iahweh. \\par",
+      "reference": "Is 52:11"
+    },
+    "12": {
+      "text": "Mas não haveis de sair apressadamente, \\par não deveis partir como fugitivos, \\par porque Iahweh irá à vossa frente, \\par o Deus de Israel será a vossa retaguarda. \\par",
+      "reference": "Is 52:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Quarto canto do Servo\\par }Eis que o meu Servo há de prosperar, \\par ele se elevará, será exaltado, será posto nas alturas. \\par",
+      "reference": "Is 52:13"
+    },
+    "14": {
+      "text": "Exatamente como multidões ficaram pasmadas à vista dele \\par – tão desfigurado estava o seu aspecto \\par e a sua forma não parecia a de um homem – \\par",
+      "reference": "Is 52:14"
+    },
+    "15": {
+      "text": "assim agora nações numerosas ficarão estupefatas a seu respeito, \\par reis permanecerão silenciosos, \\par ao verem coisas que não lhes haviam sido contadas \\par e ao tomarem consciência de coisas que não tinham ouvido. \\par",
+      "reference": "Is 52:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

@@ -1,0 +1,205 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Zaqueu\\par }E, tendo entrado em Jericó, ele atravessava a cidade.",
+      "reference": "Lc 19:1"
+    },
+    "2": {
+      "text": "Havia lá um homem chamado Zaqueu, que era rico e chefe dos publicanos.",
+      "reference": "Lc 19:2"
+    },
+    "3": {
+      "text": "Ele procurava ver quem era Jesus, mas não o conseguia por causa da multidão, pois era de baixa estatura.",
+      "reference": "Lc 19:3"
+    },
+    "4": {
+      "text": "Correu então à frente e subiu num sicômoro para ver Jesus que iria passar por ali.",
+      "reference": "Lc 19:4"
+    },
+    "5": {
+      "text": "Quando Jesus chegou ao lugar, levantou os olhos e disse-lhe: “Zaqueu, desce depressa, pois hoje devo ficar em tua casa”.",
+      "reference": "Lc 19:5"
+    },
+    "6": {
+      "text": "Ele desceu imediatamente e recebeu-o com alegria.",
+      "reference": "Lc 19:6"
+    },
+    "7": {
+      "text": "À vista do acontecido, todos murmuravam, dizendo: “Foi hospedar-se na casa de um pecador!”",
+      "reference": "Lc 19:7"
+    },
+    "8": {
+      "text": "Zaqueu, de pé, disse ao Senhor: “Senhor, eis que eu dou a metade de meus bens aos pobres, e se defraudei a alguém, restituo-lhe o quádruplo”.",
+      "reference": "Lc 19:8"
+    },
+    "9": {
+      "text": "Jesus lhe disse: “Hoje a salvação entrou nesta casa, porque ele também é um filho de Abraão.",
+      "reference": "Lc 19:9"
+    },
+    "10": {
+      "text": "Com efeito, o Filho do Homem veio {\\i procurar} e salvar {\\i o que estava perdido}”. \\par",
+      "reference": "Lc 19:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Parábola das minas\\par }Como eles ouviam isso, Jesus acrescentou uma parábola, porque estava perto de Jerusalém, e eles pensavam que o Reino de Deus ia se manifestar imediatamente.",
+      "reference": "Lc 19:11"
+    },
+    "12": {
+      "text": "Disse então: “Um homem de nobre origem partiu para uma região longínqua a fim de ser investido na realeza e voltar.",
+      "reference": "Lc 19:12"
+    },
+    "13": {
+      "text": "Chamando dez de seus servos, deu-lhes dez minas e disse-lhes: ‘Fazei-as render até que eu volte’.",
+      "reference": "Lc 19:13"
+    },
+    "14": {
+      "text": "Ora, seus cidadãos o odiavam. E enviaram atrás dele uma embaixada para dizer: ‘Não queremos que este reine sobre nós’. \\par",
+      "reference": "Lc 19:14"
+    },
+    "15": {
+      "text": "Quando ele regressou, após ter recebido a realeza, mandou chamar aqueles servos aos quais havia confiado dinheiro, para saber o que cada um tinha feito render.",
+      "reference": "Lc 19:15"
+    },
+    "16": {
+      "text": "Apresentou-se o primeiro e disse: ‘Senhor, tua mina rendeu dez minas’.",
+      "reference": "Lc 19:16"
+    },
+    "17": {
+      "text": "‘Muito bem, servo bom’, disse ele, ‘uma vez que te mostraste fiel no pouco, recebe autoridade sobre dez cidades’.",
+      "reference": "Lc 19:17"
+    },
+    "18": {
+      "text": "Veio o segundo e disse: ‘Senhor, tua mina produziu cinco minas’.",
+      "reference": "Lc 19:18"
+    },
+    "19": {
+      "text": "Também a este ele disse: ‘Tu também, fica à frente de cinco cidades’. \\par",
+      "reference": "Lc 19:19"
+    },
+    "20": {
+      "text": "Veio o outro e disse: ‘Senhor, eis aqui a tua mina, que depositei num lenço,",
+      "reference": "Lc 19:20"
+    },
+    "21": {
+      "text": "pois tive medo de ti, porque és um homem severo, tomas o que não depositaste e colhes o que não semeaste’.",
+      "reference": "Lc 19:21"
+    },
+    "22": {
+      "text": "Então ele disse: ‘Servo mau, eu te julgo pela tua própria boca. Sabias que eu sou um homem severo, que tomo o que não depositei e colho o que não semeei.",
+      "reference": "Lc 19:22"
+    },
+    "23": {
+      "text": "Por que, então, não confiaste o meu dinheiro ao banco? À minha volta eu o teria recuperado com juros’.",
+      "reference": "Lc 19:23"
+    },
+    "24": {
+      "text": "E disse aos que lá estavam: ‘Tirai-lhe a mina e dai-a ao que tem dez minas’.",
+      "reference": "Lc 19:24"
+    },
+    "25": {
+      "text": "Responderam-lhe: ‘Senhor, ele já tem dez minas...’",
+      "reference": "Lc 19:25"
+    },
+    "26": {
+      "text": "‘Digo-vos, a quem tem, será dado; mas àquele que não tem, será tirado até mesmo o que tem. \\par",
+      "reference": "Lc 19:26"
+    },
+    "27": {
+      "text": "Quanto a esses meus inimigos, que não queriam que eu reinasse sobre eles, trazei-os aqui e trucidai-os em minha presença’”. \\par",
+      "reference": "Lc 19:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b {\\i V. Ministério de Jesus em Jerusalém}\\par }{\\qc\\b\\i Entrada messiânica em Jerusalém\\par }E, dizendo tais coisas, Jesus caminhava à frente, subindo para Jerusalém.",
+      "reference": "Lc 19:28"
+    },
+    "29": {
+      "text": "Ao se aproximar de Betfagé e de Betânia, perto do monte chamado das Oliveiras, enviou dois discípulos,",
+      "reference": "Lc 19:29"
+    },
+    "30": {
+      "text": "dizendo: “Ide ao povoado da frente e, ao entrardes, encontrareis um jumentinho amarrado que ninguém ainda montou: soltando-o, trazei-o.",
+      "reference": "Lc 19:30"
+    },
+    "31": {
+      "text": "E se alguém vos perguntar ‘Por que o soltais?’, respondereis: ‘O Senhor precisa dele’”.",
+      "reference": "Lc 19:31"
+    },
+    "32": {
+      "text": "Tendo partido, os enviados encontraram as coisas como ele lhes dissera.",
+      "reference": "Lc 19:32"
+    },
+    "33": {
+      "text": "Enquanto desamarravam o jumentinho, os donos perguntaram: “Por que soltais o jumentinho?”",
+      "reference": "Lc 19:33"
+    },
+    "34": {
+      "text": "Responderam: “O Senhor precisa dele”. \\par",
+      "reference": "Lc 19:34"
+    },
+    "35": {
+      "text": "Levaram-no então a Jesus e, estendendo as suas vestes sobre o jumentinho, fizeram com que Jesus montasse.",
+      "reference": "Lc 19:35"
+    },
+    "36": {
+      "text": "Enquanto ele avançava, o povo estendia suas próprias vestes no caminho.",
+      "reference": "Lc 19:36"
+    },
+    "37": {
+      "text": "Já estava perto da descida do monte das Oliveiras, quando toda a multidão dos discípulos começou, alegremente, a louvar a Deus com voz forte por todos os milagres que eles tinham visto.",
+      "reference": "Lc 19:37"
+    },
+    "38": {
+      "text": "Diziam: \\par “{\\i Bendito aquele que vem,} \\par o Rei, {\\i em nome do Senhor!} \\par Paz no céu \\par e glória no mais alto dos céus!” \\par",
+      "reference": "Lc 19:38"
+    },
+    "39": {
+      "text": "\\par {\\qc\\b\\i Jesus aprova as aclamações de seus discípulos\\par }Alguns fariseus da multidão lhe disseram: “Mestre, repreende teus discípulos”.",
+      "reference": "Lc 19:39"
+    },
+    "40": {
+      "text": "Ele, porém, respondeu: “Eu vos digo, se eles se calarem, as pedras gritarão”. \\par",
+      "reference": "Lc 19:40"
+    },
+    "41": {
+      "text": "\\par {\\qc\\b\\i Lamentação sobre Jerusalém\\par }E, como estivesse perto, viu a cidade e chorou sobre ela,",
+      "reference": "Lc 19:41"
+    },
+    "42": {
+      "text": "dizendo: “Ah! Se neste dia também tu conhecesses a mensagem de paz! Agora, porém, isso está escondido a teus olhos.",
+      "reference": "Lc 19:42"
+    },
+    "43": {
+      "text": "Pois dias virão sobre ti, e os teus inimigos te cercarão com trincheiras, te rodearão e te apertarão por todos os lados.",
+      "reference": "Lc 19:43"
+    },
+    "44": {
+      "text": "{\\i Deitarão por terra} a ti e a {\\i teus filhos} no meio de ti, e não deixarão de ti pedra sobre pedra, porque não reconheceste o tempo em que foste visitada!” \\par",
+      "reference": "Lc 19:44"
+    },
+    "45": {
+      "text": "\\par {\\qc\\b\\i Os vendedores expulsos do Templo\\par }E, entrando no Templo, começou a expulsar os vendedores,",
+      "reference": "Lc 19:45"
+    },
+    "46": {
+      "text": "dizendo-lhes: “Está escrito: {\\i Minha casa será uma casa de oração.} Vós, porém, fizestes dela {\\i um covil de ladrões!}” \\par",
+      "reference": "Lc 19:46"
+    },
+    "47": {
+      "text": "\\par {\\qc\\b\\i Ensinamento no Templo\\par }E ensinava diariamente no Templo. Os chefes dos sacerdotes e os escribas procuravam fazê-lo perecer, bem como os chefes do povo.",
+      "reference": "Lc 19:47"
+    },
+    "48": {
+      "text": "Mas não encontravam o que fazer, pois o povo todo o ouvia, enlevado. \\par",
+      "reference": "Lc 19:48"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 48
+}

@@ -1,0 +1,149 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Apêndice}\\par TARIFAS E AVALIAÇÕES\\par }{\\qc\\b\\i A. Pessoas\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 27:1"
+    },
+    "2": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: \\par Se alguém quiser cumprir um voto a Iahweh, relativo ao valor de uma pessoa, \\par",
+      "reference": "Lv 27:2"
+    },
+    "3": {
+      "text": "um homem entre vinte e sessenta anos será avaliado em cinqüenta siclos de prata – siclo do santuário –;",
+      "reference": "Lv 27:3"
+    },
+    "4": {
+      "text": "se for uma mulher, a avaliação será de trinta siclos; \\par",
+      "reference": "Lv 27:4"
+    },
+    "5": {
+      "text": "entre cinco e vinte anos, o homem será avaliado em vinte siclos e a mulher em dez siclos; \\par",
+      "reference": "Lv 27:5"
+    },
+    "6": {
+      "text": "entre um mês e cinco anos, o homem será avaliado em cinco siclos de prata e a mulher em três siclos de prata; \\par",
+      "reference": "Lv 27:6"
+    },
+    "7": {
+      "text": "de sessenta anos para cima, o homem será avaliado em quinze siclos e a mulher em dez siclos. \\par",
+      "reference": "Lv 27:7"
+    },
+    "8": {
+      "text": "Se aquele que fez o voto não tiver condições para atender a esta avaliação, então apresentará a pessoa ao sacerdote. Este fará a avaliação, que será de acordo com os recursos daquele que fez o voto. \\par",
+      "reference": "Lv 27:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i B. Animais\\par }Em se tratando de animais, daqueles que se oferecem a Iahweh, todo animal que se oferece a Iahweh será coisa sagrada.",
+      "reference": "Lv 27:9"
+    },
+    "10": {
+      "text": "Não poderá ser trocado nem substituído, quer seja o bom pelo mau, quer o mau pelo bom. Se se substituir um animal por outro, tanto o primeiro como o segundo serão coisas sagradas.",
+      "reference": "Lv 27:10"
+    },
+    "11": {
+      "text": "Em se tratando de animal impuro que não se pode oferecer a Iahweh, qualquer que seja, será levado ao sacerdote",
+      "reference": "Lv 27:11"
+    },
+    "12": {
+      "text": "e este fará a avaliação do animal, declarando-o bom ou mau; e de acordo com a avaliação tal será o seu preço.",
+      "reference": "Lv 27:12"
+    },
+    "13": {
+      "text": "Porém, se se desejar resgatá-lo, acrescentar-se-á à avaliação mais um quinto do seu valor. \\par",
+      "reference": "Lv 27:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i C. Casas\\par }Se alguém consagrar sua casa a Iahweh, o sacerdote fará a avaliação dela, se é de alto ou de baixo preço. Segundo a avaliação do sacerdote tal será o seu preço;",
+      "reference": "Lv 27:14"
+    },
+    "15": {
+      "text": "contudo, se o homem que fez voto da casa desejar resgatá-la, acrescentará à avaliação um quinto do seu preço e ela será dele.\\par",
+      "reference": "Lv 27:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i D. Campos\\par }Se um homem consagrar a Iahweh um campo do seu patrimônio, a avaliação dele será feita de acordo com o seu produto na proporção de cinqüenta siclos de prata por meio almude de cevada. \\par",
+      "reference": "Lv 27:16"
+    },
+    "17": {
+      "text": "Se consagrar o campo desde o ano do jubileu, permanecerá esta avaliação;",
+      "reference": "Lv 27:17"
+    },
+    "18": {
+      "text": "porém, se o consagrar depois do jubileu, o sacerdote calculará o preço dele de acordo com os anos que ainda restam para chegar ao jubileu, e será feita uma dedução no preço da avaliação. \\par",
+      "reference": "Lv 27:18"
+    },
+    "19": {
+      "text": "Se desejar resgatar o campo, acrescentará à avaliação um quinto do seu preço, e o campo será seu.",
+      "reference": "Lv 27:19"
+    },
+    "20": {
+      "text": "Se não resgatar o campo, mas vendê-lo a outrem, cessará o direito de resgate;",
+      "reference": "Lv 27:20"
+    },
+    "21": {
+      "text": "no ano do jubileu, aquele que adquiriu o campo deverá deixá-lo, e o campo será coisa consagrada a Iahweh, como se fosse votado ao anátema: a posse passará do homem para o sacerdote. \\par",
+      "reference": "Lv 27:21"
+    },
+    "22": {
+      "text": "Se alguém consagrar a Iahweh um campo que adquiriu, mas que não faz parte do seu patrimônio,",
+      "reference": "Lv 27:22"
+    },
+    "23": {
+      "text": "o sacerdote calculará o preço do campo de acordo com o tempo que ainda resta até o ano do jubileu, e aquele que o consagrou pagará a importância no mesmo dia, como coisa consagrada a Iahweh.",
+      "reference": "Lv 27:23"
+    },
+    "24": {
+      "text": "No ano do jubileu, o campo voltará ao que o vendeu, àquele que tem a posse da propriedade da terra.",
+      "reference": "Lv 27:24"
+    },
+    "25": {
+      "text": "Toda avaliação será feita em siclos do santuário, sendo que vinte geras valem um siclo. \\par",
+      "reference": "Lv 27:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i Regras particulares para resgate: a) dos primogênitos\\par }Ninguém poderá consagrar o primogênito de um animal, visto que já pertence a Iahweh; quer seja de gado miúdo ou graúdo, já pertence a Iahweh.",
+      "reference": "Lv 27:26"
+    },
+    "27": {
+      "text": "Mas se for de um animal impuro, poder-se-á resgatá-lo pelo preço da avaliação, acrescido de um quinto do seu valor; se não for resgatado, será vendido pelo preço da avaliação. \\par",
+      "reference": "Lv 27:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i b) do anátema\\par }Contudo, nada do que alguém consagra a Iahweh, por anátema, pode ser vendido ou resgatado, quer seja homens, animais ou campos do seu patrimônio. Todo anátema é coisa santíssima que pertence a Iahweh.",
+      "reference": "Lv 27:28"
+    },
+    "29": {
+      "text": "Nenhum ser humano votado ao anátema poderá ser resgatado; será morto. \\par",
+      "reference": "Lv 27:29"
+    },
+    "30": {
+      "text": "\\par {\\qc\\b\\i c) dos dízimos\\par }Todos os dízimos da terra, tanto dos produtos da terra como dos frutos das árvores, pertencem a Iahweh; é coisa consagrada a Iahweh.",
+      "reference": "Lv 27:30"
+    },
+    "31": {
+      "text": "Se alguém quiser resgatar uma parte do seu dízimo, acrescentará um quinto do seu valor. \\par",
+      "reference": "Lv 27:31"
+    },
+    "32": {
+      "text": "Em todo dízimo de gado graúdo ou miúdo, a décima parte de tudo o que passa sob o cajado do pastor é coisa consagrada a Iahweh.",
+      "reference": "Lv 27:32"
+    },
+    "33": {
+      "text": "Não se deve observar se é bom ou mau e não se fará substituição: se isto se der, tanto o animal consagrado como aquele que o substitui serão coisas consagradas, sem possibilidade de resgate”. \\par",
+      "reference": "Lv 27:33"
+    },
+    "34": {
+      "text": "Estas são as ordens que Iahweh deu a Moisés, no monte Sinai, para os filhos de Israel. \\par",
+      "reference": "Lv 27:34"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 34
+}

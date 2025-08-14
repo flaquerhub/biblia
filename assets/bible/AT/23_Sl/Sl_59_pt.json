@@ -1,0 +1,85 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 59,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 59 (58)\\par }{\\qc\\b\\i Contra os ímpios\\par }{\\qc\\i Do mestre de canto. “Não destruas”. De Davi. À meia-voz. Quando Saul mandou vigiar sua casa, para o matar. \\par }",
+      "reference": "Sl 59:1"
+    },
+    "2": {
+      "text": "Deus meu, livra-me dos meus inimigos, \\par protege-me dos meus agressores! \\par",
+      "reference": "Sl 59:2"
+    },
+    "3": {
+      "text": "Livra-me dos malfeitores, \\par salva-me dos homens sanguinários! \\par",
+      "reference": "Sl 59:3"
+    },
+    "4": {
+      "text": "Pois ei-los espreitando minha vida, \\par os poderosos se reúnem contra mim, \\par sem ter eu transgredido ou pecado, Iahweh, \\par",
+      "reference": "Sl 59:4"
+    },
+    "5": {
+      "text": "sem nenhuma culpa, eles correm e se preparam. \\par Desperta! Vem ao meu encontro e olha! \\par",
+      "reference": "Sl 59:5"
+    },
+    "6": {
+      "text": "E tu, Iahweh, Deus dos Exércitos, Deus de Israel, \\par levanta-te para visitar estas nações todas! \\par Não tenhas pena de todos os traidores iníquos. {\\i Pausa} \\par",
+      "reference": "Sl 59:6"
+    },
+    "7": {
+      "text": "Eles voltam pela tarde, \\par latindo como um cão, \\par e rondam pela cidade. \\par",
+      "reference": "Sl 59:7"
+    },
+    "8": {
+      "text": "Eis que alardeiam com sua boca; \\par há espadas em seus lábios: \\par “Alguém está ouvindo?” \\par",
+      "reference": "Sl 59:8"
+    },
+    "9": {
+      "text": "E tu, Iahweh, tu ris à sua custa, \\par tu te divertes com todas as nações! \\par",
+      "reference": "Sl 59:9"
+    },
+    "10": {
+      "text": "Ó força minha, eu olho para ti! \\par Sim, Deus é a minha fortaleza; \\par",
+      "reference": "Sl 59:10"
+    },
+    "11": {
+      "text": "o Deus a quem amo vem a mim, \\par Deus me fará enfrentar os que me espreitam. \\par",
+      "reference": "Sl 59:11"
+    },
+    "12": {
+      "text": "Não os mates, para que meu povo não esqueça! \\par Com teu poder torna-os errantes, reprime-os, \\par ó Senhor, nosso escudo! \\par",
+      "reference": "Sl 59:12"
+    },
+    "13": {
+      "text": "O pecado de sua boca é a palavras de seus lábios: \\par sejam apanhados pelo seu orgulho, \\par pela mentira e maldição que eles proferem. \\par",
+      "reference": "Sl 59:13"
+    },
+    "14": {
+      "text": "Destrói em tua cólera, destrói para que não existam mais, \\par para que reconheçam que é Deus quem governa \\par em Jacó, até aos confins da terra. {\\i Pausa} \\par",
+      "reference": "Sl 59:14"
+    },
+    "15": {
+      "text": "Eles voltam pela tarde, \\par latindo como um cão, \\par e rondam pela cidade; \\par",
+      "reference": "Sl 59:15"
+    },
+    "16": {
+      "text": "ei-los caçando para comer, \\par e enquanto não se saciam ficam rosnando. \\par",
+      "reference": "Sl 59:16"
+    },
+    "17": {
+      "text": "Quanto a mim, vou cantar à tua força, \\par vou aclamar teu amor pela manhã; \\par pois foste uma fortaleza para mim, \\par um refúgio no dia de minha angústia. \\par",
+      "reference": "Sl 59:17"
+    },
+    "18": {
+      "text": "Ó força minha, vou tocar para ti, \\par porque foste uma fortaleza para mim, \\par ó Deus, a quem amo! \\par",
+      "reference": "Sl 59:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

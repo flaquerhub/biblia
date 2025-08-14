@@ -1,0 +1,101 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 60,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Esplendor de Jerusalém\\par }Põe-te em pé, resplandece, \\par porque a tua luz é chegada, \\par a glória de Iahweh raia sobre ti. \\par",
+      "reference": "Is 60:1"
+    },
+    "2": {
+      "text": "Com efeito, as trevas cobrem a terra, \\par a escuridão envolve as nações, \\par mas sobre ti levanta-se Iahweh \\par e a sua glória aparece sobre ti. \\par",
+      "reference": "Is 60:2"
+    },
+    "3": {
+      "text": "As nações caminharão na tua luz, \\par e os reis, no clarão do teu sol nascente. \\par",
+      "reference": "Is 60:3"
+    },
+    "4": {
+      "text": "Ergue os olhos em torno e vê: \\par todos eles se reúnem e vêm a ti. \\par Os teus filhos vêm de longe, \\par as tuas filhas são carregadas sobre as ancas. \\par",
+      "reference": "Is 60:4"
+    },
+    "5": {
+      "text": "Então verás e ficarás radiante; \\par o teu coração estremecerá e se dilatará, \\par porque as riquezas do mar afluirão a ti, \\par a ti virão os tesouros das nações. \\par",
+      "reference": "Is 60:5"
+    },
+    "6": {
+      "text": "Uma horda de camelos te inundará, \\par os camelinhos de Madiã e Efa; \\par todos virão de Sabá, \\par trazendo ouro e incenso \\par e proclamarão os louvores de Iahweh. \\par",
+      "reference": "Is 60:6"
+    },
+    "7": {
+      "text": "Todas as ovelhas de Cedar se reunirão em ti, \\par os carneiros de Nabaiot estarão a teu serviço, \\par subirão ao meu altar em sacrifício agradável, \\par e cobrirei de esplendor a minha casa. \\par",
+      "reference": "Is 60:7"
+    },
+    "8": {
+      "text": "Quem são estes que vêm deslizando como nuvens, \\par como pombas de volta aos seus pombais? \\par",
+      "reference": "Is 60:8"
+    },
+    "9": {
+      "text": "Em mim esperam as ilhas, \\par os navios de Társis vêm à frente, \\par trazendo os seus filhos de longe, \\par com a sua prata e o seu ouro, \\par por causa do nome de Iahweh teu Deus, \\par por causa do Santo de Israel, pois ele te glorificou. \\par",
+      "reference": "Is 60:9"
+    },
+    "10": {
+      "text": "Estrangeiros reedificarão os teus muros \\par e os seus reis te servirão, \\par pois que, se na minha cólera te feri, \\par agora, na minha graça, me compadeci de ti. \\par",
+      "reference": "Is 60:10"
+    },
+    "11": {
+      "text": "As tuas portas estarão sempre abertas, \\par não se fecharão nem de dia nem de noite, \\par a fim de que se traga a ti a riqueza das nações \\par e os seus reis sejam conduzidos a ti. \\par",
+      "reference": "Is 60:11"
+    },
+    "12": {
+      "text": "Com efeito, a nação e o reino que não te servirem perecerão, \\par sim, essas nações serão reduzidas a uma ruína. \\par",
+      "reference": "Is 60:12"
+    },
+    "13": {
+      "text": "A glória do Líbano virá a ti, \\par o zimbro, o plátano e o cipreste, todos juntos, \\par para inundarem de brilho o lugar do teu santuário, \\par e assim glorificarei o lugar em que pisam os meus pés. \\par",
+      "reference": "Is 60:13"
+    },
+    "14": {
+      "text": "Os filhos dos teus opressores se dirigirão a ti humildemente; \\par prostrar-se-ão aos teus pés todos os que te desprezavam, \\par e te chamarão “Cidade de Iahweh”, \\par “Sião do Santo de Israel”. \\par",
+      "reference": "Is 60:14"
+    },
+    "15": {
+      "text": "Em vez de seres abandonada e odiada, \\par sem pessoa que passe pelo meio de ti, \\par farei de ti um eterno motivo de orgulho, \\par um motivo de alegria, de geração em geração. \\par",
+      "reference": "Is 60:15"
+    },
+    "16": {
+      "text": "Sugarás o leite das nações, \\par amamentar-te-ás das riquezas dos reis. \\par E saberás que sou eu, Iahweh, que te salvo, \\par que o teu redentor é o Poderoso de Jacó. \\par",
+      "reference": "Is 60:16"
+    },
+    "17": {
+      "text": "Em lugar de bronze, trarei ouro; \\par em lugar de ferro, trarei prata; \\par e em lugar de madeira, bronze; \\par em lugar de pedra, ferro. \\par Farei da Paz a tua administradora, \\par e da Justiça a tua autoridade suprema. \\par",
+      "reference": "Is 60:17"
+    },
+    "18": {
+      "text": "Na tua terra não se tornará a falar em violência, \\par nem em devastação e destruição nas tuas fronteiras. \\par Aos teus muros chamarás “Salvação” \\par e às tuas portas “Louvor”. \\par",
+      "reference": "Is 60:18"
+    },
+    "19": {
+      "text": "Não terás mais o sol como luz do dia, \\par nem o clarão da lua te iluminará, \\par porque Iahweh será a tua luz para sempre, \\par e o teu Deus será o teu esplendor. \\par",
+      "reference": "Is 60:19"
+    },
+    "20": {
+      "text": "O teu sol não voltará a pôr-se, \\par e a tua lua não minguará, \\par porque Iahweh te servirá de luz eterna \\par e os dias do teu luto cessarão. \\par",
+      "reference": "Is 60:20"
+    },
+    "21": {
+      "text": "O teu povo, todo ele constituído de justos, possuirá a terra para sempre, \\par como um renovo de minha própria plantação, \\par como obra das minhas mãos, para a minha glória. \\par",
+      "reference": "Is 60:21"
+    },
+    "22": {
+      "text": "O menor deles chegará a mil, \\par o mais fraco, a uma nação poderosa. \\par Eu, Iahweh, no tempo próprio apressarei a realização destas coisas. \\par",
+      "reference": "Is 60:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

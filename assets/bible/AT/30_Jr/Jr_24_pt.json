@@ -1,0 +1,53 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os dois cestos de figos\\par }Iahweh me fez ver: Eis dois cestos de figos colocados diante do Templo de Iahweh. Foi depois que Nabucodonosor, rei da Babilônia, desterrou de Jerusalém a Jeconias, filho de Joaquim, rei de Judá, os príncipes de Judá, bem como os ferreiros e os serralheiros, e os levou para a Babilônia.",
+      "reference": "Jr 24:1"
+    },
+    "2": {
+      "text": "Um cesto tinha ótimos figos, como os figos da primeira sazão; o outro cesto tinha figos estragados, tão estragados que não podiam ser comidos.",
+      "reference": "Jr 24:2"
+    },
+    "3": {
+      "text": "E disse-me Iahweh: “Que vês, Jeremias?” E eu disse: “Figos. Os bons são muito bons, e os estragados são tão estragados que não podem ser comidos”.",
+      "reference": "Jr 24:3"
+    },
+    "4": {
+      "text": "Então a palavra de Iahweh me foi dirigida nos seguintes termos:",
+      "reference": "Jr 24:4"
+    },
+    "5": {
+      "text": "Assim disse Iahweh, o Deus de Israel. Como a estes figos bons, assim eu vou olhar com bondade os exilados de Judá que eu mandei deste lugar para a terra dos caldeus.",
+      "reference": "Jr 24:5"
+    },
+    "6": {
+      "text": "Vou colocar os meus olhos sobre eles para o bem e fazê-los retornar a esta terra. Eu vou reconstruí-los e não demoli-los, plantá-los e não arrancá-los.",
+      "reference": "Jr 24:6"
+    },
+    "7": {
+      "text": "Dar-lhes-ei um coração para que me conheçam, que eu sou Iahweh. Eles serão o meu povo e eu serei o seu Deus, porque eles retornarão a mim de todo coração.",
+      "reference": "Jr 24:7"
+    },
+    "8": {
+      "text": "Mas como os figos estragados que, de tão estragados, não podem ser comidos – sim, assim disse Iahweh –, assim eu tratarei a Sedecias, rei de Judá, os seus príncipes e o resto de Jerusalém: aqueles que restarem nesta terra e os que habitam na terra do Egito.",
+      "reference": "Jr 24:8"
+    },
+    "9": {
+      "text": "Eu farei deles um objeto de horror, uma calamidade para todos os reinos da terra; uma vergonha, uma fábula, um escárnio e uma maldição em todos os lugares, para onde eu os expulsar.",
+      "reference": "Jr 24:9"
+    },
+    "10": {
+      "text": "Enviarei contra eles a espada, a fome e a peste, até que desapareçam do solo que dei a eles e a seus pais. \\par",
+      "reference": "Jr 24:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

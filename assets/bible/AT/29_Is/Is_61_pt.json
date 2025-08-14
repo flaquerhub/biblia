@@ -1,0 +1,57 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 61,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Vocação de um profeta\\par }O espírito do Senhor Iahweh está sobre mim, \\par porque Iahweh me ungiu; \\par enviou-me a anunciar a boa nova aos pobres, \\par a curar os quebrantados de coração \\par e proclamar a liberdade aos cativos, \\par a libertação aos que estão presos, \\par",
+      "reference": "Is 61:1"
+    },
+    "2": {
+      "text": "a proclamar um ano aceitável a Iahweh \\par e um dia de vingança do nosso Deus, \\par a fim de consolar todos os enlutados \\par",
+      "reference": "Is 61:2"
+    },
+    "3": {
+      "text": "(a fim de pôr aos enlutados de Sião...), \\par a fim de dar-lhes um diadema em lugar de cinza \\par e óleo de alegria em lugar de luto, \\par uma veste festiva em lugar de um espírito abatido. \\par Chamar-lhes-ão terebintos de justiça, \\par plantação de Iahweh para a sua glória. \\par",
+      "reference": "Is 61:3"
+    },
+    "4": {
+      "text": "Eles reedificarão as ruínas antigas, \\par recuperarão as regiões despovoadas de outrora; \\par repararão as cidades devastadas, \\par as regiões que ficaram despovoadas por muitas gerações. \\par",
+      "reference": "Is 61:4"
+    },
+    "5": {
+      "text": "Estrangeiros estarão aí para apascentar os vossos rebanhos; \\par alienígenas serão os vossos lavradores e os vossos vinhateiros. \\par",
+      "reference": "Is 61:5"
+    },
+    "6": {
+      "text": "Quanto a vós, sereis chamados sacerdotes de Iahweh; \\par sereis chamados ministros do nosso Deus; \\par alimentar-vos-eis das riquezas das nações; \\par haveis de suceder-lhes na sua glória. \\par",
+      "reference": "Is 61:6"
+    },
+    "7": {
+      "text": "Em lugar da vergonha que tendes sofrido, tereis porção dobrada; \\par em lugar da humilhação, tereis gritos de júbilo como vossa porção. \\par Eis por que terão porção dobrada em sua terra \\par e gozarão de uma alegria eterna. \\par",
+      "reference": "Is 61:7"
+    },
+    "8": {
+      "text": "Com efeito, eu, Iahweh, que amo o direito \\par e detesto o roubo e a injustiça, \\par lhes darei fielmente a sua recompensa \\par e estabelecerei com eles uma aliança eterna. \\par",
+      "reference": "Is 61:8"
+    },
+    "9": {
+      "text": "A sua posteridade será conhecida entre as nações, \\par a sua descendência no meio dos povos. \\par Todos aqueles que os virem reconhecerão \\par que eles são a raça que Iahweh abençoou. \\par",
+      "reference": "Is 61:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Ação de graças\\par }Transbordo de alegria em Iahweh, \\par a minha alma se regozija no meu Deus, \\par porque ele me vestiu com vestes de salvação, \\par cobriu-me com um manto de justiça, \\par como um noivo que se adorna com um diadema, \\par como uma noiva que se enfeita com as suas jóias. \\par",
+      "reference": "Is 61:10"
+    },
+    "11": {
+      "text": "Com efeito, como a terra faz brotar a sua vegetação, \\par e o jardim faz germinar as suas sementes, \\par assim o Senhor Iahweh faz germinar a justiça e o louvor \\par na presença de todas as nações. \\par",
+      "reference": "Is 61:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

@@ -1,0 +1,197 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Parábola das dez virgens\\par }Então o Reino dos Céus será semelhante a dez virgens que, tomando as suas lâmpadas, saíram ao encontro do noivo.",
+      "reference": "Mt 25:1"
+    },
+    "2": {
+      "text": "Cinco eram insensatas e cinco, prudentes.",
+      "reference": "Mt 25:2"
+    },
+    "3": {
+      "text": "As insensatas, ao pegarem as lâmpadas, não levaram azeite consigo,",
+      "reference": "Mt 25:3"
+    },
+    "4": {
+      "text": "enquanto as prudentes levaram vasos de azeite com suas lâmpadas.",
+      "reference": "Mt 25:4"
+    },
+    "5": {
+      "text": "Atrasando o noivo, todas elas acabaram cochilando e dormindo.",
+      "reference": "Mt 25:5"
+    },
+    "6": {
+      "text": "Quando foi aí pela meia-noite, ouviu-se um grito: ‘O noivo vem aí! Saí ao seu encontro!’",
+      "reference": "Mt 25:6"
+    },
+    "7": {
+      "text": "Todas as virgens levantaram-se, então, e trataram de aprontar as lâmpadas.",
+      "reference": "Mt 25:7"
+    },
+    "8": {
+      "text": "As insensatas disseram às prudentes: ‘Dai-nos do vosso azeite, porque as nossas lâmpadas estão se apagando’.",
+      "reference": "Mt 25:8"
+    },
+    "9": {
+      "text": "As prudentes responderam: ‘De modo algum, o azeite poderia não bastar para nós e para vós. Ide antes aos que vendem e comprai para vós’.",
+      "reference": "Mt 25:9"
+    },
+    "10": {
+      "text": "Enquanto foram comprar o azeite, o noivo chegou e as que estavam prontas entraram com ele para o banquete de núpcias. E fechou-se a porta.",
+      "reference": "Mt 25:10"
+    },
+    "11": {
+      "text": "Finalmente, chegaram as outras virgens, dizendo: ‘Senhor, senhor, abre-nos!’",
+      "reference": "Mt 25:11"
+    },
+    "12": {
+      "text": "Mas ele respondeu: ‘Em verdade vos digo: não vos conheço!’",
+      "reference": "Mt 25:12"
+    },
+    "13": {
+      "text": "Vigiai, portanto, porque não sabeis nem o dia nem a hora. \\par",
+      "reference": "Mt 25:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Parábola dos talentos\\par }Pois será como um homem que, viajando para o estrangeiro, chamou os seus próprios servos e entregou-lhes os seus bens.",
+      "reference": "Mt 25:14"
+    },
+    "15": {
+      "text": "A um deu cinco talentos, a outro dois, a outro um. A cada um de acordo com a sua capacidade. E partiu. Imediatamente,",
+      "reference": "Mt 25:15"
+    },
+    "16": {
+      "text": "o que recebera cinco talentos saiu a trabalhar com eles e ganhou outros cinco.",
+      "reference": "Mt 25:16"
+    },
+    "17": {
+      "text": "Da mesma maneira, o que recebera dois ganhou outros dois.",
+      "reference": "Mt 25:17"
+    },
+    "18": {
+      "text": "Mas aquele que recebera um só tomou-o e foi abrir uma cova no chão. E enterrou o dinheiro do seu senhor.",
+      "reference": "Mt 25:18"
+    },
+    "19": {
+      "text": "Depois de muito tempo, o senhor daqueles servos voltou e pôs-se a ajustar contas com eles.",
+      "reference": "Mt 25:19"
+    },
+    "20": {
+      "text": "Chegando aquele que recebera cinco talentos, entregou-lhe outros cinco, dizendo: ‘Senhor, tu me confiaste cinco talentos. Aqui estão outros cinco que ganhei’.",
+      "reference": "Mt 25:20"
+    },
+    "21": {
+      "text": "Disse-lhe o senhor: ‘Muito bem, servo bom e fiel! Sobre o pouco foste fiel, sobre o muito te colocarei. Vem alegrar-te com o teu senhor!’",
+      "reference": "Mt 25:21"
+    },
+    "22": {
+      "text": "Chegando também o dos dois talentos, disse: ‘Senhor, tu me confiaste dois talentos. Aqui estão outros dois talentos que ganhei’.",
+      "reference": "Mt 25:22"
+    },
+    "23": {
+      "text": "Disse-lhe o senhor: ‘Muito bem, servo bom e fiel! Sobre o pouco foste fiel, sobre o muito te colocarei. Vem alegrar-te com o teu senhor!’",
+      "reference": "Mt 25:23"
+    },
+    "24": {
+      "text": "Por fim, chegando o que recebera um talento, disse: ‘Senhor, eu sabia que és um homem severo, que colhes onde não semeaste e ajuntas onde não espalhaste.",
+      "reference": "Mt 25:24"
+    },
+    "25": {
+      "text": "Assim, amedrontado, fui enterrar o teu talento no chão. Aqui tens o que é teu’.",
+      "reference": "Mt 25:25"
+    },
+    "26": {
+      "text": "A isso respondeu-lhe o senhor: ‘Servo mau e preguiçoso, sabias que eu colho onde não semeei e que ajunto onde não espalhei?",
+      "reference": "Mt 25:26"
+    },
+    "27": {
+      "text": "Pois então devias ter depositado o meu dinheiro com os banqueiros e, ao voltar, eu receberia com juros o que é meu.",
+      "reference": "Mt 25:27"
+    },
+    "28": {
+      "text": "Tirai-lhe o talento que tem e dai-o àquele que tem dez,",
+      "reference": "Mt 25:28"
+    },
+    "29": {
+      "text": "porque a todo aquele que tem será dado e terá em abundância, mas daquele que não tem, até o que tem será tirado.",
+      "reference": "Mt 25:29"
+    },
+    "30": {
+      "text": "Quanto ao servo inútil, lançai-o fora nas trevas. Ali haverá choro e ranger de dentes! \\par",
+      "reference": "Mt 25:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i O último julgamento\\par }Quando o Filho do Homem vier em sua glória, e {\\i todos os anjos com ele,} então se assentará no trono da sua glória.",
+      "reference": "Mt 25:31"
+    },
+    "32": {
+      "text": "E serão reunidas em sua presença todas as nações e ele separará os homens uns dos outros, como o pastor separa as ovelhas dos cabritos,",
+      "reference": "Mt 25:32"
+    },
+    "33": {
+      "text": "e porá as ovelhas à sua direita e os cabritos à sua esquerda.",
+      "reference": "Mt 25:33"
+    },
+    "34": {
+      "text": "Então dirá o rei aos que estiverem à sua direita: ‘Vinde, benditos de meu Pai, recebei por herança o Reino preparado para vós desde a fundação do mundo.",
+      "reference": "Mt 25:34"
+    },
+    "35": {
+      "text": "Pois tive fome e me destes de comer. Tive sede e me destes de beber. Era forasteiro e me recolhestes.",
+      "reference": "Mt 25:35"
+    },
+    "36": {
+      "text": "Estive nu e me vestistes, doente e me visitastes, preso e viestes ver-me’.",
+      "reference": "Mt 25:36"
+    },
+    "37": {
+      "text": "Então os justos lhe responderão: ‘Senhor, quando foi que te vimos com fome e te alimentamos, com sede e te demos de beber?",
+      "reference": "Mt 25:37"
+    },
+    "38": {
+      "text": "Quando foi que te vimos forasteiro e te recolhemos ou nu e te vestimos?",
+      "reference": "Mt 25:38"
+    },
+    "39": {
+      "text": "Quando foi que te vimos doente ou preso e fomos te ver?’",
+      "reference": "Mt 25:39"
+    },
+    "40": {
+      "text": "Ao que lhes responderá o rei: ‘Em verdade vos digo: cada vez que o fizestes a um desses meus irmãos mais pequeninos, a mim o fizestes’.",
+      "reference": "Mt 25:40"
+    },
+    "41": {
+      "text": "Em seguida, dirá aos que estiverem à sua esquerda: ‘Apartai-vos de mim, malditos, para o fogo eterno preparado para o diabo e para os seus anjos.",
+      "reference": "Mt 25:41"
+    },
+    "42": {
+      "text": "Porque tive fome e não me destes de comer. Tive sede e não me destes de beber.",
+      "reference": "Mt 25:42"
+    },
+    "43": {
+      "text": "Fui forasteiro e não me recolhestes. Estive nu e não me vestistes, doente e preso, e não me visitastes’.",
+      "reference": "Mt 25:43"
+    },
+    "44": {
+      "text": "Então, também eles responderão: ‘Senhor, quando é que te vimos com fome ou com sede, forasteiro ou nu, doente ou preso e não te servimos?’",
+      "reference": "Mt 25:44"
+    },
+    "45": {
+      "text": "E ele responderá com estas palavras: ‘Em verdade vos digo: todas as vezes que o deixastes de fazer a um desses pequeninos, foi a mim que o deixastes de fazer’.",
+      "reference": "Mt 25:45"
+    },
+    "46": {
+      "text": "E irão estes para o castigo {\\i eterno,} enquanto {\\i os justos irão para a vida eterna”. }\\par",
+      "reference": "Mt 25:46"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 46
+}

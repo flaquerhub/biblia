@@ -1,0 +1,85 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 40 (39)\\par }{\\qc\\b\\i Ação de graças. Pedido de socorro\\par }{\\qc\\i Do mestre de canto. De Davi. Salmo.\\par }",
+      "reference": "Sl 40:1"
+    },
+    "2": {
+      "text": "Esperei ansiosamente por Iahweh: \\par ele se inclinou para mim \\par e ouviu o meu grito. \\par",
+      "reference": "Sl 40:2"
+    },
+    "3": {
+      "text": "Ele me fez subir da cova fatal, \\par do brejo lodoso; \\par colocou meus pés sobre a rocha, \\par firmando meus passos. \\par",
+      "reference": "Sl 40:3"
+    },
+    "4": {
+      "text": "Pôs em minha boca um cântico novo, \\par um louvor ao nosso Deus; \\par muitos verão e temerão, \\par e confiarão em Iahweh. \\par",
+      "reference": "Sl 40:4"
+    },
+    "5": {
+      "text": "Feliz é este homem \\par cuja confiança é Iahweh: \\par ele não se volta para os soberbos, \\par nem para os sequazes da mentira. \\par",
+      "reference": "Sl 40:5"
+    },
+    "6": {
+      "text": "Quantas maravilhas realizaste, \\par Iahweh meu Deus, \\par quantos projetos em nosso favor: \\par ninguém se compara a ti. \\par Quero anunciá-los, falar deles, \\par mas ultrapassam qualquer conta. \\par",
+      "reference": "Sl 40:6"
+    },
+    "7": {
+      "text": "Não quiseste sacrifício nem oferta, \\par abriste o meu ouvido; \\par não pediste holocausto nem expiação, \\par",
+      "reference": "Sl 40:7"
+    },
+    "8": {
+      "text": "e então eu disse: Eis que eu venho. \\par No rolo do livro foi-me prescrito \\par",
+      "reference": "Sl 40:8"
+    },
+    "9": {
+      "text": "realizar tua vontade; \\par meu Deus, eu quero ter a tua lei \\par dentro das minhas entranhas. \\par",
+      "reference": "Sl 40:9"
+    },
+    "10": {
+      "text": "Anunciei a justiça de Iahweh \\par na grande assembléia; \\par eis que eu não fecho meus lábios, \\par tu o sabes. \\par",
+      "reference": "Sl 40:10"
+    },
+    "11": {
+      "text": "Não escondi tua justiça no fundo do meu coração, \\par falei da tua fidelidade e da tua salvação; \\par não ocultei o teu amor e a tua verdade \\par à grande assembléia. \\par",
+      "reference": "Sl 40:11"
+    },
+    "12": {
+      "text": "Quanto a ti, Iahweh, não negues \\par tua compaixão por mim; \\par teu amor e tua verdade \\par sempre vão me proteger. \\par",
+      "reference": "Sl 40:12"
+    },
+    "13": {
+      "text": "Pois as desgraças me rodeiam \\par a não mais contar; \\par minhas iniqüidades me atingem \\par sem que eu possa vê-las; \\par são mais que os cabelos da minha cabeça, \\par e o coração me abandona. \\par",
+      "reference": "Sl 40:13"
+    },
+    "14": {
+      "text": "Iahweh, digna-te livrar-me! \\par Iahweh, vem depressa em meu socorro! \\par",
+      "reference": "Sl 40:14"
+    },
+    "15": {
+      "text": "Fiquem envergonhados e confundidos \\par os que buscam minha vida para perdê-la! \\par Recuem e fiquem envergonhados \\par os que desejam minha desgraça! \\par",
+      "reference": "Sl 40:15"
+    },
+    "16": {
+      "text": "Fiquem mudos de vergonha \\par os que riem de mim! \\par",
+      "reference": "Sl 40:16"
+    },
+    "17": {
+      "text": "Exultem e se alegrem contigo \\par todos os que te procuram! \\par Os que amam tua salvação \\par repitam sempre: “Iahweh é grande!” \\par",
+      "reference": "Sl 40:17"
+    },
+    "18": {
+      "text": "Quanto a mim, sou pobre e indigente, \\par mas o Senhor cuida de mim. \\par Tu és meu auxílio e salvação; \\par Deus meu, não demores! \\par",
+      "reference": "Sl 40:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

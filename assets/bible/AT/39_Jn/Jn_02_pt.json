@@ -1,0 +1,57 @@
+{
+  "book": 32,
+  "book_name": "Jonas",
+  "book_abbr": "Jn",
+  "book_category": "Profético",
+  "book_english": "Jonah",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Jonas salvo\\par }E Iahweh determinou que surgisse um peixe grande para engolir Jonas. Jonas permaneceu nas entranhas do peixe três dias e três noites.",
+      "reference": "Jn 2:1"
+    },
+    "2": {
+      "text": "Então orou Jonas a Iahweh, seu Deus, das entranhas do peixe.",
+      "reference": "Jn 2:2"
+    },
+    "3": {
+      "text": "Ele disse: \\par De minha angústia clamei a Iahweh, \\par e ele me respondeu; \\par do seio do Xeol pedi ajuda, \\par e tu ouviste a minha voz. \\par",
+      "reference": "Jn 2:3"
+    },
+    "4": {
+      "text": "Lançaste-me nas profundezas, no seio dos mares, \\par e a torrente me cercou, \\par todas as tuas ondas e as tuas vagas \\par passaram sobre mim. \\par",
+      "reference": "Jn 2:4"
+    },
+    "5": {
+      "text": "E eu dizia: Fui expulso \\par de diante de teus olhos. \\par Como poderei contemplar novamente \\par o teu santo Templo? \\par",
+      "reference": "Jn 2:5"
+    },
+    "6": {
+      "text": "As águas me envolveram até o pescoço, \\par o abismo cercou-me, \\par e a alga enrolou-se em volta de minha cabeça. \\par",
+      "reference": "Jn 2:6"
+    },
+    "7": {
+      "text": "Eu desci até às raízes das montanhas, \\par à terra cujos ferrolhos estavam atrás de mim para sempre. \\par Mas tu fizeste subir da fossa a minha vida, \\par Iahweh, meu Deus. \\par",
+      "reference": "Jn 2:7"
+    },
+    "8": {
+      "text": "Quando minha alma desfalecia em mim, \\par eu me lembrei de Iahweh, \\par e minha prece chegou a ti, \\par até o teu santo Templo. \\par",
+      "reference": "Jn 2:8"
+    },
+    "9": {
+      "text": "Aqueles que veneram vaidades mentirosas \\par abandonam o seu amor. \\par",
+      "reference": "Jn 2:9"
+    },
+    "10": {
+      "text": "Quanto a mim, com cantos de ação de graças, \\par oferecer-te-ei sacrifícios \\par e cumprirei os votos que tiver feito: \\par a Iahweh pertence a salvação! \\par",
+      "reference": "Jn 2:10"
+    },
+    "11": {
+      "text": "Então Iahweh falou ao peixe, e este vomitou Jonas sobre a terra firme. \\par",
+      "reference": "Jn 2:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

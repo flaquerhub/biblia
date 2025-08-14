@@ -1,0 +1,69 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Alarme\\par }Põe em tua boca a trombeta! \\par Como uma águia cai a desgraça sobre a casa de Iahweh, \\par porque eles transgrediram a minha aliança \\par e se rebelaram contra a minha Lei. \\par",
+      "reference": "Os 8:1"
+    },
+    "2": {
+      "text": "Eles clamam a mim: “Meu Deus, nós, Israel, te conhecemos”. \\par",
+      "reference": "Os 8:2"
+    },
+    "3": {
+      "text": "Israel rejeitou o bem, \\par o inimigo o perseguirá. \\par",
+      "reference": "Os 8:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Anarquia política e idolatria\\par }Eles instituíram reis sem o meu consentimento, \\par escolheram príncipes, mas eu não tive conhecimento. \\par De sua prata e de seu ouro fizeram ídolos para si, \\par para que sejam destruídos. \\par",
+      "reference": "Os 8:4"
+    },
+    "5": {
+      "text": "Rejeitei o teu bezerro, Samaria! \\par Minha ira inflamou-se contra eles. \\par Até quando serão incapazes de pureza? \\par",
+      "reference": "Os 8:5"
+    },
+    "6": {
+      "text": "Porque ele é de Israel, \\par um artista o fez, \\par ele não é Deus. \\par Sim, o bezerro de Samaria será desfeito em pedaços! \\par",
+      "reference": "Os 8:6"
+    },
+    "7": {
+      "text": "Porque semeiam vento, colherão tempestade! \\par Haste sem espiga, \\par que não produz farinha; \\par mas mesmo que produza, estrangeiros a devorarão. \\par",
+      "reference": "Os 8:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Israel perdido por apelar ao estrangeiro\\par }Israel foi devorado. \\par Agora estão entre as nações \\par como um objeto sem valor! \\par",
+      "reference": "Os 8:8"
+    },
+    "9": {
+      "text": "Quando eles subiram à Assíria, \\par Efraim, um asno selvagem solitário, \\par contratou amantes para si. \\par",
+      "reference": "Os 8:9"
+    },
+    "10": {
+      "text": "Ainda que eles os contratem entre as nações, \\par eu os reunirei agora, \\par e eles tremerão em breve sob o peso do rei dos príncipes. \\par",
+      "reference": "Os 8:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Contra o culto puramente exterior\\par }Sim, Efraim multiplicou os altares para fazer expiação, \\par mas os altares foram para ele ocasião de pecar. \\par",
+      "reference": "Os 8:11"
+    },
+    "12": {
+      "text": "Ainda que eu lhe escreva um grande número de minhas leis, \\par elas são consideradas como algo estranho. \\par",
+      "reference": "Os 8:12"
+    },
+    "13": {
+      "text": "Eles oferecem os sacrifícios que amam, \\par comem a carne, \\par mas Iahweh não os aceitará. \\par Agora ele se lembrará de suas faltas \\par e castigará os seus pecados: \\par eles voltarão ao Egito. \\par",
+      "reference": "Os 8:13"
+    },
+    "14": {
+      "text": "Israel esqueceu aquele que o fez \\par e construiu palácios. \\par Judá multiplicou as cidades fortificadas. \\par Mas eu mandarei fogo sobre suas cidades, \\par o qual consumirá as suas cidadelas. \\par",
+      "reference": "Os 8:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

@@ -1,0 +1,65 @@
+{
+  "book": 15,
+  "book_name": "Esdras",
+  "book_abbr": "Ed",
+  "book_category": "Histórico",
+  "book_english": "Ezra",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Reinício do culto\\par }Quando chegou o sétimo mês, já estando estabelecidos em suas cidades os filhos de Israel, todo o povo se reuniu como um só homem em Jerusalém.",
+      "reference": "Ed 3:1"
+    },
+    "2": {
+      "text": "Josué, filho de Josedec, com seus irmãos, os sacerdotes, e Zorobabel, filho de Salatiel, e seus irmãos, puseram-se a reconstruir o altar do Deus de Israel, para nele se oferecerem holocaustos, como está escrito na Lei de Moisés, homem de Deus.",
+      "reference": "Ed 3:2"
+    },
+    "3": {
+      "text": "Restabeleceram o altar em seu lugar – apesar do medo que tinham dos povos das terras – e ofereceram sobre ele holocaustos a Iahweh, holocaustos da manhã e da tarde;",
+      "reference": "Ed 3:3"
+    },
+    "4": {
+      "text": "celebrou-se a festa das Tendas, como está prescrito, com o número de holocaustos cotidianos que está determinado para cada dia;",
+      "reference": "Ed 3:4"
+    },
+    "5": {
+      "text": "depois, além do holocausto perpétuo, ofereceram os que estão previstos para os sábados, neomênias e todas as solenidades consagradas a Iahweh, além dos sacrifícios espontâneos que cada um desejava oferecer a Iahweh.",
+      "reference": "Ed 3:5"
+    },
+    "6": {
+      "text": "No primeiro dia do sétimo mês, começaram a oferecer holocaustos a Iahweh, embora os alicerces do santuário de Iahweh ainda não tivessem sido colocados. \\par",
+      "reference": "Ed 3:6"
+    },
+    "7": {
+      "text": "Depois deu-se dinheiro aos talhadores de pedra e aos carpinteiros; aos sidônios e tírios foram dados víveres, bebidas e óleo, para que transportassem pelo mar até Jafa, madeiras de cedro vindas do Líbano, segundo a autorização dada por Ciro, rei da Pérsia.",
+      "reference": "Ed 3:7"
+    },
+    "8": {
+      "text": "No segundo ano de sua chegada ao Templo de Deus em Jerusalém, no segundo mês, Zorobabel, filho de Salatiel, e Josué, filho de Josedec, com os outros irmãos seus, os sacerdotes, os levitas e todo o povo que regressou do cativeiro para Jerusalém, começaram a obra; confiaram aos levitas de vinte anos ou mais a direção dos trabalhos do Templo de Iahweh.",
+      "reference": "Ed 3:8"
+    },
+    "9": {
+      "text": "Josué, seus filhos e seus irmos, Cadmiel e seus filhos e os filhos de Odovias puseram-se, pois, unanimemente a dirigir os operários da construção, no Templo de Deus.",
+      "reference": "Ed 3:9"
+    },
+    "10": {
+      "text": "Quando os construtores acabaram de colocar os alicerces do santuário de Iahweh, os sacerdotes, paramentados e com as trombetas, bem como os levitas, filhos de Asaf, com címbalos, apresentaram-se para louvar a Iahweh, segundo as prescrições de Davi, rei de Israel;",
+      "reference": "Ed 3:10"
+    },
+    "11": {
+      "text": "cantaram a Iahweh louvores e ações de graças: “Pois ele é bom, pois eterno é seu amor” por Israel. E o povo todo aclamava em altas vozes, louvando a Iahweh, porque eram lançados os alicerces do Templo de Iahweh.",
+      "reference": "Ed 3:11"
+    },
+    "12": {
+      "text": "Contudo, muitos sacerdotes, muitos levitas e chefes de família, já idosos e que tinham visto o primeiro Templo, choravam em alta voz enquanto, sob suas vistas, se punham os alicerces, mas muitos gritavam de alegria e júbilo.",
+      "reference": "Ed 3:12"
+    },
+    "13": {
+      "text": "E ninguém podia distinguir os gritos de alegria do rumor das lamentações do povo; pois o povo gritava em altos brados e o vozerio se podia ouvir de longe. \\par",
+      "reference": "Ed 3:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

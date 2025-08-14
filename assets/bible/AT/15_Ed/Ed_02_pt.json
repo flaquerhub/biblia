@@ -1,0 +1,293 @@
+{
+  "book": 15,
+  "book_name": "Esdras",
+  "book_abbr": "Ed",
+  "book_category": "Histórico",
+  "book_english": "Ezra",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Lista dos sionistas\\par }Eis os cidadãos da província que voltaram do cativeiro e do Exílio, aqueles que Nabucodonosor, rei de Babilônia, deportara para Babilônia; voltaram para Jerusalém e para Judá; cada um para a sua cidade.",
+      "reference": "Ed 2:1"
+    },
+    "2": {
+      "text": "Eles voltaram com Zorobabel, Josué, Neemias, Saraías, Raelaías, Naamani, Mardoqueu, Belsã, Mesfar, Beguai, Reum, Baana. \\par Lista dos homens do povo de Israel:",
+      "reference": "Ed 2:2"
+    },
+    "3": {
+      "text": "filhos de Faros: dois mil cento e setenta e dois;",
+      "reference": "Ed 2:3"
+    },
+    "4": {
+      "text": "filhos de Safatias: trezentos e setenta e dois;",
+      "reference": "Ed 2:4"
+    },
+    "5": {
+      "text": "filhos de Area: setecentos e setenta e cinco;",
+      "reference": "Ed 2:5"
+    },
+    "6": {
+      "text": "filhos de Faat-Moab, isto é, filhos de Josué e de Joab: dois mil oitocentos e doze;",
+      "reference": "Ed 2:6"
+    },
+    "7": {
+      "text": "filhos de Elam: mil duzentos e cinqüenta e quatro;",
+      "reference": "Ed 2:7"
+    },
+    "8": {
+      "text": "filhos de Zetua: novecentos e quarenta e cinco;",
+      "reference": "Ed 2:8"
+    },
+    "9": {
+      "text": "filhos de Zacai: setecentos e sessenta;",
+      "reference": "Ed 2:9"
+    },
+    "10": {
+      "text": "filhos de Bani: seiscentos e quarenta e dois;",
+      "reference": "Ed 2:10"
+    },
+    "11": {
+      "text": "filhos de Bebai: seiscentos e vinte e três;",
+      "reference": "Ed 2:11"
+    },
+    "12": {
+      "text": "filhos de Azgad: mil duzentos e vinte e dois;",
+      "reference": "Ed 2:12"
+    },
+    "13": {
+      "text": "filhos de Adonicam: seiscentos e sessenta e seis;",
+      "reference": "Ed 2:13"
+    },
+    "14": {
+      "text": "filhos de Beguai: dois mil e cinqüenta e seis;",
+      "reference": "Ed 2:14"
+    },
+    "15": {
+      "text": "filhos de Adin: quatrocentos e cinqüenta e quatro;",
+      "reference": "Ed 2:15"
+    },
+    "16": {
+      "text": "filhos de Ater, isto é, de Ezequias: noventa e oito;",
+      "reference": "Ed 2:16"
+    },
+    "17": {
+      "text": "filhos de Besai: trezentos e vinte e três;",
+      "reference": "Ed 2:17"
+    },
+    "18": {
+      "text": "filhos de Jora: cento e doze;",
+      "reference": "Ed 2:18"
+    },
+    "19": {
+      "text": "filhos de Hasum: duzentos e vinte e três;",
+      "reference": "Ed 2:19"
+    },
+    "20": {
+      "text": "filhos de Gebar: noventa e cinco;",
+      "reference": "Ed 2:20"
+    },
+    "21": {
+      "text": "filhos de Belém: cento e vinte e três;",
+      "reference": "Ed 2:21"
+    },
+    "22": {
+      "text": "homens de Netofa: cinqüenta e seis;",
+      "reference": "Ed 2:22"
+    },
+    "23": {
+      "text": "homens de Anatot: cento e vinte e oito;",
+      "reference": "Ed 2:23"
+    },
+    "24": {
+      "text": "filhos de Azmot: quarenta e dois;",
+      "reference": "Ed 2:24"
+    },
+    "25": {
+      "text": "filhos de Cariat-Iarim, Cafira e Berot: setecentos e quarenta e três;",
+      "reference": "Ed 2:25"
+    },
+    "26": {
+      "text": "filhos de Ramá e Gaba: seiscentos e vinte e um;",
+      "reference": "Ed 2:26"
+    },
+    "27": {
+      "text": "homens de Macmas: cento e vinte e dois;",
+      "reference": "Ed 2:27"
+    },
+    "28": {
+      "text": "homens de Betel e de Hai: duzentos e vinte e três;",
+      "reference": "Ed 2:28"
+    },
+    "29": {
+      "text": "filhos de Nebo: cinqüenta e dois;",
+      "reference": "Ed 2:29"
+    },
+    "30": {
+      "text": "filhos de Megbis: cento e cinqüenta e seis;",
+      "reference": "Ed 2:30"
+    },
+    "31": {
+      "text": "filhos de outro Elam: mil duzentos e cinqüenta e quatro;",
+      "reference": "Ed 2:31"
+    },
+    "32": {
+      "text": "filhos de Harim: trezentos e vinte;",
+      "reference": "Ed 2:32"
+    },
+    "33": {
+      "text": "filhos de Lod, Hadid e Ono: setecentos e vinte e cinco;",
+      "reference": "Ed 2:33"
+    },
+    "34": {
+      "text": "filhos de Jericó: trezentos e quarenta e cinco;",
+      "reference": "Ed 2:34"
+    },
+    "35": {
+      "text": "filhos de Senaá: três mil seiscentos e trinta. \\par",
+      "reference": "Ed 2:35"
+    },
+    "36": {
+      "text": "Sacerdotes: filhos de Jedaías, isto é, a casa de Josué: novecentos e setenta e três;",
+      "reference": "Ed 2:36"
+    },
+    "37": {
+      "text": "filhos de Emer: mil e cinqüenta e dois;",
+      "reference": "Ed 2:37"
+    },
+    "38": {
+      "text": "filhos de Fasur: mil duzentos e quarenta e sete;",
+      "reference": "Ed 2:38"
+    },
+    "39": {
+      "text": "filhos de Harim: mil e dezessete. \\par",
+      "reference": "Ed 2:39"
+    },
+    "40": {
+      "text": "Levitas: filhos de Josué, e Cadmiel, filhos de Odovias: setenta e quatro. \\par",
+      "reference": "Ed 2:40"
+    },
+    "41": {
+      "text": "Cantores: filhos de Asaf: cento e vinte e oito. \\par",
+      "reference": "Ed 2:41"
+    },
+    "42": {
+      "text": "Filhos dos porteiros: filhos de Selum, filhos de Ater, filhos de Telmon, filhos de Acub, filhos de Hatita, filhos de Sobai: ao todo cento e trinta e nove. \\par",
+      "reference": "Ed 2:42"
+    },
+    "43": {
+      "text": "“Doados”: filhos de Sia, filhos de Hasufa, filhos de Tabaot,",
+      "reference": "Ed 2:43"
+    },
+    "44": {
+      "text": "filhos de Ceros, filhos de Siá, filhos de Fadon,",
+      "reference": "Ed 2:44"
+    },
+    "45": {
+      "text": "filhos de Lebana, filhos de Hagaba, filhos de Acub,",
+      "reference": "Ed 2:45"
+    },
+    "46": {
+      "text": "filhos de Hagab, filhos de Semlai, filhos de Hanã,",
+      "reference": "Ed 2:46"
+    },
+    "47": {
+      "text": "filhos de Cidel, filhos de Gaer, filhos de Raaías,",
+      "reference": "Ed 2:47"
+    },
+    "48": {
+      "text": "filhos de Rasin, filhos de Necoda, filhos de Gazam,",
+      "reference": "Ed 2:48"
+    },
+    "49": {
+      "text": "filhos de Uza, filhos de Fasea, filhos de Besai,",
+      "reference": "Ed 2:49"
+    },
+    "50": {
+      "text": "filhos de Asena, filhos dos meunitas, filhos dos nefusitas,",
+      "reference": "Ed 2:50"
+    },
+    "51": {
+      "text": "filhos de Bacbuc, filhos de Hacufa, filhos de Harur,",
+      "reference": "Ed 2:51"
+    },
+    "52": {
+      "text": "filhos de Baslut, filhos de Maida, filhos de Harsa,",
+      "reference": "Ed 2:52"
+    },
+    "53": {
+      "text": "filhos de Bercos, filhos de Sísara, filhos de Tema,",
+      "reference": "Ed 2:53"
+    },
+    "54": {
+      "text": "filhos de Nasias, filhos de Hatifa. \\par",
+      "reference": "Ed 2:54"
+    },
+    "55": {
+      "text": "Filhos dos escravos de Salomão: filhos de Sotai, filhos de Soferet, filhos de Feruda,",
+      "reference": "Ed 2:55"
+    },
+    "56": {
+      "text": "filhos de Jaala, filhos de Darcon, filhos de Gidel,",
+      "reference": "Ed 2:56"
+    },
+    "57": {
+      "text": "filhos de Safatias, filhos de Hatil, filhos de Foqueret-Assebaim, filhos de Ami.",
+      "reference": "Ed 2:57"
+    },
+    "58": {
+      "text": "Total dos “doados” e dos filhos dos escravos de Salomão: trezentos e noventa e dois. \\par",
+      "reference": "Ed 2:58"
+    },
+    "59": {
+      "text": "Quanto aos seguintes, que vinham de Tel-Mela, Tel-Harsa, Querub, Adon e Emer, não puderam provar que sua família e sua estirpe eram de origem israelita:",
+      "reference": "Ed 2:59"
+    },
+    "60": {
+      "text": "filhos de Dalaías, filhos de Tobias, filhos de Necoda: seiscentos e cinqüenta e dois.",
+      "reference": "Ed 2:60"
+    },
+    "61": {
+      "text": "E entre os filhos dos sacerdotes: filhos de Habias, filhos de Acos, filhos de Berzelai – este se casara com uma das filhas de Berzelai, o galaadita, cujo nome adotou.",
+      "reference": "Ed 2:61"
+    },
+    "62": {
+      "text": "Esses procuraram seus registros genealógicos, e, não os achando, foram excluídos do sacerdócio como impuros",
+      "reference": "Ed 2:62"
+    },
+    "63": {
+      "text": "e Sua Excelência proibiu-lhes comer dos alimentos sagrados até que se apresentasse um sacerdote para o {\\i Urim} e o {\\i Tummim.}\\par",
+      "reference": "Ed 2:63"
+    },
+    "64": {
+      "text": "Toda a assembléia reunida era de quarenta e duas mil trezentas e sessenta pessoas,",
+      "reference": "Ed 2:64"
+    },
+    "65": {
+      "text": "sem contar seus escravos e escravas, em número de sete mil trezentos e trinta e sete. Tinham consigo também duzentos cantores e cantoras.",
+      "reference": "Ed 2:65"
+    },
+    "66": {
+      "text": "Possuíam setecentos e trinta e seis cavalos e duzentas e quarenta e cinco mulas,",
+      "reference": "Ed 2:66"
+    },
+    "67": {
+      "text": "quatrocentos e trinta e cinco camelos e seis mil e setecentos e vinte jumentos. \\par",
+      "reference": "Ed 2:67"
+    },
+    "68": {
+      "text": "Vários chefes de família, chegando ao Templo de Iahweh que está em Jerusalém, fizeram oferendas voluntárias para o Templo de Deus, a fim de que fosse reconstruído em seu local.",
+      "reference": "Ed 2:68"
+    },
+    "69": {
+      "text": "Segundo suas posses, deram ao tesouro do culto sessenta e uma mil dracmas de ouro, cinco mil minas de prata e cem túnicas sacerdotais. \\par",
+      "reference": "Ed 2:69"
+    },
+    "70": {
+      "text": "Os sacerdotes, os levitas e uma parte do povo se instalaram em Jerusalém; cantores, porteiros e “doados”, em suas cidades, e todos os outros israelitas em suas cidades. \\par",
+      "reference": "Ed 2:70"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 70
+}

@@ -1,0 +1,81 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O Cordeiro abre os sete selos\\par }Vi quando o Cordeiro abriu o primeiro dos sete selos, e ouvi o primeiro dos quatro Seres vivos dizer como o estrondo dum trovão: “Vem!”",
+      "reference": "Ap 6:1"
+    },
+    "2": {
+      "text": "Vi então aparecer {\\i um cavalo branco}, cujo montador tinha {\\i um arco.} Deram-lhe uma coroa e ele partiu, vencedor e para vencer ainda. \\par",
+      "reference": "Ap 6:2"
+    },
+    "3": {
+      "text": "Quando abriu o segundo selo, ouvi o segundo Ser vivo dizer: “Vem!”",
+      "reference": "Ap 6:3"
+    },
+    "4": {
+      "text": "Apareceu então um outro cavalo, vermelho, e ao seu montador foi concedido o poder de tirar a paz da terra, para que os homens {\\i se matassem entre si.} Entregaram-lhe também {\\i uma grande espada.}\\par",
+      "reference": "Ap 6:4"
+    },
+    "5": {
+      "text": "Quando abriu o terceiro selo, ouvi o terceiro Ser vivo dizer: “Vem!” Eis que apareceu um cavalo negro, cujo montador tinha na mão uma balança.",
+      "reference": "Ap 6:5"
+    },
+    "6": {
+      "text": "Ouvi então uma voz, vinda do meio dos quatro Seres vivos, que dizia: “Um litro de trigo por um denário e três litros de cevada por um denário! Quanto {\\i ao óleo e ao vinho}, não causes prejuízo”. \\par",
+      "reference": "Ap 6:6"
+    },
+    "7": {
+      "text": "Quando abriu o quarto selo, ouvi a voz do quarto Ser vivo que dizia: “Vem!”",
+      "reference": "Ap 6:7"
+    },
+    "8": {
+      "text": "Vi aparecer um cavalo esverdeado. Seu montador chamava-se “a Morte” e o Hades o acompanhava. Foi-lhe dado poder sobre a quarta parte da terra, {\\i para que exterminasse pela espada, pela fome, pela peste e pelas feras da terra.}\\par",
+      "reference": "Ap 6:8"
+    },
+    "9": {
+      "text": "Quando abriu o quinto selo, vi sob o altar as vidas dos que tinham sido imolados por causa da Palavra de Deus e do testemunho que dela tinham prestado.",
+      "reference": "Ap 6:9"
+    },
+    "10": {
+      "text": "E eles clamaram em alta voz: \\par “Até quando, ó Senhor santo e verdadeiro, \\par tardarás em fazer justiça, \\par vingando nosso sangue \\par contra os habitantes da terra?” \\par",
+      "reference": "Ap 6:10"
+    },
+    "11": {
+      "text": "A cada um deles foi dada, então, uma veste branca e foi-lhes dito, também, que repousassem por mais um pouco de tempo, até que se completasse o número dos seus companheiros e irmãos, que iriam ser mortos como eles. \\par",
+      "reference": "Ap 6:11"
+    },
+    "12": {
+      "text": "Vi quando ele abriu o sexto selo: houve um grande terremoto; o sol tornou-se negro como um saco de crina, e a lua inteira como sangue;",
+      "reference": "Ap 6:12"
+    },
+    "13": {
+      "text": "{\\i as estrelas do céu se precipitaram} sobre a terra, {\\i como a figueira} que deixa cair seus frutos ainda verdes ao ser agitada por um forte cento;",
+      "reference": "Ap 6:13"
+    },
+    "14": {
+      "text": "{\\i o céu afastou-se, como um livro que é enrolado}; as montanhas todas e as ilhas foram removidas de seu lugar;",
+      "reference": "Ap 6:14"
+    },
+    "15": {
+      "text": "os reis da terra, os magnatas, os capitães, os ricos e os poderosos, todos, escravos e homens livres, {\\i esconderam-se nas cavernas e pelos rochedos} das montanhas,",
+      "reference": "Ap 6:15"
+    },
+    "16": {
+      "text": "{\\i dizendo aos montes} e às pedras: “{\\i Desmoronai sobre nós} e escondei-nos da face daquele que está sentado no trono, e da ira do Cordeiro,",
+      "reference": "Ap 6:16"
+    },
+    "17": {
+      "text": "{\\i pois chegou o Grande Dia da sua ira, e quem poderá ficar de pé?}” \\par",
+      "reference": "Ap 6:17"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 17
+}

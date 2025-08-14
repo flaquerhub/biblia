@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 56,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 56 (55)\\par }{\\qc\\b\\i O fiel não sucumbirá\\par }{\\qc\\i Do mestre de canto. Sobre “A opressão dos príncipes longínquos”. De Davi. À meia-voz. Quando os filisteus o prenderam em Gat. \\par }",
+      "reference": "Sl 56:1"
+    },
+    "2": {
+      "text": "Tem piedade de mim, ó Deus, pois me atormentam, \\par o dia todo me oprime um combatente. \\par",
+      "reference": "Sl 56:2"
+    },
+    "3": {
+      "text": "Os que me espreitam o dia todo me atormentam, \\par são muitos os que do alto me combatem. \\par",
+      "reference": "Sl 56:3"
+    },
+    "4": {
+      "text": "No dia em que eu temo, eu confio em ti. \\par",
+      "reference": "Sl 56:4"
+    },
+    "5": {
+      "text": "Em Deus, cuja palavra eu louvo, \\par em Deus eu confio: jamais temerei! \\par O que pode um mortal fazer contra mim? \\par",
+      "reference": "Sl 56:5"
+    },
+    "6": {
+      "text": "Todo dia eles torcem minha causa, \\par seus pensamentos todos são o mal contra mim; \\par",
+      "reference": "Sl 56:6"
+    },
+    "7": {
+      "text": "eles se reúnem, se escondem, observam meus passos, \\par espreitando com avidez a minha vida. \\par",
+      "reference": "Sl 56:7"
+    },
+    "8": {
+      "text": "Rejeita-os, por causa da iniqüidade! \\par Ó Deus, derruba os povos com tua ira! \\par",
+      "reference": "Sl 56:8"
+    },
+    "9": {
+      "text": "Já contaste os meus passos de errante, \\par recolhe minhas lágrimas em teu odre! \\par",
+      "reference": "Sl 56:9"
+    },
+    "10": {
+      "text": "E meus inimigos recuarão \\par no dia em que eu te invocar! \\par Bem sei que Deus está comigo. \\par",
+      "reference": "Sl 56:10"
+    },
+    "11": {
+      "text": "Em Deus, cuja palavra eu louvo, \\par em Iahweh, cuja palavra eu louvo, \\par",
+      "reference": "Sl 56:11"
+    },
+    "12": {
+      "text": "em Deus eu confio: jamais temerei! \\par Que poderia fazer-me o homem? \\par",
+      "reference": "Sl 56:12"
+    },
+    "13": {
+      "text": "Mantenho os votos que a ti fiz, ó Deus, \\par cumprirei a ti as ações de graças; \\par",
+      "reference": "Sl 56:13"
+    },
+    "14": {
+      "text": "pois livraste minha vida da morte, \\par para que eu ande na presença de Deus, \\par na luz dos vivos. \\par",
+      "reference": "Sl 56:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

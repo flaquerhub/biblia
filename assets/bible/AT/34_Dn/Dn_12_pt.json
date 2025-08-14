@@ -1,0 +1,65 @@
+{
+  "book": 27,
+  "book_name": "Daniel",
+  "book_abbr": "Dn",
+  "book_category": "Profético",
+  "book_english": "Daniel",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Nesse tempo levantar-se-á Miguel, o grande Príncipe, que se conserva junto dos filhos do teu povo. Será um tempo de tal angústia qual jamais terá havido até aquele tempo, desde que as nações existem. Mas nesse tempo o teu povo escapará, isto é, todos os que se encontrarem inscritos no Livro. \\par",
+      "reference": "Dn 12:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Ressurreição e retribuição\\par }E muitos dos que dormem no solo poeirento acordarão, uns para a vida eterna e outros para o opróbrio, para o horror eterno.",
+      "reference": "Dn 12:2"
+    },
+    "3": {
+      "text": "Os que são esclarecidos resplandecerão, como o resplendor do firmamento; e os que ensinam a muitos a justiça hão de ser como as estrelas, por toda a eternidade. \\par",
+      "reference": "Dn 12:3"
+    },
+    "4": {
+      "text": "Quanto a ti, Daniel, guarda em segredo estas palavras e mantém lacrado o livro até o tempo do Fim. Muitos andarão errantes, e a iniqüidade aumentará”. \\par",
+      "reference": "Dn 12:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i A profecia reservada\\par }Estava olhando, eu, Daniel, quando vi dois outros que se mantinham de pé, um sobre um lado, à margem do rio, outro do outro lado, também à margem do rio.",
+      "reference": "Dn 12:5"
+    },
+    "6": {
+      "text": "E um deles disse ao homem vestido de linho, que se achava contra a correnteza do rio: “Até quando o tempo das coisas inauditas?”",
+      "reference": "Dn 12:6"
+    },
+    "7": {
+      "text": "Ouvi o homem vestido de linho, que se achava contra a correnteza do rio, o qual ergueu para o céu a mão direita e a mão esquerda, jurando por Aquele que vive eternamente: “Será por um tempo, dois tempos e metade de um tempo. E quando se completar o esmagamento da força do povo santo, essas coisas todas hão de consumar-se!”",
+      "reference": "Dn 12:7"
+    },
+    "8": {
+      "text": "Eu ouvi, mas sem compreender. Então perguntei: “Meu senhor, e como será a consumação dessas coisas?”",
+      "reference": "Dn 12:8"
+    },
+    "9": {
+      "text": "Ele respondeu: “Vai, Daniel, pois estas palavras estão fechadas e reservadas até o tempo do Fim.",
+      "reference": "Dn 12:9"
+    },
+    "10": {
+      "text": "Muitos serão purificados, alvejados e acrisolados. Os maus agirão com maldade, e todos os maus ficarão sem compreender. Os que estão esclarecidos, porém, compreenderão.",
+      "reference": "Dn 12:10"
+    },
+    "11": {
+      "text": "A contar do momento em que tiver sido abolido o sacrifício perpétuo e for instalada a abominação da desolação, haverá mil duzentos e noventa dias.",
+      "reference": "Dn 12:11"
+    },
+    "12": {
+      "text": "Bem-aventurado aquele que perseverar, chegando a mil trezentos e trinta e cinco dias.",
+      "reference": "Dn 12:12"
+    },
+    "13": {
+      "text": "Quanto a ti, vai tomar o teu repouso. Depois te levantarás para receber a tua parte, no fim dos dias”. \\par",
+      "reference": "Dn 12:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

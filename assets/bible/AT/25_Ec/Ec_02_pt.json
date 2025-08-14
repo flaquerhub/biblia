@@ -1,0 +1,117 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Eu disse a mim mesmo: Pois bem, eu te farei experimentar a alegria e conhecer a felicidade! Mas também isso é vaidade.",
+      "reference": "Ec 2:1"
+    },
+    "2": {
+      "text": "Do riso eu disse: “Tolice”, e da alegria: “Para que serve?”",
+      "reference": "Ec 2:2"
+    },
+    "3": {
+      "text": "Ponderei seriamente entregar meu corpo ao vinho, mantendo meu coração sob a influência da sabedoria, e render-me à insensatez, para averiguar o que convém ao homem fazer debaixo do sol durante os dias contados da sua vida.",
+      "reference": "Ec 2:3"
+    },
+    "4": {
+      "text": "Fiz obras magníficas: construí palácios para mim, plantei vinhedos,",
+      "reference": "Ec 2:4"
+    },
+    "5": {
+      "text": "fiz jardins e parques onde plantei árvores frutíferas de toda espécie.",
+      "reference": "Ec 2:5"
+    },
+    "6": {
+      "text": "Construí reservatórios de água para regar as árvores novas do bosque.",
+      "reference": "Ec 2:6"
+    },
+    "7": {
+      "text": "Adquiri escravos e escravas, tinha criadagem e possuía muitos rebanhos de vacas e ovelhas, mais do que os meus predecessores em Jerusalém.",
+      "reference": "Ec 2:7"
+    },
+    "8": {
+      "text": "Acumulei também prata e ouro, as riquezas dos reis e das províncias. Escolhi cantores e cantoras e todas as delícias dos homens, toda a abundância dos cofres.",
+      "reference": "Ec 2:8"
+    },
+    "9": {
+      "text": "Ultrapassei e avantajei-me a todos quantos me precederam em Jerusalém, e a sabedoria permanecia junto a mim.",
+      "reference": "Ec 2:9"
+    },
+    "10": {
+      "text": "Ao que os olhos me pediam nada recusei, nem privei meu coração de alegria alguma; sabia desfrutar de todo o meu trabalho, e esta foi minha porção em todo o meu trabalho. \\par",
+      "reference": "Ec 2:10"
+    },
+    "11": {
+      "text": "Então examinei todas as obras de minhas mãos e o trabalho que me custou para realizá-las, e eis que tudo era vaidade e correr atrás do vento, e nada havia de proveitoso debaixo do sol.",
+      "reference": "Ec 2:11"
+    },
+    "12": {
+      "text": "Pus-me então a examinar a sabedoria, a tolice e a insensatez. Que fará o sucessor do rei? O que já haviam feito.",
+      "reference": "Ec 2:12"
+    },
+    "13": {
+      "text": "Observei que a sabedoria é mais proveitosa do que a insensatez, assim como a luz é mais que as trevas. \\par",
+      "reference": "Ec 2:13"
+    },
+    "14": {
+      "text": "O sábio tem os olhos abertos, \\par o insensato caminha nas trevas. \\par Porém compreendi que ambos terão a mesma sorte. \\par",
+      "reference": "Ec 2:14"
+    },
+    "15": {
+      "text": "Por isso disse a mim mesmo: “A sorte do insensato será também a minha; para que então me tornei sábio?” Disse a mim mesmo: “Isso também é vaidade”.",
+      "reference": "Ec 2:15"
+    },
+    "16": {
+      "text": "Não há lembrança durável do sábio e nem do insensato, pois nos anos vindouros tudo será esquecido: o sábio morre com o insensato. \\par",
+      "reference": "Ec 2:16"
+    },
+    "17": {
+      "text": "Detesto a vida, pois vejo que a obra que se faz debaixo do sol me desagrada: tudo é vaidade e correr atrás do vento. \\par",
+      "reference": "Ec 2:17"
+    },
+    "18": {
+      "text": "Detesto todo o trabalho com que me afadigo debaixo do sol pois, se tenho que deixar tudo ao meu sucessor,",
+      "reference": "Ec 2:18"
+    },
+    "19": {
+      "text": "quem sabe se ele será sábio ou néscio? Todavia, ele será dono de todo o trabalho com que me afadiguei com sabedoria debaixo do sol; e isso também é vaidade.",
+      "reference": "Ec 2:19"
+    },
+    "20": {
+      "text": "E meu coração ficou desenganado de todo o trabalho com que me afadiguei debaixo do sol. \\par",
+      "reference": "Ec 2:20"
+    },
+    "21": {
+      "text": "Há quem trabalhe com sabedoria, conhecimento e sucesso, e deixe sua porção a outro que não trabalhou. Isso também é vaidade e grande desgraça.",
+      "reference": "Ec 2:21"
+    },
+    "22": {
+      "text": "Com efeito, o que resta ao homem de todo o trabalho e esforço com que o seu coração se afadigou debaixo do sol? \\par",
+      "reference": "Ec 2:22"
+    },
+    "23": {
+      "text": "Sim, seus dias todos são dolorosos e sua tarefa é penosa, e mesmo de noite ele não pode repousar. Isso também é vaidade. \\par",
+      "reference": "Ec 2:23"
+    },
+    "24": {
+      "text": "Eis que a felicidade do homem é comer e beber, desfrutando do produto do seu trabalho; e vejo que também isso vem da mão de Deus,",
+      "reference": "Ec 2:24"
+    },
+    "25": {
+      "text": "pois quem pode comer e beber sem que isso venha de Deus?",
+      "reference": "Ec 2:25"
+    },
+    "26": {
+      "text": "Ao homem do seu agrado ele dá sabedoria, conhecimento e alegria; mas ao pecador impõe como tarefa ajuntar e acumular para dar a quem agrada a Deus. Isso também é vaidade e correr atrás do vento. \\par",
+      "reference": "Ec 2:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

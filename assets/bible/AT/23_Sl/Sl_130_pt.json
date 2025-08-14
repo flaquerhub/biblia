@@ -1,0 +1,45 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 130,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 130 (129)\\par }{\\qc\\b\\i De profundis\\par }{\\qc\\i Cântico das subidas.\\par } Das profundezas clamo a ti, Iahweh: \\par",
+      "reference": "Sl 130:1"
+    },
+    "2": {
+      "text": "Senhor, ouve o meu grito! \\par Que teus ouvidos estejam atentos \\par ao meu pedido por graça! \\par",
+      "reference": "Sl 130:2"
+    },
+    "3": {
+      "text": "Se fazes conta das culpas, Iahweh, \\par Senhor, quem poderá se manter? \\par",
+      "reference": "Sl 130:3"
+    },
+    "4": {
+      "text": "Mas contigo está o perdão, \\par para que sejas temido. \\par",
+      "reference": "Sl 130:4"
+    },
+    "5": {
+      "text": "Eu espero, Iahweh, \\par e minha alma espera, \\par confiando na tua palavra; \\par",
+      "reference": "Sl 130:5"
+    },
+    "6": {
+      "text": "minha alma aguarda o Senhor \\par mais que os guardas pela aurora. \\par Mais que os guardas pela aurora \\par",
+      "reference": "Sl 130:6"
+    },
+    "7": {
+      "text": "aguarde Israel a Iahweh, \\par pois com Iahweh está o amor, \\par e redenção em abundância: \\par",
+      "reference": "Sl 130:7"
+    },
+    "8": {
+      "text": "ele vai resgatar Israel \\par de suas iniqüidades todas. \\par",
+      "reference": "Sl 130:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

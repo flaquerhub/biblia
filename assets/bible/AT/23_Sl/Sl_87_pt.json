@@ -1,0 +1,41 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 87,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 87 (86)\\par }{\\qc\\b\\i Sião, mãe dos povos\\par }{\\qc\\i Dos filhos de Coré. Salmo. Cântico.\\par } Fundada sobre as montanhas sagradas, \\par",
+      "reference": "Sl 87:1"
+    },
+    "2": {
+      "text": "Iahweh ama \\par as portas de Sião \\par mais que todas as moradas de Jacó. \\par",
+      "reference": "Sl 87:2"
+    },
+    "3": {
+      "text": "Ele conta glórias de ti, \\par ó cidade de Deus: {\\i Pausa} \\par",
+      "reference": "Sl 87:3"
+    },
+    "4": {
+      "text": "“Eu recordo Raab e Babilônia \\par entre os que me conhecem; \\par eis a Filistéia, Tiro e Etiópia, \\par onde tal homem nasceu”. \\par",
+      "reference": "Sl 87:4"
+    },
+    "5": {
+      "text": "Mas de Sião será dito: \\par “Todo homem ali nasceu” \\par e foi o Altíssimo que a firmou. \\par",
+      "reference": "Sl 87:5"
+    },
+    "6": {
+      "text": "Iahweh inscreve os povos no registro: \\par “Este homem ali nasceu”, \\par",
+      "reference": "Sl 87:6"
+    },
+    "7": {
+      "text": "tanto os príncipes, como os filhos \\par todos têm sua morada em ti. \\par",
+      "reference": "Sl 87:7"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 7
+}

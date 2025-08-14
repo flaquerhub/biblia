@@ -1,0 +1,105 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 74,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 74 (73)\\par }{\\qc\\b\\i Lamentação após o saque do Templo\\par }{\\qc\\i Poema de Asaf.\\par } Por que rejeitar até o fim, ó Deus, \\par ardendo em ira contra o rebanho do teu pasto? \\par",
+      "reference": "Sl 74:1"
+    },
+    "2": {
+      "text": "Recorda tua assembléia que adquiriste desde a origem, \\par a tribo que redimiste como tua herança, \\par este monte Sião em quem habitas. \\par",
+      "reference": "Sl 74:2"
+    },
+    "3": {
+      "text": "Eleva teus passos para estas ruínas sem fim: \\par o inimigo saqueou tudo no santuário; \\par",
+      "reference": "Sl 74:3"
+    },
+    "4": {
+      "text": "os opressores rugiram no lugar das tuas assembléias, \\par puseram suas insígnias no frontão da entrada, \\par insígnias",
+      "reference": "Sl 74:4"
+    },
+    "5": {
+      "text": "que não eram conhecidas. \\par Como quem brande um machado no bosque, \\par",
+      "reference": "Sl 74:5"
+    },
+    "6": {
+      "text": "eles derribaram os batentes, \\par golpeando com machado e com martelo; \\par",
+      "reference": "Sl 74:6"
+    },
+    "7": {
+      "text": "atearam fogo no teu santuário, \\par profanaram até ao chão a morada do teu nome. \\par",
+      "reference": "Sl 74:7"
+    },
+    "8": {
+      "text": "Diziam em seu coração: “Arrasemo-los de uma vez!” \\par Queimaram todos os lugares das assembléias de Deus na terra. \\par",
+      "reference": "Sl 74:8"
+    },
+    "9": {
+      "text": "Já não vemos nossos sinais, não existem mais profetas, \\par e dentre nós ninguém sabe até quando. \\par",
+      "reference": "Sl 74:9"
+    },
+    "10": {
+      "text": "Até quando, ó Deus, o opressor vai blasfemar? \\par O inimigo vai desprezar o teu nome até o fim? \\par",
+      "reference": "Sl 74:10"
+    },
+    "11": {
+      "text": "Por que retiras tua mão, \\par e manténs tua direita escondida no peito? \\par",
+      "reference": "Sl 74:11"
+    },
+    "12": {
+      "text": "Tu porém, ó Deus, és meu rei desde a origem, \\par quem opera libertações pela terra; \\par",
+      "reference": "Sl 74:12"
+    },
+    "13": {
+      "text": "tu dividiste o mar com teu poder, \\par quebraste as cabeças dos monstros das águas; \\par",
+      "reference": "Sl 74:13"
+    },
+    "14": {
+      "text": "tu esmagaste as cabeças do Leviatã \\par dando-o como alimento às feras selvagens; \\par",
+      "reference": "Sl 74:14"
+    },
+    "15": {
+      "text": "Tu abriste fontes e torrentes, \\par tu fizeste secar rios inesgotáveis; \\par",
+      "reference": "Sl 74:15"
+    },
+    "16": {
+      "text": "o dia te pertence, e a noite é tua, \\par tu firmaste a luz e o sol, \\par",
+      "reference": "Sl 74:16"
+    },
+    "17": {
+      "text": "tu puseste todos os limites da terra, \\par tu formaste o verão e o inverno. \\par",
+      "reference": "Sl 74:17"
+    },
+    "18": {
+      "text": "Lembra-te, Iahweh, do inimigo que blasfema, \\par do povo insensato que ultraja teu nome. \\par",
+      "reference": "Sl 74:18"
+    },
+    "19": {
+      "text": "Não entregues à fera a vida de tua rola, \\par Não esqueças até o fim a vida dos teus pobres. \\par",
+      "reference": "Sl 74:19"
+    },
+    "20": {
+      "text": "Olha para a Aliança, \\par pois os recantos da terra estão cheios, \\par são antros de violência. \\par",
+      "reference": "Sl 74:20"
+    },
+    "21": {
+      "text": "Não volte o oprimido coberto de confusão, \\par que o pobre e o indigente louvem o teu nome. \\par",
+      "reference": "Sl 74:21"
+    },
+    "22": {
+      "text": "Levanta-te, ó Deus, pleiteia tua causa, \\par lembra-te do insensato que te ultraja o dia todo! \\par",
+      "reference": "Sl 74:22"
+    },
+    "23": {
+      "text": "Não te esqueças do rumor dos teus adversários, \\par do tumulto crescente dos que se rebelam contra ti. \\par",
+      "reference": "Sl 74:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

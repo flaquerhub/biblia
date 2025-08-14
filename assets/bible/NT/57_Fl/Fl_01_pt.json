@@ -1,0 +1,133 @@
+{
+  "book": 50,
+  "book_name": "Filipenses",
+  "book_abbr": "Fp",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Philippians",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Endereço e saudação\\par }Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os seus epíscopos e diáconos:",
+      "reference": "Fp 1:1"
+    },
+    "2": {
+      "text": "a vós graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo! \\par",
+      "reference": "Fp 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Ação de graças e oração\\par }Dou graças ao meu Deus todas as vezes que me lembro de vós,",
+      "reference": "Fp 1:3"
+    },
+    "4": {
+      "text": "e sempre em todas as minhas súplicas oro por todos vós com alegria,",
+      "reference": "Fp 1:4"
+    },
+    "5": {
+      "text": "pela vossa participação no evangelho desde o primeiro dia até agora,",
+      "reference": "Fp 1:5"
+    },
+    "6": {
+      "text": "e tenho plena certeza de que aquele que começou em vós a boa obra há de levá-la à perfeição até o dia de Cristo Jesus.",
+      "reference": "Fp 1:6"
+    },
+    "7": {
+      "text": "E é justo que eu assim pense de todos vós, porque vos tenho no meu coração, a todos vós que, nas minhas prisões e na defesa e afirmação do evangelho, comigo vos tornastes participantes da graça.",
+      "reference": "Fp 1:7"
+    },
+    "8": {
+      "text": "Deus me é testemunha de que eu vos amo a todos com a ternura de Cristo Jesus.",
+      "reference": "Fp 1:8"
+    },
+    "9": {
+      "text": "E é isto o que eu peço; que vosso amor cresça cada vez mais, em conhecimento e em sensibilidade,",
+      "reference": "Fp 1:9"
+    },
+    "10": {
+      "text": "a fim de poderdes discernir o que mais convém, para que sejais puros e irreprováveis no dia de Cristo,",
+      "reference": "Fp 1:10"
+    },
+    "11": {
+      "text": "na plena maturidade do fruto da justiça que nos vem por Jesus Cristo para a glória e o louvor de Deus. \\par",
+      "reference": "Fp 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Situação pessoal de Paulo\\par }Quero que saibais, irmãos, que o que me aconteceu redundou em progresso do evangelho:",
+      "reference": "Fp 1:12"
+    },
+    "13": {
+      "text": "as minhas prisões se tornaram conhecidas em Cristo por todo o Pretório e por toda parte,",
+      "reference": "Fp 1:13"
+    },
+    "14": {
+      "text": "e a maioria dos irmãos, encorajados no Senhor pelas minhas prisões, proclamam a Palavra com mais ousadia e sem temor.",
+      "reference": "Fp 1:14"
+    },
+    "15": {
+      "text": "É verdade que alguns anunciam o Cristo por inveja e porfia, e outros por boa vontade:",
+      "reference": "Fp 1:15"
+    },
+    "16": {
+      "text": "estes por amor proclamam a Cristo, sabendo que fui posto para defesa do evangelho,",
+      "reference": "Fp 1:16"
+    },
+    "17": {
+      "text": "e aqueles por rivalidade, não sinceramente, julgando com isso acrescentar sofrimento às minhas prisões.",
+      "reference": "Fp 1:17"
+    },
+    "18": {
+      "text": "Ma que importa? De qualquer maneira – ou com segundas intenções ou sinceramente – Cristo é proclamado, e com isso eu me regozijo. Mas eu me regozijo",
+      "reference": "Fp 1:18"
+    },
+    "19": {
+      "text": "porque sei que {\\i isso me redundará em salvação} pelas vossas orações e pelo socorro do Espírito de Jesus Cristo.",
+      "reference": "Fp 1:19"
+    },
+    "20": {
+      "text": "A minha expectativa e a esperança é de que em nada serei confundido, mas com toda a ousadia, agora como sempre, Cristo será engrandecido no meu corpo, pela vida ou pela morte.",
+      "reference": "Fp 1:20"
+    },
+    "21": {
+      "text": "Pois para mim o viver é Cristo e o morrer é lucro.",
+      "reference": "Fp 1:21"
+    },
+    "22": {
+      "text": "Mas, se o viver na carne me dá ocasião de trabalho frutífero, não sei bem o que escolher.",
+      "reference": "Fp 1:22"
+    },
+    "23": {
+      "text": "Sinto-me num dilema: o meu desejo é partir e ir estar com Cristo, pois isso me é muito melhor,",
+      "reference": "Fp 1:23"
+    },
+    "24": {
+      "text": "mas o permanecer na carne é mais necessário por vossa causa.",
+      "reference": "Fp 1:24"
+    },
+    "25": {
+      "text": "Convencido disso, sei que ficarei e continuarei com todos vós, para proveito vosso e para alegria de vossa fé,",
+      "reference": "Fp 1:25"
+    },
+    "26": {
+      "text": "a fim de que, por mim – pela minha volta entre vós – aumente a vossa glória em Cristo Jesus. \\par",
+      "reference": "Fp 1:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Lutar pela fé\\par }Somente vivei vida digna do evangelho de Cristo, para que eu, indo ver-vos ou estando longe, ouça dizer de vós que estais firmes num só espírito, lutando juntos com uma só alma, pela fé do evangelho,",
+      "reference": "Fp 1:27"
+    },
+    "28": {
+      "text": "e que em nada vos deixais atemorizar pelos vossos adversários, o que para eles é sinal de ruína, mas, para vós, de salvação, e isso da parte de Deus.",
+      "reference": "Fp 1:28"
+    },
+    "29": {
+      "text": "Pois vos foi concedida, em relação a Cristo, a graça não só de crerdes nele, mas também de por ele sofrerdes,",
+      "reference": "Fp 1:29"
+    },
+    "30": {
+      "text": "empenhados no mesmo combate em que me vistes empenhado e em que, como sabeis, me empenho ainda agora. \\par",
+      "reference": "Fp 1:30"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 30
+}

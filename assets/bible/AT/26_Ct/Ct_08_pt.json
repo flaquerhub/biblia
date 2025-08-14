@@ -1,0 +1,69 @@
+{
+  "book": 22,
+  "book_name": "Cântico dos Cânticos",
+  "book_abbr": "Ct",
+  "book_category": "Poético",
+  "book_english": "Song of Songs",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Ah! Se fosses meu irmão, \\par amamentado aos seios da minha mãe! \\par Encontrando-te fora, eu te beijaria, \\par sem ninguém me desprezar; \\par",
+      "reference": "Ct 8:1"
+    },
+    "2": {
+      "text": "eu te levaria, te introduziria \\par na casa de minha mãe, \\par e tu me iniciarias; \\par dar-te-ia a beber vinho perfumado \\par e licor de minhas romeiras. \\par",
+      "reference": "Ct 8:2"
+    },
+    "3": {
+      "text": "Sua mão esquerda \\par está sob minha cabeça, \\par e com a direita me abraça. \\par",
+      "reference": "Ct 8:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i O amado\\par }Filhas de Jerusalém, \\par eu vos conjuro: \\par não desperteis, não acordeis o amor, \\par até que ele o queira! \\par",
+      "reference": "Ct 8:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b {\\i Epílogo}\\par }Quem é essa que sobe do deserto \\par apoiada em seu amado? \\par Sob a macieira te despertei, \\par lá onde tua mãe te concebeu, \\par concebeu e te deu à luz. \\par",
+      "reference": "Ct 8:5"
+    },
+    "6": {
+      "text": "Grava-me, \\par como um selo em teu coração, \\par como um selo em teu braço; \\par pois o amor é forte, é como a morte! \\par Cruel como o abismo é a paixão; \\par suas chamas são chamas de fogo \\par uma faísca de Iahweh! \\par",
+      "reference": "Ct 8:6"
+    },
+    "7": {
+      "text": "As águas da torrente jamais poderão \\par apagar o amor, \\par nem os rios afogá-lo. \\par Quisesse alguém dar tudo o que tem \\par para comprar o amor... \\par Seria tratado com desprezo. \\par",
+      "reference": "Ct 8:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b {\\i Apêndices}\\par }{\\qc\\b\\i Dois epigramas\\par }Nossa irmã é pequenina \\par e ainda não tem seios; \\par que faremos à nossa irmãzinha \\par quando vierem pedi-la? \\par",
+      "reference": "Ct 8:8"
+    },
+    "9": {
+      "text": "Se é uma muralha, \\par nela faremos ameias de prata, \\par e se é uma porta, \\par nela poremos pranchas de cedro. \\par",
+      "reference": "Ct 8:9"
+    },
+    "10": {
+      "text": "Eu sou muralha \\par e meus seios são torres, \\par aos seus olhos, porém, sou \\par a mensageira da paz. \\par",
+      "reference": "Ct 8:10"
+    },
+    "11": {
+      "text": "Salomão tinha uma vinha \\par em Baal-Hamon: \\par deu a vinha aos meeiros \\par e cada um lhe traz de seu fruto \\par mil siclos de prata. \\par",
+      "reference": "Ct 8:11"
+    },
+    "12": {
+      "text": "Minha vinha é só minha; \\par para ti, Salomão, os mil siclos, \\par e duzentos aos que guardam seu fruto. \\par",
+      "reference": "Ct 8:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Últimas adições\\par }Tu que habitas nos jardins, \\par meus amigos te ouvem atentos: \\par faze-me ouvir tua voz! \\par",
+      "reference": "Ct 8:13"
+    },
+    "14": {
+      "text": "Foge logo, ó meu amado, \\par como um gamo, \\par um filhote de gazela \\par pelos montes perfumados... \\par",
+      "reference": "Ct 8:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

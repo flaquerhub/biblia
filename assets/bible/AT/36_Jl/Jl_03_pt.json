@@ -1,0 +1,33 @@
+{
+  "book": 29,
+  "book_name": "Joel",
+  "book_abbr": "Jl",
+  "book_category": "Profético",
+  "book_english": "Joel",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. A nova era e o dia de Iahweh}\\par 1. EFUSÃO DO ESPÍRITO\\par }“Depois disto, \\par derramarei o meu espírito sobre toda carne. \\par Vossos filhos e vossas filhas profetizarão, \\par vossos anciãos terão sonhos, \\par vossos jovens terão visões. \\par",
+      "reference": "Jl 3:1"
+    },
+    "2": {
+      "text": "Mesmo sobre os escravos e sobre as escravas, \\par naqueles dias, derramarei o meu espírito. \\par",
+      "reference": "Jl 3:2"
+    },
+    "3": {
+      "text": "Colocarei sinais nos céus e na terra, \\par sangue, fogo e colunas de fumaça”. \\par",
+      "reference": "Jl 3:3"
+    },
+    "4": {
+      "text": "O sol se transformará em trevas, \\par a lua em sangue, \\par antes que chegue o dia de Iahweh, \\par grande e terrível! \\par",
+      "reference": "Jl 3:4"
+    },
+    "5": {
+      "text": "Então, todo aquele que invocar o nome de Iahweh, será salvo. \\par Porque {\\i no monte Sião} haverá salvação, \\par como Iahweh falou, \\par e em Jerusalém sobreviventes \\par que Iahweh chama. \\par\\par {\\cf15\\i [Por uma limitação técnica de e-Sword, não é possível mover-se para o capítulo 4 de Joel com o botão de «Próximo capítulo», é necessário digitá-lo.]}\\par",
+      "reference": "Jl 3:5"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 5
+}

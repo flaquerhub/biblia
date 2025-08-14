@@ -1,0 +1,37 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 150,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Doxologia final}\\par }Aleluia! \\par Louvai a Deus no seu templo, \\par louvai-o no seu poderoso firmamento, \\par",
+      "reference": "Sl 150:1"
+    },
+    "2": {
+      "text": "louvai-o por suas façanhas, \\par louvai-o por sua grandeza imensa! \\par",
+      "reference": "Sl 150:2"
+    },
+    "3": {
+      "text": "Louvai-o com toque de trombeta, \\par louvai-o com cítara e harpa; \\par",
+      "reference": "Sl 150:3"
+    },
+    "4": {
+      "text": "louvai-o com dança e tambor, \\par louvai-o com cordas e flauta; \\par",
+      "reference": "Sl 150:4"
+    },
+    "5": {
+      "text": "louvai-o com címbalos sonoros, \\par louvai-o com címbalos retumbantes! \\par",
+      "reference": "Sl 150:5"
+    },
+    "6": {
+      "text": "Todo ser que respira louve a Iahweh! \\par Aleluia! \\par",
+      "reference": "Sl 150:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

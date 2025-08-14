@@ -1,0 +1,125 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 35,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 35 (34)\\par }{\\qc\\b\\i Prece de um justo perseguido\\par }{\\qc\\i De Davi.\\par } Iahweh, acusa meus acusadores, \\par combate os que me combatem! \\par",
+      "reference": "Sl 35:1"
+    },
+    "2": {
+      "text": "Toma a armadura e o escudo \\par e levanta-te em meu socorro! \\par",
+      "reference": "Sl 35:2"
+    },
+    "3": {
+      "text": "Maneja a espada e o machado \\par contra meus perseguidores! \\par Dize a mim: “Eu sou tua salvação!” \\par",
+      "reference": "Sl 35:3"
+    },
+    "4": {
+      "text": "Fiquem envergonhados e arruinados \\par os que buscam tirar-me a vida! \\par Voltem-se para trás e sejam confundidos \\par os que planejam o mal contra mim! \\par",
+      "reference": "Sl 35:4"
+    },
+    "5": {
+      "text": "Sejam como palha frente ao vento, \\par quando o anjo de Iahweh os empurrar! \\par",
+      "reference": "Sl 35:5"
+    },
+    "6": {
+      "text": "Que seu caminho seja escuro e deslizante, \\par quando o anjo de Iahweh os perseguir! \\par",
+      "reference": "Sl 35:6"
+    },
+    "7": {
+      "text": "Sem motivo estenderam sua rede contra mim, \\par abriram para mim uma cova: \\par",
+      "reference": "Sl 35:7"
+    },
+    "8": {
+      "text": "caia sobre eles um desastre imprevisto! \\par Sejam apanhados na rede que estenderam \\par e caiam eles dentro da cova! \\par",
+      "reference": "Sl 35:8"
+    },
+    "9": {
+      "text": "Meu ser exultará em Iahweh \\par e se alegrará com sua salvação. \\par",
+      "reference": "Sl 35:9"
+    },
+    "10": {
+      "text": "Meus ossos todos dirão: “Iahweh \\par quem é igual a ti, \\par para livrar o pobre do mais forte \\par e o indigente do explorador?” \\par",
+      "reference": "Sl 35:10"
+    },
+    "11": {
+      "text": "Levantam-se falsas testemunhas \\par que eu não conheço. \\par Interrogam-me,",
+      "reference": "Sl 35:11"
+    },
+    "12": {
+      "text": "pagam-me o mal pelo bem, \\par e minha vida se torna estéril. \\par",
+      "reference": "Sl 35:12"
+    },
+    "13": {
+      "text": "Quanto a mim, nas suas doenças eu me vestia de saco \\par e me humilhava com jejum, \\par e minha oração voltava ao meu peito; \\par",
+      "reference": "Sl 35:13"
+    },
+    "14": {
+      "text": "eu ia e vinha como por um amigo, um irmão; \\par como de luto pela mãe \\par eu me curvava, entristecido. \\par",
+      "reference": "Sl 35:14"
+    },
+    "15": {
+      "text": "E eles se alegram com meu tropeço e se agrupam, \\par contra mim se agrupam \\par estrangeiros que não conheço, \\par dilacerando-me sem parar. \\par",
+      "reference": "Sl 35:15"
+    },
+    "16": {
+      "text": "Se eu caio, eles me cercam, \\par rangendo os dentes contra mim. \\par",
+      "reference": "Sl 35:16"
+    },
+    "17": {
+      "text": "Senhor, por quanto tempo verás isto? \\par Defende a minha vida dos rugidores, \\par meu único bem, destes leõezinhos. \\par",
+      "reference": "Sl 35:17"
+    },
+    "18": {
+      "text": "Eu te agradecerei na grande assembléia, \\par eu te louvarei em meio a um povo numeroso. \\par",
+      "reference": "Sl 35:18"
+    },
+    "19": {
+      "text": "Que não se alegrem à minha custa \\par meus inimigos traidores, \\par e nem pisquem os olhos \\par os que me odeiam sem motivo! \\par",
+      "reference": "Sl 35:19"
+    },
+    "20": {
+      "text": "Pois eles nunca falam de paz: \\par contra os pacíficos da terra \\par eles planejam calúnias; \\par",
+      "reference": "Sl 35:20"
+    },
+    "21": {
+      "text": "escancaram a boca contra mim, \\par dizendo: “Ah! Ah! \\par Nosso olho viu!” \\par",
+      "reference": "Sl 35:21"
+    },
+    "22": {
+      "text": "Viste isso, Iahweh! Não te cales! \\par Senhor, não fiques longe de mim! \\par",
+      "reference": "Sl 35:22"
+    },
+    "23": {
+      "text": "Desperta! Levanta-te pelo meu direito, \\par por minha causa, meu Senhor e meu Deus! \\par",
+      "reference": "Sl 35:23"
+    },
+    "24": {
+      "text": "Julga-me segundo a tua justiça, Iahweh meu Deus, \\par que eles não se alegrem à minha custa! \\par",
+      "reference": "Sl 35:24"
+    },
+    "25": {
+      "text": "Que eles não pensem: “Ah! Nosso prazer!” \\par Que não digam: “Nós o engolimos!” \\par",
+      "reference": "Sl 35:25"
+    },
+    "26": {
+      "text": "Fiquem envergonhados e frustrados \\par os que se alegram com minha desgraça! \\par Sejam cobertos de vergonha e confusão \\par os que à minha custa se engrandecem. \\par",
+      "reference": "Sl 35:26"
+    },
+    "27": {
+      "text": "Cantem e fiquem alegres \\par os que desejam minha justiça, \\par e digam constantemente: \\par “Iahweh é grande! \\par Ele deseja a paz ao seu servo!” \\par",
+      "reference": "Sl 35:27"
+    },
+    "28": {
+      "text": "E minha língua meditará tua justiça, \\par todo o dia o teu louvor! \\par",
+      "reference": "Sl 35:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

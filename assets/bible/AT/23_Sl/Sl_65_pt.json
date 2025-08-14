@@ -1,0 +1,69 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 65,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 65 (64)\\par }{\\qc\\b\\i Hino de ação de graças\\par }{\\qc\\i Do mestre de canto. Salmo. De Davi. Cântico. \\par }",
+      "reference": "Sl 65:1"
+    },
+    "2": {
+      "text": "A ti convém o louvor \\par em Sião, ó Deus; \\par e a ti se cumpre o voto \\par",
+      "reference": "Sl 65:2"
+    },
+    "3": {
+      "text": "porque ouves a prece. \\par Toda carne vem a ti \\par",
+      "reference": "Sl 65:3"
+    },
+    "4": {
+      "text": "por causa de seus pecados; \\par nossas faltas são mais fortes que nós, \\par mas tu no-las perdoas. \\par",
+      "reference": "Sl 65:4"
+    },
+    "5": {
+      "text": "Feliz quem escolhes e aproximas, \\par para habitar em teus átrios. \\par Nós nos saciamos com os bens da tua casa, \\par com as coisas sagradas do teu Templo. \\par",
+      "reference": "Sl 65:5"
+    },
+    "6": {
+      "text": "Com prodígios de justiça nos respondes, \\par ó Deus salvador nosso, \\par esperança dos confins da terra \\par e das ilhas longínquas. \\par",
+      "reference": "Sl 65:6"
+    },
+    "7": {
+      "text": "tu manténs as montanhas com tua força, \\par cingido de poder; \\par",
+      "reference": "Sl 65:7"
+    },
+    "8": {
+      "text": "aplacas o estrondo dos mares, \\par o estrondo de suas ondas, \\par e o tumulto dos povos. \\par",
+      "reference": "Sl 65:8"
+    },
+    "9": {
+      "text": "Os habitantes dos confins da terra \\par temem frente aos teus sinais; \\par fazes gritar de alegria \\par as portas da manhã e da tarde. \\par",
+      "reference": "Sl 65:9"
+    },
+    "10": {
+      "text": "Visitas a terra e a regas, \\par cumulando-a de riquezas. \\par O ribeiro de Deus é cheio d’água, \\par tu preparas seu trigal. \\par Preparas a terra assim: \\par",
+      "reference": "Sl 65:10"
+    },
+    "11": {
+      "text": "regando-lhe os sulcos, \\par aplanando seus terrões, \\par amolecendo-a com chuviscos, \\par abençoando-lhe os brotos. \\par",
+      "reference": "Sl 65:11"
+    },
+    "12": {
+      "text": "Coroas o ano com tua bondade, \\par e tuas trilhas gotejam fartura; \\par",
+      "reference": "Sl 65:12"
+    },
+    "13": {
+      "text": "as pastagens do deserto gotejam, \\par e as colinas cingem-se de júbilo; \\par",
+      "reference": "Sl 65:13"
+    },
+    "14": {
+      "text": "os campos cobrem-se de rebanhos, \\par e os vales se vestem de espigas, \\par dão gritos de alegria e cantam. \\par",
+      "reference": "Sl 65:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

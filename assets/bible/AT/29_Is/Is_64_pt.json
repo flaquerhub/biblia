@@ -1,0 +1,57 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 64,
+  "verses": {
+    "1": {
+      "text": "como o fogo faz arder os gravetos, \\par como o fogo ferve a água – \\par para dares a conhecer o teu nome aos teus adversários; \\par as nações tremeriam perante a tua face \\par",
+      "reference": "Is 64:1"
+    },
+    "2": {
+      "text": "ao fazeres prodígios que não esperávamos. \\par (Tu desceste: perante a tua face os montes se abalaram.) \\par",
+      "reference": "Is 64:2"
+    },
+    "3": {
+      "text": "Desde os tempos antigos nunca se ouviu, \\par nunca se havia sabido, o olho não tinha visto \\par um Deus que agisse \\par em prol dos que esperam nele, exceto a ti. \\par",
+      "reference": "Is 64:3"
+    },
+    "4": {
+      "text": "Tu te chegaste àquele que, cheio de alegria, pratica a justiça; \\par aos que, seguindo pelos teus caminhos, se lembram de ti. \\par Sim, tu te irritaste contra nós e, com efeito, nós pecamos, \\par mas havemos de permanecer para sempre nos teus caminhos e assim seremos salvos. \\par",
+      "reference": "Is 64:4"
+    },
+    "5": {
+      "text": "Todos nós éramos como pessoas impuras, \\par e as nossas boas ações como um pano imundo. \\par Murchamos todos como folhas que secam, \\par as nossas transgressões nos levam como o vento. \\par",
+      "reference": "Is 64:5"
+    },
+    "6": {
+      "text": "Não há ninguém que invoque o teu nome, \\par que se erga, firmando-se em ti, \\par porque escondeste de nós a tua face \\par e nos abandonaste ao capricho das nossas transgressões. \\par",
+      "reference": "Is 64:6"
+    },
+    "7": {
+      "text": "E no entanto, Iahweh, tu és o nosso pai, \\par nós somos a argila e tu és o nosso oleiro, \\par todos nós somos obras das tuas mãos. \\par",
+      "reference": "Is 64:7"
+    },
+    "8": {
+      "text": "Não te irrites, Iahweh excessivamente, \\par não conserves para sempre a lembrança do pecado. \\par Olha, pois, para nós: somos todos o teu povo. \\par",
+      "reference": "Is 64:8"
+    },
+    "9": {
+      "text": "As tuas cidades santas estão desertas; \\par em deserto se transformou Sião, \\par Jerusalém está reduzida a uma desolação. \\par",
+      "reference": "Is 64:9"
+    },
+    "10": {
+      "text": "O nosso Templo santo e nosso esplendor, \\par onde os nossos pais te louvavam, \\par foi queimado pelo fogo. \\par Tudo o que tínhamos de mais precioso foi reduzido a ruínas. \\par",
+      "reference": "Is 64:10"
+    },
+    "11": {
+      "text": "Porventura podes manter-te insensível diante de tudo isto? \\par Calas-te e a tal ponto nos humilhas? \\par",
+      "reference": "Is 64:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

@@ -1,0 +1,101 @@
+{
+  "book": 15,
+  "book_name": "Esdras",
+  "book_abbr": "Ed",
+  "book_category": "Histórico",
+  "book_english": "Ezra",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Então, por ordem do rei Dario, fizeram-se pesquisas nos tesouros onde estavam guardados os arquivos, em Babilônia,",
+      "reference": "Ed 6:1"
+    },
+    "2": {
+      "text": "e encontrou-se em Ecbátana, fortaleza situada na província da Média, um rolo onde estava escrito o seguinte: \\par “Memorando. \\par",
+      "reference": "Ed 6:2"
+    },
+    "3": {
+      "text": "No primeiro ano do rei Ciro, o rei Ciro ordenou: \\par Templo de Deus em Jerusalém. \\par O Templo será reconstruído para ser um lugar onde se ofereçam sacrifícios, e seus alicerces devem ser restaurados. Sua altura será de sessenta côvados e sua largura e sessenta côvados.",
+      "reference": "Ed 6:3"
+    },
+    "4": {
+      "text": "Terá três fileiras de pedras talhadas e uma fileira de madeira. A despesa correrá por conta da casa do rei.",
+      "reference": "Ed 6:4"
+    },
+    "5": {
+      "text": "Além disso, serão restituídos os utensílios de ouro e de prata do Templo de Deus que Nabucodonosor retirou do santuário de Jerusalém para levá-los para Babilônia; de modo que tudo retome seu lugar no santuário de Jerusalém e seja deposto no Templo de Deus. \\par",
+      "reference": "Ed 6:5"
+    },
+    "6": {
+      "text": "Agora, pois, Tatanai, governador da Transeufratênia, Setar-Buzanai e vós, seus colegas, e autoridades da Transeufratênia, afastai-vos de lá,",
+      "reference": "Ed 6:6"
+    },
+    "7": {
+      "text": "deixai que o governador de Judá e os anciãos dos judeus trabalhem neste Templo de Deus: eles podem reconstruir este Templo de Deus no seu lugar.",
+      "reference": "Ed 6:7"
+    },
+    "8": {
+      "text": "Eis o que ordeno acerca do que deveis fazer no tocante a estes anciãos dos judeus, para a reconstrução deste Templo de Deus: com os bens do rei, isto é, com os impostos da Transeufratênia, as despesas desta gente lhe serão reembolsadas com exatidão e sem interrupção.",
+      "reference": "Ed 6:8"
+    },
+    "9": {
+      "text": "Ser-lhes-á dado cada dia, sem falta, segundo as indicações dos sacerdotes de Jerusalém, tudo o que lhes for necessário para os holocaustos do Deus do céu: novilhos, carneiros e cordeiros, trigo, sal, vinho e óleo,",
+      "reference": "Ed 6:9"
+    },
+    "10": {
+      "text": "para que possam oferecer ao Deus do céu sacrifícios de agradável odor e para que orem pela vida do rei e de seus filhos.",
+      "reference": "Ed 6:10"
+    },
+    "11": {
+      "text": "Ordeno também que se alguém transgredir este edito, arranque-se de sua casa uma viga de madeira; ela será erguida e nela seja enforcado e sua casa seja convertida num montão de imundícies por causa dessa culpa.",
+      "reference": "Ed 6:11"
+    },
+    "12": {
+      "text": "Que o Deus que faz habitar ali seu Nome abata todo rei e todo povo que ousar modificar ou destruir este Templo de Deus em Jerusalém! Eu, Dario, dei esta ordem. Que ela seja pontualmente executada!” \\par",
+      "reference": "Ed 6:12"
+    },
+    "13": {
+      "text": "Então Tatanai, governador da Transeufratênia, Setar-Buzanai e seus colegas obedeceram fielmente as instruções enviadas pelo rei Dario.",
+      "reference": "Ed 6:13"
+    },
+    "14": {
+      "text": "E os anciãos dos judeus continuaram a construir, com êxito, sob a inspiração do profeta Ageu e de Zacarias, filho de Ado. Terminaram a construção de acordo com a ordem do Deus de Israel e a ordem de Ciro e de Dario.",
+      "reference": "Ed 6:14"
+    },
+    "15": {
+      "text": "Este Templo foi concluído no vigésimo terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario.",
+      "reference": "Ed 6:15"
+    },
+    "16": {
+      "text": "Os filhos de Israel – os sacerdotes, os levitas e o resto dos exilados – celebraram com alegria a dedicação deste Templo de Deus;",
+      "reference": "Ed 6:16"
+    },
+    "17": {
+      "text": "ofereceram, para a dedicação deste Templo de Deus, cem touros, duzentos carneiros e quatrocentos cordeiros e, como sacrifício pelo pecado de todo o Israel, doze bodes, segundo o número das tribos de Israel.",
+      "reference": "Ed 6:17"
+    },
+    "18": {
+      "text": "Estabeleceram também os sacerdotes segundo suas categorias, e os levitas segundo suas classes, para o serviço do Templo de Deus, em Jerusalém, como está escrito no livro de Moisés. \\par",
+      "reference": "Ed 6:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i A Páscoa de 515\\par }Os exilados celebraram a Páscoa no dia catorze do primeiro mês.",
+      "reference": "Ed 6:19"
+    },
+    "20": {
+      "text": "Os levitas tinham-se purificado como um só homem e por isso todos estavam puros; imolaram, pois, a Páscoa para todos os exilados, para seus irmãos os sacerdotes e para eles próprios.",
+      "reference": "Ed 6:20"
+    },
+    "21": {
+      "text": "Comeram a Páscoa: os filhos de Israel que tinham voltado do Exílio e todos os que, tendo rompido com a impureza das nações da terra, se tinham juntado a eles para buscar a Iahweh, o Deus de Israel.",
+      "reference": "Ed 6:21"
+    },
+    "22": {
+      "text": "Celebraram com alegria durante sete dias a festa dos Ázimos, pois Iahweh os enchera de alegria, tendo feito inclinar-se para eles o coração do rei da Assíria, para que ele apoiasse seu esforço nas obras do Templo de Deus, o Deus de Israel. \\par",
+      "reference": "Ed 6:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

@@ -1,0 +1,65 @@
+{
+  "book": 7,
+  "book_name": "Juízes",
+  "book_abbr": "Jz",
+  "book_category": "Histórico",
+  "book_english": "Judges",
+  "testament": "AT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Apêndices}\\par 1. O SANTUÁRIO DE MICAS E O SANTUÁRIO DE DÃ\\par }{\\qc\\b\\i O santuário particular de Micas\\par }Havia um homem da montanha de Efraim que se chamava Miquéias.",
+      "reference": "Jz 17:1"
+    },
+    "2": {
+      "text": "Disse ele à sua mãe: “Os mil e cem siclos de prata que te foram tirados, e a propósito dos quais pronunciaste maldição – e mesmo tu me disseste... – esse dinheiro aqui está, fui eu quem o tirou”. Sua mãe disse: “Seja o meu filho bendito de Iahweh!”",
+      "reference": "Jz 17:2"
+    },
+    "3": {
+      "text": "Ele restituiu os mil e cem siclos à sua mãe, que disse: “Eu havia dedicado este dinheiro a Iahweh, de minha própria mão, a meu filho, para fazer uma imagem de escultura, um ídolo de metal fundido, mas agora quero dá-lo novamente a ti”. Ele, porém, entregou o dinheiro à sua mãe. \\par",
+      "reference": "Jz 17:3"
+    },
+    "4": {
+      "text": "Então sua mãe tomou duzentos siclos de prata e os enviou ao ourives, que fez uma imagem de escultura (e um ídolo de metal fundido) que foi colocada na casa de Miquéias.",
+      "reference": "Jz 17:4"
+    },
+    "5": {
+      "text": "Este homem, Micas, tinha uma casa de Deus; ele fez um efod e terafim, e deu a investidura a um dos seus filhos, que veio a ser seu sacerdote.",
+      "reference": "Jz 17:5"
+    },
+    "6": {
+      "text": "Nesse tempo não havia rei em Israel, e cada qual fazia o que lhe parecia correto. \\par",
+      "reference": "Jz 17:6"
+    },
+    "7": {
+      "text": "Havia um jovem de Belém, em Judá, do clã de Judá, que era levita e residia ali como estrangeiro.",
+      "reference": "Jz 17:7"
+    },
+    "8": {
+      "text": "Esse homem deixou a cidade de Belém, em Judá, para ir estabelecer-se onde pudesse. No curso da sua viagem, chegou à montanha de Efraim, à casa de Micas.",
+      "reference": "Jz 17:8"
+    },
+    "9": {
+      "text": "Micas lhe perguntou: “Donde vens?” – “Eu sou levita de Belém de Judá”, respondeu-lhe. “Ando em viagem a fim de me estabelecer onde puder”.",
+      "reference": "Jz 17:9"
+    },
+    "10": {
+      "text": "–“Fica comigo”, disse-lhe Micas, “sê para mim pai e sacerdote e te darei dez siclos de prata por ano, roupa e alimento”.",
+      "reference": "Jz 17:10"
+    },
+    "11": {
+      "text": "O levita concordou em ficar com esse homem, e o jovem foi para ele como um dos seus filhos.",
+      "reference": "Jz 17:11"
+    },
+    "12": {
+      "text": "Micas deu a investidura ao levita, e o jovem se tornou seu sacerdote e ficou morando na casa de Micas.",
+      "reference": "Jz 17:12"
+    },
+    "13": {
+      "text": "“E agora”, disse Micas, “eu sei que Iahweh me fará bem, porque tenho este levita como sacerdote”. \\par",
+      "reference": "Jz 17:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

@@ -1,0 +1,177 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Cura de um cego de nascença\\par }Ao passar, ele viu um homem, cego de nascença.",
+      "reference": "Jo 9:1"
+    },
+    "2": {
+      "text": "Seus discípulos lhe perguntaram: “Rabi, quem pecou, ele ou seus pais, para que nascesse cego?”",
+      "reference": "Jo 9:2"
+    },
+    "3": {
+      "text": "Jesus respondeu: “Nem ele nem seus pais pecaram, mas é para que nele sejam manifestadas as obras de Deus. \\par",
+      "reference": "Jo 9:3"
+    },
+    "4": {
+      "text": "Enquanto é dia, \\par temos de realizar as obras daquele que me enviou; \\par vem a noite, \\par quando ninguém pode trabalhar. \\par",
+      "reference": "Jo 9:4"
+    },
+    "5": {
+      "text": "Enquanto estou no mundo, \\par sou a luz do mundo”. \\par",
+      "reference": "Jo 9:5"
+    },
+    "6": {
+      "text": "Tendo dito isso, cuspiu na terra, fez lama com a saliva, aplicou-a sobre os olhos do cego",
+      "reference": "Jo 9:6"
+    },
+    "7": {
+      "text": "e lhe disse: “Vai lavar-te na piscina de Siloé – que quer dizer ‘Enviado’”. O cego foi, lavou-se e voltou vendo. \\par",
+      "reference": "Jo 9:7"
+    },
+    "8": {
+      "text": "Os vizinhos, então, e os que estavam acostumados a vê-lo antes, porque era mendigo, diziam: “Não é esse que ficava sentado a mendigar?”",
+      "reference": "Jo 9:8"
+    },
+    "9": {
+      "text": "Alguns diziam: “É ele”. Diziam outros: “Não, mas alguém parecido com ele”. Ele, porém, dizia: “Sou eu mesmo”.",
+      "reference": "Jo 9:9"
+    },
+    "10": {
+      "text": "Perguntaram-lhe, então: “Como se abriram os teus olhos?”",
+      "reference": "Jo 9:10"
+    },
+    "11": {
+      "text": "Respondeu: “O homem chamado Jesus fez lama, aplicou-a nos meus olhos e me disse: ‘Vai a Siloé e lava-te’. Fui, lavei-me e recobrei a vista”.",
+      "reference": "Jo 9:11"
+    },
+    "12": {
+      "text": "Disseram-lhe: “Onde está ele?” Disse: “Não sei”. \\par",
+      "reference": "Jo 9:12"
+    },
+    "13": {
+      "text": "Conduziram o que fora cego aos fariseus.",
+      "reference": "Jo 9:13"
+    },
+    "14": {
+      "text": "Ora, era sábado o dia em que Jesus fizera lama e lhe abrira os olhos.",
+      "reference": "Jo 9:14"
+    },
+    "15": {
+      "text": "Os fariseus perguntaram-lhe novamente como tinha recobrado a vista. Respondeu-lhes: “Ele aplicou-me lama nos olhos, lavei-me e vejo”.",
+      "reference": "Jo 9:15"
+    },
+    "16": {
+      "text": "Diziam, então, alguns dos fariseus: “Esse homem não vem de Deus, porque não guarda o sábado”. Outros diziam: “Como pode um homem pecador realizar tais sinais?” E havia cisão entre eles.",
+      "reference": "Jo 9:16"
+    },
+    "17": {
+      "text": "De novo disseram ao cego: “Que dizes de quem te abriu os olhos?” Respondeu: “É um profeta”. \\par",
+      "reference": "Jo 9:17"
+    },
+    "18": {
+      "text": "Os judeus não creram que ele fora cego enquanto não chamaram os pais do que recuperara a vista",
+      "reference": "Jo 9:18"
+    },
+    "19": {
+      "text": "e perguntaram-lhes: “Este é o vosso filho, que dizeis ter nascido cego? Como é que agora ele vê?”",
+      "reference": "Jo 9:19"
+    },
+    "20": {
+      "text": "Seus pais então responderam: “Sabemos que este é nosso filho e que nasceu cego.",
+      "reference": "Jo 9:20"
+    },
+    "21": {
+      "text": "Mas como agora ele vê não o sabemos; ou quem lhe abriu os olhos não o sabemos. Interrogai-o. Ele tem idade. Ele mesmo se explicará”.",
+      "reference": "Jo 9:21"
+    },
+    "22": {
+      "text": "Seus pais assim disseram por medo dos judeus, pois os judeus já tinham combinado que, se alguém reconhecesse Jesus como Cristo, seria expulso da sinagoga.",
+      "reference": "Jo 9:22"
+    },
+    "23": {
+      "text": "Por isso, seus pais disseram “Ele tem idade; interrogai-o”. \\par",
+      "reference": "Jo 9:23"
+    },
+    "24": {
+      "text": "Chamaram, então, uma segunda vez, o homem que fora cego e lhe disseram: “Dá glória a Deus! Sabemos que esse homem é pecador”.",
+      "reference": "Jo 9:24"
+    },
+    "25": {
+      "text": "Respondeu ele: “Se é pecador, não sei. Uma coisa eu sei: é que eu era cego e agora vejo”.",
+      "reference": "Jo 9:25"
+    },
+    "26": {
+      "text": "Disseram-lhe, então: “Que te fez ele? Como te abriu os olhos?”",
+      "reference": "Jo 9:26"
+    },
+    "27": {
+      "text": "Respondeu-lhes: “Já vos disse e não ouvistes. Por que quereis ouvir novamente? Por acaso quereis também tornar-vos seus discípulos?”",
+      "reference": "Jo 9:27"
+    },
+    "28": {
+      "text": "Injuriaram-no e disseram: “Tu, sim, és seu discípulo; nós somos discípulos de Moisés.",
+      "reference": "Jo 9:28"
+    },
+    "29": {
+      "text": "Sabemos que Deus falou a Moisés; mas esse, não sabemos de onde é”.",
+      "reference": "Jo 9:29"
+    },
+    "30": {
+      "text": "Respondeu-lhe o homem: “Isso é espantoso: vós não sabeis de onde ele é e, no entanto, abriu-me os olhos!",
+      "reference": "Jo 9:30"
+    },
+    "31": {
+      "text": "Sabemos que Deus não ouve os pecadores; mas, se alguém é religioso e faz a sua vontade, a este ele escuta.",
+      "reference": "Jo 9:31"
+    },
+    "32": {
+      "text": "Jamais se ouviu dizer que alguém tenha aberto os olhos de um cego de nascença.",
+      "reference": "Jo 9:32"
+    },
+    "33": {
+      "text": "Se esse homem não viesse de Deus, nada poderia fazer”.",
+      "reference": "Jo 9:33"
+    },
+    "34": {
+      "text": "Responderam-lhe: “Tu nasceste todo em pecados e nos ensinas?” E o expulsaram. \\par",
+      "reference": "Jo 9:34"
+    },
+    "35": {
+      "text": "Jesus ouviu dizer que o haviam expulsado. Encontrando-o, disse-lhe: “Crês no Filho do Homem?”",
+      "reference": "Jo 9:35"
+    },
+    "36": {
+      "text": "Respondeu ele: “Quem é, Senhor, para que eu nele creia?”",
+      "reference": "Jo 9:36"
+    },
+    "37": {
+      "text": "Jesus lhe disse: “Tu o estás vendo, é quem fala contigo”.",
+      "reference": "Jo 9:37"
+    },
+    "38": {
+      "text": "Exclamou ele: “Creio, Senhor!” E prostrou-se diante dele. \\par",
+      "reference": "Jo 9:38"
+    },
+    "39": {
+      "text": "Então disse Jesus: \\par “Para um discernimento \\par é que vim a este mundo: \\par para que os que não vêem, vejam, \\par e os que vêem, tornem-se cegos”. \\par",
+      "reference": "Jo 9:39"
+    },
+    "40": {
+      "text": "Alguns fariseus, que se achavam com ele, ouviram isso e lhe disseram: “Acaso também nós somos cegos?” \\par",
+      "reference": "Jo 9:40"
+    },
+    "41": {
+      "text": "Respondeu-lhes Jesus: \\par “Se fôsseis cegos, \\par não teríeis pecado; \\par mas dizeis: ‘Nós vemos!’ \\par Vosso pecado permanece. \\par",
+      "reference": "Jo 9:41"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 41
+}

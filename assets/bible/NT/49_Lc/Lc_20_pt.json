@@ -1,0 +1,201 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Pergunta dos judeus sobre a autoridade de Jesus\\par }Aconteceu que, certo dia, enquanto ele ensinava o povo no Templo, anunciando a Boa Nova, os chefes dos sacerdotes, os escribas e os anciãos se apresentaram,",
+      "reference": "Lc 20:1"
+    },
+    "2": {
+      "text": "dizendo-lhe: “Dize-nos com que autoridade fazes estas coisas, ou quem é que te concedeu esta autoridade?”",
+      "reference": "Lc 20:2"
+    },
+    "3": {
+      "text": "Ele respondeu: “Também eu vou propor-vos uma questão. Dizei-me:",
+      "reference": "Lc 20:3"
+    },
+    "4": {
+      "text": "O batismo de João era do Céu ou dos homens?”",
+      "reference": "Lc 20:4"
+    },
+    "5": {
+      "text": "Eles, porém, raciocinavam entre si, dizendo: “Se respondermos ‘Do Céu’, ele dirá: ‘Por que não crestes nele?’",
+      "reference": "Lc 20:5"
+    },
+    "6": {
+      "text": "Se respondermos ‘Dos homens’, o povo todo nos apedrejará, porque está convicto de que João é um profeta”.",
+      "reference": "Lc 20:6"
+    },
+    "7": {
+      "text": "E responderam que não sabiam de onde era.",
+      "reference": "Lc 20:7"
+    },
+    "8": {
+      "text": "Jesus lhes disse: “Nem eu vos digo com que autoridade faço estas coisas”. \\par",
+      "reference": "Lc 20:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Parábola dos vinhateiros homicidas\\par }E começou a contar ao povo esta parábola: “Um homem {\\i plantou uma vinha}, depois arrendou-a a vinhateiros e partiu para o estrangeiro por muito tempo. \\par",
+      "reference": "Lc 20:9"
+    },
+    "10": {
+      "text": "No tempo oportuno, enviou um servo aos vinhateiros, para que lhe entregassem uma parte do fruto da vinha; os vinhateiros, porém, o despediram sem nada, depois de o terem espancado.",
+      "reference": "Lc 20:10"
+    },
+    "11": {
+      "text": "Enviou de novo outro servo; e a este também espancaram, insultaram e despediram sem nada.",
+      "reference": "Lc 20:11"
+    },
+    "12": {
+      "text": "Enviou ainda um terceiro; a este igualmente feriram e o lançaram fora.",
+      "reference": "Lc 20:12"
+    },
+    "13": {
+      "text": "Disse então o dono da vinha: ‘Que vou fazer?... Enviarei o meu filho amado. Quem sabe vão poupá-lo’.",
+      "reference": "Lc 20:13"
+    },
+    "14": {
+      "text": "Ao vê-lo, porém, os vinhateiros raciocinavam: ‘Este é o herdeiro; matemo-lo, para que a herança fique para nós’.",
+      "reference": "Lc 20:14"
+    },
+    "15": {
+      "text": "E, lançando-o para fora da vinha, o mataram. \\par Pois bem, que lhes fará o dono da vinha?",
+      "reference": "Lc 20:15"
+    },
+    "16": {
+      "text": "Virá e destruirá esses vinhateiros, e dará a vinha a outros”. Ouvindo isso, disseram: “Que isso não aconteça!”",
+      "reference": "Lc 20:16"
+    },
+    "17": {
+      "text": "Jesus, porém, fixando neles o olhar, disse: “Que significa então o que está escrito: \\par {\\i A pedra que os edificadores tinham rejeitado \\par tornou-se a pedra angular}? \\par",
+      "reference": "Lc 20:17"
+    },
+    "18": {
+      "text": "Aquele que cair sobre essa pedra vai se quebrar todo, e aquele sobre quem ela cair, ela o esmagará”. \\par",
+      "reference": "Lc 20:18"
+    },
+    "19": {
+      "text": "Os escribas e os chefes dos sacerdotes procuravam deitar a mão sobre ele naquela hora. Tinham percebido que ele contara essa parábola a respeito deles. Mas ficaram com medo do povo. \\par",
+      "reference": "Lc 20:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i O tributo a César\\par }E ficaram de espreita. Enviaram espiões que se fingiram de justos, para surpreendê-lo em alguma palavra sua, a fim de entregá-lo ao poder e à autoridade do governador.",
+      "reference": "Lc 20:20"
+    },
+    "21": {
+      "text": "E o interrogaram: “Mestre, sabemos que falas e ensinas com retidão, e, sem levar em conta a posição das pessoas, ensinas de fato o caminho de Deus.",
+      "reference": "Lc 20:21"
+    },
+    "22": {
+      "text": "É lícito a nós pagar o tributo a César ou não?”",
+      "reference": "Lc 20:22"
+    },
+    "23": {
+      "text": "Ele, porém, penetrando-lhes a astúcia, disse:",
+      "reference": "Lc 20:23"
+    },
+    "24": {
+      "text": "“Mostrai-me um denário. De quem traz a imagem e a inscrição?” Responderam: “De César”.",
+      "reference": "Lc 20:24"
+    },
+    "25": {
+      "text": "Ele disse então: “Devolvei, pois, o que é de César a César, e o que é de Deus a Deus”. \\par",
+      "reference": "Lc 20:25"
+    },
+    "26": {
+      "text": "E foram incapazes de surpreendê-lo em alguma palavra diante do povo e, espantados com a sua resposta, ficaram em silêncio. \\par",
+      "reference": "Lc 20:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i A ressurreição dos mortos\\par }Aproximando-se alguns dos saduceus – que negam existir ressurreição –",
+      "reference": "Lc 20:27"
+    },
+    "28": {
+      "text": "interrogaram-no: “Mestre, Moisés deixou-nos escrito: {\\i Se alguém tiver um irmão casado e este morrer sem filhos, tomará a viúva e suscitará descendência para seu irmão.}",
+      "reference": "Lc 20:28"
+    },
+    "29": {
+      "text": "Ora, havia sete irmãos. O primeiro tomou mulher e morreu sem filhos.",
+      "reference": "Lc 20:29"
+    },
+    "30": {
+      "text": "Também o segundo,",
+      "reference": "Lc 20:30"
+    },
+    "31": {
+      "text": "e depois o terceiro a tomaram; e assim os sete morreram sem deixar filhos.",
+      "reference": "Lc 20:31"
+    },
+    "32": {
+      "text": "Por fim, também a mulher morreu.",
+      "reference": "Lc 20:32"
+    },
+    "33": {
+      "text": "Essa mulher, na ressurreição, de qual deles vai se tornar mulher? Pois todos os sete a tiveram por mulher”. \\par",
+      "reference": "Lc 20:33"
+    },
+    "34": {
+      "text": "Jesus lhes respondeu: “Os filhos deste século casam-se e dão-se em casamento;",
+      "reference": "Lc 20:34"
+    },
+    "35": {
+      "text": "mas os que forem julgados dignos de ter parte no outro século e na ressurreição dos mortos, nem eles se casam, nem elas se dão em casamento;",
+      "reference": "Lc 20:35"
+    },
+    "36": {
+      "text": "pois nem mesmo podem morrer: são semelhantes aos anjos e são filhos de Deus, sendo filhos da ressurreição.",
+      "reference": "Lc 20:36"
+    },
+    "37": {
+      "text": "Ora, que os mortos ressuscitam, também Moisés o indicou na passagem da sarça, quando diz: o Senhor {\\i Deus de Abraão, Deus de Isaac e Deus de Jacó.}",
+      "reference": "Lc 20:37"
+    },
+    "38": {
+      "text": "Ora, ele não é Deus de mortos, mas sim de vivos; todos com efeito, vivem para ele”. \\par",
+      "reference": "Lc 20:38"
+    },
+    "39": {
+      "text": "Tomando então a palavra, alguns escribas disseram-lhe: “Mestre, falaste bem”.",
+      "reference": "Lc 20:39"
+    },
+    "40": {
+      "text": "E já ninguém ousava interrogá-lo sobre coisa alguma. \\par",
+      "reference": "Lc 20:40"
+    },
+    "41": {
+      "text": "\\par {\\qc\\b\\i Cristo, filho e Senhor de Davi\\par }Disse-lhes então: “Como se pode dizer que o Cristo é filho de Davi?",
+      "reference": "Lc 20:41"
+    },
+    "42": {
+      "text": "Se o próprio Davi diz no livro dos Salmos: \\par {\\i O Senhor disse ao meu Senhor: \\par Senta-te à minha direita, }\\par",
+      "reference": "Lc 20:42"
+    },
+    "43": {
+      "text": "{\\i até que eu ponha teus inimigos \\par como escabelo para teus pés.} \\par",
+      "reference": "Lc 20:43"
+    },
+    "44": {
+      "text": "Davi, portanto, o chama Senhor; então, como pode ser seu filho?” \\par",
+      "reference": "Lc 20:44"
+    },
+    "45": {
+      "text": "\\par {\\qc\\b\\i Jesus julga os escribas\\par }Como todo o povo o escutava, ele disse aos discípulos:",
+      "reference": "Lc 20:45"
+    },
+    "46": {
+      "text": "“Cuidado com os escribas que sentem prazer em circular com togas, gostam de saudações nas praças públicas, dos primeiros lugares nas sinagogas e de lugares de honra nos banquetes,",
+      "reference": "Lc 20:46"
+    },
+    "47": {
+      "text": "que devoram as casas das viúvas e simulam fazer longas orações. Esses receberão uma sentença mais severa!” \\par",
+      "reference": "Lc 20:47"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 47
+}

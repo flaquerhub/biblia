@@ -1,0 +1,197 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Resumo. Conclusão\\par }Não fareis ídolos, não levantareis imagem ou estela e não colocareis na vossa terra pedras trabalhadas para vos inclinardes diante delas, pois eu sou Iahweh vosso Deus.",
+      "reference": "Lv 26:1"
+    },
+    "2": {
+      "text": "Guardareis os meus sábados e reverenciareis meu santuário. Eu sou Iahweh. \\par",
+      "reference": "Lv 26:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Bênçãos\\par }Se vos conduzirdes segundo os meus estatutos, se guardardes meus mandamentos e os praticardes,",
+      "reference": "Lv 26:3"
+    },
+    "4": {
+      "text": "então vos darei as chuvas no seu devido tempo, e a terra dará os seus produtos, e a árvore do campo os seus frutos,",
+      "reference": "Lv 26:4"
+    },
+    "5": {
+      "text": "e a debulha se estenderá até à vindima e esta até à semeadura. Então comereis o vosso pão até vos fartardes e habitareis em segurança na vossa terra. \\par",
+      "reference": "Lv 26:5"
+    },
+    "6": {
+      "text": "Estabelecerei a paz na terra e dormireis sem que ninguém vos perturbe. Farei desaparecer da terra os animais nocivos. A espada não passará pela vossa terra.",
+      "reference": "Lv 26:6"
+    },
+    "7": {
+      "text": "Perseguireis os vossos inimigos, que cairão à espada diante de vós.",
+      "reference": "Lv 26:7"
+    },
+    "8": {
+      "text": "Cinco de vós perseguirão cem, e cem dos vossos perseguirão dez mil, e os vossos inimigos cairão à espada diante de vós. \\par",
+      "reference": "Lv 26:8"
+    },
+    "9": {
+      "text": "Voltar-me-ei para vós e vos farei crescer e multiplicar, e confirmarei a minha aliança convosco. \\par",
+      "reference": "Lv 26:9"
+    },
+    "10": {
+      "text": "Depois de vos terdes alimentado da colheita anterior, tereis ainda de jogar fora a antiga, para dar lugar à nova. \\par",
+      "reference": "Lv 26:10"
+    },
+    "11": {
+      "text": "Estabelecerei a minha habitação no meio de vós e não vos rejeitarei jamais.",
+      "reference": "Lv 26:11"
+    },
+    "12": {
+      "text": "Estarei no meio de vós, serei o vosso Deus e vós sereis o meu povo.",
+      "reference": "Lv 26:12"
+    },
+    "13": {
+      "text": "Pois sou eu, Iahweh vosso Deus, que vos fiz sair da terra do Egito para que não fôsseis mais os servos deles; quebrei as cangas do vosso jugo e vos fiz andar de cabeça erguida. \\par",
+      "reference": "Lv 26:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Maldições\\par }Mas se não me ouvirdes e não praticardes todos estes mandamentos,",
+      "reference": "Lv 26:14"
+    },
+    "15": {
+      "text": "e rejeitardes os meus estatutos, desprezardes as minhas normas e quebrardes a minha aliança, deixando de praticar todos os meus mandamentos,",
+      "reference": "Lv 26:15"
+    },
+    "16": {
+      "text": "então eu farei o mesmo contra vós. \\par Porei sobre vós o terror, o definhamento e a febre, que consomem os olhos e esgotam a vida. Debalde semeareis a vossa semente, porque os vossos inimigos a comerão.",
+      "reference": "Lv 26:16"
+    },
+    "17": {
+      "text": "Voltar-me-ei contra vós e sereis derrotados pelos vossos inimigos. Vossos adversários vos dominarão e vós fugireis sem que haja ninguém a vos perseguir. \\par",
+      "reference": "Lv 26:17"
+    },
+    "18": {
+      "text": "E se, apesar disso, não me ouvirdes, continuarei a castigar-vos sete vezes mais, por causa dos vossos pecados.",
+      "reference": "Lv 26:18"
+    },
+    "19": {
+      "text": "Quebrarei o vosso poder orgulhoso e vos farei o céu como de ferro e a terra como de bronze:",
+      "reference": "Lv 26:19"
+    },
+    "20": {
+      "text": "vossa força se consumirá inutilmente, vossa terra não dará mais os seus produtos, e as árvores do campo não darão mais os seus frutos. \\par",
+      "reference": "Lv 26:20"
+    },
+    "21": {
+      "text": "Se vos opuserdes a mim e não me quiserdes ouvir, agravarei estas pragas sobre vós sete vezes mais, por causa dos vossos pecados.",
+      "reference": "Lv 26:21"
+    },
+    "22": {
+      "text": "Soltarei contra vós as feras do campo, que matarão os vossos filhos, reduzirão o vosso gado e vos dizimarão, a ponto de se tornarem desertos os vossos caminhos. \\par",
+      "reference": "Lv 26:22"
+    },
+    "23": {
+      "text": "E se, apesar disso, ainda não vos corrigirdes e vos obstinardes em resistir-me,",
+      "reference": "Lv 26:23"
+    },
+    "24": {
+      "text": "também eu vos serei contrário, e ainda vos ferirei sete vezes mais por causa dos vossos pecados.",
+      "reference": "Lv 26:24"
+    },
+    "25": {
+      "text": "Farei vir contra vós a espada que vingará a minha Aliança. E quando vos refugiardes nas vossas cidades, enviarei a peste no meio de vós e sereis entregues em poder do inimigo.",
+      "reference": "Lv 26:25"
+    },
+    "26": {
+      "text": "E quando eu vos tiver retirado o sustento do pão, dez mulheres poderão cozer o vosso pão num só forno, e vos entregarão este pão medido, e comereis e não vos fartareis. \\par",
+      "reference": "Lv 26:26"
+    },
+    "27": {
+      "text": "E se, apesar disso, ainda não me ouvirdes e continuardes a vos opor a mim,",
+      "reference": "Lv 26:27"
+    },
+    "28": {
+      "text": "eu me oporei a vós com furor, e eu mesmo vos castigarei sete vezes mais pelos vossos pecados.",
+      "reference": "Lv 26:28"
+    },
+    "29": {
+      "text": "Comereis a carne dos vossos filhos e comereis a carne das vossas filhas.",
+      "reference": "Lv 26:29"
+    },
+    "30": {
+      "text": "Destruirei os vossos lugares altos, desfarei os vossos altares de incenso, lançarei os vossos cadáveres sobre os cadáveres dos vossos ídolos e vos rejeitarei.",
+      "reference": "Lv 26:30"
+    },
+    "31": {
+      "text": "Reduzirei as vossas cidades a ruínas, devastarei os vossos santuários e não aspirarei mais os vossos perfumes de agradável odor.",
+      "reference": "Lv 26:31"
+    },
+    "32": {
+      "text": "Eu mesmo devastarei a terra, e se espantarão os vossos inimigos que a vierem habitar!",
+      "reference": "Lv 26:32"
+    },
+    "33": {
+      "text": "Quanto a vós, eu vos dispersarei entre as nações. Desembainharei a espada contra vós e farei da vossa terra um deserto e das vossas cidades, ruínas.",
+      "reference": "Lv 26:33"
+    },
+    "34": {
+      "text": "Então a terra cumprirá os seus sábados, durante todos os dias da sua desolação, enquanto estiverdes na terra dos vossos inimigos. Então a terra repousará e poderá cumprir os seus sábados.",
+      "reference": "Lv 26:34"
+    },
+    "35": {
+      "text": "Repousará durante todos os dias de sua desolação, o que não aconteceu nos vossos dias de sábado, quando nela habitáveis.",
+      "reference": "Lv 26:35"
+    },
+    "36": {
+      "text": "E no meio daqueles que dentre vós sobreviverem, farei vir o terror ao seu coração; quando se encontrarem na terra dos seus inimigos, perseguidos pelo ruído de uma folha seca, fugirão como se foge diante da espada e cairão, ainda que ninguém os persiga.",
+      "reference": "Lv 26:36"
+    },
+    "37": {
+      "text": "Tropeçarão uns nos outros, como se estivessem diante da espada, sem que ninguém os persiga! E não podereis permanecer diante dos vossos inimigos,",
+      "reference": "Lv 26:37"
+    },
+    "38": {
+      "text": "perecereis entre as nações, e a terra dos vossos inimigos vos devorará.",
+      "reference": "Lv 26:38"
+    },
+    "39": {
+      "text": "Aqueles dentre vós que sobreviverem serão consumidos na terra dos seus inimigos, por causa das suas iniqüidades; é também por causa das iniqüidades dos seus pais, acrescidas às deles, que virão a perecer.",
+      "reference": "Lv 26:39"
+    },
+    "40": {
+      "text": "E confessarão então as suas iniqüidades, bem como as iniqüidades dos seus pais, faltas cometidas por infidelidade para comigo e, ainda mais, por oposição a mim. \\par",
+      "reference": "Lv 26:40"
+    },
+    "41": {
+      "text": "E eu também serei contrário a eles e os conduzirei à terra dos seus inimigos. Então o seu coração incircunciso se humilhará e farão expiação pelas suas faltas.",
+      "reference": "Lv 26:41"
+    },
+    "42": {
+      "text": "Lembrar-me-ei da minha aliança com Jacó, da minha aliança com Isaac e da minha aliança com Abraão, e igualmente me lembrarei da terra. \\par",
+      "reference": "Lv 26:42"
+    },
+    "43": {
+      "text": "E a terra, abandonada por eles, cumprirá os seus sábados, enquanto permanecer desolada com a partida deles. Eles, contudo, deverão expiar a sua iniqüidade, visto que rejeitaram as minhas normas e desprezaram os meus estatutos . \\par",
+      "reference": "Lv 26:43"
+    },
+    "44": {
+      "text": "Contudo, não será apenas isto, pois ainda que estejam na terra dos seus inimigos, eu não os rejeitarei e não os aborrecerei a ponto de romper com eles e de invalidar a minha aliança com eles, pois eu sou Iahweh seu Deus.",
+      "reference": "Lv 26:44"
+    },
+    "45": {
+      "text": "Lembrar-me-ei, em favor deles, da aliança feita com os seus antepassados, que fiz sair da terra do Egito, à vista das nações, a fim de ser o seu Deus, eu mesmo Iahweh”. \\par",
+      "reference": "Lv 26:45"
+    },
+    "46": {
+      "text": "São estes os estatutos, as normas e as leis que Iahweh estabeleceu entre si e os filhos de Israel, no monte Sinai, por intermédio de Moisés. \\par",
+      "reference": "Lv 26:46"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 46
+}

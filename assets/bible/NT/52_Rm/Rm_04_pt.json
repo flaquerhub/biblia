@@ -1,0 +1,113 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b C. O EXEMPLO DE ABRAÃO\\par }{\\qc\\b\\i Abraão justificado por sua fé\\par }Que diremos, pois, de Abraão, nosso progenitor segundo a carne?",
+      "reference": "Rm 4:1"
+    },
+    "2": {
+      "text": "Ora, se Abraão foi justificado pelas obras, ele tem do que se gloriar. Mas não perante Deus.",
+      "reference": "Rm 4:2"
+    },
+    "3": {
+      "text": "Que diz, com efeito, a Escritura? {\\i Abraão creu em Deus, e isto lhe foi levado em conta de justiça.}",
+      "reference": "Rm 4:3"
+    },
+    "4": {
+      "text": "Ora, a quem faz um trabalho, o salário não é considerado como gratificação, mas como um débito;",
+      "reference": "Rm 4:4"
+    },
+    "5": {
+      "text": "a quem, ao invés, não trabalha, mas crê naquele que justifica o ímpio, é sua fé que é levada em conta de justiça,",
+      "reference": "Rm 4:5"
+    },
+    "6": {
+      "text": "como, aliás, também Davi proclama a bem-aventurança do homem a quem Deus credita a justiça, independentemente das obras: \\par",
+      "reference": "Rm 4:6"
+    },
+    "7": {
+      "text": "{\\i Bem-aventurados aqueles \\par cujas ofensas foram perdoadas \\par e cujos pecados foram cobertos. }\\par",
+      "reference": "Rm 4:7"
+    },
+    "8": {
+      "text": "{\\i Bem-aventurado o homem \\par a quem o Senhor não leva em conta o pecado.} \\par",
+      "reference": "Rm 4:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Independentemente da circuncisão\\par }Ora, esta bem-aventurança é somente para os circuncisos, ou também para os incircuncisos? Dizemos, com efeito, que {\\i para Abraão a fé foi levada em conta de justiça.}",
+      "reference": "Rm 4:9"
+    },
+    "10": {
+      "text": "Mas como lhe foi levada em conta? Estando circuncidado ou quando ainda incircunciso? Não foi quando estava circuncidado, mas quando ainda era incircunciso;",
+      "reference": "Rm 4:10"
+    },
+    "11": {
+      "text": "e recebeu {\\i o sinal da circuncisão} como selo da justiça da fé que ele tinha quando incircunciso. Assim ele se tornou pai de todos aqueles que crêem, sem serem circuncidados, para que a eles também seja atribuída a justiça,",
+      "reference": "Rm 4:11"
+    },
+    "12": {
+      "text": "e pai dos circuncisos, que não só receberam a circuncisão, mas que também seguem a trilha da fé que teve Abraão, nosso pai, quando ainda incircunciso. \\par",
+      "reference": "Rm 4:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Independentemente da Lei\\par }De fato, não foi através da Lei que se fez a promessa a Abraão, ou à sua descendência, de ser o herdeiro do mundo, mas através da justiça da fé.",
+      "reference": "Rm 4:13"
+    },
+    "14": {
+      "text": "Porque, se os herdeiros fossem os da Lei, a fé ficaria esvaziada e a promessa sem efeito.",
+      "reference": "Rm 4:14"
+    },
+    "15": {
+      "text": "Mas o que a Lei produz é a ira, ao passo que onde não há lei, não há transgressão.",
+      "reference": "Rm 4:15"
+    },
+    "16": {
+      "text": "Por conseguinte, a herança vem pela fé, para que seja gratuita e para que a promessa fique garantida a toda a descendência, não só à descendência segundo a Lei, mas também à descendência segundo a fé de Abraão, que é o pai de todos nós,",
+      "reference": "Rm 4:16"
+    },
+    "17": {
+      "text": "conforme está escrito: {\\i Eu te constituí pai de muitos povos} – nosso pai em face de Deus em quem creu, o qual faz viver os mortos e chama à existência as coisas que não existem. \\par",
+      "reference": "Rm 4:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i A fé em Abraão e no cristão\\par }Ele, esperando contra toda a esperança, creu e tornou-se assim {\\i pai de muitos povos}, conforme lhe fora dito: {\\i Tal será tua descendência.}",
+      "reference": "Rm 4:18"
+    },
+    "19": {
+      "text": "E foi sem vacilar na fé que considerou seu corpo já morto – ele tinha cerca de cem anos – e o seio de Sara também morto.",
+      "reference": "Rm 4:19"
+    },
+    "20": {
+      "text": "Ante a promessa de Deus, ele não se deixou abalar pela desconfiança, mas se fortaleceu na fé, dando glória a Deus,",
+      "reference": "Rm 4:20"
+    },
+    "21": {
+      "text": "convencido de que ele podia cumprir o que prometeu.",
+      "reference": "Rm 4:21"
+    },
+    "22": {
+      "text": "Eis porque {\\i isto lhe foi levado em conta de justiça.}\\par",
+      "reference": "Rm 4:22"
+    },
+    "23": {
+      "text": "Não foi escrito só para ele: – {\\i Foi-lhe levado em conta} –",
+      "reference": "Rm 4:23"
+    },
+    "24": {
+      "text": "mas também para nós. Para nós que cremos naquele que ressuscitou dos mortos, Jesus, nosso Senhor,",
+      "reference": "Rm 4:24"
+    },
+    "25": {
+      "text": "o qual {\\i foi entregue pelas nossas faltas} e ressuscitado para a nossa justificação. \\par",
+      "reference": "Rm 4:25"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 25
+}

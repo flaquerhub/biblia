@@ -1,0 +1,201 @@
+{
+  "book": 41,
+  "book_name": "Marcos",
+  "book_abbr": "Mc",
+  "book_category": "Evangelhos",
+  "book_english": "Mark",
+  "testament": "NT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Jesus perante Pilatos\\par }Logo de manhã, os chefes dos sacerdotes fizeram um conselho com os anciãos e os escribas e todo o Sinédrio. E manietando a Jesus, levaram-no e entregaram-no a Pilatos. \\par",
+      "reference": "Mc 15:1"
+    },
+    "2": {
+      "text": "Pilatos o interrogou: “És tu o rei dos judeus?” Respondendo, ele disse: “Tu o dizes”.",
+      "reference": "Mc 15:2"
+    },
+    "3": {
+      "text": "E os chefes dos sacerdotes acusavam-no de muitas coisas.",
+      "reference": "Mc 15:3"
+    },
+    "4": {
+      "text": "Pilatos o interrogou de novo: “Nada respondes? Vê de quanto te acusam!”",
+      "reference": "Mc 15:4"
+    },
+    "5": {
+      "text": "Jesus, porém, já nada mais respondeu, de sorte que Pilatos ficou impressionado. \\par",
+      "reference": "Mc 15:5"
+    },
+    "6": {
+      "text": "Por ocasião da Festa, ele lhes soltava um preso que pedissem.",
+      "reference": "Mc 15:6"
+    },
+    "7": {
+      "text": "Ora, havia um, chamado Barrabás, preso com outros amotinadores que, numa revolta, haviam cometido um homicídio.",
+      "reference": "Mc 15:7"
+    },
+    "8": {
+      "text": "A multidão, tendo subido, começou a pedir que lhes fizesse como sempre tinha feito.",
+      "reference": "Mc 15:8"
+    },
+    "9": {
+      "text": "Pilatos, então, perguntou-lhes: “Quereis que eu vos solte o rei dos judeus?”",
+      "reference": "Mc 15:9"
+    },
+    "10": {
+      "text": "Porque ele sabia, com efeito, que os chefes dos sacerdotes o tinham entregue por inveja.",
+      "reference": "Mc 15:10"
+    },
+    "11": {
+      "text": "Os chefes dos sacerdotes, porém, incitavam o povo para que pedisse que, antes, lhes soltasse Barrabás.",
+      "reference": "Mc 15:11"
+    },
+    "12": {
+      "text": "Pilatos perguntou-lhes de novo: “Que farei de Jesus, que dizeis ser o rei dos judeus?”",
+      "reference": "Mc 15:12"
+    },
+    "13": {
+      "text": "Eles gritaram de novo: “Crucifica-o!”",
+      "reference": "Mc 15:13"
+    },
+    "14": {
+      "text": "Disse-lhes Pilatos: “Mas que mal ele fez?” Eles, porém, gritaram com mais veemência: “Crucifica-o!”",
+      "reference": "Mc 15:14"
+    },
+    "15": {
+      "text": "Pilatos, então, querendo contentar a multidão, soltou-lhes Barrabás e, depois de fazer açoitar a Jesus, entregou-o para que fosse crucificado. \\par",
+      "reference": "Mc 15:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i A coroação de espinhos\\par }Os soldados o levaram ao interior do palácio, isto é, do Pretório, e convocaram toda a coorte.",
+      "reference": "Mc 15:16"
+    },
+    "17": {
+      "text": "Em seguida, vestiram-no de púrpura e tecendo uma coroa de espinhos, lha impuseram.",
+      "reference": "Mc 15:17"
+    },
+    "18": {
+      "text": "E começaram a saudá-lo: “Salve, rei dos judeus!”",
+      "reference": "Mc 15:18"
+    },
+    "19": {
+      "text": "E batiam-lhe na cabeça com um caniço. Cuspiam nele e, de joelhos, o adoravam.",
+      "reference": "Mc 15:19"
+    },
+    "20": {
+      "text": "Depois de caçoarem dele, despiram-lhe a púrpura e tornaram a vesti-lo com as suas próprias vestes. \\par \\par {\\qc\\b\\i O caminho da cruz\\par } E levaram-no fora para que o crucificassem.",
+      "reference": "Mc 15:20"
+    },
+    "21": {
+      "text": "Requisitaram um certo Simão Cireneu, que passava por ali vindo do campo, para que carregasse a cruz. Era o pai de Alexandre e de Rufo.",
+      "reference": "Mc 15:21"
+    },
+    "22": {
+      "text": "E levaram Jesus ao lugar chamado Gólgota, que, traduzido, quer dizer o lugar da Caveira. \\par",
+      "reference": "Mc 15:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i A crucifixão\\par }Deram-lhe vinho com mirra, que ele não tomou.",
+      "reference": "Mc 15:23"
+    },
+    "24": {
+      "text": "Então o crucificaram. E {\\i repartiram} as suas {\\i vestes, lançando sorte sobre elas,} para saber com o que cada um ficaria.",
+      "reference": "Mc 15:24"
+    },
+    "25": {
+      "text": "Era a terceira hora quando o crucificaram.",
+      "reference": "Mc 15:25"
+    },
+    "26": {
+      "text": "E acima dele estava a inscrição da sua culpa: “O Rei dos judeus”.",
+      "reference": "Mc 15:26"
+    },
+    "27": {
+      "text": "Com ele crucificaram dois ladrões, um à sua direita, o outro à esquerda. [",
+      "reference": "Mc 15:27"
+    },
+    "28": {
+      "text": "]. \\par",
+      "reference": "Mc 15:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Jesus é escarnecido e injuriado na cruz\\par }Os transeuntes injuriavam-no, meneando a cabeça e dizendo: “Ah! Tu, que destróis o Templo e em três dias o reedificas,",
+      "reference": "Mc 15:29"
+    },
+    "30": {
+      "text": "salva-te a ti mesmo, desce da cruz!”",
+      "reference": "Mc 15:30"
+    },
+    "31": {
+      "text": "Do mesmo modo, também os chefes dos sacerdotes, caçoando dele entre si e com os escribas, diziam: “A outros salvou, a si mesmo não pode salvar!",
+      "reference": "Mc 15:31"
+    },
+    "32": {
+      "text": "O Messias, o Rei de Israel... que desça agora da cruz, para que vejamos e creiamos!” E até os que haviam sido crucificados com ele o ultrajavam. \\par",
+      "reference": "Mc 15:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i A morte de Jesus\\par }À hora sexta, houve trevas sobre toda a terra, até a hora nona.",
+      "reference": "Mc 15:33"
+    },
+    "34": {
+      "text": "E, à hora nona, Jesus deu um grande grito, dizendo: {\\i “Eloi, Eloi, lemá sabachtháni”} que, traduzido, significa: {\\i “Deus meu, Deus meu, por que me abandonaste?”}",
+      "reference": "Mc 15:34"
+    },
+    "35": {
+      "text": "Alguns dos presentes, ao ouvirem isso, disseram: “Eis que ele chama por Elias!”",
+      "reference": "Mc 15:35"
+    },
+    "36": {
+      "text": "E um deles, correndo, encheu uma esponja de {\\i vinagre} e, fixando-a numa vara, {\\i dava-lhe de beber,} dizendo: “Deixai! Vejamos se Elias vem descê-lo!”",
+      "reference": "Mc 15:36"
+    },
+    "37": {
+      "text": "Jesus, então, dando um grande grito, expirou.",
+      "reference": "Mc 15:37"
+    },
+    "38": {
+      "text": "E o véu do Santuário se rasgou em duas partes, de cima a baixo.",
+      "reference": "Mc 15:38"
+    },
+    "39": {
+      "text": "O centurião, que se achava bem defronte dele, vendo que havia expirado desse modo, disse: “Verdadeiramente este homem era filho de Deus!” \\par",
+      "reference": "Mc 15:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i As santas mulheres no Calvário\\par }E também estavam ali algumas mulheres, olhando de longe. Entre elas, Maria Madalena, Maria, mãe de Tiago, o Menor, e de Joset, e Salomé.",
+      "reference": "Mc 15:40"
+    },
+    "41": {
+      "text": "Elas o seguiam e o serviam enquanto esteve na Galiléia. E ainda muitas outras que subiram com ele para Jerusalém. \\par",
+      "reference": "Mc 15:41"
+    },
+    "42": {
+      "text": "\\par {\\qc\\b\\i O sepultamento\\par }E, já chegada a tarde, sendo dia da Preparação, isto é, a véspera de sábado,",
+      "reference": "Mc 15:42"
+    },
+    "43": {
+      "text": "veio José, de Arimatéia, ilustre membro do Conselho, que também esperava o Reino de Deus. Ousando entrar onde estava Pilatos, pediu-lhe o corpo de Jesus.",
+      "reference": "Mc 15:43"
+    },
+    "44": {
+      "text": "Pilatos ficou admirado de que ele já estivesse morto, e, chamando o centurião, perguntou-lhe se fazia muito tempo que morrera.",
+      "reference": "Mc 15:44"
+    },
+    "45": {
+      "text": "Informado pelo centurião, cedeu o cadáver a José,",
+      "reference": "Mc 15:45"
+    },
+    "46": {
+      "text": "o qual, comprando um lençol, desceu-o, enrolou-o no lençol e o pôs num túmulo que fora talhado na rocha. Em seguida, rolou uma pedra, fechando a entrada do túmulo.",
+      "reference": "Mc 15:46"
+    },
+    "47": {
+      "text": "Maria Madalena e Maria, mãe de Joset, observavam onde ele fora posto. \\par",
+      "reference": "Mc 15:47"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 47
+}

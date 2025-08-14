@@ -1,0 +1,101 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Da injustiça dos homens à justiça de Deus\\par }Jó tomou a palavra e disse: \\par",
+      "reference": "Jó 16:1"
+    },
+    "2": {
+      "text": "Já ouvi mil discursos semelhantes, \\par sois todos consoladores importunos. \\par",
+      "reference": "Jó 16:2"
+    },
+    "3": {
+      "text": "“Não há um limite para discursos vazios? \\par Que há que te incita a contestar?” \\par",
+      "reference": "Jó 16:3"
+    },
+    "4": {
+      "text": "Também eu poderia falar como vós, \\par se estivésseis em meu lugar; \\par poderia acabrunhar-vos com discursos \\par levantando sobre vós a cabeça, \\par",
+      "reference": "Jó 16:4"
+    },
+    "5": {
+      "text": "vos reconfortar com palavras, \\par e depois deixar de agitar os lábios. \\par",
+      "reference": "Jó 16:5"
+    },
+    "6": {
+      "text": "Se falo, não cessa minha dor; \\par se me calo, como ela desaparecerá? \\par",
+      "reference": "Jó 16:6"
+    },
+    "7": {
+      "text": "Mas agora ela me extenuou; \\par feriste com horror tudo o que me cerca,",
+      "reference": "Jó 16:7"
+    },
+    "8": {
+      "text": "e ele me deprime, \\par meu caluniador tornou-se minha testemunha, \\par levanta-se contra mim e me acusa diretamente; \\par",
+      "reference": "Jó 16:8"
+    },
+    "9": {
+      "text": "sua ira persegue-me para dilacerar-me, \\par range contra mim os dentes, \\par meus inimigos aguçam os olhos contra mim. \\par",
+      "reference": "Jó 16:9"
+    },
+    "10": {
+      "text": "Abrem contra mim a boca, \\par esbofeteiam-me com suas afrontas, \\par todos se aglomeram em massa contra mim. \\par",
+      "reference": "Jó 16:10"
+    },
+    "11": {
+      "text": "Deus entregou-me a injustos, \\par jogou-me nas mãos dos ímpios. \\par",
+      "reference": "Jó 16:11"
+    },
+    "12": {
+      "text": "Vivia eu tranqüilo, quando me esmagou, \\par agarrou-me pela nuca e me triturou. \\par Fez de mim seu alvo. \\par",
+      "reference": "Jó 16:12"
+    },
+    "13": {
+      "text": "Suas flechas zuniam em torno de mim, \\par atravessou-me os rins sem piedade, \\par e por terra derramou meu fel. \\par",
+      "reference": "Jó 16:13"
+    },
+    "14": {
+      "text": "Abriu-me com mil brechas \\par e assaltou-me como um guerreiro. \\par",
+      "reference": "Jó 16:14"
+    },
+    "15": {
+      "text": "Costurei um saco para cobrir a minha pele \\par e mergulhei meu rosto no pó. \\par",
+      "reference": "Jó 16:15"
+    },
+    "16": {
+      "text": "Meu rosto está vermelho de tanto chorar \\par e a sombra pesa sobre minhas pálpebras, \\par",
+      "reference": "Jó 16:16"
+    },
+    "17": {
+      "text": "embora não haja violência em minhas mãos \\par e seja sincera minha oração. \\par",
+      "reference": "Jó 16:17"
+    },
+    "18": {
+      "text": "Ó terra, não cubras meu sangue, \\par não encontre meu clamor um lugar de descanso! \\par",
+      "reference": "Jó 16:18"
+    },
+    "19": {
+      "text": "Tenho, desde já, uma testemunha nos céus, \\par e um defensor nas alturas; \\par",
+      "reference": "Jó 16:19"
+    },
+    "20": {
+      "text": "intérprete de meus pensamentos junto a Deus, \\par diante do qual correm as minhas lágrimas; \\par",
+      "reference": "Jó 16:20"
+    },
+    "21": {
+      "text": "que ele julgue entre o homem e Deus \\par como se julga um pleito entre os homens. \\par",
+      "reference": "Jó 16:21"
+    },
+    "22": {
+      "text": "Porque passarão os anos que me foram contados \\par e empreenderei a viagem sem retorno. \\par",
+      "reference": "Jó 16:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

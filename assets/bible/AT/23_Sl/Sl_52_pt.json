@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 52,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 52 (51)\\par }{\\qc\\b\\i Julgamento do cínico\\par }{\\qc\\i Do mestre de canto. Poema. De Davi\\par } .",
+      "reference": "Sl 52:1"
+    },
+    "2": {
+      "text": "{\\qc\\i Quando Doeg, o edomita, veio advertir a Saul, dizendo: “Davi entrou na casa de Abimelec”.\\par }",
+      "reference": "Sl 52:2"
+    },
+    "3": {
+      "text": "Por que te glorias com o mal, \\par herói de infâmia, \\par o dia todo",
+      "reference": "Sl 52:3"
+    },
+    "4": {
+      "text": "planiejando ciladas? \\par Tua língua é navalha afiada, \\par autora de fraudes. \\par",
+      "reference": "Sl 52:4"
+    },
+    "5": {
+      "text": "Preferes o mal ao bem, \\par a mentira à franqueza; \\par",
+      "reference": "Sl 52:5"
+    },
+    "6": {
+      "text": "gostas de palavras corrosivas, \\par ó língua fraudulenta. \\par",
+      "reference": "Sl 52:6"
+    },
+    "7": {
+      "text": "Por isso Deus te demolirá, \\par te destruirá até ao fim, \\par e te arrancará da tua tenda, \\par e te extirpará da terra dos vivos. \\par",
+      "reference": "Sl 52:7"
+    },
+    "8": {
+      "text": "Os justos verão e temerão, \\par e rirão às custas dele: \\par",
+      "reference": "Sl 52:8"
+    },
+    "9": {
+      "text": "“Eis o homem que não colocou \\par Deus como sua fortaleza, \\par mas confiava em sua grande riqueza \\par e se fortificava com ciladas!” \\par",
+      "reference": "Sl 52:9"
+    },
+    "10": {
+      "text": "Quanto a mim, como oliveira verdejante \\par na casa de Deus, \\par eu confio no amor de Deus \\par para sempre e eternamente. \\par",
+      "reference": "Sl 52:10"
+    },
+    "11": {
+      "text": "Vou celebrar-te para sempre, \\par porque agiste; \\par e diante dos teus fiéis vou celebrar teu nome, \\par porque ele é bom. \\par",
+      "reference": "Sl 52:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

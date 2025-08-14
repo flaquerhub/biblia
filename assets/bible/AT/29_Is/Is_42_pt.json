@@ -1,0 +1,113 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 42,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Primeiro canto do Servo\\par }Eis o meu servo que eu sustenho, \\par o meu eleito, em quem tenho prazer. \\par Pus sobre ele o meu espírito, \\par ele trará o julgamento às nações. \\par",
+      "reference": "Is 42:1"
+    },
+    "2": {
+      "text": "Ele não clamará, não levantará a voz, \\par não fará ouvir a sua voz nas ruas; \\par",
+      "reference": "Is 42:2"
+    },
+    "3": {
+      "text": "não quebrará a cana rachada, \\par não apagará a mecha bruxuleante, \\par com fidelidade trará o julgamento. \\par",
+      "reference": "Is 42:3"
+    },
+    "4": {
+      "text": "Não vacilará nem desacorçoará \\par até que estabeleça o julgamento na terra; \\par na sua lei as ilhas põem a sua esperança. \\par",
+      "reference": "Is 42:4"
+    },
+    "5": {
+      "text": "Assim diz Deus, Iahweh, \\par que criou os céus e os estendeu, \\par e fez a imensidão da terra e tudo o que dela brota, \\par que deu o alento aos que a povoam \\par e o sopro da vida aos que se movem sobre ela. \\par",
+      "reference": "Is 42:5"
+    },
+    "6": {
+      "text": "“Eu, Iahweh, te chamei para o serviço da justiça, \\par tomei-te pela mão e te modelei, \\par eu te pus como aliança do povo, \\par como luz das nações, \\par",
+      "reference": "Is 42:6"
+    },
+    "7": {
+      "text": "a fim de abrir os olhos dos cegos, \\par a fim de soltar do cárcere os presos, \\par e da prisão os que habitam nas trevas”. \\par",
+      "reference": "Is 42:7"
+    },
+    "8": {
+      "text": "Eu sou Iahweh, este é o meu nome! \\par Não cederei a outrem a minha glória, \\par nem a minha honra aos ídolos. \\par",
+      "reference": "Is 42:8"
+    },
+    "9": {
+      "text": "As primeiras coisas já se realizaram, \\par agora vos anuncio outras, novas; \\par eu vo-las anuncio. \\par",
+      "reference": "Is 42:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Canto de vitória\\par }Cantai a Iahweh num cântico novo, \\par cantem o seu louvor desde as extremidades \\par os que descem ao mar e tudo o que o povoa, \\par as ilhas e os seus habitantes. \\par",
+      "reference": "Is 42:10"
+    },
+    "11": {
+      "text": "Levantem a sua voz o deserto e as suas cidades, \\par os acampamentos habitados por Cedar; \\par exultem os habitantes da Rocha, \\par do alto dos montes dêem gritos de alegria. \\par",
+      "reference": "Is 42:11"
+    },
+    "12": {
+      "text": "Rendam glória a Iahweh, \\par proclamem o seu louvor nas ilhas. \\par",
+      "reference": "Is 42:12"
+    },
+    "13": {
+      "text": "Iahweh sai como um herói, \\par como se fosse um guerreiro o seu zelo se inflama, \\par ele ergue o grito de guerra, sim, ele grita, \\par atira-se vitoriosamente sobre os seus inimigos. \\par",
+      "reference": "Is 42:13"
+    },
+    "14": {
+      "text": "“Há muito que me calei, \\par guardei silêncio e me contive. \\par Como uma mulher que está de parto eu gemia, \\par suspirava, respirando ofegante. \\par",
+      "reference": "Is 42:14"
+    },
+    "15": {
+      "text": "Reduzirei a ruínas montes e outeiros, \\par farei definhar toda a sua verdura; \\par mudarei as correntes de água em terra seca \\par e secarei os pântanos. \\par",
+      "reference": "Is 42:15"
+    },
+    "16": {
+      "text": "Conduzirei os cegos por um caminho que não conhecem, \\par fá-los-ei andar por veredas que não conhecem: \\par na sua frente mudarei as trevas em luz, \\par e os campos escabrosos em terreno plano. \\par Estas coisas farei eu, nada omitirei. \\par",
+      "reference": "Is 42:16"
+    },
+    "17": {
+      "text": "Cobertos de vergonha, recuarão \\par aqueles que confiam em ídolos, \\par que dizem às suas imagens fundidas: Vós sois os nossos deuses”. \\par",
+      "reference": "Is 42:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i A cegueira de Israel\\par }Ouvi, ó surdos! Olhai e vede, ó cegos! \\par",
+      "reference": "Is 42:18"
+    },
+    "19": {
+      "text": "Mas quem é cego senão o meu servo? \\par Quem é surdo como o mensageiro que envio? \\par (Quem é cego como aquele do qual fiz meu amigo \\par e surdo como o servo de Iahweh?) \\par",
+      "reference": "Is 42:19"
+    },
+    "20": {
+      "text": "Viste muitas coisas, mas não as retiveste. \\par Abriste os ouvidos, mas não ouviste. \\par",
+      "reference": "Is 42:20"
+    },
+    "21": {
+      "text": "Aprouve a Iahweh, por causa da sua justiça, \\par tornar a lei grande e majestosa. \\par",
+      "reference": "Is 42:21"
+    },
+    "22": {
+      "text": "Entretanto, este povo foi despojado e saqueado; \\par todos eles estão presos em cavernas, \\par estão retidos em calabouços. \\par Foram submetidos ao saque, e não há quem os liberte; \\par foram levados como despojo, e não há quem reclame a sua devolução. \\par",
+      "reference": "Is 42:22"
+    },
+    "23": {
+      "text": "Quem dentre vós dará ouvidos a isto? \\par Quem prestará atenção e dará ouvidos daqui por diante? \\par",
+      "reference": "Is 42:23"
+    },
+    "24": {
+      "text": "Quem entregou Jacó ao saque, \\par e Israel aos despojadores? \\par Não foi Iahweh, aquele contra quem pecamos, \\par aquele em cujos caminhos não quiseram andar, \\par nem deram ouvidos à sua Lei? \\par",
+      "reference": "Is 42:24"
+    },
+    "25": {
+      "text": "Assim derramou ele sobre Israel a sua ira \\par e o furor da guerra; \\par ela ardeu por todo lado, mas ele não compreendeu; \\par ela chegou a queimá-lo, mas ele não se impressionou. \\par",
+      "reference": "Is 42:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

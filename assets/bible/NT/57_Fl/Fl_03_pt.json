@@ -1,0 +1,97 @@
+{
+  "book": 50,
+  "book_name": "Filipenses",
+  "book_abbr": "Fp",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Philippians",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O verdadeiro caminho da salvação cristã\\par }Finalmente, irmãos, regozijai-vos no Senhor. Escrever-vos as mesmas coisas não me é penoso e é seguro para vós.",
+      "reference": "Fp 3:1"
+    },
+    "2": {
+      "text": "Cuidado com os cães, cuidado com os maus operários, cuidado com os falsos circuncidados!",
+      "reference": "Fp 3:2"
+    },
+    "3": {
+      "text": "Os circuncidados somos nós, que prestamos culto pelo Espírito de Deus e nos gloriamos em Cristo Jesus e não confiamos na carne.",
+      "reference": "Fp 3:3"
+    },
+    "4": {
+      "text": "Aliás, eu poderia, até, confiar na carne. Se algum outro pensa que pode confiar na carne, eu ainda mais:",
+      "reference": "Fp 3:4"
+    },
+    "5": {
+      "text": "circuncidado ao oitavo dia, da raça de Israel, da tribo de Benjamim, hebreu filho de hebreus; quanto à Lei, fariseu;",
+      "reference": "Fp 3:5"
+    },
+    "6": {
+      "text": "quanto ao zelo, perseguidor da Igreja; quanto à justiça que há na Lei, irrepreensível.",
+      "reference": "Fp 3:6"
+    },
+    "7": {
+      "text": "Mas o que era para mim lucro eu o tive como perda, por amor de Cristo.",
+      "reference": "Fp 3:7"
+    },
+    "8": {
+      "text": "Mais ainda: tudo eu considero perda, pela excelência do conhecimento de Cristo Jesus, meu Senhor. Por ele, eu perdi tudo e tudo tenho como esterco, para ganhar a Cristo",
+      "reference": "Fp 3:8"
+    },
+    "9": {
+      "text": "e ser achado nele, não tendo a justiça da Lei, mas a justiça que vem de Deus, apoiada na fé,",
+      "reference": "Fp 3:9"
+    },
+    "10": {
+      "text": "para conhecê-lo, conhecer o poder da sua ressurreição e a participação nos seus sofrimentos, conformando-me com ele na sua morte,",
+      "reference": "Fp 3:10"
+    },
+    "11": {
+      "text": "para ver se alcanço a ressurreição de entre os mortos.",
+      "reference": "Fp 3:11"
+    },
+    "12": {
+      "text": "Não que eu já o tinha alcançado ou que já seja perfeito, mas vou prosseguindo para ver se o alcanço, pois que também já fui alcançado por Cristo Jesus.",
+      "reference": "Fp 3:12"
+    },
+    "13": {
+      "text": "Irmãos, eu não julgo que eu mesmo o tenha alcançado, mas uma coisa faço: esquecendo-me do que fica para trás e avançando para o que está diante,",
+      "reference": "Fp 3:13"
+    },
+    "14": {
+      "text": "prossigo para o alvo, para o prêmio da vocação do alto, que vem de Deus em Cristo Jesus.",
+      "reference": "Fp 3:14"
+    },
+    "15": {
+      "text": "Portanto, todos nós que somos “perfeitos”, tenhamos este sentimento, e, se em alguma coisa pensais diferentemente, Deus vos esclarecerá.",
+      "reference": "Fp 3:15"
+    },
+    "16": {
+      "text": "Entretanto, qualquer que seja o ponto a que chegamos, conservemos o rumo. \\par",
+      "reference": "Fp 3:16"
+    },
+    "17": {
+      "text": "Sede meus imitadores, irmãos, e observai os que andam segundo o modelo que tendes em nós.",
+      "reference": "Fp 3:17"
+    },
+    "18": {
+      "text": "Pois há muitos dos quais muitas vezes eu vos disse e agora repito, chorando, que são inimigos da cruz de Cristo:",
+      "reference": "Fp 3:18"
+    },
+    "19": {
+      "text": "seu fim é a destruição, seu deus é o ventre, sua glória está no que é vergonhoso, e seus pensamentos no que está sobre a terra.",
+      "reference": "Fp 3:19"
+    },
+    "20": {
+      "text": "Mas a nossa cidade está nos céus, de onde também esperamos ansiosamente como Salvador o Senhor Jesus Cristo,",
+      "reference": "Fp 3:20"
+    },
+    "21": {
+      "text": "que transfigurará o nosso corpo humilhado, conformando-o ao seu corpo glorioso, pela força que lhe dá poder de submeter a si todas as coisas. \\par",
+      "reference": "Fp 3:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

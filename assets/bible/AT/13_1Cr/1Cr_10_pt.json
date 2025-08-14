@@ -1,0 +1,69 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Batalha de Gelboé, morte de Saul\\par }Os filisteus travaram uma batalha contra Israel. Os homens de Israel fugiram diante deles e tombaram, feridos mortalmente, na montanha de Gelboé.",
+      "reference": "1Cr 10:1"
+    },
+    "2": {
+      "text": "Os filisteus perseguiram Saul e seus filhos, e mataram Jônatas, Abinadab e Melquisua, filhos de Saul.",
+      "reference": "1Cr 10:2"
+    },
+    "3": {
+      "text": "O peso do combate recaiu então sobre Saul. Os arqueiros o descobriram e ele foi ferido pelos arqueiros.",
+      "reference": "1Cr 10:3"
+    },
+    "4": {
+      "text": "Então disse Saul a seu escudeiro: “Tira tua espada e traspassa-me, para não acontecer que esses incircuncisos zombem de mim”. Mas seu escudeiro recusou-se, pois estava com muito medo. Então Saul pegou sua espada e lançou-se sobre ela.",
+      "reference": "1Cr 10:4"
+    },
+    "5": {
+      "text": "Vendo que Saul estava morto, o escudeiro lançou-se também sobre sua espada e morreu.",
+      "reference": "1Cr 10:5"
+    },
+    "6": {
+      "text": "Assim morreram juntos Saul, seus três filhos e toda a sua casa.",
+      "reference": "1Cr 10:6"
+    },
+    "7": {
+      "text": "Todos os homens de Israel que estavam no vale, ao verem que os homens de Israel fugiam e que Saul e seus filhos tinham morrido, abandonaram suas cidades e fugiram. Vieram os filisteus e lá se estabeleceram. \\par",
+      "reference": "1Cr 10:7"
+    },
+    "8": {
+      "text": "No dia seguinte, os filisteus vindos para espoliar os mortos encontraram Saul e seus filhos caídos no monte Gelboé.",
+      "reference": "1Cr 10:8"
+    },
+    "9": {
+      "text": "Eles o despojaram, levaram sua cabeça e suas armas e as fizeram conduzir por toda a terra filistéia, para anunciar a boa nova a seus ídolos e a seu povo.",
+      "reference": "1Cr 10:9"
+    },
+    "10": {
+      "text": "Colocaram suas armas na casa de seu deus e pregaram seu crânio no templo de Dagon. \\par",
+      "reference": "1Cr 10:10"
+    },
+    "11": {
+      "text": "Quando todos os habitantes de Jabes de Galaad souberam o que os filisteus tinham feito com Saul,",
+      "reference": "1Cr 10:11"
+    },
+    "12": {
+      "text": "todos os guerreiros se puseram a caminho. Retiraram os corpos de Saul e de seus filhos, levaram-nos para Jabes, sepultaram seus ossos debaixo do terebinto de Jabes e jejuaram durante sete dias. \\par",
+      "reference": "1Cr 10:12"
+    },
+    "13": {
+      "text": "Saul pereceu por se ter mostrado infiel para com Iahweh: não seguira a palavra de Iahweh e, além disso, interrogara e consultara uma necromante.",
+      "reference": "1Cr 10:13"
+    },
+    "14": {
+      "text": "Não consultou a Iahweh que o fez perecer e transferiu a realeza a Davi, filho de Jessé. \\par",
+      "reference": "1Cr 10:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

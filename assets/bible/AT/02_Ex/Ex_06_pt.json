@@ -1,0 +1,133 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Disse Iahweh a Moisés: “Agora, verás o que hei de fazer a Faraó, pois é pela intervenção de mão poderosa que os fará partir, e por mão poderosa os expulsará do seu país!” \\par",
+      "reference": "Ex 6:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Nova narração da vocação de Moisés\\par }Deus falou a Moisés e lhe disse: “Eu sou Iahweh.",
+      "reference": "Ex 6:2"
+    },
+    "3": {
+      "text": "Apareci a Abraão, a Isaac e a Jacó como El Shaddai; mas pelo meu nome, Iahweh, não lhes fui conhecido.",
+      "reference": "Ex 6:3"
+    },
+    "4": {
+      "text": "Também estabeleci a minha aliança com eles, para dar-lhes a terra de Canaã, a terra em que residiam como estrangeiros.",
+      "reference": "Ex 6:4"
+    },
+    "5": {
+      "text": "E ouvi o gemido dos filhos de Israel, aos quais os egípcios escravizavam, e me lembrei da minha aliança.",
+      "reference": "Ex 6:5"
+    },
+    "6": {
+      "text": "Portanto, dirás aos filhos de Israel: Eu sou Iahweh, e vos farei sair de debaixo das cargas do Egito, vos libertarei da sua escravidão e vos resgatarei com mão estendida e com grandes julgamentos.",
+      "reference": "Ex 6:6"
+    },
+    "7": {
+      "text": "Tomar-vos-ei por meu povo, e serei o vosso Deus. E vós sabereis que eu sou Iahweh, o vosso Deus, que vos faz sair de sob as cargas do Egito.",
+      "reference": "Ex 6:7"
+    },
+    "8": {
+      "text": "Depois eu vos farei entrar na terra que jurei com a mão estendida dar a Abraão, a Isaac e a Jacó; e vo-la darei como possessão: eu sou Iahweh!”",
+      "reference": "Ex 6:8"
+    },
+    "9": {
+      "text": "Moisés falou assim aos filhos de Israel, mas eles não ouviram a Moisés por causa da ânsia do espírito e da dura escravidão. \\par",
+      "reference": "Ex 6:9"
+    },
+    "10": {
+      "text": "Iahweh falou a Moisés, dizendo:",
+      "reference": "Ex 6:10"
+    },
+    "11": {
+      "text": "“Vai dizer a Faraó, rei do Egito, que faça sair de seu país os filhos de Israel”.",
+      "reference": "Ex 6:11"
+    },
+    "12": {
+      "text": "Moisés, porém, falou na presença de Iahweh, dizendo: “Eis que os filhos de Israel não têm ouvido. Como então, me ouvirá Faraó? Eu não sei falar com facilidade”.",
+      "reference": "Ex 6:12"
+    },
+    "13": {
+      "text": "Iahweh falou a Moisés e a Aarão e os enviou a Faraó, rei do Egito, para fazer sair os filhos de Israel do país do Egito. \\par",
+      "reference": "Ex 6:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Genealogia de Moisés e Aarão\\par }Eis os chefes das suas famílias: \\par Os filhos de Rúben, o primogênito de Israel: Henoc, Falu, Hesron e Carmi; são esses os clãs de Rúben. \\par",
+      "reference": "Ex 6:14"
+    },
+    "15": {
+      "text": "Os filhos de Simeão: Jamuel, Jamin, Aod, Jaquin, Soar e Saul, o filho da cananéia: são esses os clãs de Simeão. \\par",
+      "reference": "Ex 6:15"
+    },
+    "16": {
+      "text": "Eis os nomes dos filhos de Levi com as suas descendências: Gérson, Caat e Merari. Levi viveu cento e trinta e sete anos.",
+      "reference": "Ex 6:16"
+    },
+    "17": {
+      "text": "Os filhos de Gérson: Lobni e Semei com os seus clãs. \\par",
+      "reference": "Ex 6:17"
+    },
+    "18": {
+      "text": "Os filhos de Caat: Amram, Isaar, Hebron e Oziel. Caat viveu cento e trinta e três anos. \\par",
+      "reference": "Ex 6:18"
+    },
+    "19": {
+      "text": "Os filhos de Merari: Mooli e Musi; são esses os clãs de Levi com as suas descendências. \\par",
+      "reference": "Ex 6:19"
+    },
+    "20": {
+      "text": "Amram desposou Jocabed, sua tia, a qual lhe deu Aarão e Moisés. Amram viveu cento e trinta e sete anos. \\par",
+      "reference": "Ex 6:20"
+    },
+    "21": {
+      "text": "Os filhos de Isaar foram: Coré, Nefeg e Zecri, \\par",
+      "reference": "Ex 6:21"
+    },
+    "22": {
+      "text": "e os filhos de Oziel: Misael, Elisafã e Setri. \\par",
+      "reference": "Ex 6:22"
+    },
+    "23": {
+      "text": "Aarão desposou Isabel, filha de Aminadab, irmã de Naasson, e ela lhe deu Nadab, Abiú, Eleazar e Itamar. \\par",
+      "reference": "Ex 6:23"
+    },
+    "24": {
+      "text": "Os filhos de Coré: Asir, Elcana e Abiasaf; são esses os clãs dos coreítas. \\par",
+      "reference": "Ex 6:24"
+    },
+    "25": {
+      "text": "Eleazar, filho de Aarão, desposou uma das filhas de Futiel, a qual lhe gerou Finéias. \\par São esses os chefes das famílias dos levitas, segundo os seus clãs. \\par",
+      "reference": "Ex 6:25"
+    },
+    "26": {
+      "text": "São estes, Aarão e Moisés, aos quais Iahweh disse: “Fazei sair os filhos de Israel do país do Egito, segundo os seus exércitos”.",
+      "reference": "Ex 6:26"
+    },
+    "27": {
+      "text": "São estes os que falaram a Faraó, rei do Egito, para fazer sair os filhos de Israel do Egito: são estes Moisés e Aarão. \\par",
+      "reference": "Ex 6:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Retoma-se a narração da vocação de Moisés\\par }No dia em que Iahweh falou a Moisés na terra do Egito,",
+      "reference": "Ex 6:28"
+    },
+    "29": {
+      "text": "Iahweh disse a Moisés: “Eu sou Iahweh; dize a Faraó, rei do Egito, tudo o que eu te digo”.",
+      "reference": "Ex 6:29"
+    },
+    "30": {
+      "text": "Respondeu Moisés na presença de Iahweh: “Eu não sei falar com facilidade; como, pois, me ouvirá Faraó?” \\par",
+      "reference": "Ex 6:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

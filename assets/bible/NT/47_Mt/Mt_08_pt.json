@@ -1,0 +1,149 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. A pregação do Reino dos Céus}\\par 1. PARTE NARRATIVA: DEZ MILAGRES\\par }{\\qc\\b\\i Cura de um leproso\\par }Ao descer da montanha, seguiam-no multidões numerosas,",
+      "reference": "Mt 8:1"
+    },
+    "2": {
+      "text": "quando de repente um leproso se aproximou e se prostrou diante dele, dizendo: “Senhor, se queres, tens poder para purificar-me”.",
+      "reference": "Mt 8:2"
+    },
+    "3": {
+      "text": "Ele estendeu a mão e, tocando-o disse: “Eu quero, sê purificado”. E imediatamente ele ficou livre da sua lepra.",
+      "reference": "Mt 8:3"
+    },
+    "4": {
+      "text": "Jesus lhe disse: Cuidado, não digas nada a ninguém, mas vai {\\i mostrar-te ao sacerdote} e apresenta a oferta prescrita por Moisés, para que lhes sirva de prova”. \\par",
+      "reference": "Mt 8:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Cura do servo de um centurião\\par }Ao entrar em Cafarnaum, chegou-se a ele um centurião que lhe implorava e dizia:",
+      "reference": "Mt 8:5"
+    },
+    "6": {
+      "text": "“Senhor, o meu criado está deitado em casa paralítico, sofrendo dores atrozes”.",
+      "reference": "Mt 8:6"
+    },
+    "7": {
+      "text": "Jesus lhe disse: “Eu irei curá-lo”.",
+      "reference": "Mt 8:7"
+    },
+    "8": {
+      "text": "Mas o centurião respondeu-lhe: “Senhor, não sou digno de receber-te sob o meu teto; basta que digas uma palavra e o meu criado ficará são.",
+      "reference": "Mt 8:8"
+    },
+    "9": {
+      "text": "Com efeito, também eu estou debaixo de ordens e tenho soldados sob o meu comando, e quando digo a um ‘Vai!’, ele vai, e a outro ‘Vem!’, ele vem; e quando digo ao meu servo: ‘Faze isto’, ele o faz”.",
+      "reference": "Mt 8:9"
+    },
+    "10": {
+      "text": "Ouvindo isso, Jesus ficou admirado e disse aos que o seguiam: “Em verdade vos digo que, em Israel, não achei ninguém que tivesse tal fé.",
+      "reference": "Mt 8:10"
+    },
+    "11": {
+      "text": "Mas eu vos digo que {\\i virão} muitos{\\i  do oriente e do ocidente} e se assentarão à mesa no Reino dos Céus, com Abraão, Isaac e Jacó,",
+      "reference": "Mt 8:11"
+    },
+    "12": {
+      "text": "enquanto os filhos do Reino serão postos para fora, nas trevas, onde haverá choro e ranger de dentes”.",
+      "reference": "Mt 8:12"
+    },
+    "13": {
+      "text": "Em seguida, disse ao centurião: “Vai! Como creste, assim te seja feito!” Naquela mesma hora o criado ficou são. \\par",
+      "reference": "Mt 8:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Cura da sogra de Pedro\\par }Entrando Jesus na casa de Pedro, viu a sogra deste, que estava de cama e com febre.",
+      "reference": "Mt 8:14"
+    },
+    "15": {
+      "text": "Logo tocou-lhe a mão e a febre a deixou. Ela se levantou e pôs-se a servi-lo. \\par",
+      "reference": "Mt 8:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Diversas curas\\par }Ao entardecer, trouxeram-lhe muitos endemoninhados e ele, com uma palavra, expulsou os espíritos e curou todos os que estavam enfermos,",
+      "reference": "Mt 8:16"
+    },
+    "17": {
+      "text": "a fim de se cumprir o que foi dito pelo profeta Isaías: \\par {\\i Levou nossas enfermidades \\par e carregou nossas doenças.}\\par",
+      "reference": "Mt 8:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Exigências da vocação apostólica\\par }Vendo Jesus que estava cercado de grandes multidões, ordenou que partissem para a outra margem do lago.",
+      "reference": "Mt 8:18"
+    },
+    "19": {
+      "text": "Então chegou-se a ele um escriba e disse: “Mestre, eu te seguirei para onde quer que vás”.",
+      "reference": "Mt 8:19"
+    },
+    "20": {
+      "text": "Ao que Jesus respondeu: “As raposas têm tocas e as aves do céu, ninhos; mas o Filho do Homem não tem onde reclinar a cabeça”.\\par",
+      "reference": "Mt 8:20"
+    },
+    "21": {
+      "text": "Outro dos discípulos lhe disse: “Senhor, permite-me ir primeiro enterrar meu pai”.",
+      "reference": "Mt 8:21"
+    },
+    "22": {
+      "text": "Mas Jesus lhe respondeu: “Segue-me e deixa que os mortos enterrem seus mortos”. \\par",
+      "reference": "Mt 8:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i A tempestade acalmada\\par }Depois disso, entrou no barco e os seus discípulos o seguiram.",
+      "reference": "Mt 8:23"
+    },
+    "24": {
+      "text": "E, nisso, houve no mar uma grande agitação, de modo que o barco era varrido pelas ondas. Ele, entretanto, dormia.",
+      "reference": "Mt 8:24"
+    },
+    "25": {
+      "text": "Os discípulos então chegaram-se a ele e o despertaram, dizendo: “Senhor, salva-nos, estamos perecendo!”",
+      "reference": "Mt 8:25"
+    },
+    "26": {
+      "text": "Disse-lhes ele: “Por que tendes medo, homens fracos na fé?” Depois, pondo-se de pé, conjurou severamente os ventos e o mar. E houve uma grande bonança.",
+      "reference": "Mt 8:26"
+    },
+    "27": {
+      "text": "Os homens ficaram espantados e diziam: “Quem é este a quem até os ventos e o mar obedecem?” \\par",
+      "reference": "Mt 8:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Os endemoninhados gadarenos\\par }Ao chegar ao outro lado, ao país dos gadarenos, vieram ao seu encontro dois endemoninhados, saindo dos túmulos. Eram tão ferozes que ninguém podia passar por aquele caminho.",
+      "reference": "Mt 8:28"
+    },
+    "29": {
+      "text": "E eis que se puseram a gritar: “Que queres de nós, Filho de Deus? Vieste aqui para nos atormentar antes do tempo?”",
+      "reference": "Mt 8:29"
+    },
+    "30": {
+      "text": "Ora, a certa distância deles havia uma manada de porcos que estava pastando.",
+      "reference": "Mt 8:30"
+    },
+    "31": {
+      "text": "Os demônios lhe imploravam, dizendo: “Se nos expulsas, manda-nos para a manada de porcos”.",
+      "reference": "Mt 8:31"
+    },
+    "32": {
+      "text": "Jesus lhes disse: “Ide”. Eles, saindo, foram para os porcos e logo toda a manada se precipitou ao mar, do alto de um precipício, e pereceu nas águas.",
+      "reference": "Mt 8:32"
+    },
+    "33": {
+      "text": "Os que os apascentavam fugiram e, dirigindo-se à cidade, contaram tudo o que acontecera, inclusive o caso dos endemoninhados.",
+      "reference": "Mt 8:33"
+    },
+    "34": {
+      "text": "Diante disso, a cidade inteira saiu ao encontro de Jesus. Ao vê-lo, rogaram-lhe que se retirasse do seu território. \\par",
+      "reference": "Mt 8:34"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 34
+}

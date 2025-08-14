@@ -1,0 +1,85 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Separação de Abraão e de Ló\\par }Do Egito, Abrão, com sua mulher e tudo o que possuía, e Ló com ele, subiu ao Negueb.",
+      "reference": "Gn 13:1"
+    },
+    "2": {
+      "text": "Abrão era muito rico em rebanhos, em prata e em ouro.",
+      "reference": "Gn 13:2"
+    },
+    "3": {
+      "text": "Seus acampamentos conduziram-no do Negueb até Betel, no lugar onde primeiro armara sua tenda, entre Betel e Hai,",
+      "reference": "Gn 13:3"
+    },
+    "4": {
+      "text": "no lugar em que outrora construíra o altar, e lá Abrão invocou o nome de Iahweh. \\par",
+      "reference": "Gn 13:4"
+    },
+    "5": {
+      "text": "Ló, que acompanhava Abrão, tinha igualmente ovelhas, bois e tendas.",
+      "reference": "Gn 13:5"
+    },
+    "6": {
+      "text": "A terra não era suficiente para sua instalação comum: tinham posses imensas para poderem habitar juntos.",
+      "reference": "Gn 13:6"
+    },
+    "7": {
+      "text": "Houve uma disputa entre os pastores dos rebanhos de Abrão e os dos rebanhos de Ló (nesse tempo os cananeus e os ferezeus habitavam essa terra).",
+      "reference": "Gn 13:7"
+    },
+    "8": {
+      "text": "Abrão disse a Ló: “Que não haja discórdia entre mim e ti, entre meus pastores e os teus, pois somos irmãos!",
+      "reference": "Gn 13:8"
+    },
+    "9": {
+      "text": "Toda a terra não está diante de ti? Peço-te que te apartes de mim. Se tomares a esquerda, irei para a direita; se tomares a direita, irei para a esquerda”. \\par",
+      "reference": "Gn 13:9"
+    },
+    "10": {
+      "text": "Ló ergueu os olhos e viu toda a Planície do Jordão, que era toda irrigada – antes que Iahweh destruísse Sodoma e Gomorra – como o jardim de Iahweh, como a terra do Egito, até Segor.",
+      "reference": "Gn 13:10"
+    },
+    "11": {
+      "text": "Ló escolheu para si toda a Planície do Jordão e emigrou para o oriente. Assim eles se separaram um do outro.",
+      "reference": "Gn 13:11"
+    },
+    "12": {
+      "text": "Abrão estabeleceu-se na terra de Canaã e Ló estabeleceu-se nas cidades da Planície; ele armou suas tendas até Sodoma.",
+      "reference": "Gn 13:12"
+    },
+    "13": {
+      "text": "Ora, os habitantes de Sodoma eram grandes criminosos e pecavam contra Iahweh. \\par",
+      "reference": "Gn 13:13"
+    },
+    "14": {
+      "text": "Iahweh disse a Abrão, depois que Ló se separou dele: “Ergue os olhos e olha, do lugar em que estás, para o norte e para o sul, para o oriente e para o ocidente.",
+      "reference": "Gn 13:14"
+    },
+    "15": {
+      "text": "Toda a terra que vês, eu ta darei, a ti e à tua posteridade para sempre.",
+      "reference": "Gn 13:15"
+    },
+    "16": {
+      "text": "Tornarei a tua posteridade como poeira da terra: quem puder contar os grãos de poeira da terra poderá contar teus descendentes!",
+      "reference": "Gn 13:16"
+    },
+    "17": {
+      "text": "Levanta-te! Percorre essa terra no seu comprimento e na sua largura, porque eu ta darei”.",
+      "reference": "Gn 13:17"
+    },
+    "18": {
+      "text": "Com suas tendas, Abrão foi estabelecer-se no Carvalho de Mambré, que está em Hebron, e lá construiu um altar a Iahweh. \\par",
+      "reference": "Gn 13:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

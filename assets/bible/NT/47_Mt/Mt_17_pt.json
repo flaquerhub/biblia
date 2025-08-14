@@ -1,0 +1,121 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A transfiguração\\par }Seis dias depois, Jesus tomou Pedro, Tiago, e seu irmão João, e os levou para um lugar à parte, sobre uma alta montanha.",
+      "reference": "Mt 17:1"
+    },
+    "2": {
+      "text": "E ali foi transfigurado diante deles. O seu rosto resplandeceu como o sol e as suas vestes tornaram-se alvas como a luz.",
+      "reference": "Mt 17:2"
+    },
+    "3": {
+      "text": "E eis que lhes apareceram Moisés e Elias conversando com ele.",
+      "reference": "Mt 17:3"
+    },
+    "4": {
+      "text": "Então Pedro, tomando a palavra, disse a Jesus: “Senhor, é bom estarmos aqui. Se queres, levantarei aqui três tendas: uma para ti, outra para Moisés e outra para Elias”.",
+      "reference": "Mt 17:4"
+    },
+    "5": {
+      "text": "Ainda falava, quando uma nuvem luminosa os cobriu com a sua sombra e uma voz, que saía da nuvem, disse: {\\i “Este é o meu Filho amado, em quem me comprazo, ouvi-o!”}",
+      "reference": "Mt 17:5"
+    },
+    "6": {
+      "text": "Os discípulos, ouvindo a voz, muito assustados, caíram com o rosto no chão.",
+      "reference": "Mt 17:6"
+    },
+    "7": {
+      "text": "Jesus chegou perto deles e, tocando-os, disse: “Levantai-vos e não tenhais medo”.",
+      "reference": "Mt 17:7"
+    },
+    "8": {
+      "text": "Erguendo os olhos, não viram ninguém: Jesus estava sozinho. \\par",
+      "reference": "Mt 17:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Uma pergunta a respeito de Elias\\par }Ao descerem do monte, Jesus ordenou-lhes: “Não conteis a ninguém essa visão, até que o Filho do Homem ressuscite dos mortos”.",
+      "reference": "Mt 17:9"
+    },
+    "10": {
+      "text": "Os discípulos perguntaram-lhe: “Por que razão os escribas dizem que é preciso que Elias venha primeiro?”",
+      "reference": "Mt 17:10"
+    },
+    "11": {
+      "text": "Respondeu-lhes Jesus: “Certamente {\\i Elias} terá de vir {\\i para restaurar tudo.}",
+      "reference": "Mt 17:11"
+    },
+    "12": {
+      "text": "Eu vos digo, porém, que Elias já veio, mas não o reconheceram. Ao contrário, fizeram com ele tudo quanto quiseram. Assim também o Filho do Homem irá sofrer da parte deles”.",
+      "reference": "Mt 17:12"
+    },
+    "13": {
+      "text": "Então os discípulos entenderam que se referia a João Batista. \\par",
+      "reference": "Mt 17:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i O endemoninhado epilético\\par }Ao chegarem junto da multidão, aproximou-se dele um homem que, de joelhos, lhe pedia:",
+      "reference": "Mt 17:14"
+    },
+    "15": {
+      "text": "“Senhor, tem compaixão de meu filho, porque é lunático e sofre muito com isso. Muitas vezes cai no fogo e outras muitas na água.",
+      "reference": "Mt 17:15"
+    },
+    "16": {
+      "text": "Eu o trouxe aos teus discípulos, mas eles não foram capazes de curá-lo”.",
+      "reference": "Mt 17:16"
+    },
+    "17": {
+      "text": "Ao que Jesus replicou: “Ó geração incrédula e perversa, até quando estarei convosco? Até quando vos suportarei? Trazei-o aqui”.",
+      "reference": "Mt 17:17"
+    },
+    "18": {
+      "text": "Jesus o conjurou severamente e o demônio saiu dele. E o menino ficou são a partir desse momento.",
+      "reference": "Mt 17:18"
+    },
+    "19": {
+      "text": "Então os discípulos, procurando Jesus a sós, disseram: “Por que razão não pudemos expulsá-lo?”",
+      "reference": "Mt 17:19"
+    },
+    "20": {
+      "text": "Jesus respondeu-lhes: “Por causa da fraqueza da vossa fé, pois em verdade vos digo: se tiverdes fé como um grão de mostarda, direis a esta montanha: transporta-te daqui para lá, e ela se transportará, e nada vos será impossível”. [",
+      "reference": "Mt 17:20"
+    },
+    "21": {
+      "text": "] \\par",
+      "reference": "Mt 17:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Segundo anúncio da paixão\\par }Estando eles reunidos na Galiléia, Jesus lhes disse: “O Filho do Homem vai ser entregue às mãos dos homens",
+      "reference": "Mt 17:22"
+    },
+    "23": {
+      "text": "e eles o matarão, mas no terceiro dia ressuscitará”. E eles ficaram muito tristes. \\par",
+      "reference": "Mt 17:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i O tributo para o Templo pago por Jesus e por Pedro\\par }Quando chegaram a Cafarnaum, os coletores da didracma aproximaram-se de Pedro e lhe perguntaram: “O vosso mestre não paga a didracma?”",
+      "reference": "Mt 17:24"
+    },
+    "25": {
+      "text": "Pedro respondeu: “Sim”. Ao entrar em casa, Jesus antecipou-se-lhe, dizendo: “Que te parece, Simão? De quem recebem os reis da terra tributos ou impostos? Dos seus filhos ou dos estranhos?”",
+      "reference": "Mt 17:25"
+    },
+    "26": {
+      "text": "Como ele respondesse: “Dos estranhos”, Jesus lhe disse: “Logo, os filhos estão isentos.",
+      "reference": "Mt 17:26"
+    },
+    "27": {
+      "text": "Mas, para que não os escandalizemos, vai ao mar e joga o anzol. O primeiro peixe que subir, segura-o e abre-lhe a boca. Achará aí um estáter. Pega-o e entrega-o a eles por mim e por ti”. \\par",
+      "reference": "Mt 17:27"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 27
+}

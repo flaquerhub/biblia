@@ -1,0 +1,133 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i VI. O advento próximo do Reino dos Céus}\\par 1. PARTE NARRATIVA\\par }{\\qc\\b\\i Perguntas sobre o divórcio\\par }Quando Jesus terminou essas palavras, partiu da Galiléia e foi para o território da Judéia, além do Jordão.",
+      "reference": "Mt 19:1"
+    },
+    "2": {
+      "text": "Acompanharam-no grandes multidões e ali as curou.",
+      "reference": "Mt 19:2"
+    },
+    "3": {
+      "text": "Alguns fariseus se aproximaram dele, querendo pô-lo à prova. E perguntaram: “É lícito repudiar a própria mulher por qualquer motivo que seja?”",
+      "reference": "Mt 19:3"
+    },
+    "4": {
+      "text": "Ele respondeu: “Não lestes que desde o princípio o Criador {\\i os fez homem e mulher?}",
+      "reference": "Mt 19:4"
+    },
+    "5": {
+      "text": "e que disse: {\\i Por isso o homem deixará pai e mãe e se unirá à sua mulher e os dois serão uma só carne?}",
+      "reference": "Mt 19:5"
+    },
+    "6": {
+      "text": "De modo que já não são dois, mas uma só carne. Portanto, o que Deus uniu, o homem não deve separar”.",
+      "reference": "Mt 19:6"
+    },
+    "7": {
+      "text": "Eles, porém, objetaram: “Por que, então, ordenou Moisés que se desse carta de divórcio e depois se repudiasse?”",
+      "reference": "Mt 19:7"
+    },
+    "8": {
+      "text": "Ele disse: “Moisés, por causa da dureza dos vossos corações, vos permitiu repudiar vossas mulheres, mas desde o princípio não era assim.",
+      "reference": "Mt 19:8"
+    },
+    "9": {
+      "text": "E eu vos digo que todo aquele que repudiar a sua mulher –exceto por motivo de ‘fornicação’– e desposar uma outra, comete adultério”.\\par",
+      "reference": "Mt 19:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i A continência voluntária\\par }Os discípulos disseram-lhe: “Se é assim a condição do homem em reação à mulher, não vale a pena casar-se”.",
+      "reference": "Mt 19:10"
+    },
+    "11": {
+      "text": "Ele acrescentou: “Nem todos são capazes de compreender essa palavra, mas só aqueles a quem é concedido.",
+      "reference": "Mt 19:11"
+    },
+    "12": {
+      "text": "Com efeito, há eunucos que nasceram assim, desde o ventre materno. E há eunucos que foram feitos eunucos pelos homens. E há eunucos que se fizeram eunucos por causa do Reino dos Céus. Quem tiver capacidade pra compreender, compreenda!” \\par",
+      "reference": "Mt 19:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Jesus e as crianças\\par }Naquele momento, foram-lhe trazidas crianças para que lhes impusesse as mãos e fizesse uma oração. Os discípulos, porém, as repreendiam.",
+      "reference": "Mt 19:13"
+    },
+    "14": {
+      "text": "Jesus, todavia, disse: “Deixai as crianças e não as impeçais de virem a mim, pois delas é o Reino dos Céus”.",
+      "reference": "Mt 19:14"
+    },
+    "15": {
+      "text": "Em seguida impôs-lhes as mãos e partiu dali. \\par",
+      "reference": "Mt 19:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i O moço rico\\par }Aí alguém se aproximou dele e disse: “Mestre, que farei de bom para ter a vida eterna?”",
+      "reference": "Mt 19:16"
+    },
+    "17": {
+      "text": "Respondeu: “Por que me perguntas sobre o que é bom? O Bom é um só. Mas se queres entrar para a Vida, guarda os mandamentos”.",
+      "reference": "Mt 19:17"
+    },
+    "18": {
+      "text": "Ele perguntou-lhe: “Quais?” Jesus respondeu: “Estes: {\\i Não matarás, não adulterarás, não roubarás, não levantarás falso testemunho;}",
+      "reference": "Mt 19:18"
+    },
+    "19": {
+      "text": "{\\i honra pai e mãe, e amarás o teu próximo como a ti mesmo”.}",
+      "reference": "Mt 19:19"
+    },
+    "20": {
+      "text": "Disse-lhe então o moço: “Tudo isso tenho guardado. Que me falta ainda?”",
+      "reference": "Mt 19:20"
+    },
+    "21": {
+      "text": "Jesus lhe respondeu: “Se queres ser perfeito, vai, vende os teus bens e dá aos pobres, e terás um tesouro nos céus. Depois, vem e segue-me”.",
+      "reference": "Mt 19:21"
+    },
+    "22": {
+      "text": "O moço, ouvindo essa palavra, saiu pesaroso, pois era possuidor de muitos bens. \\par",
+      "reference": "Mt 19:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i O perigo das riquezas\\par }Então Jesus disse aos seus discípulos: “Em verdade vos digo que um rico dificilmente entrará no Reino dos Céus.",
+      "reference": "Mt 19:23"
+    },
+    "24": {
+      "text": "E vos digo ainda: é mais fácil um camelo entrar pelo buraco de uma agulha do que um rico entrar no Reino dos Céus”.",
+      "reference": "Mt 19:24"
+    },
+    "25": {
+      "text": "Ao ouvirem isso, os discípulos ficaram muito espantados e disseram: “Quem poderá então salvar-se?”",
+      "reference": "Mt 19:25"
+    },
+    "26": {
+      "text": "Jesus, fitando-os, disse: “Ao homem isso é impossível, mas a Deus tudo é possível”. \\par",
+      "reference": "Mt 19:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Recompensa prometida ao desprendimento\\par }Pedro, tomando então a palavra, disse: “Eis que nós deixamos tudo e te seguimos. O que é que vamos receber?”",
+      "reference": "Mt 19:27"
+    },
+    "28": {
+      "text": "Disse-lhe Jesus: “Em verdade vos digo que, quando as coisas forem renovadas, e o Filho do Homem se assentar no seu trono de glória, também vós, que me seguistes, vos sentareis em doze tronos para julgar as doze tribos de Israel.",
+      "reference": "Mt 19:28"
+    },
+    "29": {
+      "text": "E todo aquele que tiver deixado casas ou irmãos, ou irmãs, ou pai, ou mãe, ou filhos, ou terras, por causa do meu nome, receberá muito mais e herdará a vida eterna. \\par",
+      "reference": "Mt 19:29"
+    },
+    "30": {
+      "text": "Muitos dos primeiros serão últimos, e muitos dos últimos, primeiros. \\par",
+      "reference": "Mt 19:30"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 30
+}

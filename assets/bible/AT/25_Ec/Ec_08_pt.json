@@ -1,0 +1,81 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Quem é como o sábio? \\par Quem sabe a interpretação das coisas? \\par A sabedoria do homem faz sua face brilhar, \\par e abranda a dureza da sua face. \\par",
+      "reference": "Ec 8:1"
+    },
+    "2": {
+      "text": "Obedece à ordem do rei, \\par por causa do juramento de Deus; \\par",
+      "reference": "Ec 8:2"
+    },
+    "3": {
+      "text": "não te apresses em deixar a presença dele, \\par nem te coloques em má situação, \\par porque ele faz o que lhe agrada. \\par",
+      "reference": "Ec 8:3"
+    },
+    "4": {
+      "text": "Porque a palavra do rei é soberana, \\par e quem lhe diria: “Que estás fazendo?” \\par",
+      "reference": "Ec 8:4"
+    },
+    "5": {
+      "text": "Quem observa o mandamento nenhum mal sofrerá; \\par o coração do sábio conhece o tempo e o julgamento, \\par",
+      "reference": "Ec 8:5"
+    },
+    "6": {
+      "text": "pois há um tempo e um julgamento para todo propósito. \\par A infelicidade do homem é grande,",
+      "reference": "Ec 8:6"
+    },
+    "7": {
+      "text": "pois ele não sabe o que vai acontecer: \\par quem pode anunciar-lhe como há de ser? \\par",
+      "reference": "Ec 8:7"
+    },
+    "8": {
+      "text": "Homem algum é senhor do vento, \\par para reter o vento; \\par ninguém é senhor do dia da morte, \\par e nessa guerra não há trégua; \\par nem mesmo a maldade deixa impune quem a comete. \\par",
+      "reference": "Ec 8:8"
+    },
+    "9": {
+      "text": "Vi essas coisas todas ao aplicar o coração a tudo o que se faz debaixo do sol, enquanto um homem domina outro homem, para arruiná-lo. \\par",
+      "reference": "Ec 8:9"
+    },
+    "10": {
+      "text": "Vi também levarem ímpios à sepultura; quando saem do lugar santo, esquecem-se de como eles tinham agido na cidade. Isso também é vaidade. \\par",
+      "reference": "Ec 8:10"
+    },
+    "11": {
+      "text": "Uma vez que não se executa logo a sentença contra quem praticou o mal, o coração dos filhos dos homens está sempre voltado para a prática do mal.",
+      "reference": "Ec 8:11"
+    },
+    "12": {
+      "text": "Um pecador sobrevive, mesmo que cometa cem vezes o mal. Mas eu sei também que acontece o bem aos que temem a Deus, porque eles o temem;",
+      "reference": "Ec 8:12"
+    },
+    "13": {
+      "text": "mas que não acontece o bem ao ímpio e que, como a sombra, não irá prolongar seus dias, porque não teme a Deus. \\par",
+      "reference": "Ec 8:13"
+    },
+    "14": {
+      "text": "Há uma vaidade que se faz sobre a terra: \\par há justos que são tratados conforme a conduta dos ímpios \\par e há ímpios que são tratados conforme a conduta dos justos. \\par Digo que também isso é vaidade. \\par",
+      "reference": "Ec 8:14"
+    },
+    "15": {
+      "text": "E eu exalto a alegria, pois não existe felicidade para o homem debaixo do sol, a não ser o comer, o beber e o alegrar-se; é isso que o acompanha no seu trabalho nos dias da vida que Deus lhe dá debaixo do sol. \\par",
+      "reference": "Ec 8:15"
+    },
+    "16": {
+      "text": "Após aplicar meu coração a conhecer a sabedoria e a observar a tarefa que se realiza sobre a terra – pois os olhos do homem não vêem repouso nem de dia e nem de noite –",
+      "reference": "Ec 8:16"
+    },
+    "17": {
+      "text": "observei toda a obra de Deus, e vi que o homem não é capaz de descobrir toda a obra que se realiza debaixo do sol; por mais que o homem trabalhe pesquisando, não a descobrirá. E mesmo que um sábio diga que conhece, nem por isso é capaz de descobrir. \\par",
+      "reference": "Ec 8:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

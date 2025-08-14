@@ -1,0 +1,101 @@
+{
+  "book": 25,
+  "book_name": "Lamentações",
+  "book_abbr": "Lm",
+  "book_category": "Profético",
+  "book_english": "Lamentations",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Quarta lamentação}\\par }{\\qc\\b\\i Alef\\par }Como se escureceu o ouro, alterou-se \\par o mais puro ouro! \\par As pedras sagradas foram espalhadas \\par pela esquina de todas as ruas. \\par",
+      "reference": "Lm 4:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Bet\\par }Os mais preciosos filhos de Sião, \\par avaliados a preço de ouro fino, \\par são reputados como vasos de argila, \\par obra das mãos de um oleiro! \\par",
+      "reference": "Lm 4:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Guimel\\par }Até os chacais dão o peito, \\par amamentam suas crias. \\par A filha de meu povo tornou-se cruel \\par como os avestruzes do deserto. \\par",
+      "reference": "Lm 4:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Dalet\\par }A língua do lactente colou-se, \\par de sede, ao seu palato; \\par as criancinhas pedem pão: \\par ninguém que lho parta! \\par",
+      "reference": "Lm 4:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Hê\\par }Os que comiam iguarias \\par desfalecem pelas ruas; \\par os que se criaram na púrpura, \\par apertam-se no lixo. \\par",
+      "reference": "Lm 4:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Waw\\par }A falta da filha de meu povo é maior \\par do que os pecados de Sodoma, \\par que foi arrasada num momento, \\par sem que as mãos se cansassem. \\par",
+      "reference": "Lm 4:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Záin\\par }Seus jovens eram mais alvos que a neve, \\par mais brancos que o leite, \\par mais rubros de corpo que os corais, \\par sua tez era de safira. \\par",
+      "reference": "Lm 4:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Het\\par }O seu aspecto escureceu-se mais que a fuligem, \\par não são conhecidos nas ruas; \\par sua pele se lhes colou aos ossos, \\par ela é seca como lenha. \\par",
+      "reference": "Lm 4:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Tet\\par }Mais felizes foram as vítimas da espada \\par do que as da fome, \\par que sucumbem, esgotadas, \\par por falta dos frutos do campo. \\par",
+      "reference": "Lm 4:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Yod\\par }As mãos de mulheres compassivas \\par fazem cozer seus filhos; \\par eles serviram-lhes de alimento \\par na ruína da filha de meu povo. \\par",
+      "reference": "Lm 4:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Kaf\\par }Iahweh saciou sua ira, \\par derramou o ardor de sua cólera, \\par acendeu um fogo em Sião \\par que devorou seus fundamentos. \\par",
+      "reference": "Lm 4:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par }Não criam, os reis da terra \\par e todos os habitantes do mundo, \\par que entrassem o opressor e o inimigo \\par pelas portas de Jerusalém. \\par",
+      "reference": "Lm 4:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Mem\\par }Por causa dos pecados de seus profetas, \\par das faltas de seus sacerdotes, \\par derramou-se, no meio dela, \\par o sangue dos justos! \\par",
+      "reference": "Lm 4:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Nun\\par }Erram como cegos pelas ruas, \\par manchados de sangue, \\par de tal sorte que não se podia tocar \\par em suas roupas. \\par",
+      "reference": "Lm 4:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Samec\\par }“Para trás! Impuro!”, gritavam-lhe. \\par “Para trás! Para trás! Não me toqueis!”; \\par enquanto fugiam, errantes, para as nações, \\par onde não podiam permanecer. \\par",
+      "reference": "Lm 4:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Pê\\par }A Face de Iahweh os dispersou, \\par ele não mais os olha; \\par não há respeito pelos sacerdotes, \\par não há compaixão pelos anciãos. \\par",
+      "reference": "Lm 4:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Áin\\par }Nossos olhos se consumiam sempre \\par esperando um socorro: ilusão! \\par De nossas espias, espiávamos \\par uma nação que não pode salvar. \\par",
+      "reference": "Lm 4:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Çade\\par }Não podíamos andar em nossas ruas \\par porque espreitavam nossos passos. \\par Nosso fim estava próximo, nossos dias se cumpriam: \\par sim, chegou o nosso fim! \\par",
+      "reference": "Lm 4:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Qof\\par }Nossos perseguidores eram rápidos, \\par mais que as águias do céu; \\par nas montanhas eles nos acuam, \\par no deserto armam-nos ciladas. \\par",
+      "reference": "Lm 4:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Resh\\par }O sopro de nossas narinas, o ungido de Iahweh, \\par foi preso nas suas fossas; \\par dele dizíamos: “À sua sombra \\par viveremos entre as nações”. \\par",
+      "reference": "Lm 4:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Shin\\par }Exulta, alegra-te, filha de Edom, \\par que habitas no país de Hus! \\par Também a ti se passará o cálice: \\par embriagada, desnudar-te-ás! \\par",
+      "reference": "Lm 4:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Taw\\par }Terminou tua falta, filha de Sião. \\par Ele não mais te exilará! \\par Ele castigará tua falta, filha de Edom, \\par revelará teus pecados! \\par",
+      "reference": "Lm 4:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

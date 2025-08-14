@@ -1,0 +1,69 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O pedido dos moabitas\\par }Enviai o cordeiro do senhor da terra, \\par de Sela, situada junto do deserto, \\par ao monte da filha de Sião. \\par",
+      "reference": "Is 16:1"
+    },
+    "2": {
+      "text": "Como pássaros em fuga, \\par como uma ninhada dispersa, \\par tais são as filhas de Moab, junto aos vaus do Arnon. \\par",
+      "reference": "Is 16:2"
+    },
+    "3": {
+      "text": "“Formai um conselho; tomai uma decisão. \\par Em pleno meio-dia estende a tua sombra como a da noite, \\par esconde os dispersos, não reveles os fugitivos. \\par",
+      "reference": "Is 16:3"
+    },
+    "4": {
+      "text": "Possam viver em teu seio os dispersos de Moab, \\par sê para eles um refúgio contra o devastador. \\par Quando a opressão tiver cessado, \\par quando a devastação tiver terminado \\par e os que espezinham a terra tiverem desaparecido, \\par",
+      "reference": "Is 16:4"
+    },
+    "5": {
+      "text": "o trono será firmado sobre a misericórdia, \\par e sobre ele, na tenda de Davi, \\par se assentará um juiz fiel, que buscará o direito e zelará pela justiça”. \\par",
+      "reference": "Is 16:5"
+    },
+    "6": {
+      "text": "Ouvimos falar a respeito da arrogância de Moab, da sua altivez desmedida, \\par do seu orgulho, da sua arrogância, da sua raiva \\par e da sua tagarelice vã. \\par",
+      "reference": "Is 16:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Lamentação de Moab\\par }Eis por que Moab se lamenta sobre Moab, \\par ele todo se lamenta. \\par Por causa dos bolos de passas de Quir-Hareset, \\par gemeis profundamente consternados. \\par",
+      "reference": "Is 16:7"
+    },
+    "8": {
+      "text": "É que os terraços cultivados de Hesebon definham, \\par bem como os vinhedos de Sábama, \\par cujas uvas vermelhas subjugavam os príncipes das nações. \\par Chegavam até Jazer, \\par espalhavam-se pelo deserto, \\par os seus sarmentos pululavam \\par e se estendiam além do mar. \\par",
+      "reference": "Is 16:8"
+    },
+    "9": {
+      "text": "Por isto choro juntamente com Jazer \\par o vinhedo de Sábama; \\par rego-te com as minhas lágrimas, \\par Hesebon, e a ti, Eleale, \\par pois que os gritos desapareceram \\par das tuas colheitas e da tuas ceifas. \\par",
+      "reference": "Is 16:9"
+    },
+    "10": {
+      "text": "O contentamento e a alegria dos teus vergéis desapareceram, \\par nos teus vinhedos já não há canções alegres nem gritos de júbilo; \\par já não há quem pise o vinho no lagar, \\par os gritos alegres cessaram. \\par",
+      "reference": "Is 16:10"
+    },
+    "11": {
+      "text": "Eis por que as minhas entranhas vibram \\par por Moab como uma cítara, \\par e o meu coração, por Quir-Hares.\\par",
+      "reference": "Is 16:11"
+    },
+    "12": {
+      "text": "Ver-se-á Moab a fatigar-se sobre o lugar alto \\par e a entrar no seu santuário para orar, \\par mas nada conseguirá. \\par",
+      "reference": "Is 16:12"
+    },
+    "13": {
+      "text": "Essa é a palavra que Iahweh dirigiu outrora a Moab.",
+      "reference": "Is 16:13"
+    },
+    "14": {
+      "text": "E agora Iahweh lhe falou assim: Dentro de três anos, anos como de mercenário, a glória de Moab será reduzida a nada, não obstante a sua imensa multidão. O que restar será insignificante e impotente. \\par",
+      "reference": "Is 16:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

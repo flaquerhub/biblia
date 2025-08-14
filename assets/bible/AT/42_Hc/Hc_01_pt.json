@@ -1,0 +1,81 @@
+{
+  "book": 35,
+  "book_name": "Habacuque",
+  "book_abbr": "Hc",
+  "book_category": "Profético",
+  "book_english": "Habakkuk",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Título\\par }Oráculo que o profeta Habacuc recebeu em visão. \\par",
+      "reference": "Hc 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b {\\i I. Diálogo entre o profeta e o seu Deus}\\par }\\par \\par {\\qc\\b\\i Primeira lamentação do profeta: a derrota da justiça\\par }Até quando, Iahweh, pedirei socorro \\par e não ouvirás, \\par gritarei a ti: “Violência!”, \\par e não salvarás? \\par",
+      "reference": "Hc 1:2"
+    },
+    "3": {
+      "text": "Por que me fazes ver a iniqüidade \\par e contemplas a opressão? \\par Rapina e violência estão diante de mim, \\par há disputa, levantam-se contendas! \\par",
+      "reference": "Hc 1:3"
+    },
+    "4": {
+      "text": "Por isso a lei se enfraquece, \\par e o direito não aparece nunca mais! \\par Sim, o ímpio cerca o justo, \\par por isso o direito aparece torcido! \\par",
+      "reference": "Hc 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Primeiro oráculo: os caldeus flagelo de Deus\\par }Olhai entre os povos e contemplai, \\par espantai-vos, admirai-vos! \\par Porque realizo, em vossos dias, uma obra, \\par vós não acreditaríeis, se fosse contada. \\par",
+      "reference": "Hc 1:5"
+    },
+    "6": {
+      "text": "Sim, eis que suscitarei os caldeus, \\par esse povo cruel e impetuoso, \\par que percorre vastas extensões da terra \\par para conquistar habitações que não lhe pertencem. \\par",
+      "reference": "Hc 1:6"
+    },
+    "7": {
+      "text": "Ele é terrível e temível, \\par dele procede seu direito e sua grandeza! \\par",
+      "reference": "Hc 1:7"
+    },
+    "8": {
+      "text": "Seus cavalos são mais rápidos do que panteras, \\par mais ferozes do que lobos da tarde. \\par Os seus cavaleiros galopam, \\par seus cavaleiros chegam de longe, \\par eles voam como a águia que se precipita para devorar. \\par",
+      "reference": "Hc 1:8"
+    },
+    "9": {
+      "text": "Acorrem todos para a violência, \\par sua face ardente é como um vento do oriente; \\par eles amontoam prisioneiros como areia! \\par",
+      "reference": "Hc 1:9"
+    },
+    "10": {
+      "text": "Ele zomba dos reis, \\par príncipes são para ele motivo de riso. \\par Ele se ri de toda fortaleza; \\par ele amontoa terra e a toma! \\par",
+      "reference": "Hc 1:10"
+    },
+    "11": {
+      "text": "Então o vento virou e passou... \\par É culpado aquele cuja força é seu deus! \\par",
+      "reference": "Hc 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Segunda lamentação do profeta: as extorsões do opressor\\par }Não és tu, Iahweh, desde o início \\par o meu Deus, o meu santo, que não morre? \\par Iahweh, tu o estabeleceste para exercer o direito, \\par ó Rochedo, tu o constituíste para castigar! \\par",
+      "reference": "Hc 1:12"
+    },
+    "13": {
+      "text": "Teus olhos são puros demais para ver o mal, \\par tu não podes contemplar a opressão. \\par Por que contemplas os traidores, \\par silencias quando um ímpio devora alguém mais justo do que ele? \\par",
+      "reference": "Hc 1:13"
+    },
+    "14": {
+      "text": "Tu tratas o homem como os peixes do mar, \\par como répteis que não têm chefe! \\par",
+      "reference": "Hc 1:14"
+    },
+    "15": {
+      "text": "Ele os tira a todos com o anzol, \\par puxa-os com a sua rede \\par e os recolhe em sua nassa; \\par por isso ele ri e se alegra! \\par",
+      "reference": "Hc 1:15"
+    },
+    "16": {
+      "text": "Por isso ele oferece sacrifícios à sua rede, \\par incenso à sua nassa, \\par pois por causa delas a sua porção foi abundante \\par e o seu alimento copioso. \\par",
+      "reference": "Hc 1:16"
+    },
+    "17": {
+      "text": "Esvaziará ele, sem cessar, a sua rede, \\par massacrando os povos sem piedade? \\par",
+      "reference": "Hc 1:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

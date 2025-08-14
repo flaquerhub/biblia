@@ -1,0 +1,121 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "Quem retesa a nuca diante das repreensões \\par será quebrado de repente, e sem remédio. \\par",
+      "reference": "Pv 29:1"
+    },
+    "2": {
+      "text": "Quando os justos se multiplicam, o povo se alegra; \\par o povo geme, quando o ímpio governa. \\par",
+      "reference": "Pv 29:2"
+    },
+    "3": {
+      "text": "Quem ama a sabedoria alegra seu pai, \\par mas quem freqüenta prostitutas dissipa seus bens. \\par",
+      "reference": "Pv 29:3"
+    },
+    "4": {
+      "text": "O rei mantém a terra pelo direito, \\par mas o ávido de impostos a transtorna. \\par",
+      "reference": "Pv 29:4"
+    },
+    "5": {
+      "text": "O homem que lisonjeia seu próximo \\par estende uma rede sob seus passos. \\par",
+      "reference": "Pv 29:5"
+    },
+    "6": {
+      "text": "Na transgressão do perverso há uma cilada, \\par mas o justo exulta e se alegra. \\par",
+      "reference": "Pv 29:6"
+    },
+    "7": {
+      "text": "O justo conhece a causa dos fracos, \\par o ímpio não tem a inteligência de reconhecê-la. \\par",
+      "reference": "Pv 29:7"
+    },
+    "8": {
+      "text": "Os zombadores alvoroçam a cidade, \\par mas os Sábios contêm a ira. \\par",
+      "reference": "Pv 29:8"
+    },
+    "9": {
+      "text": "Quando um sábio discute com um estulto, \\par quer se zangue quer ria, jamais terá descanso. \\par",
+      "reference": "Pv 29:9"
+    },
+    "10": {
+      "text": "Os assassinos detestam o homem íntegro, \\par mas os homens retos o procuram. \\par",
+      "reference": "Pv 29:10"
+    },
+    "11": {
+      "text": "O insensato expande suas paixões todas, \\par mas o sábio as reprime e acalma. \\par",
+      "reference": "Pv 29:11"
+    },
+    "12": {
+      "text": "Se um chefe dá atenção a palavras mentirosas, \\par seus ministros todos tornam-se perversos. \\par",
+      "reference": "Pv 29:12"
+    },
+    "13": {
+      "text": "O pobre e o opressor se encontram: \\par é Iahweh quem ilumina os olhos dos dois. \\par",
+      "reference": "Pv 29:13"
+    },
+    "14": {
+      "text": "O rei que julga os fracos com verdade \\par firmará o seu trono para sempre. \\par",
+      "reference": "Pv 29:14"
+    },
+    "15": {
+      "text": "A vara e a repreensão dão sabedoria, \\par mas o jovem deixado a si mesmo envergonha sua mãe. \\par",
+      "reference": "Pv 29:15"
+    },
+    "16": {
+      "text": "Quando os ímpios se multiplicam, multiplicam-se a transgressão, \\par mas os justos verão a sua queda. \\par",
+      "reference": "Pv 29:16"
+    },
+    "17": {
+      "text": "Corrige o teu filho, e ele te dará descanso, \\par trará delícias para ti. \\par",
+      "reference": "Pv 29:17"
+    },
+    "18": {
+      "text": "Quando não há visão, o povo não tem freio; \\par feliz aquele que observa a lei! \\par",
+      "reference": "Pv 29:18"
+    },
+    "19": {
+      "text": "Escravo não se corrige com palavras, \\par pois ele entende, mas não obedece. \\par",
+      "reference": "Pv 29:19"
+    },
+    "20": {
+      "text": "Vês um homem precipitado no falar? \\par Espera-se mais do insensato do que dele. \\par",
+      "reference": "Pv 29:20"
+    },
+    "21": {
+      "text": "Se alguém mima seu escravo desde a infância, \\par este, por fim, se torna ingrato. \\par",
+      "reference": "Pv 29:21"
+    },
+    "22": {
+      "text": "O homem irado provoca a disputa, \\par e o enfurecido multiplica as transgressões. \\par",
+      "reference": "Pv 29:22"
+    },
+    "23": {
+      "text": "O orgulho do homem o humilha, \\par mas o espírito humilde torna-se honrado. \\par",
+      "reference": "Pv 29:23"
+    },
+    "24": {
+      "text": "O cúmplice do ladrão odeia a si próprio: \\par ouve a maldição, mas não o denuncia. \\par",
+      "reference": "Pv 29:24"
+    },
+    "25": {
+      "text": "O medo do homem arma uma cilada, \\par mas quem confia em Iahweh está em segurança. \\par",
+      "reference": "Pv 29:25"
+    },
+    "26": {
+      "text": "Muitos procuram o favor do chefe, \\par mas o direito do homem vem de Iahweh. \\par",
+      "reference": "Pv 29:26"
+    },
+    "27": {
+      "text": "O homem iníquo é abominável para os justos, \\par o de caminho reto é abominável para o ímpio. \\par",
+      "reference": "Pv 29:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

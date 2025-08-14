@@ -1,0 +1,61 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 62,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Esplendor de Jerusalém\\par }Por amor de Sião não me calarei, \\par por amor de Jerusalém não descansarei, \\par até que a sua justiça raie como um clarão \\par e a sua salvação arda como uma tocha. \\par",
+      "reference": "Is 62:1"
+    },
+    "2": {
+      "text": "Então as nações hão de contemplar a tua justiça, \\par e todos os reis, a tua glória. \\par Receberás um nome novo, \\par que a boca de Iahweh enunciará. \\par",
+      "reference": "Is 62:2"
+    },
+    "3": {
+      "text": "Serás uma coroa gloriosa nas mãos de Iahweh, \\par um turbante real na palma do teu Deus. \\par",
+      "reference": "Is 62:3"
+    },
+    "4": {
+      "text": "Já não te chamarão “Abandonada”, \\par nem chamarão à tua terra “Desolação”. \\par Antes, serás chamada “Meu prazer está nela”, \\par e tua terra “Desposada”. \\par Com efeito, Iahweh terá prazer em ti \\par e se desposará com a tua terra. \\par",
+      "reference": "Is 62:4"
+    },
+    "5": {
+      "text": "Como um jovem desposa uma virgem, \\par assim te desposará o teu edificador. \\par Como a alegria do noivo pela sua noiva, \\par tal será a alegria que o teu Deus sentirá em ti. \\par",
+      "reference": "Is 62:5"
+    },
+    "6": {
+      "text": "Sobre os teus muros, ó Jerusalém, postei guardas; \\par eles não se calarão nem de dia nem de noite. \\par Para vós, que vos lembrais de Iahweh, não há descanso. \\par",
+      "reference": "Is 62:6"
+    },
+    "7": {
+      "text": "Não lhe concedais descanso enquanto ele não estabelecer firmemente Jerusalém \\par e não fizer dela um objeto de louvor na terra. \\par",
+      "reference": "Is 62:7"
+    },
+    "8": {
+      "text": "Iahweh jurou pela sua destra e pelo seu braço vigoroso: \\par “Não tornarei a dar o teu trigo como alimento aos teus inimigos, \\par nem os estrangeiros tornarão a beber do teu vinho, \\par aquele com que tu te afadigaste. \\par",
+      "reference": "Is 62:8"
+    },
+    "9": {
+      "text": "Antes, aqueles que ceifaram o trigo o comerão, louvando Iahweh, \\par aqueles que fizeram a vindima beberão o vinho nos meus átrios sagrados”. \\par",
+      "reference": "Is 62:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Conclusão\\par }Passai, passai pelas portas, preparai um caminho para o meu povo; \\par construí, construí a estrada, removei as pedras. \\par Erguei um sinal para os povos. \\par",
+      "reference": "Is 62:10"
+    },
+    "11": {
+      "text": "Certamente, Iahweh faz ouvir a sua voz até os confins da terra: \\par dizei à filha de Sião: \\par Eis que a tua salvação está chegando, \\par eis com ele o seu salário: \\par diante dele a sua recompensa. \\par",
+      "reference": "Is 62:11"
+    },
+    "12": {
+      "text": "Eles serão chamados “O povo santo”, \\par “Os redimidos de Iahweh”. \\par Quanto a ti, serás chamada “Procurada”, \\par “Cidade não abandonada”. \\par",
+      "reference": "Is 62:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

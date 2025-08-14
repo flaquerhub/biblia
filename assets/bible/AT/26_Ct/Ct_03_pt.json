@@ -1,0 +1,57 @@
+{
+  "book": 22,
+  "book_name": "Cântico dos Cânticos",
+  "book_abbr": "Ct",
+  "book_category": "Poético",
+  "book_english": "Song of Songs",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Em meu leito, pela noite, \\par procurei o amado da minha alma. \\par Procurei-o e não o encontrei! \\par",
+      "reference": "Ct 3:1"
+    },
+    "2": {
+      "text": "Vou levantar-me, \\par vou rondar pela cidade, \\par pelas ruas, pelas praças, \\par procurando o amado da minha alma... \\par Procurei-o e não o encontrei!... \\par",
+      "reference": "Ct 3:2"
+    },
+    "3": {
+      "text": "Encontraram-me os guardas \\par que rondavam a cidade: \\par “Vistes o amado da minha alma?” \\par",
+      "reference": "Ct 3:3"
+    },
+    "4": {
+      "text": "Passando por eles, contudo, \\par encontrei o amado da minha alma. \\par Agarrei-o e não vou soltá-lo, \\par até levá-lo à casa da minha mãe, \\par ao quarto da que me levou em seu seio. \\par",
+      "reference": "Ct 3:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i O amado\\par }Filhas de Jerusalém, \\par pelas cervas e gazelas do campo, \\par eu vos conjuro; \\par não desperteis, não acordeis o amor, \\par até que ele o queira! \\par",
+      "reference": "Ct 3:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b {\\i Terceiro poema}\\par }{\\qc\\b\\i O poeta\\par }Que é aquilo que sobe do deserto, \\par como colunas de fumaça \\par perfumada com incenso e mirra, \\par e perfumes dos mercadores? \\par",
+      "reference": "Ct 3:6"
+    },
+    "7": {
+      "text": "É a liteira de Salomão! \\par Sessenta soldados a escoltam, \\par Soldados seletos de todo Israel. \\par",
+      "reference": "Ct 3:7"
+    },
+    "8": {
+      "text": "São todos treinados na espada, \\par provados em muitas batalhas. \\par Vêm todos cingidos de espada, \\par temendo surpresas noturnas. \\par",
+      "reference": "Ct 3:8"
+    },
+    "9": {
+      "text": "O rei Salomão \\par fez para si uma liteira \\par com madeira do Líbano, \\par",
+      "reference": "Ct 3:9"
+    },
+    "10": {
+      "text": "colunas de prata, \\par encosto de ouro \\par e assento de púrpura, \\par forrada de ébano por dentro. \\par",
+      "reference": "Ct 3:10"
+    },
+    "11": {
+      "text": "Ó filhas de Sião, \\par vinde ver \\par o rei Salomão, \\par com a coroa que lhe pôs sua mãe, \\par no dia de suas bodas, \\par dia em que seu coração \\par se enche de alegria. \\par",
+      "reference": "Ct 3:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

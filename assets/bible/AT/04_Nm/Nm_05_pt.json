@@ -1,0 +1,137 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Leis diversas}\\par }{\\qc\\b\\i Expulsão dos impuros\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 5:1"
+    },
+    "2": {
+      "text": "“Ordena aos filhos de Israel que excluam do acampamento todo leproso, todas as pessoas enfermas de corrimento ou todo aquele que se tornou impuro devido ao contato com um morto.",
+      "reference": "Nm 5:2"
+    },
+    "3": {
+      "text": "Homem ou mulher, os afastareis e os colocareis fora do acampamento. Assim os filhos de Israel não contaminarão o seu acampamento, no qual eu habito no meio deles”. \\par",
+      "reference": "Nm 5:3"
+    },
+    "4": {
+      "text": "E assim fizeram os filhos de Israel: puseram-nos fora do acampamento. Os filhos de Israel fizeram conforme Iahweh havia dito a Moisés. \\par",
+      "reference": "Nm 5:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i A restituição\\par }Iahweh falou a Moisés e disse:",
+      "reference": "Nm 5:5"
+    },
+    "6": {
+      "text": "“Fala aos filhos de Israel: \\par Se um homem ou mulher cometer algum dos pecados pelos quais se ofende a Iahweh, essa pessoa é culpada. \\par",
+      "reference": "Nm 5:6"
+    },
+    "7": {
+      "text": "Confessará o pecado cometido e restituirá o valor de que é devedor, acrescido de um quinto. Restituirá àquele a quem prejudicou. \\par",
+      "reference": "Nm 5:7"
+    },
+    "8": {
+      "text": "Mas se tal homem não tem nenhum parente ao qual se possa fazer a restituição, a indenização devida a Iahweh é entregue ao sacerdote, além do carneiro de expiação por meio do qual o sacerdote fará o rito de expiação pelo culpado.",
+      "reference": "Nm 5:8"
+    },
+    "9": {
+      "text": "Tudo aquilo que os filhos de Israel consagrarem e trouxerem ao sacerdote pertencerá a este.",
+      "reference": "Nm 5:9"
+    },
+    "10": {
+      "text": "As coisas consagradas de cada um lhe pertencem; aquilo que alguém oferece ao sacerdote será deste”. \\par",
+      "reference": "Nm 5:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A oferta pelo ciúme\\par }Iahweh falou então a Moisés e disse:",
+      "reference": "Nm 5:11"
+    },
+    "12": {
+      "text": "“Fala aos filhos de Israel; tu lhes dirás: \\par Se há alguém cuja mulher se desviou e se tornou infiel,",
+      "reference": "Nm 5:12"
+    },
+    "13": {
+      "text": "visto que, às escondidas do seu marido, esta mulher dormiu maritalmente com um homem, e tornou-se impura secretamente, sem que haja testemunhas contra ela e sem que tenha sido surpreendida no ato;",
+      "reference": "Nm 5:13"
+    },
+    "14": {
+      "text": "contudo, se um espírito de ciúme vier sobre o marido e o tornar ciumento da sua mulher que está contaminada, ou ainda se este espírito de ciúme, vindo sobre ele, o tornar ciumento de sua mulher que está inocente:",
+      "reference": "Nm 5:14"
+    },
+    "15": {
+      "text": "tal homem conduzirá sua mulher diante do sacerdote e fará por ela uma oferenda de um décimo de medida de farinha de cevada. Sobre ela não derramará azeite e nem porá incenso, pois é uma ‘oblação de ciúme’, uma oblação comemorativa que deve trazer à memória um pecado. \\par",
+      "reference": "Nm 5:15"
+    },
+    "16": {
+      "text": "O sacerdote fará aproximar a mulher e a colocará diante de Iahweh.",
+      "reference": "Nm 5:16"
+    },
+    "17": {
+      "text": "Em seguida tomará água santa em um vaso de barro e, tendo tomado do pó do chão da Habitação, o espargirá sobre a água.",
+      "reference": "Nm 5:17"
+    },
+    "18": {
+      "text": "E apresentará a mulher diante de Iahweh, soltará a sua cabeleira e colocará nas suas mãos a oblação comemorativa (isto é, a oblação de ciúme). E nas mãos do sacerdote estarão as águas amargas e de maldição. \\par",
+      "reference": "Nm 5:18"
+    },
+    "19": {
+      "text": "A seguir o sacerdote fará a mulher jurar e lhe dirá: ‘Se não é verdade que algum homem se deitou contigo e que te desviaste e que te tornaste impura, enquanto sob o domínio de teu marido, que estas águas amargas e de maldição te sejam inofensivas!",
+      "reference": "Nm 5:19"
+    },
+    "20": {
+      "text": "Porém, se é verdade que te desviaste enquanto sob o poder de teu marido e que te tornaste impura e que outro homem, que não o teu marido, participou do teu leito...’",
+      "reference": "Nm 5:20"
+    },
+    "21": {
+      "text": "O sacerdote fará, aqui, a mulher prestar um juramento imprecatório e lhe dirá: ‘...Que Iahweh te faça, no teu povo, objeto de imprecação e maldição, fazendo murchar o teu sexo e inchar o teu ventre!",
+      "reference": "Nm 5:21"
+    },
+    "22": {
+      "text": "Que estas águas de maldição penetrem nas tuas entranhas, a fim de que o teu ventre se inche e o teu sexo murche!’ A mulher responderá: ‘Amém! Amém!’ \\par",
+      "reference": "Nm 5:22"
+    },
+    "23": {
+      "text": "Em seguida o sacerdote escreverá essas imprecações e as apagará com as águas amargas.",
+      "reference": "Nm 5:23"
+    },
+    "24": {
+      "text": "E fará a mulher beber essas águas amargas e de maldição, e serão para ela amargas. \\par",
+      "reference": "Nm 5:24"
+    },
+    "25": {
+      "text": "O sacerdote, então, tomará das mãos da mulher a oblação de ciúme e a erguerá, apresentando-a diante de Iahweh, e a colocará sobre o altar.",
+      "reference": "Nm 5:25"
+    },
+    "26": {
+      "text": "E tomará um punhado da oblação de ciúme e o queimará sobre o altar, para memorial. \\par O sacerdote fará a mulher beber dessas águas.",
+      "reference": "Nm 5:26"
+    },
+    "27": {
+      "text": "E ao fazê-la beber as águas, se realmente ela se tornou impura enganando a seu marido, então as águas de maldição, penetrando nela, lhe serão amargas: seu ventre inchará, seu sexo murchará e ela servirá para o seu povo de exemplo nas maldições.",
+      "reference": "Nm 5:27"
+    },
+    "28": {
+      "text": "Se, ao contrário, ela não se tornou impura, mas está pura, sairá ilesa e será fecunda. \\par",
+      "reference": "Nm 5:28"
+    },
+    "29": {
+      "text": "Este é o ritual para o caso de ciúme, quando uma mulher se desvia e se torna impura, enquanto sob o poder do seu marido,",
+      "reference": "Nm 5:29"
+    },
+    "30": {
+      "text": "ou quando um espírito de ciúme vem sobre um homem e o torna ciumento de sua mulher. Quando o marido tiver conduzido tal mulher perante Iahweh, o sacerdote aplicará integralmente a ela este ritual.",
+      "reference": "Nm 5:30"
+    },
+    "31": {
+      "text": "O marido estará isento de culpa; a mulher, contudo, levará a sua iniqüidade”. \\par",
+      "reference": "Nm 5:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

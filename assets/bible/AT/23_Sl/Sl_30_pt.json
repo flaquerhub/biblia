@@ -1,0 +1,65 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 30 (29)\\par }{\\qc\\b\\i Ação de graças após um perigo mortal\\par }{\\qc\\i Salmo. Cântico para a dedicação da casa. De Davi.\\par }",
+      "reference": "Sl 30:1"
+    },
+    "2": {
+      "text": "Eu te exalto, Iahweh, porque me livraste, \\par não deixaste meus inimigos se rirem de mim. \\par",
+      "reference": "Sl 30:2"
+    },
+    "3": {
+      "text": "Iahweh, meu Deus, eu gritei a ti e me curaste. \\par",
+      "reference": "Sl 30:3"
+    },
+    "4": {
+      "text": "Iahweh, tiraste minha vida do Xeol, \\par tu me reavivaste dentre os que baixam à cova. \\par",
+      "reference": "Sl 30:4"
+    },
+    "5": {
+      "text": "Tocai para Iahweh, fiéis seus, \\par celebrai sua memória sagrada. \\par",
+      "reference": "Sl 30:5"
+    },
+    "6": {
+      "text": "Sua ira dura um momento, seu favor a vida inteira; \\par de tarde vem o pranto, de manhã gritos de alegria. \\par",
+      "reference": "Sl 30:6"
+    },
+    "7": {
+      "text": "Quanto a mim, eu dizia tranqüilo: \\par “Jamais serei abalado!” \\par",
+      "reference": "Sl 30:7"
+    },
+    "8": {
+      "text": "Iahweh, teu favor me firmara sobre fortes montanhas; \\par mas escondeste tua face e eu fiquei perturbado. \\par",
+      "reference": "Sl 30:8"
+    },
+    "9": {
+      "text": "A ti, Iahweh, eu gritava, \\par ao meu Deus eu supliquei: \\par",
+      "reference": "Sl 30:9"
+    },
+    "10": {
+      "text": "Que ganhas com meu sangue, com minha descida à cova? \\par Acaso te louva o pó, anuncia tua verdade? \\par",
+      "reference": "Sl 30:10"
+    },
+    "11": {
+      "text": "Ouve, Iahweh, tem piedade de mim! \\par Sê o meu socorro, Iahweh! \\par",
+      "reference": "Sl 30:11"
+    },
+    "12": {
+      "text": "Transformaste o meu luto em dança, \\par tiraste o pano grosseiro e me cingiste de alegria. \\par",
+      "reference": "Sl 30:12"
+    },
+    "13": {
+      "text": "Por isso meu coração canta a ti, e jamais se calará. \\par Iahweh, meu Deus, vou louvar-te para sempre. \\par",
+      "reference": "Sl 30:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

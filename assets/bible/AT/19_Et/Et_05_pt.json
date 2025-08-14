@@ -1,0 +1,69 @@
+{
+  "book": 17,
+  "book_name": "Ester",
+  "book_abbr": "Et",
+  "book_category": "Histórico",
+  "book_english": "Esther",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Ester se apresenta no palácio\\par }{\\i No terceiro dia,} quando terminou de rezar, ela tirou suas vestes de súplicas e se revestiu com todo o seu esplendor. {\\super (1a)} {\\i Suntuosa, invocou a Deus que vela sobre todos e os salva. Depois tomou consigo duas servas. Sobre uma ela se apoiava suavemente. A outra a acompanhava e segurava seu vestido. } {\\super (1b)} {\\i No apogeu de sua beleza, ela, ruborizada, tinha o rosto alegre como se ardesse de amor. Mas seu coração gemia de temor. } {\\super (1c)} {\\i Ultrapassando todas as portas, ela se achou diante do rei. Ele estava sentado em seu trono real, revestido com todos os ornamentos de suas aparições solenes, resplandecente em ouro e pedras preciosas: parecia terrível. } {\\super (1d)} {\\i Ele ergueu o rosto, incendiado de glória, e, no cúmulo da ira, lançou um olhar. A rainha, sucumbindo, apoiou a cabeça na serva que a acompanhava, empalideceu e desmaiou. } {\\super (1e)} {\\i Deus mudou o coração do rei e o inclinou à mansidão. Ansioso, ele precipitou-se de seu trono e a tomou nos braços até que ela se recuperasse, reconfortando-a com palavras tranqüilizadoras. } {\\super (1f)} {\\i “Que há, Ester? Eu sou teu irmão! Ânimo, não morrerás! Nossa ordem só vale para os súditos. Aproxima-te”. }",
+      "reference": "Et 5:1"
+    },
+    "2": {
+      "text": "{\\i Ergueu seu cetro de ouro, posou-o no pescoço de Ester, beijou-a e lhe disse: “Fala comigo!”} {\\super (2a)} {\\i –“Senhor”, disse-lhe ela, “eu te vi semelhante a um anjo de Deus. Então meu coração se perturbou e eu tive medo de teu esplendor. Pois és admirável, senhor, e teu rosto cheio de encanto”. } {\\super (2b)} {\\i Enquanto ela falava, desmaiou. O rei se perturbou e todos os cortesãos procuravam reanimá-la.}",
+      "reference": "Et 5:2"
+    },
+    "3": {
+      "text": "“Que há, rainha Ester?”, disse-lhe o rei. “Dize-me o que desejas e, ainda que seja a metade de meu reino, te darei”.",
+      "reference": "Et 5:3"
+    },
+    "4": {
+      "text": "Respondeu Ester: “Se bem te parecer, que venha o rei, hoje, com Amã, ao banquete que lhe preparei”.",
+      "reference": "Et 5:4"
+    },
+    "5": {
+      "text": "–“Que se avise imediatamente a Amã para satisfazer o desejo de Ester”, disse o rei. \\par O rei e Amã vieram então ao banquete preparado por Ester,",
+      "reference": "Et 5:5"
+    },
+    "6": {
+      "text": "e, durante o banquete, o rei repetiu a Ester: “Pede-me o que quiseres e te será concedido! Ainda que me peças a metade do reino, tê-la-ás!”",
+      "reference": "Et 5:6"
+    },
+    "7": {
+      "text": "–“O que peço, o que desejo?”, respondeu Ester.",
+      "reference": "Et 5:7"
+    },
+    "8": {
+      "text": "“Se realmente encontrei graça aos olhos do rei, se lhe agrada ouvir meu pedido e satisfazer meu desejo, que ainda amanhã venha o rei, com Amã, ao banquete que lhes darei, e então executarei a ordem do rei”. \\par",
+      "reference": "Et 5:8"
+    },
+    "9": {
+      "text": "Naquele dia Amã saiu alegre e com o coração em festa, mas quando, na Porta Real, viu que Mardoqueu não se levantava diante dele nem se movia do seu lugar, encheu-se de ira contra ele.",
+      "reference": "Et 5:9"
+    },
+    "10": {
+      "text": "Entretanto, se conteve. Voltando para casa, convocou seus amigos e sua mulher Zares",
+      "reference": "Et 5:10"
+    },
+    "11": {
+      "text": "e falou longamente, diante deles, de sua esplendorosa riqueza, do número de seus filhos, de tudo com que o rei o tinha cumulado para o engrandecer e exaltar acima de todos os seus altos oficiais e servos.",
+      "reference": "Et 5:11"
+    },
+    "12": {
+      "text": "Disse ainda: “Além disso, a rainha Ester acaba de me convidar, com o rei, e somente a mim, para um banquete que ela lhe ofereceu, e mais que isso, fui de novo convidado com o rei para amanhã.",
+      "reference": "Et 5:12"
+    },
+    "13": {
+      "text": "Mas tudo isso não me satisfaz enquanto vir o judeu Mardoqueu sentado à Porta Real!”",
+      "reference": "Et 5:13"
+    },
+    "14": {
+      "text": "–“Manda preparar uma forca de cinqüenta côvados”, responderam-lhe sua mulher Zares e seus amigos, “amanhã de manhã pedirás ao rei que nela seja enforcado Mardoqueu! Então poderás, contente, ir com o rei ao banquete!” Encantado com o conselho, Amã mandou preparar a forca. \\par",
+      "reference": "Et 5:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

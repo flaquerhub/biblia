@@ -1,0 +1,157 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O resto de Israel\\par }Pergunto, então: {\\i Não teria Deus,} porventura, {\\i repudiado seu povo}? De modo algum! Pois eu também sou israelita, da descendência de Abraão, da tribo de Benjamim.",
+      "reference": "Rm 11:1"
+    },
+    "2": {
+      "text": "Não repudiou Deus o seu povo que de antemão conhecera. Ou não sabeis o que diz a Escritura a propósito de Elias, como ele interpela a Deus contra Israel?",
+      "reference": "Rm 11:2"
+    },
+    "3": {
+      "text": "Senhor, {\\i eles mataram teus profetas, arrasaram teus altares; só fiquei eu e querem tirar-me a vida.}",
+      "reference": "Rm 11:3"
+    },
+    "4": {
+      "text": "Mas o que lhe responde o oráculo divino? {\\i Reservei para mim sete mil homens que não dobraram o joelho a Baal.}",
+      "reference": "Rm 11:4"
+    },
+    "5": {
+      "text": "Assim também no tempo atual constituiu-se um resto segundo a eleição da graça.",
+      "reference": "Rm 11:5"
+    },
+    "6": {
+      "text": "E se é por graça, não é pelas obras; do contrário, a graça não é mais graça. \\par",
+      "reference": "Rm 11:6"
+    },
+    "7": {
+      "text": "Que concluir? Aquilo a que tanto aspira, Israel não conseguiu: conseguiram-no, porém, os escolhidos. E os demais ficaram endurecidos.",
+      "reference": "Rm 11:7"
+    },
+    "8": {
+      "text": "Como está escrito: \\par {\\i Deu-lhes Deus um espírito de torpor, \\par olhos para não verem, \\par ouvidos para não ouvirem, até o dia de hoje. }\\par",
+      "reference": "Rm 11:8"
+    },
+    "9": {
+      "text": "Diz também Davi: \\par {\\i Que sua mesa se transforme em cilada, }\\par em armadilha, {\\i em motivo de tropeço e justa paga. }\\par",
+      "reference": "Rm 11:9"
+    },
+    "10": {
+      "text": "{\\i Que seus olhos fiquem escuros para não verem \\par e faze que eles tenham sempre seu dorso encurvado.}\\par",
+      "reference": "Rm 11:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i A restauração futura\\par }Então, eu pergunto: teriam eles tropeçado para cair? De modo algum! Mas da sua queda resultou a salvação dos gentios, para lhes excitar o ciúme.",
+      "reference": "Rm 11:11"
+    },
+    "12": {
+      "text": "E se a sua queda reverte em riqueza para o mundo e o seu esvaziamento em riqueza para os gentios, quanto maior fruto não dará a sua plenitude!",
+      "reference": "Rm 11:12"
+    },
+    "13": {
+      "text": "E a vós, gentios, eu digo: enquanto apóstolo dos gentios, eu honro o meu ministério,",
+      "reference": "Rm 11:13"
+    },
+    "14": {
+      "text": "na esperança de provocar o ciúme dos da minha raça e de salvar alguns deles.",
+      "reference": "Rm 11:14"
+    },
+    "15": {
+      "text": "Pois se a sua rejeição resultou na reconciliação do mundo, o que será seu acolhimento senão a vida que vem dos mortos? \\par",
+      "reference": "Rm 11:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i A oliveira silvestre e a oliveira mansa\\par }E se as primícias são santas, a massa também o será; e se a raiz é santa, os ramos também o serão.",
+      "reference": "Rm 11:16"
+    },
+    "17": {
+      "text": "E se alguns dos ramos foram cortados fora, e tu, oliveira silvestre, foste enxertada entre eles, para te beneficiares com eles da seiva da oliveira,",
+      "reference": "Rm 11:17"
+    },
+    "18": {
+      "text": "não te vanglories contra os ramos; e se te vanglorias, saibas que não és tu que sustenta a raiz, mas a raiz sustenta a ti.",
+      "reference": "Rm 11:18"
+    },
+    "19": {
+      "text": "Porém, dirás: Foram cortados os ramos para que eu fosse enxertada.",
+      "reference": "Rm 11:19"
+    },
+    "20": {
+      "text": "Muito bem! Eles foram cortados pela incredulidade e tu estás firme pela fé; não te ensoberbeças, mas teme,",
+      "reference": "Rm 11:20"
+    },
+    "21": {
+      "text": "porque se Deus não poupou os ramos naturais, nem a ti poupará.",
+      "reference": "Rm 11:21"
+    },
+    "22": {
+      "text": "Vê então a bondade e a severidade de Deus: a severidade para com os que caíram, e a bondade de Deus para contigo, se perseverares na bondade; do contrário, também tu serás cortado.",
+      "reference": "Rm 11:22"
+    },
+    "23": {
+      "text": "E eles, se não permanecerem na incredulidade, serão enxertados, pois Deus é capaz de os enxertar novamente.",
+      "reference": "Rm 11:23"
+    },
+    "24": {
+      "text": "Com efeito, se tu foste cortado da oliveira silvestre por natureza e contra a natureza, foste enxertado na oliveira mansa, com maior razão os ramos naturais serão enxertados na oliveira a que pertencem. \\par",
+      "reference": "Rm 11:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i A conversão de Israel\\par }Não quero que ignoreis, irmãos, este mistério, para que não {\\i vos tenhais na conta de sábios}: o endurecimento atingiu uma parte de Israel até que chegue a plenitude dos gentios,",
+      "reference": "Rm 11:25"
+    },
+    "26": {
+      "text": "e assim todo Israel será salvo, conforme está escrito: \\par {\\i De Sião virá o libertador \\par e afastará as impiedades de Jacó, }\\par",
+      "reference": "Rm 11:26"
+    },
+    "27": {
+      "text": "{\\i e esta será minha aliança com eles, \\par quando eu tirar seus pecados.}\\par",
+      "reference": "Rm 11:27"
+    },
+    "28": {
+      "text": "Quanto ao Evangelho, eles são inimigos por vossa causa; mas quanto à Eleição, eles são amados, por causa de seus pais.",
+      "reference": "Rm 11:28"
+    },
+    "29": {
+      "text": "Porque os dons e a vocação de Deus são sem arrependimento. \\par",
+      "reference": "Rm 11:29"
+    },
+    "30": {
+      "text": "Com efeito, como vós outrora fostes desobedientes a Deus e agora obtivestes misericórdia, graças à desobediência deles,",
+      "reference": "Rm 11:30"
+    },
+    "31": {
+      "text": "assim também eles agora são desobedientes graças à misericórdia exercida para convosco, a fim de que eles também obtenham misericórdia no tempo presente.",
+      "reference": "Rm 11:31"
+    },
+    "32": {
+      "text": "Deus encerrou todos na desobediência para a todos fazer misericórdia. \\par",
+      "reference": "Rm 11:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Hino à sabedoria misericordiosa\\par }Ó abismo da riqueza, da sabedoria e da ciência de Deus! Como são insondáveis seus juízos e impenetráveis seus caminhos! \\par",
+      "reference": "Rm 11:33"
+    },
+    "34": {
+      "text": "{\\i Quem, com efeito, conheceu o pensamento do Senhor? }\\par Ou {\\i quem se tornou seu conselheiro? }\\par",
+      "reference": "Rm 11:34"
+    },
+    "35": {
+      "text": "Ou {\\i quem primeiro lhe fez o dom \\par para receber em troca?} \\par",
+      "reference": "Rm 11:35"
+    },
+    "36": {
+      "text": "Porque tudo é dele, por ele e para ele. A ele a glória pelos séculos! Amém. \\par",
+      "reference": "Rm 11:36"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 36
+}

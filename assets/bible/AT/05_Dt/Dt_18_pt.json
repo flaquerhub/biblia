@@ -1,0 +1,101 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O sacerdócio levítico\\par }Os sacerdotes levitas, a tribo inteira de Levi, não terão parte nem herança em Israel: eles viverão dos manjares oferecidos a Iahweh e do seu patrimônio.",
+      "reference": "Dt 18:1"
+    },
+    "2": {
+      "text": "Esta tribo não terá uma herança no meio dos seus irmãos: Iahweh é a sua herança, conforme lhe falou. \\par",
+      "reference": "Dt 18:2"
+    },
+    "3": {
+      "text": "Eis os direitos que os sacerdotes têm sobre o povo, sobre os que oferecem um sacrifício: do gado ou do rebanho serão dados ao sacerdote a espádua, as queixadas e o estômago.",
+      "reference": "Dt 18:3"
+    },
+    "4": {
+      "text": "Dar-lhe-ás as primícias do teu trigo, do teu vinho novo e do teu óleo, como também as primícias da tosquia do teu rebanho.",
+      "reference": "Dt 18:4"
+    },
+    "5": {
+      "text": "Pois foi ele que Iahweh teu Deus escolheu dentre todas as tuas tribos, ele e seus filhos, para estar diante de Iahweh teu Deus, realizando o serviço divino e dando a bênção em nome de Iahweh, todos os dias. \\par",
+      "reference": "Dt 18:5"
+    },
+    "6": {
+      "text": "Quando vier um levita de alguma das tuas cidades, onde quer que ele more em todo Israel, e com todo o desejo do coração vier para o lugar que Iahweh houver escolhido,",
+      "reference": "Dt 18:6"
+    },
+    "7": {
+      "text": "e oficiar em nome de Iahweh seu Deus, como todos os seus irmãos levitas que permanecem lá na presença de Iahweh;",
+      "reference": "Dt 18:7"
+    },
+    "8": {
+      "text": "ele comerá uma parte igual à deles, além do que ganhar pelas vendas do seu patrimônio. \\par",
+      "reference": "Dt 18:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Os profetas\\par }Quando entrares na terra que Iahweh teu Deus te dará, não aprendas a imitar as abominações daquelas nações.",
+      "reference": "Dt 18:9"
+    },
+    "10": {
+      "text": "Que em teu meio não se encontre alguém que queime seu filho ou sua filha, nem que faça presságio, oráculo, adivinhação ou magia,",
+      "reference": "Dt 18:10"
+    },
+    "11": {
+      "text": "ou que pratique encantamentos, que interrogue espíritos ou adivinhos, ou ainda que invoque os mortos;",
+      "reference": "Dt 18:11"
+    },
+    "12": {
+      "text": "pois quem pratica essas coisas é abominável a Iahweh, e é por causa dessas abominações que Iahweh teu Deus as desalojará em teu favor. \\par",
+      "reference": "Dt 18:12"
+    },
+    "13": {
+      "text": "Tu serás íntegro para com Iahweh teu Deus.",
+      "reference": "Dt 18:13"
+    },
+    "14": {
+      "text": "Eis que as nações que vais conquistar ouvem oráculos e adivinhos. Quanto a ti, isso não te é permitido por Iahweh teu Deus.",
+      "reference": "Dt 18:14"
+    },
+    "15": {
+      "text": "Iahweh teu Deus suscitará um profeta como eu no meio de ti, dentre os teus irmãos, e vós o ouvireis.",
+      "reference": "Dt 18:15"
+    },
+    "16": {
+      "text": "É o que tinhas pedido a Iahweh teu Deus no Horeb, no dia da Assembléia: ‘Não vou continuar ouvindo a voz de Iahweh meu Deus, nem vendo este grande fogo, para não morrer’,",
+      "reference": "Dt 18:16"
+    },
+    "17": {
+      "text": "e Iahweh me disse: ‘Eles falaram bem.",
+      "reference": "Dt 18:17"
+    },
+    "18": {
+      "text": "Vou suscitar para eles um profeta como tu, do meio dos seus irmãos. Colocarei as minhas palavras em sua boca e ele lhes comunicará tudo o que eu lhes ordenar.",
+      "reference": "Dt 18:18"
+    },
+    "19": {
+      "text": "Caso haja alguém que não ouça as minhas palavras, que este profeta pronunciar em meu nome, eu próprio irei acertar contas com ele.",
+      "reference": "Dt 18:19"
+    },
+    "20": {
+      "text": "Todavia, se o profeta tiver a ousadia de falar em meu nome uma palavra que eu não lhe tiver ordenado, ou se ele falar em nome de outros deuses, tal profeta deverá ser morto’. \\par",
+      "reference": "Dt 18:20"
+    },
+    "21": {
+      "text": "Talvez perguntes em teu coração: ‘Como vamos saber se tal palavra não é um palavra de Iahweh?’",
+      "reference": "Dt 18:21"
+    },
+    "22": {
+      "text": "Se o profeta fala em nome de Iahweh, mas a palavra não se cumpre, não se realiza, trata-se então de uma palavra que Iahweh não disse. Tal profeta falou com presunção. Não o temas! \\par",
+      "reference": "Dt 18:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

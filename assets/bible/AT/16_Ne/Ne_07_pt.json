@@ -1,0 +1,301 @@
+{
+  "book": 16,
+  "book_name": "Neemias",
+  "book_abbr": "Ne",
+  "book_category": "Histórico",
+  "book_english": "Nehemiah",
+  "testament": "AT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Quando a muralha ficou reconstruída e eu fixei os batentes, os porteiros (os cantores e os levitas) foram colocados nos seus postos.",
+      "reference": "Ne 7:1"
+    },
+    "2": {
+      "text": "Confiei a administração de Jerusalém a Hanani, meu irmão, e a Hananias, comandante da cidadela, pois era um homem fiel e que temia a Deus mais do que muitos outros;",
+      "reference": "Ne 7:2"
+    },
+    "3": {
+      "text": "e eu disse: “As portas de Jerusalém não serão abertas antes que o sol comece a esquentar; e ele estará ainda alto quando se deverá fechar e passar a chave nos batentes; estabelecer-se-ão piquetes de guardas escolhidos dentre os habitantes de Jerusalém, ficando cada um em seu posto, cada um diante de sua casa”. \\par",
+      "reference": "Ne 7:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i O repovoamento de Jerusalém\\par }A cidade era espaçosa e grande, mas sua população era minguada e não havia famílias constituídas.",
+      "reference": "Ne 7:4"
+    },
+    "5": {
+      "text": "Meu Deus inspirou-me então que reunisse os nobres, os magistrados e o povo, para fazer o recenseamento genealógico. Tomei o registro genealógico dos que tinham regressado no início, e lá encontrei escrito: \\par",
+      "reference": "Ne 7:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Lista dos primeiros sionistas\\par }Estes são os cidadãos da província que regressaram do cativeiro e do Exílio. Depois de terem sido deportados por Nabucodonosor, rei de Babilônia, regressaram a Jerusalém e a Judá, cada qual à sua cidade.",
+      "reference": "Ne 7:6"
+    },
+    "7": {
+      "text": "Chegaram com Zorobabel, Josué, Neemias, Azarias, Raamias, Naamani, Mardoqueu, Belsã, Mesfarat, Beguai, Naum e Baana. \\par Número dos homens do povo de Israel:",
+      "reference": "Ne 7:7"
+    },
+    "8": {
+      "text": "filhos de Faros: dois mil cento e setenta e dois;",
+      "reference": "Ne 7:8"
+    },
+    "9": {
+      "text": "filhos de Safatias: trezentos e setenta e dois;",
+      "reference": "Ne 7:9"
+    },
+    "10": {
+      "text": "filhos de Area: seiscentos e cinqüenta e dois;",
+      "reference": "Ne 7:10"
+    },
+    "11": {
+      "text": "filhos de Faat-Moab, isto é, filhos de Josué e de Joab: dois mil oitocentos e dezoito;",
+      "reference": "Ne 7:11"
+    },
+    "12": {
+      "text": "filhos de Elam: mil duzentos e cinqüenta e quatro;",
+      "reference": "Ne 7:12"
+    },
+    "13": {
+      "text": "filhos de Zetua: oitocentos e quarenta e cinco;",
+      "reference": "Ne 7:13"
+    },
+    "14": {
+      "text": "filhos de Zacai: setecentos e sessenta;",
+      "reference": "Ne 7:14"
+    },
+    "15": {
+      "text": "filhos de Benui: seiscentos e quarenta e oito;",
+      "reference": "Ne 7:15"
+    },
+    "16": {
+      "text": "filhos de Bebai: seiscentos e vinte e oito;",
+      "reference": "Ne 7:16"
+    },
+    "17": {
+      "text": "filhos de Azgad: dois mil trezentos e vinte e dois;",
+      "reference": "Ne 7:17"
+    },
+    "18": {
+      "text": "filhos de Adonicam: seiscentos e sessenta e sete;",
+      "reference": "Ne 7:18"
+    },
+    "19": {
+      "text": "filhos de Beguai: dois mil e sessenta e sete;",
+      "reference": "Ne 7:19"
+    },
+    "20": {
+      "text": "filhos de Adin: seiscentos e cinqüenta e cinco;",
+      "reference": "Ne 7:20"
+    },
+    "21": {
+      "text": "filhos de Ater, isto é, de Ezequias, noventa e oito;",
+      "reference": "Ne 7:21"
+    },
+    "22": {
+      "text": "filhos de Hasum: trezentos e vinte e oito;",
+      "reference": "Ne 7:22"
+    },
+    "23": {
+      "text": "filhos de Besai: trezentos e vinte e quatro;",
+      "reference": "Ne 7:23"
+    },
+    "24": {
+      "text": "filhos de Haref: cento e doze;",
+      "reference": "Ne 7:24"
+    },
+    "25": {
+      "text": "filhos de Gabaon: noventa e cinco;",
+      "reference": "Ne 7:25"
+    },
+    "26": {
+      "text": "homens de Belém e de Netofa: cento e oitenta e oito;",
+      "reference": "Ne 7:26"
+    },
+    "27": {
+      "text": "homens de Anatot: cento e vinte e oito;",
+      "reference": "Ne 7:27"
+    },
+    "28": {
+      "text": "homens de Bet-Azmot: quarenta e dois;",
+      "reference": "Ne 7:28"
+    },
+    "29": {
+      "text": "homens de Cariat-Iarim, Cafira e Beerot: setecentos e quarenta e três;",
+      "reference": "Ne 7:29"
+    },
+    "30": {
+      "text": "homens de Ramá e Gaba: seiscentos e vinte e um;",
+      "reference": "Ne 7:30"
+    },
+    "31": {
+      "text": "homens de Macmas: cento e vinte e dois;",
+      "reference": "Ne 7:31"
+    },
+    "32": {
+      "text": "homens de Betel e Hai: cento e vinte e três;",
+      "reference": "Ne 7:32"
+    },
+    "33": {
+      "text": "homens de outro Nebo: cinqüenta e dois;",
+      "reference": "Ne 7:33"
+    },
+    "34": {
+      "text": "filhos de outro Elam: mil duzentos e cinqüenta e quatro;",
+      "reference": "Ne 7:34"
+    },
+    "35": {
+      "text": "filhos de Harim: trezentos e vinte;",
+      "reference": "Ne 7:35"
+    },
+    "36": {
+      "text": "filhos de Jericó: trezentos e quarenta e cinco;",
+      "reference": "Ne 7:36"
+    },
+    "37": {
+      "text": "filhos de Lod, Hadid e Ono: setecentos e vinte e um;",
+      "reference": "Ne 7:37"
+    },
+    "38": {
+      "text": "filhos de Senaá: três mil novecentos e trinta. \\par",
+      "reference": "Ne 7:38"
+    },
+    "39": {
+      "text": "Sacerdotes: filhos de Jedaías, isto é, a casa de Josué: novecentos e setenta e três;",
+      "reference": "Ne 7:39"
+    },
+    "40": {
+      "text": "filhos de Emer: mil e cinqüenta e dois;",
+      "reference": "Ne 7:40"
+    },
+    "41": {
+      "text": "filhos de Fasur: mil duzentos e quarenta e sete;",
+      "reference": "Ne 7:41"
+    },
+    "42": {
+      "text": "filhos de Harim: mil e dezessete. \\par",
+      "reference": "Ne 7:42"
+    },
+    "43": {
+      "text": "Levitas: filhos de Josué, isto é, Cadmiel, filhos de Odovias: setenta e quatro. \\par",
+      "reference": "Ne 7:43"
+    },
+    "44": {
+      "text": "Cantores: filhos de Asaf: cento e quarenta e oito. \\par",
+      "reference": "Ne 7:44"
+    },
+    "45": {
+      "text": "Porteiros: filhos de Selum, filhos de Ater, filhos de Telmon, filhos de Acub, filhos de Hatita, filhos de Sobai: cento e trinta e oito. \\par",
+      "reference": "Ne 7:45"
+    },
+    "46": {
+      "text": "“Doados”: filhos de Siaá, filhos de Hasufa, filhos de Tabaot,",
+      "reference": "Ne 7:46"
+    },
+    "47": {
+      "text": "filhos de Ceros, filhos de Sia, filhos de Fadon,",
+      "reference": "Ne 7:47"
+    },
+    "48": {
+      "text": "filhos de Lebana, filhos de Hagaba, filhos de Selmai,",
+      "reference": "Ne 7:48"
+    },
+    "49": {
+      "text": "filhos de Hanã, filhos de Gidel, filhos de Gaar,",
+      "reference": "Ne 7:49"
+    },
+    "50": {
+      "text": "filhos de Raaías, filhos de Rasin, filhos de Necoda,",
+      "reference": "Ne 7:50"
+    },
+    "51": {
+      "text": "filhos de Gazam, filhos de Oza, filhos de Fasea,",
+      "reference": "Ne 7:51"
+    },
+    "52": {
+      "text": "filhos de Besai, filhos dos meunitas, filhos dos nefusitas,",
+      "reference": "Ne 7:52"
+    },
+    "53": {
+      "text": "filhos de Bacbuc, filhos de Hacufa, filhos de Harur,",
+      "reference": "Ne 7:53"
+    },
+    "54": {
+      "text": "filhos de Baslut, filhos de Meida, filhos de Harsa,",
+      "reference": "Ne 7:54"
+    },
+    "55": {
+      "text": "filhos de Bercos, filhos de Sísara, filhos de Tema,",
+      "reference": "Ne 7:55"
+    },
+    "56": {
+      "text": "filhos de Nasia, filhos de Hatifa. \\par",
+      "reference": "Ne 7:56"
+    },
+    "57": {
+      "text": "Filhos dos escravos de Salomão: filhos de Sotai, filhos de Soferet, filhos de Feruda,",
+      "reference": "Ne 7:57"
+    },
+    "58": {
+      "text": "filhos de Jaala, filhos de Darcon, filhos de Gidel,",
+      "reference": "Ne 7:58"
+    },
+    "59": {
+      "text": "filhos de Safatias, filhos de Hatil, filhos de Foqueret-Assebaim, filhos de Amon.",
+      "reference": "Ne 7:59"
+    },
+    "60": {
+      "text": "Total dos “doados” e dos filhos dos escravos de Salomão: trezentos e noventa e dois. \\par",
+      "reference": "Ne 7:60"
+    },
+    "61": {
+      "text": "As pessoas seguintes, que vinham de Tel-Mela, Tel Harsa, Querub, Adon e Emer, não puderam demonstrar se sua família e sua raça eram de origem israelita:",
+      "reference": "Ne 7:61"
+    },
+    "62": {
+      "text": "filhos de Dalaías, filhos de Tobias, filhos de Necoda: seiscentos e quarenta e dois.",
+      "reference": "Ne 7:62"
+    },
+    "63": {
+      "text": "E entre os sacerdotes, os filhos de Hobias, os filhos de Acos, os filhos de Berzelai – este havia desposado uma das filhas de Berzelai, o galaadita, cujo nome adotou.",
+      "reference": "Ne 7:63"
+    },
+    "64": {
+      "text": "Esses procuraram seu registro genealógico, mas não foi encontrado: foram afastados, pois, do sacerdócio, como impuros,",
+      "reference": "Ne 7:64"
+    },
+    "65": {
+      "text": "Sua Excelência proibiu-lhes comer dos alimentos sagrados até que se apresentasse um sacerdote para o {\\i Urim} e o {\\i Tummim.}\\par",
+      "reference": "Ne 7:65"
+    },
+    "66": {
+      "text": "Toda a assembléia reunida era de quarenta e duas mil trezentas e sessenta pessoas,",
+      "reference": "Ne 7:66"
+    },
+    "67": {
+      "text": "sem contar seus escravos e escravas, em número de sete mil trezentos e trinta e sete. Tinham também duzentos e quarenta e cinco cantores e cantoras,",
+      "reference": "Ne 7:67"
+    },
+    "68": {
+      "text": "quatrocentos e trinta e cinco camelos e seis mil setecentos e vinte jumentos.",
+      "reference": "Ne 7:68"
+    },
+    "69": {
+      "text": "Certo número de chefes de família fizeram doações para as obras. Sua Excelência depôs no cofre mil dracmas de ouro, cinqüenta cálices e trinta túnicas sacerdotais.",
+      "reference": "Ne 7:69"
+    },
+    "70": {
+      "text": "Alguns chefes de família depuseram no cofre das obras vinte mil dracmas de ouro e duas mil e duzentas minas de prata.",
+      "reference": "Ne 7:70"
+    },
+    "71": {
+      "text": "As doações feitas pelo resto do povo atingiram o montante de vinte mil dracmas de ouro, duas mil minas de prata e sessenta e sete túnicas sacerdotais.",
+      "reference": "Ne 7:71"
+    },
+    "72": {
+      "text": "Sacerdotes, levitas e uma parte do povo se instalaram em Jerusalém; porteiros, cantores, “doados”, em suas cidades, e todo o Israel em suas cidades. \\par \\par {\\qc\\b\\i Dia do nascimento do judaísmo: Esdras faz a leitura da Lei. A festa das Tendas\\par } Ora, quando chegou o sétimo mês – os filhos de Israel estavam assim instalados em suas cidades, \\par",
+      "reference": "Ne 7:72"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 72
+}

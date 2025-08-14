@@ -1,0 +1,49 @@
+{
+  "book": 71,
+  "book_name": "Baruc",
+  "book_abbr": "Br",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Baruch",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Despe, Jerusalém, a veste da tua tristeza e desgraça, \\par e reveste para sempre a beleza da glória que vem de Deus. \\par",
+      "reference": "Br 5:1"
+    },
+    "2": {
+      "text": "Cobre-te com o manto da justiça que vem de Deus, \\par e coloca sobre a cabeça o diadema da glória do Eterno. \\par",
+      "reference": "Br 5:2"
+    },
+    "3": {
+      "text": "Pois Deus mostrará o teu fulgor debaixo do céu, \\par",
+      "reference": "Br 5:3"
+    },
+    "4": {
+      "text": "e te chamará com o nome que vem de Deus para sempre: \\par “Paz-da-justiça e Glória-da-piedade”. \\par",
+      "reference": "Br 5:4"
+    },
+    "5": {
+      "text": "Levanta-te, Jerusalém, coloca-te sobre o alto \\par e olha na direção do Oriente: \\par vê teus filhos, reunidos desde o pôr-do-sol até o nascente à ordem do Santo, \\par alegres por Deus ter-se lembrado deles. \\par",
+      "reference": "Br 5:5"
+    },
+    "6": {
+      "text": "Eles saíram de ti a pé, \\par arrastados por inimigos, \\par mas Deus os reconduz a ti, \\par carregados de glória, como para um trono real. \\par",
+      "reference": "Br 5:6"
+    },
+    "7": {
+      "text": "Pois Deus ordenou que sejam abaixadas \\par toda alta montanha e as colinas eternas, \\par e se encham os vales para se aplanar a terra, \\par a fim de que Israel possa acorrer com segurança, na glória de Deus. \\par",
+      "reference": "Br 5:7"
+    },
+    "8": {
+      "text": "Também as florestas e todas as árvores aromáticas darão sombra \\par a Israel, por ordem de Deus. \\par",
+      "reference": "Br 5:8"
+    },
+    "9": {
+      "text": "Pois Deus conduzirá Israel com alegria, na luz de sua glória, \\par com a misericórdia e a justiça que dele procedem. \\par \\par {\\qc\\b {\\i IV. Carta de Jeremias}\\par }\\par Cópia da carta que Jeremias enviou aos que iam ser levados para Babilônia como prisioneiros pelo rei dos babilônios, a fim de lhes dar a conhecer o que lhe fora ordenado por Deus. \\par",
+      "reference": "Br 5:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

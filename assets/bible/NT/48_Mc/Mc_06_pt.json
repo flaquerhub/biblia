@@ -1,0 +1,237 @@
+{
+  "book": 41,
+  "book_name": "Marcos",
+  "book_abbr": "Mc",
+  "book_category": "Evangelhos",
+  "book_english": "Mark",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Visita a Nazaré\\par }Saindo dali, foi para a sua pátria e os seus discípulos o seguiram.",
+      "reference": "Mc 6:1"
+    },
+    "2": {
+      "text": "Vindo o sábado, começou ele a ensinar na sinagoga e numerosos ouvintes ficavam maravilhados, dizendo: “De onde lhe vem tudo isto? E que sabedoria é esta que lhe foi dada? E com se fazem tais milagres por suas mãos?",
+      "reference": "Mc 6:2"
+    },
+    "3": {
+      "text": "Não é este o carpinteiro, o filho de Maria, irmão de Tiago, Joset, Judas e Simão? E as suas irmãs não estão aqui entre nós?” E escandalizavam-se dele.",
+      "reference": "Mc 6:3"
+    },
+    "4": {
+      "text": "E Jesus lhes dizia: “Um profeta só é desprezado em sua pátria, em sua parentela e em sua casa”.",
+      "reference": "Mc 6:4"
+    },
+    "5": {
+      "text": "E não podia realizar ali nenhum milagre, a não ser algumas curas de enfermos, impondo-lhes as mãos.",
+      "reference": "Mc 6:5"
+    },
+    "6": {
+      "text": "E admirou-se da incredulidade deles.\\par \\par {\\qc\\b\\i Missão dos Doze\\par } E ele percorria os povoados circunvizinhos, ensinando.",
+      "reference": "Mc 6:6"
+    },
+    "7": {
+      "text": "Chamou a si os Doze e começou a enviá-los dois a dois. E deu-lhes autoridade sobre os espíritos impuros.",
+      "reference": "Mc 6:7"
+    },
+    "8": {
+      "text": "Recomendou-lhes que nada levassem para o caminho, a não ser um cajado apenas; nem pão, nem alforje, nem dinheiro no cinto.",
+      "reference": "Mc 6:8"
+    },
+    "9": {
+      "text": "Mas que andassem calçados com sandálias e não levassem duas túnicas.",
+      "reference": "Mc 6:9"
+    },
+    "10": {
+      "text": "E dizia-lhes: “Onde quer que entreis numa casa, nela permanecei até vos retirardes do lugar.",
+      "reference": "Mc 6:10"
+    },
+    "11": {
+      "text": "E se algum lugar não vos receber nem vos quiser ouvir, ao partirdes de lá, sacudi o pó de debaixo dos vossos pés em testemunho contra eles”.",
+      "reference": "Mc 6:11"
+    },
+    "12": {
+      "text": "Partindo, eles pregavam que todos se arrependessem.",
+      "reference": "Mc 6:12"
+    },
+    "13": {
+      "text": "E expulsavam muitos demônios, e curavam muitos enfermos, ungindo-os com óleo. \\par",
+      "reference": "Mc 6:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Herodes e Jesus\\par }E o rei Herodes ouviu falar dele. Com efeito, seu nome se tornara célebre, e diziam: “João Batista foi ressuscitado dos mortos, e por isso os poderes operam através dele”.",
+      "reference": "Mc 6:14"
+    },
+    "15": {
+      "text": "Já outros diziam: “É Elias”. E outros ainda: “É um profeta como um dos profetas”.",
+      "reference": "Mc 6:15"
+    },
+    "16": {
+      "text": "Herodes, ouvindo essas coisas, dizia: “João, que eu mandei decapitar, foi ressuscitado”. \\par",
+      "reference": "Mc 6:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Execução de João Batista\\par }Herodes, com efeito, mandara prender João e acorrentá-lo no cárcere, por causa de Herodíades, a mulher de seu irmão Filipe, pois ele a desposara",
+      "reference": "Mc 6:17"
+    },
+    "18": {
+      "text": "e, na ocasião, João dissera a Herodes: “Não te é lícito possuir a mulher de teu irmão”.",
+      "reference": "Mc 6:18"
+    },
+    "19": {
+      "text": "Herodíades então se voltou contra ele e queria matá-lo, mas não podia,",
+      "reference": "Mc 6:19"
+    },
+    "20": {
+      "text": "pois Herodes tinha medo de João e, sabendo que ele era um homem justo e santo, o protegia. E quando o ouvia, ficava muito confuso e o escutava com prazer. \\par",
+      "reference": "Mc 6:20"
+    },
+    "21": {
+      "text": "Ora, chegou um dia propício: Herodes, por ocasião do seu aniversário, ofereceu um banquete aos seus magnatas, aos oficiais e às grandes personalidades da Galiléia.",
+      "reference": "Mc 6:21"
+    },
+    "22": {
+      "text": "E a filha de Herodíades entrou e dançou. E agradou a Herodes e aos convivas. Então o rei disse à moça: “Pede-me o que bem quiseres, e te darei”.",
+      "reference": "Mc 6:22"
+    },
+    "23": {
+      "text": "E fez um juramento: “Qualquer coisa que me pedires eu te darei, {\\i até a metade do meu reino!”}",
+      "reference": "Mc 6:23"
+    },
+    "24": {
+      "text": "Ela saiu e perguntou à mãe: “O que é que eu peço?” E ela respondeu: “A cabeça de João Batista”.",
+      "reference": "Mc 6:24"
+    },
+    "25": {
+      "text": "Voltando logo, apressadamente, à presença do rei, fez o pedido: “Quero que, agora mesmo, me dês num prato a cabeça de João Batista”.",
+      "reference": "Mc 6:25"
+    },
+    "26": {
+      "text": "O rei ficou profundamente triste. Mas, por causa do juramento que fizera e dos convivas, não quis deixar de atendê-la.",
+      "reference": "Mc 6:26"
+    },
+    "27": {
+      "text": "E imediatamente o rei enviou um executor, com ordens de trazer a cabeça de João.",
+      "reference": "Mc 6:27"
+    },
+    "28": {
+      "text": "E saindo, ele o decapitou na prisão. E trouxe a sua cabeça num prato. Deu-a à moça, e esta a entregou a sua mãe.",
+      "reference": "Mc 6:28"
+    },
+    "29": {
+      "text": "Os discípulos de João souberam disso, foram lá, pegaram o corpo e o colocaram num túmulo. \\par",
+      "reference": "Mc 6:29"
+    },
+    "30": {
+      "text": "\\par {\\qc\\b\\i Primeira multiplicação dos pães\\par }Os apóstolos reuniram-se a Jesus e contaram-lhe tudo o que tinham feito e ensinado.",
+      "reference": "Mc 6:30"
+    },
+    "31": {
+      "text": "Ele disse: “Vinde vós, sozinhos, a um lugar deserto e descansai um pouco”. Com efeito, os que chegavam e os que partiam eram tantos que não tinham tempo nem de comer.",
+      "reference": "Mc 6:31"
+    },
+    "32": {
+      "text": "E foram de barco a um lugar deserto, afastado.",
+      "reference": "Mc 6:32"
+    },
+    "33": {
+      "text": "Muitos, porém, os viram partir e, sabendo disso, de todas as cidades, correram para lá, a pé, e chegaram antes deles.",
+      "reference": "Mc 6:33"
+    },
+    "34": {
+      "text": "Assim que ele desembarcou, viu uma grande multidão e ficou tomado de compaixão por eles, pois {\\i estavam como ovelhas sem pastor.} E começou a ensinar-lhes muitas coisas.",
+      "reference": "Mc 6:34"
+    },
+    "35": {
+      "text": "Sendo a hora já muito avançada, os discípulos aproximaram-se dele e disseram: “O lugar é deserto e a hora já muito avançada.",
+      "reference": "Mc 6:35"
+    },
+    "36": {
+      "text": "Despede-os para que vão aos campos e povoados vizinhos e comprem para si o que comer”.",
+      "reference": "Mc 6:36"
+    },
+    "37": {
+      "text": "Jesus lhes respondeu: “Dai-lhes vós mesmos de comer”. Disseram-lhe eles: “Iremos nós e compraremos duzentos denários de pão para dar-lhes de comer?”",
+      "reference": "Mc 6:37"
+    },
+    "38": {
+      "text": "Ele perguntou: “Quantos pães tendes? Ide ver”. Tendo-se informado, responderam: “Cinco, e dois peixes”.",
+      "reference": "Mc 6:38"
+    },
+    "39": {
+      "text": "Ordenou-lhes então que fizessem todos se acomodarem, em grupos de convivas, sobre a grama verde.",
+      "reference": "Mc 6:39"
+    },
+    "40": {
+      "text": "E sentaram-se no chão, repartindo-se em grupos de cem e de cinqüenta.",
+      "reference": "Mc 6:40"
+    },
+    "41": {
+      "text": "Tomando os cinco pães e os dois peixes, elevou ele os olhos ao céu, abençoou, partiu os pães e deu-os aos discípulos para que lhes distribuíssem. E repartiu também os dois peixes entre todos.",
+      "reference": "Mc 6:41"
+    },
+    "42": {
+      "text": "Todos comeram e ficaram saciados.",
+      "reference": "Mc 6:42"
+    },
+    "43": {
+      "text": "E ainda recolheram doze cestos cheios dos pedaços de pão e de peixes.",
+      "reference": "Mc 6:43"
+    },
+    "44": {
+      "text": "E os que comeram dos pães eram cinco mil homens. \\par",
+      "reference": "Mc 6:44"
+    },
+    "45": {
+      "text": "\\par {\\qc\\b\\i Jesus caminha sobre as águas\\par }Logo em seguida, forçou seus discípulos a embarcarem e seguirem antes dele para Betsaida, enquanto ele despedia a multidão.",
+      "reference": "Mc 6:45"
+    },
+    "46": {
+      "text": "E, deixando-os, ele foi à montanha para orar.",
+      "reference": "Mc 6:46"
+    },
+    "47": {
+      "text": "Ao cair da tarde, o barco estava no meio do mar e ele sozinho em terra.",
+      "reference": "Mc 6:47"
+    },
+    "48": {
+      "text": "Vendo que se fatigavam a remar, pois o vento lhes era contrário, pela quarta vigília da noite dirigiu-se a eles, caminhando sobre o mar. E queria passar adiante deles.",
+      "reference": "Mc 6:48"
+    },
+    "49": {
+      "text": "Vendo-o caminhar sobre o mar, julgaram que fosse um fantasma e começaram a gritar,",
+      "reference": "Mc 6:49"
+    },
+    "50": {
+      "text": "pois todos o viram e ficaram apavorados. Ele, porém, logo falou com eles, dizendo: “Tende confiança. Sou eu. Não tenhais medo”.",
+      "reference": "Mc 6:50"
+    },
+    "51": {
+      "text": "E subiu para junto deles no barco. E o vento amainou. Eles, porém, no seu íntimo estavam cheios de espanto,",
+      "reference": "Mc 6:51"
+    },
+    "52": {
+      "text": "pois não tinham entendido nada a respeito dos pães, mas o seu coração estava endurecido. \\par",
+      "reference": "Mc 6:52"
+    },
+    "53": {
+      "text": "\\par {\\qc\\b\\i Curas na região de Genesaré\\par }Terminada a travessia, alcançaram terra em Genesaré e aportaram.",
+      "reference": "Mc 6:53"
+    },
+    "54": {
+      "text": "Mal desceram do barco, os habitantes logo o reconheceram.",
+      "reference": "Mc 6:54"
+    },
+    "55": {
+      "text": "Percorreram toda aquela região e começaram a transportar os doentes em seus leitos, onde quer que descobrissem que ele estava.",
+      "reference": "Mc 6:55"
+    },
+    "56": {
+      "text": "Em todos os lugares onde entrava, nos povoados, nas cidades ou nos campos, colocavam os doentes nas praças rogando que lhes permitisse ao menos tocar na orla de sua veste. E todo os que o tocavam eram salvos. \\par",
+      "reference": "Mc 6:56"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 56
+}

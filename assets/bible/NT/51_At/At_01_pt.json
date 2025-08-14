@@ -1,0 +1,117 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Prólogo\\par }Compus meu primeiro relato, ó Teófilo, a respeito de todas as coisas que Jesus fez e ensinou desde o início,",
+      "reference": "At 1:1"
+    },
+    "2": {
+      "text": "até o dia em que foi arrebatado, depois de ter dado instruções aos apóstolos que escolhera sob a ação do Espírito Santo.",
+      "reference": "At 1:2"
+    },
+    "3": {
+      "text": "Ainda a eles, apresentou-se vivo depois de sua paixão, com muitas provas incontestáveis: durante quarenta dias apareceu-lhes e lhes falou do que concerne ao Reino de Deus.",
+      "reference": "At 1:3"
+    },
+    "4": {
+      "text": "Então, no decurso de uma refeição com eles, ordenou-lhes que não se afastassem de Jerusalém, mas que aguardassem a promessa do Pai, “a qual, disse ele, ouvistes de minha boca:",
+      "reference": "At 1:4"
+    },
+    "5": {
+      "text": "pois João batizou com água, mas vós sereis batizados com o Espírito Santo dentro de poucos dias”. \\par",
+      "reference": "At 1:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i A ascensão\\par }Estando, pois, reunidos, eles assim o interrogaram: “Senhor, é agora o tempo em que irás restaurar a realeza em Israel?”",
+      "reference": "At 1:6"
+    },
+    "7": {
+      "text": "E ele respondeu-lhes: “Não compete a vós conhecer os tempos e os momentos que o Pai fixou com sua própria autoridade.",
+      "reference": "At 1:7"
+    },
+    "8": {
+      "text": "Mas recebereis uma força, a do Espírito Santo que descerá sobre vós, e sereis minhas testemunhas em Jerusalém, em toda a Judéia e a Samaria, e até os confins da terra”.",
+      "reference": "At 1:8"
+    },
+    "9": {
+      "text": "Dito isto, foi elevado à vista deles, e uma nuvem o ocultou a seus olhos.",
+      "reference": "At 1:9"
+    },
+    "10": {
+      "text": "Estando a olhar atentamente para o céu, enquanto ele se ia, dois homens vestidos de branco encontraram-se junto deles",
+      "reference": "At 1:10"
+    },
+    "11": {
+      "text": "e lhes disseram: “Homens da Galiléia, por que estais aí a olhar para o céu? Este Jesus, que foi arrebatado dentre vós para o céu, assim virá, do mesmo modo como o vistes partir para o céu”. \\par",
+      "reference": "At 1:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b {\\i I. A Igreja de Jerusalém}\\par }{\\qc\\b\\i O grupo dos apóstolos\\par }Então, do monte chamado das Oliveiras, voltaram a Jerusalém. A distância é pequena: a de uma caminhada de sábado.",
+      "reference": "At 1:12"
+    },
+    "13": {
+      "text": "Tendo entrado na cidade, subiram à sala superior, onde costumavam ficar. Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus; Tiago, filho de Alfeu, e Simão, o Zelota; e Judas, filho de Tiago.",
+      "reference": "At 1:13"
+    },
+    "14": {
+      "text": "Todos estes, unânimes, perseveravam na oração com algumas mulheres, entre as quais Maria, a mãe de Jesus, e com os irmãos dele. \\par",
+      "reference": "At 1:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Substituição de Judas\\par }Naqueles dias, Pedro levantou-se no meio dos irmãos – o número das pessoas reunidas era de mais ou menos cento e vinte – e disse:",
+      "reference": "At 1:15"
+    },
+    "16": {
+      "text": "“Irmãos, era preciso que se cumprisse a Escritura em que, por boca de Davi, o Espírito Santo havia de antemão falado a respeito de Judas, que se tornou o guia daqueles que prenderam a Jesus.",
+      "reference": "At 1:16"
+    },
+    "17": {
+      "text": "Ele era contado entre os nossos e recebera sua parte neste ministério.",
+      "reference": "At 1:17"
+    },
+    "18": {
+      "text": "Ora, este homem adquiriu um terreno com o salário da iniqüidade e, {\\i caindo de cabeça para baixo, arrebentou pelo meio, derramando-se todas as suas entranhas.}",
+      "reference": "At 1:18"
+    },
+    "19": {
+      "text": "O fato foi tão conhecido de todos os habitantes de Jerusalém que esse terreno foi denominado, na língua deles, Hacéldama, isto é, ‘Campo de Sangue’.",
+      "reference": "At 1:19"
+    },
+    "20": {
+      "text": "Pois está escrito no livro dos Salmos: \\par {\\i Fique deserta a sua morada \\par e não haja quem nela habite.} \\par E ainda: \\par {\\i Um outro receba o seu encargo.} \\par",
+      "reference": "At 1:20"
+    },
+    "21": {
+      "text": "É necessário, pois, que dentre estes homens que nos acompanharam todo o tempo em que o Senhor Jesus viveu em nosso meio,",
+      "reference": "At 1:21"
+    },
+    "22": {
+      "text": "a começar do batismo de João até o dia em que dentre nós foi arrebatado, um destes se torne conosco testemunha da sua ressurreição”. \\par",
+      "reference": "At 1:22"
+    },
+    "23": {
+      "text": "Apresentaram então dois: José, chamado Barsabás e cognominado Justo, e Matias.",
+      "reference": "At 1:23"
+    },
+    "24": {
+      "text": "E fizeram esta oração: “Tu, Senhor, que conheces o coração de todos, mostra-nos qual destes dois escolheste",
+      "reference": "At 1:24"
+    },
+    "25": {
+      "text": "para ocupar o lugar que Judas abandonou, no ministério do apostolado, para dirigir-se ao lugar que era o seu”.",
+      "reference": "At 1:25"
+    },
+    "26": {
+      "text": "Lançaram sortes sobre eles, e a sorte veio a cair em Matias, que foi então contado entre os doze apóstolos. \\par",
+      "reference": "At 1:26"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 26
+}

@@ -1,0 +1,145 @@
+{
+  "book": 11,
+  "book_name": "1Reis",
+  "book_abbr": "1Rs",
+  "book_category": "Histórico",
+  "book_english": "1 Kings",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. O cisma político e religioso}\\par }{\\qc\\b\\i A assembléia de Siquém\\par }Roboão foi para Siquém, pois foi lá que todo o Israel se tinha congregado para proclamá-lo rei. (",
+      "reference": "1Rs 12:1"
+    },
+    "2": {
+      "text": "Sabendo disso, Jeroboão, filho de Nabat, que se encontrava no Egito, para onde fugira do rei Salomão, regressou do Egito.",
+      "reference": "1Rs 12:2"
+    },
+    "3": {
+      "text": "Mandaram-no chamar e ele veio com toda a assembléia de Israel.) Disseram assim a Roboão:",
+      "reference": "1Rs 12:3"
+    },
+    "4": {
+      "text": "“Teu pai tornou pesado o nosso jugo; agora, alivia a dura servidão de teu pai e o jugo pesado que ele nos impôs e nós te serviremos”.",
+      "reference": "1Rs 12:4"
+    },
+    "5": {
+      "text": "Ele respondeu-lhes: “Esperai três dias e depois voltai a mim”. E o povo foi-se embora. \\par",
+      "reference": "1Rs 12:5"
+    },
+    "6": {
+      "text": "O rei Roboão consultou os anciãos que haviam auxiliado seu pai Salomão durante sua vida, e perguntou: “Que me aconselhais a responder a este povo?”",
+      "reference": "1Rs 12:6"
+    },
+    "7": {
+      "text": "Eles lhe responderam: “Se hoje te sujeitares à vontade deste povo, se te submeteres e lhes dirigires boas palavras, então eles serão para sempre teus servidores”.",
+      "reference": "1Rs 12:7"
+    },
+    "8": {
+      "text": "Mas ele rejeitou o conselho que os anciãos lhe deram e consultou os jovens que foram seus companheiros de infância e o assistiam.",
+      "reference": "1Rs 12:8"
+    },
+    "9": {
+      "text": "Perguntou-lhes: “Que aconselhais que se responda a este povo que me falou assim: ‘Alivia o jugo que teu pai nos impôs’?”",
+      "reference": "1Rs 12:9"
+    },
+    "10": {
+      "text": "Os jovens, seus companheiros de infância, responderam-lhe: “Eis o que dirás a este povo que te disse: ‘Teu pai tornou pesado o nosso jugo, mas tu alivia o nosso fardo’; eis o que lhes responderás: ‘Meu dedo mínimo é mais grosso que os rins de meu pai!",
+      "reference": "1Rs 12:10"
+    },
+    "11": {
+      "text": "Meu pai vos sobrecarregou com um jugo pesado, mas eu aumentarei ainda o vosso jugo; meu pai vos castigou com açoites, e eu vos açoitarei com escorpiões!’” \\par",
+      "reference": "1Rs 12:11"
+    },
+    "12": {
+      "text": "Jeroboão e todo o povo vieram para junto de Roboão, no terceiro dia, de acordo com a ordem que ele dera: ‘Voltai a mim daqui a três dias’.",
+      "reference": "1Rs 12:12"
+    },
+    "13": {
+      "text": "O rei respondeu duramente ao povo, rejeitou o conselho dos anciãos",
+      "reference": "1Rs 12:13"
+    },
+    "14": {
+      "text": "e, seguindo o conselho dos jovens, falou-lhes assim: “Meu pai tornou vosso jugo pesado, eu o aumentarei ainda: meu pai vos castigou com açoites, e eu vos castigarei com escorpiões”.",
+      "reference": "1Rs 12:14"
+    },
+    "15": {
+      "text": "Assim, o rei não ouviu o povo; era uma disposição de Iahweh, para cumprir a palavra que ele dissera a Jeroboão, filho de Nabat, por intermédio de Aías de Silo.",
+      "reference": "1Rs 12:15"
+    },
+    "16": {
+      "text": "Quando todo o Israel viu que o rei não os ouvia, responderam-lhe: \\par “Que parte temos com Davi? \\par Não temos herança com o filho de Jessé. \\par Às tuas tendas, ó Israel! \\par E agora, cuida da tua casa, Davi!” \\par E Israel voltou para suas tendas.",
+      "reference": "1Rs 12:16"
+    },
+    "17": {
+      "text": "Quando aos filhos de Israel que moravam nas cidades de Judá, Roboão reinou sobre eles.",
+      "reference": "1Rs 12:17"
+    },
+    "18": {
+      "text": "O rei Roboão enviou Aduram, chefe da corvéia, mas todo o Israel o apedrejou e ele morreu; então o rei Roboão subiu depressa a seu carro, a fim de fugir para Jerusalém.",
+      "reference": "1Rs 12:18"
+    },
+    "19": {
+      "text": "E Israel se separou da casa de Davi, até o dia de hoje. \\par",
+      "reference": "1Rs 12:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i O cisma político\\par }Quando todo o Israel soube que Jeroboão tinha voltado, convidaram-no para a assembléia e proclamaram-no rei sobre todo o Israel; só a tribo de Judá ficou fiel à casa de Davi. \\par",
+      "reference": "1Rs 12:20"
+    },
+    "21": {
+      "text": "Quando Roboão voltou a Jerusalém, convocou toda a casa de Judá e a tribo de Benjamim, num todo de cento e oitenta mil guerreiros de escol, para dar combate à casa de Israel e restituir o reino a Roboão, filho de Salomão.",
+      "reference": "1Rs 12:21"
+    },
+    "22": {
+      "text": "Mas a palavra de Deus foi dirigida a Semeías, homem de Deus, nestes termos:",
+      "reference": "1Rs 12:22"
+    },
+    "23": {
+      "text": "“Fala a Roboão, filho de Salomão, rei de Judá, a toda a casa de Judá, a Benjamim e ao resto do povo:",
+      "reference": "1Rs 12:23"
+    },
+    "24": {
+      "text": "Assim fala Iahweh: Não subais para guerrear contra vossos irmãos, os filhos de Israel; volte cada um para sua casa, pois o que aconteceu foi por minha vontade”. Eles obedeceram à ordem de Iahweh e regressaram, como Iahweh lhes ordenara. \\par",
+      "reference": "1Rs 12:24"
+    },
+    "25": {
+      "text": "Jeroboão fortificou Siquém na montanha de Efraim e ali se estabeleceu. Depois saiu de lá e fortificou Fanuel. \\par",
+      "reference": "1Rs 12:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i O cisma religioso\\par }Jeroboão refletiu consigo mesmo: “Desse jeito, o reino pode voltar à casa de Davi.",
+      "reference": "1Rs 12:26"
+    },
+    "27": {
+      "text": "Se este povo continua subindo ao Templo de Iahweh, em Jerusalém, para oferecer sacrifícios, o coração do povo se voltará para seu senhor, Roboão, rei de Judá, e matar-me-ão”.",
+      "reference": "1Rs 12:27"
+    },
+    "28": {
+      "text": "Depois de ter pedido conselho, fez dois bezerros de ouro e disse ao povo: “Deixai de subir a Jersalém! Israel, eis o teu Deus que te fez sair da terra do Egito”.",
+      "reference": "1Rs 12:28"
+    },
+    "29": {
+      "text": "Erigiu um em Betel,",
+      "reference": "1Rs 12:29"
+    },
+    "30": {
+      "text": "e o povo foi em procissão diante do outro até Dã.",
+      "reference": "1Rs 12:30"
+    },
+    "31": {
+      "text": "Estabeleceu o templo dos lugares altos, e designou como sacerdotes homens tirados do povo, que não eram filhos de Levi.",
+      "reference": "1Rs 12:31"
+    },
+    "32": {
+      "text": "Jeroboão celebrou uma festa no oitavo mês, no décimo quinto dia do mês, à semelhança da que se celebrava em Judá, e subiu ao altar. Assim fez ele em Betel, sacrificando aos bezerros que fizera e estabeleceu em Betel os sacerdotes dos lugares altos que instituíra.",
+      "reference": "1Rs 12:32"
+    },
+    "33": {
+      "text": "Subiu ao altar que tinha feito, no décimo quinto dia do oitavo mês, isto é, no mês que ele escolhera arbitrariamente; instituiu uma festa para os filhos de Israel e subiu ao altar para queimar incenso. \\par",
+      "reference": "1Rs 12:33"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 33
+}

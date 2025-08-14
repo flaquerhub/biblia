@@ -1,0 +1,73 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 17 (16)\\par }{\\qc\\b\\i Súplica do inocente\\par }{\\qc\\i Prece. De Davi.\\par } Ouve, Iahweh, a causa justa, \\par atende ao meu clamor; \\par dá ouvido à minha súplica, \\par que não sai de lábios mentirosos. \\par",
+      "reference": "Sl 17:1"
+    },
+    "2": {
+      "text": "Que minha sentença provenha de tua face, \\par teus olhos vejam onde está a retidão. \\par",
+      "reference": "Sl 17:2"
+    },
+    "3": {
+      "text": "Podes sondar-me o coração, visitar-me pela noite, \\par provar-me com fogo: \\par murmuração nenhuma achas em mim; \\par minha boca não transgrediu \\par",
+      "reference": "Sl 17:3"
+    },
+    "4": {
+      "text": "como costumam os homens. \\par Eu observei a palavra dos teus lábios, \\par no caminho prescrito",
+      "reference": "Sl 17:4"
+    },
+    "5": {
+      "text": "mantendo os meus passos; \\par meus pés não tropeçaram nas tuas pegadas. \\par",
+      "reference": "Sl 17:5"
+    },
+    "6": {
+      "text": "Eu clamo a ti, pois tu me respondes, ó Deus! \\par Inclina a mim teu ouvido, ouve a minha palavra, \\par",
+      "reference": "Sl 17:6"
+    },
+    "7": {
+      "text": "demonstra o teu amor, tu que salvas \\par dos agressores quem se refugia à tua direita. \\par",
+      "reference": "Sl 17:7"
+    },
+    "8": {
+      "text": "Guarda-me como a pupila dos olhos, \\par esconde-me à sombra de tuas asas, \\par",
+      "reference": "Sl 17:8"
+    },
+    "9": {
+      "text": "longe dos ímpios que me oprimem, \\par dos inimigos mortais que me cercam. \\par",
+      "reference": "Sl 17:9"
+    },
+    "10": {
+      "text": "Eles envolvem seu coração com gordura, \\par sua boca fala com arrogância. \\par",
+      "reference": "Sl 17:10"
+    },
+    "11": {
+      "text": "Caminham contra mim e agora me cercam, \\par fixando seus olhos para jogar-me por terra. \\par",
+      "reference": "Sl 17:11"
+    },
+    "12": {
+      "text": "Parecem um leão, ávido por devorar, \\par um filhote de leão, agachado em seu covil. \\par",
+      "reference": "Sl 17:12"
+    },
+    "13": {
+      "text": "Levanta-te, Iahweh! Enfrenta-os! Derruba-os! \\par Que tua espada me liberte do ímpio, \\par",
+      "reference": "Sl 17:13"
+    },
+    "14": {
+      "text": "e tua mão, ó Iahweh, dos mortais, \\par dos mortais que, em vida, \\par já têm sua parte deste mundo! \\par Enche-lhes o ventre com o que tens em reserva: \\par seus filhos ficarão saciados \\par e deixarão o que sobrar para seus pequeninos. \\par",
+      "reference": "Sl 17:14"
+    },
+    "15": {
+      "text": "Quanto a mim, com justiça eu verei tua face; \\par ao despertar, eu me saciarei com tua imagem. \\par",
+      "reference": "Sl 17:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

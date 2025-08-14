@@ -1,0 +1,161 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A espada de Iahweh\\par }A palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Ez 21:1"
+    },
+    "2": {
+      "text": "Filho do homem, volta-te para a direita, profere tua palavra em direção ao sul, profetiza contra o bosque da região do Negueb.",
+      "reference": "Ez 21:2"
+    },
+    "3": {
+      "text": "Dize ao bosque do Negueb: Ouve a palavra de Iahweh. Assim diz o Senhor Iahweh: Eis que acenderei um fogo no meio de ti, o qual consumirá no teu seio toda árvore verde e toda árvore seca. A sua chama não se apagará e todos os rostos ficarão crestados desde o Negueb até o norte.",
+      "reference": "Ez 21:3"
+    },
+    "4": {
+      "text": "Toda carne verá que fui eu, Iahweh, que o acendi, visto que ele não se apagará.",
+      "reference": "Ez 21:4"
+    },
+    "5": {
+      "text": "A isto disse eu: Ah! Senhor Iahweh! Eles estão a dizer de mim: “Não está ele a repetir parábolas?”",
+      "reference": "Ez 21:5"
+    },
+    "6": {
+      "text": "Então a palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Ez 21:6"
+    },
+    "7": {
+      "text": "Filho do homem, volta a tua face contra Jerusalém, profere a tua palavra na direção do santuário e profetiza contra a terra de Israel.",
+      "reference": "Ez 21:7"
+    },
+    "8": {
+      "text": "Eis o que dirás à terra de Israel: Assim diz Iahweh: Eis que estou contra ti; hei de tirar da bainha a minha espada e extirparei do meio de ti tanto o justo como o ímpio.",
+      "reference": "Ez 21:8"
+    },
+    "9": {
+      "text": "A fim de extirpar do meio de ti o justo e o ímpio, a minha espada sairá da sua bainha, atingindo toda carne desde o Negueb até o norte.",
+      "reference": "Ez 21:9"
+    },
+    "10": {
+      "text": "Assim toda carne saberá que fui eu, Iahweh, que tirei a minha espada da sua bainha e que ela não voltará atrás. \\par",
+      "reference": "Ez 21:10"
+    },
+    "11": {
+      "text": "E tu, filho do homem, geme com o coração partido e com amargura, geme aos seus olhos.",
+      "reference": "Ez 21:11"
+    },
+    "12": {
+      "text": "E sucederá que, se te disserem: “Para que estes gemidos?”, tu lhes responderás: “Porque uma notícia está para chegar, com a qual todo coração se derreterá, toda mão ficará desfalecida, todo espírito quebrantar-se-á e todo joelho se desfará em água. Eis que ela se confirma, oráculo do Senhor Iahweh”. \\par",
+      "reference": "Ez 21:12"
+    },
+    "13": {
+      "text": "A palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Ez 21:13"
+    },
+    "14": {
+      "text": "Filho do homem, profetiza e dize: \\par Eis a palavra pronunciada pelo Senhor! Dize: \\par A espada! A espada está afiada e polida, \\par",
+      "reference": "Ez 21:14"
+    },
+    "15": {
+      "text": "afiada, para executar uma matança; \\par polida, para que lampeje como o relâmpago... \\par",
+      "reference": "Ez 21:15"
+    },
+    "16": {
+      "text": "Ela foi polida, a fim de poder ser segurada na mão; \\par a espada foi afiada e polida para ser posta na mão do matador. \\par",
+      "reference": "Ez 21:16"
+    },
+    "17": {
+      "text": "Clama, uiva, filho do homem, \\par porque ela se dirige contra o meu povo, \\par contra todos os príncipes de Israel, \\par que foram entregues à espada, juntamente com o meu povo. \\par Por isso, bate no peito, \\par",
+      "reference": "Ez 21:17"
+    },
+    "18": {
+      "text": "pois se trata de uma prova... \\par Oráculo do Senhor Iahweh. \\par",
+      "reference": "Ez 21:18"
+    },
+    "19": {
+      "text": "E tu, filho do homem, profetiza e bate palmas. \\par Vibre a espada três vezes, a espada dos trespassados, \\par a espada que atinge o grande trespassado, \\par ela, que ameaça de todos os lados! \\par",
+      "reference": "Ez 21:19"
+    },
+    "20": {
+      "text": "Para que o coração desfaleça e os tropeços se multipliquem, \\par junto a todas as portas pus o morticínio da espada \\par feita para relampejar, polida para o morticínio. \\par",
+      "reference": "Ez 21:20"
+    },
+    "21": {
+      "text": "Sê afiada à direita, põe-te do lado esquerdo, onde o teu gume é requisitado. \\par",
+      "reference": "Ez 21:21"
+    },
+    "22": {
+      "text": "Também eu baterei palmas \\par e saciarei a minha cólera. \\par Eu, Iahweh, o disse. \\par",
+      "reference": "Ez 21:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i O rei da Babilônia na encruzilhada\\par }A palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Ez 21:23"
+    },
+    "24": {
+      "text": "Tu, filho do homem, traça dois caminhos, para que por eles venha a espada do rei da Babilônia. Ambos partirão da mesma terra. Em seguida põe um sinal, colocando-o no começo do caminho da cidade,",
+      "reference": "Ez 21:24"
+    },
+    "25": {
+      "text": "traça o caminho para que a espada chegue a Rabá dos amonitas e a Judá, à sua fortaleza de Jerusalém.",
+      "reference": "Ez 21:25"
+    },
+    "26": {
+      "text": "Com efeito, o rei da Babilônia se deteve na encruzilhada, no começo dos dois caminhos, a fim de recorrer à sorte. Agitou as flechas, consultou os terafins e observou o fígado.",
+      "reference": "Ez 21:26"
+    },
+    "27": {
+      "text": "Em sua mão direita está a sorte de Jerusalém, a fim de dispor aríetes, dar a ordem de matar, soltar o grito de guerra e dispor os aríetes contra as portas, levantar baluartes, construir trincheiras.",
+      "reference": "Ez 21:27"
+    },
+    "28": {
+      "text": "Mas isto lhes pareceu uma adivinhação vã. Houve juramento por parte deles, mas ele trouxe à sua memória a iniqüidade deles, que os conduzirá ao cativeiro.",
+      "reference": "Ez 21:28"
+    },
+    "29": {
+      "text": "Portanto, assim diz o Senhor Iahweh: Visto que trazeis à memória as vossas iniqüidades, revelando as vossas rebeliões a fim de que os vossos pecados sejam vistos em tudo quanto fazeis, pois que sois lembrados, sereis conduzidos ao cativeiro.",
+      "reference": "Ez 21:29"
+    },
+    "30": {
+      "text": "Quanto a ti, príncipe de Israel, ímpio e perverso, cujo dia se aproxima com o tempo da iniqüidade final,",
+      "reference": "Ez 21:30"
+    },
+    "31": {
+      "text": "assim diz o Senhor Iahweh: Tirai-lhe o diadema, removei a sua coroa. Nada continuará como era. O que é baixo será elevado e o que é elevado será abaixado.",
+      "reference": "Ez 21:31"
+    },
+    "32": {
+      "text": "Ruína, ruína, ruína! Eis o que eu farei, como não existiu antes de vir aquele a quem pertence o julgamento e a quem eu o entregarei. \\par",
+      "reference": "Ez 21:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i O castigo de Amon\\par }E tu, filho do homem, profetiza e dize: Assim fala o Senhor Iahweh aos amonitas e ao seu opróbrio. Sim, dize-lhes: A espada, a espada está desembainhada para o morticínio, está polida para a destruição, para relampejar, –",
+      "reference": "Ez 21:33"
+    },
+    "34": {
+      "text": "enquanto cultivas visões vãs, lanças sortes mentirosas – para degolar os culpados cujo dia se aproxima no tempo da iniqüidade final.",
+      "reference": "Ez 21:34"
+    },
+    "35": {
+      "text": "Repõe-na na bainha. Na terra em que foste criado, na terra de tua origem, é que hei de julgar-te.",
+      "reference": "Ez 21:35"
+    },
+    "36": {
+      "text": "Derramarei sobre ti a minha cólera, soprarei sobre ti o fogo do meu furor e entregar-te-ei nas mãos de homens abrutalhados, hábeis na arte de destruir.",
+      "reference": "Ez 21:36"
+    },
+    "37": {
+      "text": "Servirás de pasto para o fogo, o teu sangue correrá no meio da terra, e já não haverá lembrança de ti, porque eu, Iahweh, o disse. \\par",
+      "reference": "Ez 21:37"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 37
+}

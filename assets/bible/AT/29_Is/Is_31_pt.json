@@ -1,0 +1,49 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra a aliança egípcia\\par }Ai dos que descem ao Egito, \\par à busca do socorro. \\par Procuram apoiar-se em cavalos, \\par põem a sua confiança nos carros, porque são muitos, \\par e nos cavaleiros, porque são de grande força, \\par mas não voltam os seus olhares para o Santo de Israel, \\par não buscam a Iahweh. \\par",
+      "reference": "Is 31:1"
+    },
+    "2": {
+      "text": "Pois bem, também ele tem sabedoria e pode trazer a desgraça; \\par ele não deixa de cumprir a sua palavra; \\par assim, levantar-se-á contra a corja dos malfeitores \\par e contra o socorro dado aos que praticam a iniqüidade. \\par",
+      "reference": "Is 31:2"
+    },
+    "3": {
+      "text": "Pois o egípcio é homem e não deus, \\par os seus cavalos são carne e não espírito. \\par Quando Iahweh estender a sua mão, \\par aquele que socorre tropeçará e o socorrido cairá, \\par e perecerão ambos juntos. \\par",
+      "reference": "Is 31:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Contra a Assíria\\par }Porque assim me disse Iahweh: \\par Como ruge o leão – o leão novo – sobre a sua presa, \\par quando se convocam contra ele todos os pastores, \\par sem que ele se apavore com os seus gritos, \\par nem se assuste com o seu tumulto, \\par assim descerá Iahweh dos Exércitos \\par para guerrear sobre o monte Sião, sobre o seu outeiro. \\par",
+      "reference": "Is 31:4"
+    },
+    "5": {
+      "text": "Como aves que voam, \\par assim Iahweh dos Exércitos velará sobre Jerusalém, \\par velará sobre ela e a livrará, \\par protegê-la-á e a libertará. \\par",
+      "reference": "Is 31:5"
+    },
+    "6": {
+      "text": "Voltai para aquele contra o qual se rebelaram tão profundamente \\par os filhos de Israel. \\par",
+      "reference": "Is 31:6"
+    },
+    "7": {
+      "text": "Porque naqueles dias todos porão fora \\par os seus ídolos de prata e os seus ídolos de ouro, \\par que as vossas mãos pecaminosas fizeram para vós. \\par",
+      "reference": "Is 31:7"
+    },
+    "8": {
+      "text": "Então a Assíria cairá à espada, mas não de homem; \\par por uma espada , mas não de homem, ela será devorada. \\par Sim, ela há de fugir diante da espada, \\par e os seus jovens serão submetidos a trabalho forçado. \\par",
+      "reference": "Is 31:8"
+    },
+    "9": {
+      "text": "No seu terror, ela abandonará a sua rocha, \\par os seus príncipes, apavorados, desertarão o estandarte. \\par Oráculo de Iahweh, cujo fogo está em Sião \\par e cuja fornalha está em Jerusalém. \\par",
+      "reference": "Is 31:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

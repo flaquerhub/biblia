@@ -1,0 +1,69 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Vi depois, na mão direta daquele que estava sentado no trono, um {\\i livro escrito por dentro e por fora} e selado com sete selos.",
+      "reference": "Ap 5:1"
+    },
+    "2": {
+      "text": "Vi então um Anjo poderoso, proclamando em alta voz: “Quem é digno de abrir o livro, rompendo seus selos?”",
+      "reference": "Ap 5:2"
+    },
+    "3": {
+      "text": "Mas ninguém no céu, nem na terra ou sob a terra era capaz de abrir nem de ler o livro.",
+      "reference": "Ap 5:3"
+    },
+    "4": {
+      "text": "Eu chorava muito, porque ninguém foi considerado digno de abrir nem de ler o livro.",
+      "reference": "Ap 5:4"
+    },
+    "5": {
+      "text": "Um dos Anciãos, porém, consolou-me: “Não chores! Eis que o {\\i Leão} da tribo {\\i de Judá, o Rebento} de Davi, venceu para poder abrir o livro e seus sete selos”. \\par",
+      "reference": "Ap 5:5"
+    },
+    "6": {
+      "text": "Com efeito, entre o trono com os quatro Seres vivos e os Anciãos, vi um Cordeiro de pé, como que imolado. Tinha sete chifres e {\\i sete olhos}, que são os sete Espíritos de Deus {\\i enviados por toda a terra.}",
+      "reference": "Ap 5:6"
+    },
+    "7": {
+      "text": "Ele veio então receber o livro da mão direita daquele que está sentado no trono.",
+      "reference": "Ap 5:7"
+    },
+    "8": {
+      "text": "Ao receber o livro, os quatro Seres vivos e os vinte e quatro Anciãos prostraram-se diante do Cordeiro, cada um com uma cítara e taças de ouro cheias de incenso, que são as orações dos santos,",
+      "reference": "Ap 5:8"
+    },
+    "9": {
+      "text": "cantando um cântico novo: \\par “Digno és tu de receber o livro \\par e de abrir seus selos, \\par pois foste imolado e, por teu sangue, \\par resgataste para Deus \\par homens de toda tribo, língua, povo e nação. \\par",
+      "reference": "Ap 5:9"
+    },
+    "10": {
+      "text": "Deles fizeste, para nosso Deus, \\par {\\i uma Realeza e Sacerdotes}; \\par e eles reinarão sobre a terra”. \\par",
+      "reference": "Ap 5:10"
+    },
+    "11": {
+      "text": "Em minha visão ouvi ainda o clamor de uma multidão de anjos que circundavam o trono, os Seres vivos e os Anciãos – seu número era de milhões de milhões e milhares de milhares –",
+      "reference": "Ap 5:11"
+    },
+    "12": {
+      "text": "proclamando, em alta voz: \\par “Digno é o Cordeiro imolado \\par de receber o poder, a riqueza, a sabedoria, \\par a força, a honra, a glória e o louvor”. \\par",
+      "reference": "Ap 5:12"
+    },
+    "13": {
+      "text": "E ouvi toda criatura no céu, na terra, sob a terra, no mar, e todos os seres que neles vivem, proclamarem: \\par “Àquele que está sentado no trono e ao Cordeiro \\par pertencem o louvor, a honra, a glória e o domínio \\par pelos séculos dos séculos!” \\par",
+      "reference": "Ap 5:13"
+    },
+    "14": {
+      "text": "Os quatro Seres vivos diziam: “Amém!”, e os Anciãos se prostraram e adoraram. \\par",
+      "reference": "Ap 5:14"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 14
+}

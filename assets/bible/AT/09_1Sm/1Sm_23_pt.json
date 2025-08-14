@@ -1,0 +1,125 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Davi em Ceila\\par }Levaram esta notícia a Davi: “Os filisteus sitiaram Ceila e saqueiam as eiras”.",
+      "reference": "1Sm 23:1"
+    },
+    "2": {
+      "text": "Davi consultou a Iahweh: “Devo partir e atacar os filisteus?” Respondeu Iahweh: “Vai, vencerás os filisteus e salvarás Ceila”.",
+      "reference": "1Sm 23:2"
+    },
+    "3": {
+      "text": "Entretanto, os homens de Davi lhe disseram: “Nós, aqui em Judá, temos já tanto a temer, quanto mais se formos a Ceila contra as tropas dos filisteus!”",
+      "reference": "1Sm 23:3"
+    },
+    "4": {
+      "text": "Davi consultou novamente a Iahweh, e Iahweh respondeu: “Parte! Desce a Ceila, porque entregarei os filisteus nas tuas mãos”.",
+      "reference": "1Sm 23:4"
+    },
+    "5": {
+      "text": "Desceu, pois, Davi com os seus homens a Ceila, atacou aos filisteus, tomou o seu gado e lhes infligiu uma grande derrota. Assim Davi livrou os habitantes de Ceila.",
+      "reference": "1Sm 23:5"
+    },
+    "6": {
+      "text": "Aconteceu que Abiatar, filho de Aquimelec, quando se refugiou junto a Davi, desceu a Ceila levando o efod consigo. \\par",
+      "reference": "1Sm 23:6"
+    },
+    "7": {
+      "text": "Quando chegou a Saul a notícia de que Davi tinha entrado em Ceila, ele disse: “Deus o entregou nas minhas mãos, porque caiu na armadilha entrando numa cidade de portas e ferrolhos!”",
+      "reference": "1Sm 23:7"
+    },
+    "8": {
+      "text": "Saul convocou todo o povo às armas para descer a Ceila e cercar Davi e seus homens.",
+      "reference": "1Sm 23:8"
+    },
+    "9": {
+      "text": "Quando Davi soube que era contra ele que Saul maquinava maus propósitos, disse ao sacerdote Abiatar: “Traze o efod”.",
+      "reference": "1Sm 23:9"
+    },
+    "10": {
+      "text": "Disse Davi: “Iahweh, Deus de Israel, o teu servo ouviu dizer que Saul se prepara para vir a Ceila e destruir a cidade por minha causa.",
+      "reference": "1Sm 23:10"
+    },
+    "11": {
+      "text": "Saul descerá de fato, como entendeu o teu servo? Iahweh, Deus de Israel, faze-o saber a teu servo!” Iahweh respondeu: “Descerá”.",
+      "reference": "1Sm 23:11"
+    },
+    "12": {
+      "text": "Davi indagou: “Entregar-me-ão, os notáveis de Ceila, a mim e aos meus homens, nas mãos de Saul?” Disse Iahweh: “Entregarão”.",
+      "reference": "1Sm 23:12"
+    },
+    "13": {
+      "text": "Então Davi partiu com seus homens, cerca de seiscentos; saíram de Ceila e andaram errantes. Saul, sabendo que Davi escapara de Ceila, abandonou o plano. \\par",
+      "reference": "1Sm 23:13"
+    },
+    "14": {
+      "text": "Davi habitou nos refúgios do deserto, nas montanhas no deserto de Zif, e Saul foi continuamente à sua procura, mas Deus não deixou Davi cair em suas mãos. \\par",
+      "reference": "1Sm 23:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Davi em Horesa. Visita de Jônatas\\par }Davi compreendeu que Saul saía a campo para atentar contra a sua vida. Davi estava então no deserto de Zif, em Horesa.",
+      "reference": "1Sm 23:15"
+    },
+    "16": {
+      "text": "Jônatas, filho de Saul, veio encontrar-se com Davi, em Horesa, e o confortou em nome de Deus.",
+      "reference": "1Sm 23:16"
+    },
+    "17": {
+      "text": "Disse-lhe: “Não temas, porque a mão de meu pai Saul não te atingirá. Tu reinarás sobre Israel, e eu serei o teu segundo. Até mesmo meu pai Saul bem sabe isso”.",
+      "reference": "1Sm 23:17"
+    },
+    "18": {
+      "text": "Ambos concluíram um pacto diante de Iahweh. Davi ficou em Horesa, e Jônatas voltou para a sua casa. \\par",
+      "reference": "1Sm 23:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Davi escapa de Saul por pouco\\par }Algumas pessoas de Zif subiram a Gabaá para dizer a Saul: “Não está Davi escondido entre nós, nos refúgios, em Horesa, na colina de Aquila, ao sul da estepe?",
+      "reference": "1Sm 23:19"
+    },
+    "20": {
+      "text": "Agora, pois, ó rei, quando quiseres descer, desce: a nós cabe entregá-lo nas mãos do rei”.",
+      "reference": "1Sm 23:20"
+    },
+    "21": {
+      "text": "Saul respondeu: “Sede benditos de Iahweh por terdes piedade de mim.",
+      "reference": "1Sm 23:21"
+    },
+    "22": {
+      "text": "Ide, pois, informai-vos ainda melhor, procurai conhecer por onde se deslocam os seus passos: disseram-me que ele é extremamente astuto.",
+      "reference": "1Sm 23:22"
+    },
+    "23": {
+      "text": "Investigai sobre os lugares onde se esconde e, quando estiverdes bem seguros, vinde ver-me. Então, irei convosco e, se ele estiver na região, eu o perseguirei em todos os clãs de Judá”. \\par",
+      "reference": "1Sm 23:23"
+    },
+    "24": {
+      "text": "Logo se puseram a caminho, na direção de Zif, precedendo Saul. Mas Davi e os seus homens estavam no deserto de Maon, na planície ao sul da estepe.",
+      "reference": "1Sm 23:24"
+    },
+    "25": {
+      "text": "Saul e os seus homens partiram à sua procura. Avisaram a Davi, e ele desceu à garganta do deserto de Maon.",
+      "reference": "1Sm 23:25"
+    },
+    "26": {
+      "text": "Saul e os seus homens seguiram por uma das vertentes da montanha. Davi e os seus homens foram pela outra vertente. Davi fugia desesperadamente de diante de Saul, e Saul e os seus homens procuravam passar para o lado em que estava Davi e os seus homens, para apanhá-los,",
+      "reference": "1Sm 23:26"
+    },
+    "27": {
+      "text": "quando um mensageiro de Saul veio dizer-lhe: “Vem depressa, os filisteus invadiram o país!”",
+      "reference": "1Sm 23:27"
+    },
+    "28": {
+      "text": "Então Saul deixou de perseguir a Davi e partiu ao encontro dos filisteus. Por esse motivo, aquele lugar se denominou a Garganta das Separações. \\par",
+      "reference": "1Sm 23:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

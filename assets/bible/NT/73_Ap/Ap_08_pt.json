@@ -1,0 +1,65 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O sétimo selo\\par }Quando o Cordeiro abriu o sétimo selo, houve no céu um silêncio durante cerca de meia hora... \\par",
+      "reference": "Ap 8:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i As orações dos santos apressam a vinda do Grande Dia\\par }Vi então os sete Anjos que estão diante do trono de Deus: deram-lhes sete trombetas.",
+      "reference": "Ap 8:2"
+    },
+    "3": {
+      "text": "Outro Anjo veio postar-se junto ao altar, com um turíbulo de ouro. Deram-lhe uma grande quantidade de incenso para que o oferecesse com as orações de todos os santos, sobre o altar de ouro que está diante do trono.",
+      "reference": "Ap 8:3"
+    },
+    "4": {
+      "text": "E, da mão do Anjo, a fumaça de incenso com as orações dos santos subiu diante de Deus.",
+      "reference": "Ap 8:4"
+    },
+    "5": {
+      "text": "O Anjo tomou depois o turíbulo, {\\i encheu-o com o fogo} do altar {\\i e o atirou} à terra; seguiram-se trovões, clamores, relâmpagos e um terremoto. \\par",
+      "reference": "Ap 8:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i As quatro primeiras trombetas\\par }Os sete Anjos munidos com as sete trombetas se preparam então para tocar.",
+      "reference": "Ap 8:6"
+    },
+    "7": {
+      "text": "E o primeiro tocou... Caiu então sobre a terra granizo e fogo, misturados com sangue: uma terça parte da terra se queimou, um terço das árvores se queimou e toda vegetação verde se queimou.",
+      "reference": "Ap 8:7"
+    },
+    "8": {
+      "text": "E o segundo Anjo tocou... Algo como uma grande montanha incandescente foi lançado no mar: uma terça parte do mar se transformou em sangue,",
+      "reference": "Ap 8:8"
+    },
+    "9": {
+      "text": "pereceu um terço das criaturas que viviam no mar e um terço dos navios foi destruído.",
+      "reference": "Ap 8:9"
+    },
+    "10": {
+      "text": "E o terceiro Anjo tocou... Caiu do céu uma grande estrela, ardendo como uma tocha. E caiu sobre a terça parte dos rios e sobre as fontes.",
+      "reference": "Ap 8:10"
+    },
+    "11": {
+      "text": "O nome da estrela é “Absinto”. A terça parte da água se converteu em absinto, e muitos homens morreram por causa da água, que se tornou amarga.",
+      "reference": "Ap 8:11"
+    },
+    "12": {
+      "text": "E o quarto Anjo tocou... Um terço do sol, um terço da lua e um terço das estrelas foram atingidos, de modo que uma terça parte deles se ofuscou: o dia perdeu um terço de sua luz, bem como a noite. \\par",
+      "reference": "Ap 8:12"
+    },
+    "13": {
+      "text": "Então vi e ouvi uma Águia que voava no meio do céu, gritando em alta voz: “Ai, ai, ai dos que habitam a terra, por causa dos restantes toques da trombeta dos três Anjos que estão para tocar!” \\par",
+      "reference": "Ap 8:13"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 13
+}

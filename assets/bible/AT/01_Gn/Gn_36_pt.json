@@ -1,0 +1,185 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 36,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Mulheres e filhos de Esaú em Canaã\\par }Eis a descendência de Esaú, que é Edom.",
+      "reference": "Gn 36:1"
+    },
+    "2": {
+      "text": "Esaú tomou suas mulheres entre as filhas de Canaã: Ada, filha de Elon, o heteu, Oolibama, filha de Ana, filho de Sebeon, o horreu,",
+      "reference": "Gn 36:2"
+    },
+    "3": {
+      "text": "Basemat, filha de Ismael e irmã de Nabaiot.",
+      "reference": "Gn 36:3"
+    },
+    "4": {
+      "text": "Ada gerou para Esaú Elifaz, Basemat gerou Rauel,",
+      "reference": "Gn 36:4"
+    },
+    "5": {
+      "text": "Oolibama gerou Jeús, Jalam e Coré. Esses são os filhos de Esaú que lhe nasceram na terra de Canaã. \\par",
+      "reference": "Gn 36:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Migração de Esaú\\par }Esaú tomou suas mulheres, seus filhos e suas filhas, todas as pessoas de sua casa, seu rebanho e todo o seu gado, toda propriedade que tinha adquirido na terra de Canaã, e partiu para a terra de Seir, longe de seu irmão Jacó.",
+      "reference": "Gn 36:6"
+    },
+    "7": {
+      "text": "Eles tinham muitos bens para habitarem juntos e a terra em que residiam não podia lhes bastar, por causa de seus haveres.",
+      "reference": "Gn 36:7"
+    },
+    "8": {
+      "text": "Assim Esaú estabeleceu-se na montanha de Seir. Esaú é Edom. \\par",
+      "reference": "Gn 36:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Descendência de Esaú em Seir\\par }Eis a descendência de Esaú, pai de Edom, na montanha de Seir. \\par",
+      "reference": "Gn 36:9"
+    },
+    "10": {
+      "text": "Eis os nomes dos filhos de Esaú: Elifaz, filho de Ada, mulher de Esaú, e Rauel, filho de Basemat, mulher de Esaú. \\par",
+      "reference": "Gn 36:10"
+    },
+    "11": {
+      "text": "Os filhos de Elifaz foram: Temã, Omar, Sefo, Gatam, Cenez.",
+      "reference": "Gn 36:11"
+    },
+    "12": {
+      "text": "Elifaz, filho de Esaú, teve por concubina Tamna, e ela lhe gerou Amalec. Esses são os filhos de Ada, mulher de Esaú. \\par",
+      "reference": "Gn 36:12"
+    },
+    "13": {
+      "text": "Eis os filhos de Rauel: Naat, Zara, Sama, Meza. Esses foram os filhos de Basemat, mulher de Esaú. \\par",
+      "reference": "Gn 36:13"
+    },
+    "14": {
+      "text": "Eis os filhos de Oolibama, filha de Ana, filho de Sebeon, mulher de Esaú: ela lhe gerou Jeús, Jalam e Coré. \\par",
+      "reference": "Gn 36:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Os chefes de Edom\\par }Eis os chefes dos filhos de Esaú. \\par Filhos de Elifaz, primogênito de Esaú: o chefe Temã, o chefe Omar, o chefe Sefo, o chefe Cenez,",
+      "reference": "Gn 36:15"
+    },
+    "16": {
+      "text": "o chefe Gatam, o chefe Amalec. Esses são os chefes de Elifaz na terra de Edom, esses são os filhos de Ada. \\par",
+      "reference": "Gn 36:16"
+    },
+    "17": {
+      "text": "E eis os filhos de Rauel, filho de Esaú: o chefe Naat, o chefe Zara, o chefe Sama, o chefe Meza. Esses são os chefes de Rauel na terra de Edom, esses são os filhos de Basemat, mulher de Esaú. \\par",
+      "reference": "Gn 36:17"
+    },
+    "18": {
+      "text": "E eis os filhos de Oolibama, mulher de Esaú: o chefe Jeús, o chefe Jalam, o chefe Coré. Esses são os filhos de Oolibama, filha de Ana, mulher de Esaú. \\par",
+      "reference": "Gn 36:18"
+    },
+    "19": {
+      "text": "Esses são os filhos de Esaú, e esses são seus chefes. Ele é Edom. \\par",
+      "reference": "Gn 36:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Descendência de Seir, o horreu\\par }Eis os filhos de Seir, o horreu, os habitantes da terra: Lotã, Sobal, Sebeon, Ana,",
+      "reference": "Gn 36:20"
+    },
+    "21": {
+      "text": "Dison, Eser e Disã, esses são os chefes dos horreus, os filhos de Seir na terra de Edom.",
+      "reference": "Gn 36:21"
+    },
+    "22": {
+      "text": "Os filhos de Lotã foram Hori e Emam, e a irmã de Lotã era Tamna.",
+      "reference": "Gn 36:22"
+    },
+    "23": {
+      "text": "Eis os filhos de Sobal: Alvã, Manaat, Ebal, Sefo, Onam.",
+      "reference": "Gn 36:23"
+    },
+    "24": {
+      "text": "Eis os filhos de Sebeon: Aía, Ana – foi este Ana que encontrou as águas quentes no deserto, quando apascentava os jumentos de seu pai Sebeon.",
+      "reference": "Gn 36:24"
+    },
+    "25": {
+      "text": "Eis os filhos de Ana: Dison, Oolibama, filha de Ana.",
+      "reference": "Gn 36:25"
+    },
+    "26": {
+      "text": "Eis os filhos de Dison: Hamdã, Esebã, Jetrã, Carã.",
+      "reference": "Gn 36:26"
+    },
+    "27": {
+      "text": "Eis os filhos de Eser: Balaã, Zavã, Acã.",
+      "reference": "Gn 36:27"
+    },
+    "28": {
+      "text": "Eis os filhos de Disã: Hus e Arã. \\par",
+      "reference": "Gn 36:28"
+    },
+    "29": {
+      "text": "Eis os chefes dos horreus: o chefe Lotã, o chefe Sobal, o chefe Sebeon, o chefe Ana,",
+      "reference": "Gn 36:29"
+    },
+    "30": {
+      "text": "o chefe Dison, o chefe Eser, o chefe Disã. Esses são os chefes dos horreus, segundo seus clãs, na terra de Seir. \\par",
+      "reference": "Gn 36:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Os reis de Edom\\par }Eis os reis que reinaram na terra de Edom antes que reinasse um rei dos israelitas.",
+      "reference": "Gn 36:31"
+    },
+    "32": {
+      "text": "Em Edom reinou Bela, filho de Beor, e sua cidade se chamava Danaba.",
+      "reference": "Gn 36:32"
+    },
+    "33": {
+      "text": "Bela morreu e em seu lugar reinou Jobab, filho de Zara, de Bosra.",
+      "reference": "Gn 36:33"
+    },
+    "34": {
+      "text": "Jobab morreu e em seu lugar reinou Husam, da terra dos temanitas.",
+      "reference": "Gn 36:34"
+    },
+    "35": {
+      "text": "Husam morreu e em seu lugar reinou Adad, filho de Badad, que derrotou os madianitas no campo de Moab, e sua cidade chamava-se Avit.",
+      "reference": "Gn 36:35"
+    },
+    "36": {
+      "text": "Adad morreu e em seu lugar reinou Semla, de Masreca.",
+      "reference": "Gn 36:36"
+    },
+    "37": {
+      "text": "Semla morreu e em seu lugar reinou Saul, de Reobot Naar.",
+      "reference": "Gn 36:37"
+    },
+    "38": {
+      "text": "Saul morreu e em seu lugar reinou Baalanã, filho de Acobor.",
+      "reference": "Gn 36:38"
+    },
+    "39": {
+      "text": "Baalanã, filho de Acobor, morreu e em seu lugar reinou Adad; sua cidade chamava-se Fau; sua mulher se chamava Meetabel, filha de Matred, de Mezaab. \\par",
+      "reference": "Gn 36:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i Ainda os chefes de Edom\\par }Eis os nomes dos chefes de Esaú, segundo seus clãs e seus lugares, segundo seus nomes: o chefe Tamna, o chefe Alva, o chefe Jetet,",
+      "reference": "Gn 36:40"
+    },
+    "41": {
+      "text": "o chefe Oolibama, o chefe Ela, o chefe Finon,",
+      "reference": "Gn 36:41"
+    },
+    "42": {
+      "text": "o chefe Cenez, o chefe Temã, o chefe Mabsar,",
+      "reference": "Gn 36:42"
+    },
+    "43": {
+      "text": "o chefe Magdiel e o chefe Iram. Esses são os chefes de Edom, segundo suas residências na terra que possuíam. Esaú é o pai de Edom. \\par",
+      "reference": "Gn 36:43"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 43
+}

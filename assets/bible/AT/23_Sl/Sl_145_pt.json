@@ -1,0 +1,97 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 145,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 145 (144)\\par }{\\qc\\b\\i Louvor ao Rei Iahweh\\par }{\\qc\\i Louvor. De Davi.\\par }",
+      "reference": "Sl 145:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Alef\\par } Eu te exalto, ó Rei meu Deus, \\par e bendigo teu nome para sempre e eternamente. \\par \\par {\\qc\\b\\i Bet\\par }Vou te bendizer todos os dias \\par e louvar teu nome para sempre e eternamente. \\par",
+      "reference": "Sl 145:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Guimel\\par }Grande é Iahweh, e muito louvável, \\par é incalculável a sua grandeza. \\par",
+      "reference": "Sl 145:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Dalet\\par }Uma geração apregoa tuas obras à outra, \\par proclamando as tuas façanhas. \\par",
+      "reference": "Sl 145:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Hê\\par }Tua fama é esplendor de glória: \\par vou cantar o relato das tuas maravilhas. \\par",
+      "reference": "Sl 145:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Waw\\par }Falarão do poder dos teus terrores, \\par e eu cantarei a tua grandeza. \\par",
+      "reference": "Sl 145:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Záin\\par }Difundirão a lembrança da tua bondade imensa \\par e aclamarão a tua justiça. \\par",
+      "reference": "Sl 145:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Het\\par }Iahweh é piedade e compaixão, \\par lento para a cólera e cheio de amor, \\par",
+      "reference": "Sl 145:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Tet\\par }Iahweh é bom para todos, \\par compassivo com todas as suas obras. \\par",
+      "reference": "Sl 145:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Yod\\par }Que tuas obras todas te celebrem, Iahweh, \\par e teus fiéis te bendigam; \\par",
+      "reference": "Sl 145:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Kaf\\par }digam da glória do teu reino \\par e falem das tuas façanhas, \\par",
+      "reference": "Sl 145:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par }para anunciar tuas façanhas aos filhos de Adão, \\par e a majestade gloriosa do teu reino. \\par",
+      "reference": "Sl 145:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Mem\\par }Teu reino é reino para os séculos todos, \\par e teu governo para gerações e gerações. \\par",
+      "reference": "Sl 145:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i (Nun)\\par } Iahweh é verdade em suas palavras todas, \\par amor em todas as suas obras; \\par \\par {\\qc\\b\\i Samec\\par }Iahweh ampara todos os que caem \\par e endireita todos os curvados. \\par",
+      "reference": "Sl 145:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Áin\\par }Em ti esperam os olhos de todos \\par e no tempo certo tu lhes dás o alimento: \\par",
+      "reference": "Sl 145:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Pê\\par }abres a tua mão \\par e sacias todo ser vivo à vontade. \\par",
+      "reference": "Sl 145:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Çade\\par }Iahweh é justo em seus caminhos todos, \\par e fiel em todas as suas obras; \\par",
+      "reference": "Sl 145:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Qof\\par }está perto de todos os que o invocam, \\par de todos os que o invocam sinceramente. \\par",
+      "reference": "Sl 145:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Resh\\par }Realiza o desejo dos que o temem, \\par ouve seu grito e os salva. \\par",
+      "reference": "Sl 145:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i Shin\\par }Iahweh guarda todos os que o amam, \\par mas vai destruir todos os ímpios. \\par",
+      "reference": "Sl 145:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Taw\\par }Que minha boca diga o louvor de Iahweh \\par e toda carne bendiga seu nome santo, \\par para sempre e eternamente! \\par",
+      "reference": "Sl 145:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

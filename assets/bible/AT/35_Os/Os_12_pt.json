@@ -1,0 +1,73 @@
+{
+  "book": 28,
+  "book_name": "Oseias",
+  "book_abbr": "Os",
+  "book_category": "Profético",
+  "book_english": "Hosea",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Perversão religiosa e política de Israel\\par }Efraim cercou-me de mentira, \\par e a casa de Israel, de impostura. \\par (Mas Judá está ainda com Deus e é fiel ao Santo.) \\par",
+      "reference": "Os 12:1"
+    },
+    "2": {
+      "text": "Efraim alimenta-se de vento \\par e corre o dia inteiro atrás do vento do oriente; \\par ele multiplica mentira e violência. \\par Eles concluem um pacto com a Assíria \\par e levam óleo para o Egito. \\par",
+      "reference": "Os 12:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Contra Jacó e Efraim\\par }Iahweh está em processo contra Judá, \\par para castigar Jacó segundo a sua conduta; \\par conforme os seus atos ele lhe retribuirá. \\par",
+      "reference": "Os 12:3"
+    },
+    "4": {
+      "text": "No seio materno ele suplantou seu irmão, \\par e em seu vigor lutou com Deus. \\par",
+      "reference": "Os 12:4"
+    },
+    "5": {
+      "text": "Ele lutou contra um anjo e o venceu, \\par ele chorou e lho implorou. \\par Em Betel o reencontrou. \\par Ali ele nos falou. \\par",
+      "reference": "Os 12:5"
+    },
+    "6": {
+      "text": "Iahweh, Deus dos Exércitos, Iahweh é o seu nome. \\par",
+      "reference": "Os 12:6"
+    },
+    "7": {
+      "text": "Tu, porém, voltarás a teu Deus. \\par Guarda o amor e o direito \\par e espera sempre em teu Deus. \\par",
+      "reference": "Os 12:7"
+    },
+    "8": {
+      "text": "Canaã tem em sua mão uma balança falsa, \\par ele gosta de extorquir. \\par",
+      "reference": "Os 12:8"
+    },
+    "9": {
+      "text": "Efraim disse: “Em verdade tornei-me rico, \\par consegui uma fortuna”; \\par mas de todos os seus ganhos nada lhe restará, \\par por causa da falta de que se tornou culpado. \\par",
+      "reference": "Os 12:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Perspectivas de reconciliação\\par }Eu sou Iahweh, teu Deus, desde a terra do Egito. \\par Eu te farei novamente morar em tendas \\par como nos dias do Encontro. \\par",
+      "reference": "Os 12:10"
+    },
+    "11": {
+      "text": "Eu falarei aos profetas, \\par multiplicarei as visões \\par e por meio dos profetas \\par falarei em parábolas. \\par",
+      "reference": "Os 12:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Novas ameaças\\par }Se Galaad é iniqüidade, \\par eles não são senão falsidade; \\par em Guilgal eles sacrificaram aos touros, \\par por isso mesmo seus altares serão como montes de pedras, \\par sobre os sulcos dos campos. \\par",
+      "reference": "Os 12:12"
+    },
+    "13": {
+      "text": "Jacó fugiu para os campos de Aram, \\par Israel serviu por uma mulher \\par e por uma mulher guardou rebanhos. \\par",
+      "reference": "Os 12:13"
+    },
+    "14": {
+      "text": "Mas Iahweh fez Israel subir do Egito por intermédio de um profeta \\par e por intermédio de um profeta ele foi guardado. \\par",
+      "reference": "Os 12:14"
+    },
+    "15": {
+      "text": "Efraim ofendeu-o amargamente, \\par seu senhor descarregará sobre ele o seu sangue \\par e lhe retribuirá o seu ultraje. \\par",
+      "reference": "Os 12:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

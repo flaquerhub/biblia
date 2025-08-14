@@ -1,0 +1,109 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Entrada dos sacerdotes em função\\par }Ao oitavo dia, Moisés chamou Aarão e seus filhos e os anciãos de Israel;",
+      "reference": "Lv 9:1"
+    },
+    "2": {
+      "text": "disse a Aarão: “Toma um bezerro para sacrifício pelo pecado e um carneiro para holocausto, ambos sem defeito, e traze-os perante Iahweh.",
+      "reference": "Lv 9:2"
+    },
+    "3": {
+      "text": "Em seguida dirás aos filhos de Israel: ‘Tomai um bode para sacrifício pelo pecado, um bezerro e um cordeiro de um ano (ambos sem defeito), para holocausto,",
+      "reference": "Lv 9:3"
+    },
+    "4": {
+      "text": "um novilho e um carneiro para sacrifício de comunhão, para serem imolados diante de Iahweh, e também uma oblação amassada com azeite. Hoje, na verdade, Iahweh vos aparecerá’”. \\par",
+      "reference": "Lv 9:4"
+    },
+    "5": {
+      "text": "Trouxeram diante da Tenda da Reunião tudo o que Moisés ordenara, e toda a comunidade aproximou-se e permaneceu de pé diante de Iahweh.",
+      "reference": "Lv 9:5"
+    },
+    "6": {
+      "text": "Disse Moisés: “Isto é o que Iahweh vos ordenou que fizésseis, para que a sua glória vos apareça”.",
+      "reference": "Lv 9:6"
+    },
+    "7": {
+      "text": "Disse então Moisés a Aarão: “Aproxima-te do altar, oferece teu sacrifício pelo pecado e teu holocausto, e faze assim o rito de expiação por ti e pela tua família. Apresenta então a oferenda do povo e faze por ele o rito de expiação conforme Iahweh ordenou”. \\par",
+      "reference": "Lv 9:7"
+    },
+    "8": {
+      "text": "Aarão aproximou-se do altar, imolou o bezerro do sacrifício pelo seu próprio pecado.",
+      "reference": "Lv 9:8"
+    },
+    "9": {
+      "text": "Em seguida os filhos de Aarão apresentaram-lhe o sangue; molhou nele o dedo e o aplicou nos chifres do altar e derramou o sangue na base do altar.",
+      "reference": "Lv 9:9"
+    },
+    "10": {
+      "text": "A gordura do sacrifício pelo pecado, os rins e a massa de gordura que sai do fígado, queimou-os no altar, conforme Iahweh ordenou a Moisés;",
+      "reference": "Lv 9:10"
+    },
+    "11": {
+      "text": "a carne e a pele, queimou-as fora do acampamento. \\par",
+      "reference": "Lv 9:11"
+    },
+    "12": {
+      "text": "Depois imolou o holocausto, cujo sangue os filhos de Aarão lhe apresentaram; ele derramou-o sobre o altar, em redor.",
+      "reference": "Lv 9:12"
+    },
+    "13": {
+      "text": "Também lhe entregaram a vítima dividida em quartos, e a cabeça, e ele os queimou no altar.",
+      "reference": "Lv 9:13"
+    },
+    "14": {
+      "text": "Lavou as entranhas e as patas, e as queimou no altar, em cima do holocausto. \\par",
+      "reference": "Lv 9:14"
+    },
+    "15": {
+      "text": "Apresentou então a oferenda do povo: tomou o bode do sacrifício pelo pecado do povo, imolou-o e ofereceu-o em sacrifício pelo pecado, da mesma maneira como fez com o primeiro.",
+      "reference": "Lv 9:15"
+    },
+    "16": {
+      "text": "Mandou trazer também o holocausto e procedeu de acordo com o rito.",
+      "reference": "Lv 9:16"
+    },
+    "17": {
+      "text": "Em seguida, tendo feito aproximar a oblação, tomou dela um punhado que queimou no altar, além do holocausto da manhã. \\par",
+      "reference": "Lv 9:17"
+    },
+    "18": {
+      "text": "Por fim imolou o novilho e o carneiro em sacrifício de comunhão pelo povo. Os filhos de Aarão entregaram-lhe o sangue, e ele o derramou sobre o altar, em redor.",
+      "reference": "Lv 9:18"
+    },
+    "19": {
+      "text": "As gorduras deste novilho e deste carneiro, a cauda, a gordura que envolve as entranhas, os rins e a massa de gordura que sai do fígado,",
+      "reference": "Lv 9:19"
+    },
+    "20": {
+      "text": "ele os colocou sobre os peitos e queimou tudo no altar.",
+      "reference": "Lv 9:20"
+    },
+    "21": {
+      "text": "Aarão fez o gesto de apresentação diante de Iahweh, com os peitos e a coxa direita, conforme Iahweh ordenou a Moisés. \\par",
+      "reference": "Lv 9:21"
+    },
+    "22": {
+      "text": "Aarão levantou as suas mãos em direção ao povo e o abençoou. Havendo assim realizado o sacrifício pelo pecado, o holocausto e o sacrifício de comunhão, desceu",
+      "reference": "Lv 9:22"
+    },
+    "23": {
+      "text": "e, com Moisés, entrou na Tenda da Reunião. Em seguida saíram ambos para abençoar o povo. A glória de Iahweh apareceu a todo o povo;",
+      "reference": "Lv 9:23"
+    },
+    "24": {
+      "text": "uma chama fulgurou de diante de Iahweh e devorou o holocausto e as gorduras que estavam sobre o altar. Diante do que via, todo o povo soltou brados de júbilo e todos prostraram-se com a face por terra. \\par",
+      "reference": "Lv 9:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

@@ -1,0 +1,129 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 37,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A arca\\par }Beseleel fez a arca de madeira de acácia. De dois côvados e meio era o seu comprimento, de um côvado e meio a largura, e de um côvado e meio a altura.",
+      "reference": "Ex 37:1"
+    },
+    "2": {
+      "text": "Cobriu-a de ouro puro por dentro e por fora; e fez ao redor uma moldura de ouro.",
+      "reference": "Ex 37:2"
+    },
+    "3": {
+      "text": "Fundiu para ela quatro argolas de ouro sobre os seus quatro pés; duas argolas de um lado e duas do outro.",
+      "reference": "Ex 37:3"
+    },
+    "4": {
+      "text": "Fez varais de madeira de acácia, e os cobriu de ouro;",
+      "reference": "Ex 37:4"
+    },
+    "5": {
+      "text": "e os enfiou nas argolas dos lados da arca, para poder transportá-la.",
+      "reference": "Ex 37:5"
+    },
+    "6": {
+      "text": "Fez o propiciatório de ouro puro: dois côvados e meio de comprimento, e um e meio de largura.",
+      "reference": "Ex 37:6"
+    },
+    "7": {
+      "text": "Fez também dois querubins de ouro. De ouro batido os fez nas duas extremidades do propiciatório:",
+      "reference": "Ex 37:7"
+    },
+    "8": {
+      "text": "um querubim numa extremidade e o outro na extremidade oposta. Ele os fez formando um só conjunto com o propiciatório em ambos os lados dele.",
+      "reference": "Ex 37:8"
+    },
+    "9": {
+      "text": "Os querubins tinham as asas estendidas para cima e cobriam com suas asas o propiciatório. Estavam com as faces voltadas uma para a outra, olhando para o propiciatório. \\par",
+      "reference": "Ex 37:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i A mesa dos pães da oblação\\par }Fez também a mesa de madeira de acácia. Tinha o comprimento de dois côvados, a largura de um côvado e a altura de um côvado e meio.",
+      "reference": "Ex 37:10"
+    },
+    "11": {
+      "text": "De ouro puro a cobriu, e lhe fez uma moldura de ouro ao redor.",
+      "reference": "Ex 37:11"
+    },
+    "12": {
+      "text": "Também lhe fez um enquadramento ao redor, com um palmo de largura, e fez uma moldura de ouro ao redor da moldura.",
+      "reference": "Ex 37:12"
+    },
+    "13": {
+      "text": "Fundiu para ela quatro argolas de ouro, e colocou-as nos quatro cantos formados pelos quatro pés.",
+      "reference": "Ex 37:13"
+    },
+    "14": {
+      "text": "As argolas estavam colocadas perto do enquadramento, como lugares para os varais, para se levar a mesa.",
+      "reference": "Ex 37:14"
+    },
+    "15": {
+      "text": "Fez os varais de madeira de acácia e os cobriu de ouro, para se levar a mesa.",
+      "reference": "Ex 37:15"
+    },
+    "16": {
+      "text": "Fez também os acessórios que deviam estar sobre a mesa: os seus pratos, os seus recipientes para o incenso, as suas galhetas e as suas taças para as libações: todos de ouro puro. \\par",
+      "reference": "Ex 37:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i O candelabro\\par }De ouro puro fez o candelabro. De ouro batido o fabricou. O seu pedestal, a sua haste, os seus cálices, as suas maçanetas e flores formavam uma só peça com ele.",
+      "reference": "Ex 37:17"
+    },
+    "18": {
+      "text": "Seis braços saíam dos seus lados: três de um lado e três de outro.",
+      "reference": "Ex 37:18"
+    },
+    "19": {
+      "text": "Três cálices em forma de flor de amêndoas em um braço, um botão e uma flor; e três cálices em forma de flor de amêndoas no outro braço, com o botão e a flor. Assim para os seis braços que saíam do candelabro.",
+      "reference": "Ex 37:19"
+    },
+    "20": {
+      "text": "No candelabro havia quatro cálices em forma de flor de amêndoas, com os seus botões e flores:",
+      "reference": "Ex 37:20"
+    },
+    "21": {
+      "text": "um botão debaixo dos dois primeiros braços que saíam do candelabro, outro debaixo dos outros dois e outro debaixo dos dois últimos que também saíam do candelabro. Assim para os seis braços que saíam do candelabro.",
+      "reference": "Ex 37:21"
+    },
+    "22": {
+      "text": "Os botões e os braços formavam uma só peça com ele: um único bloco de ouro puro batido.",
+      "reference": "Ex 37:22"
+    },
+    "23": {
+      "text": "Fez também as suas lâmpadas, em número de sete. As suas espevitadeiras e os seus aparadores eram de ouro puro.",
+      "reference": "Ex 37:23"
+    },
+    "24": {
+      "text": "Com um talento de ouro puro fez o candelabro e todos os seus acessórios. \\par",
+      "reference": "Ex 37:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i O altar dos perfumes. O óleo da unção e o perfume\\par }Fez o altar dos perfumes de madeira de acácia: um côvado de comprimento, um côvado de largura – era quadrado – e dois côvados de altura. Os seus chifres formavam uma só peça com ele.",
+      "reference": "Ex 37:25"
+    },
+    "26": {
+      "text": "De ouro puro o cobriu: a sua mesa, os seus lados em todo o redor e os seus chifres. E lhe fez uma moldura de ouro ao redor.",
+      "reference": "Ex 37:26"
+    },
+    "27": {
+      "text": "Debaixo dessa moldura lhe fez duas argolas de ouro em cada um dos lados, em ambos os lados, para receber os varais destinados a transportá-lo.",
+      "reference": "Ex 37:27"
+    },
+    "28": {
+      "text": "Fez os varais de madeira de acácia, e os cobriu de ouro.",
+      "reference": "Ex 37:28"
+    },
+    "29": {
+      "text": "Preparou o óleo santo da unção e o perfume aromático – como um perfumista. \\par",
+      "reference": "Ex 37:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

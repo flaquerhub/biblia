@@ -1,0 +1,137 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os cantores\\par }Para os serviços, Davi e os oficiais colocaram à parte os filhos de Asaf, de Emã e de Iditun, os profetas que se serviam de liras, cítaras e címbalos, e contaram-se os homens destinados a esse serviço. \\par",
+      "reference": "1Cr 25:1"
+    },
+    "2": {
+      "text": "Dos filhos de Asaf: Zacur, José, Natanias, Asarela; os filhos de Asaf dependiam de seu pai, que profetizava sob a direção do rei. \\par",
+      "reference": "1Cr 25:2"
+    },
+    "3": {
+      "text": "Quanto a Iditun: filhos de Iditun: Godolias, Sori, Jesaías, Hasabias, Matatias; eram seis, sob a direção de seu pai, Iditun, que profetizava ao som das liras em honra e em louvor de Iahweh. \\par",
+      "reference": "1Cr 25:3"
+    },
+    "4": {
+      "text": "Quanto a Emã: filhos de Emã: Bocias, Matanias, Oziel, Subael, Jerimot, Hananias, Hanani, Eliata, Gedelti, Romenti-Ezer, Jesbacasa, Meiloti, Otir, Maaziot.",
+      "reference": "1Cr 25:4"
+    },
+    "5": {
+      "text": "Todos esses eram filhos de Emã o vidente do rei; às palavras de Deus, eles soavam a trombeta. Deus deu a Emã quatorze filhos e três filhas;",
+      "reference": "1Cr 25:5"
+    },
+    "6": {
+      "text": "todos eles cantavam no Templo de Iahweh sob a direção de seu pai, ao som dos címbalos, das cítaras e das liras, para o serviço do Templo de Deus, sob as ordens do rei. \\par Asaf, Iditun e Emã,",
+      "reference": "1Cr 25:6"
+    },
+    "7": {
+      "text": "os que tinham aprendido a cantar para Iahweh, foram computados com seus irmãos; eram duzentos e oitenta e oito, todos hábeis no ofício.",
+      "reference": "1Cr 25:7"
+    },
+    "8": {
+      "text": "Sortearam a ordem a se observar, tanto para o pequeno como para o grande, para o mestre como para o aluno.",
+      "reference": "1Cr 25:8"
+    },
+    "9": {
+      "text": "O primeiro sobre o qual recaiu a sorte foi o asafita José. O segundo foi Godolias; com seus filhos e irmãos eram doze.",
+      "reference": "1Cr 25:9"
+    },
+    "10": {
+      "text": "O terceiro foi Zacur; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:10"
+    },
+    "11": {
+      "text": "O quarto foi Isari; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:11"
+    },
+    "12": {
+      "text": "O quinto foi Natanias; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:12"
+    },
+    "13": {
+      "text": "O sexto foi Bocias; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:13"
+    },
+    "14": {
+      "text": "O sétimo foi Isreela; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:14"
+    },
+    "15": {
+      "text": "O oitavo foi Jesaías; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:15"
+    },
+    "16": {
+      "text": "O nono foi Matanias; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:16"
+    },
+    "17": {
+      "text": "O décimo foi Semei; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:17"
+    },
+    "18": {
+      "text": "O décimo primeiro foi Azareel; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:18"
+    },
+    "19": {
+      "text": "O décimo segundo foi Hasabias; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:19"
+    },
+    "20": {
+      "text": "O décimo terceiro foi Subael; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:20"
+    },
+    "21": {
+      "text": "O décimo quarto foi Matatias; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:21"
+    },
+    "22": {
+      "text": "O décimo quinto foi Jerimot; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:22"
+    },
+    "23": {
+      "text": "O décimo sexto foi Hananias; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:23"
+    },
+    "24": {
+      "text": "O décimo sétimo foi Jesbacasa; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:24"
+    },
+    "25": {
+      "text": "O décimo oitavo foi Hanani; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:25"
+    },
+    "26": {
+      "text": "O décimo nono foi Meiloti; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:26"
+    },
+    "27": {
+      "text": "O vigésimo foi Eliata; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:27"
+    },
+    "28": {
+      "text": "O vigésimo primeiro foi Otir; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:28"
+    },
+    "29": {
+      "text": "O vigésimo segundo foi Gedelti; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:29"
+    },
+    "30": {
+      "text": "O vigésimo terceiro foi Maaziot; com seus filhos e irmãos, eram doze.",
+      "reference": "1Cr 25:30"
+    },
+    "31": {
+      "text": "O vigésimo quarto foi Romenti-Ezer; com seus filhos e irmãos, eram doze. \\par",
+      "reference": "1Cr 25:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

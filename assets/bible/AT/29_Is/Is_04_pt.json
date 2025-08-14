@@ -1,0 +1,37 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "E naquele dia, sete mulheres lançarão mão de um homem e lhe dirão: “Comeremos do nosso pão e nos vestiremos às nossas custas, contanto que nos seja permitido usar o teu nome. Livra-nos da nossa humilhação”. \\par",
+      "reference": "Is 4:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i O rebento de Iahweh\\par }Naquele dia, o rebento de Iahweh se cobrirá de beleza e de glória, \\par o fruto da terra será motivo de orgulho e um esplendor \\par para os sobreviventes de Israel. \\par",
+      "reference": "Is 4:2"
+    },
+    "3": {
+      "text": "Então o resto de Sião e o remanescente de Jerusalém serão chamados santos, \\par a saber, o que está inscrito para a vida em Jerusalém. \\par",
+      "reference": "Is 4:3"
+    },
+    "4": {
+      "text": "Quando o Senhor tiver lavado a imundície das filhas de Sião \\par e o sangue de Jerusalém do meio dela, \\par pelo sopro do seu julgamento, sopro de fogo abrasador. \\par",
+      "reference": "Is 4:4"
+    },
+    "5": {
+      "text": "Iahweh criará sobre todos os pontos \\par do monte Sião e sobre todos os ajuntamentos de povo \\par uma nuvem de dia \\par e um fumo acompanhado de um clarão de fogo durante a noite. \\par Com efeito, sobre todas as coisas sua glória será um abrigo",
+      "reference": "Is 4:5"
+    },
+    "6": {
+      "text": "e uma choupana, \\par para servir de sombra de dia contra o calor, \\par e para ser um refúgio e esconderijo da tempestade e da chuva. \\par",
+      "reference": "Is 4:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

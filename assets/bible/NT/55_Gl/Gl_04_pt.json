@@ -1,0 +1,137 @@
+{
+  "book": 48,
+  "book_name": "Gálatas",
+  "book_abbr": "Gl",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Galatians",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Filiação divina\\par }Ora, eu digo: enquanto o herdeiro é menor, embora dono de tudo, em nada difere de um escravo.",
+      "reference": "Gl 4:1"
+    },
+    "2": {
+      "text": "Ele fica debaixo de tutores e curadores até a data estabelecida pelo pai.",
+      "reference": "Gl 4:2"
+    },
+    "3": {
+      "text": "Assim também nós, quando éramos menores, estávamos reduzidos à condição de escravos, debaixo dos elementos do mundo.",
+      "reference": "Gl 4:3"
+    },
+    "4": {
+      "text": "Quando, porém, chegou a plenitude do tempo, enviou Deus o seu Filho, nascido de uma mulher, nascido sob a Lei,",
+      "reference": "Gl 4:4"
+    },
+    "5": {
+      "text": "para remir os que estavam sob a Lei, a fim de que recebêssemos a adoção filial.",
+      "reference": "Gl 4:5"
+    },
+    "6": {
+      "text": "E porque sois filhos, enviou Deus aos nossos corações o Espírito do seu Filho, que clama: {\\i Abba}, Pai!",
+      "reference": "Gl 4:6"
+    },
+    "7": {
+      "text": "De modo que já não és escravo, mas filho. E se és filho, és também herdeiro, graças a Deus. \\par",
+      "reference": "Gl 4:7"
+    },
+    "8": {
+      "text": "Outrora, é verdade, não conhecendo a Deus, servistes a deuses, que na realidade não o são.",
+      "reference": "Gl 4:8"
+    },
+    "9": {
+      "text": "Mas agora, conhecendo a Deus, ou melhor, sendo conhecidos por Deus, como é possível voltardes novamente a estes fracos e miseráveis elementos aos quais vos quereis escravizar outra vez?",
+      "reference": "Gl 4:9"
+    },
+    "10": {
+      "text": "Observais cuidadosamente dias, meses, estações, anos!",
+      "reference": "Gl 4:10"
+    },
+    "11": {
+      "text": "Receio ter-me afadigado em vão por vós. \\par",
+      "reference": "Gl 4:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Recordações pessoais\\par }Eu vos suplico, irmãos, que vos torneis como eu, pois eu também me tornei como vós. Em nada me ofendestes.",
+      "reference": "Gl 4:12"
+    },
+    "13": {
+      "text": "Bem o sabeis, foi por causa de uma doença que eu vos evangelizei pela primeira vez.",
+      "reference": "Gl 4:13"
+    },
+    "14": {
+      "text": "E vós não mostrastes desprezo nem desgosto, em face da vossa provação na minha carne; pelo contrário, me recebestes como um anjo de Deus, como Cristo Jesus.",
+      "reference": "Gl 4:14"
+    },
+    "15": {
+      "text": "Onde estão agora as vossas felicitações? Pois eu vos testemunho que, se vos fosse possível, teríeis arrancado os olhos para dá-los a mim.",
+      "reference": "Gl 4:15"
+    },
+    "16": {
+      "text": "Então, dizendo-vos a verdade, eu me tornei vosso inimigo?",
+      "reference": "Gl 4:16"
+    },
+    "17": {
+      "text": "Não é para o bem que eles vos cortejam. O que querem é separar-vos de mim para que vós os cortejeis a eles.",
+      "reference": "Gl 4:17"
+    },
+    "18": {
+      "text": "É bom ser cortejado para o bem sempre, e não só quando estou presente entre vós,",
+      "reference": "Gl 4:18"
+    },
+    "19": {
+      "text": "meus filhos, por quem eu sofro de novo as dores do parto, até que Cristo seja formado em vós.",
+      "reference": "Gl 4:19"
+    },
+    "20": {
+      "text": "Quisera estar no meio de vós agora e mudar o tom da voz, pois não sei que atitude tomar a vosso respeito. \\par",
+      "reference": "Gl 4:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i As duas alianças: Agar e Sara\\par }Dizei-me, vós que quereis estar debaixo da Lei, não ouvis vós a Lei?",
+      "reference": "Gl 4:21"
+    },
+    "22": {
+      "text": "Pois está escrito que Abraão teve dois filhos, um da serva e outro da livre.",
+      "reference": "Gl 4:22"
+    },
+    "23": {
+      "text": "Mas o da serva nasceu segundo a carne; o da livre, em virtude da promessa.",
+      "reference": "Gl 4:23"
+    },
+    "24": {
+      "text": "Isto foi dito em alegoria. Elas, com efeito, são as duas alianças; uma, a do monte Sinai, gerando para a escravidão: é Agar",
+      "reference": "Gl 4:24"
+    },
+    "25": {
+      "text": "(porque o Sinai está na Arábia), e ela corresponde à Jerusalém de agora, que de fato é escrava com seus filhos.",
+      "reference": "Gl 4:25"
+    },
+    "26": {
+      "text": "Mas a Jerusalém do alto é livre e esta é a nossa mãe,",
+      "reference": "Gl 4:26"
+    },
+    "27": {
+      "text": "segundo está escrito: \\par {\\i Alegra-te, estéril, que não davas à luz, \\par põe-te a gritar de alegria, \\par tu que não conheceste as dores do parto, \\par porque mais numerosos são os filhos da abandonada \\par do que os daquela que tem marido.}\\par",
+      "reference": "Gl 4:27"
+    },
+    "28": {
+      "text": "Ora, vós, irmãos, como Isaac, sois filhos da promessa.",
+      "reference": "Gl 4:28"
+    },
+    "29": {
+      "text": "Mas como então o nascido segundo a carne perseguia o nascido segundo o espírito, assim também agora.",
+      "reference": "Gl 4:29"
+    },
+    "30": {
+      "text": "Mas que diz a Escritura? {\\i Expulsa a serva e o filho dela, pois o filho da serva não herdará com o filho da livre.}",
+      "reference": "Gl 4:30"
+    },
+    "31": {
+      "text": "Portanto, irmãos, não somos filhos de uma serva, mas da livre. \\par",
+      "reference": "Gl 4:31"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 31
+}

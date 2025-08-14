@@ -1,0 +1,109 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O sacrifício de Abraão\\par }Depois desses acontecimentos, sucedeu que Deus pôs Abraão à prova e lhe disse: “Abraão! Abraão!” Ele respondeu: “Eis-me aqui!”",
+      "reference": "Gn 22:1"
+    },
+    "2": {
+      "text": "Deus disse: “Toma teu filho, teu único, que amas, Isaac, e vai à terra de Moriá, e lá o oferecerás em holocausto sobre uma montanha que eu te indicarei”. \\par",
+      "reference": "Gn 22:2"
+    },
+    "3": {
+      "text": "Abraão se levantou cedo, selou seu jumento e tomou consigo dois de seus servos e seu filho Isaac. Ele rachou a lenha do holocausto e se pôs a caminho para o lugar que Deus havia indicado.",
+      "reference": "Gn 22:3"
+    },
+    "4": {
+      "text": "No terceiro dia, Abraão, levantando os olhos, viu de longe o lugar.",
+      "reference": "Gn 22:4"
+    },
+    "5": {
+      "text": "Abraão disse a seus servos: “Permanecei aqui com o jumento. Eu e o menino iremos até lá, adoraremos e voltaremos a vós”. \\par",
+      "reference": "Gn 22:5"
+    },
+    "6": {
+      "text": "Abraão tomou a lenha do holocausto e a colocou sobre seu filho Isaac, tendo ele mesmo tomado nas mãos o fogo e o cutelo, e foram-se os dois juntos.",
+      "reference": "Gn 22:6"
+    },
+    "7": {
+      "text": "Isaac dirigiu-se a seu pai Abraão e disse: “Meu pai!” Ele respondeu: “Sim, meu filho!” – “Eis o fogo e a lenha”, retomou ele, “mas onde está o cordeiro para o holocausto?”",
+      "reference": "Gn 22:7"
+    },
+    "8": {
+      "text": "Abraão respondeu: “É Deus quem proverá o cordeiro para o holocausto, meu filho”, e foram-se os dois juntos. \\par",
+      "reference": "Gn 22:8"
+    },
+    "9": {
+      "text": "Quando chegaram ao lugar que Deus lhe indicara, Abraão construiu o altar, dispôs a lenha, depois amarrou seu filho e o colocou sobre o altar, em cima da lenha.",
+      "reference": "Gn 22:9"
+    },
+    "10": {
+      "text": "Abraão estendeu a mão e apanhou o cutelo para imolar seu filho. \\par",
+      "reference": "Gn 22:10"
+    },
+    "11": {
+      "text": "Mas o Anjo de Iahweh o chamou do céu e disse: “Abraão! Abraão!” Ele respondeu: “Eis-me aqui!”",
+      "reference": "Gn 22:11"
+    },
+    "12": {
+      "text": "O Anjo disse: “Não estendas a mão contra o menino! Não lhe faças nenhum mal! Agora sei que temes a Deus: tu não me recusaste teu filho, teu único”.",
+      "reference": "Gn 22:12"
+    },
+    "13": {
+      "text": "Abraão ergueu os olhos e viu um cordeiro, preso pelos chifres num arbusto; Abraão foi pegar o cordeiro e o ofereceu em holocausto no lugar de seu filho.",
+      "reference": "Gn 22:13"
+    },
+    "14": {
+      "text": "A este lugar Abraão deu o nome de “Iahweh proverá”, de sorte que se diz hoje: “Sobre a montanha, Iahweh proverá”. \\par",
+      "reference": "Gn 22:14"
+    },
+    "15": {
+      "text": "O Anjo de Iahweh chamou uma segunda vez a Abraão, do céu,",
+      "reference": "Gn 22:15"
+    },
+    "16": {
+      "text": "dizendo: “Juro por mim mesmo, palavra de Iahweh: porque me fizeste isso, porque não me recusaste teu filho, teu único,",
+      "reference": "Gn 22:16"
+    },
+    "17": {
+      "text": "eu te cumularei de bênçãos, eu te darei uma posteridade tão numerosa quanto as estrelas do céu e quanto a areia que está na praia do mar, e tua posteridade conquistará a porta de seus inimigos.",
+      "reference": "Gn 22:17"
+    },
+    "18": {
+      "text": "Por tua posteridade serão abençoadas todas as nações da terra, porque tu me obedeceste”. \\par",
+      "reference": "Gn 22:18"
+    },
+    "19": {
+      "text": "Abraão voltou aos seus servos e juntos puseram-se a caminho para Bersabéia. Abraão residiu em Bersabéia. \\par",
+      "reference": "Gn 22:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i A descendência de Nacor\\par }Depois desses acontecimentos anunciou-se a Abraão que Melca também dera filhos a seu irmão Nacor:",
+      "reference": "Gn 22:20"
+    },
+    "21": {
+      "text": "seu primogênito Hus, Buz, seu irmão, Camuel, pai de Aram,",
+      "reference": "Gn 22:21"
+    },
+    "22": {
+      "text": "Cased, Azau, Feldas, Jedlad, Batuel",
+      "reference": "Gn 22:22"
+    },
+    "23": {
+      "text": "(e Batuel gerou Rebeca). São os oito filhos que Melca deu a Nacor, o irmão de Abraão.",
+      "reference": "Gn 22:23"
+    },
+    "24": {
+      "text": "Ele tinha uma concubina, chamada Roma, que também teve filhos: Tabé, Gaam, Taás e Maaca. \\par",
+      "reference": "Gn 22:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

@@ -1,0 +1,61 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 56,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. Terceira parte do livro de Isaías}\\par }{\\qc\\b\\i Promessa aos estrangeiros\\par }Assim diz Iahweh: \\par Observai o direito e praticai a justiça, \\par porque a minha salvação está prestes a chegar \\par e a minha justiça, a manifestar-se. \\par",
+      "reference": "Is 56:1"
+    },
+    "2": {
+      "text": "Bem-aventurado o homem que assim procede, \\par o filho do homem que nisto se firma, \\par que guarda o sábado e não o profana \\par e que guarda sua mão de praticar o mal. \\par",
+      "reference": "Is 56:2"
+    },
+    "3": {
+      "text": "Não diga o estrangeiro que se entregou a Iahweh: \\par “Naturalmente Iahweh vai excluir-me do seu povo”, \\par nem diga o eunuco: \\par “Não há dúvida, eu não passo de uma árvore seca”, \\par",
+      "reference": "Is 56:3"
+    },
+    "4": {
+      "text": "pois assim diz Iahweh aos eunucos que guardam os meus sábados \\par e optam por aquilo que é a minha vontade, \\par permanecendo fiéis à minha aliança: \\par",
+      "reference": "Is 56:4"
+    },
+    "5": {
+      "text": "Hei de dar-lhes, na minha casa e dentro dos meus muros, \\par um monumento e um nome mais preciosos do que teriam como filhos e filhas; \\par hei de dar-lhes um nome eterno, que não será extirpado. \\par",
+      "reference": "Is 56:5"
+    },
+    "6": {
+      "text": "E quanto aos estrangeiros que se entregaram a Iahweh para servi-lo, \\par sim, para amar o nome de Iahweh e tornarem-se servos seus, \\par a saber, todos os que se abstêm de profanar o sábado \\par e que se mantêm fiéis à minha aliança, \\par",
+      "reference": "Is 56:6"
+    },
+    "7": {
+      "text": "trá-los-ei ao meu monte santo e os cobrirei de alegria na minha casa de oração. \\par Os seus holocaustos e os seus sacrifícios serão bem aceitos no meu altar. \\par Com efeito, a minha casa será chamada \\par casa de oração para todos os povos. \\par",
+      "reference": "Is 56:7"
+    },
+    "8": {
+      "text": "Oráculo do Senhor Iahweh, que reúne os dispersos de Israel: \\par Reunirei ainda outros àqueles que já foram reunidos. \\par",
+      "reference": "Is 56:8"
+    },
+    "9": {
+      "text": "Vós, todos os animais do campo, vinde refestelar-vos, \\par e todos vós, animais do bosque. \\par",
+      "reference": "Is 56:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Indignidade dos chefes\\par }Todas as sentinelas são cegas, nada percebem; \\par todas elas são uns cães mudos, incapazes de latir; \\par vivem a resfolegar deitados, gostam de dormir. \\par",
+      "reference": "Is 56:10"
+    },
+    "11": {
+      "text": "Os cães são vorazes: desconhecem a saciedade; \\par são pastores incapazes de compreender. \\par Todos seguem o seu próprio caminho: \\par cada um deles, até o último, volta-se para o seu interesse, dizendo: \\par",
+      "reference": "Is 56:11"
+    },
+    "12": {
+      "text": "“Vinde, vou buscar vinho, embriaguemo-nos com bebida forte; \\par amanhã será como hoje, um dia incomparavelmente grandioso!” \\par",
+      "reference": "Is 56:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

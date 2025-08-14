@@ -1,0 +1,81 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i II. Oráculos contra as nações}\\par }{\\qc\\b\\i Contra os amonitas\\par }A palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Ez 25:1"
+    },
+    "2": {
+      "text": "Filho do homem, volta a tua face em direção dos amonitas e profetiza contra eles.",
+      "reference": "Ez 25:2"
+    },
+    "3": {
+      "text": "Eis o que dirás aos amonitas: Ouvi a palavra do Senhor Iahweh. Assim diz o Senhor Iahweh: \\par Pois que dizes “Viva!” porque o meu santuário foi profanado e porque a terra de Israel ficou deserta e porque a casa de Judá foi para o exílio,",
+      "reference": "Ez 25:3"
+    },
+    "4": {
+      "text": "por tudo isso vou entregar-te ao domínio dos filhos do Oriente: eles estabelecerão os seus acampamentos no meio de ti e em ti farão a sua morada. Comerão os teus frutos e beberão o teu leite.",
+      "reference": "Ez 25:4"
+    },
+    "5": {
+      "text": "De Rabá farei um pasto de camelos e das cidades de Amon um aprisco de ovelhas. Assim sabereis que eu sou Iahweh. \\par",
+      "reference": "Ez 25:5"
+    },
+    "6": {
+      "text": "Com efeito, assim diz o Senhor Iahweh: \\par Visto que bateste as mãos e sapateaste com os pés, em sinal de regozijo – com a alma cheia de desprezo diante do que ocorreu à terra de Israel,",
+      "reference": "Ez 25:6"
+    },
+    "7": {
+      "text": "também eu estendi a minha mão contra ti, a fim de entregar-te ao saque das nações, extirpando-te dentre os povos e fazendo-te perecer dentre as terras. Sim, eu te destruirei e saberás que eu sou Iahweh. \\par",
+      "reference": "Ez 25:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Contra Moab\\par }Assim diz o Senhor Iahweh: \\par Pois que Moab e Seir dizem: “Afinal a casa de Judá é semelhante a todas as nações”,",
+      "reference": "Ez 25:8"
+    },
+    "9": {
+      "text": "eu exporei as alturas de Moab e as suas cidades deixarão inteiramente de ser cidades, sim, estas jóias da terra, a saber, Bet-Jesimot, Baal-Meon e Cariataim,",
+      "reference": "Ez 25:9"
+    },
+    "10": {
+      "text": "entregá-las-ei ao domínio dos filhos do Oriente, junto com os amonitas, a fim de não serem mais lembradas entre as nações.",
+      "reference": "Ez 25:10"
+    },
+    "11": {
+      "text": "Deste modo executarei julgamento em Moab e saberão que eu sou Iahweh. \\par",
+      "reference": "Ez 25:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Contra Edom\\par }Assim diz o Senhor Iahweh: \\par Pois que Edom se vingou contra a casa de Judá e, vingando-se dela, incorreu em culpa grave,",
+      "reference": "Ez 25:12"
+    },
+    "13": {
+      "text": "por esta razão – assim diz o Senhor Iahweh – também eu estenderei a minha mão e extirparei dela homens e animais, reduzindo-a a uma desolação. Desde Temã até Dadã cairão à espada.",
+      "reference": "Ez 25:13"
+    },
+    "14": {
+      "text": "Porei a minha vingança contra Edom nas mãos do meu povo Israel. Ele agirá em Edom, de acordo com a minha ira e com a minha cólera, conhecerão a minha vingança, oráculo do Senhor Iahweh. \\par",
+      "reference": "Ez 25:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Contra os filisteus\\par }Assim diz o Senhor Iahweh: \\par Visto que os filisteus se entregam à vingança e praticam a vingança com a alma cheia de desprezo, procurando destruir com ódio eterno,",
+      "reference": "Ez 25:15"
+    },
+    "16": {
+      "text": "também eu – diz o Senhor Iahweh – estenderei a minha mão contra os filisteus e extirparei os cereteus e farei perecer o resto dos habitantes da costa.",
+      "reference": "Ez 25:16"
+    },
+    "17": {
+      "text": "Exercerei contra eles uma grande vingança e os castigarei violentamente, para que saibam que eu sou Iahweh quando eu lhes impuser a minha vingança. \\par",
+      "reference": "Ez 25:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

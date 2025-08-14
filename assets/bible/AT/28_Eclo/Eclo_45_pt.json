@@ -1,0 +1,117 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 45,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Moisés\\par }Fez sair dele um homem de bem \\par que encontrou favor aos olhos de todo o mundo, \\par amado por Deus e pelos homens, \\par Moisés, cuja memória é uma bênção. \\par",
+      "reference": "Eclo 45:1"
+    },
+    "2": {
+      "text": "Equiparou-o em glória aos santos \\par e tornou-o poderoso para o terror dos inimigos. \\par",
+      "reference": "Eclo 45:2"
+    },
+    "3": {
+      "text": "Pela palavra de Moisés fez cessar os prodígios \\par e glorificou-o em presença dos reis; \\par deu-lhe mandamentos para o seu povo \\par e fez-lhe ver algo de sua glória. \\par",
+      "reference": "Eclo 45:3"
+    },
+    "4": {
+      "text": "Na sua fidelidade e doçura ele o santificou, \\par escolheu-o entre todos os viventes; \\par",
+      "reference": "Eclo 45:4"
+    },
+    "5": {
+      "text": "fez-lhe ouvir a sua voz \\par e o introduziu nas trevas; \\par deu-lhe face a face os mandamentos, \\par uma lei de vida e de inteligência, \\par para ensinar a Jacó suas prescrições \\par e seus decretos a Israel. \\par",
+      "reference": "Eclo 45:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Aarão\\par }Elevou Aarão, um santo semelhante a Moisés, \\par seu irmão, da tribo de Levi. \\par",
+      "reference": "Eclo 45:6"
+    },
+    "7": {
+      "text": "Fez com ele uma aliança eterna \\par e deu-lhe o sacerdócio do povo. \\par Fê-lo feliz com o seu ornamento \\par e cobriu-o com uma veste gloriosa. \\par",
+      "reference": "Eclo 45:7"
+    },
+    "8": {
+      "text": "Revestiu-o de uma glória perfeita \\par e preparou-lhe ricos ornamentos, \\par calções, túnicas e efod. \\par",
+      "reference": "Eclo 45:8"
+    },
+    "9": {
+      "text": "Para circuncidar sua veste, deu-lhe romãs \\par e numerosas campainhas de ouro, em todo redor, \\par para tinir a cada passo seu, \\par e fazer ouvir, no templo, um eco, \\par como um memorial para os filhos de seu povo; \\par",
+      "reference": "Eclo 45:9"
+    },
+    "10": {
+      "text": "e uma veste sagrada de ouro, de púrpura violeta, \\par de escarlate, obra de um bordador; \\par o peitoral do julgamento, o {\\i Urim} e o {\\i Tummim}, \\par de carmesim retorcido, obra de um tecelão; \\par",
+      "reference": "Eclo 45:10"
+    },
+    "11": {
+      "text": "pedras preciosas gravadas em forma de selo, \\par num engaste de ouro, obra de um joalheiro, \\par por memorial, uma inscrição gravada, \\par segundo o número das tribos de Israel; \\par",
+      "reference": "Eclo 45:11"
+    },
+    "12": {
+      "text": "e um diadema de ouro sobre o turbante, \\par trazendo, gravada, a inscrição de consagração, \\par decoração soberba, trabalho magnífico, \\par delícia para os olhos são esses ornamentos. \\par",
+      "reference": "Eclo 45:12"
+    },
+    "13": {
+      "text": "Nada de semelhante houve antes dele \\par e jamais um estrangeiro os vestiu, \\par mas somente os seus filhos \\par e seus descendentes para sempre. \\par",
+      "reference": "Eclo 45:13"
+    },
+    "14": {
+      "text": "Seus sacrifícios se consumirão inteiramente \\par duas vezes por dia, sem interrupção. \\par",
+      "reference": "Eclo 45:14"
+    },
+    "15": {
+      "text": "Moisés o consagrou \\par e o ungiu com o óleo santo. \\par Foi para ele uma aliança eterna, \\par assim como para a sua raça, enquanto durarem os céus, \\par para que ele presida o culto, exerça o sacerdócio \\par e abençoe o povo em nome do Senhor. \\par",
+      "reference": "Eclo 45:15"
+    },
+    "16": {
+      "text": "Ele o escolheu entre todos os viventes \\par para oferecer o sacrifício do Senhor, \\par o incenso e o perfume, como memorial, \\par para fazer a expiação por seu povo. \\par",
+      "reference": "Eclo 45:16"
+    },
+    "17": {
+      "text": "Deu-lhe os seus mandamentos, \\par confiou-lhe as prescrições da lei, \\par para que ele ensine a Jacó seus testemunhos \\par e esclareça Israel sobre sua lei. \\par",
+      "reference": "Eclo 45:17"
+    },
+    "18": {
+      "text": "Os estrangeiros coligaram-se contra ele, \\par eles o invejaram no deserto, \\par homens de Datã e de Abiram, \\par o bando de Coré, odioso e violento. \\par",
+      "reference": "Eclo 45:18"
+    },
+    "19": {
+      "text": "O Senhor os viu e irritou-se, \\par eles foram exterminados em sua cólera. \\par Por eles fez prodígios, \\par consumindo-os pelo seu fogo em chamas. \\par",
+      "reference": "Eclo 45:19"
+    },
+    "20": {
+      "text": "Ele aumentou a glória de Aarão, \\par deu-lhe um patrimônio, \\par destinou-lhe as oferendas das primícias, \\par em primeiro lugar pão em abundância. \\par",
+      "reference": "Eclo 45:20"
+    },
+    "21": {
+      "text": "E que comessem também dos sacrifícios do Senhor, \\par deu-os a ele e à sua prosperidade. \\par",
+      "reference": "Eclo 45:21"
+    },
+    "22": {
+      "text": "Mas na terra ele não terá herança, \\par ele não tem porção no meio do povo, \\par “Porque sou eu a tua parte de herança”. \\par",
+      "reference": "Eclo 45:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Finéias\\par }Quanto a Finéias, filho de Eleazar, ele é o terceiro em glória, \\par por seu zelo no temor do Senhor, \\par por ter ficado firme diante da revolta do povo \\par com uma nobre coragem; \\par assim ele obteve o perdão para Israel. \\par",
+      "reference": "Eclo 45:23"
+    },
+    "24": {
+      "text": "Por isso foi celebrada com ele uma aliança de paz, \\par que o fazia chefe do santuário e do povo, \\par de sorte que a ele e à sua descendência \\par pertencesse a dignidade de sumo sacerdote para sempre. \\par",
+      "reference": "Eclo 45:24"
+    },
+    "25": {
+      "text": "Houve uma aliança com Davi, \\par filho de Jesse, da tribo de Judá, \\par sucessão real, do pai a um só dos filhos. \\par Mas a de Aarão passa a todos os seus descendentes. \\par",
+      "reference": "Eclo 45:25"
+    },
+    "26": {
+      "text": "Que o Senhor dê a vossos corações a sabedoria \\par para julgardes seu povo com justiça, \\par a fim de que as virtudes dos antepassados não desapareçam em nada, \\par e que a sua glória passe a seus descendentes. \\par",
+      "reference": "Eclo 45:26"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 26
+}

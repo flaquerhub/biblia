@@ -1,0 +1,113 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 5. CONCLUSÃO DO DIÁLOGO\\par }{\\qc\\b\\i Queixas e apologia de Jó: A. Os tempos antigos\\par }Jó continuou a exprimir-se em sentenças e disse: \\par",
+      "reference": "Jó 29:1"
+    },
+    "2": {
+      "text": "Quem me dera voltar aos meses de antanho, \\par aos dias em que Deus velava por mim; \\par",
+      "reference": "Jó 29:2"
+    },
+    "3": {
+      "text": "quando sua lâmpada brilhava sobre minha cabeça \\par e à sua luz eu andava na escuridão! \\par",
+      "reference": "Jó 29:3"
+    },
+    "4": {
+      "text": "Pudesse eu rever os dias do meu outono, \\par quando Deus protegia minha tenda \\par",
+      "reference": "Jó 29:4"
+    },
+    "5": {
+      "text": "e Shaddai ainda estava comigo \\par e meus filhos me rodeavam! \\par",
+      "reference": "Jó 29:5"
+    },
+    "6": {
+      "text": "Banhava meus pés em creme de leite, \\par e a rocha me dava rios de azeite. \\par",
+      "reference": "Jó 29:6"
+    },
+    "7": {
+      "text": "Quando me dirigia à porta da cidade \\par e tomava assento na praça, \\par",
+      "reference": "Jó 29:7"
+    },
+    "8": {
+      "text": "os jovens ao ver-me se retiravam, \\par os anciãos se levantavam e ficavam de pé, \\par",
+      "reference": "Jó 29:8"
+    },
+    "9": {
+      "text": "os chefes interrompiam suas conversas, \\par pondo a mão sobre a boca; \\par",
+      "reference": "Jó 29:9"
+    },
+    "10": {
+      "text": "emudecia a voz dos líderes \\par e sua língua se colava ao céu da boca. \\par {\\super (21)} Ouviam-me com grande expectativa, \\par e em silêncio escutavam meu conselho. \\par {\\super (22)} Quando acabava de falar, ninguém replicava, \\par minhas palavras ficavam gotejando sobre eles; \\par {\\super (23)} esperavam-nas como chuvisco, \\par como quem abre a boca ávida para a chuva tardia. \\par {\\super (24)} Sorria para eles, mal o acreditavam \\par e não perdiam nenhum gesto favorável. \\par {\\super (25)} Sentado como chefe, eu escolhi seu caminho; \\par como um rei instalado no meio de suas tropas, \\par guiava-os e eles se deixavam conduzir. \\par",
+      "reference": "Jó 29:10"
+    },
+    "11": {
+      "text": "Quem me ouvia falar felicitava-me, \\par quem me via dava testemunho de mim; \\par",
+      "reference": "Jó 29:11"
+    },
+    "12": {
+      "text": "porque eu livrava o pobre que pedia socorro \\par e o órfão que não tinha auxílio. \\par",
+      "reference": "Jó 29:12"
+    },
+    "13": {
+      "text": "A bênção do moribundo pousava sobre mim, \\par e eu alegrava o coração da viúva. \\par",
+      "reference": "Jó 29:13"
+    },
+    "14": {
+      "text": "A justiça vestia-se como túnica, \\par o direito era meu manto e meu turbante. \\par",
+      "reference": "Jó 29:14"
+    },
+    "15": {
+      "text": "Eu era olhos para o cego, \\par era pés para o coxo. \\par",
+      "reference": "Jó 29:15"
+    },
+    "16": {
+      "text": "Era o pai dos pobres \\par e examinava a causa de um desconhecido. \\par",
+      "reference": "Jó 29:16"
+    },
+    "17": {
+      "text": "Quebrava as mandíbulas do malvado, \\par para arrancar-lhe a presa dos dentes. \\par",
+      "reference": "Jó 29:17"
+    },
+    "18": {
+      "text": "E pensava: “Morrerei na minha altivez, \\par depois de dias numerosos como areia; \\par",
+      "reference": "Jó 29:18"
+    },
+    "19": {
+      "text": "minhas raízes estendidas até a água, \\par o orvalho pousando em minha ramagem, \\par",
+      "reference": "Jó 29:19"
+    },
+    "20": {
+      "text": "minha honra ser-me-á sempre nova, \\par em minha mão o meu arco retomará força”. \\par",
+      "reference": "Jó 29:20"
+    },
+    "21": {
+      "text": "{\\cf15 [Veja v. 10]}",
+      "reference": "Jó 29:21"
+    },
+    "22": {
+      "text": "{\\cf15 [Veja v. 10]}",
+      "reference": "Jó 29:22"
+    },
+    "23": {
+      "text": "{\\cf15 [Veja v. 10]}",
+      "reference": "Jó 29:23"
+    },
+    "24": {
+      "text": "{\\cf15 [Veja v. 10]}",
+      "reference": "Jó 29:24"
+    },
+    "25": {
+      "text": "{\\cf15 [Veja v. 10]}",
+      "reference": "Jó 29:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

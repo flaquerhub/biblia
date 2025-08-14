@@ -1,0 +1,61 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 53,
+  "verses": {
+    "1": {
+      "text": "Quem creu naquilo que ouvimos, \\par e a quem se revelou o braço de Iahweh? \\par",
+      "reference": "Is 53:1"
+    },
+    "2": {
+      "text": "Ele cresceu diante dele como um renovo, \\par como raiz que brota de uma terra seca; \\par não tinha beleza nem esplendor que pudesse atrair o nosso olhar, \\par nem formosura capaz de nos deleitar. \\par",
+      "reference": "Is 53:2"
+    },
+    "3": {
+      "text": "Era desprezado e abandonado pelos homens, \\par um homem sujeito à dor, familiarizado com a enfermidade, \\par como uma pessoa de quem todos escondem o rosto; \\par desprezado, não fazíamos caso nenhum dele. \\par",
+      "reference": "Is 53:3"
+    },
+    "4": {
+      "text": "E no entanto, eram as nossas enfermidades que ele levava sobre si, \\par as nossas dores que ele carregava. \\par Mas nós o tínhamos como vítima do castigo, \\par ferido por Deus e humilhado. \\par",
+      "reference": "Is 53:4"
+    },
+    "5": {
+      "text": "Mas ele foi trespassado por causa das nossas transgressões, \\par esmagado em virtude das nossas iniqüidades. \\par O castigo que havia de trazer-nos a paz, caiu sobre ele, \\par sim, por suas feridas fomos curados. \\par",
+      "reference": "Is 53:5"
+    },
+    "6": {
+      "text": "Todos nós como ovelhas, andávamos errantes, \\par seguindo cada um o seu próprio caminho, \\par mas Iahweh fez cair sobre ele \\par a iniqüidade de todos nós. \\par",
+      "reference": "Is 53:6"
+    },
+    "7": {
+      "text": "Foi maltratado, mas livremente humilhou-se e não abriu a boca, \\par como um cordeiro conduzido ao matadouro; \\par como uma ovelha que permanece muda na presença dos seus tosquiadores \\par ele não abriu a boca. \\par",
+      "reference": "Is 53:7"
+    },
+    "8": {
+      "text": "Após detenção e julgamento, foi preso. \\par Dentre os seus contemporâneos, quem se preocupou \\par com o fato de ter ele sido cortado da terra dos vivos, \\par de ter sido ferido pela transgressão do seu povo? \\par",
+      "reference": "Is 53:8"
+    },
+    "9": {
+      "text": "Deram-lhe sepultura com os ímpios, \\par o seu túmulo está com os ricos, \\par se bem que não tivesse praticado violência \\par nem tivesse havido engano em sua boca. \\par",
+      "reference": "Is 53:9"
+    },
+    "10": {
+      "text": "Mas Iahweh quis feri-lo, submetê-lo à enfermidade. \\par Mas, se ele oferece a sua vida como sacrifício pelo pecado, \\par certamente verá uma descendência, prolongará os seus dias, \\par e por meio dele o desígnio de Deus há de triunfar. \\par",
+      "reference": "Is 53:10"
+    },
+    "11": {
+      "text": "Após o trabalho fatigante da sua alma \\par ele verá a luz e se fartará. \\par Pelo seu conhecimento, o justo, meu Servo, justificará a muitos \\par e levará sobre si as suas transgressões. \\par",
+      "reference": "Is 53:11"
+    },
+    "12": {
+      "text": "Eis por que lhe darei um quinhão entre as multidões; \\par com os fortes repartirá os despojos, \\par visto que entregou a sua alma à morte \\par e foi contado com os transgressores, \\par mas na verdade levou sobre si o pecado de muitos \\par e pelos transgressores fez intercessão. \\par",
+      "reference": "Is 53:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

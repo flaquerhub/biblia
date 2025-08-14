@@ -1,0 +1,161 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A Habitação. As cortinas e os estofos\\par }Farás a Habitação com dez cortinas de linho fino retorcido, púrpura violeta, púrpura escarlate e carmesim; tu as farás com querubins bordados.",
+      "reference": "Ex 26:1"
+    },
+    "2": {
+      "text": "O comprimento de cada cortina será de vinte e oito côvados e a largura de quatro côvados, e todas as cortinas terão o mesmo tamanho.",
+      "reference": "Ex 26:2"
+    },
+    "3": {
+      "text": "Cinco das cortinas estarão unidas uma com a outra; e as outras cinco cortinas também estarão unidas uma com a outra.",
+      "reference": "Ex 26:3"
+    },
+    "4": {
+      "text": "Farás laços de púrpura violeta na franja da primeira cortina que está na extremidade do conjunto; e farás o mesmo na franja da cortina que está na extremidade do segundo conjunto.",
+      "reference": "Ex 26:4"
+    },
+    "5": {
+      "text": "Farás cinqüenta laçadas na primeira cortina, e cinqüenta laçadas na extremidade da cortina que está no segundo conjunto. As laçadas se corresponderão mutuamente.",
+      "reference": "Ex 26:5"
+    },
+    "6": {
+      "text": "Farás também cinqüenta colchetes de ouro e unirás as cortinas uma com a outra por meio de colchetes, de modo que a Habitação venha a ser um todo. \\par",
+      "reference": "Ex 26:6"
+    },
+    "7": {
+      "text": "Farás cortinas de pêlo de cabra como tenda que esteja sobre a Habitação; farás onze delas.",
+      "reference": "Ex 26:7"
+    },
+    "8": {
+      "text": "O comprimento de cada cortina será de trinta côvados, e sua largura de quatro côvados; as onze cortinas terão a mesma medida.",
+      "reference": "Ex 26:8"
+    },
+    "9": {
+      "text": "Unirás cinco cortinas em uma peça e seis cortinas em outra, e dobrarás a sexta cortina sobre a parte anterior da tenda.",
+      "reference": "Ex 26:9"
+    },
+    "10": {
+      "text": "Farás cinqüenta laçadas na franja da primeira cortina, na extremidade do primeiro conjunto, e outras cinqüenta laçadas na franja da cortina do segundo conjunto.",
+      "reference": "Ex 26:10"
+    },
+    "11": {
+      "text": "Farás cinqüenta colchetes de bronze e introduzirás os colchetes nas laçadas, para unir a tenda que assim formará um todo. \\par",
+      "reference": "Ex 26:11"
+    },
+    "12": {
+      "text": "A parte que restar das cortinas da tenda, a metade da cortina que sobrar, penderá na parte posterior da Habitação.",
+      "reference": "Ex 26:12"
+    },
+    "13": {
+      "text": "O côvado que sobrar de um lado e o côvado que sobrar do outro lado, ao longo das cortinas da tenda, penderá dos dois lados da Habitação, de cá e de lá, para cobri-la. \\par",
+      "reference": "Ex 26:13"
+    },
+    "14": {
+      "text": "Farás para a tenda uma cobertura de peles de carneiro tingidas de vermelho, e uma cobertura de couro fino por cima. \\par",
+      "reference": "Ex 26:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i A armação\\par }Farás também para a Habitação tábuas de madeira de acácia, que serão colocadas verticalmente.",
+      "reference": "Ex 26:15"
+    },
+    "16": {
+      "text": "Cada tábua terá dez côvados de comprimento e um côvado e meio de largura.",
+      "reference": "Ex 26:16"
+    },
+    "17": {
+      "text": "Cada tábua terá dois encaixes, travados um com o outro; assim farás com todas as tábuas da Habitação.",
+      "reference": "Ex 26:17"
+    },
+    "18": {
+      "text": "Disporás as tábuas para a Habitação: vinte tábuas para o lado do Negueb, para o sul.",
+      "reference": "Ex 26:18"
+    },
+    "19": {
+      "text": "Farás quarenta bases de prata debaixo das vinte tábuas: duas bases debaixo de uma tábua, para os seus dois encaixes, e duas bases debaixo de outra tábua, para os seus dois encaixes.",
+      "reference": "Ex 26:19"
+    },
+    "20": {
+      "text": "No outro lado da Habitação, do lado do norte, haverá vinte tábuas",
+      "reference": "Ex 26:20"
+    },
+    "21": {
+      "text": "e as suas quarenta bases de prata, duas bases debaixo de uma tábua e duas bases debaixo de outra tábua.",
+      "reference": "Ex 26:21"
+    },
+    "22": {
+      "text": "Para o fundo da Habitação, do lado do mar, farás seis tábuas,",
+      "reference": "Ex 26:22"
+    },
+    "23": {
+      "text": "e farás outras duas tábuas para os cantos do fundo da Habitação.",
+      "reference": "Ex 26:23"
+    },
+    "24": {
+      "text": "Estarão unidas pela parte debaixo, e ficarão unidas até a parte de cima, na altura da primeira argola: assim se fará com as duas tábuas, serão duas para cada um dos dois cantos.",
+      "reference": "Ex 26:24"
+    },
+    "25": {
+      "text": "Serão, pois, oito tábuas com suas bases de prata, dezesseis bases: duas bases debaixo de uma tábua e duas debaixo de outra tábua. \\par",
+      "reference": "Ex 26:25"
+    },
+    "26": {
+      "text": "Farás travessas de madeira de acácia: cinco para as tábuas de um lado da Habitação,",
+      "reference": "Ex 26:26"
+    },
+    "27": {
+      "text": "cinco para as tábuas do outro lado da Habitação, e igualmente cinco travessas para as tábuas do lado posterior da Habitação, do lado do mar.",
+      "reference": "Ex 26:27"
+    },
+    "28": {
+      "text": "A travessa central esteja na metade das tábuas, atravessando-as de um extremo ao outro.",
+      "reference": "Ex 26:28"
+    },
+    "29": {
+      "text": "Cobrirás de ouro as tábuas, e de ouro farás as suas argolas, pelas quais hão de passar as travessas; e cobrirás também de ouro as travessas.",
+      "reference": "Ex 26:29"
+    },
+    "30": {
+      "text": "Levantarás a Habitação segundo o modelo que te foi mostrado na montanha. \\par",
+      "reference": "Ex 26:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i O véu\\par }Farás também um véu de púrpura violeta e escarlate, carmesim e linho fino retorcido; farás nele um bordado com figuras de querubins.",
+      "reference": "Ex 26:31"
+    },
+    "32": {
+      "text": "Tu o colocarás sobre quatro colunas de acácia recobertas de ouro, munidas de ganchos de ouro, assentadas sobre quatro bases de prata.",
+      "reference": "Ex 26:32"
+    },
+    "33": {
+      "text": "Pendurarás o véu debaixo dos colchetes e trarás para lá, para dentro do véu, a arca do Testemunho. O véu vos servirá de separação entre o Santo e o Santo dos Santos.",
+      "reference": "Ex 26:33"
+    },
+    "34": {
+      "text": "Porás o propiciatório sobre a arca do Testemunho, no Santo dos Santos.",
+      "reference": "Ex 26:34"
+    },
+    "35": {
+      "text": "A mesa, porém, a porás fora do véu, e o candelabro frente a ela, no lado sul da Habitação; a mesa, ao contrário, a porás no lado norte.",
+      "reference": "Ex 26:35"
+    },
+    "36": {
+      "text": "Farás também, para a entrada da tenda, uma cortina de púrpura violeta, púrpura escarlate, carmesim e linho fino retorcido, obra de bordador.",
+      "reference": "Ex 26:36"
+    },
+    "37": {
+      "text": "Para esta cortina farás cinco colunas de acácia, que recobrirás de ouro, com os seus ganchos também de ouro, e fundirás para elas cinco bases de bronze. \\par",
+      "reference": "Ex 26:37"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 37
+}

@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Súplicas durante a provação}\\par }{\\qc\\i Do mestre de canto. Com instrumentos de corda. Sobre a oitava. Salmo. De Davi. \\par }",
+      "reference": "Sl 6:1"
+    },
+    "2": {
+      "text": "Iahweh, não me castigues com tua ira, \\par não me corrijas com teu furor! \\par",
+      "reference": "Sl 6:2"
+    },
+    "3": {
+      "text": "Tem piedade de mim, Iahweh, que eu desfaleço! \\par Cura-me, Iahweh, pois meus ossos tremem; \\par",
+      "reference": "Sl 6:3"
+    },
+    "4": {
+      "text": "todo o meu ser estremece \\par e tu, Iahweh, até quando? \\par",
+      "reference": "Sl 6:4"
+    },
+    "5": {
+      "text": "Volta-te, Iahweh! Liberta-me! \\par Salva-me, por teu amor! \\par",
+      "reference": "Sl 6:5"
+    },
+    "6": {
+      "text": "Pois na morte ninguém se lembra de ti, \\par quem te louvaria no Xeol? \\par",
+      "reference": "Sl 6:6"
+    },
+    "7": {
+      "text": "Estou esgotado de tanto gemer, \\par de noite eu choro na cama, \\par banhando meu leito com lágrimas. \\par",
+      "reference": "Sl 6:7"
+    },
+    "8": {
+      "text": "Meus olhos derretem-se de dor \\par pela insolência dos meus opressores. \\par",
+      "reference": "Sl 6:8"
+    },
+    "9": {
+      "text": "Afastai-vos de mim, malfeitores todos: \\par Iahweh escutou a voz do meu pranto! \\par",
+      "reference": "Sl 6:9"
+    },
+    "10": {
+      "text": "Iahweh ouviu meu pedido, \\par Iahweh acolheu minha prece. \\par",
+      "reference": "Sl 6:10"
+    },
+    "11": {
+      "text": "Envergonhem-se e tremam meus inimigos todos \\par retirem-se depressa, cheios de vergonha! \\par",
+      "reference": "Sl 6:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

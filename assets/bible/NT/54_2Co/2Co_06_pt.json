@@ -1,0 +1,85 @@
+{
+  "book": 47,
+  "book_name": "2Coríntios",
+  "book_abbr": "2Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Corinthians",
+  "testament": "NT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Visto que somos colaboradores com ele, exortamo-vos ainda a que não recebais a graça de Deus em vão.",
+      "reference": "2Co 6:1"
+    },
+    "2": {
+      "text": "Pois ele diz: \\par {\\i No tempo favorável, eu te ouvi. \\par E no dia da salvação vim em teu auxílio.}\\par Eis agora o tempo favorável por excelência. Eis agora o dia da salvação.",
+      "reference": "2Co 6:2"
+    },
+    "3": {
+      "text": "Evitamos dar qualquer motivo de escândalo, a fim de que o nosso ministério não seja sujeito a censura.",
+      "reference": "2Co 6:3"
+    },
+    "4": {
+      "text": "Ao contrário, em tudo recomendamo-nos como ministros de Deus: por grande perseverança nas tribulações, nas necessidades, nas angústias,",
+      "reference": "2Co 6:4"
+    },
+    "5": {
+      "text": "nos açoites, nas prisões, nas desordens, nas fadigas, nas vigílias, nos jejuns,",
+      "reference": "2Co 6:5"
+    },
+    "6": {
+      "text": "pela pureza, pela ciência, pela paciência, pela bondade, por um espírito santo, pelo amor sem fingimento,",
+      "reference": "2Co 6:6"
+    },
+    "7": {
+      "text": "pela palavra da verdade, pelo poder de Deus, pelas armas ofensivas e defensivas da justiça,",
+      "reference": "2Co 6:7"
+    },
+    "8": {
+      "text": "na glória e no desprezo, na boa e na má fama; tidos como impostores e, não obstante, verídicos;",
+      "reference": "2Co 6:8"
+    },
+    "9": {
+      "text": "como desconhecidos e, não obstante, conhecidos; como moribundos e, não obstante, eis que vivemos; como punidos e, não obstante, livres da morte;",
+      "reference": "2Co 6:9"
+    },
+    "10": {
+      "text": "como tristes e, não obstante, sempre alegres; como indigentes e, não obstante, enriquecendo a muitos; como nada tendo, embora tudo possuamos! \\par",
+      "reference": "2Co 6:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Expansões e advertências\\par }Nós vos falamos com toda liberdade, ó coríntios; o nosso coração se dilatou.",
+      "reference": "2Co 6:11"
+    },
+    "12": {
+      "text": "Não é estreito o lugar que ocupais em nós, mas é em vossos corações que estais na estreiteza.",
+      "reference": "2Co 6:12"
+    },
+    "13": {
+      "text": "Pagai-nos com igual retribuição; falo-vos como a filhos: dilatai também os vossos corações! \\par",
+      "reference": "2Co 6:13"
+    },
+    "14": {
+      "text": "Não formeis parelha incoerente com os incrédulos. Que afinidade pode haver entre a justiça e a impiedade? Que comunhão pode haver entre a luz e as trevas?",
+      "reference": "2Co 6:14"
+    },
+    "15": {
+      "text": "Que acordo entre Cristo e Beliar? Que relação entre o fiel e o incrédulo?",
+      "reference": "2Co 6:15"
+    },
+    "16": {
+      "text": "Que há de comum entre o templo de Deus e os ídolos? Ora, nós é que somos o templo do Deus vivo, como disse o próprio Deus: \\par {\\i Em meio a eles habitarei e caminharei, \\par serei o seu Deus, e eles serão o meu povo. }\\par",
+      "reference": "2Co 6:16"
+    },
+    "17": {
+      "text": "{\\i Portanto, saí do meio de tal gente, \\par e afastai-vos, diz o Senhor. \\par Não toqueis o que seja impuro, \\par e eu vos acolherei. }\\par",
+      "reference": "2Co 6:17"
+    },
+    "18": {
+      "text": "{\\i Serei para vós um pai, \\par e sereis para mim filhos e filhas, \\par diz o Senhor todo-poderoso.}\\par",
+      "reference": "2Co 6:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

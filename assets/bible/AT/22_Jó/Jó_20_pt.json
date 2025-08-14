@@ -1,0 +1,129 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A ordem da justiça não tem exceção\\par }Sofar de Naamat tomou a palavra e disse: \\par",
+      "reference": "Jó 20:1"
+    },
+    "2": {
+      "text": "É por isso que meus pensamentos me levam a replicar, \\par pois se agitam dentro de mim. \\par",
+      "reference": "Jó 20:2"
+    },
+    "3": {
+      "text": "Escutei uma censura injuriosa, \\par e agora meu espírito me convida a responder. \\par",
+      "reference": "Jó 20:3"
+    },
+    "4": {
+      "text": "Não sabes que é assim desde sempre, \\par desde que o homem foi posto na terra, \\par",
+      "reference": "Jó 20:4"
+    },
+    "5": {
+      "text": "que o júbilo dos ímpios é efêmero \\par e a alegria do malvado só dura um instante? \\par",
+      "reference": "Jó 20:5"
+    },
+    "6": {
+      "text": "Mesmo que seu porte se elevasse até o céu \\par e tocasse as nuvens com a fronte, \\par",
+      "reference": "Jó 20:6"
+    },
+    "7": {
+      "text": "pereceria para sempre como fantasma, \\par e aqueles que o viam dirão: “Onde está?” \\par",
+      "reference": "Jó 20:7"
+    },
+    "8": {
+      "text": "Voará como um sonho inatingível, \\par dissipar-se-á como visão noturna. \\par",
+      "reference": "Jó 20:8"
+    },
+    "9": {
+      "text": "Os olhos que o viam não mais o verão, \\par nem mais o reconhecerá sua morada. \\par",
+      "reference": "Jó 20:9"
+    },
+    "10": {
+      "text": "Seus filhos terão que indenizar os pobres, \\par e suas crianças, que restituir suas riquezas. \\par",
+      "reference": "Jó 20:10"
+    },
+    "11": {
+      "text": "Seus ossos, ainda cheios de vigor juvenil, \\par deitar-se-ão com ele no pó. \\par",
+      "reference": "Jó 20:11"
+    },
+    "12": {
+      "text": "Se a maldade tinha um sabor doce em sua boca \\par e ele a escondia debaixo da língua \\par",
+      "reference": "Jó 20:12"
+    },
+    "13": {
+      "text": "e a guardava, sem soltá-la, \\par retendo-a no seu paladar, \\par",
+      "reference": "Jó 20:13"
+    },
+    "14": {
+      "text": "este manjar se corromperá em seu ventre, \\par nas suas entranhas será veneno de víboras. \\par",
+      "reference": "Jó 20:14"
+    },
+    "15": {
+      "text": "Vomitará as riquezas que engoliu, \\par Deus as faz expelir de seu ventre. \\par",
+      "reference": "Jó 20:15"
+    },
+    "16": {
+      "text": "Sugará veneno de serpentes \\par e matá-lo-ão as presas da áspide. \\par",
+      "reference": "Jó 20:16"
+    },
+    "17": {
+      "text": "Não mais verá os mananciais de óleo, \\par nem os rios de leite e mel. \\par",
+      "reference": "Jó 20:17"
+    },
+    "18": {
+      "text": "Perderá seu aspecto alegre ao restituir os seus ganhos, \\par e o ar satisfeito de quando os negócios prosperavam: \\par",
+      "reference": "Jó 20:18"
+    },
+    "19": {
+      "text": "porque destruiu as cabanas dos pobres \\par e se apropriou de casas que não tinha construído. \\par",
+      "reference": "Jó 20:19"
+    },
+    "20": {
+      "text": "Porque seu apetite mostrou-se insaciável, \\par os seus tesouros não o salvarão. \\par",
+      "reference": "Jó 20:20"
+    },
+    "21": {
+      "text": "Nada escapou à sua voracidade, \\par por isso não durará sua prosperidade. \\par",
+      "reference": "Jó 20:21"
+    },
+    "22": {
+      "text": "Em plena abundância sofrerá o golpe da penúria, \\par com toda a sua força a miséria cairá sobre ele. \\par",
+      "reference": "Jó 20:22"
+    },
+    "23": {
+      "text": "Deus derrama sobre ele o ardor de sua ira, \\par lança-lhe na carne uma chuva de flechas. \\par",
+      "reference": "Jó 20:23"
+    },
+    "24": {
+      "text": "Se escapar das armas de ferro, \\par atravessá-lo-á o arco de bronze; \\par",
+      "reference": "Jó 20:24"
+    },
+    "25": {
+      "text": "uma flecha sai de suas costas, \\par e um dardo chamejante, do seu fígado. \\par Terrores avançarão sobre ele, \\par",
+      "reference": "Jó 20:25"
+    },
+    "26": {
+      "text": "todas as trevas escondidas lá estão para apanhá-lo. \\par Devorá-lo-á um fogo não aceso por homem, \\par consumindo o que resta de sua tenda. \\par",
+      "reference": "Jó 20:26"
+    },
+    "27": {
+      "text": "O céu revelará sua iniqüidade, \\par a terra se insurgirá contra ele. \\par",
+      "reference": "Jó 20:27"
+    },
+    "28": {
+      "text": "O lucro de sua casa se escorre, \\par como torrente no dia da ira. \\par",
+      "reference": "Jó 20:28"
+    },
+    "29": {
+      "text": "Esta é a sorte que Deus reservou ao ímpio, \\par a herança que destinou ao amaldiçoado. \\par",
+      "reference": "Jó 20:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

@@ -1,0 +1,85 @@
+{
+  "book": 47,
+  "book_name": "2Coríntios",
+  "book_abbr": "2Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "2 Corinthians",
+  "testament": "NT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. Apologia de Paulo}\\par }{\\qc\\b\\i Resposta à acusação de fraqueza\\par }Eu mesmo, Paulo, vos exorto pela mansidão e pela bondade de Cristo – eu tão humilde quando estou entre vós face a face, mas tão ousado quando estou longe.",
+      "reference": "2Co 10:1"
+    },
+    "2": {
+      "text": "Rogo-vos, não me obrigueis, quando estiver presente, a mostrar-me ousado, recorrendo à audácia com que tenciono agir contra aqueles que nos julgam como se nos comportássemos segundo critérios carnais.",
+      "reference": "2Co 10:2"
+    },
+    "3": {
+      "text": "Embora vivamos na carne, não militamos segundo a carne.",
+      "reference": "2Co 10:3"
+    },
+    "4": {
+      "text": "Na verdade, as armas com que combatemos não são carnais, mas têm, ao serviço de Deus, o poder de destruir fortalezas. Destruímos raciocínios presunçosos",
+      "reference": "2Co 10:4"
+    },
+    "5": {
+      "text": "e todo poder altivo que se levanta contra o conhecimento de Deus. Tornamos cativo todo pensamento para levá-lo a obedecer a Cristo,",
+      "reference": "2Co 10:5"
+    },
+    "6": {
+      "text": "e estamos prontos a punir toda desobediência desde que a vossa obediência seja perfeita. \\par",
+      "reference": "2Co 10:6"
+    },
+    "7": {
+      "text": "Olhai as coisas frente a frente. Se alguém está convicto de pertencer a Cristo, tome consciência uma vez por todas de que, assim como ele pertence a Cristo, nós também lhe pertencemos.",
+      "reference": "2Co 10:7"
+    },
+    "8": {
+      "text": "E ainda que eu me gloriasse um pouco mais do poder que Deus nos deu para a vossa edificação, e não para a vossa destruição, eu não me envergonharia por isso.",
+      "reference": "2Co 10:8"
+    },
+    "9": {
+      "text": "Não quero dar a impressão de incutir-vos medo por minhas cartas,",
+      "reference": "2Co 10:9"
+    },
+    "10": {
+      "text": "“pois as cartas, dizem, são severas e enérgicas, mas ele, uma vez presente, é um homem fraco e a sua linguagem é desprezível”.",
+      "reference": "2Co 10:10"
+    },
+    "11": {
+      "text": "Quem assim fala tome consciência de que tais como somos pela linguagem e por cartas quando estamos ausentes, tais seremos por nossos atos quando estivermos presentes. \\par",
+      "reference": "2Co 10:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Resposta à acusação de ambição\\par }Não temos a ousadia de nos igualar ou de nos comparar a alguns que recomendam a si mesmos. Medindo-se a si mesmos segundo a sua medida e comparando-se a si mesmos, tornam-se insensatos.",
+      "reference": "2Co 10:12"
+    },
+    "13": {
+      "text": "Quanto a nós, não nos gloriaremos além da justa medida, mas nos serviremos, como medida, da regra mesma que Deus nos assinalou: a de termos chegado até vós.",
+      "reference": "2Co 10:13"
+    },
+    "14": {
+      "text": "Não nos estendemos indevidamente, como seria o caso se não tivéssemos chegado até vós, pois, na verdade, fomos ter convosco anunciando-vos o evangelho de Cristo.",
+      "reference": "2Co 10:14"
+    },
+    "15": {
+      "text": "Não nos gloriamos desmedidamente, apoiados em trabalhos alheios; e temos a esperança de que com o progresso da vossa fé, cresceremos mais e mais segundo a nossa regra,",
+      "reference": "2Co 10:15"
+    },
+    "16": {
+      "text": "levando mesmo o evangelho para além dos limites de vossa região, se, porém, entrar em campo alheio para nos gloriarmos de trabalhos lá realizados por outros.",
+      "reference": "2Co 10:16"
+    },
+    "17": {
+      "text": "Quem se gloria, glorie-se no Senhor.",
+      "reference": "2Co 10:17"
+    },
+    "18": {
+      "text": "Pois não aquele que recomenda a si mesmo é aprovado, mas aquele que Deus recomenda. \\par",
+      "reference": "2Co 10:18"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 18
+}

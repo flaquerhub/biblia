@@ -1,0 +1,97 @@
+{
+  "book": 2,
+  "book_name": "Êxodo",
+  "book_abbr": "Ex",
+  "book_category": "Lei",
+  "book_english": "Exodus",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O altar dos holocaustos\\par }Farás o altar de madeira de acácia; com cinco côvados de comprimento e cinco côvados de largura, o altar será quadrado; a sua altura será de três côvados.",
+      "reference": "Ex 27:1"
+    },
+    "2": {
+      "text": "Dos quatro lados farás levantar chifres, que formarão uma só peça com o altar; e o cobrirás de bronze.",
+      "reference": "Ex 27:2"
+    },
+    "3": {
+      "text": "Far-lhe-ás também recipientes para recolher a gordura incinerada; e pás, bacias para a aspersão, garfos e braseiros; farás todos esses acessórios de bronze.",
+      "reference": "Ex 27:3"
+    },
+    "4": {
+      "text": "Far-lhe-ás também uma grelha de bronze, em forma de rede, e farás quatro argolas de bronze nos quatro cantos da grelha,",
+      "reference": "Ex 27:4"
+    },
+    "5": {
+      "text": "e as porás sob o rebordo do altar, embaixo, de maneira que ela chegue até o meio do altar.",
+      "reference": "Ex 27:5"
+    },
+    "6": {
+      "text": "Farás também varais para o altar, varais de madeira de acácia, e os cobrirás de bronze.",
+      "reference": "Ex 27:6"
+    },
+    "7": {
+      "text": "Os varais se enfiarão nas argolas, de modo que os varais estejam dos dois lados do altar, quando for transportado.",
+      "reference": "Ex 27:7"
+    },
+    "8": {
+      "text": "Oco e de tábuas o farás; como te foi mostrado na montanha, assim o farás. \\par",
+      "reference": "Ex 27:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i O átrio\\par }Farás também o átrio da Habitação. Para o lado do Negueb, do lado do sul, o átrio terá cortinas de linho fino retorcido; o comprimento delas será de cem côvados (para o primeiro lado).",
+      "reference": "Ex 27:9"
+    },
+    "10": {
+      "text": "As suas vinte colunas e as suas vinte bases serão de bronze; os ganchos das colunas e suas vergas serão de prata.",
+      "reference": "Ex 27:10"
+    },
+    "11": {
+      "text": "Do mesmo modo para o lado norte, as cortinas terão cem côvados de comprimento; as suas vinte colunas e as suas vinte bases serão de bronze. Os ganchos das colunas e as suas vergas serão de prata.",
+      "reference": "Ex 27:11"
+    },
+    "12": {
+      "text": "A largura do átrio, do lado do mar, será de cinqüenta côvados de cortinas, com as suas dez colunas e com as suas dez bases.",
+      "reference": "Ex 27:12"
+    },
+    "13": {
+      "text": "A largura do átrio, do seu lado leste, a oriente, será de cinqüenta côvados,",
+      "reference": "Ex 27:13"
+    },
+    "14": {
+      "text": "quinze côvados de cortinas para um lado da entrada, com as suas três colunas e as suas três bases,",
+      "reference": "Ex 27:14"
+    },
+    "15": {
+      "text": "e quinze côvados de cortinas para o outro lado da entrada, com as suas três colunas e as suas três bases.",
+      "reference": "Ex 27:15"
+    },
+    "16": {
+      "text": "Na entrada do átrio haverá um véu adamascado de vinte côvados, de púrpura violeta, púrpura escarlate, carmesim e linho fino retorcido; as suas colunas serão quatro e as suas bases, quatro.",
+      "reference": "Ex 27:16"
+    },
+    "17": {
+      "text": "Todas as colunas em torno do átrio estarão unidas com vergas de prata, os seus ganchos serão de prata, e as suas bases de bronze.",
+      "reference": "Ex 27:17"
+    },
+    "18": {
+      "text": "O comprimento do átrio será de cem côvados, sua largura de cinqüenta côvados e a sua altura de cinco côvados. Todas as cortinas serão de linho fino retorcido, e as suas bases, de bronze.",
+      "reference": "Ex 27:18"
+    },
+    "19": {
+      "text": "Todos os acessórios para o serviço geral da Habitação, todas as suas estacas e todas as estacas do átrio serão de bronze. \\par",
+      "reference": "Ex 27:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i O azeite para o candelabro\\par }Ordenarás aos filhos de Israel que te tragam azeite puro de olivas amassadas para o candelabro, para que haja uma lâmpada continuamente acesa.",
+      "reference": "Ex 27:20"
+    },
+    "21": {
+      "text": "Aarão e os seus filhos colocarão esta lâmpada na Tenda da Reunião, fora do véu que está diante do Testemunho, para que ela queime desde a tarde até a manhã perante Iahweh. É um decreto perpétuo para as gerações dos filhos de Israel. \\par",
+      "reference": "Ex 27:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

@@ -1,0 +1,37 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Os dois caminhos}\\par }Feliz o homem \\par que não vai ao conselho dos ímpios, \\par não pára no caminho dos pecadores, \\par nem se assenta na roda dos zombadores. \\par",
+      "reference": "Sl 1:1"
+    },
+    "2": {
+      "text": "Pelo contrário: \\par seu prazer está na lei de Iahweh, \\par e medita sua lei, dia e noite. \\par",
+      "reference": "Sl 1:2"
+    },
+    "3": {
+      "text": "Ele é como árvore \\par plantada junto d’água corrente: \\par dá fruto no tempo devido \\par e suas folhas nunca murcham; \\par tudo o que ele faz é bem sucedido. \\par",
+      "reference": "Sl 1:3"
+    },
+    "4": {
+      "text": "Não são assim os ímpios! Não são assim! \\par Pelo contrário: \\par são como a palha que o vento dispersa... \\par",
+      "reference": "Sl 1:4"
+    },
+    "5": {
+      "text": "Por isso os ímpios não ficarão de pé no Julgamento, \\par nem os pecadores no conselho dos justos. \\par",
+      "reference": "Sl 1:5"
+    },
+    "6": {
+      "text": "Sim, Iahweh conhece o caminho dos justos, \\par mas o caminho dos ímpios perece. \\par",
+      "reference": "Sl 1:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

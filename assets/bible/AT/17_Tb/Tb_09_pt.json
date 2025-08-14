@@ -1,0 +1,37 @@
+{
+  "book": 67,
+  "book_name": "Tobias",
+  "book_abbr": "Tb",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Tobit",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i IX. As bodas}\\par }Então Tobias chamou Rafael e disse-lhe:",
+      "reference": "Tb 9:1"
+    },
+    "2": {
+      "text": "“Azarias, meu irmão, toma contigo quatro criados e dois camelos, e parte para Rages.",
+      "reference": "Tb 9:2"
+    },
+    "3": {
+      "text": "Dirige-te à casa de Gabael, dá-lhe o documento, recebe o dinheiro e convida-o para que venha contigo para as bodas.",
+      "reference": "Tb 9:3"
+    },
+    "4": {
+      "text": "Sabes que meu pai deve estar contando os dias e, se eu me demoro um dia a mais, dou-lhe um grande desgosto.",
+      "reference": "Tb 9:4"
+    },
+    "5": {
+      "text": "Bem viste como Ragüel me conjurou, de modo que não posso contrariar seu desejo”. Rafael partiu, então, para Rages, na Média, com os quatro criados e os dois camelos, e pernoitaram na casa de Gabael. Apresentou-lhe o documento e deu-lhe a notícia de que Tobias, filho de Tobit, se havia casado e o convidava para as bodas. Gabael levantou-se, contou para ele os sacos de dinheiro com os selos intatos, e colocaram-nos sobre os camelos.",
+      "reference": "Tb 9:5"
+    },
+    "6": {
+      "text": "De madrugada, partiram juntos para as bodas e, chegando à casa de Ragüel, encontraram Tobias sentado à mesa. Este levantou-se logo para saudá-lo, e Gabael começou a chorar e o abençoou, dizendo: “Homem bondoso e honrado, filho de um pai excelente e ilustre, justo e caridoso! Que o Senhor te conceda as bênçãos do céu a ti, à tua mulher, ao pai e à mãe de tua mulher! Bendito seja Deus, que me permitiu ver um retrato vivo do meu primo Tobit!’ \\par",
+      "reference": "Tb 9:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

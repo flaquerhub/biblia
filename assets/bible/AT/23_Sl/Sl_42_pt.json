@@ -1,0 +1,61 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 42,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 42 (41)\\par }{\\qc\\b\\i Lamento do levita exilado\\par }{\\qc\\i Do mestre de canto. Poema. Dos filhos de Coré.\\par }",
+      "reference": "Sl 42:1"
+    },
+    "2": {
+      "text": "Como a corça bramindo \\par por águas correntes, \\par assim minha alma está bramindo \\par por ti, ó meu Deus! \\par",
+      "reference": "Sl 42:2"
+    },
+    "3": {
+      "text": "Minha alma tem sede de Deus, \\par do Deus vivo; \\par quando voltarei a ver \\par a face de Deus? \\par",
+      "reference": "Sl 42:3"
+    },
+    "4": {
+      "text": "As lágrimas são meu pão \\par noite e dia, \\par e todo dia me perguntam: \\par “Onde está o teu Deus?” \\par",
+      "reference": "Sl 42:4"
+    },
+    "5": {
+      "text": "Começo a recordar as coisas \\par e minha alma em mim se derrama: \\par quando eu passava, sob a Tenda do Poderoso, \\par em direção à casa de Deus, \\par entre os gritos de alegria, a ação de graças \\par e o barulho da festa. \\par",
+      "reference": "Sl 42:5"
+    },
+    "6": {
+      "text": "Por que te curvas, ó minha alma, \\par gemendo dentro de mim? \\par Espera em Deus, eu ainda o louvarei, \\par a salvação da minha face e meu Deus! \\par",
+      "reference": "Sl 42:6"
+    },
+    "7": {
+      "text": "Minha alma curva-se em mim, \\par e por isso eu me lembro de ti, \\par desde a terra do Jordão e do Hermon, \\par de ti, ó pequena montanha. \\par",
+      "reference": "Sl 42:7"
+    },
+    "8": {
+      "text": "Grita um abismo a outro abismo \\par com o fragor das tuas cascatas; \\par tuas vagas todas e tuas ondas \\par passaram sobre mim. \\par",
+      "reference": "Sl 42:8"
+    },
+    "9": {
+      "text": "De dia Iahweh manda o seu amor, \\par e durante a noite \\par eu vou cantar uma prece \\par ao Deus da minha vida. \\par",
+      "reference": "Sl 42:9"
+    },
+    "10": {
+      "text": "Vou dizer a Deus, meu rochedo: \\par por que me esqueces? \\par Por que devo andar pesaroso \\par pela opressão do inimigo? \\par",
+      "reference": "Sl 42:10"
+    },
+    "11": {
+      "text": "Esmigalhando-me os ossos \\par meus opressores me insultam, \\par repetindo todo o dia: \\par “Onde está o teu Deus?” \\par",
+      "reference": "Sl 42:11"
+    },
+    "12": {
+      "text": "Por que te curvas, ó minha alma, \\par gemendo dentro de mim? \\par Espera em Deus, eu ainda o louvarei, \\par a salvação da minha face e meu Deus! \\par",
+      "reference": "Sl 42:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

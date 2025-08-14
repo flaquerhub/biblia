@@ -1,0 +1,65 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 62,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 62 (61)\\par }{\\qc\\b\\i Só de Deus vem a esperança\\par }{\\qc\\i Do mestre de canto... Iditun. Salmo. De Davi. \\par }",
+      "reference": "Sl 62:1"
+    },
+    "2": {
+      "text": "Só em Deus a minha alma repousa, \\par dele vem a minha salvação; \\par",
+      "reference": "Sl 62:2"
+    },
+    "3": {
+      "text": "só ele é minha rocha, minha salvação, \\par minha fortaleza, – jamais vacilarei! \\par",
+      "reference": "Sl 62:3"
+    },
+    "4": {
+      "text": "Até quando vos lançareis sobre um homem, \\par todos juntos, para derrubá-lo \\par como se fosse parede inclinada, \\par um muro prestes a ruir? \\par",
+      "reference": "Sl 62:4"
+    },
+    "5": {
+      "text": "Só fraude são os projetos deles, \\par seu prazer é seduzir: \\par com mentira na boca eles bendizem, \\par mas por dentro maldizem. {\\i Pausa} \\par",
+      "reference": "Sl 62:5"
+    },
+    "6": {
+      "text": "Só em Deus, ó minha alma, repousa, \\par dele vem a minha esperança; \\par",
+      "reference": "Sl 62:6"
+    },
+    "7": {
+      "text": "só ele é minha rocha, minha salvação, \\par minha fortaleza, – jamais vacilarei! \\par",
+      "reference": "Sl 62:7"
+    },
+    "8": {
+      "text": "Em Deus está minha salvação e minha glória, \\par em Deus está o meu forte rochedo. \\par Em Deus está o meu abrigo. \\par",
+      "reference": "Sl 62:8"
+    },
+    "9": {
+      "text": "Confiai nele, ó povo, em qualquer tempo, \\par derramai vosso coração em sua presença, \\par pois Deus é um abrigo para nós! \\par",
+      "reference": "Sl 62:9"
+    },
+    "10": {
+      "text": "Somente um sopro são os filhos de Adão, \\par apenas mentira os filhos do homem: \\par se subissem na balança, \\par juntos seriam menos que um sopro. \\par",
+      "reference": "Sl 62:10"
+    },
+    "11": {
+      "text": "Não confieis na opressão, \\par nem vos iludais com o roubo; \\par quando vossa riqueza prospera, \\par não ponhais nela vosso coração! \\par",
+      "reference": "Sl 62:11"
+    },
+    "12": {
+      "text": "Deus falou uma vez, \\par e duas vezes eu ouvi: \\par que a Deus pertence a força, \\par",
+      "reference": "Sl 62:12"
+    },
+    "13": {
+      "text": "e a ti, Senhor, pertence o amor; \\par pois tu devolves a cada um \\par conforme as suas obras. \\par",
+      "reference": "Sl 62:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

@@ -1,0 +1,85 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A sabedoria hospitaleira\\par }A Sabedoria construiu a sua casa, \\par talhando suas sete colunas. \\par",
+      "reference": "Pv 9:1"
+    },
+    "2": {
+      "text": "Abateu seus animais, misturou o vinho \\par e pôs a mesa. \\par",
+      "reference": "Pv 9:2"
+    },
+    "3": {
+      "text": "Enviou as suas criadas para anunciar \\par nos pontos que dominam a cidade: \\par",
+      "reference": "Pv 9:3"
+    },
+    "4": {
+      "text": "“Os ingênuos venham aqui; \\par quero falar aos sem juízo: \\par",
+      "reference": "Pv 9:4"
+    },
+    "5": {
+      "text": "Vinde comer do meu pão, \\par e beber do vinho que misturei. \\par",
+      "reference": "Pv 9:5"
+    },
+    "6": {
+      "text": "Deixai a ingenuidade e vivereis, \\par segui o caminho da inteligência”. \\par",
+      "reference": "Pv 9:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Contra os zombadores\\par }Quem corrige o zombador atrai ignomínia, \\par quem repreende o ímpio, a desonra. \\par",
+      "reference": "Pv 9:7"
+    },
+    "8": {
+      "text": "Não repreendas o zombador porque te odiará, \\par repreende o sábio, e ele te agradecerá. \\par",
+      "reference": "Pv 9:8"
+    },
+    "9": {
+      "text": "Dá ao sábio, e ele se tornará mais sábio, \\par ensina o justo, e ele aprendera ainda mais. \\par",
+      "reference": "Pv 9:9"
+    },
+    "10": {
+      "text": "O começo da sabedoria é o temor de Iahweh, \\par e o conhecimento dos santos é inteligência. \\par",
+      "reference": "Pv 9:10"
+    },
+    "11": {
+      "text": "Por mim prolongarás os teus dias, \\par e ajuntar-se-ão anos em tua vida.\\par",
+      "reference": "Pv 9:11"
+    },
+    "12": {
+      "text": "Se fores sábio, o serás para o teu proveito; \\par se te tornas zombador, somente tu o pagarás. \\par",
+      "reference": "Pv 9:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i A senhora insensatez arremeda a Sabedoria\\par }A senhora insensatez é impulsiva, \\par é ingênua e nada conhece. \\par",
+      "reference": "Pv 9:13"
+    },
+    "14": {
+      "text": "Senta-se à porta da casa, \\par num assento que domina a cidade, \\par",
+      "reference": "Pv 9:14"
+    },
+    "15": {
+      "text": "para chamar os transeuntes, \\par os que seguem o reto caminho: \\par",
+      "reference": "Pv 9:15"
+    },
+    "16": {
+      "text": "“Os ingênuos venham para cá, \\par quero falar aos sem juízo. \\par",
+      "reference": "Pv 9:16"
+    },
+    "17": {
+      "text": "A água roubada é mais doce, \\par e o pão escondido é mais saboroso”. \\par",
+      "reference": "Pv 9:17"
+    },
+    "18": {
+      "text": "E não sabem que em sua casa estão as Sombras, \\par e seus convidados, no fundo do Xeol! \\par",
+      "reference": "Pv 9:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

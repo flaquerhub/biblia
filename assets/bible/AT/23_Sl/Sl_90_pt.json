@@ -1,0 +1,81 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 90,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 90 (89)\\par }{\\qc\\b\\i Fragilidade do homem\\par }{\\qc\\i Súplica. De Moisés, homem de Deus.\\par } Senhor, foste para nós um refúgio \\par de geração em geração. \\par",
+      "reference": "Sl 90:1"
+    },
+    "2": {
+      "text": "Antes que os montes tivessem nascido \\par e fossem gerados a terra e o mundo, \\par desde sempre e para sempre tu és Deus. \\par",
+      "reference": "Sl 90:2"
+    },
+    "3": {
+      "text": "Fazes o mortal voltar ao pó, \\par Dizendo: “Voltai, ó filhos de Adão!” \\par",
+      "reference": "Sl 90:3"
+    },
+    "4": {
+      "text": "Pois mil anos são aos teus olhos \\par como o dia de ontem que passou, \\par uma vigília dentro da noite! \\par",
+      "reference": "Sl 90:4"
+    },
+    "5": {
+      "text": "Tu os inundas com sono, \\par eles são como erva que brota de manhã: \\par",
+      "reference": "Sl 90:5"
+    },
+    "6": {
+      "text": "de manhã ela germina e brota, \\par de tarde ela murcha e seca. \\par",
+      "reference": "Sl 90:6"
+    },
+    "7": {
+      "text": "Sim, por tua ira nós somos consumidos, \\par ficamos transtornados pelo teu furor. \\par",
+      "reference": "Sl 90:7"
+    },
+    "8": {
+      "text": "Colocaste nossas faltas à tua frente, \\par nossos segredos sob a luz da tua face. \\par",
+      "reference": "Sl 90:8"
+    },
+    "9": {
+      "text": "Nossos dias todos passam sob tua cólera, \\par como um suspiro consumimos nossos anos. \\par",
+      "reference": "Sl 90:9"
+    },
+    "10": {
+      "text": "Setenta anos é o tempo da nossa vida, \\par oitenta anos, se ela for vigorosa; \\par e a maior parte deles é fadiga e mesquinhez, \\par pois passam depressa, e nós voamos. \\par",
+      "reference": "Sl 90:10"
+    },
+    "11": {
+      "text": "Quem conhece a força de tua ira, \\par e, temendo-te, conhece teu furor? \\par",
+      "reference": "Sl 90:11"
+    },
+    "12": {
+      "text": "Ensina-nos a contar nossos dias, \\par para que venhamos a ter um coração sábio! \\par",
+      "reference": "Sl 90:12"
+    },
+    "13": {
+      "text": "Volta, Iahweh! Até quando? \\par Tem piedade dos teus servos! \\par",
+      "reference": "Sl 90:13"
+    },
+    "14": {
+      "text": "Sacia-nos com teu amor pela manhã, \\par e, alegres, exultaremos nossos dias todos. \\par",
+      "reference": "Sl 90:14"
+    },
+    "15": {
+      "text": "Alegra-nos pelos dias em que nos castigaste \\par e os anos em que vimos a desgraça. \\par",
+      "reference": "Sl 90:15"
+    },
+    "16": {
+      "text": "Que tua obra se manifeste aos teus servos, \\par e teu esplendor esteja sobre nossos filhos! \\par",
+      "reference": "Sl 90:16"
+    },
+    "17": {
+      "text": "Que a bondade do Senhor esteja sobre nós! \\par Confirma a obra de nossas mãos! \\par",
+      "reference": "Sl 90:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

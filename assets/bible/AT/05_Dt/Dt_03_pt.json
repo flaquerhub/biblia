@@ -1,0 +1,129 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Conquista do reino de Og\\par }Voltamo-nos então e subimos em direção de Basã. Og, rei de Basã, juntamente com o seu povo, saiu ao nosso encontro para guerrear em Edrai.",
+      "reference": "Dt 3:1"
+    },
+    "2": {
+      "text": "Disse-me Iahweh: ‘Não o temas, pois entreguei em tua mão tanto a ele como todo o seu povo, e a sua terra. Tratá-lo-ás como trataste a Seon, o dei dos amorreus que habitava em Hesebon’.",
+      "reference": "Dt 3:2"
+    },
+    "3": {
+      "text": "Iahweh nosso Deus entregou em nossas mãos também a Og, rei de Basã, juntamente com todo o seu povo. Nós o combatemos até que nenhum sobrevivente lhe restasse.",
+      "reference": "Dt 3:3"
+    },
+    "4": {
+      "text": "Apossamo-nos então de todas as suas cidades; não houve povoado que não tomássemos: sessenta cidades, toda a região de Argob, o reino de Og em Basã.",
+      "reference": "Dt 3:4"
+    },
+    "5": {
+      "text": "Todas essas cidades eram fortificadas com altas muralhas, providas de portas e ferrolhos; sem contar as cidades dos ferezeus, em grande quantidade.",
+      "reference": "Dt 3:5"
+    },
+    "6": {
+      "text": "Sacrificamo-las como anátema, como havíamos feito a Seon, rei de Hesebon, destruindo cada cidade, homens, mulheres e crianças.",
+      "reference": "Dt 3:6"
+    },
+    "7": {
+      "text": "Contudo, tomamos todo o gado e o despojo das cidades como presa. \\par",
+      "reference": "Dt 3:7"
+    },
+    "8": {
+      "text": "Foi assim que, naquele tempo, tomamos a terra dos dois reis amorreus, no outro lado do Jordão, desde o ribeiro Arnon até ao monte Hermon,",
+      "reference": "Dt 3:8"
+    },
+    "9": {
+      "text": "(os sidônios chamam o Hermon de Sarion; os amorreus, porém, chamam-no de Sanir),",
+      "reference": "Dt 3:9"
+    },
+    "10": {
+      "text": "todas as cidades do planalto, todo Galaad e todo Basã, até Selca e Edrai, cidades do reino de Og em Basã.",
+      "reference": "Dt 3:10"
+    },
+    "11": {
+      "text": "(Pois somente Og rei de Basã, sobrevivera dos remanescentes do rafaim; seu leito é o leito de ferro que está em Rabá dos filhos de Amon: tem nove côvados de comprimento e quatro côvados de largura, em côvado comum). \\par",
+      "reference": "Dt 3:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Partilha da Transjordânia\\par }Ocupamos então aquela terra, desde Aroer, que está à margem do ribeiro Arnon. Dei aos rubenitas e aos gaditas a metade da montanha de Galaad, com suas cidades.",
+      "reference": "Dt 3:12"
+    },
+    "13": {
+      "text": "À meia tribo de Manassés dei o resto de Galaad e todo Basã, o reino de Og. (Toda aquela região de Argob, todo Basã, se chamava terra dos rafaim.",
+      "reference": "Dt 3:13"
+    },
+    "14": {
+      "text": "Jair, filho de Manassés, tomou a região de Argob, até às fronteiras dos gessuritas e dos maacatitas. Em vez de Basã, foi dado a esses lugares o nome de Havot-Jair, que permanece até o dia de hoje.)",
+      "reference": "Dt 3:14"
+    },
+    "15": {
+      "text": "A Maquir dei Galaad.",
+      "reference": "Dt 3:15"
+    },
+    "16": {
+      "text": "Aos rubenitas e aos gaditas dei o território que vai de Galaad até o ribeiro Arnon – o meio do ribeiro serve de fronteira –, e até ao ribeiro Jaboc, que é fronteira dos filhos de Amon.",
+      "reference": "Dt 3:16"
+    },
+    "17": {
+      "text": "A Arabá e o Jordão servem de fronteira, desde Quineret até ao mar da Arabá (o mar salgado), aos pés do declive oriental do Fasga. \\par",
+      "reference": "Dt 3:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Últimas ordens de Moisés\\par }Foi então que eu vos dei esta ordem: ‘Iahweh vosso Deus entregou-vos esta terra como propriedade. Vós, combatentes, homens fortes, marchareis à frente dos vossos irmãos, os filhos de Israel;",
+      "reference": "Dt 3:18"
+    },
+    "19": {
+      "text": "somente vossas mulheres, vossas crianças e vosso gado (sei que tendes muito gado) permanecerão nas cidades que vos dei,",
+      "reference": "Dt 3:19"
+    },
+    "20": {
+      "text": "até que Iahweh tenha dado repouso aos vossos irmãos como a vós, e que também eles tenham conquistado a terra que Iahweh vosso Deus lhes dará, no outro lado do Jordão. Voltareis então, cada um para a propriedade que vos dei’.",
+      "reference": "Dt 3:20"
+    },
+    "21": {
+      "text": "Nessa mesma ocasião ordenei a Josué: ‘Teus olhos foram testemunhas de tudo o que Iahweh nosso Deus fez a esses dois reis. Pois assim fará Iahweh a todos os reinos por onde passares.",
+      "reference": "Dt 3:21"
+    },
+    "22": {
+      "text": "Não tenhais medo deles, pois quem combate por vós é Iahweh vosso Deus!’ \\par",
+      "reference": "Dt 3:22"
+    },
+    "23": {
+      "text": "Implorei então a Iahweh:",
+      "reference": "Dt 3:23"
+    },
+    "24": {
+      "text": "‘Iahweh, meu Senhor! Começaste a mostrar ao teu servo tua grandeza e a força da tua mão. Qual é o deus no céu e na terra que pode realizar obras e feitos poderosos como os teus?",
+      "reference": "Dt 3:24"
+    },
+    "25": {
+      "text": "Deixa-me passar! Deixa-me ver a boa terra que está do outro lado do Jordão, esta boa montanha e o Líbano!’",
+      "reference": "Dt 3:25"
+    },
+    "26": {
+      "text": "Por vossa causa, porém, Iahweh irritou-se contra mim e não me atendeu; Iahweh disse-me apenas: ‘Basta! Não me fales mais nada a este respeito!",
+      "reference": "Dt 3:26"
+    },
+    "27": {
+      "text": "Sobe ao topo do Fasga, levanta teus olhos para o ocidente, para o norte, para o sul e para o oriente, e contempla com os teus olhos, pois não vais atravessar este Jordão!",
+      "reference": "Dt 3:27"
+    },
+    "28": {
+      "text": "Passa tuas ordens a Josué. Encoraja-o e fortifica-o, pois é ele quem vai atravessar à frente deste povo, fazendo-o tomar posse da terra que estás contemplando!’ \\par",
+      "reference": "Dt 3:28"
+    },
+    "29": {
+      "text": "Permanecemos então no vale, diante de Bet-Fegor. \\par",
+      "reference": "Dt 3:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

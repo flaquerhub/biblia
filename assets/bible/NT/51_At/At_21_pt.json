@@ -1,0 +1,173 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Subida a Jerusalém\\par }Então, tendo-nos como que arrancado de seus braços, embarcamos e navegamos em linha reta à ilha de Cós. No dia seguinte chegamos a Rodes e, de lá, a Pátara.",
+      "reference": "At 21:1"
+    },
+    "2": {
+      "text": "Encontrando aí um navio que fazia a travessia para a Fenícia, embarcamos e nos fizemos ao mar.",
+      "reference": "At 21:2"
+    },
+    "3": {
+      "text": "Chegando à vista de Chipre, deixamo-la à esquerda e continuamos a vogar rumo à Síria, aportando em Tiro: aí devia o navio descarregar.",
+      "reference": "At 21:3"
+    },
+    "4": {
+      "text": "Encontrando os discípulos, ficamos lá sete dias. Movidos pelo Espírito, eles diziam a Paulo que não subisse a Jerusalém.",
+      "reference": "At 21:4"
+    },
+    "5": {
+      "text": "Completados os dias da nossa permanência, pusemo-nos a caminho para partir. Todos quiseram acompanhar-nos, com suas mulheres e crianças, até fora da cidade. Na praia pusemo-nos de joelhos, para orar.",
+      "reference": "At 21:5"
+    },
+    "6": {
+      "text": "Depois, despedimo-nos mutuamente e embarcamos. Eles voltaram para suas casas. \\par",
+      "reference": "At 21:6"
+    },
+    "7": {
+      "text": "Quanto a nós, concluindo nossa viagem, de Tiro chegamos a Ptolemaida. Ali, tendo saudado os irmãos, ficamos um dia com eles.",
+      "reference": "At 21:7"
+    },
+    "8": {
+      "text": "Partindo no dia seguinte, dirigimo-nos a Cesaréia. Lá dirigimo-nos à casa de Filipe, o Evangelista, que era um dos Sete, com quem nos hospedamos.",
+      "reference": "At 21:8"
+    },
+    "9": {
+      "text": "Ele tinha quatro filhas virgens, que profetizavam.",
+      "reference": "At 21:9"
+    },
+    "10": {
+      "text": "Enquanto passávamos aí vários dias, desceu da Judéia um profeta, chamado Ágabo.",
+      "reference": "At 21:10"
+    },
+    "11": {
+      "text": "Vindo ter conosco, ele tomou o cinto de Paulo e, amarrando-se de pés e mãos, declarou: “Isto diz o Espírito Santo: O homem a quem pertence este cinto, assim o prenderão em Jerusalém os judeus, e o entregarão às mãos dos gentios”.",
+      "reference": "At 21:11"
+    },
+    "12": {
+      "text": "Ao ouvirmos essas palavras, nós e os do lugar começamos a suplicar a Paulo que não subisse a Jerusalém.",
+      "reference": "At 21:12"
+    },
+    "13": {
+      "text": "Mas ele respondeu: “Que estais fazendo, chorando e afligindo o meu coração? Pois estou pronto, não somente a ser preso, mas até a morrer em Jerusalém, pelo nome do Senhor Jesus”.",
+      "reference": "At 21:13"
+    },
+    "14": {
+      "text": "Como não se deixasse persuadir, aquietamo-nos, dizendo: “Seja feita a vontade do Senhor!” \\par",
+      "reference": "At 21:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Chegada de Paulo a Jerusalém\\par }Depois desses dias, tendo-nos preparado, começamos a subir a Jerusalém.",
+      "reference": "At 21:15"
+    },
+    "16": {
+      "text": "Acompanharam-nos alguns dos discípulos de Cesaréia, e nos levaram à casa de certo Mnason, de Chipre, antigo discípulo, com quem nos deveríamos hospedar. \\par",
+      "reference": "At 21:16"
+    },
+    "17": {
+      "text": "Ao chegarmos a Jerusalém, receberam-nos os irmãos com alegria.",
+      "reference": "At 21:17"
+    },
+    "18": {
+      "text": "No dia seguinte, Paulo foi conosco à casa de Tiago, onde todos os anciãos se reuniram.",
+      "reference": "At 21:18"
+    },
+    "19": {
+      "text": "Depois de havê-lo saudado, começou a expor minuciosamente o que Deus fizera entre os gentios por seu ministério.",
+      "reference": "At 21:19"
+    },
+    "20": {
+      "text": "Eles, ouvindo-o, glorificavam a Deus. Mas depois disseram-lhe: “Tu vês, irmão, quantos milhares de judeus há que abraçaram a fé, e todos são zeladores da Lei!",
+      "reference": "At 21:20"
+    },
+    "21": {
+      "text": "Ora, foram informados, a teu respeito, que ensinas todos os judeus, que vivem no meio dos gentios, a apostatarem de Moisés, dizendo-lhes que não circuncidem mais seus filhos nem continuem a seguir suas tradições.",
+      "reference": "At 21:21"
+    },
+    "22": {
+      "text": "Que fazer? Certamente há de aglomerar-se a multidão, ao saberem que chegaste.",
+      "reference": "At 21:22"
+    },
+    "23": {
+      "text": "Faze, pois, o que te vamos dizer. Estão aqui quatro homens que têm a sua promessa a cumprir.",
+      "reference": "At 21:23"
+    },
+    "24": {
+      "text": "Leva-os contigo, purifica-te com eles, e encarrega-te das despesas para que possam mandar raspar a cabeça. Assim todos saberão que nada existe do que se propala a teu respeito, mas que andas firme, tu também observante da Lei.",
+      "reference": "At 21:24"
+    },
+    "25": {
+      "text": "Quanto aos gentios que abraçaram a fé, já lhes escrevemos sobre nossas decisões: que se abstenham das carnes imoladas aos ídolos, do sangue, das carnes sufocadas e das uniões ilegítimas”. \\par",
+      "reference": "At 21:25"
+    },
+    "26": {
+      "text": "Paulo, então, levou os homens consigo. No dia seguinte purificou-se com eles e entrou no Templo, comunicando o prazo em que , terminados os dias da purificação, devia ser oferecido o sacrifício na intenção de cada um deles. \\par",
+      "reference": "At 21:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Prisão de Paulo\\par }Os sete dias estavam chegando ao fim, quando os judeus da Ásia, tendo-o percebido no Templo, amotinaram toda a multidão e o agarraram,",
+      "reference": "At 21:27"
+    },
+    "28": {
+      "text": "gritando: “Homens de Israel, socorro! Este é o indivíduo que ensina a todos e por toda parte contra o nosso povo, a Lei e este Lugar! Além disso, trouxe gregos para dentro do Templo, assim profanando este santo Lugar”.",
+      "reference": "At 21:28"
+    },
+    "29": {
+      "text": "De fato, haviam visto antes a Trófimo, o efésio, com ele na cidade, e julgavam que Paulo o houvesse introduzido no Templo. \\par",
+      "reference": "At 21:29"
+    },
+    "30": {
+      "text": "A cidade toda agitou-se e houve aglomeração do povo. Apoderaram-se de Paulo e arrastaram-no para fora do Templo, fechando-se imediatamente as portas.",
+      "reference": "At 21:30"
+    },
+    "31": {
+      "text": "Já procuravam matá-lo, quando chegou ao tribuno da coorte a notícia: “Toda Jerusalém está amotinada!”",
+      "reference": "At 21:31"
+    },
+    "32": {
+      "text": "Ele imediatamente destacou soldados e centuriões e arremeteu contra os manifestantes. Estes, à vista do tribuno e dos soldados, cessaram de bater em Paulo.",
+      "reference": "At 21:32"
+    },
+    "33": {
+      "text": "Aproximou-se então o tribuno, deteve-o e mandou que o prendessem com duas correntes; depois perguntou quem era e o que havia feito.",
+      "reference": "At 21:33"
+    },
+    "34": {
+      "text": "Uns gritavam uma coisa, outros outra, na multidão. Não podendo, pois, obter uma informação segura, por causa do tumulto, ordenou que o conduzissem para a fortaleza.",
+      "reference": "At 21:34"
+    },
+    "35": {
+      "text": "Quando chegou aos degraus, Paulo teve de ser carregado pelos soldados, por causa da violência da multidão.",
+      "reference": "At 21:35"
+    },
+    "36": {
+      "text": "Pois a massa do povo o seguia, gritando: “À morte com ele!” \\par",
+      "reference": "At 21:36"
+    },
+    "37": {
+      "text": "Estando para ser recolhido à fortaleza, disse Paulo ao tribuno: “É-me permitido dizer-te uma palavra?” Replicou o tribuno: “Sabes o grego?",
+      "reference": "At 21:37"
+    },
+    "38": {
+      "text": "Não és tu, acaso, o egípcio que, dias atrás, sublevou e arrastou ao deserto quatro mil bandidos?”",
+      "reference": "At 21:38"
+    },
+    "39": {
+      "text": "Respondeu-lhe Paulo: “Eu sou judeu, de Tarso, da Cilícia, cidadão de uma cidade insigne. Agora, porém, peço-te: permite-me falar ao povo”.",
+      "reference": "At 21:39"
+    },
+    "40": {
+      "text": "Dando-lhe ele a permissão, Paulo, de pé sobre os degraus, fez sinal com a mão ao povo. Fazendo-se grande silêncio, dirigiu-lhes a palavra em língua hebraica. \\par",
+      "reference": "At 21:40"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 40
+}

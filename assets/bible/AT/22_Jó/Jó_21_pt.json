@@ -1,0 +1,149 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O desmentido dos fatos\\par }Jó tomou a palavra e disse: \\par",
+      "reference": "Jó 21:1"
+    },
+    "2": {
+      "text": "Escutai atentamente minhas palavras, \\par seja este o consolo que me dais. \\par",
+      "reference": "Jó 21:2"
+    },
+    "3": {
+      "text": "Permiti que eu fale, \\par e, quando tiver terminado, zombai à vontade. \\par",
+      "reference": "Jó 21:3"
+    },
+    "4": {
+      "text": "É de um homem que me queixo? \\par Como não hei de impacientar-me? \\par",
+      "reference": "Jó 21:4"
+    },
+    "5": {
+      "text": "Olhai para mim e empalidecei, \\par ponde a mão sobre a vossa boca. \\par",
+      "reference": "Jó 21:5"
+    },
+    "6": {
+      "text": "Só em pensar nisso, fico desconcertado, \\par um pavor apodera-se do meu corpo. \\par",
+      "reference": "Jó 21:6"
+    },
+    "7": {
+      "text": "Por que os ímpios continuam a viver, \\par e ao envelhecer se tornam ainda mais ricos? \\par",
+      "reference": "Jó 21:7"
+    },
+    "8": {
+      "text": "Vêem assegurada a própria descendência, \\par e seus rebentos aos seus olhos subsistem. \\par",
+      "reference": "Jó 21:8"
+    },
+    "9": {
+      "text": "Suas casas, em paz e sem temor, \\par a vara de Deus não as atinge. \\par",
+      "reference": "Jó 21:9"
+    },
+    "10": {
+      "text": "Seu touro reproduz sem falhar, \\par sua vaca dá cria sem abortar. \\par",
+      "reference": "Jó 21:10"
+    },
+    "11": {
+      "text": "Deixam as crianças correr como cabritos, \\par e seus pequenos saltar como cervos. \\par",
+      "reference": "Jó 21:11"
+    },
+    "12": {
+      "text": "Cantam ao som dos tamborins e da cítara \\par e divertem-se ao som da flauta. \\par",
+      "reference": "Jó 21:12"
+    },
+    "13": {
+      "text": "Sua vida termina na felicidade, \\par descem em paz ao Xeol. \\par",
+      "reference": "Jó 21:13"
+    },
+    "14": {
+      "text": "Eles que diziam a Deus: “Afasta-te de nós, \\par que não nos interessa conhecer teus caminhos. \\par",
+      "reference": "Jó 21:14"
+    },
+    "15": {
+      "text": "Quem é Shaddai, para que o sirvamos? \\par De que nos aproveita invocá-lo?” \\par",
+      "reference": "Jó 21:15"
+    },
+    "16": {
+      "text": "Acaso não têm eles a prosperidade em suas mãos, \\par e Deus não se afastou do conselho dos ímpios? \\par",
+      "reference": "Jó 21:16"
+    },
+    "17": {
+      "text": "Quantas vezes se vê apagar a lâmpada do ímpio, \\par a infelicidade cair sobre ele, \\par a ira divina destruir os seus bens, \\par",
+      "reference": "Jó 21:17"
+    },
+    "18": {
+      "text": "o vento arrastá-lo como palha, \\par o turbilhão levá-lo como debulho? \\par",
+      "reference": "Jó 21:18"
+    },
+    "19": {
+      "text": "Deus o puniria em seus filhos? \\par Que dê a ele mesmo o castigo merecido, para que o sinta! \\par",
+      "reference": "Jó 21:19"
+    },
+    "20": {
+      "text": "Que seus próprios olhos vejam sua ruína \\par e ele mesmo beba a cólera de Shaddai! \\par",
+      "reference": "Jó 21:20"
+    },
+    "21": {
+      "text": "Pois que lhe importam os de sua casa, depois de morto, \\par quando a quota de seus meses estiver preenchida? \\par",
+      "reference": "Jó 21:21"
+    },
+    "22": {
+      "text": "Acaso se pode ensinar a Deus o conhecimento, \\par Àquele que julga os seres do Alto? \\par",
+      "reference": "Jó 21:22"
+    },
+    "23": {
+      "text": "Este morre em pleno vigor, \\par de todo tranqüilo e em paz, \\par",
+      "reference": "Jó 21:23"
+    },
+    "24": {
+      "text": "seus flancos bem roliços, \\par e a medula de seus ossos cheia de seiva. \\par",
+      "reference": "Jó 21:24"
+    },
+    "25": {
+      "text": "Aquele morre com alma amargurada, \\par sem ter gozado a felicidade. \\par",
+      "reference": "Jó 21:25"
+    },
+    "26": {
+      "text": "E, contudo, jazem no mesmo pó, \\par cobrem-se ambos de vermes. \\par",
+      "reference": "Jó 21:26"
+    },
+    "27": {
+      "text": "Ah, eu conheço os vossos pensamentos, \\par vossas malvadas reflexões a meu respeito! \\par",
+      "reference": "Jó 21:27"
+    },
+    "28": {
+      "text": "Dizeis: “Onde está a casa do poderoso, \\par onde a morada dos ímpios?” \\par",
+      "reference": "Jó 21:28"
+    },
+    "29": {
+      "text": "Não interrogais os viajantes, \\par desconheceis os seus testemunhos? \\par",
+      "reference": "Jó 21:29"
+    },
+    "30": {
+      "text": "No dia do desastre o ímpio é poupado, \\par no dia do furor é posto a salvo. \\par",
+      "reference": "Jó 21:30"
+    },
+    "31": {
+      "text": "Quem lhe reprova sua conduta \\par e quem lhe dá a paga pelo que fez? \\par",
+      "reference": "Jó 21:31"
+    },
+    "32": {
+      "text": "É conduzido ao sepulcro, \\par e se monta guarda sobre seu túmulo. \\par",
+      "reference": "Jó 21:32"
+    },
+    "33": {
+      "text": "Leves lhe são os torrões do vale. \\par Atrás dele toda a população desfila. \\par",
+      "reference": "Jó 21:33"
+    },
+    "34": {
+      "text": "Que significam pois, essas vãs consolações? \\par Se nas vossas respostas não há mais que perfídia! \\par",
+      "reference": "Jó 21:34"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 34
+}

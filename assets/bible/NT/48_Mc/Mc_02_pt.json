@@ -1,0 +1,125 @@
+{
+  "book": 41,
+  "book_name": "Marcos",
+  "book_abbr": "Mc",
+  "book_category": "Evangelhos",
+  "book_english": "Mark",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Cura de um paralítico\\par }Entrando de novo em Cafarnaum, depois de alguns dias souberam que ele estava em casa.",
+      "reference": "Mc 2:1"
+    },
+    "2": {
+      "text": "E tantos foram os que se aglomeraram, que já não havia lugar nem à porta. E anunciava-lhes a Palavra.",
+      "reference": "Mc 2:2"
+    },
+    "3": {
+      "text": "Vieram trazer-lhe um paralítico, transportado por quatro homens.",
+      "reference": "Mc 2:3"
+    },
+    "4": {
+      "text": "E como não pudessem aproximar-se por causa da multidão, abriram o teto à altura do lugar onde ele se encontrava e, tendo feito um buraco, baixaram o leito em que jazia o paralítico.",
+      "reference": "Mc 2:4"
+    },
+    "5": {
+      "text": "Jesus, vendo sua fé, disse ao paralítico: “Filho, os teus pecados estão perdoados”.",
+      "reference": "Mc 2:5"
+    },
+    "6": {
+      "text": "Ora, alguns dos escribas que lá estavam sentados refletiam em seus corações:",
+      "reference": "Mc 2:6"
+    },
+    "7": {
+      "text": "“Por que está falando assim? Ele blasfema! Quem pode perdoar pecados a não ser Deus?”",
+      "reference": "Mc 2:7"
+    },
+    "8": {
+      "text": "Jesus imediatamente percebeu em seu espírito o que pensavam em seu íntimo, e disse: “Por que pensais assim em vossos corações?",
+      "reference": "Mc 2:8"
+    },
+    "9": {
+      "text": "O que é mais fácil dizer ao paralítico: ‘Os teus pecados estão perdoados’, ou dizer: ‘Levanta-te, toma o teu leito e anda?’",
+      "reference": "Mc 2:9"
+    },
+    "10": {
+      "text": "Pois bem, para que saibais que o Filho do Homem tem poder de perdoar pecados na terra,",
+      "reference": "Mc 2:10"
+    },
+    "11": {
+      "text": "eu te ordeno – disse ao paralítico – levanta-te, toma o teu leito e vai para tua casa”.",
+      "reference": "Mc 2:11"
+    },
+    "12": {
+      "text": "O paralítico levantou-se e, imediatamente, carregando o leito, saiu diante de todos, de sorte que ficaram admirados e glorificaram a Deus, dizendo: “Nunca vimos coisa igual!” \\par",
+      "reference": "Mc 2:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Vocação de Levi\\par }E tornou a sair para a beira-mar, e toda a multidão ia até ele; e ele os ensinava.",
+      "reference": "Mc 2:13"
+    },
+    "14": {
+      "text": "Ao passar, viu Levi, o filho de Alfeu, sentado na coletoria, e disse-lhe: “Segue-me”. Ele se levantou e o seguiu. \\par",
+      "reference": "Mc 2:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Refeição com os pecadores\\par }Aconteceu que, estando à mesa, em casa de Levi, muitos publicanos e pecadores também estavam com Jesus e os seus discípulos; pois eram muitos os que o seguiam.",
+      "reference": "Mc 2:15"
+    },
+    "16": {
+      "text": "Os escribas dos fariseus, vendo-o comer com os pecadores e os publicanos, diziam aos discípulos dele: “Quê? Ele come com os publicanos e pecadores?”",
+      "reference": "Mc 2:16"
+    },
+    "17": {
+      "text": "Ouvindo isso, Jesus lhes disse: “Não são os que têm saúde que precisam de médico, mas os doentes. Eu não vim chamar justos, mas pecadores”. \\par",
+      "reference": "Mc 2:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Debate sobre o jejum\\par }Os discípulos de João e os fariseus estavam jejuando, e vieram dizer-lhe: “Por que os discípulos de João e os discípulos dos fariseus jejuam, e teus discípulos não jejuam?”",
+      "reference": "Mc 2:18"
+    },
+    "19": {
+      "text": "Jesus respondeu: “Podem os amigos do noivo jejuar enquanto o noivo está com eles? Enquanto o noivo estiver com eles, não podem jejuar.",
+      "reference": "Mc 2:19"
+    },
+    "20": {
+      "text": "Dias virão, porém, em que o noivo lhes será tirado; e então jejuarão naquele dia.",
+      "reference": "Mc 2:20"
+    },
+    "21": {
+      "text": "Ninguém faz remendo de pano novo em roupa velha; porque a peça nova repuxa o vestido velho e o rasgo aumenta.",
+      "reference": "Mc 2:21"
+    },
+    "22": {
+      "text": "Ninguém põe vinho novo em odres velhos; caso contrário, o vinho estourará os odres, e tanto o vinho como os odres ficam inutilizados. Mas, vinho novo em odres novos!” \\par",
+      "reference": "Mc 2:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i As espigas arrancadas\\par }Aconteceu que, ao passar num sábado pelas plantações, seus discípulos começaram a abrir caminhos arrancando as espigas.",
+      "reference": "Mc 2:23"
+    },
+    "24": {
+      "text": "Os fariseus disseram-lhe: “Vê! Como fazem eles o que não é permitido fazer no sábado?”",
+      "reference": "Mc 2:24"
+    },
+    "25": {
+      "text": "Ele respondeu: “Nunca lestes o que fez Davi e seus companheiros quando necessitavam e tiveram fome,",
+      "reference": "Mc 2:25"
+    },
+    "26": {
+      "text": "e como entrou na casa de Deus, no tempo do Sumo Sacerdote Abiatar, e comeu {\\i dos pães da proposição,} que só os sacerdotes podem comer, e os deu também aos companheiros?” \\par",
+      "reference": "Mc 2:26"
+    },
+    "27": {
+      "text": "Então lhes dizia: “O sábado foi feito para o homem, e não o homem para o sábado;",
+      "reference": "Mc 2:27"
+    },
+    "28": {
+      "text": "de modo que o Filho do Homem é senhor até do sábado”. \\par",
+      "reference": "Mc 2:28"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 28
+}

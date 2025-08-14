@@ -1,0 +1,101 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Filhos de Deus e filhas dos homens\\par }Quando os homens começaram a ser numerosos sobre a face da terra, e lhes nasceram filhas,",
+      "reference": "Gn 6:1"
+    },
+    "2": {
+      "text": "os filhos de Deus viram que as filhas dos homens eram belas e tomaram como mulheres todas as que lhes agradaram.",
+      "reference": "Gn 6:2"
+    },
+    "3": {
+      "text": "Iahweh disse: “Meu espírito não se responsabilizará indefinidamente pelo homem, pois ele é carne; não viverá mais que cento e vinte anos”.",
+      "reference": "Gn 6:3"
+    },
+    "4": {
+      "text": "Ora, naquele tempo (e também depois), quando os filhos de Deus se uniam às filhas dos homens e estas lhes davam filhos, os Nefilim habitavam sobre a terra; estes homens famosos foram os heróis dos tempos antigos. \\par",
+      "reference": "Gn 6:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b 2. O DILÚVIO\\par }{\\qc\\b\\i A corrupção da humanidade\\par }Iahweh viu que a maldade do homem era grande sobre a terra, e que era continuamente mau todo desígnio de seu coração.",
+      "reference": "Gn 6:5"
+    },
+    "6": {
+      "text": "Iahweh arrependeu-se de ter feito o homem sobre a terra, e afligiu-se o seu coração.",
+      "reference": "Gn 6:6"
+    },
+    "7": {
+      "text": "E disse Iahweh: “Farei desaparecer da superfície do solo os homens que criei – e com os homens os animais, os répteis e as aves do céu –, porque me arrependo de os ter feito”.",
+      "reference": "Gn 6:7"
+    },
+    "8": {
+      "text": "Mas Noé encontrou graça aos olhos de Iahweh. \\par",
+      "reference": "Gn 6:8"
+    },
+    "9": {
+      "text": "Eis a história de Noé: \\par Noé era um homem justo, íntegro entre seus contemporâneos, e andava com Deus.",
+      "reference": "Gn 6:9"
+    },
+    "10": {
+      "text": "Noé gerou três filhos: Sem, Cam e Jafé.",
+      "reference": "Gn 6:10"
+    },
+    "11": {
+      "text": "A terra se perverteu diante de Deus e encheu-se de violência.",
+      "reference": "Gn 6:11"
+    },
+    "12": {
+      "text": "Deus viu a terra: estava pervertida, porque toda carne tinha uma conduta perversa sobre a terra. \\par",
+      "reference": "Gn 6:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Preparativos do dilúvio\\par }Deus disse a Noé: “Chegou o fim de toda carne, eu o decidi, pois a terra está cheia de violência por causa dos homens, e eu os farei desaparecer da terra.",
+      "reference": "Gn 6:13"
+    },
+    "14": {
+      "text": "Faze uma arca de madeira resinosa; tu a farás de caniços e a calafetarás com betume por dentro e por fora.",
+      "reference": "Gn 6:14"
+    },
+    "15": {
+      "text": "Eis como a farás: para o comprimento da arca, trezentos côvados; para sua largura, cinqüenta côvados; para sua altura, trinta côvados.",
+      "reference": "Gn 6:15"
+    },
+    "16": {
+      "text": "Farás um teto para a arca e o rematarás um côvado mais alto; farás a entrada da arca pelo lado, e farás um primeiro, um segundo e um terceiro andares. \\par",
+      "reference": "Gn 6:16"
+    },
+    "17": {
+      "text": "Quanto a mim, vou enviar o dilúvio, as águas, sobre a terra, para exterminar de debaixo do céu toda carne que tiver sopro de vida: tudo o que há na terra deve perecer.",
+      "reference": "Gn 6:17"
+    },
+    "18": {
+      "text": "Mas estabelecerei minha aliança contigo e entrarás na arca, tu e teus filhos, tua mulher e as mulheres de teus filhos contigo.",
+      "reference": "Gn 6:18"
+    },
+    "19": {
+      "text": "De tudo o que vive, de tudo o que é carne, farás entrar na arca dois de cada espécie, um macho e uma fêmea, para os conservares em vida contigo.",
+      "reference": "Gn 6:19"
+    },
+    "20": {
+      "text": "De cada espécie de aves, de cada espécie de animais, de cada espécie de todos os répteis do solo, virá contigo um casal, para os conservares em vida.",
+      "reference": "Gn 6:20"
+    },
+    "21": {
+      "text": "Quanto a ti, reúne todo tipo de alimento e armazena-o; isto servirá de alimento para ti e para eles”.",
+      "reference": "Gn 6:21"
+    },
+    "22": {
+      "text": "Noé assim fez; tudo o que Deus lhe ordenara, ele o fez. \\par",
+      "reference": "Gn 6:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

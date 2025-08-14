@@ -1,0 +1,125 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 73,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 73 (72)\\par }{\\qc\\b\\i A justiça final\\par }{\\qc\\i Salmo. De Asaf.\\par } De fato, Deus é bom para Israel, \\par o Senhor, para os corações puros. \\par",
+      "reference": "Sl 73:1"
+    },
+    "2": {
+      "text": "Por pouco meus pés tropeçavam, \\par um nada, e meus passos deslizavam, \\par",
+      "reference": "Sl 73:2"
+    },
+    "3": {
+      "text": "porque invejei os arrogantes, \\par vendo a prosperidade dos ímpios. \\par",
+      "reference": "Sl 73:3"
+    },
+    "4": {
+      "text": "Para eles não existem tormentos, \\par sua aparência é sadia e robusta; \\par",
+      "reference": "Sl 73:4"
+    },
+    "5": {
+      "text": "a fadiga dos mortais não os atinge, \\par não são molestados como os outros. \\par",
+      "reference": "Sl 73:5"
+    },
+    "6": {
+      "text": "Daí a soberba, cingindo-os como colar, \\par a violência, envolvendo-os como veste. \\par",
+      "reference": "Sl 73:6"
+    },
+    "7": {
+      "text": "A maldade lhes brota da gordura, \\par seu coração transborda em maus projetos. \\par",
+      "reference": "Sl 73:7"
+    },
+    "8": {
+      "text": "Caçoam e falam maliciosamente, \\par falam com altivez, oprimindo; \\par",
+      "reference": "Sl 73:8"
+    },
+    "9": {
+      "text": "contra o céu colocam sua boca \\par e sua língua percorre a terra. \\par",
+      "reference": "Sl 73:9"
+    },
+    "10": {
+      "text": "Por isso meu povo se volta para eles \\par e águas em abundância lhes vêm ao encontro. \\par",
+      "reference": "Sl 73:10"
+    },
+    "11": {
+      "text": "E dizem: “Acaso Deus conhece? \\par Existe conhecimento no Altíssimo?” \\par",
+      "reference": "Sl 73:11"
+    },
+    "12": {
+      "text": "Eis que os ímpios são assim \\par e, sempre tranqüilos, ajuntam riquezas! \\par",
+      "reference": "Sl 73:12"
+    },
+    "13": {
+      "text": "De fato, inutilmente conservei o coração puro, \\par lavando na inocência minhas mãos! \\par",
+      "reference": "Sl 73:13"
+    },
+    "14": {
+      "text": "Sim, sou molestado o dia inteiro, \\par e castigado a cada manhã... \\par",
+      "reference": "Sl 73:14"
+    },
+    "15": {
+      "text": "Se eu dissesse: “Vou falar com eles!”, \\par já teria traído a geração de teus filhos. \\par",
+      "reference": "Sl 73:15"
+    },
+    "16": {
+      "text": "Então refleti para compreender, \\par e que fadiga era isto aos meus olhos! \\par",
+      "reference": "Sl 73:16"
+    },
+    "17": {
+      "text": "Até que entrei nos santuários divinos: \\par entendi então o destino deles! \\par",
+      "reference": "Sl 73:17"
+    },
+    "18": {
+      "text": "De fato, tu os pões em ladeiras, \\par tu os fazes cair, em ruínas. \\par",
+      "reference": "Sl 73:18"
+    },
+    "19": {
+      "text": "Ei-los num instante reduzidos ao terror, \\par deixam de existir, perecem, por causa do pavor! \\par",
+      "reference": "Sl 73:19"
+    },
+    "20": {
+      "text": "Como um sonho ao despertar, ó Senhor, \\par ao acordar desprezas sua imagem. \\par",
+      "reference": "Sl 73:20"
+    },
+    "21": {
+      "text": "Quando meu coração se azedava \\par e eu espicaçava os meus rins, \\par",
+      "reference": "Sl 73:21"
+    },
+    "22": {
+      "text": "é porque eu era imbecil e não sabia, \\par eu era animal junto a ti. \\par",
+      "reference": "Sl 73:22"
+    },
+    "23": {
+      "text": "Quanto a mim, estou sempre contigo, \\par tu me agarraste pela mão direita; \\par",
+      "reference": "Sl 73:23"
+    },
+    "24": {
+      "text": "tu me conduzes com teu conselho \\par e com tua glória me atrairás. \\par",
+      "reference": "Sl 73:24"
+    },
+    "25": {
+      "text": "Quem teria eu no céu? \\par Contigo, nada mais me agrada na terra. \\par",
+      "reference": "Sl 73:25"
+    },
+    "26": {
+      "text": "Minha carne e meu coração podem se consumir: \\par a rocha do meu coração, a minha porção é Deus, para sempre! \\par",
+      "reference": "Sl 73:26"
+    },
+    "27": {
+      "text": "Sim, os que se afastam de ti se perdem, \\par tu repeles teus adúlteros todos. \\par",
+      "reference": "Sl 73:27"
+    },
+    "28": {
+      "text": "Quanto a mim, estar junto de Deus é o meu bem! \\par Em Deus coloquei o meu abrigo, \\par para contar todas as tuas obras. \\par",
+      "reference": "Sl 73:28"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 28
+}

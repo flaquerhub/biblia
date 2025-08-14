@@ -1,0 +1,121 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O preguiçoso\\par }O preguiçoso é semelhante a uma pedra suja de lodo, \\par todos zombam dele com desprezo. \\par",
+      "reference": "Eclo 22:1"
+    },
+    "2": {
+      "text": "O preguiçoso é semelhante a um monte de esterco, \\par todo aquele que o tocar sacudirá a mão. \\par",
+      "reference": "Eclo 22:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Os filhos degenerados\\par }Um filho mal-educado é a vergonha do pai, \\par mas uma filha nasce para sua confusão. \\par",
+      "reference": "Eclo 22:3"
+    },
+    "4": {
+      "text": "Uma filha sensata encontrará um marido, \\par mas a desavergonhada causa tristeza àquele que a gerou. \\par",
+      "reference": "Eclo 22:4"
+    },
+    "5": {
+      "text": "Uma filha audaciosa envergonha o pai e o marido, \\par por ambos será desprezada. \\par",
+      "reference": "Eclo 22:5"
+    },
+    "6": {
+      "text": "Uma palavra inoportuna é música em dia de luto; \\par mas chicote e disciplina, em todo tempo, são obras da sabedoria. \\par",
+      "reference": "Eclo 22:6"
+    },
+    "7": {
+      "text": "*",
+      "reference": "Eclo 22:7"
+    },
+    "8": {
+      "text": "*",
+      "reference": "Eclo 22:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Sabedoria e loucura\\par }Ensinar ao estulto é como colar cacos, \\par é acordar alguém que dorme profundamente. \\par",
+      "reference": "Eclo 22:9"
+    },
+    "10": {
+      "text": "Explicar a um estulto é como explicar a um sonolento, \\par no fim dirá: “O que foi?” \\par",
+      "reference": "Eclo 22:10"
+    },
+    "11": {
+      "text": "Chora por um morto porque perdeu a luz, \\par chora por um estulto porque perdeu a inteligência. \\par Chora mais docemente por um morto, pois repousa; \\par porém, a vida do estulto é pior do que a morte. \\par",
+      "reference": "Eclo 22:11"
+    },
+    "12": {
+      "text": "O luto por um morto dura sete dias; \\par pelo estulto e pelo ímpio, todos os dias de sua vida. \\par",
+      "reference": "Eclo 22:12"
+    },
+    "13": {
+      "text": "Com o insensato não multipliques palavras, \\par não caminhes em direção a um estulto, \\par guarda-te dele para não teres aborrecimento \\par e para não te sujares ao seu contato. \\par Evita-o e encontrarás repouso \\par e não te desencorajes com a sua loucura. \\par",
+      "reference": "Eclo 22:13"
+    },
+    "14": {
+      "text": "O que é mais pesado do que o chumbo? \\par E que outro nome dar-lhe senão o de insensato? \\par",
+      "reference": "Eclo 22:14"
+    },
+    "15": {
+      "text": "Areia, sal, uma bola de ferro \\par são mais fáceis de se transportar do que o homem estulto. \\par",
+      "reference": "Eclo 22:15"
+    },
+    "16": {
+      "text": "O madeiramento incrustado na construção \\par não se desligará com um terremoto; \\par assim, o coração firmado por um desígnio da vontade \\par não temerá em nenhuma ocasião. \\par",
+      "reference": "Eclo 22:16"
+    },
+    "17": {
+      "text": "Um coração apoiado sobre uma sábia reflexão \\par é como ornamento de estuque sobre parede limpa. \\par",
+      "reference": "Eclo 22:17"
+    },
+    "18": {
+      "text": "Cascalho no alto da parede \\par não resiste ao vento; \\par assim, o coração tímido, por causa de seus pensamentos tolos, \\par não resiste ao temor. \\par",
+      "reference": "Eclo 22:18"
+    },
+    "19": {
+      "text": "Aquele que fere o olho faz cair lágrimas; \\par ferindo o coração, faz aparecer os sentimentos. \\par",
+      "reference": "Eclo 22:19"
+    },
+    "20": {
+      "text": "Aquele que joga uma pedra nos passarinhos afugenta-os, \\par o que insulta um amigo desfaz a amizade. \\par",
+      "reference": "Eclo 22:20"
+    },
+    "21": {
+      "text": "Ainda que tenhas desembainhado a espada contra o amigo \\par não desesperes, porque existe um retorno. \\par",
+      "reference": "Eclo 22:21"
+    },
+    "22": {
+      "text": "Se abrires a boca contra teu amigo, \\par não temas, porque existe uma reconciliação, \\par exceto no caso de ultraje, arrogância, \\par revelação de segredo, golpe de traição: \\par nesses casos qualquer amigo fugirá. \\par",
+      "reference": "Eclo 22:22"
+    },
+    "23": {
+      "text": "Ganha a confiança do próximo na sua pobreza, \\par para que, na prosperidade, gozes com ele. \\par Sê fiel a ele no tempo da provação, \\par para teres parte na sua herança. \\par",
+      "reference": "Eclo 22:23"
+    },
+    "24": {
+      "text": "Antes do fogo vêm o vapor da fornalha e a fumaça; \\par assim, antes do sangue, vêm as ofensas. \\par",
+      "reference": "Eclo 22:24"
+    },
+    "25": {
+      "text": "Não me envergonharei de proteger um amigo, \\par dele não me esconderei, \\par",
+      "reference": "Eclo 22:25"
+    },
+    "26": {
+      "text": "e se por causa dele me sobrevier algum mal, \\par todo aquele que ouvir isso dele se acautelará. \\par",
+      "reference": "Eclo 22:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Vigilância\\par }Quem me colocará um guarda na boca \\par e sobre os lábios o selo da sagacidade, \\par para que eu não caia por sua falta \\par e minha língua não me arruíne? \\par",
+      "reference": "Eclo 22:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

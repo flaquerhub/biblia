@@ -1,0 +1,169 @@
+{
+  "book": 45,
+  "book_name": "Romanos",
+  "book_abbr": "Rm",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "Romans",
+  "testament": "NT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b B. A VIDA DO CRISTÃO NO ESPÍRITO\\par }{\\qc\\b\\i A vida no Espírito\\par }Portanto, não existe mais condenação para aqueles que estão em Cristo Jesus.",
+      "reference": "Rm 8:1"
+    },
+    "2": {
+      "text": "A Lei do Espírito da vida em Cristo Jesus te libertou da lei do pecado e da morte.",
+      "reference": "Rm 8:2"
+    },
+    "3": {
+      "text": "De fato – coisa impossível à Lei, porque enfraquecida pela carne – Deus, enviando o seu próprio Filho numa carne semelhante à do pecado e em vista do pecado, condenou o pecado na carne,",
+      "reference": "Rm 8:3"
+    },
+    "4": {
+      "text": "a fim de que o preceito da Lei se cumprisse em nós que não vivemos segundo a carne, mas segundo o espírito. \\par",
+      "reference": "Rm 8:4"
+    },
+    "5": {
+      "text": "Com efeito, os que vivem segundo a carne desejam as coisas da carne, e os que vivem segundo o espírito, as coisas que são do espírito.",
+      "reference": "Rm 8:5"
+    },
+    "6": {
+      "text": "De fato, o desejo da carne é morte, ao passo que o desejo do espírito é vida e paz,",
+      "reference": "Rm 8:6"
+    },
+    "7": {
+      "text": "uma vez que o desejo da carne é inimigo de Deus: pois ele não se submete à lei de Deus, e nem o pode,",
+      "reference": "Rm 8:7"
+    },
+    "8": {
+      "text": "pois os que estão na carne não podem agradar a Deus.",
+      "reference": "Rm 8:8"
+    },
+    "9": {
+      "text": "Vós não estais na carne, mas no espírito, se é verdade que o Espírito de Deus habita em vós, pois quem não tem o Espírito de Cristo não pertence a ele.",
+      "reference": "Rm 8:9"
+    },
+    "10": {
+      "text": "Se, porém, Cristo está em vós, o corpo está morto, pelo pecado, mas o Espírito é vida, pela justiça.",
+      "reference": "Rm 8:10"
+    },
+    "11": {
+      "text": "E se o Espírito daquele que ressuscitou Jesus dentre os mortos habita em vós, aquele que ressuscitou Cristo Jesus dentre os mortos dará vida também a vossos corpos mortais, mediante o seu Espírito que habita em vós. \\par",
+      "reference": "Rm 8:11"
+    },
+    "12": {
+      "text": "Portanto, irmãos, somos devedores não à carne para vivermos segundo a carne.",
+      "reference": "Rm 8:12"
+    },
+    "13": {
+      "text": "Pois se viverdes segundo a carne, morrereis, mas, se pelo Espírito fizerdes morrer as obras do corpo, vivereis. \\par",
+      "reference": "Rm 8:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Filhos de Deus graças ao Espírito\\par }Todos os que são conduzidos pelo Espírito de Deus são filhos de Deus.",
+      "reference": "Rm 8:14"
+    },
+    "15": {
+      "text": "Com efeito, não recebestes um espírito de escravos, para recair no temor, mas recebestes um espírito de filhos adotivos, pelo qual clamamos: {\\i Abba!} Pai!",
+      "reference": "Rm 8:15"
+    },
+    "16": {
+      "text": "O próprio Espírito se une ao nosso espírito para testemunhar que somos filhos de Deus.",
+      "reference": "Rm 8:16"
+    },
+    "17": {
+      "text": "E se somos filhos, somos também herdeiros; herdeiros de Deus e co-herdeiros de Cristo, pois sofremos com ele para também com ele sermos glorificados. \\par",
+      "reference": "Rm 8:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Destinados à glória\\par }Penso, com efeito, que os sofrimentos do tempo presente não têm proporção com a glória que deverá revelar-se em nós.",
+      "reference": "Rm 8:18"
+    },
+    "19": {
+      "text": "Pois a criação em expectativa anseia pela revelação dos filhos de Deus.",
+      "reference": "Rm 8:19"
+    },
+    "20": {
+      "text": "De fato, a criação foi submetida à vaidade – não por seu querer, mas por vontade daquele que a submeteu – na esperança",
+      "reference": "Rm 8:20"
+    },
+    "21": {
+      "text": "de ela também ser libertada da escravidão da corrupção para entrar na liberdade da glória dos filhos de Deus.",
+      "reference": "Rm 8:21"
+    },
+    "22": {
+      "text": "Pois sabemos que a criação inteira geme e sofre as dores de parto até o presente.",
+      "reference": "Rm 8:22"
+    },
+    "23": {
+      "text": "E não somente ela. Mas também nós, que temos as primícias do Espírito, gememos interiormente, suspirando pela redenção do nosso corpo.",
+      "reference": "Rm 8:23"
+    },
+    "24": {
+      "text": "Pois nossa salvação é objeto de esperança; e ver o que se espera não é esperar. Acaso alguém espera o que vê?",
+      "reference": "Rm 8:24"
+    },
+    "25": {
+      "text": "E se esperamos o que não vemos, é na perseverança que o aguardamos. \\par",
+      "reference": "Rm 8:25"
+    },
+    "26": {
+      "text": "Assim também o Espírito socorre a nossa fraqueza. Pois não sabemos o que pedir como convém; mas o próprio Espírito intercede por nós com gemidos inefáveis,",
+      "reference": "Rm 8:26"
+    },
+    "27": {
+      "text": "e aquele que perscruta os corações sabe qual o desejo do Espírito; pois, é segundo Deus que ele intercede pelos santos. \\par",
+      "reference": "Rm 8:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i O plano da salvação\\par }E nós sabemos que Deus coopera em tudo para o bem daqueles que o amam, daqueles que são chamados segundo o seu desígnio.",
+      "reference": "Rm 8:28"
+    },
+    "29": {
+      "text": "Porque os que de antemão ele conheceu, esses também predestinou a serem conformes à imagem do seu Filho, a fim de ser ele o primogênito entre muitos irmãos.",
+      "reference": "Rm 8:29"
+    },
+    "30": {
+      "text": "E os que predestinou, também os chamou; e os que chamou, também os justificou, e os que justificou, também os glorificou. \\par",
+      "reference": "Rm 8:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Hino ao amor de Deus\\par }Depois disto, que nos resta a dizer? Se Deus está conosco, quem estará contra nós?",
+      "reference": "Rm 8:31"
+    },
+    "32": {
+      "text": "Quem não poupou o seu próprio Filho e o entregou por todos nós, como não nos haverá de agraciar em tudo junto com ele?",
+      "reference": "Rm 8:32"
+    },
+    "33": {
+      "text": "Quem acusará os eleitos de Deus? {\\i É Deus quem justifica. }",
+      "reference": "Rm 8:33"
+    },
+    "34": {
+      "text": "{\\i Quem condenará?} Cristo Jesus, aquele que morreu, ou melhor, que ressuscitou, aquele que está à direita de Deus e que intercede por nós? \\par",
+      "reference": "Rm 8:34"
+    },
+    "35": {
+      "text": "Quem nos separará do amor de Cristo? A tribulação, a angústia, a perseguição, a fome, a nudez, o perigo, a espada?",
+      "reference": "Rm 8:35"
+    },
+    "36": {
+      "text": "Segundo está escrito: \\par {\\i Por sua causa somos postos à morte o dia todo, \\par somos considerados como ovelhas destinadas ao matadouro.} \\par",
+      "reference": "Rm 8:36"
+    },
+    "37": {
+      "text": "Mas em tudo isto somos mais que vencedores, graças àquele que nos amou. \\par",
+      "reference": "Rm 8:37"
+    },
+    "38": {
+      "text": "Pois estou convencido de que nem a morte nem a vida, nem os anjos nem os principados, nem o presente nem o futuro, nem os poderes,",
+      "reference": "Rm 8:38"
+    },
+    "39": {
+      "text": "nem a altura, nem a profundeza, nem qualquer outra criatura poderá nos separar do amor de Deus manifestado em Cristo Jesus, nosso Senhor. \\par",
+      "reference": "Rm 8:39"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 39
+}

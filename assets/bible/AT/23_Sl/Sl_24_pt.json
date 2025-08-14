@@ -1,0 +1,53 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 24 (23)\\par }{\\qc\\b\\i Liturgia de entrada no santuário\\par }{\\qc\\i Salmo. De Davi.\\par } De Iahweh é a terra e o que nela existe, \\par o mundo e seus habitantes; \\par",
+      "reference": "Sl 24:1"
+    },
+    "2": {
+      "text": "ele próprio fundou-a sobre os mares \\par e firmou-a sobre os rios. \\par",
+      "reference": "Sl 24:2"
+    },
+    "3": {
+      "text": "Quem pode subir à montanha de Iahweh? \\par Quem pode ficar de pé no seu lugar santo? \\par",
+      "reference": "Sl 24:3"
+    },
+    "4": {
+      "text": "Quem tem mãos inocentes e coração puro, \\par e não se entrega à falsidade, \\par nem faz juramentos para enganar. \\par",
+      "reference": "Sl 24:4"
+    },
+    "5": {
+      "text": "Ele obterá de Iahweh a bênção, \\par e do seu Deus salvador a justiça. \\par",
+      "reference": "Sl 24:5"
+    },
+    "6": {
+      "text": "Esta é a geração dos que o procuram, \\par dos que buscam tua face, ó Deus de Jacó. \\par",
+      "reference": "Sl 24:6"
+    },
+    "7": {
+      "text": "Levantai, ó portas, os vossos frontões, \\par elevai-vos, antigos portais, \\par para que entre o rei da glória! \\par",
+      "reference": "Sl 24:7"
+    },
+    "8": {
+      "text": "Quem é este rei da glória? \\par É Iahweh, o forte e valente, \\par Iahweh, o valente das guerras. \\par",
+      "reference": "Sl 24:8"
+    },
+    "9": {
+      "text": "Levantai, ó portas, os vossos frontões, \\par elevai-vos, antigos portais, \\par para que entre o rei da glória! \\par",
+      "reference": "Sl 24:9"
+    },
+    "10": {
+      "text": "Quem é este rei da glória? \\par É Iahweh dos Exércitos: \\par ele é o rei da glória! \\par",
+      "reference": "Sl 24:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

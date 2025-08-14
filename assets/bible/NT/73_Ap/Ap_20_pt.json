@@ -1,0 +1,73 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O reino de mil anos\\par }Vi então um Anjo descer do céu, trazendo na mão a chave do Abismo e uma grande corrente.",
+      "reference": "Ap 20:1"
+    },
+    "2": {
+      "text": "Ele agarrou o Dragão, a antiga Serpente – que é o Diabo, Satanás – acorrentou-o por mil anos",
+      "reference": "Ap 20:2"
+    },
+    "3": {
+      "text": "e o atirou dentro do Abismo, fechando-o e lacrando-o com um selo para que não seduzisse mais as nações até que os mil anos estivessem terminados. Depois disso, ele deverá ser solto por pouco tempo. \\par",
+      "reference": "Ap 20:3"
+    },
+    "4": {
+      "text": "Vi então tronos, e aos que neles se sentaram {\\i foi dado poder de julgar.} Vi também as vidas daqueles que foram decapitados por causa do Testemunho de Jesus e da Palavra de Deus, e dos que não tinham adorado a Besta, nem sua imagem, e nem recebido a marca sobre a fronte ou na mão; eles voltaram à vida e reinaram com Cristo durante mil anos.",
+      "reference": "Ap 20:4"
+    },
+    "5": {
+      "text": "Os outros mortos, contudo, não voltaram à vida até o término dos mil anos. Esta é a primeira ressurreição.",
+      "reference": "Ap 20:5"
+    },
+    "6": {
+      "text": "Feliz e santo aquele que participa da primeira ressurreição! Sobre estes a segunda morte não tem poder; eles serão sacerdotes de Deus e de Cristo, e com ele reinarão durante mil anos. \\par",
+      "reference": "Ap 20:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i O segundo combate escatológico\\par }Quando se completarem os mil anos, Satanás será solto de sua prisão",
+      "reference": "Ap 20:7"
+    },
+    "8": {
+      "text": "e sairá para seduzir as nações dos quatro cantos da terra, {\\i Gog e Magog}, reunindo-as para o combate; seu número é como a areia do mar...",
+      "reference": "Ap 20:8"
+    },
+    "9": {
+      "text": "Subiram sobre a superfície da terra e cercaram o acampamento dos santos e a Cidade amada; {\\i mas um fogo desceu do céu} e os devorou.",
+      "reference": "Ap 20:9"
+    },
+    "10": {
+      "text": "O Diabo que os seduzira foi então lançado no lago de fogo e de enxofre, onde já se achavam a Besta e o falso profeta. E serão atormentados dia e noite, pelos séculos dos séculos. \\par",
+      "reference": "Ap 20:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i O Julgamento das nações\\par }Vi depois um grande trono branco e aquele que nele se assenta. O céu e a terra fugiram de sua presença, sem deixar vestígios.",
+      "reference": "Ap 20:11"
+    },
+    "12": {
+      "text": "Vi então os mortos, grandes e pequenos, em pé diante do trono, e {\\i abriram-se livros.} Também foi aberto outro livro, o da vida. Os mortos foram então julgados conforme sua conduta, a partir do que estava escrito nos livros. \\par",
+      "reference": "Ap 20:12"
+    },
+    "13": {
+      "text": "O mar devolveu os mortos que nele jaziam, a Morte e o Hades entregaram os mortos que neles estavam, e cada um foi julgado conforme sua conduta.",
+      "reference": "Ap 20:13"
+    },
+    "14": {
+      "text": "A Morte e o Hades foram então lançados no lago de fogo. Está é a segunda morte: o lago de fogo.",
+      "reference": "Ap 20:14"
+    },
+    "15": {
+      "text": "E quem não se achava inscrito no livro da vida foi também lançado no lago de fogo. \\par",
+      "reference": "Ap 20:15"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 15
+}

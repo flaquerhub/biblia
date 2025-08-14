@@ -1,0 +1,173 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A fé exemplar dos antigos\\par }{\\i A fé é uma posse antecipada do que se espera, um meio de demonstrar as realidades que não se vêem.}",
+      "reference": "Hb 11:1"
+    },
+    "2": {
+      "text": "Foi por ela que os antigos deram o seu testemunho. \\par",
+      "reference": "Hb 11:2"
+    },
+    "3": {
+      "text": "Foi pela fé que compreendemos que os mundos foram organizados por uma palavra de Deus. Por isso é que o mundo visível não tem a sua origem em coisas manifestas. \\par",
+      "reference": "Hb 11:3"
+    },
+    "4": {
+      "text": "Foi pela fé que Abel ofereceu a Deus um sacrifício melhor que o de Caim. Graças a ela foi declarado justo, e {\\i Deus} apresentou o testemunho dos {\\i seus dons.} Graças a ela, mesmo depois de morto, ele ainda fala! \\par",
+      "reference": "Hb 11:4"
+    },
+    "5": {
+      "text": "Foi pela fé que Henoc foi levado, a fim de escapar da morte; e {\\i não o encontraram, porque Deus o levou.} Antes de ser arrebatado, porém, recebeu o testemunho de que foi agradável a Deus.",
+      "reference": "Hb 11:5"
+    },
+    "6": {
+      "text": "Ora, sem a fé é impossível ser-lhe agradável. Pois aquele que se aproxima de Deus deve crer que ele existe e que recompensa os que o procuram. \\par",
+      "reference": "Hb 11:6"
+    },
+    "7": {
+      "text": "Foi pela fé que Noé, avisado divinamente daquilo que ainda não se via, levou a sério o oráculo e construiu uma arca para salvar a sua família. Pela fé, ele condenou o mundo, tornando-se herdeiro da justiça que se obtém pela fé. \\par",
+      "reference": "Hb 11:7"
+    },
+    "8": {
+      "text": "Foi pela fé que Abraão, respondendo ao chamado, obedeceu e {\\i partiu} para uma terra que devia receber como herança, e {\\i partiu} sem saber para onde ia.",
+      "reference": "Hb 11:8"
+    },
+    "9": {
+      "text": "Foi pela fé que {\\i residiu} como estrangeiro na terra prometida, morando em tendas com Isaac e Jacó, os co-herdeiros da mesma promessa.",
+      "reference": "Hb 11:9"
+    },
+    "10": {
+      "text": "Pois esperava a cidade que tem fundamentos, cujo arquiteto e construtor é o próprio Deus.",
+      "reference": "Hb 11:10"
+    },
+    "11": {
+      "text": "Foi pela fé que também Sara, apesar da idade avançada, se tornou capaz de ter uma descendência, porque considerou fiel o autor da promessa.",
+      "reference": "Hb 11:11"
+    },
+    "12": {
+      "text": "É por isso também que de um só homem, já marcado pela morte, nasceu a multidão {\\i comparável à dos astros do céu e inumerável como a areia da praia.}\\par",
+      "reference": "Hb 11:12"
+    },
+    "13": {
+      "text": "Na fé, todos estes morreram, sem ter obtido a realização da promessa, depois de tê-la visto e saudado de longe, e depois de se reconhecerem {\\i estrangeiros e peregrinos nesta terra.}",
+      "reference": "Hb 11:13"
+    },
+    "14": {
+      "text": "Pois aqueles que assim falam demonstram claramente que estão à procura de uma pátria.",
+      "reference": "Hb 11:14"
+    },
+    "15": {
+      "text": "E se lembrassem a que deixaram, teriam tempo de voltar para lá.",
+      "reference": "Hb 11:15"
+    },
+    "16": {
+      "text": "Eles aspiram, com efeito, a uma pátria melhor, isto é, a uma pátria celestial. É por isso que Deus não se envergonha de ser chamado o seu Deus. Pois, de fato, preparou-lhes uma cidade. \\par",
+      "reference": "Hb 11:16"
+    },
+    "17": {
+      "text": "Foi pela fé que {\\i Abraão, tendo sido provado, ofereceu Isaac}; ofereceu {\\i o filho único}, ele, que recebera as promessas,",
+      "reference": "Hb 11:17"
+    },
+    "18": {
+      "text": "e a quem fora dito: {\\i É por Isaac que uma descendência te será assegurada.}",
+      "reference": "Hb 11:18"
+    },
+    "19": {
+      "text": "Mas ele dizia: Deus é capaz também de ressuscitar os mortos. Por isso, recuperou seu filho, como um símbolo. \\par",
+      "reference": "Hb 11:19"
+    },
+    "20": {
+      "text": "Foi pela fé, ainda, que Isaac abençoou Jacó e Esaú, em vista do futuro.",
+      "reference": "Hb 11:20"
+    },
+    "21": {
+      "text": "Foi pela fé que Jacó, à beira da morte, abençoou cada um dos filhos de José, e {\\i se prostrou apoiado na ponta do seu bastão.}",
+      "reference": "Hb 11:21"
+    },
+    "22": {
+      "text": "Foi pela fé que José, aproximando-se do fim, evocou o êxodo dos filhos de Israel e deu ordens a respeito dos seus restos mortais. \\par",
+      "reference": "Hb 11:22"
+    },
+    "23": {
+      "text": "Foi pela fé que Moisés, depois do seu nascimento, {\\i foi escondido durante três meses pelos seus pais, que viram a sua beleza e não tiveram medo do decreto do rei.}",
+      "reference": "Hb 11:23"
+    },
+    "24": {
+      "text": "Foi pela fé que {\\i Moisés, na idade adulta}, renunciou ser filho de uma filha do faraó.",
+      "reference": "Hb 11:24"
+    },
+    "25": {
+      "text": "Preferiu ser maltratado com o povo de Deus a gozar por um tempo do pecado.",
+      "reference": "Hb 11:25"
+    },
+    "26": {
+      "text": "Ele considerou a {\\i humilhação de Cristo} uma riqueza maior do que os tesouros do Egito, por ter os olhos fixos na recompensa. \\par",
+      "reference": "Hb 11:26"
+    },
+    "27": {
+      "text": "Foi pela fé que deixou o Egito, sem temer o furor do rei, e resistiu, como se visse o Invisível.",
+      "reference": "Hb 11:27"
+    },
+    "28": {
+      "text": "Foi pela fé que celebrou a Páscoa, e fez a aspersão do sangue, para que o Exterminador não ferisse os primogênitos de Israel.",
+      "reference": "Hb 11:28"
+    },
+    "29": {
+      "text": "Foi pela fé que atravessaram o mar Vermelho como se fosse terra enxuta, ao passo que os egípcios, tentando-o também, foram engolidos. \\par",
+      "reference": "Hb 11:29"
+    },
+    "30": {
+      "text": "Foi pela fé que as muralhas de Jericó caíram, depois de um cerco de sete dias.",
+      "reference": "Hb 11:30"
+    },
+    "31": {
+      "text": "Foi pela fé que Raab, a prostituta, não pereceu com os indóceis, porque recebera pacificamente os espiões. \\par",
+      "reference": "Hb 11:31"
+    },
+    "32": {
+      "text": "Que mais devo dizer? Não teria tempo de falar com pormenores de Gedeão, Barac, Sansão, Jefté, Davi, Samuel e dos profetas.",
+      "reference": "Hb 11:32"
+    },
+    "33": {
+      "text": "Estes, pela fé, conquistaram reinos, praticaram a justiça, viram se realizarem as promessas, amordaçaram a boca dos leões,",
+      "reference": "Hb 11:33"
+    },
+    "34": {
+      "text": "extinguiram o poder do fogo, escaparam do fio da espada, recobraram saúde na doença, mostraram-se valentes na guerra, repeliram exércitos estrangeiros.",
+      "reference": "Hb 11:34"
+    },
+    "35": {
+      "text": "Algumas mulheres reencontraram os seus mortos pela ressurreição. Outros foram esquartejados, recusaram o resgate para chegar a uma ressurreição melhor.",
+      "reference": "Hb 11:35"
+    },
+    "36": {
+      "text": "Outros ainda sofreram a provação dos escárnios, experimentaram o açoite, as correntes e as prisões.",
+      "reference": "Hb 11:36"
+    },
+    "37": {
+      "text": "Foram lapidados, foram serrados e morreram assassinados com golpes de espada. Levaram vida errante, vestidos com peles de carneiro ou pêlos de cabras; oprimidos e maltratados, sofreram privações.",
+      "reference": "Hb 11:37"
+    },
+    "38": {
+      "text": "Eles, de quem o mundo não era digno, erravam pelos desertos e pelas montanhas, pelas grutas e cavernas da terra.",
+      "reference": "Hb 11:38"
+    },
+    "39": {
+      "text": "E não obstante, todos eles, se bem que pela fé tenham recebido um bom testemunho, apesar disso não obtiveram a realização da promessa.",
+      "reference": "Hb 11:39"
+    },
+    "40": {
+      "text": "Pois Deus previa para nós algo de melhor, para que sem nós não chegassem à plena realização. \\par",
+      "reference": "Hb 11:40"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 40
+}

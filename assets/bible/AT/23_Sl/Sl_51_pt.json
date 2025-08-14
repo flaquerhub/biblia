@@ -1,0 +1,97 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 51,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 51 (50)\\par }{\\qc\\b\\i Miserere\\par }{\\qc\\i Do mestre de canto. Salmo. De Davi. \\par }",
+      "reference": "Sl 51:1"
+    },
+    "2": {
+      "text": "{\\qc\\i Quando o profeta Natã foi encontrá-lo, após ele ter estado com Betsabéia.\\par }",
+      "reference": "Sl 51:2"
+    },
+    "3": {
+      "text": "Tem piedade de mim, ó Deus, por teu amor! \\par Apaga minhas transgressões, por tua grande compaixão! \\par",
+      "reference": "Sl 51:3"
+    },
+    "4": {
+      "text": "Lava-me inteiro da minha iniqüidade \\par e purifica-me do meu pecado! \\par",
+      "reference": "Sl 51:4"
+    },
+    "5": {
+      "text": "Pois reconheço minhas transgressões \\par e diante de mim está sempre meu pecado; \\par",
+      "reference": "Sl 51:5"
+    },
+    "6": {
+      "text": "pequei contra ti, contra ti somente, \\par pratiquei o que é mau aos teus olhos. \\par Tens razão, portanto, ao falar, \\par e tua vitória se manifesta ao julgar. \\par",
+      "reference": "Sl 51:6"
+    },
+    "7": {
+      "text": "Eis que eu nasci na iniqüidade, \\par minha mãe concebeu-me no pecado. \\par",
+      "reference": "Sl 51:7"
+    },
+    "8": {
+      "text": "Eis que amas a verdade no fundo do ser, \\par e me ensinas a sabedoria no segredo. \\par",
+      "reference": "Sl 51:8"
+    },
+    "9": {
+      "text": "Purifica meu pecado com o hissopo e ficarei puro, \\par lava-me, e ficarei mais branco do que a neve. \\par",
+      "reference": "Sl 51:9"
+    },
+    "10": {
+      "text": "Faze-me ouvir o júbilo e a alegria, \\par e dancem os ossos que esmagaste. \\par",
+      "reference": "Sl 51:10"
+    },
+    "11": {
+      "text": "Esconde a tua face dos meus pecados \\par e apaga minhas iniqüidades todas. \\par",
+      "reference": "Sl 51:11"
+    },
+    "12": {
+      "text": "Ó Deus, cria em mim um coração puro, \\par renova um espírito firme no meu peito; \\par",
+      "reference": "Sl 51:12"
+    },
+    "13": {
+      "text": "não me rejeites para longe de tua face, \\par não retires de mim teu santo espírito. \\par",
+      "reference": "Sl 51:13"
+    },
+    "14": {
+      "text": "Devolve-me o júbilo da tua salvação \\par e que um espírito generosos me sustente. \\par",
+      "reference": "Sl 51:14"
+    },
+    "15": {
+      "text": "Vou ensinar teus caminhos aos transgressores, \\par para que os pecadores voltem a ti. \\par",
+      "reference": "Sl 51:15"
+    },
+    "16": {
+      "text": "Livra-me do sangue, ó Deus, meu Deus salvador, \\par e minha língua aclamará tua justiça. \\par",
+      "reference": "Sl 51:16"
+    },
+    "17": {
+      "text": "Ó Senhor, abre os meus lábios, \\par e minha língua anunciará o teu louvor. \\par",
+      "reference": "Sl 51:17"
+    },
+    "18": {
+      "text": "Pois tu não queres um sacrifício \\par e um holocausto não te agrada. \\par",
+      "reference": "Sl 51:18"
+    },
+    "19": {
+      "text": "Sacrifício a Deus é um espírito contrito, \\par coração contrito e esmagado, ó Deus, tu não desprezas. \\par",
+      "reference": "Sl 51:19"
+    },
+    "20": {
+      "text": "Faze o bem a Sião, por teu favor, \\par reconstrói as muralhas de Jerusalém. \\par",
+      "reference": "Sl 51:20"
+    },
+    "21": {
+      "text": "Então te agradarás dos sacrifícios de justiça \\par – holocaustos e ofertas totais – \\par e em teu altar se oferecerão novilhos. \\par",
+      "reference": "Sl 51:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

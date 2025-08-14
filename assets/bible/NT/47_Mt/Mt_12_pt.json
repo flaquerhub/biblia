@@ -1,0 +1,213 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As espigas arrancadas\\par }Por esse tempo, Jesus passou, num sábado, pelas plantações. Os seus discípulos, que estavam com fome, puseram-se a arrancar espigas e comê-las.",
+      "reference": "Mt 12:1"
+    },
+    "2": {
+      "text": "Os fariseus, vendo isso, disseram: “Olha só! Os teus discípulos a fazerem o que não é lícito fazer num sábado!”",
+      "reference": "Mt 12:2"
+    },
+    "3": {
+      "text": "Mas ele respondeu-lhes: “Não lestes o que fez Davi e seus companheiros quando tiveram fome?",
+      "reference": "Mt 12:3"
+    },
+    "4": {
+      "text": "Como entrou na Casa de Deus e como eles comeram {\\i os pães da proposição}, que não era lícito comer, nem a ele, nem aos que estavam com ele, mas exclusivamente aos sacerdotes?",
+      "reference": "Mt 12:4"
+    },
+    "5": {
+      "text": "Ou não lestes na Lei que com os seus deveres sabáticos os sacerdotes no Templo violam o sábado e ficam sem culpa?",
+      "reference": "Mt 12:5"
+    },
+    "6": {
+      "text": "Digo-vos que aqui está algo maior do que o Templo.",
+      "reference": "Mt 12:6"
+    },
+    "7": {
+      "text": "Se soubésseis o que significa: {\\i Misericórdia é que eu quero e não sacrifício}, não condenaríeis os que não têm culpa.",
+      "reference": "Mt 12:7"
+    },
+    "8": {
+      "text": "Pois o Filho do Homem é senhor do sábado”. \\par",
+      "reference": "Mt 12:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Cura de um homem com a mão atrofiada\\par }Partindo dali, entrou na sinagoga deles.",
+      "reference": "Mt 12:9"
+    },
+    "10": {
+      "text": "Ora, ali estava um homem com a mão atrofiada. Então perguntaram-lhe, a fim de acusá-lo: “É lícito curar aos sábados?”",
+      "reference": "Mt 12:10"
+    },
+    "11": {
+      "text": "Jesus respondeu: “Quem haverá dentre vós que, tendo uma ovelha e caindo ela numa cova em dia de sábado, não vai apanhá-la e tirá-la dali?",
+      "reference": "Mt 12:11"
+    },
+    "12": {
+      "text": "Ora, um homem vale muito mais do que uma ovelha! Logo, é lícito fazer o bem aos sábados”.",
+      "reference": "Mt 12:12"
+    },
+    "13": {
+      "text": "Em seguida, disse ao homem: “Estende a mão”. Ele a estendeu e ela ficou sã, como a outra.",
+      "reference": "Mt 12:13"
+    },
+    "14": {
+      "text": "Então os fariseus, saindo dali, tramaram contra ele, sobre como acabariam com ele. \\par",
+      "reference": "Mt 12:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i Jesus é o “Servo de Iahweh”\\par }Ao saber disso, Jesus afastou-se dali. Muitos os seguiram, e ele os curou a todos.",
+      "reference": "Mt 12:15"
+    },
+    "16": {
+      "text": "E os proibia severamente de torná-lo manifesto,",
+      "reference": "Mt 12:16"
+    },
+    "17": {
+      "text": "a fim de que se cumprisse o que foi dito pelo profeta Isaías:\\par",
+      "reference": "Mt 12:17"
+    },
+    "18": {
+      "text": "{\\i Eis o meu Servo, a quem escolhi, \\par o meu Amado, em quem minha alma se compraz. \\par Porei o meu Espírito sobre ele \\par e ele anunciará o Direito às nações. }\\par",
+      "reference": "Mt 12:18"
+    },
+    "19": {
+      "text": "{\\i Ele não discutirá, nem clamará; \\par nem sua voz nas ruas se ouvirá. }\\par",
+      "reference": "Mt 12:19"
+    },
+    "20": {
+      "text": "{\\i Ele não quebrará o caniço rachado \\par nem apagará a mecha que ainda fumega, \\par até que conduza o direito ao triunfo. }\\par",
+      "reference": "Mt 12:20"
+    },
+    "21": {
+      "text": "{\\i E no seu nome as nações porão sua esperança.}\\par",
+      "reference": "Mt 12:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Jesus e Beelzebu\\par }Então trouxeram-lhe um endemoninhado cego e mudo. E ele o curou, de modo que o mudo podia falar e ver.",
+      "reference": "Mt 12:22"
+    },
+    "23": {
+      "text": "Toda a multidão ficou espantada e pôs-se a dizer: “Não será este o Filho de Davi?”",
+      "reference": "Mt 12:23"
+    },
+    "24": {
+      "text": "Mas os fariseus, ouvindo isso, disseram: “Ele não expulsa demônios, senão por Beelzebu, príncipe dos demônios”. \\par",
+      "reference": "Mt 12:24"
+    },
+    "25": {
+      "text": "Conhecendo os seus pensamentos, Jesus lhes disse: “Todo reino dividido contra si mesmo acaba em ruína e nenhuma cidade ou casa dividida contra si mesma poderá subsistir.",
+      "reference": "Mt 12:25"
+    },
+    "26": {
+      "text": "Ora, se Satanás expulsa a Satanás, está dividido contra si mesmo. Como, então, poderá subsistir seu reinado?",
+      "reference": "Mt 12:26"
+    },
+    "27": {
+      "text": "Se eu expulso os demônios por Beelzebu, por quem os expulsam os vossos adeptos? Por isso, eles mesmos serão os vossos juízes.",
+      "reference": "Mt 12:27"
+    },
+    "28": {
+      "text": "Mas se é pelo Espírito de Deus que eu expulso os demônios, então o Reino de Deus já chegou a vós. \\par",
+      "reference": "Mt 12:28"
+    },
+    "29": {
+      "text": "Ou como pode alguém entrar na casa de um homem forte e roubar os seus pertences, se primeiro não o amarrar? Só então poderá roubar a sua casa.",
+      "reference": "Mt 12:29"
+    },
+    "30": {
+      "text": "Quem não está a meu favor, está contra mim, e quem não ajunta comigo, dispersa.",
+      "reference": "Mt 12:30"
+    },
+    "31": {
+      "text": "Por isso vos digo: todo pecado e blasfêmia serão perdoados aos homens, mas a blasfêmia contra o Espírito não será perdoada.",
+      "reference": "Mt 12:31"
+    },
+    "32": {
+      "text": "Se alguém disser uma palavra contra o Filho do Homem, ser-lhe-á perdoado, mas se disser contra o Espírito santo, não lhe será perdoado, nem neste mundo, nem no vindouro. \\par",
+      "reference": "Mt 12:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i As palavras manifestam o coração\\par }Ou declarais que a árvore é boa e o seu fruto é bom, ou declarais que a árvore é má e o seu fruto é mau. É pelo seu fruto que se conhece a árvore.",
+      "reference": "Mt 12:33"
+    },
+    "34": {
+      "text": "Raça de víboras, como podeis falar coisas boas, se sois maus? Porque a boca fala daquilo de que o coração está cheio.",
+      "reference": "Mt 12:34"
+    },
+    "35": {
+      "text": "O homem bom, do seu bom tesouro tira coisas boas, mas o homem mau, do seu mau tesouro tira coisas más.",
+      "reference": "Mt 12:35"
+    },
+    "36": {
+      "text": "Eu vos digo que de toda palavra inútil, que os homens disserem, darão contas no Dia do Julgamento.",
+      "reference": "Mt 12:36"
+    },
+    "37": {
+      "text": "Pois por tuas palavras serás justificado e por tuas palavras serás condenado”. \\par",
+      "reference": "Mt 12:37"
+    },
+    "38": {
+      "text": "\\par {\\qc\\b\\i O sinal de Jonas\\par }Nisso, alguns escribas e fariseus tomaram a palavra dizendo: “Mestre, queremos ver um sinal feito por ti”.",
+      "reference": "Mt 12:38"
+    },
+    "39": {
+      "text": "Ele replicou: “Uma geração má e adúltera busca um sinal, mas nenhum sinal lhe será dado, exceto o sinal do profeta Jonas.",
+      "reference": "Mt 12:39"
+    },
+    "40": {
+      "text": "Pois, como {\\i Jonas esteve no ventre do monstro marinho três dias e três noites}, assim ficará o Filho do Homem três dias e três noites no seio da terra.",
+      "reference": "Mt 12:40"
+    },
+    "41": {
+      "text": "Os habitantes de Nínive se levantarão no Julgamento, juntamente com esta geração, e a condenarão, porque eles se converteram pela pregação de Jonas. Mas aqui está algo mais do que Jonas!",
+      "reference": "Mt 12:41"
+    },
+    "42": {
+      "text": "A Rainha do Sul se levantará no Julgamento juntamente com esta geração e a condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão. Mas aqui está algo mais do que Salomão! \\par",
+      "reference": "Mt 12:42"
+    },
+    "43": {
+      "text": "\\par {\\qc\\b\\i Retorno ofensivo do espírito impuro\\par }Quando o espírito impuro sai do homem, perambula por lugares áridos, procurando repouso, mas não o encontra.",
+      "reference": "Mt 12:43"
+    },
+    "44": {
+      "text": "Então diz: ‘Voltarei para a minha casa, de onde saí’. Chegando lá, encontra-a desocupada, varrida e arrumada.",
+      "reference": "Mt 12:44"
+    },
+    "45": {
+      "text": "Diante disso, vai e toma consigo outros sete espíritos piores do que ele, e vêm habitar aí. E, com isso, a condição final daquele homem torna-se pior do que antes. Eis o que vai acontecer a esta geração má”. \\par",
+      "reference": "Mt 12:45"
+    },
+    "46": {
+      "text": "\\par {\\qc\\b\\i Os verdadeiros parentes de Jesus\\par }Estando ainda a falar às multidões, sua mãe e seus irmãos estavam fora, procurando falar-lhe [",
+      "reference": "Mt 12:46"
+    },
+    "47": {
+      "text": "].",
+      "reference": "Mt 12:47"
+    },
+    "48": {
+      "text": "Jesus respondeu àquele que o avisou: “Quem é minha mãe e quem são meus irmãos?”",
+      "reference": "Mt 12:48"
+    },
+    "49": {
+      "text": "E apontando para os discípulos com a mão, disse: “Aqui estão a minha mãe e os meus irmãos,",
+      "reference": "Mt 12:49"
+    },
+    "50": {
+      "text": "porque aquele que fizer a vontade de meu Pai que está nos Céus, esse é meu irmão, irmã e mãe”. \\par",
+      "reference": "Mt 12:50"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 50
+}

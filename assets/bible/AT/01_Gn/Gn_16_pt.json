@@ -1,0 +1,77 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Nascimento de Ismael\\par }A mulher de Abrão, Sarai, não lhe dera filho. Mas tinha uma serva egípcia, chamada Agar,",
+      "reference": "Gn 16:1"
+    },
+    "2": {
+      "text": "e Sarai disse a Abrão: “Vê, eu te peço: Iahweh não permitiu que eu desse à luz. Toma, pois, a minha serva. Talvez, por ela, eu venha a ter filhos”. E Abrão ouviu a voz de Sarai. \\par",
+      "reference": "Gn 16:2"
+    },
+    "3": {
+      "text": "Assim, depois de dez anos que Abrão residia na terra de Canaã, sua mulher Sarai tomou Agar, a egípcia, sua serva, e deu-a como mulher a seu marido, Abrão.",
+      "reference": "Gn 16:3"
+    },
+    "4": {
+      "text": "Este possuiu Agar, que ficou grávida. Quando ela se viu grávida, começou a olhar sua senhora com desprezo.",
+      "reference": "Gn 16:4"
+    },
+    "5": {
+      "text": "Então Sarai disse a Abrão: “Tu és responsável pela injúria que me está sendo feita! Coloquei minha serva entre teus braços e, desde que ela se viu grávida, começou a olhar-me com desprezo. Que Iahweh julgue entre mim e ti!”",
+      "reference": "Gn 16:5"
+    },
+    "6": {
+      "text": "Abrão disse a Sarai: “Pois bem, tua serva está em tuas mãos; faze-lhe como melhor te parecer”. Sarai a maltratou de tal modo que ela fugiu de sua presença. \\par",
+      "reference": "Gn 16:6"
+    },
+    "7": {
+      "text": "O Anjo de Iahweh a encontrou perto de uma certa fonte no deserto, a fonte que está no caminho de Sur.",
+      "reference": "Gn 16:7"
+    },
+    "8": {
+      "text": "E ele disse: “Agar, serva de Sarai, de onde vens e para onde vais?” Ela respondeu: “Fujo da presença de minha senhora Sarai”.",
+      "reference": "Gn 16:8"
+    },
+    "9": {
+      "text": "O Anjo de Iahweh lhe disse: “Volta para a tua senhora e sê-lhe submissa”.",
+      "reference": "Gn 16:9"
+    },
+    "10": {
+      "text": "O Anjo de Iahweh lhe disse: “Eu multiplicarei grandemente a tua descendência, de tal modo que não se poderá contá-la”.",
+      "reference": "Gn 16:10"
+    },
+    "11": {
+      "text": "O Anjo de Iahweh lhe disse: \\par “Estás grávida e darás à luz um filho, \\par e tu lhe darás o nome de Ismael, \\par pois Iahweh ouviu tua aflição. \\par",
+      "reference": "Gn 16:11"
+    },
+    "12": {
+      "text": "Ele será um potro de homem, \\par sua mão contra todos, \\par a mão de todos contra ele; \\par ele se estabelecerá diante de todos os seus irmãos”. \\par",
+      "reference": "Gn 16:12"
+    },
+    "13": {
+      "text": "A Iahweh, que lhe falou, Agar deu este nome: “Tu és El-Roí”, pois, disse ela, “vejo eu ainda aqui, depois daquele que me vê?”",
+      "reference": "Gn 16:13"
+    },
+    "14": {
+      "text": "Foi por isso que se chamou a este poço de poço de Laai-Roí; ele se encontra entre Cades e Barad. \\par",
+      "reference": "Gn 16:14"
+    },
+    "15": {
+      "text": "Agar deu à luz um filho a Abrão, e Abrão deu ao filho que lhe dera Agar o nome de Ismael.",
+      "reference": "Gn 16:15"
+    },
+    "16": {
+      "text": "Abrão tinha oitenta e seis anos quando Agar o fez pai de Ismael. \\par",
+      "reference": "Gn 16:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

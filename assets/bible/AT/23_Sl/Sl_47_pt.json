@@ -1,0 +1,53 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 47,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 47 (46)\\par }{\\qc\\b\\i Iahweh é rei de Israel e do mundo\\par }{\\qc\\i Do mestre de canto. Dos filhos de Coré. Salmo.\\par }",
+      "reference": "Sl 47:1"
+    },
+    "2": {
+      "text": "Povos todos, batei palmas, \\par aclamai a Deus com gritos alegres! \\par",
+      "reference": "Sl 47:2"
+    },
+    "3": {
+      "text": "Pois Iahweh Altíssimo é terrível, \\par é o grande rei sobre a terra inteira. \\par",
+      "reference": "Sl 47:3"
+    },
+    "4": {
+      "text": "Ele põe as nações sob o nosso poder, \\par põe-nos os povos debaixo dos pés. \\par",
+      "reference": "Sl 47:4"
+    },
+    "5": {
+      "text": "Escolheu para nós nossa herança, \\par o orgulho de Jacó, a quem ele ama. \\par",
+      "reference": "Sl 47:5"
+    },
+    "6": {
+      "text": "Deus sobe por entre ovações, \\par Iahweh, ao clangor da trombeta. \\par",
+      "reference": "Sl 47:6"
+    },
+    "7": {
+      "text": "Tocai para o nosso Deus, tocai, \\par tocai para o nosso Rei, tocai! \\par",
+      "reference": "Sl 47:7"
+    },
+    "8": {
+      "text": "Pois o rei de toda a terra é Deus: \\par tocai música para mostrá-lo! \\par",
+      "reference": "Sl 47:8"
+    },
+    "9": {
+      "text": "Deus é rei acima das nações, \\par senta-se Deus em seu trono sagrado. \\par",
+      "reference": "Sl 47:9"
+    },
+    "10": {
+      "text": "Os príncipes dos povos se aliam \\par com o povo do Deus de Abraão. \\par Pois os escudos da terra são de Deus, \\par e ele subiu ao mais alto. \\par",
+      "reference": "Sl 47:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

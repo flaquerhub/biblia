@@ -1,0 +1,93 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 33,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O encontro com Esaú\\par }Erguendo os olhos, Jacó viu que chegava Esaú com quatrocentos homens. Dividiu então as crianças entre Lia, Raquel e as duas servas,",
+      "reference": "Gn 33:1"
+    },
+    "2": {
+      "text": "colocou à frente as servas e seus filhos, mais atrás Lia e seus filhos e por último Raquel e José.",
+      "reference": "Gn 33:2"
+    },
+    "3": {
+      "text": "E ele mesmo, passando adiante de todos, por sete vezes prostrou-se por terra antes de abordar seu irmão.",
+      "reference": "Gn 33:3"
+    },
+    "4": {
+      "text": "Mas Esaú, correndo ao seu encontro, tomou-o em seus braços, arrojou-se-lhe ao pescoço e, chorando, o beijou.",
+      "reference": "Gn 33:4"
+    },
+    "5": {
+      "text": "Quando ergueu os olhos e viu as mulheres e as crianças, perguntou: “Quem são estes contigo?” Jacó respondeu: “São os filhos com que Deus gratificou teu servo”.",
+      "reference": "Gn 33:5"
+    },
+    "6": {
+      "text": "Aproximaram-se as servas, elas e seus filhos, e prostraram-se.",
+      "reference": "Gn 33:6"
+    },
+    "7": {
+      "text": "Aproximou-se também Lia, com seus filhos, e se prostraram; enfim aproximaram-se Raquel e José, e se prostraram. \\par",
+      "reference": "Gn 33:7"
+    },
+    "8": {
+      "text": "Esaú perguntou: “Que queres fazer de todo esse grupo que encontrei?” – “É para encontrar graça aos olhos do meu senhor”, respondeu ele.",
+      "reference": "Gn 33:8"
+    },
+    "9": {
+      "text": "Esaú retomou: “Eu tenho o suficiente, meu irmão, guarda o que é teu”.",
+      "reference": "Gn 33:9"
+    },
+    "10": {
+      "text": "Mas Jacó disse: “Não, eu te peço! Se encontrei graça a teus olhos, recebe o presente de minha mão. Pois afrontei tua presença como se afronta a presença de Deus, e tu me recebeste bem.",
+      "reference": "Gn 33:10"
+    },
+    "11": {
+      "text": "Aceita, pois, o presente que te ofereço, porque Deus me favoreceu, e eu tenho tudo de que necessito”. Instado, Esaú aceitou. \\par",
+      "reference": "Gn 33:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Jacó separa-se de Esaú\\par }Disse este: “Tomemos o bando e partamos; eu caminharei na frente”.",
+      "reference": "Gn 33:12"
+    },
+    "13": {
+      "text": "Mas Jacó lhe respondeu: “Meu senhor sabe que as crianças são delicadas e que devo pensar nas ovelhas e vacas de leite; se os forçar um só dia, todo o rebanho vai morrer.",
+      "reference": "Gn 33:13"
+    },
+    "14": {
+      "text": "Que meu senhor parta, pois, adiante de seu servo; quanto a mim, caminharei calmamente ao passo do rebanho que tenho diante de mim e ao passo das crianças, até chegar à casa de meu senhor, em Seir”.",
+      "reference": "Gn 33:14"
+    },
+    "15": {
+      "text": "Então disse Esaú: “Deixarei contigo ao menos uma parte dos homens que me acompanham!” Mas Jacó respondeu: “Por que isso? Basta-me encontrar graça aos olhos de meu senhor!”",
+      "reference": "Gn 33:15"
+    },
+    "16": {
+      "text": "Naquele dia Esaú retomou o caminho para Seir,",
+      "reference": "Gn 33:16"
+    },
+    "17": {
+      "text": "mas Jacó partiu para Sucot, construiu uma casa e fez palhoças para seu rebanho; é por isso que se deu ao lugar o nome de Sucot. \\par",
+      "reference": "Gn 33:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Chegada a Siquém\\par }Jacó chegou são e salvo à cidade de Siquém, na terra de Canaã, quando voltou de Padã-Aram, e acampou diante da cidade.",
+      "reference": "Gn 33:18"
+    },
+    "19": {
+      "text": "Aos filhos de Hemor, pai de Siquém, comprou, por cem moedas de prata, a parcela do campo em que erguera sua tenda",
+      "reference": "Gn 33:19"
+    },
+    "20": {
+      "text": "e lá erigiu um altar, que chamou de “El, Deus de Israel”. \\par",
+      "reference": "Gn 33:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

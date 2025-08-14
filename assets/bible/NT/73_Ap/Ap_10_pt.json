@@ -1,0 +1,57 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A iminência do castigo final\\par }Vi depois outro Anjo poderoso descendo do céu: trajava-se com uma nuvem e sobre sua cabeça estava o arco-íris; seu rosto era como o sol, as pernas pareciam colunas de fogo,",
+      "reference": "Ap 10:1"
+    },
+    "2": {
+      "text": "e na mão segurava um livrinho aberto. Pousou o pé direito sobre o mar, o esquerdo sobre a terra,",
+      "reference": "Ap 10:2"
+    },
+    "3": {
+      "text": "e emitiu um forte grito, {\\i como um leão quando ruge.} Ao gritar, os sete trovões ribombaram suas vozes.",
+      "reference": "Ap 10:3"
+    },
+    "4": {
+      "text": "Quando os sete trovões ribombaram, eu estava para escrever, mas ouvi do céu uma voz que me dizia: “Guarda em segredo o que os sete trovões falaram, e não o escrevas”.",
+      "reference": "Ap 10:4"
+    },
+    "5": {
+      "text": "Nisto, o Anjo que eu vira de pé sobre o mar e a terra {\\i levantou a mão direita para o céu }",
+      "reference": "Ap 10:5"
+    },
+    "6": {
+      "text": "{\\i e jurou por aquele que vive pelos séculos dos séculos }–{\\i  que criou o céu e tudo o que nele existe, a terra} e tudo o que nela existe, {\\i o mar} e tudo o que nele existe –: “Já não haverá mais tempo!",
+      "reference": "Ap 10:6"
+    },
+    "7": {
+      "text": "Pelo contrário, nos dias em que se ouvir o sétimo Anjo, quando ele tocar a trombeta, então o mistério de Deus estará consumado, conforme ele anunciou {\\i aos seus servos, os profetas}”. \\par",
+      "reference": "Ap 10:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i O livrinho doce e amargo\\par }A voz do céu que eu tinha ouvido tornou então a falar-me: “Vai, toma o livrinho aberto da mão do Anjo que está em pé sobre o mar e sobre a terra”.",
+      "reference": "Ap 10:8"
+    },
+    "9": {
+      "text": "Fui, pois, ao Anjo e lhe pedi que me entregasse o livrinho. Ele então me disse: “Toma-o e devora-o; ele te amargará o estômago, mas em tua boca será doce como mel”.",
+      "reference": "Ap 10:9"
+    },
+    "10": {
+      "text": "Tomei o livrinho da mão do Anjo e {\\i o devorei: na boca era doce como mel}; quando o engoli, porém, meu estômago se tornou amargo.",
+      "reference": "Ap 10:10"
+    },
+    "11": {
+      "text": "Disseram-me então: “É necessário que continues ainda a profetizar contra muitos povos, nações, línguas e reis”. \\par",
+      "reference": "Ap 10:11"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 11
+}

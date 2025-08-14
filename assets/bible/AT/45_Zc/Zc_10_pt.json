@@ -1,0 +1,61 @@
+{
+  "book": 38,
+  "book_name": "Zacarias",
+  "book_abbr": "Zc",
+  "book_category": "Profético",
+  "book_english": "Zechariah",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Fidelidade a Iahweh\\par }Pedi a Iahweh a chuva \\par no tempo das chuvas tardias. \\par É Iahweh quem faz as tempestades. \\par Ele lhes dará o aguaceiro, \\par a cada um a erva no campo. \\par",
+      "reference": "Zc 10:1"
+    },
+    "2": {
+      "text": "Porque os terafim predizem a falsidade \\par e os adivinhos vêem mentiras, \\par os sonhos falam coisas sem fundamento \\par e consolam em vão. \\par Por isso eles partiram como ovelhas \\par que sofrem porque não têm pastor. \\par",
+      "reference": "Zc 10:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Libertação e retorno de Israel\\par }Contra os pastores se inflamou a minha ira, \\par e os bodes eu vou castigar. \\par Quando Iahweh dos Exércitos visitar o seu rebanho, \\par a casa de Judá, \\par ele os fará como o seu cavalo de glória no combate. \\par",
+      "reference": "Zc 10:3"
+    },
+    "4": {
+      "text": "Dele sairá a pedra angular, dele a estaca, \\par dele o arco de guerra, \\par dele todos os chefes. \\par Juntos",
+      "reference": "Zc 10:4"
+    },
+    "5": {
+      "text": "eles serão como heróis \\par que pisam a lama das ruas na guerra. \\par Eles combaterão porque Iahweh está com eles, \\par ao passo que serão confundidos aqueles que montam cavalos. \\par",
+      "reference": "Zc 10:5"
+    },
+    "6": {
+      "text": "Eu fortalecerei a casa de Judá \\par e salvarei a casa de José. \\par Reconduzi-los-ei porque tenho compaixão deles, \\par eles serão como se eu não os tivesse rejeitado, \\par porque eu sou Iahweh, o seu Deus, e eu lhes responderei. \\par",
+      "reference": "Zc 10:6"
+    },
+    "7": {
+      "text": "Efraim será como um herói, \\par seu coração se alegrará como se estivesse sob o efeito do vinho; \\par seus filhos verão e se alegrarão, \\par seu coração exultará em Iahweh. \\par",
+      "reference": "Zc 10:7"
+    },
+    "8": {
+      "text": "Assobiarei para reuni-los porque eu os resgatei: \\par eles serão tão numerosos como eram. \\par",
+      "reference": "Zc 10:8"
+    },
+    "9": {
+      "text": "Eu os semearei entre os povos, \\par mas de longe se lembrarão de mim, \\par instruirão os seus filhos e retornarão. \\par",
+      "reference": "Zc 10:9"
+    },
+    "10": {
+      "text": "Eu os reconduzirei do país do Egito \\par e da Assíria os reunirei; \\par eu os farei entrar na terra de Galaad e no Líbano, \\par e não lhes bastará. \\par",
+      "reference": "Zc 10:10"
+    },
+    "11": {
+      "text": "Atravessarão o mar do Egito \\par (ele ferirá as ondas do mar), \\par e todas as profundezas do Nilo serão secas, \\par será abatido o orgulho da Assíria \\par e afastado o cetro do Egito. \\par",
+      "reference": "Zc 10:11"
+    },
+    "12": {
+      "text": "Eu os fortalecerei em Iahweh, \\par em seu nome eles marcharão, \\par oráculo de Iahweh. \\par",
+      "reference": "Zc 10:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

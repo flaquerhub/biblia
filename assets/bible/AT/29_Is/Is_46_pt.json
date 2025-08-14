@@ -1,0 +1,65 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 46,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Queda da Babilônia\\par }Bel caiu por terra, Nebo ficou prostrado, \\par os seus ídolos estão entregues aos animais selvagens e às bestas de carga, \\par esta carga que leváveis é um fardo para a besta cansada. \\par",
+      "reference": "Is 46:1"
+    },
+    "2": {
+      "text": "Todos juntos ficaram prostrados, caíram por terra, \\par já não conseguem salvar o seu fardo, \\par eles mesmos foram conduzidos ao cativeiro. \\par",
+      "reference": "Is 46:2"
+    },
+    "3": {
+      "text": "Ouvi-me, vós, da casa de Jacó, \\par tudo o que resta da casa de Israel, \\par vós, a quem carreguei desde o seio materno, \\par a quem levei desde o berço. \\par",
+      "reference": "Is 46:3"
+    },
+    "4": {
+      "text": "Até a vossa velhice continuo o mesmo, \\par até vos cobrirdes de cãs continuo a carregar-vos: \\par eu vos criei e eu vos conduzirei, \\par eu vos carregarei e vos salvarei. \\par",
+      "reference": "Is 46:4"
+    },
+    "5": {
+      "text": "A quem haveis de assemelhar-me? Quem igualareis a mim? \\par A quem haveis de comparar-me, como se fôssemos semelhantes? \\par",
+      "reference": "Is 46:5"
+    },
+    "6": {
+      "text": "Há os que tiram ouro da sua bolsa \\par e pesam prata na balança, \\par contratam um ourives para lhes fazer um deus, \\par prostram-se diante dele e o adoram. \\par",
+      "reference": "Is 46:6"
+    },
+    "7": {
+      "text": "Em seguida, põem-no sobre os ombros e carregam-no, \\par colocam-no no seu lugar para que aí fique, \\par sem afastar-se de sua posição. \\par Por mais que alguém o chame, ele não responde, \\par da sua tribulação não se salva. \\par",
+      "reference": "Is 46:7"
+    },
+    "8": {
+      "text": "Lembrai-vos disto e sede homens; \\par caí em vós mesmos, vós, infiéis. \\par",
+      "reference": "Is 46:8"
+    },
+    "9": {
+      "text": "Lembrai-vos das coisas passadas há muito tempo, \\par porque eu sou Deus e não há outro! \\par Sim, sou Deus e não há quem seja igual a mim. \\par",
+      "reference": "Is 46:9"
+    },
+    "10": {
+      "text": "Desde o princípio anunciei o futuro, \\par desde a antiguidade, aquilo que ainda não acontecera. \\par Eu digo: o meu propósito será realizado, \\par hei de cumprir aquilo que me apraz. \\par",
+      "reference": "Is 46:10"
+    },
+    "11": {
+      "text": "Chamo do oriente uma ave de rapina, \\par de uma terra distante o homem da minha escolha. \\par Eu o disse, eu o executarei, \\par eu o delineei, eu o cumprirei. \\par",
+      "reference": "Is 46:11"
+    },
+    "12": {
+      "text": "Dai-me ouvidos, homens de coração empedernido, \\par que estais longe da justiça. \\par",
+      "reference": "Is 46:12"
+    },
+    "13": {
+      "text": "A minha justiça eu a trouxe para perto, ela não está longe; \\par a minha salvação não há de tardar. \\par Estabelecerei em Sião a salvação \\par e darei a Israel a minha glória. \\par",
+      "reference": "Is 46:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

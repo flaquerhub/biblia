@@ -1,0 +1,133 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Discurso de Paulo aos judeus de Jerusalém\\par }“Irmãos e pais, escutai a minha defesa, que tenho agora a vos apresentar”.",
+      "reference": "At 22:1"
+    },
+    "2": {
+      "text": "Tendo ouvido que lhes dirigia a palavra em língua hebraica, fizeram mais silêncio ainda. Ele prosseguiu:",
+      "reference": "At 22:2"
+    },
+    "3": {
+      "text": "“Eu sou judeu. Nasci em Tarso, da Cilícia, mas criei-me nesta cidade, educado aos pés de Gamaliel na observância exata da Lei de nossos pais, cheio de zelo por Deus, como vós todos no dia de hoje.",
+      "reference": "At 22:3"
+    },
+    "4": {
+      "text": "Persegui de morte este Caminho, prendendo e lançando à prisão homens e mulheres,",
+      "reference": "At 22:4"
+    },
+    "5": {
+      "text": "como o podem testemunhar o sumo sacerdote e todos os anciãos. Deles cheguei a receber cartas de recomendação para os irmãos em Damasco e para lá me dirigi, a fim de trazer algemados para Jerusalém os que lá estivessem, para serem aqui punidos. \\par",
+      "reference": "At 22:5"
+    },
+    "6": {
+      "text": "Ora, aconteceu que, estando eu a caminho e aproximando-me de Damasco, de repente, por volta do meio-dia, uma grande luz vinda do céu brilhou ao redor de mim.",
+      "reference": "At 22:6"
+    },
+    "7": {
+      "text": "Caí ao chão e ouvi uma voz que me dizia: ‘Saul, Saul, por que me persegues?’",
+      "reference": "At 22:7"
+    },
+    "8": {
+      "text": "Respondi: ‘Quem és, Senhor?’ Ele me disse: “Eu sou Jesus, o Nazareu, a quem tu estás perseguindo’.",
+      "reference": "At 22:8"
+    },
+    "9": {
+      "text": "Os que estavam comigo viram a luz, mas não escutaram a voz de quem falava comigo.",
+      "reference": "At 22:9"
+    },
+    "10": {
+      "text": "Eu prossegui: ‘Que farei, Senhor?’ E o Senhor me disse: ‘Levanta-te e entra em Damasco: lá te dirão tudo o que te é ordenado fazer’.",
+      "reference": "At 22:10"
+    },
+    "11": {
+      "text": "Como eu não enxergasse mais por causa do fulgor daquela luz, cheguei a Damasco levado pela mão dos que estavam comigo. \\par",
+      "reference": "At 22:11"
+    },
+    "12": {
+      "text": "Certo Ananias, homem piedoso segundo a Lei, de quem davam bom testemunho todos os judeus da cidade,",
+      "reference": "At 22:12"
+    },
+    "13": {
+      "text": "veio ter comigo. De pé, diante de mim, disse-me: ‘Saul, meu irmão, recobra a vista’. E eu, na mesma hora, pude vê-lo.",
+      "reference": "At 22:13"
+    },
+    "14": {
+      "text": "Ele disse então: ‘O Deus de nossos pais te predestinou para conheceres a sua vontade, veres o Justo e ouvires a voz saída de sua boca.",
+      "reference": "At 22:14"
+    },
+    "15": {
+      "text": "Pois tu hás de ser sua testemunha, diante de todos os homens, do que viste e ouviste.",
+      "reference": "At 22:15"
+    },
+    "16": {
+      "text": "E agora, que estás esperando? Recebe o batismo e lava-te dos teus pecados, invocando o seu nome!’ \\par",
+      "reference": "At 22:16"
+    },
+    "17": {
+      "text": "Depois, tendo eu voltado a Jerusalém, e orando no Templo, sucedeu-me entrar em êxtase.",
+      "reference": "At 22:17"
+    },
+    "18": {
+      "text": "E vi o Senhor, que me dizia: ‘Apressa-te, sai logo de Jerusalém, porque não acolherão o teu testemunho a meu respeito’.",
+      "reference": "At 22:18"
+    },
+    "19": {
+      "text": "Retruquei então: ‘Mas, Senhor, eles sabem que era eu quem andava prendendo e vergastando, de sinagoga em sinagoga, os que criam em ti.",
+      "reference": "At 22:19"
+    },
+    "20": {
+      "text": "E quando derramavam o sangue de Estêvão, tua testemunha, eu próprio estava presente, apoiando aqueles que o matavam, e mesmo guardando suas vestes’.",
+      "reference": "At 22:20"
+    },
+    "21": {
+      "text": "Ele, contudo, me disse: ‘Vai, porque é para os gentios, para longe, que eu quero enviar-te’”. \\par",
+      "reference": "At 22:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Paulo, cidadão romano\\par }Escutaram-no até este ponto. A estas palavras, porém, começaram a gritar: “Tira da terra este indivíduo! Ele não merece viver!”",
+      "reference": "At 22:22"
+    },
+    "23": {
+      "text": "E vociferavam, arremessavam os mantos e atiravam poeira aos ares.",
+      "reference": "At 22:23"
+    },
+    "24": {
+      "text": "O tribuno mandou então recolhê-lo à fortaleza, ordenando também que o interrogassem sob os açoites, a fim de averiguar o motivo por que gritavam tanto contra ele. \\par",
+      "reference": "At 22:24"
+    },
+    "25": {
+      "text": "Depois de o amarrarem com as correias, Paulo observou ao centurião presente: “Ser-vos-á lícito açoitar um cidadão romano, ainda mais sem ter sido condenado?”",
+      "reference": "At 22:25"
+    },
+    "26": {
+      "text": "A estas palavras, o centurião foi ter com o tribuno para preveni-lo: “Que vai fazer? Este homem é cidadão romano!”",
+      "reference": "At 22:26"
+    },
+    "27": {
+      "text": "Vindo então o tribuno, perguntou a Paulo: “Dize-me: tu és cidadão romano?” “Sim”, respondeu ele.",
+      "reference": "At 22:27"
+    },
+    "28": {
+      "text": "O tribuno retomou: “Precisei de um vultoso capital para adquirir esta cidadania’.",
+      "reference": "At 22:28"
+    },
+    "29": {
+      "text": "“Pois eu, disse Paulo, a tenho de nascença”. Imediatamente se afastaram dele os que iam torturá-lo. O próprio tribuno teve receio, ao reconhecer que era um cidadão romano, e que mesmo assim o havia acorrentado. \\par",
+      "reference": "At 22:29"
+    },
+    "30": {
+      "text": "\\par {\\qc\\b\\i Comparecimento diante do Sinédrio\\par }No dia seguinte, querendo saber com segurança por que motivo estava ele sendo acusado pelos judeus, o tribuno soltou-o e ordenou que se reunissem os chefes dos sacerdotes e todo o sinédrio. Fez então descer Paulo e apresentou-o perante eles. \\par",
+      "reference": "At 22:30"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 30
+}

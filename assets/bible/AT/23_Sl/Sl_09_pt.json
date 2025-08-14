@@ -1,0 +1,97 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Deus abate os ímpios e salva os humildes}\\par }{\\qc\\i Do mestre de canto. Para oboé e harpa. Salmo. De Davi.\\par }",
+      "reference": "Sl 9:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Alef\\par }Eu te celebro, Iahweh, de todo o coração, \\par proclamo todas as tuas maravilhas! \\par",
+      "reference": "Sl 9:2"
+    },
+    "3": {
+      "text": "Eu me alegro e exulto em ti, \\par e toco ao teu nome, ó Altíssimo! \\par",
+      "reference": "Sl 9:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Bet\\par }Meus inimigos voltam atrás, \\par tropeçam e somem à tua presença, \\par",
+      "reference": "Sl 9:4"
+    },
+    "5": {
+      "text": "pois defendeste minha causa e direito: \\par sentaste em teu trono como justo juiz. \\par",
+      "reference": "Sl 9:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Guimel\\par }Ameaçaste as nações, destruíste o ímpio, \\par para todo o sempre apagaste o seu nome. \\par",
+      "reference": "Sl 9:6"
+    },
+    "7": {
+      "text": "O inimigo acabou, para sempre em ruínas, \\par arrasaste as cidades, sua lembrança sumiu. \\par",
+      "reference": "Sl 9:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Hê\\par }Eis que Iahweh sentou-se para sempre, \\par para o julgamento firmou o seu trono. \\par",
+      "reference": "Sl 9:8"
+    },
+    "9": {
+      "text": "Ele julga o mundo com justiça, \\par governa os povos com retidão. \\par",
+      "reference": "Sl 9:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Waw\\par }Seja Iahweh fortaleza para o oprimido, \\par fortaleza nos tempos de angústia. \\par",
+      "reference": "Sl 9:10"
+    },
+    "11": {
+      "text": "Em ti confiam os que conhecem teu nome, \\par pois não abandonas os que te procuram, Iahweh! \\par",
+      "reference": "Sl 9:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Záin\\par }Tocai para Iahweh, que habita em Sião; \\par narrai entre os povos as suas façanhas: \\par",
+      "reference": "Sl 9:12"
+    },
+    "13": {
+      "text": "ele busca os assassinos, lembra-se deles, \\par não se esquece jamais do clamor dos pobres. \\par",
+      "reference": "Sl 9:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Het\\par }Piedade, Iahweh! Vê minha aflição! \\par Levanta-me das portas da morte, \\par",
+      "reference": "Sl 9:14"
+    },
+    "15": {
+      "text": "para que eu proclame os teus louvores, \\par e com tua salvação eu exulte \\par às portas da filha de Sião! \\par",
+      "reference": "Sl 9:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Tet\\par }Os povos caíram na cova que fizeram, \\par no laço que ocultaram prenderam o pé. \\par",
+      "reference": "Sl 9:16"
+    },
+    "17": {
+      "text": "Iahweh se manifestou fazendo justiça, \\par apanhou o ímpio em sua manobra. \\par",
+      "reference": "Sl 9:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Yod\\par }Que os ímpios voltem ao Xeol, \\par os povos todos que esquecem a Deus! \\par",
+      "reference": "Sl 9:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Kaf\\par }Pois o indigente não será esquecido para sempre, \\par a esperança dos pobres jamais se frustrará. \\par",
+      "reference": "Sl 9:19"
+    },
+    "20": {
+      "text": "Levanta-te, Iahweh, não triunfe um mortal! \\par Que os povos sejam julgados em tua frente! \\par",
+      "reference": "Sl 9:20"
+    },
+    "21": {
+      "text": "Infunde-lhes, medo, Iahweh: \\par saibam os povos que são homens mortais! \\par",
+      "reference": "Sl 9:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

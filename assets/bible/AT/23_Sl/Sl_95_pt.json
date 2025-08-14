@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 95,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 95 (94)\\par }{\\qc\\b\\i Invitatório\\par }Vinde, exultemos em Iahweh, \\par aclamemos o Rochedo que nos salva; \\par",
+      "reference": "Sl 95:1"
+    },
+    "2": {
+      "text": "entremos com louvor em sua presença, \\par vamos aclamá-lo com músicas. \\par",
+      "reference": "Sl 95:2"
+    },
+    "3": {
+      "text": "Porque Iahweh é um Deus grande, \\par o grande rei sobre todos os deuses; \\par",
+      "reference": "Sl 95:3"
+    },
+    "4": {
+      "text": "ele tem nas mãos as profundezas da terra, \\par e dele são os cumes das montanhas; \\par",
+      "reference": "Sl 95:4"
+    },
+    "5": {
+      "text": "é dele o mar, pois foi ele quem o fez, \\par e a terra firme, que plasmaram suas mãos. \\par",
+      "reference": "Sl 95:5"
+    },
+    "6": {
+      "text": "Entrai, prostrai-vos e inclinai-vos, \\par de joelhos, frente a Iahweh que nos fez! \\par",
+      "reference": "Sl 95:6"
+    },
+    "7": {
+      "text": "Sim, é ele o nosso Deus \\par e nós o povo do seu pasto, \\par o rebanho de sua mão. \\par Oxalá ouvísseis hoje a sua voz! \\par",
+      "reference": "Sl 95:7"
+    },
+    "8": {
+      "text": "“Não endureçais vossos corações como em Meriba, \\par como no dia de Massa, no deserto, \\par",
+      "reference": "Sl 95:8"
+    },
+    "9": {
+      "text": "quando vossos pais me provocaram \\par e tentaram, mesmo vendo as minhas obras. \\par",
+      "reference": "Sl 95:9"
+    },
+    "10": {
+      "text": "Quarenta anos esta geração me desgostou, \\par e eu disse: Sempre os corações errantes, \\par que não conhecem meus caminhos... \\par",
+      "reference": "Sl 95:10"
+    },
+    "11": {
+      "text": "Então eu jurei na minha ira: \\par jamais entrarão no meu repouso!” \\par",
+      "reference": "Sl 95:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

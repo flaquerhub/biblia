@@ -1,0 +1,57 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O castigo\\par }Então gritou aos meus ouvidos em alta voz: “Os flagelos da cidade se aproximam, cada um com o seu instrumento exterminador na mão”.",
+      "reference": "Ez 9:1"
+    },
+    "2": {
+      "text": "E eis que seis homens vinham do caminho do pórtico superior, o qual dá para o norte, cada um com a sua arma de destruição na mão. Entre eles estava um homem vestido de linho, o qual trazia um estojo de escriba na cintura. Chegaram-se e puseram-se de pé junto ao altar de bronze.",
+      "reference": "Ez 9:2"
+    },
+    "3": {
+      "text": "A Glória do Deus de Israel se ergueu de sobre o querubim sobre o qual se encontrava, veio para o limiar do Templo e chamou o homem vestido de linho, que trazia na cintura o estojo de escriba,",
+      "reference": "Ez 9:3"
+    },
+    "4": {
+      "text": "e Iahweh lhe disse: “Percorre a cidade, a saber, Jerusalém, e assinala com uma cruz a testa dos homens que estão gemendo e chorando por causa de todas as abominações que se fazem no meio dela”.",
+      "reference": "Ez 9:4"
+    },
+    "5": {
+      "text": "Ouvi que dizia aos outros: “Percorrei a cidade atrás dele e feri. Não mostreis olhar de compaixão nem poupeis a ninguém.",
+      "reference": "Ez 9:5"
+    },
+    "6": {
+      "text": "Velhos, moços, virgens, crianças, mulheres, matai-os, entregai-os ao exterminador. Mas não toqueis ninguém daqueles que trouxerem o sinal da cruz. Começai pelo meu santuário”. Assim, começaram pelos velhos que estavam diante do Templo.",
+      "reference": "Ez 9:6"
+    },
+    "7": {
+      "text": "E disse-lhes: “Profanai o Templo, enchei o átrio de mortos e saí”. Eles saíram e puseram-se a ferir pela cidade. \\par",
+      "reference": "Ez 9:7"
+    },
+    "8": {
+      "text": "Pois bem, enquanto estavam ferindo, fui deixado só. Então caí com o rosto em terra e clamei, dizendo: “Ah, Senhor Iahweh, vais destruir todo o resto de Israel, derramando o teu furor sobre Jerusalém?”",
+      "reference": "Ez 9:8"
+    },
+    "9": {
+      "text": "A isto ele me disse: “A maldade da casa de Israel e de Judá é enorme; a terra está cheia de sangue e a cidade cheia de perversidade. Com efeito, eles dizem: ‘Iahweh abandonou a terra, Iahweh não está vendo’.",
+      "reference": "Ez 9:9"
+    },
+    "10": {
+      "text": "Eis porque também não lhes mostro olhar de compaixão nem vou poupá-los. Antes farei cair sobre a sua cabeça os frutos do seu comportamento”.",
+      "reference": "Ez 9:10"
+    },
+    "11": {
+      "text": "Nisto, o homem vestido de linho, que trazia o estojo de escriba na cintura vinha de volta para dar contas do realizado, dizendo: “Agi de acordo com o que me ordenastes”. \\par",
+      "reference": "Ez 9:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

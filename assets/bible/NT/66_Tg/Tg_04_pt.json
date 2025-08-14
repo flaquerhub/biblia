@@ -1,0 +1,81 @@
+{
+  "book": 59,
+  "book_name": "Tiago",
+  "book_abbr": "Tg",
+  "book_category": "Epístolas Gerais",
+  "book_english": "James",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra as discórdias\\par }De onde vêm as guerras? De onde vêm as lutas entre vós? Não vêm daqui: dos prazeres que guerreiam nos vossos membros?",
+      "reference": "Tg 4:1"
+    },
+    "2": {
+      "text": "Cobiçais e não tendes? Então matais. Buscais com avidez, mas nada conseguis obter? Então vos entregais à luta e à guerra. Não possuís porque não pedis.",
+      "reference": "Tg 4:2"
+    },
+    "3": {
+      "text": "Pedis, mas não recebeis, porque pedis mal, com o fim de gastardes nos vossos prazeres. \\par",
+      "reference": "Tg 4:3"
+    },
+    "4": {
+      "text": "Adúlteros, não sabeis que a amizade com o mundo é inimizade com Deus? Assim, todo aquele que quer ser amigo do mundo torna-se inimigo de Deus.",
+      "reference": "Tg 4:4"
+    },
+    "5": {
+      "text": "Ou julgais que é em vão que a Escritura diz: Ele reclama com ciúme o espírito que pôs dentro de nós?",
+      "reference": "Tg 4:5"
+    },
+    "6": {
+      "text": "Mas ele nos dá uma graça maior, conforme diz a Escritura: {\\i Deus resiste aos soberbos, mas dá graça aos humildes.}",
+      "reference": "Tg 4:6"
+    },
+    "7": {
+      "text": "Sujeitai-vos, pois, a Deus; resisti ao diabo e ele fugirá de vós.",
+      "reference": "Tg 4:7"
+    },
+    "8": {
+      "text": "Chegai-vos a Deus e ele se chegará a vós. Purificai as vossas mãos, pecadores, e santificai os vossos corações, homens dúbios.",
+      "reference": "Tg 4:8"
+    },
+    "9": {
+      "text": "Entristecei-vos, cobri-vos de luto e chorai. Transforme-se o vosso riso em luto e a vossa alegria em desalento.",
+      "reference": "Tg 4:9"
+    },
+    "10": {
+      "text": "Humilhai-vos diante do Senhor e ele vos exaltará. \\par",
+      "reference": "Tg 4:10"
+    },
+    "11": {
+      "text": "Não faleis mal uns dos outros, irmãos. Aquele que fala mal de um irmão ou julga o seu irmão fala mal da Lei e julga a Lei. Ora, se julgas a Lei, já não estás praticando a Lei, mas te fazes juiz da Lei.",
+      "reference": "Tg 4:11"
+    },
+    "12": {
+      "text": "Só há um legislador e juiz, a saber, aquele que pode salvar e destruir. Tu, porém, quem és para julgares o teu próximo? \\par",
+      "reference": "Tg 4:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Admoestações aos ricos\\par }E agora, vós os que dizeis: “hoje ou amanhã iremos a tal cidade, passaremos ali um ano, negociando e obtendo bons lucros”.",
+      "reference": "Tg 4:13"
+    },
+    "14": {
+      "text": "E, no entanto, não sabeis nem mesmo o que será da vossa vida amanhã! Com efeito, não passais de um vapor que se vê por alguns instantes e depois logo se desfaz.",
+      "reference": "Tg 4:14"
+    },
+    "15": {
+      "text": "Em vez de dizer: “Se o Senhor quiser, estaremos vivos e faremos isto ou aquilo”,",
+      "reference": "Tg 4:15"
+    },
+    "16": {
+      "text": "vós vos jactais de vossas fanfarronadas! Ora, toda jactância desse gênero é má.",
+      "reference": "Tg 4:16"
+    },
+    "17": {
+      "text": "Assim, aquele que sabe fazer o bem e não o faz incorre em pecado. \\par",
+      "reference": "Tg 4:17"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 17
+}

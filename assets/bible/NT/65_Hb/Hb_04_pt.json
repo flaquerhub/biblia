@@ -1,0 +1,77 @@
+{
+  "book": 58,
+  "book_name": "Hebreus",
+  "book_abbr": "Hb",
+  "book_category": "Epístolas Gerais",
+  "book_english": "Hebrews",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Ora, sendo que ainda continua a promessa de {\\i entrar no seu repouso...}, tenhamos o cuidado de não encontrar entre vós quem chegue atrasado.",
+      "reference": "Hb 4:1"
+    },
+    "2": {
+      "text": "Pois também nós, como eles, recebemos a boa nova. A palavra que ouviram, contudo, de nada lhes aproveitou, por não se unirem pela fé àqueles que a tinham ouvido.",
+      "reference": "Hb 4:2"
+    },
+    "3": {
+      "text": "Nós, porém, que abraçamos a fé, entraremos num repouso, conforme o que foi dito: {\\i Assim, jurei em minha ira: não entrarão no meu repouso.} Claro está que as obras de Deus estão terminadas desde a criação do mundo;",
+      "reference": "Hb 4:3"
+    },
+    "4": {
+      "text": "pois, nalgum lugar, se diz sobre o sétimo dia: {\\i No sétimo dia repousou Deus de todas as suas obras.}",
+      "reference": "Hb 4:4"
+    },
+    "5": {
+      "text": "E ainda nesta passagem: {\\i Não entrarão no meu repouso.}",
+      "reference": "Hb 4:5"
+    },
+    "6": {
+      "text": "Sendo assim, outros hão de entrar nele, visto que aqueles que primeiro receberam a boa nova não entraram, devido à sua indocilidade.",
+      "reference": "Hb 4:6"
+    },
+    "7": {
+      "text": "Tornou Deus a fixar outro dia, um {\\i hoje, quando há muito disse em Davi}, conforme dissemos acima: {\\i Hoje, se lhe ouvirdes a voz, não endureçais os vossos corações...}",
+      "reference": "Hb 4:7"
+    },
+    "8": {
+      "text": "Pois bem, se Josué lhes tivesse assegurado este repouso, não se falaria mais de outro dia.",
+      "reference": "Hb 4:8"
+    },
+    "9": {
+      "text": "Por isso, ainda fica em perspectiva para o povo de Deus um repouso de sábado.",
+      "reference": "Hb 4:9"
+    },
+    "10": {
+      "text": "Pois {\\i aquele que entrou no seu repouso, descansou das suas obras}, assim como Deus descansa das suas.",
+      "reference": "Hb 4:10"
+    },
+    "11": {
+      "text": "Empenhemo-nos, portanto, por {\\i entrar nesse repouso}, para que este mesmo exemplo de indocilidade não leve ninguém a cair. \\par",
+      "reference": "Hb 4:11"
+    },
+    "12": {
+      "text": "Pois a Palavra de Deus é viva, eficaz e mais penetrante do que qualquer espada de dois gumes; penetra até dividir alma e espírito, junturas e medulas. Ela julga as disposições e as intenções do coração.",
+      "reference": "Hb 4:12"
+    },
+    "13": {
+      "text": "E não há criatura oculta à sua presença. Tudo está nu e descoberto aos olhos daquele a quem devemos prestar contas. \\par",
+      "reference": "Hb 4:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Jesus, sumo sacerdote misericordioso\\par }Temos, portanto, um sumo sacerdote eminente, que atravessou os céus: Jesus, o Filho de Deus. Permaneçamos, por isso, firmes na profissão de fé.",
+      "reference": "Hb 4:14"
+    },
+    "15": {
+      "text": "Com efeito, não temos um sumo sacerdote incapaz de se compadecer das nossas fraquezas, pois ele mesmo foi provado em tudo como nós, com exceção do pecado.",
+      "reference": "Hb 4:15"
+    },
+    "16": {
+      "text": "Aproximemo-nos, então, com segurança do trono da graça para conseguirmos misericórdia e alcançarmos graça, como ajuda oportuna. \\par",
+      "reference": "Hb 4:16"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 16
+}

@@ -1,0 +1,85 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os benefícios\\par }Se queres fazer o bem, saibas a quem o fazes \\par e teus benefícios não serão perdidos. \\par",
+      "reference": "Eclo 12:1"
+    },
+    "2": {
+      "text": "Faze o bem a um homem piedoso e terás a recompensa, \\par se não dele, pelo menos do Altíssimo. \\par",
+      "reference": "Eclo 12:2"
+    },
+    "3": {
+      "text": "Não haja benefícios para quem persevera no mal \\par e nem para o que não dá esmola. \\par",
+      "reference": "Eclo 12:3"
+    },
+    "4": {
+      "text": "Dá ao homem piedoso \\par e não ajudes ao pecador. \\par",
+      "reference": "Eclo 12:4"
+    },
+    "5": {
+      "text": "Faze o bem ao humilde \\par e não dês nada ao ímpio. \\par Recusa-lhe o pão, não lhe dês nada, \\par para que ele não te domine. \\par Porque encontrarás o dobro de males \\par por todos os benefícios que fizeres a ele. \\par",
+      "reference": "Eclo 12:5"
+    },
+    "6": {
+      "text": "Pois o próprio Altíssimo detesta os pecadores \\par e aos ímpios infligirá um castigo. \\par",
+      "reference": "Eclo 12:6"
+    },
+    "7": {
+      "text": "Dá ao homem bom \\par e não ajudes o pecador. \\par",
+      "reference": "Eclo 12:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Verdadeiros e falsos amigos\\par }Na prosperidade não se pode reconhecer o verdadeiro amigo, \\par na adversidade o inimigo não pode fingir. \\par",
+      "reference": "Eclo 12:8"
+    },
+    "9": {
+      "text": "Quando um homem é feliz, seus inimigos ficam na tristeza; \\par na sua adversidade até o amigo desaparece. \\par",
+      "reference": "Eclo 12:9"
+    },
+    "10": {
+      "text": "Não confies nunca em teu inimigo; \\par como o cobre cria ferrugem, assim é a sua malícia. \\par",
+      "reference": "Eclo 12:10"
+    },
+    "11": {
+      "text": "Mesmo que se humilhe e caminhe curvado, \\par observa-o e guarda-te dele. \\par Age com ele como quem limpa um espelho: \\par saibas que sua ferrugem não permanecerá até o fim. \\par",
+      "reference": "Eclo 12:11"
+    },
+    "12": {
+      "text": "Não o admitas ao teu lado, \\par para que ele não te derrube e se ponha em teu lugar. \\par Não o assentes à tua direita, \\par para que ele não procure obter a tua cadeira \\par e então, tarde demais, compreenderás as minhas palavras \\par e gemerás sob o meu discurso. \\par",
+      "reference": "Eclo 12:12"
+    },
+    "13": {
+      "text": "Quem terá dó do encantador que se faz morder pela serpente \\par e de todos os que se aproximam das feras? \\par",
+      "reference": "Eclo 12:13"
+    },
+    "14": {
+      "text": "Assim acontece com o que se associa ao pecador, \\par com o que se deixa envolver nos seus pecados. \\par",
+      "reference": "Eclo 12:14"
+    },
+    "15": {
+      "text": "Por uma hora ele ficará contigo, \\par mas, se caíres, ele não se conterá mais. \\par",
+      "reference": "Eclo 12:15"
+    },
+    "16": {
+      "text": "O inimigo só tem doçura nos lábios, \\par mas no seu coração maquina jogar-te no abismo. \\par O inimigo tem lágrimas nos olhos, \\par mas, se tiver ocasião, o teu sangue não o saciará. \\par",
+      "reference": "Eclo 12:16"
+    },
+    "17": {
+      "text": "Se te ocorre um infortúnio, tu o encontrarás ali contigo \\par e como quem socorre agarrar-te-á pelo calcanhar. \\par",
+      "reference": "Eclo 12:17"
+    },
+    "18": {
+      "text": "Sacudirá a cabeça, baterá palmas, \\par porém, murmurando muito, mudará de semblante. \\par",
+      "reference": "Eclo 12:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

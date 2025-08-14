@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 29 (28)\\par }{\\qc\\b\\i Hino ao Senhor da tempestade\\par }{\\qc\\i Salmo de Davi.\\par } Tributai a Iahweh, ó filhos de Deus, \\par tributai a Iahweh glória e poder, \\par",
+      "reference": "Sl 29:1"
+    },
+    "2": {
+      "text": "tributai a Iahweh a glória ao seu nome, \\par adorai a Iahweh no seu átrio sagrado. \\par",
+      "reference": "Sl 29:2"
+    },
+    "3": {
+      "text": "A voz de Iahweh sobre as águas, \\par o Deus glorioso troveja, \\par Iahweh sobre as águas torrenciais. \\par",
+      "reference": "Sl 29:3"
+    },
+    "4": {
+      "text": "A voz de Iahweh com a força, \\par a voz de Iahweh no esplendor! \\par",
+      "reference": "Sl 29:4"
+    },
+    "5": {
+      "text": "A voz de Iahweh despedaça os cedros, \\par despedaça Iahweh os cedros do Líbano, \\par",
+      "reference": "Sl 29:5"
+    },
+    "6": {
+      "text": "faz o Líbano pular qual bezerro \\par e o Sarion como cria de búfalo. \\par",
+      "reference": "Sl 29:6"
+    },
+    "7": {
+      "text": "A voz de Iahweh lança chispas de fogo, \\par",
+      "reference": "Sl 29:7"
+    },
+    "8": {
+      "text": "a voz de Iahweh sacode o deserto, \\par Iahweh sacode o deserto de Cades! \\par",
+      "reference": "Sl 29:8"
+    },
+    "9": {
+      "text": "A voz de Iahweh retorce os carvalhos, \\par descascando as florestas. \\par E no seu Templo tudo grita: Glória! \\par",
+      "reference": "Sl 29:9"
+    },
+    "10": {
+      "text": "Iahweh está sentado sobre o dilúvio, \\par Iahweh sentou-se como rei para sempre. \\par",
+      "reference": "Sl 29:10"
+    },
+    "11": {
+      "text": "Iahweh dá força ao seu povo, \\par Iahweh abençoa seu povo com paz. \\par",
+      "reference": "Sl 29:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

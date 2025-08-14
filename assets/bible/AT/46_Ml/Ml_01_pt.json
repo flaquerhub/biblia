@@ -1,0 +1,69 @@
+{
+  "book": 39,
+  "book_name": "Malaquias",
+  "book_abbr": "Ml",
+  "book_category": "Profético",
+  "book_english": "Malachi",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Oráculo. \\par Palavra de Iahweh a Israel por intermédio de Malaquias. \\par",
+      "reference": "Ml 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i O amor de Iahweh por Israel\\par }Eu vos amei, disse Iahweh. – Mas vós dizeis: Em que nos amaste? – Não era, por acaso, Esaú irmão de Jacó? – oráculo de Iahweh. Contudo, eu amei Jacó",
+      "reference": "Ml 1:2"
+    },
+    "3": {
+      "text": "e odiei a Esaú. Eu fiz de suas montanhas um deserto, e de sua herança, pastagens da estepe.",
+      "reference": "Ml 1:3"
+    },
+    "4": {
+      "text": "Se Edom disser: “Fomos destruídos, mas reconstruiremos as ruínas”, assim disse Iahweh dos Exércitos: Eles construirão, e eu demolirei! Chamá-los-ão: “Território da impiedade” e “O povo contra quem Iahweh está irado para sempre”.",
+      "reference": "Ml 1:4"
+    },
+    "5": {
+      "text": "Vossos olhos verão isso e direis: Iahweh é grande, muito além das fronteiras de Israel! \\par",
+      "reference": "Ml 1:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Acusação contra os sacerdotes\\par }Um filho honra o pai, um servo teme o seu senhor. Mas se eu sou pai, onde está a minha honra? Se eu sou senhor, onde está o meu temor? Disse Iahweh dos Exércitos a vós, os sacerdotes que desprezais o meu Nome. – Mas vós dizeis: Em que desprezamos o teu Nome? –",
+      "reference": "Ml 1:6"
+    },
+    "7": {
+      "text": "Ofereceis sobre o meu altar alimentos impuros. – Mas dizeis: Em que te profanamos? – Quando dizeis: A mesa de Iahweh é desprezível.",
+      "reference": "Ml 1:7"
+    },
+    "8": {
+      "text": "Quando trazeis um animal cego para sacrificar, isto não é mal? Quando trazeis um animal coxo ou doente, isto não é mal? Oferece-os ao teu governador, acaso ficará contente com isso, ou receber-te-á amigavelmente? Disse Iahweh dos Exércitos.",
+      "reference": "Ml 1:8"
+    },
+    "9": {
+      "text": "E agora quereis aplacar a Deus, para que tenha piedade de nós (e, contudo, de vossas mãos vêm estas coisas): acaso vos receberá amigavelmente? Disse Iahweh dos Exércitos!",
+      "reference": "Ml 1:9"
+    },
+    "10": {
+      "text": "Quem entre vós, pois, fechará as portas para que não acendam o meu altar em vão? Não tenho prazer algum em vós, disse Iahweh dos Exércitos, e não me agrada a oferenda de vossas mãos.",
+      "reference": "Ml 1:10"
+    },
+    "11": {
+      "text": "Sim, do levantar ao pôr-do-sol, meu Nome será grande entre as nações, e em todo lugar será oferecido ao meu Nome um sacrifício de incenso e uma oferenda pura. Porque o meu Nome é grande entre os povos! Disse Iahweh dos Exércitos!",
+      "reference": "Ml 1:11"
+    },
+    "12": {
+      "text": "Vós, contudo, o profanais, dizendo: A mesa do Senhor é manchada, e desprezível o seu alimento.",
+      "reference": "Ml 1:12"
+    },
+    "13": {
+      "text": "Vós dizeis: Eis, que canseira! E me desprezais, disse Iahweh dos Exércitos. Trazeis o animal roubado, o coxo ou o doente e o ofereceis em sacrifício. Posso eu recebê-lo com agrado de vossas mãos? Disse Iahweh dos Exércitos.",
+      "reference": "Ml 1:13"
+    },
+    "14": {
+      "text": "Maldito o embusteiro que tem em seu rebanho um animal macho, mas consagra e me sacrifica um animal defeituoso. Pois eu sou um grande rei, disse Iahweh dos Exércitos, e o meu Nome é temido entre as nações. \\par",
+      "reference": "Ml 1:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

@@ -1,0 +1,93 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "O povo que andava nas trevas viu uma grande luz, \\par uma luz raiou para os que habitavam uma terra sombria \\par como a da morte. \\par",
+      "reference": "Is 9:1"
+    },
+    "2": {
+      "text": "Multiplicaste o povo, deste-lhe grande alegria; \\par eles alegram-se na tua presença como se alegram os ceifadores na ceifa, \\par como se regozijam os que repartem os despojos. \\par",
+      "reference": "Is 9:2"
+    },
+    "3": {
+      "text": "Porque o jugo que pesava sobre eles, \\par a canga posta sobre seus ombros, o bastão do opressor, \\par tu os despedaçaste como no dia de Madiã. \\par",
+      "reference": "Is 9:3"
+    },
+    "4": {
+      "text": "Com efeito, toda a bota que pisa ruidosamente no chão, \\par toda a veste que se revolve no sangue \\par serão queimadas, serão devoradas pelas chamas. \\par",
+      "reference": "Is 9:4"
+    },
+    "5": {
+      "text": "Porque um menino nos nasceu, um filho nos foi dado, \\par ele recebeu o poder sobre seus ombros, e lhe foi dado este nome: \\par Conselheiro-maravilhoso, Deus-forte, \\par Pai-eterno, Príncipe-da-paz, \\par",
+      "reference": "Is 9:5"
+    },
+    "6": {
+      "text": "para que se multiplique o poder, assegurando o estabelecimento de uma paz sem fim \\par sobre o trono de Davi e sobre o seu reino, \\par firmando-o, consolidando-o \\par sobre o direito e sobre a justiça. \\par Desde agora e para sempre, \\par o zelo de Iahweh dos Exércitos fará isto. \\par",
+      "reference": "Is 9:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i As provações do reino do norte\\par }O Senhor enviou uma palavra a Jacó, \\par ela caiu em Israel. \\par",
+      "reference": "Is 9:7"
+    },
+    "8": {
+      "text": "Todo o povo teve dela conhecimento, isto é, Efraim e os habitantes de Samaria, \\par que no orgulho e na altivez do seu coração dizem: \\par",
+      "reference": "Is 9:8"
+    },
+    "9": {
+      "text": "“Os tijolos caíram, mas construiremos com pedras lavradas, \\par os sicômoros foram derrubados, substitui-los-emos por cedros”. \\par",
+      "reference": "Is 9:9"
+    },
+    "10": {
+      "text": "Mas Iahweh sustentou contra este povo o seu adversário Rason, \\par incitou contra ele os seus inimigos, \\par",
+      "reference": "Is 9:10"
+    },
+    "11": {
+      "text": "Aram do lado do oriente e os filisteus do lado do ocidente: \\par eles devoraram Israel de um só trago. \\par Com tudo isso a sua ira não se amainou, \\par a sua mão continua estendida. \\par",
+      "reference": "Is 9:11"
+    },
+    "12": {
+      "text": "Nem por isso o povo voltou para aquele que o feria, \\par não buscou a Iahweh dos Exércitos. \\par",
+      "reference": "Is 9:12"
+    },
+    "13": {
+      "text": "Então Iahweh, em um só dia, decepou \\par de Israel cabeça e cauda, palma e junco. \\par",
+      "reference": "Is 9:13"
+    },
+    "14": {
+      "text": "(O ancião e o dignitário são a cabeça, \\par o profeta que ensina a mentira é a cauda.) \\par",
+      "reference": "Is 9:14"
+    },
+    "15": {
+      "text": "Os condutores deste povo o desencaminham; \\par assim, os seus conduzidos estão transviados. \\par",
+      "reference": "Is 9:15"
+    },
+    "16": {
+      "text": "Por esta razão o Senhor já não tem prazer nos seus jovens, \\par não tem compaixão dos seus órfãos nem das suas viúvas. \\par Com efeito, são todos uns ímpios e malfeitores, \\par toda boca profere loucuras. \\par Com tudo isto a sua ira não se amainou, \\par a sua mão continua estendida. \\par",
+      "reference": "Is 9:16"
+    },
+    "17": {
+      "text": "Porque a impiedade ardeu como o fogo, \\par devorando espinheiros e matagais, \\par incendiou a espessura da floresta: \\par esta subiu em turbilhões de fumaça. \\par",
+      "reference": "Is 9:17"
+    },
+    "18": {
+      "text": "Em virtude do furor de Iahweh dos Exércitos a terra foi queimada \\par e o povo se tornou presa do fogo. \\par Ninguém tem compaixão do seu próximo; \\par",
+      "reference": "Is 9:18"
+    },
+    "19": {
+      "text": "o homem corta à direita, mas continua com fome, \\par come à esquerda, mas não consegue saciar-se. \\par Todos comem até a carne do seu braço. \\par",
+      "reference": "Is 9:19"
+    },
+    "20": {
+      "text": "Manassés devora a Efraim e Efraim a Manassés, \\par e ambos juntos se viram contra Judá. \\par Com tudo isto a sua ira não se amainou, \\par a sua mão continua estendida. \\par",
+      "reference": "Is 9:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

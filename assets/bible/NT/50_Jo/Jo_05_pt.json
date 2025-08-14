@@ -1,0 +1,201 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. SEGUNDA FESTA EM JERUSALÉM\\par (PRIMEIRA OPOSIÇÃO À REVELAÇÃO)\\par }{\\qc\\b\\i Cura de um enfermo na piscina de Betesda\\par }Depois disso, por ocasião de uma festa dos judeus, Jesus subiu a Jerusalém.",
+      "reference": "Jo 5:1"
+    },
+    "2": {
+      "text": "Existe em Jerusalém, junto à Porta das Ovelhas, uma piscina que, em hebraico, se chama Betesda, com cinco pórticos.",
+      "reference": "Jo 5:2"
+    },
+    "3": {
+      "text": "Sob esses pórticos, deitados pelo chão, numerosos doentes, cegos, coxos e paralíticos ficavam esperando o borbulhar da água.",
+      "reference": "Jo 5:3"
+    },
+    "4": {
+      "text": "Porque o Anjo do Senhor descia, de vez em quando, à piscina e agitava a água; o primeiro, então, que aí entrasse, depois que a água fora agitada, ficava curado, qualquer que fosse a doença.",
+      "reference": "Jo 5:4"
+    },
+    "5": {
+      "text": "Encontrava-se aí um homem, doente havia trinta e oito anos.",
+      "reference": "Jo 5:5"
+    },
+    "6": {
+      "text": "Jesus, vendo-o deitado e sabendo que já estava assim havia muito tempo, perguntou-lhe: “Queres ficar curado?”",
+      "reference": "Jo 5:6"
+    },
+    "7": {
+      "text": "Respondeu-lhe o enfermo: “Senhor, não tenho quem me jogue na piscina, quando a água é agitada; ao chegar, outro já desceu antes de mim”.",
+      "reference": "Jo 5:7"
+    },
+    "8": {
+      "text": "Disse-lhe Jesus: “Levanta-te, toma o teu leito e anda!”",
+      "reference": "Jo 5:8"
+    },
+    "9": {
+      "text": "Imediatamente o homem ficou curado. Tomou o seu leito e se pôs a andar. \\par Ora, esse dia era um sábado.",
+      "reference": "Jo 5:9"
+    },
+    "10": {
+      "text": "Os judeus, por isso, disseram ao homem curado: “É sábado e não te é permitido carregar teu leito”.",
+      "reference": "Jo 5:10"
+    },
+    "11": {
+      "text": "Ele respondeu: “Aquele que me curou, disse: ‘Toma o teu leito e anda!’”",
+      "reference": "Jo 5:11"
+    },
+    "12": {
+      "text": "Eles perguntaram: “Quem foi o homem que te disse: ‘Toma o teu leito e anda’?”",
+      "reference": "Jo 5:12"
+    },
+    "13": {
+      "text": "Mas o homem curado não sabia quem fora. Jesus havia desaparecido, pois havia uma multidão naquele lugar.",
+      "reference": "Jo 5:13"
+    },
+    "14": {
+      "text": "Depois disso, Jesus o encontrou no Templo e lhe disse: “Eis que estás curado; não peques mais, para que não te suceda algo ainda pior!”",
+      "reference": "Jo 5:14"
+    },
+    "15": {
+      "text": "O homem saiu e informou aos judeus que fora Jesus quem o tinha curado.",
+      "reference": "Jo 5:15"
+    },
+    "16": {
+      "text": "Por isso os judeus perseguiam Jesus: porque fazia tais coisas no sábado.",
+      "reference": "Jo 5:16"
+    },
+    "17": {
+      "text": "Mas Jesus lhes respondeu: “Meu Pai trabalha até agora e eu também trabalho”.",
+      "reference": "Jo 5:17"
+    },
+    "18": {
+      "text": "Então os judeus, com mais empenho, procuravam matá-lo, pois além de violar o sábado, ele dizia ser Deus seu próprio pai, fazendo-se, assim, igual a Deus. \\par",
+      "reference": "Jo 5:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Discurso sobre a obra do Filho\\par }Retomando a palavra, Jesus lhes disse: \\par “Em verdade, em verdade, vos digo: \\par o Filho, por si mesmo, nada pode fazer \\par mas só aquilo que vê o Pai fazer; \\par tudo o que este faz \\par o Filho o faz igualmente. \\par",
+      "reference": "Jo 5:19"
+    },
+    "20": {
+      "text": "Porque o Pai ama o Filho \\par e lhe mostra tudo o que faz; \\par e lhe mostrará obras maiores do que essas \\par para que vos admireis. \\par",
+      "reference": "Jo 5:20"
+    },
+    "21": {
+      "text": "Como o Pai ressuscita os mortos \\par e os faz viver, \\par também o Filho dá a vida a quem quer. \\par",
+      "reference": "Jo 5:21"
+    },
+    "22": {
+      "text": "Porque o Pai a ninguém julga, \\par mas confiou ao Filho todo julgamento, \\par",
+      "reference": "Jo 5:22"
+    },
+    "23": {
+      "text": "a fim de que todos honrem o Filho, \\par como honram o Pai. \\par Quem não honra o Filho, \\par não honra o Pai que o enviou. \\par",
+      "reference": "Jo 5:23"
+    },
+    "24": {
+      "text": "Em verdade, em verdade vos digo: \\par quem escuta a minha palavra \\par e crê naquele que me enviou \\par tem a vida eterna \\par e não vem a julgamento, \\par mas passou da morte à vida. \\par",
+      "reference": "Jo 5:24"
+    },
+    "25": {
+      "text": "Em verdade, em verdade, vos digo: \\par vem a hora – e é agora – \\par em que os mortos ouvirão a voz do Filho de Deus, \\par e os que o ouvirem, viverão. \\par",
+      "reference": "Jo 5:25"
+    },
+    "26": {
+      "text": "Assim como o Pai tem a vida em si mesmo, \\par também concedeu ao Filho ter a vida em si mesmo \\par",
+      "reference": "Jo 5:26"
+    },
+    "27": {
+      "text": "e lhe deu o poder de exercer o julgamento, \\par porque é Filho do Homem. \\par",
+      "reference": "Jo 5:27"
+    },
+    "28": {
+      "text": "Não vos admireis com isto: \\par vem a hora \\par em que todos os que repousam nos sepulcros \\par ouvirão a sua voz \\par",
+      "reference": "Jo 5:28"
+    },
+    "29": {
+      "text": "e sairão; \\par os que tiverem feito o bem, \\par para uma ressurreição de vida; \\par os que tiverem praticado o mal, \\par para uma ressurreição de julgamento. \\par",
+      "reference": "Jo 5:29"
+    },
+    "30": {
+      "text": "Por mim mesmo, nada posso fazer: \\par eu julgo segundo o que ouço, \\par e meu julgamento é justo, \\par porque não procuro a minha vontade, \\par mas a vontade daquele que me enviou. \\par",
+      "reference": "Jo 5:30"
+    },
+    "31": {
+      "text": "Se eu der testemunho de mim mesmo, \\par meu testemunho não será verdadeiro; \\par",
+      "reference": "Jo 5:31"
+    },
+    "32": {
+      "text": "um outro é que dá testemunho de mim, \\par e sei que é verdadeiro \\par o testemunho que presta de mim. \\par",
+      "reference": "Jo 5:32"
+    },
+    "33": {
+      "text": "Vós enviastes emissários a João \\par e ele deu testemunho da verdade. \\par",
+      "reference": "Jo 5:33"
+    },
+    "34": {
+      "text": "Eu, no entanto, não dependo do testemunho de um homem; \\par mas falo isso, para que sejais salvos. \\par",
+      "reference": "Jo 5:34"
+    },
+    "35": {
+      "text": "Ele era a lâmpada que arde e ilumina \\par e vós quisestes vos alegrar, por um momento, com sua luz. \\par",
+      "reference": "Jo 5:35"
+    },
+    "36": {
+      "text": "Eu, porém, tenho um testemunho maior que o de João: \\par as obras que o Pai me encarregou de consumar. \\par Tais obras, eu as faço \\par e elas dão testemunho de que o Pai me enviou. \\par",
+      "reference": "Jo 5:36"
+    },
+    "37": {
+      "text": "Também o Pai que me enviou \\par dá testemunho de mim. \\par Jamais ouvistes a sua voz, \\par nem contemplastes a sua face, \\par",
+      "reference": "Jo 5:37"
+    },
+    "38": {
+      "text": "e sua palavra não permanece em vós, \\par porque não credes \\par naquele que ele enviou. \\par",
+      "reference": "Jo 5:38"
+    },
+    "39": {
+      "text": "Vós perscrutais as Escrituras, \\par porque julgais ter nelas a vida eterna; \\par ora, são elas que dão testemunho de mim; \\par",
+      "reference": "Jo 5:39"
+    },
+    "40": {
+      "text": "vós, porém, não quereis vir a mim \\par para terdes a vida. \\par",
+      "reference": "Jo 5:40"
+    },
+    "41": {
+      "text": "Não recebo a glória que vem dos homens. \\par",
+      "reference": "Jo 5:41"
+    },
+    "42": {
+      "text": "Mas eu vos conheço: \\par não tendes em vós o amor de Deus. \\par",
+      "reference": "Jo 5:42"
+    },
+    "43": {
+      "text": "Vim em nome de meu Pai, \\par mas não me acolheis; \\par se alguém viesse em seu próprio nome, \\par vós o acolheríeis. \\par",
+      "reference": "Jo 5:43"
+    },
+    "44": {
+      "text": "Como podereis crer, \\par vós que recebeis glória uns dos outros, \\par mas não procurais a glória que me vem do Deus único? \\par",
+      "reference": "Jo 5:44"
+    },
+    "45": {
+      "text": "Não penseis que vos acusarei diante do Pai; \\par Moisés é o vosso acusador, \\par ele, em quem pusestes a vossa esperança. \\par",
+      "reference": "Jo 5:45"
+    },
+    "46": {
+      "text": "Se crêsseis em Moisés, \\par haveríeis de crer em mim, \\par porque foi a meu respeito que ele escreveu. \\par",
+      "reference": "Jo 5:46"
+    },
+    "47": {
+      "text": "Mas se não credes em seus escritos, \\par como crereis em minhas palavras?” \\par",
+      "reference": "Jo 5:47"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 47
+}

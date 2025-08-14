@@ -1,0 +1,109 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 66,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Oráculo sobre o Templo\\par }Assim diz Iahweh: \\par O céu é o meu trono, e a terra o escabelo dos meus pés. \\par Que casa me haveis de fazer, \\par que lugar, para o meu repouso? \\par",
+      "reference": "Is 66:1"
+    },
+    "2": {
+      "text": "Tudo isto foi a minha mão que fez, \\par tudo isto me pertence, oráculo de Iahweh! \\par Eis para que estão voltados os meus olhos, para o pobre e para o abatido, \\par para aquele que treme diante da minha palavra. \\par",
+      "reference": "Is 66:2"
+    },
+    "3": {
+      "text": "O que mata um boi ou fere um homem, \\par o que sacrifica um cordeiro ou destronca o pescoço de um cão, \\par o que oferece uma oblação \\par – isto é, sangue de porco –, \\par o que apresenta incenso como um memorial, o que bendiz um ídolo, \\par todos eles escolheram os seus próprios caminhos; \\par sua alma se deleitou nas suas abominações! \\par",
+      "reference": "Is 66:3"
+    },
+    "4": {
+      "text": "Também eu zombarei deles \\par e trarei sobre eles aquilo de que têm pavor, \\par pois chamei e ninguém respondeu, \\par falei, mas eles não deram ouvidos; \\par antes, fizeram o que é mau aos meus olhos \\par e optaram por aquilo que não me apraz. \\par",
+      "reference": "Is 66:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Julgamento sobre Jerusalém\\par }Ouvi a palavra de Iahweh, \\par vós que tendes reverência à sua palavra. \\par Os vossos irmãos, que vos odeiam, \\par que vos repelem por causa do meu nome, dizem: \\par “Manifeste Iahweh a sua glória \\par e vejamos a vossa alegria”. \\par Eles é que ficarão envergonhados! \\par",
+      "reference": "Is 66:5"
+    },
+    "6": {
+      "text": "Uma voz, um alarido que vem da cidade, \\par uma voz que vem do templo: é a voz de Iahweh \\par pagando o seu salário aos seus inimigos! \\par",
+      "reference": "Is 66:6"
+    },
+    "7": {
+      "text": "Antes de sentir as dores de parto ela deu à luz, \\par antes de lhe sobrevirem as contorções ela pôs no mundo um menino! \\par",
+      "reference": "Is 66:7"
+    },
+    "8": {
+      "text": "Quem já ouviu tal coisa? \\par Quem já viu acontecimento semelhante? \\par Por acaso uma terra pode nascer em um dia? \\par Pode uma nação ser gerada de uma só vez? \\par Pois Sião, assim que sentiu as dores de parto, deu à luz os seus filhos! \\par",
+      "reference": "Is 66:8"
+    },
+    "9": {
+      "text": "Por acaso eu que abro o seio não farei nascer?, diz Iahweh. \\par Se sou eu que faço nascer, impedirei de dar à luz?, diz o teu Deus. \\par",
+      "reference": "Is 66:9"
+    },
+    "10": {
+      "text": "Alegrai-vos com Jerusalém, \\par exultai nela, todos os que a amais; \\par regozijai-vos com ela, \\par todos os que por ela estáveis de luto, \\par",
+      "reference": "Is 66:10"
+    },
+    "11": {
+      "text": "pois sereis amamentados e saciados \\par pelo seu seio consolador, \\par pois sugareis e vos deleitareis \\par no seu peito fecundo. \\par",
+      "reference": "Is 66:11"
+    },
+    "12": {
+      "text": "Com efeito, assim diz Iahweh: \\par Eis que vou trazer a paz como um rio \\par e a glória das nações como uma torrente transbordante. \\par Sereis amamentados, sereis carregados sobre as ancas \\par e acariciados sobre os joelhos. \\par",
+      "reference": "Is 66:12"
+    },
+    "13": {
+      "text": "Como a uma pessoa que a sua mãe consola, \\par assim eu vos consolarei; \\par sim, em Jerusalém sereis consolados. \\par",
+      "reference": "Is 66:13"
+    },
+    "14": {
+      "text": "Vós o vereis e o vosso coração se regozijará: \\par os vossos membros serão viçosos como a erva; \\par a mão de Iahweh se revelará aos seus servos, \\par mas a sua cólera, aos seus inimigos. \\par",
+      "reference": "Is 66:14"
+    },
+    "15": {
+      "text": "Com efeito, Iahweh virá no fogo, \\par com os seus carros de guerra, como um furacão, \\par para acalmar com ardor a sua ira \\par e a sua ameaça com chamas de fogo. \\par",
+      "reference": "Is 66:15"
+    },
+    "16": {
+      "text": "Sim, por meio do fogo Iahweh executa o julgamento, \\par com a sua espada, sobre toda a carne; \\par muitas serão as vítimas de Iahweh. \\par",
+      "reference": "Is 66:16"
+    },
+    "17": {
+      "text": "Quanto aos que se santificam e purificam para o rito de consagração dos jardins, \\par atrás daquele que está no meio, \\par que comem carne de porco, outras coisas abomináveis e ratos, \\par estes cessarão de uma só vez, oráculo de Iahweh, \\par os seus atos e os seus pensamentos. \\par",
+      "reference": "Is 66:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Discurso escatológico\\par }Eu virei, a fim de reunir todas as nações e línguas; elas virão e verão a minha glória.",
+      "reference": "Is 66:18"
+    },
+    "19": {
+      "text": "Porei um sinal no meio deles e enviarei sobreviventes dentre eles às nações: a Társis, a Fut, a Lud, a Mosoc, a Tubal e a Javã, às ilhas distantes que nunca ouviram falar a meu respeito, nem viram a minha glória. Estes proclamarão a minha glória entre as nações,",
+      "reference": "Is 66:19"
+    },
+    "20": {
+      "text": "e de todas as nações trarão todos os vossos irmãos como uma oferenda a Iahweh, montados em cavalos, em quadrigas, em liteiras, em mulos e em camelos, conduzindo-os ao meu santo monte, a Jerusalém, diz Iahweh, exatamente como os filhos de Israel costumam trazer a oblação à casa de Iahweh em vasos puros.",
+      "reference": "Is 66:20"
+    },
+    "21": {
+      "text": "Dentre estes tomarei alguns para sacerdotes e levitas, diz Iahweh. \\par",
+      "reference": "Is 66:21"
+    },
+    "22": {
+      "text": "Sim, da mesma maneira que os novos céus e a nova terra que eu estou para criar subsistirão na minha presença – oráculo de Iahweh – assim subsistirá a vossa descendência e o vosso nome. \\par",
+      "reference": "Is 66:22"
+    },
+    "23": {
+      "text": "De lua nova em lua nova \\par e de sábado em sábado, \\par toda carne virá adorar \\par na minha presença, diz Iahweh. \\par",
+      "reference": "Is 66:23"
+    },
+    "24": {
+      "text": "Eles sairão para ver \\par os cadáveres dos homens que se rebelaram contra mim, \\par porque o seu verme não morrerá \\par e o seu fogo não se apagará: \\par eles serão uma abominação para toda a carne. \\par",
+      "reference": "Is 66:24"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 24
+}

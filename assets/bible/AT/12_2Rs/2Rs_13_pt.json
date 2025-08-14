@@ -1,0 +1,113 @@
+{
+  "book": 12,
+  "book_name": "2Reis",
+  "book_abbr": "2Rs",
+  "book_category": "Histórico",
+  "book_english": "2 Kings",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Reinado de Joacaz em Israel (814-798)\\par }No vigésimo terceiro ano de Joás, filho de Ocozias, rei de Judá, Joacaz, filho de Jeú, tornou-se rei sobre Israel em Samaria, e reinou dezessete anos.",
+      "reference": "2Rs 13:1"
+    },
+    "2": {
+      "text": "Fez o mal aos olhos de Iahweh e imitou o pecado ao qual Jeroboão, filho de Nabat, arrastou Israel e não se afastou dele. \\par",
+      "reference": "2Rs 13:2"
+    },
+    "3": {
+      "text": "Então a ira de Iahweh se inflamou contra Israel e ele o entregou a Hazael, rei de Aram, e a Ben-Adad, filho de Hazael, por todo aquele período.",
+      "reference": "2Rs 13:3"
+    },
+    "4": {
+      "text": "Mas Joacaz procurou aplacar a Iahweh e Iahweh o atendeu, porque viu a tirania com que o rei de Aram oprimia Israel.",
+      "reference": "2Rs 13:4"
+    },
+    "5": {
+      "text": "Iahweh deu a Israel um libertador que o libertou do poder de Aram, e os filhos de Israel puderam de novo morar em suas tendas como antes.",
+      "reference": "2Rs 13:5"
+    },
+    "6": {
+      "text": "Todavia, não se apartaram do pecado ao qual Jeroboão havia arrastado Israel; obstinaram-se nele e até mesmo o poste sagrado permaneceu de pé em Samaria.",
+      "reference": "2Rs 13:6"
+    },
+    "7": {
+      "text": "Iahweh só deixou como tropas a Joacaz cinqüenta cavaleiros, dez carros e dez mil soldados de infantaria; o rei de Aram os havia exterminado e reduzido a pó que se calca aos pés. \\par",
+      "reference": "2Rs 13:7"
+    },
+    "8": {
+      "text": "O resto da história de Joacaz, tudo o que fez e suas façanhas, não está tudo escrito no livro dos Anais dos reis de Israel?",
+      "reference": "2Rs 13:8"
+    },
+    "9": {
+      "text": "Joacaz adormeceu com seus pais e foi sepultado em Samaria, e seu filho Joás reinou em seu lugar. \\par",
+      "reference": "2Rs 13:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Reinado de Joás em Israel (798-783)\\par }No trigésimo sétimo ano de Joás, rei de Judá, Joás, filho de Joacaz, tornou-se rei sobre Israel em Samaria e reinou dezesseis anos.",
+      "reference": "2Rs 13:10"
+    },
+    "11": {
+      "text": "Fez o mal aos olhos de Iahweh e não se afastou do pecado ao qual Jeroboão, filho de Nabat, havia arrastado Israel, mas obstinou-se nele. \\par",
+      "reference": "2Rs 13:11"
+    },
+    "12": {
+      "text": "O resto da história de Joás, tudo o que fez e suas façanhas, a guerra que fez a Amasias, rei de Judá, não está tudo escrito no livro dos Anais dos reis de Israel?",
+      "reference": "2Rs 13:12"
+    },
+    "13": {
+      "text": "Joás adormeceu com seus pais e Jeroboão sucedeu-lhe no trono. Joás foi sepultado em Samaria, com os reis de Israel. \\par",
+      "reference": "2Rs 13:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Morte de Eliseu\\par }Quando Eliseu foi atingido pela doença da qual ia morrer, Joás, rei de Israel, desceu para visitá-lo e chorou sobre o seu rosto, dizendo: “Meu pai! Meu pai! Carro e cavalaria de Israel!”",
+      "reference": "2Rs 13:14"
+    },
+    "15": {
+      "text": "Disse-lhe Eliseu: “Vai buscar um arco e flechas”; e Joás foi buscar um arco e flechas.",
+      "reference": "2Rs 13:15"
+    },
+    "16": {
+      "text": "Eliseu disse ao rei: “Empunha o arco”; e ele o empunhou. Eliseu pôs as mãos sobre as mãos do rei,",
+      "reference": "2Rs 13:16"
+    },
+    "17": {
+      "text": "e disse: “Abre a janela do lado do oriente”, e ele a abriu. Então Eliseu disse: “Atira”, e ele atirou. Eliseu disse: “Flecha de vitória para Iahweh! Flecha da vitória contra Aram! Vencerás Aram em Afec até o extermínio”. \\par",
+      "reference": "2Rs 13:17"
+    },
+    "18": {
+      "text": "Depois disse Eliseu: “Toma as flechas”; e Joás tomou-as. Eliseu disse ao rei: “Fere a terra”; e ele deu três golpes e parou.",
+      "reference": "2Rs 13:18"
+    },
+    "19": {
+      "text": "Então o homem de Deus irritou-se contra ele e disse: “Era preciso dar cinco ou seis golpes! Então terias derrotado Aram até o extermínio agora, porém, vencerás Aram três vezes só!” \\par",
+      "reference": "2Rs 13:19"
+    },
+    "20": {
+      "text": "Eliseu morreu e foi sepultado. Bandos de moabitas faziam incursões na terra todo ano.",
+      "reference": "2Rs 13:20"
+    },
+    "21": {
+      "text": "Aconteceu que, enquanto alguns homens estavam sepultando um morto, avistaram um desses bandos; jogaram o corpo dentro do túmulo de Eliseu e partiram. O corpo tocou nos ossos de Eliseu, recobrou vida e pôs-se de pé. \\par",
+      "reference": "2Rs 13:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Vitória sobre os arameus\\par }Hazael, rei de Aram, tinha oprimido os israelitas por todo o tempo em que vivera Joacaz.",
+      "reference": "2Rs 13:22"
+    },
+    "23": {
+      "text": "Mas Iahweh lhes fez mercê e compadeceu-se deles. Voltou-se para eles por causa da aliança que fizera com Abraão, Isaac e Jacó; não os quis destruir e nem os rejeitou para longe de sua face.",
+      "reference": "2Rs 13:23"
+    },
+    "24": {
+      "text": "Hazael, rei de Aram, morreu e seu filho Ben-Adad reinou em seu lugar.",
+      "reference": "2Rs 13:24"
+    },
+    "25": {
+      "text": "Então Joás, filho de Joacaz, retomou das mãos de Ben-Adad, filho de Hazael, as cidades que Hazael tinha arrebatado de seu pai Joacaz na guerra. Joás os venceu três vezes e reconquistou as cidades de Israel. \\par",
+      "reference": "2Rs 13:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

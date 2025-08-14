@@ -1,0 +1,101 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i As cinzas da novilha vermelha\\par }Iahweh falou a Moisés e a Aarão. Disse-lhes:",
+      "reference": "Nm 19:1"
+    },
+    "2": {
+      "text": "“Eis um estatuto da Lei que Iahweh prescreve. Fala aos filhos de Israel. \\par Que tragam a ti uma novilha vermelha sem defeito e perfeita e que não tenha ainda sido submetida ao jugo.",
+      "reference": "Nm 19:2"
+    },
+    "3": {
+      "text": "Entregá-la-eis a Eleazar, o sacerdote. Será levada para fora do acampamento e será imolada diante dele.",
+      "reference": "Nm 19:3"
+    },
+    "4": {
+      "text": "Depois o sacerdote Eleazar tomará com o seu dedo um pouco do sangue da vítima e com esse sangue fará sete aspersões na direção da entrada da Tenda da Reunião.",
+      "reference": "Nm 19:4"
+    },
+    "5": {
+      "text": "Queimar-se-á, então, a novilha na sua presença; o couro, a carne, o sangue e os excrementos serão queimados.",
+      "reference": "Nm 19:5"
+    },
+    "6": {
+      "text": "O sacerdote tomará em seguida madeira de cedro, hissopo e escarlate de cochonila e os lançará no fogo onde arde a novilha.",
+      "reference": "Nm 19:6"
+    },
+    "7": {
+      "text": "Lavará, então, as suas vestes e banhará o seu corpo com água; depois disso entrará no acampamento, mas ficará ainda impuro até à tarde.",
+      "reference": "Nm 19:7"
+    },
+    "8": {
+      "text": "Igualmente aquele que queimou a novilha lavará as suas vestes, banhará o seu corpo com água e ficará impuro até à tarde.",
+      "reference": "Nm 19:8"
+    },
+    "9": {
+      "text": "Um homem em estado de pureza recolherá as cinzas da novilha e as depositará, fora do acampamento, em lugar puro. Ali permanecerão para uso ritual da comunidade dos filhos de Israel, para fazerem a água lustral; é um sacrifício pelo pecado.",
+      "reference": "Nm 19:9"
+    },
+    "10": {
+      "text": "Aquele que tiver recolhido as cinzas da novilha lavará suas vestes e ficará impuro até à tarde. Tanto para os filhos de Israel como para o estrangeiro que habita entre eles isso será um estatuto perpétuo. \\par",
+      "reference": "Nm 19:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Caso de impureza\\par }Aquele que tocar um cadáver, qualquer que seja o morto, ficará impuro sete dias.",
+      "reference": "Nm 19:11"
+    },
+    "12": {
+      "text": "Purificar-se-á com esta água, no terceiro e no sétimo dias, e se tornará puro; contudo, se não se purificar no terceiro e no sétimo dia, não ficará puro.",
+      "reference": "Nm 19:12"
+    },
+    "13": {
+      "text": "Todo aquele que tocar um morto, o corpo de alguém que morreu, e não se purificar, contamina a Habitação de Iahweh; tal homem será eliminado de Israel, visto que as águas lustrais não foram aspergidas sobre ele, e está impuro, e a sua impureza ainda permanece nele. \\par",
+      "reference": "Nm 19:13"
+    },
+    "14": {
+      "text": "Esta é a lei a respeito de um homem que morre numa tenda. Quem quer que entre na tenda e quem quer que aí se encontre ficará impuro sete dias.",
+      "reference": "Nm 19:14"
+    },
+    "15": {
+      "text": "Está igualmente impuro todo recipiente aberto que não tenha sido fechado com uma tampa ou com uma atadura. \\par",
+      "reference": "Nm 19:15"
+    },
+    "16": {
+      "text": "Todo aquele que tocar, em campo aberto, um homem assassinado, um cadáver, uma ossada humana ou um túmulo, ficará impuro sete dias. \\par",
+      "reference": "Nm 19:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Ritual das águas lustrais\\par }Tomar-se-á, para o homem impuro, cinza da vítima queimada em sacrifício pelo pecado. Derramar-se-á água corrente sobre as cinzas em um vaso.",
+      "reference": "Nm 19:17"
+    },
+    "18": {
+      "text": "Em seguida um homem puro tomará hissopo e o mergulhará naquela água. Fará aspersão sobre a tenda, sobre todos os vasos e sobre todas as pessoas que ali estiverem, bem como sobre aquele que tocou a ossada, um homem assassinado, um cadáver, ou um túmulo.",
+      "reference": "Nm 19:18"
+    },
+    "19": {
+      "text": "O homem puro fará aspersão sobre o impuro, no terceiro e no sétimo dia, e no sétimo dia estará livre do seu pecado. O homem impuro lavará as suas vestes, banhar-se-á com água e à tarde estará puro.",
+      "reference": "Nm 19:19"
+    },
+    "20": {
+      "text": "Contudo, um homem impuro que deixar de se purificar desta maneira será eliminado da comunidade, porque contaminaria o santuário de Iahweh. As águas lustrais não foram aspergidas sobre ele; está, pois, impuro. \\par",
+      "reference": "Nm 19:20"
+    },
+    "21": {
+      "text": "Isto será para eles um estatuto perpétuo. Aquele que fizer a aspersão das águas lustrais lavará suas vestes e aquele que tocou essas águas ficará impuro até à tarde.",
+      "reference": "Nm 19:21"
+    },
+    "22": {
+      "text": "Tudo aquilo que o impuro tocar ficará impuro, e a pessoa que o tocar ficará impuro até à tarde”. \\par",
+      "reference": "Nm 19:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

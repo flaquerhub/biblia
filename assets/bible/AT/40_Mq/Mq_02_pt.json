@@ -1,0 +1,65 @@
+{
+  "book": 33,
+  "book_name": "Miqueias",
+  "book_abbr": "Mq",
+  "book_category": "Profético",
+  "book_english": "Micah",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra os usurários\\par }Ai daqueles que planejam iniqüidade \\par e que tramam o mal em seus leitos! \\par Ao amanhecer, eles o praticam, \\par porque está no poder de sua mão. \\par",
+      "reference": "Mq 2:1"
+    },
+    "2": {
+      "text": "Se cobiçam campos, eles os roubam, \\par se casas, eles as tomam; \\par eles oprimem o varão e sua casa, \\par o homem e sua herança. \\par",
+      "reference": "Mq 2:2"
+    },
+    "3": {
+      "text": "Por isso, assim disse Iahweh: \\par Eis que eu planejo \\par contra essa tribo uma desgraça, \\par da qual não podereis livrar os vossos pescoços, \\par e não podereis caminhar de cabeça erguida, \\par porque este será um tempo de desgraça! \\par",
+      "reference": "Mq 2:3"
+    },
+    "4": {
+      "text": "Naquele dia, entoarão sobre vós uma sátira, \\par cantarão uma lamentação e dirão: \\par “Fomos completamente devastados, \\par uma parte de meu povo será alienada, \\par ninguém lha devolve; \\par ao que nos pilha, são distribuídos os nossos campos”. \\par",
+      "reference": "Mq 2:4"
+    },
+    "5": {
+      "text": "Por isso não tereis \\par quem meça uma parte \\par na assembléia de Iahweh. \\par",
+      "reference": "Mq 2:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i O profeta da desgraça\\par }Não vaticineis, eles vaticinam, \\par eles não devem vaticinar assim! \\par O opróbrio não nos atingirá. \\par",
+      "reference": "Mq 2:6"
+    },
+    "7": {
+      "text": "Será maldita a casa de Jacó? \\par Perdeu Iahweh, por acaso, a paciência? \\par É este o seu modo de agir? \\par Não são boas as suas palavras \\par para o seu povo Israel? \\par",
+      "reference": "Mq 2:7"
+    },
+    "8": {
+      "text": "Sois vós que vos levantais como inimigos \\par contra o meu povo. \\par A quem não tem falta arrancais o seu manto; \\par a quem se crê em segurança infligis os desastres da guerra. \\par",
+      "reference": "Mq 2:8"
+    },
+    "9": {
+      "text": "As mulheres do meu povo vós expulsais \\par da casa de seus prazeres; \\par de seus filhos tirais, \\par para sempre, a minha glória. \\par",
+      "reference": "Mq 2:9"
+    },
+    "10": {
+      "text": "“Levantai-vos e ide! \\par Pois este não é o lugar de repouso!” \\par Por um nada costumais penhorar, \\par é uma penhora destruidora. \\par",
+      "reference": "Mq 2:10"
+    },
+    "11": {
+      "text": "Se há um homem que corre atrás do vento \\par e inventa mentira: \\par “Eu te vaticino vinho e bebida embriagadora!”, \\par ele seria o vaticinador desse povo. \\par",
+      "reference": "Mq 2:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Promessas de restauração\\par }Reunir-te-ei todo inteiro, Jacó, \\par congregarei o resto de Israel! \\par Agrupá-los-ei como ovelhas no aprisco, \\par como um rebanho no meio da várzea, \\par e haverá ruído longe dos homens. \\par",
+      "reference": "Mq 2:12"
+    },
+    "13": {
+      "text": "Subiu diante deles aquele que abre a brecha; \\par eles abriram a brecha, passaram pela porta e saíram por ela; \\par seu rei passou diante deles \\par e Iahweh estava na frente deles. \\par",
+      "reference": "Mq 2:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

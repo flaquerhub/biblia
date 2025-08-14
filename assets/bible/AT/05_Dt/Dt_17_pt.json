@@ -1,0 +1,93 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "Nunca sacrificarás para Iahweh teu Deus um boi ou uma ovelha com defeito ou qualquer coisa grave: seria uma abominação para Iahweh teu Deus. \\par",
+      "reference": "Dt 17:1"
+    },
+    "2": {
+      "text": "Se em teu meio, numa das cidades que Iahweh teu Deus te dará, houver algum homem ou mulher que faça o que é mau aos olhos de Iahweh teu Deus, transgredindo sua Aliança",
+      "reference": "Dt 17:2"
+    },
+    "3": {
+      "text": "para servir a outros deuses e prostrar-se diante deles – diante do sol, da lua ou todo o exército do céu –, o que eu não ordenei;",
+      "reference": "Dt 17:3"
+    },
+    "4": {
+      "text": "se isto for denunciado a ti, ou se tu o ouvires, primeiro farás uma acurada investigação. Se for verdade, se for constatado que uma tal abominação foi cometida em Israel,",
+      "reference": "Dt 17:4"
+    },
+    "5": {
+      "text": "então farás sair para as portas da cidade o homem ou a mulher que cometeu esta má ação, e apedrejarás o homem ou a mulher até que morra.",
+      "reference": "Dt 17:5"
+    },
+    "6": {
+      "text": "Somente pela deposição de duas ou três testemunhas poder-se-á condenar alguém à morte; ninguém será morto pela deposição de uma só testemunha.",
+      "reference": "Dt 17:6"
+    },
+    "7": {
+      "text": "A mão das testemunhas será a primeira a fazê-lo morrer, e depois a mão de todo o povo. Deste modo extirparás o mal do teu meio. \\par",
+      "reference": "Dt 17:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Os juízes levitas\\par }Quando tiveres que julgar uma causa que te pareça demasiado difícil – causas duvidosas de homicídio, de pleito, de lesões mortais, ou causas controvertidas em tua cidade – levantar-te-ás e subirás ao lugar que Iahweh teu Deus houver escolhido.",
+      "reference": "Dt 17:8"
+    },
+    "9": {
+      "text": "Irás então até aos sacerdotes levitas e ao juiz que estiver em função naqueles dias. Eles investigarão e te anunciarão a sentença.",
+      "reference": "Dt 17:9"
+    },
+    "10": {
+      "text": "Agirás em conformidade com a palavra que eles te anunciarem deste lugar que Iahweh houver escolhido. Cuidarás de agir conforme todas as suas instruções.",
+      "reference": "Dt 17:10"
+    },
+    "11": {
+      "text": "Agirás segundo a instrução que te derem, e de acordo com a sentença que te anunciarem, sem te desviares para a direita ou para a esquerda da palavra que eles te houverem anunciado.",
+      "reference": "Dt 17:11"
+    },
+    "12": {
+      "text": "O homem que agir com presunção, não obedecendo ao sacerdote, que está ali para servir a Iahweh teu Deus, nem ao juiz, tal homem deverá ser morto. Deste modo extirparás o mal de Israel,",
+      "reference": "Dt 17:12"
+    },
+    "13": {
+      "text": "e, ouvindo, todo o povo temerá e nunca mais agirá com presunção. \\par",
+      "reference": "Dt 17:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Os reis\\par }Quando tiveres entrado na terra que Iahweh teu Deus te dará, tomado posse dela e nela habitares, e disseres: ‘Quero estabelecer sobre mim um rei, como todas as nações que me rodeiam’,",
+      "reference": "Dt 17:14"
+    },
+    "15": {
+      "text": "deverás estabelecer sobre ti um rei que tenha sido escolhido por Iahweh teu Deus; é um dos teus irmãos que estabelecerás como rei sobre ti. Não poderás nomear um estrangeiro que não seja teu irmão. \\par",
+      "reference": "Dt 17:15"
+    },
+    "16": {
+      "text": "Ele, porém, não multiplicará cavalos para si, nem fará com que o povo volte ao Egito para aumentar a sua cavalaria, pois Iahweh vos disse: ‘Nunca mais voltareis por este caminho!’",
+      "reference": "Dt 17:16"
+    },
+    "17": {
+      "text": "Que ele não multiplique o número de suas mulheres, para que o seu coração não se desvie. E que não multiplique excessivamente sua prata e seu ouro.",
+      "reference": "Dt 17:17"
+    },
+    "18": {
+      "text": "Quando subir ao trono real, ele deverá escrever num livro, para seu uso, uma cópia desta Lei, ditada pelos sacerdotes levitas.",
+      "reference": "Dt 17:18"
+    },
+    "19": {
+      "text": "Ela ficará com ele e ele a lerá todos os dias da sua vida, para que aprenda a temer a Iahweh seu Deus, observando todas as palavras desta Lei e colocando estes estatutos em prática.",
+      "reference": "Dt 17:19"
+    },
+    "20": {
+      "text": "Deste modo ele não se levantará orgulhosamente sobre seus irmãos, nem se desviará deste mandamento para a direita ou para a esquerda, de modo a prolongar os dias do seu reinado, ele e seus filhos, no meio de Israel. \\par",
+      "reference": "Dt 17:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

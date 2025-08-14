@@ -1,0 +1,89 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 63,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O julgamento dos povos\\par }Quem é este que vem de Edom, \\par de Bosra com vestes fulgurantes, \\par que vem majestoso no seu traje, \\par marchando na plenitude do seu vigor? \\par “Sou eu, que promovo a justiça, \\par que sou poderoso para salvar”. \\par",
+      "reference": "Is 63:1"
+    },
+    "2": {
+      "text": "– E por que essa cor vermelha do teu traje? \\par Por que as tuas vestes se parecem com as de alguém que tenha pisado a uva no lagar? \\par",
+      "reference": "Is 63:2"
+    },
+    "3": {
+      "text": "– Sozinho pisei a dorna; \\par do meu povo ninguém estava comigo. \\par Pisei as uvas na minha ira, \\par na minha cólera as esmaguei. \\par O seu sangue salpicou as minhas vestes; \\par com isto sujei toda a minha roupa. \\par",
+      "reference": "Is 63:3"
+    },
+    "4": {
+      "text": "Com efeito, decidi-me por um dia de vingança: \\par chegou o ano da minha retribuição. \\par",
+      "reference": "Is 63:4"
+    },
+    "5": {
+      "text": "Olhei, mas não havia ninguém para me ajudar! \\par Eu estava consternado, mas não havia quem me sustentasse! \\par Contudo, o meu braço veio em meu socorro \\par e a minha cólera me sustentou. \\par",
+      "reference": "Is 63:5"
+    },
+    "6": {
+      "text": "Na minha ira calquei aos pés os povos, \\par na minha cólera os despedacei \\par e derramei por terra o seu sangue. \\par",
+      "reference": "Is 63:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Meditação sobre a história de Israel\\par }Hei de celebrar as graças de Iahweh, \\par os louvores de Iahweh, \\par por tudo o que Iahweh fez por nós, \\par por sua grande bondade para com a casa de Israel, \\par pelo que fez na sua compaixão, \\par segundo a grandeza do Senhor. \\par",
+      "reference": "Is 63:7"
+    },
+    "8": {
+      "text": "Com efeito, ele disse: Sem dúvida, eles são o meu povo, \\par filhos que não hão de me trair; \\par assim ele se fez o seu salvador. \\par",
+      "reference": "Is 63:8"
+    },
+    "9": {
+      "text": "Em todas as suas agruras, \\par não foi um mensageiro ou um anjo, \\par mas a sua própria face que os salvou. \\par No seu amor e na sua misericórdia, ele mesmo os resgatou: \\par ergueu-os e carregou-os, \\par durante todo o tempo passado. \\par",
+      "reference": "Is 63:9"
+    },
+    "10": {
+      "text": "Mas eles se rebelaram \\par e magoaram o seu Espírito santo. \\par Foi então que ele se transformou em seu inimigo \\par e guerreou contra eles. \\par",
+      "reference": "Is 63:10"
+    },
+    "11": {
+      "text": "Mas depois lembrou-se dos tempos antigos, \\par de Moisés, seu servo. \\par Onde está aquele que os fez subir do mar, \\par o pastor do seu rebanho? \\par Onde está aquele que pôs o seu Espírito santo \\par no seio do povo? \\par",
+      "reference": "Is 63:11"
+    },
+    "12": {
+      "text": "Aquele que acompanhou a destra de Moisés \\par com o seu braço glorioso, \\par que fendeu as águas diante deles, \\par assegurando para si mesmo um renome eterno; \\par",
+      "reference": "Is 63:12"
+    },
+    "13": {
+      "text": "que os fez trilhar pelos abismos \\par como o cavalo trilha o deserto \\par sem tropeçar; \\par",
+      "reference": "Is 63:13"
+    },
+    "14": {
+      "text": "como o gado que desce para um vale, \\par assim o Espírito de Iahweh os conduziu para o repouso. \\par Assim conduziste o teu povo, \\par fazendo para ti um nome glorioso. \\par",
+      "reference": "Is 63:14"
+    },
+    "15": {
+      "text": "Olha desde o céu e vê, \\par desde a tua morada santa e gloriosa. \\par Onde estão o teu zelo e o teu valor? \\par O frêmito das tuas entranhas \\par e a tua compaixão para comigo se recolheram? \\par",
+      "reference": "Is 63:15"
+    },
+    "16": {
+      "text": "Com efeito, tu és o nosso pai. \\par Ainda que Abraão não nos conhecesse \\par e Israel não tomasse conhecimento de nós, \\par tu, Iahweh, és nosso pai, \\par nosso redentor: tal é o teu nome desde a antiguidade. \\par",
+      "reference": "Is 63:16"
+    },
+    "17": {
+      "text": "Por que fazes com que nos desviemos dos teus caminhos? \\par Por que endureces os nossos corações para que não te temamos? \\par Volta, por amor dos teus servos \\par e das tribos da tua herança. \\par",
+      "reference": "Is 63:17"
+    },
+    "18": {
+      "text": "Por pouco tempo o teu povo santo possuiu a sua herança; \\par então os nossos inimigos pisaram o teu santuário. \\par",
+      "reference": "Is 63:18"
+    },
+    "19": {
+      "text": "Há muito que somos um povo sobre o qual não exerces o teu domínio, \\par sobre o qual não se invoca o teu nome. \\par Oxalá que fendesses o céu e descesses, \\par – diante da tua face os montes se abalariam; \\par",
+      "reference": "Is 63:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

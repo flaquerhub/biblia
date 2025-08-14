@@ -1,0 +1,121 @@
+{
+  "book": 30,
+  "book_name": "Amós",
+  "book_abbr": "Am",
+  "book_category": "Profético",
+  "book_english": "Amos",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Lamentação sobre Israel\\par }Ouvi esta palavra, que eu profiro sobre vós, \\par como lamentação, casa de Israel. \\par",
+      "reference": "Am 5:1"
+    },
+    "2": {
+      "text": "Caiu e não se levantará mais, \\par a virgem de Israel: \\par ela foi atirada ao chão, \\par não há quem a levante! \\par",
+      "reference": "Am 5:2"
+    },
+    "3": {
+      "text": "Porque assim falou o Senhor Iahweh: \\par A cidade que sai com mil \\par ficará com cem, \\par e a que sai com cem \\par ficará com dez, para a casa de Israel. \\par",
+      "reference": "Am 5:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Sem conversão não há salvação\\par }Porque assim falou Iahweh à casa de Israel: \\par Procurai-me e vivereis! \\par",
+      "reference": "Am 5:4"
+    },
+    "5": {
+      "text": "Mas não procureis Betel, \\par não entreis em Guilgal \\par e não passeis por Bersabéia; \\par pois Guilgal será deportada \\par e Betel se tornará uma iniqüidade! \\par",
+      "reference": "Am 5:5"
+    },
+    "6": {
+      "text": "Procurai a Iahweh e vivereis! \\par Para que ele não penetre como fogo na casa de José \\par e a devore, sem que haja alguém em Betel para apagá-lo! \\par",
+      "reference": "Am 5:6"
+    },
+    "7": {
+      "text": "Eles que transformam o direito em veneno \\par e lançam por terra a justiça. \\par",
+      "reference": "Am 5:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Doxologia\\par }Ele que faz as Plêiades e o Órion, \\par que transforma as trevas em manhã, \\par que escurece o dia em noite, \\par que convoca as águas do mar \\par e as despeja sobre a face da terra, \\par Iahweh é o seu nome! \\par",
+      "reference": "Am 5:8"
+    },
+    "9": {
+      "text": "Ele faz cair devastação sobre aquele que é forte, \\par e a devastação virá sobre a cidadela. \\par",
+      "reference": "Am 5:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Ameaças\\par }Eles odeiam aquele que repreende à Porta \\par e detestam aquele que fala com sinceridade. \\par",
+      "reference": "Am 5:10"
+    },
+    "11": {
+      "text": "Por isso: porque oprimis o fraco \\par e tomais dele um imposto de trigo, \\par construístes casas de cantaria, \\par mas não as habitareis; \\par plantastes vinhas esplêndidas, \\par mas não bebereis o seu vinho. \\par",
+      "reference": "Am 5:11"
+    },
+    "12": {
+      "text": "Pois eu conheço vossos inúmeros delitos \\par e vossos enormes pecados! \\par Eles hostilizam o justo, aceitam suborno, \\par e repelem os indigentes à porta. \\par",
+      "reference": "Am 5:12"
+    },
+    "13": {
+      "text": "Por isso o sábio se cala neste tempo, \\par porque é um tempo de desgraça. \\par",
+      "reference": "Am 5:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b\\i Admoestações\\par }Procurai o bem e não o mal \\par para que possais viver, \\par e, deste modo, Iahweh, Deus dos Exércitos estará convosco, \\par como vós o dizeis! \\par",
+      "reference": "Am 5:14"
+    },
+    "15": {
+      "text": "Odiai o mal e amai o bem, \\par estabelecei o direito à porta; \\par talvez Iahweh, Deus dos Exércitos, tenha compaixão \\par do resto de José. \\par",
+      "reference": "Am 5:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Iminência do castigo\\par }Por isso, assim disse Iahweh, \\par Deus dos Exércitos, o Senhor: \\par Em todas as praças haverá lamentação \\par e em todas as ruas dirão: “Ai! Ai!” \\par Convocarão o camponês para o luto \\par e para a lamentação aqueles que sabem gemer; \\par",
+      "reference": "Am 5:16"
+    },
+    "17": {
+      "text": "e em todas as vinhas haverá lamentação, \\par porque passarei no meio de ti, \\par disse Iahweh. \\par",
+      "reference": "Am 5:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i O dia de Iahweh\\par }Ai daqueles que desejam o dia de Iahweh! \\par Para que vos servirá o dia de Iahweh? \\par Ele será trevas e não luz. \\par",
+      "reference": "Am 5:18"
+    },
+    "19": {
+      "text": "Como alguém que foge de um leão, \\par e um urso cai sobre ele! \\par Ou que entra em casa, coloca a mão na parede \\par e a serpente o morde! \\par",
+      "reference": "Am 5:19"
+    },
+    "20": {
+      "text": "Não é o dia de Iahweh trevas e não luz? \\par Sim, ele é escuridão, sem claridade! \\par",
+      "reference": "Am 5:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Contra o culto externo\\par }Eu odeio, eu desprezo as vossas festas \\par e não gosto de vossas reuniões. \\par",
+      "reference": "Am 5:21"
+    },
+    "22": {
+      "text": "Porque, se me ofereceis holocaustos..., \\par não me agradam as vossas oferendas \\par e não olho para o sacrifício de vossos animais cevados. \\par",
+      "reference": "Am 5:22"
+    },
+    "23": {
+      "text": "Afasta de mim o ruído de teus cantos, \\par eu não posso ouvir o som de tuas harpas! \\par",
+      "reference": "Am 5:23"
+    },
+    "24": {
+      "text": "Que o direito corra como a água \\par e a justiça como um rio caudaloso! \\par",
+      "reference": "Am 5:24"
+    },
+    "25": {
+      "text": "Por acaso oferecestes-me sacrifícios e oferendas no deserto, \\par durante quarenta anos, ó casa de Israel? \\par",
+      "reference": "Am 5:25"
+    },
+    "26": {
+      "text": "Carregareis Sacut, vosso rei, \\par e a estrela de vosso deus, Caivã, \\par imagens que fabricastes para vós. \\par",
+      "reference": "Am 5:26"
+    },
+    "27": {
+      "text": "Eu vos deportarei para além de Damasco, \\par disse Iahweh. – Deus dos Exércitos é o seu nome. \\par",
+      "reference": "Am 5:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

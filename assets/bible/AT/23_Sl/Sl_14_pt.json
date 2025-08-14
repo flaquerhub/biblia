@@ -1,0 +1,41 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 14 (13)\\par }{\\qc\\b\\i O homem sem Deus\\par }{\\qc\\i Do mestre de canto. De Davi.\\par } Diz o insensato no seu coração: \\par “Deus não existe!” \\par Suas ações são corrompidas e abomináveis: \\par não há um que faça o bem. \\par",
+      "reference": "Sl 14:1"
+    },
+    "2": {
+      "text": "Do céu Iahweh se inclina \\par sobre os filhos de Adão, \\par para ver se há um sensato, \\par alguém que busque a Deus. \\par",
+      "reference": "Sl 14:2"
+    },
+    "3": {
+      "text": "Estão todos desviados \\par e obstinados também: \\par não há um que faça o bem, \\par não há um, sequer. \\par",
+      "reference": "Sl 14:3"
+    },
+    "4": {
+      "text": "Não sabem todos os malfeitores \\par que devoram meu povo, \\par como se comessem pão, \\par e não invocam a Iahweh? \\par",
+      "reference": "Sl 14:4"
+    },
+    "5": {
+      "text": "Eles tremerão de medo lá, \\par sem haver razão de medo, \\par pois Deus está com os justos: \\par",
+      "reference": "Sl 14:5"
+    },
+    "6": {
+      "text": "vós confundis o plano do pobre, \\par mas Iahweh é o seu abrigo. \\par",
+      "reference": "Sl 14:6"
+    },
+    "7": {
+      "text": "Quem trará de Sião a salvação para Israel? \\par Quando Iahweh mudar a sorte do seu povo, \\par Jacó exultará e Israel se alegrará. \\par",
+      "reference": "Sl 14:7"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 7
+}

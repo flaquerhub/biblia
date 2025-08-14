@@ -1,0 +1,25 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 133,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 133 (132)\\par }{\\qc\\b\\i A vida fraterna\\par }{\\qc\\i Cântico das subidas. De Davi.\\par } Vede: como é bom, como é agradável \\par habitar todos juntos, com irmãos. \\par",
+      "reference": "Sl 133:1"
+    },
+    "2": {
+      "text": "É como óleo fino sobre a cabeça, \\par descendo pela barba, \\par a barba de Aarão, descendo \\par sobre a gola de suas vestes. \\par",
+      "reference": "Sl 133:2"
+    },
+    "3": {
+      "text": "É como o orvalho do Hermon, descendo \\par sobre os montes de Sião; \\par porque aí manda Iahweh a bênção, \\par a vida para sempre. \\par",
+      "reference": "Sl 133:3"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 3
+}

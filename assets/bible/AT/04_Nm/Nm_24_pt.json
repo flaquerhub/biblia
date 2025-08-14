@@ -1,0 +1,113 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "Balaão percebeu então que Iahweh se comprazia em abençoar Israel. Não foi, como as outras vezes, em busca de presságios, mas voltou a face para o deserto.",
+      "reference": "Nm 24:1"
+    },
+    "2": {
+      "text": "Levantando os olhos, Balaão viu Israel acampado segundo suas tribos; o espírito de Deus veio sobre ele",
+      "reference": "Nm 24:2"
+    },
+    "3": {
+      "text": "e ele pronunciou seu poema. Disse: \\par “Oráculo de Balaão, filho de Beor, \\par oráculo do homem de olhar penetrante, \\par",
+      "reference": "Nm 24:3"
+    },
+    "4": {
+      "text": "oráculo daquele que ouve as palavras de Deus. \\par Ele vê aquilo que Shaddai faz ver, \\par obtém a resposta divina \\par e os seus olhos se abrem. \\par",
+      "reference": "Nm 24:4"
+    },
+    "5": {
+      "text": "Como são formosas as tuas tendas, ó Jacó! \\par E as tuas moradas, ó Israel! \\par",
+      "reference": "Nm 24:5"
+    },
+    "6": {
+      "text": "Como vales que se estendem, \\par como jardins ao lado de um rio, \\par como aloés que Iahweh plantou, \\par como cedros junto às águas! \\par",
+      "reference": "Nm 24:6"
+    },
+    "7": {
+      "text": "Um herói surge na sua descendência, \\par e domina sobre muitos povos. \\par Seu rei é maior que Agag, \\par seu reinado se exalta. \\par",
+      "reference": "Nm 24:7"
+    },
+    "8": {
+      "text": "Deus o tirou do Egito, \\par e é para ele como os chifres do búfalo. \\par Devora o cadáver dos seus adversários \\par e quebra os seus ossos. \\par",
+      "reference": "Nm 24:8"
+    },
+    "9": {
+      "text": "Agacha-se e deita-se, \\par como um leão, como uma leoa: \\par quem o fará levantar-se? \\par Bendito seja aquele que te abençoar, \\par e maldito aquele que te amaldiçoar!” \\par",
+      "reference": "Nm 24:9"
+    },
+    "10": {
+      "text": "Balac se encolerizou contra Balaão. Bateu palmas e disse a Balaão: “Chamei-te para amaldiçoares os meus inimigos e eis que tu os abençoas e já por três vezes!",
+      "reference": "Nm 24:10"
+    },
+    "11": {
+      "text": "E agora foge e vai para o teu lugar. Disse que te cobriria de honras. Contudo, Iahweh te privou delas”. \\par",
+      "reference": "Nm 24:11"
+    },
+    "12": {
+      "text": "Balaão respondeu a Balac: “Não disse eu aos teus mensageiros:",
+      "reference": "Nm 24:12"
+    },
+    "13": {
+      "text": "‘Ainda que Balac me desse a sua casa cheia de prata e de ouro, eu não poderia transgredir a ordem de Iahweh e fazer por mim mesmo bem ou mal; aquilo que Iahweh disser, isso eu direi’?",
+      "reference": "Nm 24:13"
+    },
+    "14": {
+      "text": "Agora que eu parto para os meus, vem e eu te comunicarei o que este povo fará a teu povo , no futuro”.",
+      "reference": "Nm 24:14"
+    },
+    "15": {
+      "text": "Então pronunciou o seu poema. Disse: \\par “Oráculo de Balaão, filho de Beor, \\par oráculo do homem de visão penetrante, \\par",
+      "reference": "Nm 24:15"
+    },
+    "16": {
+      "text": "oráculo daquele que ouve as palavras de Deus, \\par daquele que conhece a ciência do Altíssimo. \\par Ele vê aquilo que Shaddai faz ver, \\par alcança a resposta divina \\par e os seus olhos se abrem. \\par",
+      "reference": "Nm 24:16"
+    },
+    "17": {
+      "text": "Eu o vejo – mas não agora, \\par eu o contemplo – mas não de perto: \\par Um astro procedente de Jacó se torna chefe, \\par um cetro se levanta, procedente de Israel. \\par E esmaga as têmporas de Moab \\par e o crânio de todos os filhos de Set. \\par",
+      "reference": "Nm 24:17"
+    },
+    "18": {
+      "text": "Edom se torna uma possessão; \\par e possessão, também, Seir. \\par Israel manifesta o seu poder, \\par",
+      "reference": "Nm 24:18"
+    },
+    "19": {
+      "text": "Jacó domina sobre seus inimigos \\par e faz perecer os restantes de Ar”. \\par",
+      "reference": "Nm 24:19"
+    },
+    "20": {
+      "text": "Balaão viu Amalec e pronunciou o seu poema. Disse: \\par “Amalec: primícias das nações! \\par Contudo a sua posteridade \\par perecerá para sempre”. \\par",
+      "reference": "Nm 24:20"
+    },
+    "21": {
+      "text": "Depois viu os quenitas e pronunciou o seu poema. Disse: \\par “A tua morada está segura, Caim, \\par o teu ninho firme sobre o rochedo. \\par",
+      "reference": "Nm 24:21"
+    },
+    "22": {
+      "text": "Contudo, o ninho pertence a Beor; \\par até quando serás cativo de Assur?” \\par",
+      "reference": "Nm 24:22"
+    },
+    "23": {
+      "text": "Em seguida pronunciou o seu poema. Disse: \\par “Os povos do Mar se reúnem ao norte, \\par",
+      "reference": "Nm 24:23"
+    },
+    "24": {
+      "text": "navios do lado de Cetim. \\par Oprimem Assur e oprimem Héber, \\par e ele mesmo perecerá para sempre”. \\par",
+      "reference": "Nm 24:24"
+    },
+    "25": {
+      "text": "Depois Balaão se levantou, partiu e voltou para os seus. Balac também seguiu o seu caminho. \\par",
+      "reference": "Nm 24:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

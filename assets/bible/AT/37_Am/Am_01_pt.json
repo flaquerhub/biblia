@@ -1,0 +1,73 @@
+{
+  "book": 30,
+  "book_name": "Amós",
+  "book_abbr": "Am",
+  "book_category": "Profético",
+  "book_english": "Amos",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Título\\par }Palavra de Amós, um dos pastores de Técua. O que ele viu contra Israel, nos dias de Ozias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto. \\par",
+      "reference": "Am 1:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Exórdio\\par }Ele disse: \\par Iahweh rugirá de Sião, \\par de Jerusalém levantará a sua voz, \\par e murcharão as pastagens dos pastores \\par e secará o cimo do Carmelo. \\par",
+      "reference": "Am 1:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b {\\i I. Julgamento das nações vizinhas de Israel e do próprio Israel}\\par }{\\qc\\b\\i Damasco\\par }Assim falou Iahweh: \\par Pelos três crimes de Damasco, \\par pelos quatro, não o revogarei! \\par Porque esmagaram Galaad com debulhadoras de ferro, \\par",
+      "reference": "Am 1:3"
+    },
+    "4": {
+      "text": "eu enviarei fogo à casa de Hazael \\par e devorará os palácios de Ben-Adad; \\par",
+      "reference": "Am 1:4"
+    },
+    "5": {
+      "text": "eu quebrarei o ferrolho de Damasco, \\par exterminarei o habitante de Biceat-Áven, \\par e de Bet-Éden, aquele que segura o cetro, \\par o povo de Aram será deportado para Quir, \\par disse Iahweh. \\par",
+      "reference": "Am 1:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Gaza e a Filistéia\\par }Assim falou Iahweh: \\par Pelos três crimes de Gaza, \\par pelos quatro, não o revogarei! \\par Porque deportaram populações inteiras, \\par para entregá-las a Edom, \\par",
+      "reference": "Am 1:6"
+    },
+    "7": {
+      "text": "enviarei fogo contra as muralhas de Gaza, \\par e ele devorará os seus palácios; \\par",
+      "reference": "Am 1:7"
+    },
+    "8": {
+      "text": "exterminarei o habitante de Azoto, \\par e de Ascalon, aquele que segura o cetro. \\par Voltarei a minha mão contra Acaron \\par e perecerá o resto dos filisteus, \\par disse o Senhor Iahweh. \\par",
+      "reference": "Am 1:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Tiro e a Fenícia\\par }Assim falou Iahweh: \\par Pelos três crimes de Tiro, \\par pelos quatro, não o revogarei! \\par Porque entregaram populações inteiras de cativos a Edom \\par e não se lembraram da aliança de irmãos, \\par",
+      "reference": "Am 1:9"
+    },
+    "10": {
+      "text": "enviarei fogo contra as muralhas de Tiro, \\par e ele devorará os seus palácios. \\par",
+      "reference": "Am 1:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Edom\\par }Assim falou Iahweh: \\par Pelos três crimes de Edom, \\par pelos quatro, não o revogarei! \\par Porque perseguiu à espada o seu irmão \\par e sufocou a sua misericórdia, \\par guardou para sempre a sua ira \\par e conservou seu furor eternamente, \\par",
+      "reference": "Am 1:11"
+    },
+    "12": {
+      "text": "enviarei fogo contra Temã, \\par e ele devorará os palácios de Bosra. \\par",
+      "reference": "Am 1:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Amon\\par }Assim falou Iahweh: \\par Pelos três crimes dos filhos de Amon, \\par pelos quatro, não o revogarei! \\par Porque abriram as entranhas das mulheres grávidas de Galaad, \\par para alargar o seu território, \\par",
+      "reference": "Am 1:13"
+    },
+    "14": {
+      "text": "atearei fogo nas muralhas de Rabá, \\par e ele devorará os seus palácios, \\par com grito, no dia da batalha, \\par com tempestade no dia da borrasca; \\par",
+      "reference": "Am 1:14"
+    },
+    "15": {
+      "text": "o seu rei irá para o exílio, \\par ele juntamente com os seus príncipes, \\par disse Iahweh. \\par",
+      "reference": "Am 1:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

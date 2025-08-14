@@ -1,0 +1,81 @@
+{
+  "book": 22,
+  "book_name": "Cântico dos Cânticos",
+  "book_abbr": "Ct",
+  "book_category": "Poético",
+  "book_english": "Song of Songs",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "– Sou um narciso de Saron, \\par uma açucena dos vales. \\par",
+      "reference": "Ct 2:1"
+    },
+    "2": {
+      "text": "– Como açucena entre espinhos \\par é minha amada entre as donzelas. \\par",
+      "reference": "Ct 2:2"
+    },
+    "3": {
+      "text": "– Macieira entre as árvores do bosque, \\par é meu amado entre os jovens; \\par à sua sombra eu quis assentar-me, \\par com seu doce fruto na boca. \\par",
+      "reference": "Ct 2:3"
+    },
+    "4": {
+      "text": "Levou-me ele à adega \\par e contra mim desfralda \\par sua bandeira de amor. \\par",
+      "reference": "Ct 2:4"
+    },
+    "5": {
+      "text": "Sustentai-me com bolos de passas, \\par dai-me forças com maçãs, oh! \\par Que estou doente de amor... \\par",
+      "reference": "Ct 2:5"
+    },
+    "6": {
+      "text": "Sua mão esquerda \\par está sob minha cabeça, \\par e com a direita me abraça. \\par",
+      "reference": "Ct 2:6"
+    },
+    "7": {
+      "text": "– Filhas de Jerusalém, \\par pelas cervas e gazelas do campo, \\par eu vos conjuro: \\par não desperteis, não acordeis o amor, \\par até que ele o queira! \\par",
+      "reference": "Ct 2:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b {\\i Segundo poema}\\par }{\\qc\\b\\i A amada\\par }A voz do meu amado! \\par Vejam: vem correndo pelos montes, \\par saltitando nas colinas! \\par",
+      "reference": "Ct 2:8"
+    },
+    "9": {
+      "text": "Como um gamo é meu amado... \\par um filhote de gazela. \\par Ei-lo postando-se \\par atrás da nossa parede, \\par espiando pelas grades, \\par espreitando da janela. \\par",
+      "reference": "Ct 2:9"
+    },
+    "10": {
+      "text": "Fala o meu amado, e me diz: \\par “Levanta-te, minha amada, \\par formosa minha, vem a mim! \\par",
+      "reference": "Ct 2:10"
+    },
+    "11": {
+      "text": "Vê o inverno: já passou! \\par Olha a chuva: já se foi! \\par",
+      "reference": "Ct 2:11"
+    },
+    "12": {
+      "text": "As flores florescem na terra, \\par o tempo da poda vem vindo, \\par e o canto da rola \\par está-se ouvindo em nosso campo. \\par",
+      "reference": "Ct 2:12"
+    },
+    "13": {
+      "text": "Despontam figos na figueira \\par e a vinha florida exala perfume. \\par Levanta, minha amada, \\par formosa minha, vem a mim! \\par",
+      "reference": "Ct 2:13"
+    },
+    "14": {
+      "text": "Pomba minha, \\par que se aninha nos vãos do rochedo, \\par pela fenda dos barrancos...\\par Deixa-me ver tua face, \\par deixa-me ouvi tua voz, \\par pois tua face é tão formosa \\par e tão doce a tua voz!” \\par",
+      "reference": "Ct 2:14"
+    },
+    "15": {
+      "text": "Agarrai-nos as raposas, \\par as raposas pequeninas \\par que devastam nossas vinhas, \\par nossas vinhas já floridas!... \\par",
+      "reference": "Ct 2:15"
+    },
+    "16": {
+      "text": "Meu amado é meu e eu sou dele, \\par do pastor das açucenas! \\par",
+      "reference": "Ct 2:16"
+    },
+    "17": {
+      "text": "Antes que a brisa sopre \\par e as sombras se debandem, \\par volta! Sê como um gamo, amado meu, \\par um filhote de gazela \\par pelas montanhas de Beter. \\par",
+      "reference": "Ct 2:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

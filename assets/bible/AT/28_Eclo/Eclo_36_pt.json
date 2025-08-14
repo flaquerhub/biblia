@@ -1,0 +1,121 @@
+{
+  "book": 70,
+  "book_name": "Eclesiástico",
+  "book_abbr": "Eclo",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Sirach",
+  "testament": "AT",
+  "chapter": 36,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Oração para a libertação e restauração de Israel\\par }Tem piedade de nós, Senhor, Deus do universo, e olha, \\par derrama o teu temor sobre todas as nações. \\par",
+      "reference": "Eclo 36:1"
+    },
+    "2": {
+      "text": "Levanta a tua mão contra as nações estrangeiras, \\par que elas vejam a tua potência. \\par",
+      "reference": "Eclo 36:2"
+    },
+    "3": {
+      "text": "Como, diante delas, te mostraste santo em nós, \\par assim, diante de nós, mostra nelas a tua grandeza. \\par",
+      "reference": "Eclo 36:3"
+    },
+    "4": {
+      "text": "Que elas te conheçam, como nós te conhecemos, \\par que não há outro Deus senão tu, Senhor. \\par",
+      "reference": "Eclo 36:4"
+    },
+    "5": {
+      "text": "Renova os prodígios, faze outras maravilhas, \\par glorifica a tua mão e o teu braço direito. \\par",
+      "reference": "Eclo 36:5"
+    },
+    "6": {
+      "text": "Desperta o teu furor e derrama a tua cólera, \\par destrói o adversário e aniquila o inimigo. \\par",
+      "reference": "Eclo 36:6"
+    },
+    "7": {
+      "text": "Apressa o tempo e lembra-te do juramento, \\par sejam celebrados os teus grandes feitos. \\par",
+      "reference": "Eclo 36:7"
+    },
+    "8": {
+      "text": "Que um fogo vingador devore os sobreviventes, \\par que os opressores de teu povo encontrem a ruína. \\par",
+      "reference": "Eclo 36:8"
+    },
+    "9": {
+      "text": "Esmaga a cabeça dos chefes dos inimigos, \\par que dizem: “Não há ninguém senão nós”. \\par",
+      "reference": "Eclo 36:9"
+    },
+    "10": {
+      "text": "Reúne todas as tribos de Jacó, \\par dá-lhes a herança como no princípio. \\par",
+      "reference": "Eclo 36:10"
+    },
+    "11": {
+      "text": "Tem piedade, Senhor, do povo que traz o teu nome, \\par de Israel, a quem fizeste teu primogênito. \\par",
+      "reference": "Eclo 36:11"
+    },
+    "12": {
+      "text": "Compadece-te da tua cidade santa, \\par Jerusalém, lugar de teu repouso. \\par",
+      "reference": "Eclo 36:12"
+    },
+    "13": {
+      "text": "Enche Sião de teu louvor \\par e o teu santuário com a tua glória. \\par",
+      "reference": "Eclo 36:13"
+    },
+    "14": {
+      "text": "Dá testemunho à primeira de tuas criaturas, \\par realiza as profecias feitas em teu nome. \\par",
+      "reference": "Eclo 36:14"
+    },
+    "15": {
+      "text": "Dá a recompensa aos que esperam em ti, \\par que sejam acreditados os teus profetas. \\par",
+      "reference": "Eclo 36:15"
+    },
+    "16": {
+      "text": "Ouve, Senhor, a oração dos teus servos, \\par segundo a bênção de Aarão sobre teu povo. \\par",
+      "reference": "Eclo 36:16"
+    },
+    "17": {
+      "text": "E que todos, sobre a terra, conheçam \\par que tu és o Senhor, o Deus eterno. \\par",
+      "reference": "Eclo 36:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Discernimento\\par }O estômago recebe todo tipo de alimento, \\par mas um alimento é melhor do que outro. \\par",
+      "reference": "Eclo 36:18"
+    },
+    "19": {
+      "text": "O paladar distingue o gosto da caça, \\par como o coração sensato discerne as palavras mentirosas. \\par",
+      "reference": "Eclo 36:19"
+    },
+    "20": {
+      "text": "O coração perverso causa tristeza, \\par o homem experiente o acalma. \\par",
+      "reference": "Eclo 36:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Escolha de uma mulher\\par }Uma mulher aceita todo tipo de marido \\par mas uma jovem é melhor do que outra. \\par",
+      "reference": "Eclo 36:21"
+    },
+    "22": {
+      "text": "A beleza de uma mulher alegra o olhar \\par e excede a todos os desejos do homem. \\par",
+      "reference": "Eclo 36:22"
+    },
+    "23": {
+      "text": "Se a bondade e a doçura estão nos seus lábios, \\par o seu marido é o mais feliz dos homens. \\par",
+      "reference": "Eclo 36:23"
+    },
+    "24": {
+      "text": "O que adquire uma mulher inicia a fortuna, \\par auxiliar semelhante a ele, coluna de apoio. \\par",
+      "reference": "Eclo 36:24"
+    },
+    "25": {
+      "text": "Faltando cerca, a propriedade é devastada; \\par faltando a mulher, o homem geme e vaga. \\par",
+      "reference": "Eclo 36:25"
+    },
+    "26": {
+      "text": "Quem confia num ágil ladrão \\par que salta de cidade em cidade? \\par",
+      "reference": "Eclo 36:26"
+    },
+    "27": {
+      "text": "Assim é o homem a quem falta ninho: \\par repousa onde a noite o surpreende. \\par",
+      "reference": "Eclo 36:27"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 27
+}

@@ -1,0 +1,129 @@
+{
+  "book": 62,
+  "book_name": "1João",
+  "book_abbr": "1Jo",
+  "book_category": "Epístolas Joaninas",
+  "book_english": "1 John",
+  "testament": "NT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Meus filhinhos, \\par isto vos escrevo para que não pequeis; \\par mas, se alguém pecar, \\par temos como advogado, junto do Pai, \\par Jesus Cristo, o Justo. \\par",
+      "reference": "1Jo 2:1"
+    },
+    "2": {
+      "text": "Ele é a vítima de expiação pelos nossos pecados. \\par E não somente pelos nossos, \\par mas também pelos de todo o mundo. \\par",
+      "reference": "1Jo 2:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Segunda condição: observar os mandamentos, principalmente o da caridade\\par }E sabemos que o conhecemos por isto: \\par se guardamos os seus mandamentos. \\par",
+      "reference": "1Jo 2:3"
+    },
+    "4": {
+      "text": "Aquele que diz: “Eu o conheço”, \\par mas não guarda os seus mandamentos, é mentiroso, \\par e a verdade não está nele. \\par",
+      "reference": "1Jo 2:4"
+    },
+    "5": {
+      "text": "Mas o que guarda a sua palavra, \\par nesse, verdadeiramente, o amor de Deus é perfeito. \\par Nisto reconhecemos que estamos nele. \\par",
+      "reference": "1Jo 2:5"
+    },
+    "6": {
+      "text": "Aquele que diz que permanece nele \\par deve também andar como ele andou. \\par",
+      "reference": "1Jo 2:6"
+    },
+    "7": {
+      "text": "Caríssimos, \\par não vos escrevo um mandamento novo, \\par mas um mandamento antigo, \\par que recebestes desde o início; \\par este mandamento antigo é a palavra que ouvistes.\\par",
+      "reference": "1Jo 2:7"
+    },
+    "8": {
+      "text": "E, no entanto, é um mandamento novo que vos escrevo \\par – o que é verdadeiro nele e em vós –, \\par pois que as trevas passam \\par e já brilha a luz verdadeira. \\par",
+      "reference": "1Jo 2:8"
+    },
+    "9": {
+      "text": "Aquele que diz que está na luz, \\par mas odeia o seu irmão, \\par está nas trevas até agora. \\par",
+      "reference": "1Jo 2:9"
+    },
+    "10": {
+      "text": "O que ama o seu irmão permanece na luz, \\par e nele não há ocasião de queda. \\par",
+      "reference": "1Jo 2:10"
+    },
+    "11": {
+      "text": "Mas o que odeia o seu irmão está nas trevas; \\par caminha nas trevas, \\par e não sabe aonde vai, \\par porque as trevas cegaram os seus olhos. \\par",
+      "reference": "1Jo 2:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Terceira condição: preservar-se do mundo\\par }Eu vos escrevo, filhinhos, \\par porque os vossos pecados foram perdoados \\par por meio do seu nome. \\par",
+      "reference": "1Jo 2:12"
+    },
+    "13": {
+      "text": "Eu vos escrevo, pais, \\par porque conheceis aquele \\par que é desde o princípio. \\par Eu vos escrevo, jovens, \\par porque vencestes o Maligno. \\par",
+      "reference": "1Jo 2:13"
+    },
+    "14": {
+      "text": "Eu vos escrevi, filhinhos, \\par porque conheceis o Pai. \\par Eu vos escrevi, pais, \\par porque conheceis aquele \\par que é desde o princípio. \\par Eu vos escrevi, jovens, \\par porque sois fortes, \\par porque a Palavra de Deus permanece em vós, \\par e porque vencestes o Maligno. \\par",
+      "reference": "1Jo 2:14"
+    },
+    "15": {
+      "text": "Não ameis o mundo \\par nem o que há no mundo. \\par Se alguém ama o mundo, \\par não está nele o amor do Pai. \\par",
+      "reference": "1Jo 2:15"
+    },
+    "16": {
+      "text": "Porque tudo o que há no mundo \\par – a concupiscência da carne, \\par a concupiscência dos olhos e \\par o orgulho da riqueza – \\par não vem do Pai, \\par mas do mundo. \\par",
+      "reference": "1Jo 2:16"
+    },
+    "17": {
+      "text": "Ora, o mundo passa \\par com suas concupiscências; \\par mas o que faz a vontade de Deus \\par permanece eternamente. \\par",
+      "reference": "1Jo 2:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Quarta condição: preservar-se dos anticristos\\par }Filhinhos, \\par é chegada a última hora. \\par Ouvistes dizer que o Anticristo deve vir; \\par e já vieram muitos anticristos: \\par daí reconhecemos que é chegada a última hora. \\par",
+      "reference": "1Jo 2:18"
+    },
+    "19": {
+      "text": "Eles saíram de entre nós, \\par mas não eram dos nossos. \\par Se tivessem sido dos nossos, \\par teriam permanecido conosco. \\par Mas era preciso que se manifestasse \\par que nem todos eram dos nossos. \\par",
+      "reference": "1Jo 2:19"
+    },
+    "20": {
+      "text": "Vós, porém, tendes recebido a unção \\par que vem do Santo, \\par e todos possuís a ciência. \\par",
+      "reference": "1Jo 2:20"
+    },
+    "21": {
+      "text": "Eu não vos escrevi \\par porque ignorais a verdade, \\par mas porque a conheceis \\par e porque toda mentira \\par não procede da verdade. \\par",
+      "reference": "1Jo 2:21"
+    },
+    "22": {
+      "text": "Quem é o mentiroso \\par senão o que nega que Jesus é o Cristo? \\par Eis o Anticristo, \\par o que nega o Pai e o Filho. \\par",
+      "reference": "1Jo 2:22"
+    },
+    "23": {
+      "text": "Todo aquele que nega o Filho \\par também não possui o Pai. \\par O que confessa o Filho \\par também possui o Pai. \\par",
+      "reference": "1Jo 2:23"
+    },
+    "24": {
+      "text": "Mas vós, \\par procurai que permaneça em vós \\par o que ouvistes desde o início. \\par Se em vós permanece \\par o que ouvistes desde o início, \\par vós também permanecereis no Filho e no Pai. \\par",
+      "reference": "1Jo 2:24"
+    },
+    "25": {
+      "text": "Esta é a promessa que ele mesmo vos fez: \\par a vida eterna. \\par",
+      "reference": "1Jo 2:25"
+    },
+    "26": {
+      "text": "Isto vos escrevi \\par sobre aqueles que procuram vos desencaminhar. \\par",
+      "reference": "1Jo 2:26"
+    },
+    "27": {
+      "text": "Quanto a vós, \\par a unção que recebestes dele \\par permanece em vós, \\par e não tendes necessidade \\par de que alguém vos ensine; \\par mas como sua unção vos ensina tudo, \\par e ela é verdadeira e não mentirosa, \\par assim como ela vos ensinou, \\par permanecei nele. \\par",
+      "reference": "1Jo 2:27"
+    },
+    "28": {
+      "text": "Agora, pois, filhinhos, permanecei nele, \\par para que, quando ele se manifestar, \\par tenhamos plena confiança \\par e não sejamos confundidos, \\par por estarmos longe dele, \\par na sua Vinda. \\par",
+      "reference": "1Jo 2:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b {\\i II. Viver como filhos de Deus}\\par }Se sabeis que ele é justo, \\par reconhecei que todo aquele \\par que pratica a justiça \\par nasceu dele. \\par",
+      "reference": "1Jo 2:29"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 29
+}

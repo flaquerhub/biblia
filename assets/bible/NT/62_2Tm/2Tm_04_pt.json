@@ -1,0 +1,101 @@
+{
+  "book": 55,
+  "book_name": "2Timóteo",
+  "book_abbr": "2Tm",
+  "book_category": "Epístolas Pastorais",
+  "book_english": "2 Timothy",
+  "testament": "NT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Solene admoestação\\par }Eu te conjuro, diante de Deus e de Cristo Jesus, que há de vir julgar os vivos e os mortos, pela sua Aparição e por seu Reino:",
+      "reference": "2Tm 4:1"
+    },
+    "2": {
+      "text": "proclama a palavra, insiste, no tempo oportuno e no inoportuno, refuta, ameaça, exorta com toda paciência e doutrina.",
+      "reference": "2Tm 4:2"
+    },
+    "3": {
+      "text": "Pois virá um tempo em que alguns não suportarão a sã doutrina; pelo contrário, segundo os seus próprios desejos, como que sentindo comichão nos ouvidos, se rodearão de mestres.",
+      "reference": "2Tm 4:3"
+    },
+    "4": {
+      "text": "Desviarão os seus ouvidos da verdade, orientando-os para as fábulas.",
+      "reference": "2Tm 4:4"
+    },
+    "5": {
+      "text": "Tu, porém, sê sóbrio em tudo, suporta o sofrimento, faze o trabalho de um evangelista, realiza plenamente o teu ministério. \\par",
+      "reference": "2Tm 4:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Paulo no ocaso de sua vida\\par }Quanto a mim, já fui oferecido em libação, e chegou o tempo de minha partida.",
+      "reference": "2Tm 4:6"
+    },
+    "7": {
+      "text": "Combati o bom combate, terminei a minha carreira, guardei a fé.",
+      "reference": "2Tm 4:7"
+    },
+    "8": {
+      "text": "Desde já me está reservada a coroa da justiça, que me dará o Senhor, justo Juiz, naquele Dia; e não somente a mim, mas a todos os que tiverem esperado com amor a sua Aparição. \\par",
+      "reference": "2Tm 4:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Últimas recomendações\\par }Procura vir me encontrar o mais depressa possível.",
+      "reference": "2Tm 4:9"
+    },
+    "10": {
+      "text": "Pois Demas me abandonou por amor do mundo presente. Ele partiu para Tessalônica, Crescente para a Galácia, Tito para a Dalmácia.",
+      "reference": "2Tm 4:10"
+    },
+    "11": {
+      "text": "Somente Lucas está comigo. Toma contigo a Marcos, e traze-o, pois me é útil no ministério.",
+      "reference": "2Tm 4:11"
+    },
+    "12": {
+      "text": "Eu enviei Tíquico a Éfeso.",
+      "reference": "2Tm 4:12"
+    },
+    "13": {
+      "text": "Traze-me, quando vier, o manto que eu deixei em Trôade, na casa de Carpo, e também os livros, especialmente os pergaminhos.",
+      "reference": "2Tm 4:13"
+    },
+    "14": {
+      "text": "Alexandre, o fundidor, deu provas de muita maldade para comigo. {\\i O Senhor} lhe {\\i retribuirá segundo as suas obras.}",
+      "reference": "2Tm 4:14"
+    },
+    "15": {
+      "text": "Tu, guarda-te também dele, porque se opôs fortemente às nossas palavras. \\par",
+      "reference": "2Tm 4:15"
+    },
+    "16": {
+      "text": "Na primeira vez em que apresentei a minha defesa ninguém me assistiu, todos me abandonaram. Que isto não lhes seja imputado.",
+      "reference": "2Tm 4:16"
+    },
+    "17": {
+      "text": "Mas o Senhor me assistiu e me revestiu de forças, a fim de que por mim a mensagem fosse plenamente proclamada e ouvida por todas as nações. E eu fui {\\i libertado da boca do leão.}",
+      "reference": "2Tm 4:17"
+    },
+    "18": {
+      "text": "O Senhor me libertará de toda obra maligna e me levará salvo para o seu Reino celeste. A ele a glória pelos séculos dos séculos! Amém! \\par",
+      "reference": "2Tm 4:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Saudações e voto final\\par }Saúda a Prisca e Áquila, e a família de Onesíforo.",
+      "reference": "2Tm 4:19"
+    },
+    "20": {
+      "text": "Erasto ficou em Corinto. Deixei Trófimo doente em Mileto. \\par",
+      "reference": "2Tm 4:20"
+    },
+    "21": {
+      "text": "Procura vir antes do inverno. \\par Enviam-te saudações: Êubulo, Prudente, Lino, Cláudia, e todos os irmãos. \\par",
+      "reference": "2Tm 4:21"
+    },
+    "22": {
+      "text": "O Senhor esteja com o teu espírito! A graça esteja com todos vós! \\par",
+      "reference": "2Tm 4:22"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 22
+}

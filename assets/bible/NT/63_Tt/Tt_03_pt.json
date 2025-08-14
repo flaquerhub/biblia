@@ -1,0 +1,73 @@
+{
+  "book": 56,
+  "book_name": "Tito",
+  "book_abbr": "Tt",
+  "book_category": "Epístolas Pastorais",
+  "book_english": "Titus",
+  "testament": "NT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Deveres gerais dos fiéis\\par }Lembra-lhes que devem ser submissos aos magistrados e às autoridades, que devem ser obedientes e estar sempre prontos para qualquer trabalho honesto,",
+      "reference": "Tt 3:1"
+    },
+    "2": {
+      "text": "que não devem difamar a ninguém, nem andar brigando, mas sejam cavalheiros e delicados para com todos.",
+      "reference": "Tt 3:2"
+    },
+    "3": {
+      "text": "Porque também nós antigamente éramos insensatos, desobedientes, extraviados, escravos de toda sorte de paixões e de prazeres, vivendo em malícias e inveja, odiosos e odiando-nos uns aos outros.",
+      "reference": "Tt 3:3"
+    },
+    "4": {
+      "text": "Mas, quando a bondade e o amor de Deus, nosso Salvador, se manifestaram, ele salvou-nos,",
+      "reference": "Tt 3:4"
+    },
+    "5": {
+      "text": "não por causa dos atos justos que houvéssemos praticado, mas porque, por sua misericórdia, fomos lavados pelo poder regenerador e renovador do Espírito Santo,",
+      "reference": "Tt 3:5"
+    },
+    "6": {
+      "text": "que ele ricamente derramou sobre nós, por meio de Jesus Cristo, nosso Salvador,",
+      "reference": "Tt 3:6"
+    },
+    "7": {
+      "text": "a fim de que fôssemos justificados pela sua graça, e nos tornássemos herdeiros da esperança da vida eterna. \\par",
+      "reference": "Tt 3:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Conselhos especiais a Tito\\par }Esta é uma mensagem fiel. Desejo, pois, que insistas nestes pontos, de sorte que aqueles que crêem em Deus sejam solícitos na prática do bem. Estas coisas são excelentes e proveitosas aos homens. \\par",
+      "reference": "Tt 3:8"
+    },
+    "9": {
+      "text": "Evita controvérsias insensatas, genealogias, dissensões e debates sobre a Lei, porque para nada adiantam, e são fúteis.",
+      "reference": "Tt 3:9"
+    },
+    "10": {
+      "text": "Depois de uma primeira e de uma segunda admoestação, nada mais tem a fazer com um homem faccioso,",
+      "reference": "Tt 3:10"
+    },
+    "11": {
+      "text": "pois é sabido que um homem assim se perverteu e se entregou ao pecado, condenando-se a si mesmo. \\par",
+      "reference": "Tt 3:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Recomendações práticas. Saudações e voto final\\par }Mandarei ao teu encontro Ártemas ou Tíquico. Quando tiver chegado aí, faze o possível para vir ter comigo em Nicópolis, onde resolvi passar o inverno.",
+      "reference": "Tt 3:12"
+    },
+    "13": {
+      "text": "Esforça-te por ajudar a Zenas, o jurista, e a Apolo, de modo que nada lhes falte.",
+      "reference": "Tt 3:13"
+    },
+    "14": {
+      "text": "Todos os da nossa gente precisam aprender a praticar o que é bom, de sorte que se tornem aptos a atender às necessidades urgentes e, assim, não fiquem infrutíferos. \\par",
+      "reference": "Tt 3:14"
+    },
+    "15": {
+      "text": "Todos os que estão comigo te saúdam. Saúda a todos os que nos amam na fé. A graça esteja com todos vós! \\par",
+      "reference": "Tt 3:15"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 15
+}

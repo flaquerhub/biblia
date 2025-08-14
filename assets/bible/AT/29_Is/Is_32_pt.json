@@ -1,0 +1,93 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 32,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O rei justo\\par }Um rei reinará de acordo com a justiça, \\par os seus príncipes governarão de acordo com o direito. \\par",
+      "reference": "Is 32:1"
+    },
+    "2": {
+      "text": "Cada um deles será como um refúgio contra o vento, \\par como um abrigo contra a tempestade, \\par como ribeiros de água em terra seca, \\par como a sombra de um grande rochedo em terra desolada. \\par",
+      "reference": "Is 32:2"
+    },
+    "3": {
+      "text": "Os olhos dos que vêem já não estarão vendados, \\par os ouvidos dos que ouvem perceberão distintamente. \\par",
+      "reference": "Is 32:3"
+    },
+    "4": {
+      "text": "O coração dos irrefletidos procurará adquirir o conhecimento, \\par a língua dos gagos falará com desembaraço e com clareza. \\par",
+      "reference": "Is 32:4"
+    },
+    "5": {
+      "text": "Já não se chamará nobre ao tolo \\par nem se dirá ilustre àquele que é trapaceiro. \\par",
+      "reference": "Is 32:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i O tolo e o nobre\\par }Porque o tolo diz tolices \\par e o seu coração pratica a iniqüidade, \\par agindo impiedosamente \\par e proferindo disparates contra Deus, \\par deixando o faminto sem comer \\par e privando de bebida o sedento. \\par",
+      "reference": "Is 32:6"
+    },
+    "7": {
+      "text": "Quanto ao trapaceiro, perversas são as suas trapaças, \\par faz tramas indignas, \\par a fim de arruinar os pobres com palavras mentirosas, \\par quando os indigentes defendem o seu direito. \\par",
+      "reference": "Is 32:7"
+    },
+    "8": {
+      "text": "Quanto ao nobre, nobres são os seus desígnios; \\par firme se mantém ele na sua nobreza. \\par",
+      "reference": "Is 32:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i Contra as mulheres de Jerusalém\\par }Vós, mulheres descuidadas, ponde-vos de pé e ouvi a minha voz; \\par filhas cheias de soberba, dai ouvidos às minhas palavras. \\par",
+      "reference": "Is 32:9"
+    },
+    "10": {
+      "text": "Vós que estais tão seguras de vós mesmas, dentro de um ano e alguns dias haveis de tremer, \\par porque a vindima estará arruinada, \\par a colheita nada renderá. \\par",
+      "reference": "Is 32:10"
+    },
+    "11": {
+      "text": "Estremecei, ó descuidadas, \\par tremei, vós que estais tão cheias de soberba; \\par despojai-vos, despi-vos, cingi os vossos lombos. \\par",
+      "reference": "Is 32:11"
+    },
+    "12": {
+      "text": "Batei no peito, por causa dos campos ridentes, \\par por causa das vinhas carregadas de frutos. \\par",
+      "reference": "Is 32:12"
+    },
+    "13": {
+      "text": "Sarças e espinhos crescerão nos campos do meu povo, \\par bem como sobre todas as casas alegres da cidade delirante. \\par",
+      "reference": "Is 32:13"
+    },
+    "14": {
+      "text": "Com efeito, a cidadela ficará deserta \\par e o tumulto da cidade cessará. \\par Ofel e a Torre de Vigia reduzidos a campinas escalvadas, \\par alegria dos jumentos selvagens e pasto dos rebanhos, \\par",
+      "reference": "Is 32:14"
+    },
+    "15": {
+      "text": "\\par {\\qc\\b\\i A efusão do Espírito\\par }até que seja derramado sobre nós o Espírito do alto. \\par Então o deserto se transformará em vergel, \\par e o vergel será tido como floresta. \\par",
+      "reference": "Is 32:15"
+    },
+    "16": {
+      "text": "O direito habitará no deserto \\par e a justiça morará no vergel. \\par",
+      "reference": "Is 32:16"
+    },
+    "17": {
+      "text": "O fruto da justiça será a paz, \\par e a obra da justiça consistirá na tranqüilidade e na segurança para sempre. \\par",
+      "reference": "Is 32:17"
+    },
+    "18": {
+      "text": "O meu povo habitará em moradas de paz, \\par em mansões seguras e em lugares tranqüilos. \\par",
+      "reference": "Is 32:18"
+    },
+    "19": {
+      "text": "Embora a floresta venha abaixo, \\par embora a cidade seja humilhada, \\par",
+      "reference": "Is 32:19"
+    },
+    "20": {
+      "text": "sereis felizes, semeando junto de águas abundantes, \\par deixando andar livres os bois e os jumentos. \\par",
+      "reference": "Is 32:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

@@ -1,0 +1,101 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "Isaac chamou Jacó, abençoou-o e lhe deu esta ordem: “Não tomes uma mulher entre as filhas de Canaã.",
+      "reference": "Gn 28:1"
+    },
+    "2": {
+      "text": "Levanta-te, vai a Padã-Aram, à casa de Batuel, o pai de tua mãe, e escolhe uma mulher de lá, entre as filhas de Labão, o irmão de tua mãe.",
+      "reference": "Gn 28:2"
+    },
+    "3": {
+      "text": "Que El Shaddai te abençoe, que ele te faça frutificar e multiplicar, a fim de que te tornes uma assembléia de povos.",
+      "reference": "Gn 28:3"
+    },
+    "4": {
+      "text": "Que ele te conceda, bem como à tua descendência, a bênção de Abraão, a fim de que possuas a terra em que vives e que Deus deu a Abraão.",
+      "reference": "Gn 28:4"
+    },
+    "5": {
+      "text": "Isaac despediu a Jacó e este partiu para Padã-Aram, para a casa de Labão, filho de Batuel, o arameu, e irmão de Rebeca, a mãe de Jacó e Esaú. \\par",
+      "reference": "Gn 28:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Outro casamento de Esaú\\par }Esaú viu que Isaac tinha abençoado a Jacó e o tinha enviado a Padã-Aram para lá tomar mulher, e abençoando-o, lhe dera esta ordem: “Não tomes uma mulher entre as filhas de Canaã”.",
+      "reference": "Gn 28:6"
+    },
+    "7": {
+      "text": "E Jacó obedecera a seu pai e sua mãe e partira para Padã-Aram.",
+      "reference": "Gn 28:7"
+    },
+    "8": {
+      "text": "Esaú soube que as filhas de Canaã eram malvistas por seu pai Isaac;",
+      "reference": "Gn 28:8"
+    },
+    "9": {
+      "text": "foi à casa de Ismael e tomou como mulher – além das que possuía – Maelet, filha de Ismael, filho de Abraão, e irmã de Nabaiot. \\par",
+      "reference": "Gn 28:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i O sonho de Jacó\\par }Jacó deixou Bersabéia e partiu para Harã.",
+      "reference": "Gn 28:10"
+    },
+    "11": {
+      "text": "Coincidiu de ele chegar a certo lugar e nele passar a noite, pois o sol havia-se posto. Tomou uma das pedras do lugar, colocou-a sob a cabeça e dormiu nesse lugar.",
+      "reference": "Gn 28:11"
+    },
+    "12": {
+      "text": "Teve um sonho: Eis que uma escada se erguia sobre a terra e o seu topo atingia o céu, e anjos de Deus subiam e desciam por ela!",
+      "reference": "Gn 28:12"
+    },
+    "13": {
+      "text": "Eis que Iahweh estava de pé diante dele e lhe disse: “Eu sou Iahweh, o Deus de Abraão, teu pai, e o Deus de Isaac. A terra sobre a qual dormiste, eu a dou a ti e à tua descendência.",
+      "reference": "Gn 28:13"
+    },
+    "14": {
+      "text": "Tua descendência se tornará numerosa como a poeira do solo; estender-te-ás para o ocidente e o oriente, para o norte e o sul, e todos os clãs da terra serão abençoados por ti e por tua descendência.",
+      "reference": "Gn 28:14"
+    },
+    "15": {
+      "text": "Eu estou contigo e te guardarei em todo lugar aonde fores, e te reconduzirei a esta terra, porque não te abandonarei enquanto não tiver realizado o que te prometi”.",
+      "reference": "Gn 28:15"
+    },
+    "16": {
+      "text": "Jacó acordou de seu sonho e disse: “Na verdade Iahweh está neste lugar e eu não o sabia!”",
+      "reference": "Gn 28:16"
+    },
+    "17": {
+      "text": "Teve medo e disse: “Este lugar é terrível! Não é nada menos que uma casa de Deus e a porta do céu!”",
+      "reference": "Gn 28:17"
+    },
+    "18": {
+      "text": "Levantando-se de madrugada, tomou a pedra que lhe servira de travesseiro, ergueu-a como uma estela e derramou óleo sobre o seu topo.",
+      "reference": "Gn 28:18"
+    },
+    "19": {
+      "text": "A este lugar deu o nome de Betel, mas anteriormente a cidade se chamava Luza. \\par",
+      "reference": "Gn 28:19"
+    },
+    "20": {
+      "text": "Jacó fez este voto: “Se Deus estiver comigo e me guardar no caminho por onde eu for, se me der pão para comer e roupas para me vestir,",
+      "reference": "Gn 28:20"
+    },
+    "21": {
+      "text": "se eu voltar são e salvo para a casa de meu pai, então Iahweh será meu Deus",
+      "reference": "Gn 28:21"
+    },
+    "22": {
+      "text": "e esta pedra que ergui como uma estela será uma casa de Deus, e de tudo o que me deres eu te pagarei fielmente o dízimo”. \\par",
+      "reference": "Gn 28:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

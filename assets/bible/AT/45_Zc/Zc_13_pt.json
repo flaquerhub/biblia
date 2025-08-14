@@ -1,0 +1,49 @@
+{
+  "book": 38,
+  "book_name": "Zacarias",
+  "book_abbr": "Zc",
+  "book_category": "Profético",
+  "book_english": "Zechariah",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Naquele dia haverá para a Casa de Davi e para os habitantes de Jerusalém uma fonte aberta, para lavar o pecado e a mancha.",
+      "reference": "Zc 13:1"
+    },
+    "2": {
+      "text": "E acontecerá, naquele dia – oráculo de Iahweh dos Exércitos –, que eu exterminarei da terra os nomes dos ídolos: eles não serão mais lembrados. Também os profetas e o espírito de impureza eu expulsarei da terra.",
+      "reference": "Zc 13:2"
+    },
+    "3": {
+      "text": "Se alguém profetizar novamente, seu pai e sua mãe, que o geraram, dir-lhe-ão: “Tu não viverás, porque falaste mentiras em nome de Iahweh,” e seu pai e sua mãe, que o geraram, o transpassarão enquanto profetizar.",
+      "reference": "Zc 13:3"
+    },
+    "4": {
+      "text": "E acontecerá, naquele dia, que os profetas terão vergonha de suas visões, quando profetizarem; e não vestirão o manto de pele para mentir.",
+      "reference": "Zc 13:4"
+    },
+    "5": {
+      "text": "Cada um dirá: “Não sou profeta, sou um homem que trabalha a terra, pois a terra é minha propriedade desde a minha juventude”.",
+      "reference": "Zc 13:5"
+    },
+    "6": {
+      "text": "E se lhe disserem: “Que são essas feridas em teu peito?”, ele responderá: “Aquelas que recebi na casa de meus amigos”. \\par",
+      "reference": "Zc 13:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Prosopopéia da espada: o novo povo\\par }Espada, levanta-te contra o meu pastor \\par e contra o homem, meu companheiro, \\par oráculo de Iahweh dos Exércitos. \\par Fere o pastor, que as ovelhas sejam dispersadas! \\par Eu voltarei a minha mão contra os pequenos. \\par",
+      "reference": "Zc 13:7"
+    },
+    "8": {
+      "text": "E acontecerá em toda a terra \\par – oráculo de Iahweh – \\par que dois terços serão exterminados (perecerão) \\par e que o outro terço será deixado nela. \\par",
+      "reference": "Zc 13:8"
+    },
+    "9": {
+      "text": "Farei esse terço entrar no fogo, \\par purificá-lo-ei como se purifica a prata, \\par prová-lo-ei como se prova o ouro. \\par Ele invocará o meu nome, \\par e eu lhe responderei; \\par direi: “É meu povo!” \\par e ele dirá: “Iahweh é meu Deus!” \\par",
+      "reference": "Zc 13:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

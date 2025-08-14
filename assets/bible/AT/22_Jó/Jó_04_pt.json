@@ -1,0 +1,97 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Confiança em Deus\\par }Elifaz de Temã tomou a palavra e disse: \\par",
+      "reference": "Jó 4:1"
+    },
+    "2": {
+      "text": "Se alguém se dirigisse a ti, suportarias? \\par Porém, quem pode refrear-me as palavras? \\par",
+      "reference": "Jó 4:2"
+    },
+    "3": {
+      "text": "Tu que a tantos davas lições \\par e fortalecias os braços inertes, \\par",
+      "reference": "Jó 4:3"
+    },
+    "4": {
+      "text": "com tuas palavras levantavas o trôpego \\par e sustentavas joelhos cambaleantes. \\par",
+      "reference": "Jó 4:4"
+    },
+    "5": {
+      "text": "E hoje que é a tua vez, vacilas? \\par Perturbas-te, hoje, quando tudo cai sobre ti? \\par",
+      "reference": "Jó 4:5"
+    },
+    "6": {
+      "text": "Não é tua confiança o temor de Deus, \\par e conduta perfeita tua esperança? \\par",
+      "reference": "Jó 4:6"
+    },
+    "7": {
+      "text": "Recordas-te de um inocente que tenha perecido? \\par Onde já se viu que justos fossem exterminados? \\par",
+      "reference": "Jó 4:7"
+    },
+    "8": {
+      "text": "Eis minha experiência: Aqueles que cultivam a iniqüidade \\par e semeiam a miséria são também os que as colhem. \\par",
+      "reference": "Jó 4:8"
+    },
+    "9": {
+      "text": "Ao sopro de Deus perecem, \\par são consumidos pelo sopro da sua ira. \\par",
+      "reference": "Jó 4:9"
+    },
+    "10": {
+      "text": "O rugido do leão e a voz do leopardo, \\par e os dentes dos filhotes são quebrados: \\par",
+      "reference": "Jó 4:10"
+    },
+    "11": {
+      "text": "morre o leão por falta de presa, \\par e a cria da leoa se dispersa. \\par",
+      "reference": "Jó 4:11"
+    },
+    "12": {
+      "text": "Ouvi furtivamente uma revelação, \\par meu ouvido apenas captou seu murmúrio: \\par",
+      "reference": "Jó 4:12"
+    },
+    "13": {
+      "text": "numa visão noturna de pesadelo, \\par quando a letargia cai sobre o homem, \\par",
+      "reference": "Jó 4:13"
+    },
+    "14": {
+      "text": "um terror apoderou-se de mim e um tremor, \\par um frêmito sacudiu meus ossos. \\par",
+      "reference": "Jó 4:14"
+    },
+    "15": {
+      "text": "Um sopro roçou-me o rosto \\par e provocou arrepios por todo o corpo. \\par",
+      "reference": "Jó 4:15"
+    },
+    "16": {
+      "text": "Estava parado – mas não vi seu rosto –, \\par qual fantasma diante dos meus olhos, \\par um silêncio... depois ouvi uma voz: \\par",
+      "reference": "Jó 4:16"
+    },
+    "17": {
+      "text": "“Pode o homem sem justo diante de Deus? \\par Um mortal ser puro diante do seu Criador? \\par",
+      "reference": "Jó 4:17"
+    },
+    "18": {
+      "text": "Dos próprios servos ele desconfia, \\par até mesmo a seus anjos verbera o erro. \\par",
+      "reference": "Jó 4:18"
+    },
+    "19": {
+      "text": "Quanto mais aos que moram em casas de barro, \\par cujos fundamentos se assentam sobre o pó! \\par Serão esmagados mais depressa do que a traça; \\par",
+      "reference": "Jó 4:19"
+    },
+    "20": {
+      "text": "esmigalhados entre a manhã e a noite, \\par perecem para sempre, pois ninguém os traz de volta. \\par",
+      "reference": "Jó 4:20"
+    },
+    "21": {
+      "text": "O esteio de sua tenda é arrancado, \\par e morrem sem sabedoria”. \\par",
+      "reference": "Jó 4:21"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 21
+}

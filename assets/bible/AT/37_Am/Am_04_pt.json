@@ -1,0 +1,65 @@
+{
+  "book": 30,
+  "book_name": "Amós",
+  "book_abbr": "Am",
+  "book_category": "Profético",
+  "book_english": "Amos",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra as mulheres de Samaria\\par }Ouvi esta palavra, vacas de Basã, \\par que estais sobre o monte de Samaria, \\par que oprimis os fracos, esmagais os indigentes \\par e dizeis aos vossos maridos: “Trazei-nos o que beber!” \\par",
+      "reference": "Am 4:1"
+    },
+    "2": {
+      "text": "O Senhor Iahweh jurou por sua santidade: \\par sim, eis que virão dias sobre vós \\par em que vos carregarão com ganchos, \\par e, o que sobrar de vós, com arpões. \\par",
+      "reference": "Am 4:2"
+    },
+    "3": {
+      "text": "E saireis pelas brechas que cada uma tem diante de si, \\par e sereis empurradas em direção ao Hermon, \\par oráculo de Iahweh. \\par",
+      "reference": "Am 4:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Ilusão, impenitência, castigo de Israel\\par }Entrai em Betel e pecai! \\par Em Guilgal, e multiplicai os pecados! \\par Oferecei, pela manhã, os vossos sacrifícios, \\par e ao terceiro dia os vossos dízimos! \\par",
+      "reference": "Am 4:4"
+    },
+    "5": {
+      "text": "Queimai pão fermentado como sacrifício de louvor, \\par proclamai vossas oferendas voluntárias, anunciai-as, \\par porque é assim que gostais, filhos de Israel, \\par oráculo do Senhor Iahweh. \\par",
+      "reference": "Am 4:5"
+    },
+    "6": {
+      "text": "Eu mesmo vos dei dentes limpos em todas as vossas cidades, \\par e falta de pão em todos os vossos lugarejos, \\par mas não voltastes a mim! \\par Oráculo de Iahweh. \\par",
+      "reference": "Am 4:6"
+    },
+    "7": {
+      "text": "Eu também vos privei da chuva, \\par quando ainda faltavam três meses para a colheita; \\par fiz chover sobre uma cidade, \\par e sobre a outra cidade eu não fiz chover; \\par um campo era regado pela chuva, \\par e o outro campo, sobre o qual não chovia, secava. \\par",
+      "reference": "Am 4:7"
+    },
+    "8": {
+      "text": "Então duas, três cidades iam vacilantes a outra cidade para beber água \\par e não podiam saciar-se, \\par mas não voltastes a mim! \\par Oráculo de Iahweh. \\par",
+      "reference": "Am 4:8"
+    },
+    "9": {
+      "text": "Eu vos feri pela alforra e pelo amarelecer do trigo, \\par fiz secar vossos jardins e vossas vinhas; \\par vossas figueiras e vossas oliveiras o gafanhoto devorou-as, \\par mas não voltastes a mim! \\par Oráculo de Iahweh. \\par",
+      "reference": "Am 4:9"
+    },
+    "10": {
+      "text": "Eu vos enviei uma peste como a peste do Egito; \\par matei pela espada os vossos jovens, \\par enquanto os vossos cavalos eram capturados; \\par fiz subir às vossas narinas o mau cheiro de vossos acampamentos, \\par mas não voltastes a mim! \\par Oráculo de Iahweh. \\par",
+      "reference": "Am 4:10"
+    },
+    "11": {
+      "text": "Eu vos derrubei como Deus derrubou Sodoma e Gomorra, \\par fostes como um tição arrancado do incêndio, \\par mas não voltastes a mim! \\par Oráculo de Iahweh. \\par",
+      "reference": "Am 4:11"
+    },
+    "12": {
+      "text": "Por isso, eu vou te tratar assim Israel! \\par E, porque eu vou te tratar assim, Israel, \\par prepara-te para encontrar o teu Deus! \\par",
+      "reference": "Am 4:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Doxologia\\par }Porque é ele quem forma as montanhas e quem cria o vento, \\par quem revela ao homem seu pensamento, \\par quem faz da aurora trevas \\par e quem caminha sobre os altos da terra: \\par Iahweh, Deus dos Exércitos, é o seu nome. \\par",
+      "reference": "Am 4:13"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 13
+}

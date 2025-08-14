@@ -1,0 +1,137 @@
+{
+  "book": 43,
+  "book_name": "João",
+  "book_abbr": "Jo",
+  "book_category": "Evangelhos",
+  "book_english": "John",
+  "testament": "NT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "Não se perturbe o vosso coração!\\par Credes em Deus, crede também em mim.\\par",
+      "reference": "Jo 14:1"
+    },
+    "2": {
+      "text": "Na casa de meu Pai há muitas moradas. \\par Se não fosse assim, eu vos teria dito, \\par pois vou preparar-vos um lugar, \\par",
+      "reference": "Jo 14:2"
+    },
+    "3": {
+      "text": "e quando eu me for \\par e vos tiver preparado um lugar, \\par virei novamente e vos levarei comigo, \\par a fim de que, onde eu estiver, \\par estejais vós também. \\par",
+      "reference": "Jo 14:3"
+    },
+    "4": {
+      "text": "E para onde vou, conheceis o caminho”. \\par",
+      "reference": "Jo 14:4"
+    },
+    "5": {
+      "text": "Tomé lhe diz: “Senhor, não sabemos para onde vais. Como podemos conhecer o caminho?” \\par",
+      "reference": "Jo 14:5"
+    },
+    "6": {
+      "text": "Diz-lhe Jesus: \\par “Eu sou o Caminho, a Verdade e a Vida. \\par Ninguém vem ao Pai a não ser por mim. \\par",
+      "reference": "Jo 14:6"
+    },
+    "7": {
+      "text": "Se me conheceis, também conhecereis a meu Pai. \\par Desde agora o conheceis e o vistes”. \\par",
+      "reference": "Jo 14:7"
+    },
+    "8": {
+      "text": "Filipe lhe diz: “Senhor, mostra-nos o Pai e isso nos basta!” \\par",
+      "reference": "Jo 14:8"
+    },
+    "9": {
+      "text": "Diz-lhe Jesus: “Há tanto tempo estou convosco e tu não me conheces, Filipe? \\par Quem vê, vê o Pai. \\par Como podes dizer: ‘Mostra-nos o Pai!’? \\par",
+      "reference": "Jo 14:9"
+    },
+    "10": {
+      "text": "Não crês \\par que estou no Pai e o Pai está em mim? \\par As palavras que vos digo, não as digo por mim mesmo, \\par mas o Pai, que permanece em mim, realiza suas obras. \\par",
+      "reference": "Jo 14:10"
+    },
+    "11": {
+      "text": "Crede-me: \\par eu estou no Pai e o Pai em mim. \\par Crede-o, ao menos, por causa dessas obras. \\par",
+      "reference": "Jo 14:11"
+    },
+    "12": {
+      "text": "Em verdade, em verdade, vos digo: \\par quem crê em mim \\par fará as obras que faço \\par e fará até maiores do que elas, \\par porque vou para o Pai. \\par",
+      "reference": "Jo 14:12"
+    },
+    "13": {
+      "text": "E o que pedirdes em meu nome, \\par eu o farei \\par a fim de que o Pai seja glorificado no Filho. \\par",
+      "reference": "Jo 14:13"
+    },
+    "14": {
+      "text": "Se me pedirdes algo em meu nome, \\par eu o farei. \\par",
+      "reference": "Jo 14:14"
+    },
+    "15": {
+      "text": "Se me amais, observareis meus mandamentos, \\par",
+      "reference": "Jo 14:15"
+    },
+    "16": {
+      "text": "e rogarei ao Pai \\par e ele vos dará outro Paráclito, \\par para que convosco permaneça para sempre, \\par",
+      "reference": "Jo 14:16"
+    },
+    "17": {
+      "text": "o Espírito da Verdade, \\par que o mundo não pode acolher, \\par porque não o vê nem o conhece. \\par Vós o conheceis, \\par porque permanece convosco. \\par",
+      "reference": "Jo 14:17"
+    },
+    "18": {
+      "text": "Não vos deixarei órfãos. \\par Eu virei a vós. \\par",
+      "reference": "Jo 14:18"
+    },
+    "19": {
+      "text": "Ainda um pouco e o mundo não mais me verá, \\par mas vós me vereis \\par porque eu vivo e vós vivereis. \\par",
+      "reference": "Jo 14:19"
+    },
+    "20": {
+      "text": "Nesse dia \\par compreendereis que estou em meu Pai \\par e vós em mim e eu em vós. \\par",
+      "reference": "Jo 14:20"
+    },
+    "21": {
+      "text": "Quem tem meus mandamentos e os observa \\par é que me ama; \\par e quem me ama será amado por meu Pai. \\par Eu o amarei e me manifestarei a ele”. \\par",
+      "reference": "Jo 14:21"
+    },
+    "22": {
+      "text": "Judas – não o Iscariotes – lhe diz: “Senhor, por que te manifestarás a nós e não ao mundo?”",
+      "reference": "Jo 14:22"
+    },
+    "23": {
+      "text": "Respondeu-lhe Jesus: \\par “Se alguém me ama, \\par guardará minha palavra \\par e o meu Pai o amará \\par e a ele viremos \\par e nele estabeleceremos morada. \\par",
+      "reference": "Jo 14:23"
+    },
+    "24": {
+      "text": "Quem não me ama não guarda minhas palavras; \\par e a palavra que ouvis não é minha, \\par mas do Pai que me enviou. \\par",
+      "reference": "Jo 14:24"
+    },
+    "25": {
+      "text": "Essas coisas vos tenho dito \\par estando entre vós. \\par",
+      "reference": "Jo 14:25"
+    },
+    "26": {
+      "text": "Mas o Paráclito, o Espírito Santo \\par que o Pai enviará em meu nome, \\par vos ensinará tudo \\par e vos recordará tudo o que eu vos disse. \\par",
+      "reference": "Jo 14:26"
+    },
+    "27": {
+      "text": "Deixo-vos a paz, \\par a minha paz vos dou; \\par não vo-la dou como o mundo dá. \\par Não se perturbe nem se intimide vosso coração. \\par",
+      "reference": "Jo 14:27"
+    },
+    "28": {
+      "text": "Vós ouvistes o que vos disse: \\par Vou e retorno a vós. \\par Se me amásseis, ficaríeis alegres \\par por eu ir para o Pai, \\par porque o Pai é maior do que eu. \\par",
+      "reference": "Jo 14:28"
+    },
+    "29": {
+      "text": "Eu vo-lo disse agora, antes que aconteça, \\par para que, quando acontecer, creiais. \\par",
+      "reference": "Jo 14:29"
+    },
+    "30": {
+      "text": "Já não conversarei muito, \\par pois o príncipe do mundo vem; \\par contra mim, ele nada pode, \\par",
+      "reference": "Jo 14:30"
+    },
+    "31": {
+      "text": "mas o mundo saberá que amo o Pai \\par e faço como o Pai me ordenou. \\par Levantai-vos! Partamos daqui! \\par",
+      "reference": "Jo 14:31"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 31
+}

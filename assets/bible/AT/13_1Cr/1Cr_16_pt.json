@@ -1,0 +1,185 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Introduziram a Arca de Deus e a depositaram no centro da tenda que Davi tinha armado para ela. Ofereceram, diante de Deus, holocaustos e sacrifícios de comunhão.",
+      "reference": "1Cr 16:1"
+    },
+    "2": {
+      "text": "Quando Davi acabou de oferecer esses holocaustos e esses sacrifícios de comunhão, abençoou o povo em nome de Iahweh.",
+      "reference": "1Cr 16:2"
+    },
+    "3": {
+      "text": "Depois mandou distribuir a todos os israelitas, homens e mulheres, um pão, um prato de carne e um bolo de passas. \\par",
+      "reference": "1Cr 16:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i O serviço dos levitas diante da Arca\\par }Davi colocou diante da Arca de Iahweh levitas encarregados do serviço para celebrar, glorificar e louvar a Iahweh, Deus de Israel;",
+      "reference": "1Cr 16:4"
+    },
+    "5": {
+      "text": "primeiro Asaf, em segundo lugar Zacarias, depois Oziel, Semiramot, Jaiel, Matatias, Eliab, Banaías, Obed-Edom e Jeiel. Eles tocavam liras e cítaras, enquanto Asaf fazia ressoar os címbalos.",
+      "reference": "1Cr 16:5"
+    },
+    "6": {
+      "text": "Os sacerdotes Banaías e Jaziel não cessavam de tocar trombetas diante da Arca da Aliança de Deus.",
+      "reference": "1Cr 16:6"
+    },
+    "7": {
+      "text": "Naquele dia, Davi, louvando por primeiro a Iahweh, confiou este louvor a Asaf e a seus irmãos: \\par",
+      "reference": "1Cr 16:7"
+    },
+    "8": {
+      "text": "Dai graças a Iahweh, aclamai seu nome, \\par anunciai entre os povos seus grandes feitos! \\par",
+      "reference": "1Cr 16:8"
+    },
+    "9": {
+      "text": "Cantai, entoai salmos para ele, \\par narrai todas as suas maravilhas!\\par",
+      "reference": "1Cr 16:9"
+    },
+    "10": {
+      "text": "Gloriai-vos de seu nome santo, \\par alegrem-se os corações que buscam a Iahweh! \\par",
+      "reference": "1Cr 16:10"
+    },
+    "11": {
+      "text": "Procurai Iahweh e sua força, \\par sem cessar buscai a sua face! \\par",
+      "reference": "1Cr 16:11"
+    },
+    "12": {
+      "text": "Lembrai-vos das maravilhas que fez, \\par de seus prodígios e das sentenças de sua boca! \\par",
+      "reference": "1Cr 16:12"
+    },
+    "13": {
+      "text": "Descendentes de Israel, seu servo, \\par filhos de Jacó, seus eleitos, \\par",
+      "reference": "1Cr 16:13"
+    },
+    "14": {
+      "text": "é ele Iahweh nosso Deus, \\par sobre toda a terra ele julga! \\par",
+      "reference": "1Cr 16:14"
+    },
+    "15": {
+      "text": "Lembrai-vos para sempre de sua Aliança, \\par da palavra promulgada para mil gerações, \\par",
+      "reference": "1Cr 16:15"
+    },
+    "16": {
+      "text": "do pacto concluído com Abraão, \\par do juramento que fez a Isaac. \\par",
+      "reference": "1Cr 16:16"
+    },
+    "17": {
+      "text": "Ele o erigiu como lei para Jacó, \\par para Israel, como Aliança para sempre, \\par",
+      "reference": "1Cr 16:17"
+    },
+    "18": {
+      "text": "dizendo: “Eu te dou a terra de Canaã, \\par como parte de vossa herança, \\par",
+      "reference": "1Cr 16:18"
+    },
+    "19": {
+      "text": "lá onde podíeis ser contados, \\par sendo pouco numerosos, estrangeiros no país”. \\par",
+      "reference": "1Cr 16:19"
+    },
+    "20": {
+      "text": "Eles iam de um país para outro, \\par de um reino para um povo diferente; \\par",
+      "reference": "1Cr 16:20"
+    },
+    "21": {
+      "text": "não deixou que ninguém os oprimisse, \\par por causa deles até reis castigou: \\par",
+      "reference": "1Cr 16:21"
+    },
+    "22": {
+      "text": "“Não toqueis em quem me é consagrado, \\par nem façais mal a meus profetas!” \\par",
+      "reference": "1Cr 16:22"
+    },
+    "23": {
+      "text": "Cantai a Iahweh, terra inteira! \\par Proclamai, dia após dia, a sua salvação, \\par",
+      "reference": "1Cr 16:23"
+    },
+    "24": {
+      "text": "narrai às nações a sua glória, \\par a todos os povos as suas maravilhas! \\par",
+      "reference": "1Cr 16:24"
+    },
+    "25": {
+      "text": "Pois Iahweh é grande e mui digno de louvor, \\par mais temível que todos os deuses. \\par",
+      "reference": "1Cr 16:25"
+    },
+    "26": {
+      "text": "Nada são todos os deuses das nações. \\par Foi Iahweh quem fez os céus. \\par",
+      "reference": "1Cr 16:26"
+    },
+    "27": {
+      "text": "Diante dele, esplendor e majestade, \\par em seu santuário poder e alegria. \\par",
+      "reference": "1Cr 16:27"
+    },
+    "28": {
+      "text": "Rendei a Iahweh, ó famílias dos povos, \\par rendei a Iahweh glória e poder, \\par",
+      "reference": "1Cr 16:28"
+    },
+    "29": {
+      "text": "rendei a Iahweh a glória de seu nome. \\par Apresentai a oblação, trazei-a à sua presença, \\par adorai Iahweh nos seus átrios sagrados! \\par",
+      "reference": "1Cr 16:29"
+    },
+    "30": {
+      "text": "Tremei diante dele, ó terra inteira! \\par Ele fixou o universo, inabalável. \\par",
+      "reference": "1Cr 16:30"
+    },
+    "31": {
+      "text": "Que o céu se alegre, exulte a terra! \\par Dizei entre os pagãos: “É Iahweh que reina!” \\par",
+      "reference": "1Cr 16:31"
+    },
+    "32": {
+      "text": "Ressoe o mar e tudo o que ele encerra! \\par Rejubile o campo e tudo o que ele produz! \\par",
+      "reference": "1Cr 16:32"
+    },
+    "33": {
+      "text": "Gritem de alegria todas as árvores das florestas! \\par na presença de Iahweh, pois ele vem para julgar a terra. \\par",
+      "reference": "1Cr 16:33"
+    },
+    "34": {
+      "text": "Dai graças a Iahweh, pois ele é bom, \\par porque eterno é seu amor! \\par",
+      "reference": "1Cr 16:34"
+    },
+    "35": {
+      "text": "Dizei: Salva-nos, Deus de nossa salvação, \\par reúne-nos, retira-nos do meio dos pagãos, \\par para celebrarmos teu santo nome \\par e nos gloriarmos em teu louvor. \\par",
+      "reference": "1Cr 16:35"
+    },
+    "36": {
+      "text": "Bendito seja Iahweh, o Deus de Israel, \\par desde sempre e para sempre! \\par E que todo o povo diga: Amém! \\par Aleluia! \\par",
+      "reference": "1Cr 16:36"
+    },
+    "37": {
+      "text": "Davi deixou lá, diante da Arca da Aliança de Iahweh, Asaf e seus irmãos, para garantirem um serviço permanente diante da Arca, conforme o ritual cotidiano;",
+      "reference": "1Cr 16:37"
+    },
+    "38": {
+      "text": "deixou também Obed-Edom e seus sessenta e oito irmãos. Obed-Edom, filho de Iditun, e Hosa eram porteiros.",
+      "reference": "1Cr 16:38"
+    },
+    "39": {
+      "text": "Quanto ao sacerdote Sadoc e aos sacerdotes seus irmãos, Davi os deixou diante da Habitação de Iahweh, no lugar alto de Gabaon,",
+      "reference": "1Cr 16:39"
+    },
+    "40": {
+      "text": "para oferecerem a Iahweh holocaustos perpétuos sobre o altar dos holocaustos, de manhã e de tarde, e fazer tudo o que está escrito na Lei que Iahweh prescrevera a Israel.",
+      "reference": "1Cr 16:40"
+    },
+    "41": {
+      "text": "Estavam com eles Emã e Iditun, e o restante da elite designada nominalmente para render graças a Deus, “porque eterno é seu amor”.",
+      "reference": "1Cr 16:41"
+    },
+    "42": {
+      "text": "Na companhia deles estava Emã e Iditun, encarregados de tocar as trombetas, os címbalos e os instrumentos que acompanhavam os cânticos divinos. Os filhos de Iditun estavam encarregados da porta. \\par",
+      "reference": "1Cr 16:42"
+    },
+    "43": {
+      "text": "Todo o povo partiu, cada um para sua casa, e Davi voltou para abençoar a sua casa. \\par",
+      "reference": "1Cr 16:43"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 43
+}

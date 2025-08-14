@@ -1,0 +1,57 @@
+{
+  "book": 38,
+  "book_name": "Zacarias",
+  "book_abbr": "Zc",
+  "book_category": "Profético",
+  "book_english": "Zechariah",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Sexta visão: o livro que voa\\par }Levantei novamente os olhos e vi: Eis um rolo que voava.",
+      "reference": "Zc 5:1"
+    },
+    "2": {
+      "text": "E o anjo que falava comigo disse-me: “Que vês?” Eu disse: “Vejo um rolo que voa; seu comprimento é de vinte côvados, sua largura de dez”.",
+      "reference": "Zc 5:2"
+    },
+    "3": {
+      "text": "Ele me disse: “Esta é a Maldição que se espalha sobre a superfície de toda a terra. Porque todo aquele que rouba será expulso daqui, de acordo com ela, e todo aquele que jura falso em meu nome será expulso daqui, de acordo com ela.",
+      "reference": "Zc 5:3"
+    },
+    "4": {
+      "text": "Eu a espalharei – oráculo de Iahweh dos Exércitos – para que entre na casa do ladrão e na casa daquele que jura falsamente em meu nome, para que se estabeleça no seio de sua casa e a destrua com as suas madeiras e as suas pedras”. \\par",
+      "reference": "Zc 5:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Sétima visão: a mulher no alqueire\\par }E o anjo que falava comigo aproximou-se e disse-me: “Levanta os olhos e olha essa coisa que se aproxima”.",
+      "reference": "Zc 5:5"
+    },
+    "6": {
+      "text": "E eu disse: “O que é isto?” E ele disse: “Isto é um alqueire que se aproxima”. E acrescentou: “Esta é a sua iniqüidade em toda a terra”.",
+      "reference": "Zc 5:6"
+    },
+    "7": {
+      "text": "E eis que um disco de chumbo foi levantado: havia uma mulher sentada dentro do alqueire.",
+      "reference": "Zc 5:7"
+    },
+    "8": {
+      "text": "E disse: “Esta é a Iniqüidade. E recolocou-a no interior do alqueire, em cuja boca colocou o peso de chumbo.",
+      "reference": "Zc 5:8"
+    },
+    "9": {
+      "text": "Levantei os olhos e vi: Eis que apareceram duas mulheres. Um vento soprava em suas asas; elas tinham asas como as da cegonha; elas levantaram o alqueire entre a terra e o céu.",
+      "reference": "Zc 5:9"
+    },
+    "10": {
+      "text": "Eu disse ao anjo que falava comigo: “Para onde estão elas levando o alqueire?”",
+      "reference": "Zc 5:10"
+    },
+    "11": {
+      "text": "Ele respondeu-me: “Para construir-lhe uma casa no país de Senaar e preparar-lhe um pedestal, onde o colocarão”. \\par",
+      "reference": "Zc 5:11"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 11
+}

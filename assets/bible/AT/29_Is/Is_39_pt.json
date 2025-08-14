@@ -1,0 +1,45 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 39,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Embaixada da Babilônia\\par }Por esse tempo, Merodac-Baladã, filho de Baladã, rei da Babilônia, enviou cartas e um presente a Ezequias, pois soubera que tinha estado doente e que estava restabelecido.",
+      "reference": "Is 39:1"
+    },
+    "2": {
+      "text": "Ezequias alegrou-se com isto e mostrou aos mensageiros a sua casa do tesouro, a saber, a prata, o ouro, os perfumes, o óleo fino, bem como todo o seu arsenal, tudo o que se encontrava entre os seus tesouros. Nada houve em seu palácio e no seu domínio que Ezequias não lhes mostrasse. \\par",
+      "reference": "Is 39:2"
+    },
+    "3": {
+      "text": "O profeta Isaías foi ter com o rei Ezequias e lhe perguntou: “Que disseram estes homens e de onde vieram ter contigo?” Ezequias respondeu-lhe: “Vieram de uma terra distante, da Babilônia”.",
+      "reference": "Is 39:3"
+    },
+    "4": {
+      "text": "Tornou Isaías a perguntar: “Que viram eles no teu palácio?” A isto respondeu Ezequias: “Viram tudo o que há no meu palácio: nada há entre os meus tesouros que eu deixasse de mostrar-lhes”. \\par",
+      "reference": "Is 39:4"
+    },
+    "5": {
+      "text": "Disse então Isaías a Ezequias: “Ouve a palavra de Iahweh dos Exércitos:",
+      "reference": "Is 39:5"
+    },
+    "6": {
+      "text": "Dias virão em que tudo o que há no teu palácio, o que os teus pais entesouraram até este dia, será levado para a Babilônia: nada será deixado, disse Iahweh.",
+      "reference": "Is 39:6"
+    },
+    "7": {
+      "text": "Dentre os teus filhos, nascidos de ti, dos que tu geraste, tomarão eles para serem eunucos no palácio do rei da Babilônia”.",
+      "reference": "Is 39:7"
+    },
+    "8": {
+      "text": "Então Ezequias respondeu a Isaías: “Boa é a palavra de Iahweh, que acabas de pronunciar”. “Com efeito, – dizia ele de si para consigo – nos meus dias haverá paz e segurança”. \\par",
+      "reference": "Is 39:8"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 8
+}

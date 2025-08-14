@@ -1,0 +1,105 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O ano sabático\\par }A cada sete anos farás remissão.",
+      "reference": "Dt 15:1"
+    },
+    "2": {
+      "text": "Eis o que significa esta remissão: todo credor que tinha emprestado alguma coisa a seu próximo remitirá o que havia emprestado; não explorará seu próximo, nem seu irmão, porque terá sido proclamada a remissão em honra de Iahweh.",
+      "reference": "Dt 15:2"
+    },
+    "3": {
+      "text": "Poderás explorar o estrangeiro, mas deixarás quite o que havias emprestado ao teu irmão.",
+      "reference": "Dt 15:3"
+    },
+    "4": {
+      "text": "É verdade que em teu meio não haverá nenhum pobre, porque Iahweh vai abençoar-te na terra que Iahweh teu Deus te dará, para que a possuas como herança,",
+      "reference": "Dt 15:4"
+    },
+    "5": {
+      "text": "com a condição de que obedeças de fato à voz de Iahweh teu Deus, cuidando de pôr em prática todos estes mandamentos que hoje te ordeno.",
+      "reference": "Dt 15:5"
+    },
+    "6": {
+      "text": "Quando Iahweh teu Deus te houver abençoado, conforme disse, tu emprestarás a muitas nações, mas nada pedirás emprestado, dominarás muitas nações, mas nunca serás dominado. \\par",
+      "reference": "Dt 15:6"
+    },
+    "7": {
+      "text": "Quando houver um pobre em teu meio, que seja um só dos teus irmãos numa só das tuas cidades, na terra que Iahweh teu Deus te dará, não endurecerás teu coração, nem fecharás a mão para com este teu irmão pobre;",
+      "reference": "Dt 15:7"
+    },
+    "8": {
+      "text": "pelo contrário: abre-lhe a mão, emprestando o que lhe falta, na medida da sua necessidade.",
+      "reference": "Dt 15:8"
+    },
+    "9": {
+      "text": "Fica atento a ti mesmo, para que não surja em teu coração um pensamento vil, como o dizer: ‘Eis que se aproxima o sétimo ano, o ano da remissão’, e o teu olho se torne mau para com o teu irmão pobre, nada lhe dando, ele clamaria a Iahweh contra ti, e em ti haveria um pecado.",
+      "reference": "Dt 15:9"
+    },
+    "10": {
+      "text": "Quando lhe deres algo, não dês com má vontade, pois, em resposta a este gesto, Iahweh teu Deus te abençoará em todo teu trabalho, em todo empreendimento da tua mão.",
+      "reference": "Dt 15:10"
+    },
+    "11": {
+      "text": "Nunca deixará de haver pobres na terra; é por isso que eu te ordeno: abre a mão em favor do teu irmão, do teu humilde e do teu pobre em tua terra. \\par",
+      "reference": "Dt 15:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i O escravo\\par }Quando um dos teus irmãos, hebreu ou hebréia, for vendido a ti, ele te servirá por seis anos. No sétimo ano tu o deixarás ir em liberdade.",
+      "reference": "Dt 15:12"
+    },
+    "13": {
+      "text": "Mas, quando o deixares ir em liberdade, não o despeças de mãos vazias:",
+      "reference": "Dt 15:13"
+    },
+    "14": {
+      "text": "carrega-lhe o ombro com presentes do produto do teu rebanho, da tua eira e do teu lagar. Dar-lhe-ás conforme a bênção que Iahweh teu Deus te houver concedido.",
+      "reference": "Dt 15:14"
+    },
+    "15": {
+      "text": "Recorda que foste escravo na terra do Egito, e que Iahweh teu Deus te resgatou. É por isso que eu te dou hoje esta ordem. \\par",
+      "reference": "Dt 15:15"
+    },
+    "16": {
+      "text": "Mas se ele te diz: ‘Não quero deixar-te’, se ele te ama, a ti e à tua casa, e está bem contigo,",
+      "reference": "Dt 15:16"
+    },
+    "17": {
+      "text": "tomarás então uma sovela e lhe furarás a orelha contra a porta, e ele ficará sendo teu servo para sempre. O mesmo farás com a tua serva. \\par",
+      "reference": "Dt 15:17"
+    },
+    "18": {
+      "text": "Que não te pareça difícil deixá-lo ir em liberdade: ele te serviu durante seis anos pela metade do salário de um diarista. E Iahweh teu Deus te abençoará em tudo o que fizeres. \\par",
+      "reference": "Dt 15:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Os primogênitos\\par }Todo primogênito macho que nascer das tuas vacas ou ovelhas, tu o consagrarás a Iahweh teu Deus. Não trabalharás com o primogênito das tuas vacas, nem tosquiarás o primogênito das tuas ovelhas.",
+      "reference": "Dt 15:19"
+    },
+    "20": {
+      "text": "Tu o comerás em cada ano diante de Iahweh teu Deus, tu e a tua casa, no lugar que Iahweh houver escolhido.",
+      "reference": "Dt 15:20"
+    },
+    "21": {
+      "text": "Se ele tiver algum defeito – se for manco ou cego, ou tiver algum outro defeito grave –, não o sacrificarás a Iahweh teu Deus;",
+      "reference": "Dt 15:21"
+    },
+    "22": {
+      "text": "poderás comê-lo em tua cidade, o puro junto com o impuro, como a gazela ou o cervo.",
+      "reference": "Dt 15:22"
+    },
+    "23": {
+      "text": "Não comerás, porém, o seu sangue: derrama-o por terra como água. \\par",
+      "reference": "Dt 15:23"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 23
+}

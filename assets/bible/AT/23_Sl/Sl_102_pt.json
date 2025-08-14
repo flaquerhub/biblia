@@ -1,0 +1,129 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 102,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 102 (101)\\par }{\\qc\\b\\i Oração na infelicidade\\par }{\\qc\\i Prece de um infeliz que, desfalecido, derrama sua lamentação diante de Iahweh.\\par }",
+      "reference": "Sl 102:1"
+    },
+    "2": {
+      "text": "Ouve a minha prece, Iahweh, \\par que o meu grito chegue a ti! \\par",
+      "reference": "Sl 102:2"
+    },
+    "3": {
+      "text": "Não escondas tua face de mim \\par no dia da minha angústia; \\par inclina o teu ouvido para mim, \\par no dia em que te invoco, responde-me depressa! \\par",
+      "reference": "Sl 102:3"
+    },
+    "4": {
+      "text": "Pois meus dias se consomem em fumaça, \\par como braseiro queimam meus ossos; \\par",
+      "reference": "Sl 102:4"
+    },
+    "5": {
+      "text": "pisado como relva, meu coração está secando, \\par até mesmo de comer meu pão eu me esqueço; \\par",
+      "reference": "Sl 102:5"
+    },
+    "6": {
+      "text": "por causa da violência do meu grito \\par os ossos já se apegam à minha pele. \\par",
+      "reference": "Sl 102:6"
+    },
+    "7": {
+      "text": "Estou como o pelicano do deserto, \\par como o mocho das ruínas; \\par",
+      "reference": "Sl 102:7"
+    },
+    "8": {
+      "text": "fico desperto, gemendo, \\par como ave solitária no telhado; \\par",
+      "reference": "Sl 102:8"
+    },
+    "9": {
+      "text": "meus inimigos me ultrajam todo o dia, \\par os que me louvavam agora juram contra mim. \\par",
+      "reference": "Sl 102:9"
+    },
+    "10": {
+      "text": "Eu como cinza em vez de pão, \\par com minha bebida misturo lágrimas, \\par",
+      "reference": "Sl 102:10"
+    },
+    "11": {
+      "text": "por causa da tua cólera e do teu furor, \\par pois me elevaste e me lançaste ao chão; \\par",
+      "reference": "Sl 102:11"
+    },
+    "12": {
+      "text": "meus dias estão como a sombra que se expande, \\par e eu vou secando, como a relva. \\par",
+      "reference": "Sl 102:12"
+    },
+    "13": {
+      "text": "Porém tu, Iahweh, estás entronizado para sempre, \\par e tua lembrança passa de geração em geração! \\par",
+      "reference": "Sl 102:13"
+    },
+    "14": {
+      "text": "Tu te levantarás, enternecido por Sião, \\par pois é tempo de teres piedade dela; \\par sim, chegou a hora, \\par",
+      "reference": "Sl 102:14"
+    },
+    "15": {
+      "text": "porque os teus servos amam suas pedras, \\par compadecidos da sua poeira. \\par",
+      "reference": "Sl 102:15"
+    },
+    "16": {
+      "text": "As nações temerão o nome de Iahweh, \\par e os reis todos da terra a tua glória; \\par",
+      "reference": "Sl 102:16"
+    },
+    "17": {
+      "text": "quando Iahweh reconstruir Sião, \\par ele aparecerá com sua glória; \\par",
+      "reference": "Sl 102:17"
+    },
+    "18": {
+      "text": "ele se voltará para a prece do desamparado, \\par e não desprezará a sua prece. \\par",
+      "reference": "Sl 102:18"
+    },
+    "19": {
+      "text": "Isto será escrito para a geração futura \\par e um povo recriado louvará a Deus: \\par",
+      "reference": "Sl 102:19"
+    },
+    "20": {
+      "text": "Iahweh se inclinou do seu alto santuário, \\par e do céu contemplou a terra, \\par",
+      "reference": "Sl 102:20"
+    },
+    "21": {
+      "text": "para ouvir o gemido dos prisioneiros \\par e libertar os condenados à morte, \\par",
+      "reference": "Sl 102:21"
+    },
+    "22": {
+      "text": "para proclamar em Sião o nome de Iahweh, \\par e em Jerusalém o seu louvor, \\par",
+      "reference": "Sl 102:22"
+    },
+    "23": {
+      "text": "quando se unirem povos e reinos \\par para servir a Iahweh. \\par",
+      "reference": "Sl 102:23"
+    },
+    "24": {
+      "text": "Minha força esgotou-se no caminho. \\par O número pequeno dos meus dias",
+      "reference": "Sl 102:24"
+    },
+    "25": {
+      "text": "conta-me! \\par Não me arrebates na metade dos meus dias, \\par gerações de gerações duram teus anos! \\par",
+      "reference": "Sl 102:25"
+    },
+    "26": {
+      "text": "Firmaste a terra há muito tempo, \\par e o céu é obra de tuas mãos; \\par",
+      "reference": "Sl 102:26"
+    },
+    "27": {
+      "text": "eles perecem, mas tu permaneces, \\par eles todos ficam gastos como a roupa, \\par tu os mudarás como veste, eles ficarão mudados; \\par",
+      "reference": "Sl 102:27"
+    },
+    "28": {
+      "text": "mas tu existes, e teus anos jamais findarão! \\par",
+      "reference": "Sl 102:28"
+    },
+    "29": {
+      "text": "Os filhos dos teus servos habitarão seguros, \\par e sua descendência se manterá em tua presença. \\par",
+      "reference": "Sl 102:29"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 29
+}

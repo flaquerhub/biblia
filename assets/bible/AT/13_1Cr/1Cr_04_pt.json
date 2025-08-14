@@ -1,0 +1,185 @@
+{
+  "book": 13,
+  "book_name": "1Crônicas",
+  "book_abbr": "1Cr",
+  "book_category": "Histórico",
+  "book_english": "1 Chronicles",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 4. AS TRIBOS MERIDIONAIS\\par }{\\qc\\b\\i Judá. Sobal\\par }Filhos de Judá: Farés, Hesron, Carmi, Hur, Sobal.",
+      "reference": "1Cr 4:1"
+    },
+    "2": {
+      "text": "Reaías, filho de Sobal, gerou Jaat, e Jaat gerou Aumai e Laad. São essas as tribos saraítas. \\par",
+      "reference": "1Cr 4:2"
+    },
+    "3": {
+      "text": "\\par {\\qc\\b\\i Hur\\par }Eis Abi-Etam, Jezrael, Jesema, Jedebos, cuja irmã se chamava Asalelfuni. \\par",
+      "reference": "1Cr 4:3"
+    },
+    "4": {
+      "text": "Fanuel foi o pai de Gedor; Ezer pai de Hosa. \\par São esses os filhos de Hur, primogênito de Éfrata, pai de Belém. \\par",
+      "reference": "1Cr 4:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Asur\\par }Asur, pai de Técua, teve duas esposas: Halaá e Naara. \\par",
+      "reference": "1Cr 4:5"
+    },
+    "6": {
+      "text": "Naara lhe gerou Oozam, Héfer, os tamanitas e os aastaritas. São esses os filhos de Naara. \\par",
+      "reference": "1Cr 4:6"
+    },
+    "7": {
+      "text": "Filhos de Halaá: Seret, Saar, Etnã. \\par",
+      "reference": "1Cr 4:7"
+    },
+    "8": {
+      "text": "Cós gerou Anob, Soboba e os clãs de Aareel, filho de Arum.",
+      "reference": "1Cr 4:8"
+    },
+    "9": {
+      "text": "Jabes suplantou seus irmãos. Sua mãe deu-lhe o nome de Jabes, dizendo: “Dei à luz entre dores”.",
+      "reference": "1Cr 4:9"
+    },
+    "10": {
+      "text": "Jabes invocou o Deus de Israel: “Se efetivamente me abençoares”, disse ele, “aumentarás meu território, tua mão estará comigo, farás que se afaste o mal e minha dor terá fim”. Deus lhe concedeu o que pedira. \\par",
+      "reference": "1Cr 4:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Caleb\\par }Calub, irmão de Suaá, gerou Mair; esse é o pai de Eston.",
+      "reference": "1Cr 4:11"
+    },
+    "12": {
+      "text": "Eston gerou Bet-Rafa, Fesse, Teina, pai de Irnaás. São esses os homens de Recab. \\par",
+      "reference": "1Cr 4:12"
+    },
+    "13": {
+      "text": "Filhos de Cenez: Otoniel e Saraías. Filhos de Otoniel: Hatat e Maonati;",
+      "reference": "1Cr 4:13"
+    },
+    "14": {
+      "text": "Maonati gerou Ofra. Saraías gerou Joab, pai de Ge-Harasim. De fato eles eram artesãos. \\par",
+      "reference": "1Cr 4:14"
+    },
+    "15": {
+      "text": "Filhos de Caleb, filho de Jefoné: Hir, Ela e Naam. Filho de Ela: Cenez. \\par",
+      "reference": "1Cr 4:15"
+    },
+    "16": {
+      "text": "Filhos de Jaleleel: Zif, Zifa, Tirias, Asrael. \\par",
+      "reference": "1Cr 4:16"
+    },
+    "17": {
+      "text": "Filhos de Ezra: Jeter, Mered, Éfer, Jalon. Mais tarde, ela concebeu Maria, Samai e Jesba, pai de Estemo;",
+      "reference": "1Cr 4:17"
+    },
+    "18": {
+      "text": "sua mulher judaíta deu à luz Jared, pai de Gedor, Héber, pai de Soco, e Icutiel, pai de Zanoe. São esses os filhos de Betias, a filha do Faraó, com a qual se casara Mered. \\par",
+      "reference": "1Cr 4:18"
+    },
+    "19": {
+      "text": "Filhos da mulher de Odias, irmã de Naam, pai de Ceila, o garmita, e de Estemo, o maacatita. \\par",
+      "reference": "1Cr 4:19"
+    },
+    "20": {
+      "text": "Filhos de Simão: Amnon, Rina, Ben-Hanã, Tilon. \\par Filhos de Jesi: Zoet e Ben-Zoet. \\par",
+      "reference": "1Cr 4:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Sela\\par }Filhos de Sela, filho de Judá: Her, pai de Leca; Laada, pai de Maresa, e os clãs dos fabricantes de linho em Bet-Asbea,",
+      "reference": "1Cr 4:21"
+    },
+    "22": {
+      "text": "Joaquim, os homens de Cozeba, Joás e Saraf, que foram se casar em Moab, antes de voltarem a Belém. (Tais fatos são antigos.)",
+      "reference": "1Cr 4:22"
+    },
+    "23": {
+      "text": "Eles eram oleiros e moravam em Nataim e Gadera, em companhia do rei, para quem trabalhavam. \\par",
+      "reference": "1Cr 4:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i Simeão\\par }Filhos de Simeão: Namuel, Jamin, Jarib, Zara, Saul.",
+      "reference": "1Cr 4:24"
+    },
+    "25": {
+      "text": "Selum, seu filho; Mabsam, seu filho; Masma, seu filho.",
+      "reference": "1Cr 4:25"
+    },
+    "26": {
+      "text": "Filhos de Masma: Hamuel, seu filho; Zacur, seu filho; Semei, seu filho.",
+      "reference": "1Cr 4:26"
+    },
+    "27": {
+      "text": "Semei teve dezesseis filhos e seis filhas, mas seus irmãos não tiveram muitos filhos e, no conjunto, suas famílias não se multiplicaram como os filhos de Judá. \\par",
+      "reference": "1Cr 4:27"
+    },
+    "28": {
+      "text": "Moravam em Bersabéia, Molada e Hasar-Sual,",
+      "reference": "1Cr 4:28"
+    },
+    "29": {
+      "text": "Bala, Asem e Tolad,",
+      "reference": "1Cr 4:29"
+    },
+    "30": {
+      "text": "Batuel, Horma e Siceleg,",
+      "reference": "1Cr 4:30"
+    },
+    "31": {
+      "text": "Bet-Marcabot, Hasar-Susim, Bet-Berai, Saarim. Foram essas as suas cidades, até o reinado de Davi.",
+      "reference": "1Cr 4:31"
+    },
+    "32": {
+      "text": "Suas aldeias foram: Etam, Aen, Remon, Toquem e Asã, cinco cidades",
+      "reference": "1Cr 4:32"
+    },
+    "33": {
+      "text": "e todas as aldeias ao redor dessas cidades até Baalat. Foi lá que eles moraram e lá foram registrados:",
+      "reference": "1Cr 4:33"
+    },
+    "34": {
+      "text": "Masobab, Jemlec, Josa, filho de Amasias,",
+      "reference": "1Cr 4:34"
+    },
+    "35": {
+      "text": "Joel, Jeú, filho de Josabias, filho de Saraías, filho de Asiel,",
+      "reference": "1Cr 4:35"
+    },
+    "36": {
+      "text": "Elioenai, Jacoba, Isuaías, Asaías, Adiel, Isimiel, Banaías,",
+      "reference": "1Cr 4:36"
+    },
+    "37": {
+      "text": "Ziza, Ben-Sefei, Ben-Alon, Ben-Jedaías, Ben-Semri, Ben-Samaías.",
+      "reference": "1Cr 4:37"
+    },
+    "38": {
+      "text": "Esses homens, citados nominalmente, eram príncipes em seus clãs e suas famílias cresceram enormemente.",
+      "reference": "1Cr 4:38"
+    },
+    "39": {
+      "text": "Percorreram desde o passo de Gerara até o oriente do vale, procurando pastagens para seu gado.",
+      "reference": "1Cr 4:39"
+    },
+    "40": {
+      "text": "Encontraram pastagens boas e abundantes; a região era vasta, tranqüila e pacífica. Eram camitas os que habitavam lá antes. \\par",
+      "reference": "1Cr 4:40"
+    },
+    "41": {
+      "text": "Os simeonitas, inscritos por seus nomes, chegaram no tempo de Ezequias, rei de Judá; apoderaram-se de suas tendas e dos abrigos que lá se achavam. Votaram-nos a um anátema que dura ainda em nossos dias, e se estabeleceram em seu lugar, pois lá havia pastagens para o seu rebanho. \\par",
+      "reference": "1Cr 4:41"
+    },
+    "42": {
+      "text": "Alguns deles, pertencentes aos filhos de Simeão, foram para a montanha de Seir: quinhentos homens comandados por Faltias, Naarias, Rafaías, Oziel, os filhos de Jesi.",
+      "reference": "1Cr 4:42"
+    },
+    "43": {
+      "text": "Abateram o resto dos sobreviventes de Amalec e fizeram lá sua morada, até nossos dias. \\par",
+      "reference": "1Cr 4:43"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 43
+}

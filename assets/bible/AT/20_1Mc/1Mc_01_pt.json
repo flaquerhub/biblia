@@ -1,0 +1,269 @@
+{
+  "book": 72,
+  "book_name": "1Macabeus",
+  "book_abbr": "1Mc",
+  "book_category": "Deuterocanônicos",
+  "book_english": "1 Maccabees",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i I. Preâmbulo}\\par }{\\qc\\b\\i Alexandre e os Diádocos\\par }Depois que Alexandre, filho de Filipe, macedônio saído da terra de Cetim, venceu Dario, rei dos persas e dos medos, tornou-se rei em seu lugar, começando pela Hélade.",
+      "reference": "1Mc 1:1"
+    },
+    "2": {
+      "text": "Empreendeu, então, numerosas guerras, apoderou-se de fortalezas e eliminou os reis da terra.",
+      "reference": "1Mc 1:2"
+    },
+    "3": {
+      "text": "Avançou até às extremidades do mundo e tomou os despojos de uma multidão de povos, e a terra silenciou diante dele. Assim exaltado, seu coração se elevou.",
+      "reference": "1Mc 1:3"
+    },
+    "4": {
+      "text": "E recrutou um exército sobremaneira poderoso, submetendo províncias, nações e soberanos, que se tornaram seus tributários.",
+      "reference": "1Mc 1:4"
+    },
+    "5": {
+      "text": "Depois disso tudo, caiu doente e percebeu que ia morrer.",
+      "reference": "1Mc 1:5"
+    },
+    "6": {
+      "text": "Convocou então seus oficiais, os nobres que tinham com ele convivido desde a mocidade e, estando ainda em vida, repartiu entre eles o reino.",
+      "reference": "1Mc 1:6"
+    },
+    "7": {
+      "text": "Alexandre havia reinado por doze anos quando morreu.",
+      "reference": "1Mc 1:7"
+    },
+    "8": {
+      "text": "Seus oficiais tomaram o poder, cada qual no lugar que lhe coube.",
+      "reference": "1Mc 1:8"
+    },
+    "9": {
+      "text": "Todos cingiram o diadema após sua morte e, depois deles, seus filhos, durante muitos anos. E multiplicaram os males sobre a terra. \\par",
+      "reference": "1Mc 1:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Antíoco Epífanes e a penetração do helenismo em Israel\\par }Deles saiu aquele rebento ímpio, Antíoco Epífanes, filho do rei Antíoco. Ele tinha estado em Roma como refém e se tornara rei no ano cento e trinta e sete da dominação dos gregos.",
+      "reference": "1Mc 1:10"
+    },
+    "11": {
+      "text": "Por esses dias apareceu em Israel uma geração de perversos, que seduziram a muitos com estas palavras: “Vamos, façamos aliança com as nações circunvizinhas, pois muitos males caíram sobre nós desde que delas nos separamos”.",
+      "reference": "1Mc 1:11"
+    },
+    "12": {
+      "text": "Agradou-lhes tal modo de falar.",
+      "reference": "1Mc 1:12"
+    },
+    "13": {
+      "text": "E alguns dentre o povo apressaram-se em ir ter com o rei, o qual lhes deu autorização para observarem os preceitos dos gentios.",
+      "reference": "1Mc 1:13"
+    },
+    "14": {
+      "text": "Constuíram, então, em Jerusalém, uma praça de esportes, segundo os costumes das nações,",
+      "reference": "1Mc 1:14"
+    },
+    "15": {
+      "text": "restabeleceram seus prepúcios e renegaram a aliança sagrada. Assim associaram-se aos gentios e se venderam para fazer o mal. \\par",
+      "reference": "1Mc 1:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Primeira campanha no Egito e saque no Templo\\par }Ora, quando Antíoco se viu consolidado no seu trono, pretendeu apoderar-se também do Egito, a fim de reinar sobre os dois reinos.",
+      "reference": "1Mc 1:16"
+    },
+    "17": {
+      "text": "Invadiu, pois, o Egito à frente de um exército poderoso, com carros, elefantes (e cavaleiros) e uma grande esquadra,",
+      "reference": "1Mc 1:17"
+    },
+    "18": {
+      "text": "entrou em combate com o rei do Egito, Ptolomeu, o qual recuou diante dele e fugiu, muitos tombando feridos.",
+      "reference": "1Mc 1:18"
+    },
+    "19": {
+      "text": "As cidades fortificadas do Egito foram tomadas e Antíoco apoderou-se dos despojos do país.",
+      "reference": "1Mc 1:19"
+    },
+    "20": {
+      "text": "Tendo assim vencido o Egito no ano cento e quarenta e três e empreendendo o caminho da volta, subiu contra Israel e contra Jerusalém com um exército numeroso. \\par",
+      "reference": "1Mc 1:20"
+    },
+    "21": {
+      "text": "Entrando com arrogância no Santuário, apoderou-se do altar de ouro, do candelabro com todos os seus acessórios,",
+      "reference": "1Mc 1:21"
+    },
+    "22": {
+      "text": "da mesa da proposição, das vasilhas para as libações, das taças, dos incensórios de ouro, do véu, das coroas, da decoração de ouro sobre a fachada do Templo: tudo ele despojou.",
+      "reference": "1Mc 1:22"
+    },
+    "23": {
+      "text": "Tomou, além disso, a prata, o ouro, os utensílios preciosos e os tesouros secretos que conseguiu descobrir.",
+      "reference": "1Mc 1:23"
+    },
+    "24": {
+      "text": "Carregando tudo isso, partiu para o seu país, depois de ter derramado muito sangue e proferido palavras de extrema arrogância. \\par",
+      "reference": "1Mc 1:24"
+    },
+    "25": {
+      "text": "Por isso levantou-se grande lamentação sobre Israel em todas as localidades do país: \\par",
+      "reference": "1Mc 1:25"
+    },
+    "26": {
+      "text": "Chefes e anciãos gemeram, \\par moças e moços perderam seu vigor, \\par murchou a beleza das mulheres. \\par",
+      "reference": "1Mc 1:26"
+    },
+    "27": {
+      "text": "Todo recém-casado entoou uma elegia, \\par ficou de luto a esposa em sua câmara nupcial. \\par",
+      "reference": "1Mc 1:27"
+    },
+    "28": {
+      "text": "A terra estremeceu por causa de seus habitantes, \\par e toda a casa de Jacó se cobriu de vergonha. \\par",
+      "reference": "1Mc 1:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Intervenção do Misarca e construção da Cidadela\\par }Dois anos depois, o rei enviou para as cidades de Judá o Misarca, que veio de Jerusalém com um grande exército.",
+      "reference": "1Mc 1:29"
+    },
+    "30": {
+      "text": "Dirigindo-se aos habitantes com palavras enganosas de paz, ganhou-lhes a confiança e, de repente, caiu sobre a cidade, golpeou-a duramente e chacinou a muitos de Israel.",
+      "reference": "1Mc 1:30"
+    },
+    "31": {
+      "text": "Saqueada a cidade, entregou-a às chamas e destruiu-lhe as casas e as muralhas.",
+      "reference": "1Mc 1:31"
+    },
+    "32": {
+      "text": "Levaram prisioneiras as mulheres e as crianças e apoderaram-se do gado.",
+      "reference": "1Mc 1:32"
+    },
+    "33": {
+      "text": "Então reconstruíram a Cidade de Davi, dotando-a de grande e sólida muralha e de torres fortificadas, e dela fizeram a sua Cidadela.",
+      "reference": "1Mc 1:33"
+    },
+    "34": {
+      "text": "Povoaram-na de gente ímpia, homens perversos, e nela se fortificaram.",
+      "reference": "1Mc 1:34"
+    },
+    "35": {
+      "text": "Abasteceram-na de armas e víveres e nela depositaram os despojos tomados em Jerusalém, tornando-se assim uma armadilha enorme para nós. \\par",
+      "reference": "1Mc 1:35"
+    },
+    "36": {
+      "text": "Aquilo era uma emboscada para o lugar santo, \\par um adversário maléfico para Israel constantemente.\\par",
+      "reference": "1Mc 1:36"
+    },
+    "37": {
+      "text": "Derramaram sangue inocente em redor do Santuário, \\par e ao Santuário profanaram. \\par",
+      "reference": "1Mc 1:37"
+    },
+    "38": {
+      "text": "Por sua causa fugiram os habitantes de Jerusalém \\par e ela transformou-se em habitação de estrangeiros. \\par Jerusalém tornou-se estranha à sua progênie \\par e seus próprios filhos a abandonaram. \\par",
+      "reference": "1Mc 1:38"
+    },
+    "39": {
+      "text": "Seu Santuário ficou desolado como um deserto, \\par suas festas converteram-se em luto, \\par seus sábados em injúria, \\par sua honra em vilipêndio. \\par",
+      "reference": "1Mc 1:39"
+    },
+    "40": {
+      "text": "À sua glória igualou-se a ignomínia \\par e sua exaltação mudou-se em pranto. \\par",
+      "reference": "1Mc 1:40"
+    },
+    "41": {
+      "text": "\\par {\\qc\\b\\i Instalação dos cultos pagãos\\par }O rei prescreveu, em seguido, a todo o seu reino, que todos formassem um só povo,",
+      "reference": "1Mc 1:41"
+    },
+    "42": {
+      "text": "renunciando cada qual a seus costumes particulares. E todos os gentios conformaram-se ao decreto do rei.",
+      "reference": "1Mc 1:42"
+    },
+    "43": {
+      "text": "Também muitos de Israel comprouveram-se no culto dele, sacrificando aos ídolos e profanando o sábado.",
+      "reference": "1Mc 1:43"
+    },
+    "44": {
+      "text": "Além disso, o rei enviou, por emissários, a Jerusalém e às cidades de Judá, ordens escritas para que todos adotassem os costumes estranhos a seu país",
+      "reference": "1Mc 1:44"
+    },
+    "45": {
+      "text": "e impedissem os holocaustos, o sacrifício e as libações no Santuário, profanassem sábados e festas,",
+      "reference": "1Mc 1:45"
+    },
+    "46": {
+      "text": "contaminassem o Santuário e tudo o que é santo,",
+      "reference": "1Mc 1:46"
+    },
+    "47": {
+      "text": "construíssem altares, recintos e oratórios para os ídolos e imolassem porcos e animais impuros.",
+      "reference": "1Mc 1:47"
+    },
+    "48": {
+      "text": "Que deixassem, também, incircuncisos seus filhos e se tornassem abomináveis por toda sorte de impurezas e profanações,",
+      "reference": "1Mc 1:48"
+    },
+    "49": {
+      "text": "de tal modo que se olvidassem assim da Lei e subvertessem todas as observâncias.",
+      "reference": "1Mc 1:49"
+    },
+    "50": {
+      "text": "Quanto a quem não agisse conforme a ordem do rei, esse incorreria em pena de morte.",
+      "reference": "1Mc 1:50"
+    },
+    "51": {
+      "text": "Nesses termos ele escreveu a todo o seu reino, nomeou inspetores para todo o povo e ordenou às cidades de Judá que oferecessem sacrifícios cada uma por sua vez.",
+      "reference": "1Mc 1:51"
+    },
+    "52": {
+      "text": "Muitos dentre o povo aderiram a eles, todos os que eram desertores da Lei. E praticaram o mal no país,",
+      "reference": "1Mc 1:52"
+    },
+    "53": {
+      "text": "reduzindo Israel a ter de se ocultar onde quer que encontrasse refúgio. \\par",
+      "reference": "1Mc 1:53"
+    },
+    "54": {
+      "text": "No décimo quinto dia do mês de Casleu do ano cento e quarenta e cinco, o rei fez construir, sobre o altar dos holocaustos, a Abominação da desolação. Também nas outras cidades de Judá erigiram-se altares",
+      "reference": "1Mc 1:54"
+    },
+    "55": {
+      "text": "e às portas das casas e nas praças queimava-se incenso.",
+      "reference": "1Mc 1:55"
+    },
+    "56": {
+      "text": "Quanto aos livros da Lei, os que lhes caíam nas mãos eram rasgados e lançados ao fogo.",
+      "reference": "1Mc 1:56"
+    },
+    "57": {
+      "text": "Onde quer que se encontrasse, em casa de alguém, um livro da Aliança ou se alguém se conformasse à Lei, o decreto real o condenava à morte.",
+      "reference": "1Mc 1:57"
+    },
+    "58": {
+      "text": "Na sua prepotência assim procediam, contra Israel, com todos aqueles que fossem descobertos, mês por mês, nas cidades.",
+      "reference": "1Mc 1:58"
+    },
+    "59": {
+      "text": "No dia vinte e cinco de cada mês, ofereciam-se sacrifícios no altar levantado sobre o altar dos holocaustos.",
+      "reference": "1Mc 1:59"
+    },
+    "60": {
+      "text": "Quanto às mulheres que haviam feito circuncidar seus filhos, eles, cumprindo o decreto, as executavam",
+      "reference": "1Mc 1:60"
+    },
+    "61": {
+      "text": "com os mesmo filhinhos pendurados a seus pescoços, e ainda com os seus familiares e com aqueles que haviam operado a circuncisão. \\par",
+      "reference": "1Mc 1:61"
+    },
+    "62": {
+      "text": "Apesar de tudo, muitos em Israel ficaram firmes e se mostraram irredutíveis em não comerem nada de impuro.",
+      "reference": "1Mc 1:62"
+    },
+    "63": {
+      "text": "Aceitaram antes morrer que contaminar-se com os alimentos e profanar a Aliança sagrada, como de fato morreram.",
+      "reference": "1Mc 1:63"
+    },
+    "64": {
+      "text": "Foi sobremaneira grande a ira que se abateu sobre Israel. \\par",
+      "reference": "1Mc 1:64"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 64
+}

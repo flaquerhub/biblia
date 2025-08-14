@@ -1,0 +1,53 @@
+{
+  "book": 32,
+  "book_name": "Jonas",
+  "book_abbr": "Jn",
+  "book_category": "Profético",
+  "book_english": "Jonah",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Conversão de Nínive e perdão divino\\par }A palavra de Iahweh foi dirigida a Jonas uma segunda vez:",
+      "reference": "Jn 3:1"
+    },
+    "2": {
+      "text": "“Levanta-te, vai a Nínive, a grande cidade, e anuncia-lhe a mensagem que eu te disser”.",
+      "reference": "Jn 3:2"
+    },
+    "3": {
+      "text": "Jonas levantou-se e foi a Nínive, conforme a palavra de Iahweh. Nínive era uma cidade muito grande, de três dias de marcha.",
+      "reference": "Jn 3:3"
+    },
+    "4": {
+      "text": "Jonas entrou na cidade e a percorreu durante um dia. Pregou então, dizendo: “Ainda quarenta dias, e Nínive será destruída”.",
+      "reference": "Jn 3:4"
+    },
+    "5": {
+      "text": "Os homens de Nínive creram em Deus, convocaram um jejum e vestiram-se de panos de saco, desde o maior até o menor.",
+      "reference": "Jn 3:5"
+    },
+    "6": {
+      "text": "A notícia chegou ao rei de Nínive. Ele levantou-se do seu trono, tirou o seu manto, cingiu-se com um pano de saco e assentou-se sobre a cinza.",
+      "reference": "Jn 3:6"
+    },
+    "7": {
+      "text": "Em seguida, fez proclamar em Nínive como decreto do rei e de seus grandes: “Homens e animais, gado graúdo e miúdo, não provarão nada! Eles não pastarão e não beberão água.",
+      "reference": "Jn 3:7"
+    },
+    "8": {
+      "text": "Cobrir-se-ão de panos de saco, invocarão a Deus com vigor e se converterá cada qual de seu caminho perverso e da violência que está em suas mãos.",
+      "reference": "Jn 3:8"
+    },
+    "9": {
+      "text": "Quem sabe? Talvez Deus volte atrás, arrependa-se e revogue o ardor de sua ira, de modo que não pereçamos!”",
+      "reference": "Jn 3:9"
+    },
+    "10": {
+      "text": "E Deus viu as suas obras: que eles se converteram de seu caminho perverso, e Deus arrependeu-se do mal que ameaçara fazer-lhes e não fez. \\par",
+      "reference": "Jn 3:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

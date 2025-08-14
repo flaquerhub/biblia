@@ -1,0 +1,81 @@
+{
+  "book": 66,
+  "book_name": "Apocalipse",
+  "book_abbr": "Ap",
+  "book_category": "Profético NT",
+  "book_english": "Revelation",
+  "testament": "NT",
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os que servem a Deus serão preservados\\par }Depois disso, vi quatro Anjos, postados nos {\\i quatro cantos da terra}, segurando os quatro ventos da terra, para que o vento não soprasse sobre a terra, sobre o mar ou sobre alguma árvore.",
+      "reference": "Ap 7:1"
+    },
+    "2": {
+      "text": "Vi também outro Anjo que subia do Oriente com o selo do Deus vivo. Esse gritou em alta voz aos quatro Anjos que haviam sido encarregados de fazer mal à terra e ao mar:",
+      "reference": "Ap 7:2"
+    },
+    "3": {
+      "text": "“Não danifiqueis a terra, o mar e as árvores, até que tenhamos {\\i marcado a fronte} dos servos do nosso Deus”.",
+      "reference": "Ap 7:3"
+    },
+    "4": {
+      "text": "Ouvi então o número dos que tinham sido marcados: cento e quarenta e quatro mil, de todas as tribos dos filhos de Israel.",
+      "reference": "Ap 7:4"
+    },
+    "5": {
+      "text": "Da tribo de Judá, doze mil foram marcados; da tribo de Rúben, doze mil; da tribo de Gad, doze mil;",
+      "reference": "Ap 7:5"
+    },
+    "6": {
+      "text": "da tribo de Aser, doze mil; da tribo de Neftali, doze mil; da tribo de Manassés, doze mil;",
+      "reference": "Ap 7:6"
+    },
+    "7": {
+      "text": "da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil;",
+      "reference": "Ap 7:7"
+    },
+    "8": {
+      "text": "da tribo de Zabulon, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil foram marcados. \\par",
+      "reference": "Ap 7:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i O triunfo dos eleitos no céu\\par }Depois disso, eis que vi uma grande multidão, que ninguém podia contar, de todas as nações, tribos, povos e línguas. Estavam de pé diante do trono e diante do Cordeiro, trajados com vestes brancas e com palmas na mão.",
+      "reference": "Ap 7:9"
+    },
+    "10": {
+      "text": "E, em alta voz, proclamavam: \\par “A salvação pertence ao nosso deus, \\par que está sentado no trono, e ao Cordeiro!” \\par",
+      "reference": "Ap 7:10"
+    },
+    "11": {
+      "text": "E todos os Anjos que estavam ao redor do trono, dos Anciãos e dos quatro Seres vivos se prostraram diante do trono para adorar a Deus.",
+      "reference": "Ap 7:11"
+    },
+    "12": {
+      "text": "E diziam: \\par “Amém! O louvor, a glória, a sabedoria, \\par a ação de graças, a honra, o poder e a força \\par pertencem ao nosso Deus pelos séculos dos séculos. Amém!” \\par",
+      "reference": "Ap 7:12"
+    },
+    "13": {
+      "text": "Um dos Anciãos tomou a palavra e disse-me: “Estes que estão trajados com vestes brancas, quem são e de onde vieram?”",
+      "reference": "Ap 7:13"
+    },
+    "14": {
+      "text": "Eu lhe respondi: “Meu Senhor, és tu quem o sabe!” Ele, então, me explicou: “Estes são os que vêm da grande tribulação: lavaram suas vestes e alvejaram-nas no sangue do Cordeiro. \\par",
+      "reference": "Ap 7:14"
+    },
+    "15": {
+      "text": "É por isso que estão diante do trono de Deus, \\par servindo-o dia e noite em seu templo. \\par Aquele que está sentado no trono \\par estenderá sua tenda sobre eles: \\par",
+      "reference": "Ap 7:15"
+    },
+    "16": {
+      "text": "{\\i nunca mais terão fome, nem sede, \\par o sol nunca mais os afligirá, \\par nem qualquer calor ardente}; \\par",
+      "reference": "Ap 7:16"
+    },
+    "17": {
+      "text": "pois o Cordeiro que está no meio do trono \\par {\\i os apascentará, conduzindo-os até às fontes \\par de água} da vida. \\par E Deus {\\i enxugará toda lágrima de seus olhos}”. \\par",
+      "reference": "Ap 7:17"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 17
+}

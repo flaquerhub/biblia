@@ -1,0 +1,89 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Cuidareis de pôr em prática tudo o que eu vos ordeno. Nada acrescentarás e nada tirarás! \\par",
+      "reference": "Dt 13:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Contra as seduções da idolatria\\par }Quando surgir em teu meio um profeta ou um intérprete de sonhos, e te apresentar um sinal ou um prodígio, –",
+      "reference": "Dt 13:2"
+    },
+    "3": {
+      "text": "se este sinal ou prodígio que ele anunciou se realiza e ele te diz: ‘Vamos seguir outros deuses (que não conheceste) e servi-los’, –",
+      "reference": "Dt 13:3"
+    },
+    "4": {
+      "text": "não ouças as palavras desse profeta ou desse intérprete de sonhos. Porque é Iahweh vosso Deus que vos experimenta, para saber se de fato amais a Iahweh vosso Deus com todo o vosso coração e com todo o vosso ser.",
+      "reference": "Dt 13:4"
+    },
+    "5": {
+      "text": "Seguireis a Iahweh vosso Deus e a ele temereis, observareis seus mandamentos e obedecereis à sua voz, a ele servireis e a ele vos apegareis.",
+      "reference": "Dt 13:5"
+    },
+    "6": {
+      "text": "Quanto ao profeta ou intérprete de sonhos, deverá ser morto, pois pregou a rebeldia contra Iahweh vosso Deus, que vos fez sair da terra do Egito e vos resgatou da casa de escravidão, para te afastar do caminho em que Iahweh teu Deus te ordenou caminhar. Deste modo extirparás o mal do teu meio. \\par",
+      "reference": "Dt 13:6"
+    },
+    "7": {
+      "text": "Se teu irmão – filho do teu pai ou da tua mãe –, teu filho, tua filha, ou a mulher que repousa em teu seio, ou o amigo que é como tu mesmo, quiser te seduzir secretamente, dizendo: ‘Vamos servir a outros deuses’, deuses que nem tu nem teus pais conheceram,",
+      "reference": "Dt 13:7"
+    },
+    "8": {
+      "text": "– deuses de povos vizinhos, próximos ou distantes de ti, de uma extremidade da terra à outra, –",
+      "reference": "Dt 13:8"
+    },
+    "9": {
+      "text": "não lhe darás consentimento, não o ouvirás, e que teu olho não tenha piedade dele; não uses de misericórdia e não escondas o seu erro.",
+      "reference": "Dt 13:9"
+    },
+    "10": {
+      "text": "Pelo contrário: deverás matá-lo! Tua mão será a primeira a matá-lo e, a seguir, a mão de todo o povo.",
+      "reference": "Dt 13:10"
+    },
+    "11": {
+      "text": "Apedreja-o até que morra, pois tentou afastar-te de Iahweh teu Deus, que te fez sair da terra do Egito, da casa da escravidão.",
+      "reference": "Dt 13:11"
+    },
+    "12": {
+      "text": "E todo Israel ouvirá, ficará com medo e nunca mais se fará uma ação má como esta em teu meio. \\par",
+      "reference": "Dt 13:12"
+    },
+    "13": {
+      "text": "Caso ouças dizer que, numa das cidades que Iahweh teu Deus te dará para aí morar,",
+      "reference": "Dt 13:13"
+    },
+    "14": {
+      "text": "homens vagabundos, procedentes do teu meio, seduziram os habitantes da sua cidade, dizendo: ‘Vamos servir a outros deuses’, que não conhecestes,",
+      "reference": "Dt 13:14"
+    },
+    "15": {
+      "text": "deverás investigar, fazendo uma pesquisa e interrogando cuidadosamente. Caso seja verdade, se o fato for constatado, se esta abominação foi praticada em teu meio,",
+      "reference": "Dt 13:15"
+    },
+    "16": {
+      "text": "deverás então passar a fio de espada os habitantes daquela cidade. Tu a sacrificarás como anátema, juntamente com tudo o que nela existe.",
+      "reference": "Dt 13:16"
+    },
+    "17": {
+      "text": "Reunirás todos os seus despojos no meio da praça pública, e queimarás completamente a cidade e todos os seus despojos para Iahweh teu Deus. Ela ficará em ruínas para sempre e nunca mais será reconstruída.",
+      "reference": "Dt 13:17"
+    },
+    "18": {
+      "text": "Nada do que for sacrificado como anátema ficará em tua mão, para que Iahweh abandone o furor da sua cólera e te conceda o perdão, tenha piedade de ti e te multiplique, conforme jurou aos teus pais,",
+      "reference": "Dt 13:18"
+    },
+    "19": {
+      "text": "no caso de teres obedecido à voz de Iahweh teu Deus, observando todos os seus mandamentos, que hoje te ordeno, e praticando o que é reto aos olhos de Iahweh teu Deus. \\par",
+      "reference": "Dt 13:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

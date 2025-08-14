@@ -1,0 +1,153 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "Fixando os olhos no Sinédrio, Paulo assim falou: “Irmãos, é inteiramente em boa consciência que eu me tenho conduzido perante Deus, até o dia de hoje”.",
+      "reference": "At 23:1"
+    },
+    "2": {
+      "text": "Foi quando o sumo sacerdote Ananias mandou a seus assistentes que lhe batessem na boca.",
+      "reference": "At 23:2"
+    },
+    "3": {
+      "text": "Então lhe disse Paulo: “Deus vai ferir-te a ti, parede caiada! Tu te sentas para julgar-me segundo a Lei, e violando a Lei ordenas que me batam?”",
+      "reference": "At 23:3"
+    },
+    "4": {
+      "text": "Os que estavam a seu lado observaram-lhe: “Tu insultas o sumo sacerdote de Deus?”",
+      "reference": "At 23:4"
+    },
+    "5": {
+      "text": "Paulo respondeu: “Não sabia, irmãos, que este é o sumo sacerdote. Pois está escrito: {\\i Não amaldiçoarás o chefe do teu povo}”. \\par",
+      "reference": "At 23:5"
+    },
+    "6": {
+      "text": "A seguir, tendo conhecimento de que uma parte dos presentes eram saduceus e a outra parte eram fariseus, exclamou no Sinédrio: “Irmãos, eu sou fariseu, e filho de fariseus. É por nossa esperança, a ressurreição dos mortos, que estou sendo julgado”.",
+      "reference": "At 23:6"
+    },
+    "7": {
+      "text": "Apenas disse isto, formou-se um conflito entre fariseus e saduceus, e a assembléia se dividiu.",
+      "reference": "At 23:7"
+    },
+    "8": {
+      "text": "Pois os saduceus dizem que não há ressurreição, nem anjo nem espírito, enquanto os fariseus sustentam uma e outra coisa.",
+      "reference": "At 23:8"
+    },
+    "9": {
+      "text": "Levantou-se um vozerio enorme. Então, alguns escribas do partido dos fariseus puseram-se a protestar, dizendo: “Nenhum mal encontramos neste homem. E se lhe tivesse falado um espírito ou um anjo?”",
+      "reference": "At 23:9"
+    },
+    "10": {
+      "text": "Crescia em proporções o conflito. Receando o tribuno que Paulo viesse a ser estraçalhado por eles, ordenou que o destacamento descesse e o subtraísse ao meio deles, reconduzindo-o à fortaleza. \\par",
+      "reference": "At 23:10"
+    },
+    "11": {
+      "text": "Na noite seguinte, aproximou-se dele o Senhor e lhe disse: “Tem confiança! Assim como deste testemunho de mim em Jerusalém, é preciso que testemunhes também em Roma!” \\par",
+      "reference": "At 23:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Conjuração dos judeus contra Paulo\\par }Quando se fez dia, os judeus se reuniram e se comprometeram, sob anátema, a não comer nem beber enquanto não matassem Paulo.",
+      "reference": "At 23:12"
+    },
+    "13": {
+      "text": "Eram mais de quarenta os que fizeram esta conjuração.",
+      "reference": "At 23:13"
+    },
+    "14": {
+      "text": "Foram então procurar os chefes dos sacerdotes e os anciãos e lhes disseram: “Acabamos de jurar solenemente, sob anátema, que não tomaremos alimento algum enquanto não matarmos Paulo.",
+      "reference": "At 23:14"
+    },
+    "15": {
+      "text": "Agora, pois, vós com o Sinédrio, notificai ao tribuno que ele vo-lo traga, sob pretexto de quererdes examinar com mais exatidão a sua causa. Quanto a nós, estaremos prontos para matá-lo antes que chegue aqui.",
+      "reference": "At 23:15"
+    },
+    "16": {
+      "text": "Mas o filho da irmã de Paulo, tendo sabido da trama, foi à fortaleza, entrou e preveniu a Paulo.",
+      "reference": "At 23:16"
+    },
+    "17": {
+      "text": "Então este, chamado um dos centuriões, disse-lhe: “Leva o rapaz ao tribuno, porque tem algo a lhe comunicar”.",
+      "reference": "At 23:17"
+    },
+    "18": {
+      "text": "O centurião o conduziu, pois, ao tribuno, e disse a este: “O prisioneiro Paulo chamou-me e pediu que te trouxesse este jovem, o qual tem algo a te dizer”.",
+      "reference": "At 23:18"
+    },
+    "19": {
+      "text": "Tomando-o pela mão, o tribuno o levou à parte e perguntou-lhe: “Que é que tens a comunicar-me?”",
+      "reference": "At 23:19"
+    },
+    "20": {
+      "text": "Ele respondeu: “Os judeus combinaram pedir-te que amanhã faças descer Paulo ao Sinédrio, a pretexto de mais acuradamente examinarem a sua causa.",
+      "reference": "At 23:20"
+    },
+    "21": {
+      "text": "Tu, porém, não lhes dês crédito. Mais de quarenta dentre eles estão de emboscada contra ele, depois de terem jurado, sob anátema, não comer nem beber enquanto não o matarem. E agora estão de prontidão, apenas esperando a tua anuência”.",
+      "reference": "At 23:21"
+    },
+    "22": {
+      "text": "O tribuno despediu então o rapaz, tendo antes recomendado: “Não digas a ninguém que me trouxeste estas informações”. \\par",
+      "reference": "At 23:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i Transferência de Paulo para Cesaréia\\par }Chamou, depois, dois dos centuriões e ordenou-lhes: “Tende de prontidão, desde a terceira hora da noite, duzentos soldados, setenta cavaleiros e duzentos lanceiros, para irem até Cesaréia.",
+      "reference": "At 23:23"
+    },
+    "24": {
+      "text": "E também montarias, para que Paulo possa viajar e ser conduzido são e salvo ao governador Félix”. \\par",
+      "reference": "At 23:24"
+    },
+    "25": {
+      "text": "E escreveu uma carta do seguinte teor:",
+      "reference": "At 23:25"
+    },
+    "26": {
+      "text": "“Cláudio Lísias, ao excelentíssimo governador Félix, saudações!",
+      "reference": "At 23:26"
+    },
+    "27": {
+      "text": "Este homem, caído em poder dos judeus, estava prestes a ser morto por eles, quando acorri com a tropa e lho arranquei das mãos, ao saber que era cidadão romano.",
+      "reference": "At 23:27"
+    },
+    "28": {
+      "text": "Querendo averiguar o motivo por que o acusavam, fi-lo conduzir ao Sinédrio deles.",
+      "reference": "At 23:28"
+    },
+    "29": {
+      "text": "Verifiquei que era incriminado por questões referentes à Lei que os rege, nenhum crime havendo que justificasse morte ou prisão.",
+      "reference": "At 23:29"
+    },
+    "30": {
+      "text": "Tendo-me sido denunciada uma emboscada contra a sua vida, tratei de enviá-lo prontamente a ti, comunicando, porém, a seus acusadores que exponham diante de ti o que haja contra ele”. \\par",
+      "reference": "At 23:30"
+    },
+    "31": {
+      "text": "Os soldados, conforme lhes fora ordenado, tomaram Paulo e o conduziram de noite até Antipátrida.",
+      "reference": "At 23:31"
+    },
+    "32": {
+      "text": "No dia seguinte, deixando os cavaleiros seguirem viagem com ele, voltaram para a fortaleza.",
+      "reference": "At 23:32"
+    },
+    "33": {
+      "text": "Chegando a Cesaréia, os cavaleiros entregaram a carta ao governador e apresentaram-lhe Paulo.",
+      "reference": "At 23:33"
+    },
+    "34": {
+      "text": "Lida a carta, o governador quis saber da sua província de origem. Informado que era da Cilícia, disse-lhe:",
+      "reference": "At 23:34"
+    },
+    "35": {
+      "text": "“Ouvir-te-ei quando também teus acusadores tiverem chegado”. E mandou que ficasse detido no pretório de Herodes. \\par",
+      "reference": "At 23:35"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 35
+}

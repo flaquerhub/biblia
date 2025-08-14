@@ -1,0 +1,97 @@
+{
+  "book": 62,
+  "book_name": "1João",
+  "book_abbr": "1Jo",
+  "book_category": "Epístolas Joaninas",
+  "book_english": "1 John",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Todo o que crê que Jesus é o Cristo \\par nasceu de Deus, \\par e todo o que ama ao que gerou \\par ama também o que dele nasceu. \\par",
+      "reference": "1Jo 5:1"
+    },
+    "2": {
+      "text": "Nisto reconhecemos \\par que amamos os filhos de Deus: \\par quando amamos a Deus \\par e guardamos os seus mandamentos. \\par",
+      "reference": "1Jo 5:2"
+    },
+    "3": {
+      "text": "Pois este é o amor de Deus: \\par observar os seus mandamentos. \\par E os seus mandamentos não são pesados, \\par",
+      "reference": "1Jo 5:3"
+    },
+    "4": {
+      "text": "pois todo o que nasceu de Deus \\par vence o mundo. \\par E esta é a vitória que venceu o mundo: \\par a nossa fé. \\par",
+      "reference": "1Jo 5:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i À fonte da fé\\par }Quem é o vencedor do mundo, \\par se não aquele que crê que Jesus é o Filho de Deus? \\par",
+      "reference": "1Jo 5:5"
+    },
+    "6": {
+      "text": "Este é o que veio \\par pela água e pelo sangue: Jesus Cristo, \\par não com a água somente, \\par mas com a água e o sangue. \\par E é o Espírito que testemunha, \\par porque o Espírito é a Verdade. \\par",
+      "reference": "1Jo 5:6"
+    },
+    "7": {
+      "text": "Porque três são os que testemunham: \\par",
+      "reference": "1Jo 5:7"
+    },
+    "8": {
+      "text": "o Espírito, a água e o sangue, \\par e os três tendem ao mesmo fim. \\par",
+      "reference": "1Jo 5:8"
+    },
+    "9": {
+      "text": "Se aceitamos o testemunho dos homens, \\par o testemunho de Deus é maior. \\par Pois este é o testemunho de Deus: \\par testemunho que deu de seu Filho. \\par",
+      "reference": "1Jo 5:9"
+    },
+    "10": {
+      "text": "Aquele que crê no Filho de Deus \\par tem este testemunho em si mesmo. \\par Aquele que não crê em Deus \\par faz dele um mentiroso, \\par porque não crê no testemunho \\par que Deus deu em favor de seu Filho. \\par",
+      "reference": "1Jo 5:10"
+    },
+    "11": {
+      "text": "E o testemunho é este: \\par Deus nos deu a vida eterna \\par e esta vida está em seu Filho. \\par",
+      "reference": "1Jo 5:11"
+    },
+    "12": {
+      "text": "Quem tem o Filho tem a vida; \\par quem não tem o Filho não tem a vida. \\par",
+      "reference": "1Jo 5:12"
+    },
+    "13": {
+      "text": "Eu vos escrevi tudo isto \\par a vós que credes no nome do Filho de Deus, \\par para saberdes que tendes a vida eterna. \\par",
+      "reference": "1Jo 5:13"
+    },
+    "14": {
+      "text": "\\par {\\qc\\b {\\i Complementos}\\par }{\\qc\\b\\i A oração pelos pecadores\\par }Esta é a confiança que temos em Deus: \\par se lhe pedimos alguma coisa \\par segundo a sua vontade, \\par ele nos ouve. \\par",
+      "reference": "1Jo 5:14"
+    },
+    "15": {
+      "text": "E, se sabemos que ele nos ouve \\par em tudo o que lhe pedimos, \\par sabemos que possuímos \\par o que havíamos pedido. \\par",
+      "reference": "1Jo 5:15"
+    },
+    "16": {
+      "text": "Se alguém vê seu irmão \\par cometer um pecado que não conduz à morte, \\par que ele ore \\par e Deus dará a vida a este irmão, \\par se, de fato, o pecado cometido \\par não conduz à morte. \\par Existe um pecado que conduz à morte, \\par mas não é a respeito deste \\par que eu digo que se ore. \\par",
+      "reference": "1Jo 5:16"
+    },
+    "17": {
+      "text": "Toda iniqüidade é pecado, \\par mas há um pecado \\par que não conduz à morte. \\par",
+      "reference": "1Jo 5:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Resumo da epístola\\par }Nós sabemos que todo aquele \\par que nasceu de Deus não peca; \\par o Gerado por Deus o guarda \\par e o Maligno não o pode atingir. \\par",
+      "reference": "1Jo 5:18"
+    },
+    "19": {
+      "text": "Nós sabemos que somos de Deus \\par e que o mundo inteiro está sob o poder do Maligno. \\par",
+      "reference": "1Jo 5:19"
+    },
+    "20": {
+      "text": "Nós sabemos que veio o Filho de Deus \\par e nos deu a inteligência \\par para conhecermos o Verdadeiro. \\par E nós estamos no Verdadeiro, \\par no seu Filho Jesus Cristo. \\par Este é o Deus verdadeiro \\par e a Vida eterna. \\par",
+      "reference": "1Jo 5:20"
+    },
+    "21": {
+      "text": "Filhinhos, \\par guardai-vos dos ídolos... \\par",
+      "reference": "1Jo 5:21"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 21
+}

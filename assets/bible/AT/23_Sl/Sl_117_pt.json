@@ -1,0 +1,21 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 117,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 117 (116)\\par }{\\qc\\b\\i Convite ao louvor\\par }Aleluia!\\par Louvai a Iahweh, nações todas, \\par glorificai-o, todos os povos! \\par",
+      "reference": "Sl 117:1"
+    },
+    "2": {
+      "text": "Pois seu amor por nós é forte, \\par e sua verdade é para sempre! \\par",
+      "reference": "Sl 117:2"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 2
+}

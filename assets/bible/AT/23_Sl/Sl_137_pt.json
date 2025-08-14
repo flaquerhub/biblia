@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 137,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 137 (136)\\par }{\\qc\\b\\i Canto do exilado\\par }À beira dos canais de Babilônia \\par nos sentamos, e choramos \\par com saudades de Sião; \\par",
+      "reference": "Sl 137:1"
+    },
+    "2": {
+      "text": "nos salgueiros que ali estavam \\par penduramos nossas harpas. \\par",
+      "reference": "Sl 137:2"
+    },
+    "3": {
+      "text": "Lá, os que nos exilaram \\par pediam canções, \\par nossos raptores queriam alegria: \\par “Cantai-nos um canto de Sião!” \\par",
+      "reference": "Sl 137:3"
+    },
+    "4": {
+      "text": "Como poderíamos cantar \\par um canto de Iahweh \\par numa terra estrangeira? \\par",
+      "reference": "Sl 137:4"
+    },
+    "5": {
+      "text": "Se eu me esquecer de ti, Jerusalém, \\par que me seque a mão direita! \\par",
+      "reference": "Sl 137:5"
+    },
+    "6": {
+      "text": "Que me cole a língua ao paladar, \\par caso eu não me lembre de ti, \\par caso eu não eleve Jerusalém \\par ao topo da minha alegria! \\par",
+      "reference": "Sl 137:6"
+    },
+    "7": {
+      "text": "Iahweh, relembra \\par o dia de Jerusalém \\par aos filhos de Edom, \\par quando diziam: “Arrasai-a! \\par Arrasai-a até os alicerces!” \\par",
+      "reference": "Sl 137:7"
+    },
+    "8": {
+      "text": "Ó devastadora filha de Babel, \\par feliz quem devolver a ti \\par o mal que nos fizeste! \\par",
+      "reference": "Sl 137:8"
+    },
+    "9": {
+      "text": "Feliz quem agarrar e esmagar \\par teus nenês contra a rocha! \\par",
+      "reference": "Sl 137:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

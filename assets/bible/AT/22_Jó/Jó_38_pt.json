@@ -1,0 +1,177 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 38,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i IV. Os discursos de Iahweh}\\par PRIMEIRO DISCURSO\\par }{\\qc\\b\\i A sabedoria criadora confunde Jó\\par }Então Iahweh respondeu a Jó, do seio da tempestade, e disse: \\par",
+      "reference": "Jó 38:1"
+    },
+    "2": {
+      "text": "Quem é esse que obscurece meus desígnios \\par com palavras sem sentido? \\par",
+      "reference": "Jó 38:2"
+    },
+    "3": {
+      "text": "Cinge-te os rins, como um herói, \\par vou interrogar-te e tu me responderás. \\par",
+      "reference": "Jó 38:3"
+    },
+    "4": {
+      "text": "Onde estavas, quando lancei os fundamentos da terra? \\par Dize-mo, se é que sabes tanto. \\par",
+      "reference": "Jó 38:4"
+    },
+    "5": {
+      "text": "Quem lhe fixou as dimensões? – se o sabes –, \\par ou quem estendeu sobre ele a régua? \\par",
+      "reference": "Jó 38:5"
+    },
+    "6": {
+      "text": "Onde se encaixam suas bases, \\par ou quem assentou sua pedra angular, \\par",
+      "reference": "Jó 38:6"
+    },
+    "7": {
+      "text": "entre as aclamações dos astros da manhã \\par e o aplauso de todos os filhos de Deus? \\par",
+      "reference": "Jó 38:7"
+    },
+    "8": {
+      "text": "Quem fechou com portas o mar, \\par quando irrompeu jorrando do seio materno; \\par",
+      "reference": "Jó 38:8"
+    },
+    "9": {
+      "text": "quando lhe dei nuvens como vestidos \\par e espessas névoas como cueiros; \\par",
+      "reference": "Jó 38:9"
+    },
+    "10": {
+      "text": "quando lhe impus os limites \\par e lhe firmei porta e ferrolho, \\par",
+      "reference": "Jó 38:10"
+    },
+    "11": {
+      "text": "e disse: “Até aqui chegarás e não passarás: \\par aqui se quebrará a soberba de tuas vagas”? \\par",
+      "reference": "Jó 38:11"
+    },
+    "12": {
+      "text": "Alguma vez deste ordens à manhã, \\par ou indicaste à aurora um lugar, \\par",
+      "reference": "Jó 38:12"
+    },
+    "13": {
+      "text": "para agarrar as bordas da terra \\par e sacudir dela os ímpios? \\par",
+      "reference": "Jó 38:13"
+    },
+    "14": {
+      "text": "Transforma-se como argila debaixo do sinete, \\par e tinge-se como um vestido. \\par",
+      "reference": "Jó 38:14"
+    },
+    "15": {
+      "text": "Ele retira a luz aos ímpios \\par e quebra o braço rebelde. \\par",
+      "reference": "Jó 38:15"
+    },
+    "16": {
+      "text": "Entraste pelas fontes do mar, \\par ou passeaste pelo fundo do abismo? \\par",
+      "reference": "Jó 38:16"
+    },
+    "17": {
+      "text": "Foram-te indicadas as portas da Morte, \\par ou viste os porteiros da terra da Sombra? \\par",
+      "reference": "Jó 38:17"
+    },
+    "18": {
+      "text": "Examinaste a extensão da terra? \\par Conta-me, se sabes tudo isso. \\par",
+      "reference": "Jó 38:18"
+    },
+    "19": {
+      "text": "De que lado mora a luz, \\par e onde residem as trevas, \\par",
+      "reference": "Jó 38:19"
+    },
+    "20": {
+      "text": "para que as conduzas à sua terra \\par e lhes ensines o caminho para casa? \\par",
+      "reference": "Jó 38:20"
+    },
+    "21": {
+      "text": "Deverias sabê-lo, pois já tinhas nascido \\par e grande é o número dos teus anos. \\par",
+      "reference": "Jó 38:21"
+    },
+    "22": {
+      "text": "Entraste nos depósitos da neve? \\par Visitaste os reservatórios do granizo, \\par",
+      "reference": "Jó 38:22"
+    },
+    "23": {
+      "text": "que reservo para o tempo da calamidade, \\par para os dias de guerra e de batalha? \\par",
+      "reference": "Jó 38:23"
+    },
+    "24": {
+      "text": "Por onde se divide o relâmpago, \\par se difunde o vento leste sobre a terra? \\par",
+      "reference": "Jó 38:24"
+    },
+    "25": {
+      "text": "Quem abriu um canal para o aguaceiro \\par e o caminho para o relâmpago e o trovão, \\par",
+      "reference": "Jó 38:25"
+    },
+    "26": {
+      "text": "para que chova em terras despovoadas, \\par na estepe inabitada pelo homem, \\par",
+      "reference": "Jó 38:26"
+    },
+    "27": {
+      "text": "para que se sacie o deserto desolado \\par e brote erva na estepe? \\par",
+      "reference": "Jó 38:27"
+    },
+    "28": {
+      "text": "Terá pai a chuva? \\par Quem gera as gotas do orvalho? \\par",
+      "reference": "Jó 38:28"
+    },
+    "29": {
+      "text": "De que seio saiu o gelo? \\par Quem deu à luz a geada do céu, \\par",
+      "reference": "Jó 38:29"
+    },
+    "30": {
+      "text": "quando se endurece a água como pedra \\par e se torna compacta a superfície do abismo? \\par",
+      "reference": "Jó 38:30"
+    },
+    "31": {
+      "text": "Podes atar os laços das Plêiades, \\par ou desatar as cordas de Órion? \\par",
+      "reference": "Jó 38:31"
+    },
+    "32": {
+      "text": "Podes fazer sair a seu tempo a Coroa, \\par ou guiar a Ursa com seus filhos? \\par",
+      "reference": "Jó 38:32"
+    },
+    "33": {
+      "text": "Conheces as leis dos céus, \\par determinas o seu mapa na terra? \\par",
+      "reference": "Jó 38:33"
+    },
+    "34": {
+      "text": "Consegues elevar a voz até as nuvens, \\par e a massa das águas te obedece? \\par",
+      "reference": "Jó 38:34"
+    },
+    "35": {
+      "text": "Despachas os raios, e eles vêm \\par e te dizem: “Aqui estamos”? \\par",
+      "reference": "Jó 38:35"
+    },
+    "36": {
+      "text": "Quem deu sabedoria ao íbis, \\par e ao galo inteligência? \\par",
+      "reference": "Jó 38:36"
+    },
+    "37": {
+      "text": "Quem enumera as nuvens com exatidão \\par e quem entorna os cântaros do céu, \\par",
+      "reference": "Jó 38:37"
+    },
+    "38": {
+      "text": "quando o pó se funde numa massa \\par e os torrões se conglutinam? \\par",
+      "reference": "Jó 38:38"
+    },
+    "39": {
+      "text": "És tu que caças a presa para a leoa, \\par ou sacias a fome dos leõezinhos, \\par",
+      "reference": "Jó 38:39"
+    },
+    "40": {
+      "text": "quando se recolhem nos seus covis, \\par ou se põem de emboscadas nas moitas? \\par",
+      "reference": "Jó 38:40"
+    },
+    "41": {
+      "text": "Quem prepara ao corvo o seu alimento, \\par quando gritam a Deus seus filhotes \\par e se levantam por falta de alimento? \\par",
+      "reference": "Jó 38:41"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 41
+}

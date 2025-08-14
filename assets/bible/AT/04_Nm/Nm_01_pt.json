@@ -1,0 +1,229 @@
+{
+  "book": 4,
+  "book_name": "Números",
+  "book_abbr": "Nm",
+  "book_category": "Lei",
+  "book_english": "Numbers",
+  "testament": "AT",
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i I. O recenseamento}\\par }Iahweh falou a Moisés, no deserto do Sinai, na Tenda da Reunião, no primeiro dia do segundo mês, no segundo ano após a saída da terra do Egito. Disse: \\par",
+      "reference": "Nm 1:1"
+    },
+    "2": {
+      "text": "“Fazei o recenseamento de toda a comunidade dos filhos de Israel, segundo os clãs e segundo as casas patriarcais, alistando os nomes de todos os homens, cabeça por cabeça.",
+      "reference": "Nm 1:2"
+    },
+    "3": {
+      "text": "Todos aqueles em Israel, de vinte anos para cima, hábeis para ir à guerra, tu e Aarão os registrareis segundo os seus esquadrões.",
+      "reference": "Nm 1:3"
+    },
+    "4": {
+      "text": "Estará convosco um homem de cada tribo, os chefes das casas patriarcais. \\par",
+      "reference": "Nm 1:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Os encarregados do recenseamento\\par }Estes são os nomes daqueles que vos auxiliarão: \\par De Rúben, Elisur, filho de Sedeur. \\par",
+      "reference": "Nm 1:5"
+    },
+    "6": {
+      "text": "De Simeão, Salamiel, filho de Surisadai. \\par",
+      "reference": "Nm 1:6"
+    },
+    "7": {
+      "text": "De Judá, Naasson, filho de Aminadab. \\par",
+      "reference": "Nm 1:7"
+    },
+    "8": {
+      "text": "De Issacar, Natanael, filho de Suar. \\par",
+      "reference": "Nm 1:8"
+    },
+    "9": {
+      "text": "De Zabulon, Eliab, filho de Helon. \\par",
+      "reference": "Nm 1:9"
+    },
+    "10": {
+      "text": "Dos filhos de José: de Efraim, Elisama, filho de Amiud; de Manassés, Gamaliel, filho de Fadassur. \\par",
+      "reference": "Nm 1:10"
+    },
+    "11": {
+      "text": "De Benjamim, Abidã, filho de Gedeão. \\par",
+      "reference": "Nm 1:11"
+    },
+    "12": {
+      "text": "De Dã, Aiezer, filho de Amisadai. \\par",
+      "reference": "Nm 1:12"
+    },
+    "13": {
+      "text": "De Aser, Fegiel, filho de Ocrã. \\par",
+      "reference": "Nm 1:13"
+    },
+    "14": {
+      "text": "De Gad, Eliasaf, filho de Reuel. \\par",
+      "reference": "Nm 1:14"
+    },
+    "15": {
+      "text": "De Neftali, Aíra, filho de Enã”. \\par",
+      "reference": "Nm 1:15"
+    },
+    "16": {
+      "text": "Esses foram os homens escolhidos na comunidade; eram chefes da tribo de seu antepassado e esses eram os cabeças dos milhares de Israel. \\par",
+      "reference": "Nm 1:16"
+    },
+    "17": {
+      "text": "Então Moisés e Aarão tomaram esses homens que haviam sido designados nominalmente",
+      "reference": "Nm 1:17"
+    },
+    "18": {
+      "text": "e convocaram toda a comunidade no primeiro dia do segundo mês. Os filhos de Israel determinaram a sua descendência, segundo os seus clãs e segundo as casas patriarcais, e registraram-se os nomes dos homens de vinte anos para cima, cabeça por cabeça.",
+      "reference": "Nm 1:18"
+    },
+    "19": {
+      "text": "Como Iahweh lhe havia ordenado, Moisés os enumerou no deserto do Sinai. \\par",
+      "reference": "Nm 1:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i O recenseamento\\par }Quando se determinou a descendência dos filhos de Rúben, primogênito de Israel, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:20"
+    },
+    "21": {
+      "text": "Foram recenseados quarenta e seis mil e quinhentos na tribo de Rúben. \\par",
+      "reference": "Nm 1:21"
+    },
+    "22": {
+      "text": "Quando se determinou a descendência dos filhos de Simeão, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:22"
+    },
+    "23": {
+      "text": "Foram recenseados cinqüenta e nove mil e trezentos na tribo de Simeão. \\par",
+      "reference": "Nm 1:23"
+    },
+    "24": {
+      "text": "Quando se determinou a descendência dos filhos de Gad, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:24"
+    },
+    "25": {
+      "text": "Foram recenseados quarenta e cinco mil e seiscentos e cinqüenta na tribo de Gad. \\par",
+      "reference": "Nm 1:25"
+    },
+    "26": {
+      "text": "Quando se determinou a descendência dos filhos de Judá, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:26"
+    },
+    "27": {
+      "text": "Foram recenseados setenta e quatro mil e seiscentos na tribo de Judá. \\par",
+      "reference": "Nm 1:27"
+    },
+    "28": {
+      "text": "Quando se determinou a descendência dos filhos de Issacar, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:28"
+    },
+    "29": {
+      "text": "Foram recenseados cinqüenta e quatro mil e quatrocentos na tribo de Issacar. \\par",
+      "reference": "Nm 1:29"
+    },
+    "30": {
+      "text": "Quando se determinou a descendência dos filhos de Zabulon, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:30"
+    },
+    "31": {
+      "text": "Foram recenseados cinqüenta e sete mil e quatrocentos na tribo de Zabulon. \\par",
+      "reference": "Nm 1:31"
+    },
+    "32": {
+      "text": "Filhos de José: Quando se determinou a descendência dos filhos de Efraim, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:32"
+    },
+    "33": {
+      "text": "Foram recenseados quarenta mil e quinhentos na tribo de Efraim. \\par",
+      "reference": "Nm 1:33"
+    },
+    "34": {
+      "text": "Quando se determinou a descendência dos filhos de Manassés, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:34"
+    },
+    "35": {
+      "text": "Foram recenseados trinta e dois mil e duzentos na tribo de Manassés. \\par",
+      "reference": "Nm 1:35"
+    },
+    "36": {
+      "text": "Quando se determinou a descendência dos filhos de Benjamim, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:36"
+    },
+    "37": {
+      "text": "Foram recenseados trinta e cinco mil e quatrocentos na tribo de Benjamim. \\par",
+      "reference": "Nm 1:37"
+    },
+    "38": {
+      "text": "Quando se determinou a descendência dos filhos de Dã, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:38"
+    },
+    "39": {
+      "text": "Foram recenseados sessenta e dois mil e setecentos na tribo de Dã. \\par",
+      "reference": "Nm 1:39"
+    },
+    "40": {
+      "text": "Quando se determinou a descendência dos filhos de Aser, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:40"
+    },
+    "41": {
+      "text": "Foram recenseados quarenta e um mil e quinhentos na tribo de Aser. \\par",
+      "reference": "Nm 1:41"
+    },
+    "42": {
+      "text": "Quando se determinou a descendência dos filhos de Neftali, segundo os seus clãs e segundo as casas patriarcais, foram registrados, cabeça por cabeça, os nomes de todos os homens de vinte anos para cima, aptos para a guerra.",
+      "reference": "Nm 1:42"
+    },
+    "43": {
+      "text": "Foram recenseados cinqüenta e três mil e quatrocentos na tribo de Neftali. \\par",
+      "reference": "Nm 1:43"
+    },
+    "44": {
+      "text": "Esses são os que Moisés, Aarão e os doze príncipes de Israel recensearam, um de cada uma de suas casas patriarcais.",
+      "reference": "Nm 1:44"
+    },
+    "45": {
+      "text": "Todos os filhos de Israel de vinte anos para cima, todos aqueles que em Israel eram aptos para a guerra, foram recenseados segundo as casas patriarcais.",
+      "reference": "Nm 1:45"
+    },
+    "46": {
+      "text": "O total dos recenseados foi de seiscentos e três mil e quinhentos e cinqüenta. \\par",
+      "reference": "Nm 1:46"
+    },
+    "47": {
+      "text": "Os levitas, porém, não foram recenseados com eles, nem a sua tribo patriarcal. \\par",
+      "reference": "Nm 1:47"
+    },
+    "48": {
+      "text": "\\par {\\qc\\b\\i Estatuto dos levitas\\par }Falou, pois, Iahweh a Moisés e disse:",
+      "reference": "Nm 1:48"
+    },
+    "49": {
+      "text": "“Não registrareis, contudo, a tribo de Levi e não a recenseareis no meio dos filhos de Israel.",
+      "reference": "Nm 1:49"
+    },
+    "50": {
+      "text": "Mas estabelece, tu mesmo, os levitas para o serviço da Habitação do Testemunho, de todos os seus utensílios e de tudo o que lhe pertence. Eles transportarão a Habitação e todos os seus utensílios, exercerão nela o seu ministério e acamparão ao redor da Habitação.",
+      "reference": "Nm 1:50"
+    },
+    "51": {
+      "text": "Quando a Habitação se mudar, os levitas a desarmarão; quando a Habitação tiver de parar, os levitas a armarão. Qualquer profano que se aproximar dela será condenado à morte.",
+      "reference": "Nm 1:51"
+    },
+    "52": {
+      "text": "Os filhos de Israel acamparão cada um no seu próprio acampamento, junto de sua insígnia, segundo os seus exércitos.",
+      "reference": "Nm 1:52"
+    },
+    "53": {
+      "text": "Os levitas, porém, acamparão ao redor da Habitação do Testemunho. Deste modo a Ira não se manifestará contra a comunidade dos filhos de Israel. E os levitas assegurarão o serviço da Habitação do Testemunho”. \\par",
+      "reference": "Nm 1:53"
+    },
+    "54": {
+      "text": "Os filhos de Israel fizeram tudo de acordo com o que Iahweh ordenara a Moisés. Realmente assim o fizeram.\\par",
+      "reference": "Nm 1:54"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 54
+}

@@ -1,0 +1,37 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Salmo\\par }E dirás naquele dia: \\par Louvo-te, ó Iahweh, porque, embora \\par tivesses estado encolerizado contra mim, \\par a tua ira cessou e agora me deste o teu consolo. \\par",
+      "reference": "Is 12:1"
+    },
+    "2": {
+      "text": "Ei-lo, o Deus da minha salvação: \\par sinto-me inteiramente confiante, de nada tenho medo, \\par porque Iahweh é a minha força e o meu canto. \\par Ele é a minha salvação. \\par",
+      "reference": "Is 12:2"
+    },
+    "3": {
+      "text": "Com alegria tirareis água das fontes da salvação. \\par",
+      "reference": "Is 12:3"
+    },
+    "4": {
+      "text": "E direis naquele dia: \\par Louvai a Iahweh, invocai o seu nome; \\par proclamai entre os povos os seus feitos, \\par fazei saber que o seu nome é excelso. \\par",
+      "reference": "Is 12:4"
+    },
+    "5": {
+      "text": "Salmodiai a Iahweh, porque ele fez coisas sublimes; \\par seja isto sabido no mundo inteiro. \\par",
+      "reference": "Is 12:5"
+    },
+    "6": {
+      "text": "Erguei alegres gritos, exultai, ó habitantes de Sião, \\par porque grande é o Santo de Israel no meio de ti.\\par",
+      "reference": "Is 12:6"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 6
+}

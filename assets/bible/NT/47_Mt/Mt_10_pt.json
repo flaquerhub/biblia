@@ -1,0 +1,181 @@
+{
+  "book": 40,
+  "book_name": "Mateus",
+  "book_abbr": "Mt",
+  "book_category": "Evangelhos",
+  "book_english": "Matthew",
+  "testament": "NT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 2. DISCURSO APOSTÓLICO\\par }{\\qc\\b\\i Missão dos Doze\\par }Chamou os doze discípulos e deu-lhes autoridade de expulsar os espíritos imundos e de curar toda a sorte de males e enfermidades. \\par",
+      "reference": "Mt 10:1"
+    },
+    "2": {
+      "text": "Estes são os nomes dos doze apóstolos: primeiro, Simão, também chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;",
+      "reference": "Mt 10:2"
+    },
+    "3": {
+      "text": "Filipe e Bartolomeu; Tomé e Mateus, o publicano; Tiago, o filho de Alfeu, e Tadeu;",
+      "reference": "Mt 10:3"
+    },
+    "4": {
+      "text": "Simão, o Zelota, e Judas Iscariotes, aquele que o traiu.",
+      "reference": "Mt 10:4"
+    },
+    "5": {
+      "text": "Jesus enviou esses Doze com estas recomendações: \\par “Não tomeis o caminho dos gentios, nem entreis em cidade de samaritanos.",
+      "reference": "Mt 10:5"
+    },
+    "6": {
+      "text": "Dirigi-vos, antes, às ovelhas perdidas da casa de Israel.",
+      "reference": "Mt 10:6"
+    },
+    "7": {
+      "text": "Dirigindo-vos a elas, proclamai que o Reino dos Céus está próximo.",
+      "reference": "Mt 10:7"
+    },
+    "8": {
+      "text": "Curai os doentes, ressuscitai os mortos, purificai os leprosos, expulsai os demônios. De graça recebestes, de graça dai.",
+      "reference": "Mt 10:8"
+    },
+    "9": {
+      "text": "Não leveis ouro, nem prata, nem cobre nos vossos cintos,",
+      "reference": "Mt 10:9"
+    },
+    "10": {
+      "text": "nem alforje para o caminho, nem duas túnicas, nem sandálias, nem cajado, pois o operário é digno do seu sustento. \\par",
+      "reference": "Mt 10:10"
+    },
+    "11": {
+      "text": "Quando entrardes numa cidade ou num povoado, procurai saber de alguém que seja digno e permanecei ali até vos retirardes do lugar.",
+      "reference": "Mt 10:11"
+    },
+    "12": {
+      "text": "Ao entrardes na casa, saudai-a.",
+      "reference": "Mt 10:12"
+    },
+    "13": {
+      "text": "E se for digna, desça a vossa paz sobre ela. Se não for digna, volte a vós a vossa paz.",
+      "reference": "Mt 10:13"
+    },
+    "14": {
+      "text": "Mas se alguém não vos recebe e não dá ouvidos às vossas palavras, saí daquela casa ou daquela cidade e sacudi o pó de vossos pés.",
+      "reference": "Mt 10:14"
+    },
+    "15": {
+      "text": "Em verdade vos digo: no Dia do Julgamento haverá menos rigor para Sodoma e Gomorra do que para aquela cidade.",
+      "reference": "Mt 10:15"
+    },
+    "16": {
+      "text": "Eis que eu vos envio como ovelhas entre lobos. Por isso, sede prudentes como as serpentes e sem malícia como as pombas. \\par",
+      "reference": "Mt 10:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Os missionários serão perseguidos\\par }Guardai-vos dos homens: eles vos entregarão aos sinédrios e vos flagelarão em suas sinagogas.",
+      "reference": "Mt 10:17"
+    },
+    "18": {
+      "text": "E, por causa de mim, sereis conduzidos à presença de governadores e de reis, para dar testemunho perante eles e perante as nações.",
+      "reference": "Mt 10:18"
+    },
+    "19": {
+      "text": "Quando vos entregarem, não fiqueis preocupados em saber como ou o que haveis de falar. Naquele momento vos será indicado o que deveis falar,",
+      "reference": "Mt 10:19"
+    },
+    "20": {
+      "text": "porque não sereis vós que estareis falando, mas o Espírito de vosso Pai é que falará em vós. \\par",
+      "reference": "Mt 10:20"
+    },
+    "21": {
+      "text": "O irmão entregará o irmão à morte e o pai entregará o filho. Os filhos se levantarão contra os pais e os farão morrer.",
+      "reference": "Mt 10:21"
+    },
+    "22": {
+      "text": "E sereis odiados por todos por causa do meu nome. Aquele, porém, que perseverar até o fim, esse será salvo. \\par",
+      "reference": "Mt 10:22"
+    },
+    "23": {
+      "text": "Quando vos perseguirem numa cidade, fugi para outra. E se vos perseguirem nesta, tornai a fugir para uma terceira. Em verdade vos digo que não acabareis de percorrer as cidades de Israel até que venha o Filho do Homem. \\par",
+      "reference": "Mt 10:23"
+    },
+    "24": {
+      "text": "Não existe discípulo superior ao mestre, nem servo superior ao seu senhor.",
+      "reference": "Mt 10:24"
+    },
+    "25": {
+      "text": "Basta que o discípulo se torne como o mestre e o servo como o seu senhor. Se chamaram Beelzebu ao chefe da casa, quanto mais chamarão assim aos seus familiares! \\par",
+      "reference": "Mt 10:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i Falar abertamente e sem medo\\par }Não tenhais medo deles, portanto. Pois nada há de encoberto que não venha a ser descoberto, nem de oculto que não venha a ser revelado.",
+      "reference": "Mt 10:26"
+    },
+    "27": {
+      "text": "O que vos digo às escuras, dizei-o à luz do dia: o que vos é dito aos ouvidos, proclamai-o sobre os telhados. \\par",
+      "reference": "Mt 10:27"
+    },
+    "28": {
+      "text": "Não temais os que matam o corpo, mas não podem matar a alma. Temei antes aquele que pode destruir a alma e o corpo na geena.",
+      "reference": "Mt 10:28"
+    },
+    "29": {
+      "text": "Não se vendem dois pardais por um asse? E, no entanto, nenhum deles cai em terra sem o consentimento do vosso Pai!",
+      "reference": "Mt 10:29"
+    },
+    "30": {
+      "text": "Quanto a vós, até mesmo os vossos cabelos foram todos contados.",
+      "reference": "Mt 10:30"
+    },
+    "31": {
+      "text": "Não tenhais medo, pois valeis mais do que muitos pardais. \\par",
+      "reference": "Mt 10:31"
+    },
+    "32": {
+      "text": "Todo aquele, portanto, que se declarar por mim diante dos homens, também eu me declararei por ele diante de meu Pai que está nos Céus.",
+      "reference": "Mt 10:32"
+    },
+    "33": {
+      "text": "Aquele, porém, que me renegar diante dos homens, também o renegarei diante de meu Pai que está nos Céus. \\par",
+      "reference": "Mt 10:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Jesus, causa de divisões\\par }Não pensei que vim trazer paz à terra. Não vim trazer paz, mas espada.",
+      "reference": "Mt 10:34"
+    },
+    "35": {
+      "text": "Com efeito, vim contrapor {\\i o homem ao seu pai, a filha à sua mãe e a nora à sua sogra.}",
+      "reference": "Mt 10:35"
+    },
+    "36": {
+      "text": "{\\i Em suma: os inimigos do homem serão os seus próprios familiares.}\\par",
+      "reference": "Mt 10:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i Renunciar a si mesmo para seguir a Jesus\\par }Aquele que ama pai ou mãe mais do que a mim não é digno de mim. E aquele que ama filho ou filha mais do que a mim não é digno de mim.",
+      "reference": "Mt 10:37"
+    },
+    "38": {
+      "text": "Aquele que não toma a sua cruz e me segue não é digno de mim.",
+      "reference": "Mt 10:38"
+    },
+    "39": {
+      "text": "Aquele que acha a sua vida, vai perdê-la, mas quem perde a sua vida por causa de mim, vai achá-la. \\par",
+      "reference": "Mt 10:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i Conclusão do discurso apostólico\\par }Quem vos recebe, a mim me recebe, e quem me recebe, recebe ao que me enviou. \\par",
+      "reference": "Mt 10:40"
+    },
+    "41": {
+      "text": "Quem recebe um profeta na qualidade de profeta, receberá uma recompensa de profeta. E quem recebe um justo na qualidade de justo, receberá uma recompensa de justo. \\par",
+      "reference": "Mt 10:41"
+    },
+    "42": {
+      "text": "E quem der, nem que seja um copo d’água fria a um destes pequeninos, por ser meu discípulo, em verdade vos digo que não perderá sua recompensa”. \\par",
+      "reference": "Mt 10:42"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 42
+}

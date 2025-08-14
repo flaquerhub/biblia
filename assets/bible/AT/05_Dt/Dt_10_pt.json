@@ -1,0 +1,101 @@
+{
+  "book": 5,
+  "book_name": "Deuteronômio",
+  "book_abbr": "Dt",
+  "book_category": "Lei",
+  "book_english": "Deuteronomy",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A Arca da Aliança e a escolha de Levi\\par }Iahweh disse-me então: ‘Corta duas tábuas de pedra como as primeiras e sobe até a mim, na montanha. Faze também uma arca de madeira.",
+      "reference": "Dt 10:1"
+    },
+    "2": {
+      "text": "Escreverei sobre as tábuas as palavras que estavam sobre as primeiras tábuas que quebraste, e tu as colocarás na arca’.",
+      "reference": "Dt 10:2"
+    },
+    "3": {
+      "text": "Fiz uma arca de madeira de acácia, cortei duas tábuas de pedra como as primeiras e subi à montanha, com as duas tábuas na mão.",
+      "reference": "Dt 10:3"
+    },
+    "4": {
+      "text": "Ele, então, escreveu sobre as tábuas o mesmo texto que havia escrito antes, as Dez Palavras que Iahweh vos tinha falado na montanha, do meio do fogo, no dia da assembléia. A seguir Iahweh entregou-as a mim.",
+      "reference": "Dt 10:4"
+    },
+    "5": {
+      "text": "Depois voltei-me, desci da montanha e coloquei as duas tábuas na arca que eu havia feito. E elas permaneceram lá, conforme Iahweh me ordenara. \\par",
+      "reference": "Dt 10:5"
+    },
+    "6": {
+      "text": "Os filhos de Israel partiram então dos poços dos Benê-Jacã para Mosera. Neste lugar faleceu e foi sepultado Aarão. Seu filho, Eleazar, sucedeu-lhe no sacerdócio.",
+      "reference": "Dt 10:6"
+    },
+    "7": {
+      "text": "Dali partiram para Gadgad, e de Gadgad para Jetebata, uma terra cheia de ribeiros de água.",
+      "reference": "Dt 10:7"
+    },
+    "8": {
+      "text": "Foi por este tempo que Iahweh destacou a tribo de Levi para levar a Arca da Aliança de Iahweh e ficar à disposição de Iahweh, para servi-lo e abençoar em seu nome, até ao dia de hoje.",
+      "reference": "Dt 10:8"
+    },
+    "9": {
+      "text": "É por isso que Levi não teve parte nem herança com seus irmãos. Iahweh é a sua herança, conforme Iahweh teu Deus lhe falara. \\par",
+      "reference": "Dt 10:9"
+    },
+    "10": {
+      "text": "Quanto a mim, permaneci na montanha durante quarenta dias e quarenta noites, como na primeira vez. E Iahweh me ouviu ainda esta vez, e Iahweh não quis te destruir.",
+      "reference": "Dt 10:10"
+    },
+    "11": {
+      "text": "Iahweh disse-me então: ‘Levanta-te, caminha à frente deste povo, para que tomem posse da terra que eu jurei aos seus pais que lhes daria’. \\par",
+      "reference": "Dt 10:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A circuncisão do coração\\par }E agora, Israel, que é que Iahweh teu Deus te pede? Apenas que temas a Iahweh teu Deus, andando em seus caminhos, e o ames, servindo a Iahweh teu Deus com todo o teu coração e com toda a tua alma,",
+      "reference": "Dt 10:12"
+    },
+    "13": {
+      "text": "e que observes os mandamentos de Iahweh e os estatutos que eu te ordeno hoje, para o teu bem. \\par",
+      "reference": "Dt 10:13"
+    },
+    "14": {
+      "text": "Vê: é a Iahweh teu Deus que pertencem os céus e os céus dos céus, a terra e tudo o que nela existe.",
+      "reference": "Dt 10:14"
+    },
+    "15": {
+      "text": "Contudo, foi somente com teus pais que Iahweh se ligou, para amá-los! E depois deles escolheu dentre todos os povos a sua descendência – vós próprios! – como hoje se vê.",
+      "reference": "Dt 10:15"
+    },
+    "16": {
+      "text": "Circuncidai, pois, o vosso coração e nunca mais reteseis a vossa nuca!",
+      "reference": "Dt 10:16"
+    },
+    "17": {
+      "text": "Pois Iahweh vosso Deus é o Deus dos deuses e o Senhor dos senhores, o Deus grande, o valente, o terrível, que não faz acepção de pessoas e não aceita suborno;",
+      "reference": "Dt 10:17"
+    },
+    "18": {
+      "text": "o que faz justiça ao órfão e à viúva, e ama o estrangeiro, dando-lhe pão e roupa.",
+      "reference": "Dt 10:18"
+    },
+    "19": {
+      "text": "(Portanto, amareis o estrangeiro, porque fostes estrangeiros na terra do Egito.)",
+      "reference": "Dt 10:19"
+    },
+    "20": {
+      "text": "A Iahweh teu Deus temerás e servirás, a ele te apegarás e por seu nome jurarás.",
+      "reference": "Dt 10:20"
+    },
+    "21": {
+      "text": "A ele deves louvar: ele é o teu Deus. Ele realizou em teu favor essas coisas grandes e terríveis que os teus olhos viram.",
+      "reference": "Dt 10:21"
+    },
+    "22": {
+      "text": "Ao descerem para o Egito teus pais eram apenas setenta pessoas. Agora, contudo, Iahweh teu Deus tornou-te numeroso como as estrelas do céu! \\par",
+      "reference": "Dt 10:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

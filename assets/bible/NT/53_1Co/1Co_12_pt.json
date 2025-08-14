@@ -1,0 +1,137 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Os dons do Espírito ou “carismas”\\par }A propósito dos dons do Espírito, irmãos, não quero que estejais na ignorância.",
+      "reference": "1Co 12:1"
+    },
+    "2": {
+      "text": "Sabeis que, quando éreis gentios, éreis irresistivelmente arrastados para os ídolos mudos.",
+      "reference": "1Co 12:2"
+    },
+    "3": {
+      "text": "Por isto, eu vos declaro que ninguém, falando com o Espírito de Deus, diz: “Anátema seja Jesus!”, e ninguém pode dizer: “Jesus é Senhor” a não ser no Espírito Santo. \\par",
+      "reference": "1Co 12:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Diversidade e unidade dos carismas\\par }Há diversidade de dons, mas o Espírito é o mesmo;",
+      "reference": "1Co 12:4"
+    },
+    "5": {
+      "text": "diversidade de ministérios, mas o Senhor é o mesmo;",
+      "reference": "1Co 12:5"
+    },
+    "6": {
+      "text": "diversos modos de ação, mas é o mesmo Deus que realiza tudo em todos.",
+      "reference": "1Co 12:6"
+    },
+    "7": {
+      "text": "Cada um recebe o dom de manifestar o Espírito para a utilidade de todos.",
+      "reference": "1Co 12:7"
+    },
+    "8": {
+      "text": "A um o Espírito dá a mensagem de sabedoria, a outro, a palavra de ciência segundo o mesmo Espírito;",
+      "reference": "1Co 12:8"
+    },
+    "9": {
+      "text": "a outro o mesmo Espírito dá a fé; a outro ainda o único e mesmo Espírito concede o dom das curas;",
+      "reference": "1Co 12:9"
+    },
+    "10": {
+      "text": "a outro, o poder de fazer milagres; a outro, a profecia; a outro, o discernimento dos espíritos; a outro, o dom de falar em línguas, a outro ainda, o dom de as interpretar.",
+      "reference": "1Co 12:10"
+    },
+    "11": {
+      "text": "Mas é o único e mesmo Espírito que isso tudo realiza, distribuindo a cada um os seus dons, conforme lhe apraz. \\par",
+      "reference": "1Co 12:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i A imagem do corpo\\par }Com efeito, o corpo é um e, não obstante, tem muitos membros, mas todos os membros do corpo, apesar de serem muitos, formam um só corpo. Assim também acontece com Cristo.",
+      "reference": "1Co 12:12"
+    },
+    "13": {
+      "text": "Pois fomos todos batizados num só Espírito para ser um só corpo, judeus e gregos, escravos e livres, e todos bebemos de um só Espírito. \\par",
+      "reference": "1Co 12:13"
+    },
+    "14": {
+      "text": "O corpo não se compõe de um só membro, mas de muitos.",
+      "reference": "1Co 12:14"
+    },
+    "15": {
+      "text": "Se o pé disser: “Mão eu não sou, logo não pertenço ao corpo”, nem por isto deixará de fazer parte do corpo.",
+      "reference": "1Co 12:15"
+    },
+    "16": {
+      "text": "E se a orelha disser: “Olho eu não sou, logo não pertenço ao corpo”, nem por isto deixará de fazer parte do corpo.",
+      "reference": "1Co 12:16"
+    },
+    "17": {
+      "text": "Se o corpo todo fosse olho, onde estaria a audição? Se fosse todo ouvido, onde estaria o olfato? \\par",
+      "reference": "1Co 12:17"
+    },
+    "18": {
+      "text": "Mas Deus dispôs cada um dos membros no corpo, segundo a sua vontade.",
+      "reference": "1Co 12:18"
+    },
+    "19": {
+      "text": "Se o conjunto fosse um só membro, onde estaria o corpo?",
+      "reference": "1Co 12:19"
+    },
+    "20": {
+      "text": "Há, portanto, muitos membros, mas um só corpo.",
+      "reference": "1Co 12:20"
+    },
+    "21": {
+      "text": "Não pode o olho dizer à mão: “Não preciso de ti”; nem tampouco pode a cabeça dizer aos pés: “Não preciso de vós”. \\par",
+      "reference": "1Co 12:21"
+    },
+    "22": {
+      "text": "Pelo contrário, os membros do corpo que parecem mais fracos são os mais necessários,",
+      "reference": "1Co 12:22"
+    },
+    "23": {
+      "text": "e aqueles que parecem menos dignos de honra do corpo são os que cercamos de maior honra, e nossos membros que são menos decentes, nós os tratamos com mais decência;",
+      "reference": "1Co 12:23"
+    },
+    "24": {
+      "text": "os que são decentes não precisam de tais cuidados. Mas Deus dispôs o corpo de modo a conceder maior honra ao que é menos nobre,",
+      "reference": "1Co 12:24"
+    },
+    "25": {
+      "text": "a fim de que não haja divisão no corpo, mas os membros tenham igual solicitude uns com os outros.",
+      "reference": "1Co 12:25"
+    },
+    "26": {
+      "text": "Se um membro sofre, todos os membros compartilham o seu sofrimento; se um membro é honrado, todos os membros compartilham a sua alegria. \\par",
+      "reference": "1Co 12:26"
+    },
+    "27": {
+      "text": "Ora, vós sois o corpo de Cristo e sois os seus membros, cada um por sua parte.",
+      "reference": "1Co 12:27"
+    },
+    "28": {
+      "text": "E aqueles que Deus estabeleceu na Igreja são, em primeiro lugar, apóstolos; em segundo lugar, profetas; em terceiro lugar, doutores... Vêm, a seguir, os dons dos milagres, das curas, da assistência, do governo e o de falar diversas línguas.",
+      "reference": "1Co 12:28"
+    },
+    "29": {
+      "text": "Porventura, são todos apóstolos? Todos profetas? Todos doutores? Todos realizam milagres?",
+      "reference": "1Co 12:29"
+    },
+    "30": {
+      "text": "Todos têm o dom de curas? Todos falam línguas? Todos as interpretam? \\par",
+      "reference": "1Co 12:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i A hierarquia dos carismas. Hino à caridade\\par }Aspirai aos dons mais altos. Aliás, passo a indicar-vos um caminho que ultrapassa a todos. \\par",
+      "reference": "1Co 12:31"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 31
+}

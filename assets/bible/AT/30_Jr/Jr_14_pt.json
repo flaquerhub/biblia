@@ -1,0 +1,101 @@
+{
+  "book": 24,
+  "book_name": "Jeremias",
+  "book_abbr": "Jr",
+  "book_category": "Profético",
+  "book_english": "Jeremiah",
+  "testament": "AT",
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A grande seca\\par }Palavra de Iahweh que foi dirigida \\par a Jeremias por ocasião da seca. \\par",
+      "reference": "Jr 14:1"
+    },
+    "2": {
+      "text": "Judá está de luto \\par e suas cidades ressequidas: \\par elas se inclinam para a terra, \\par o grito de Jerusalém se levanta. \\par",
+      "reference": "Jr 14:2"
+    },
+    "3": {
+      "text": "Os nobres enviam seus servos a procurar água: \\par eles chegam às cisternas, \\par não encontram água, \\par retornam com suas vasilhas vazias. \\par Eles ficam envergonhados e humilhados e cobrem a cabeça. \\par",
+      "reference": "Jr 14:3"
+    },
+    "4": {
+      "text": "Por causa do solo ressequido, \\par pois não há chuva na terra, \\par os camponeses estão envergonhados e cobrem a cabeça. \\par",
+      "reference": "Jr 14:4"
+    },
+    "5": {
+      "text": "Sim, até mesmo a gazela no campo \\par dá à luz e abandona a cria, \\par porque não há erva. \\par",
+      "reference": "Jr 14:5"
+    },
+    "6": {
+      "text": "Os onagros estão nas alturas, \\par anseiam por ar como chacais, \\par seus olhos se obscurecem, \\par porque não há capim. \\par",
+      "reference": "Jr 14:6"
+    },
+    "7": {
+      "text": "Se nossas faltas testemunham contra nós, \\par age, Iahweh, por causa do teu Nome! \\par Porque nossas rebeliões foram inúmeras, \\par nós pecamos contra ti. \\par",
+      "reference": "Jr 14:7"
+    },
+    "8": {
+      "text": "Esperança de Israel, Iahweh, \\par seu salvador no tempo da desgraça, \\par por que és como um estrangeiro na terra, \\par como um viajante que passa uma noite? \\par",
+      "reference": "Jr 14:8"
+    },
+    "9": {
+      "text": "Por que és como um homem consternado, \\par como um guerreiro que não pode salvar? \\par Mas tu estás em nosso meio, Iahweh, \\par e teu Nome é invocado sobre nós. \\par Não nos abandones! \\par",
+      "reference": "Jr 14:9"
+    },
+    "10": {
+      "text": "Assim disse Iahweh a respeito desse povo: Eles gostam de correr para todos os lados, eles não poupam os seus pés! Mas Iahweh não se compraz deles; agora ele se lembrará de sua falta e castigará o seu pecado. \\par",
+      "reference": "Jr 14:10"
+    },
+    "11": {
+      "text": "E Iahweh me disse: “Não intercedas em favor desse povo, pela sua felicidade.",
+      "reference": "Jr 14:11"
+    },
+    "12": {
+      "text": "Se eles jejuarem, eu não escutarei a sua súplica; se oferecerem holocaustos e oblações, eu não terei complacência com eles, porque pela espada, pela fome e pela peste eu os irei exterminar”. \\par",
+      "reference": "Jr 14:12"
+    },
+    "13": {
+      "text": "E eu disse: “Ah! Senhor Iahweh! Eis que os profetas lhes dizem: Vós não vereis a espada, e a fome não vos atingirá; mas eu vos darei neste lugar uma paz verdadeira”. \\par",
+      "reference": "Jr 14:13"
+    },
+    "14": {
+      "text": "E Iahweh me disse: “É mentira o que os profetas profetizaram em meu nome; eu não os enviei, eu não lhes ordenei nada, eu não lhes falei. Visão mentirosa, adivinhação vã e fantasias de seu coração é o que eles vos profetizam. \\par",
+      "reference": "Jr 14:14"
+    },
+    "15": {
+      "text": "Por isso assim disse Iahweh contra os profetas que profetizam em meu Nome, sem que eu os tenha enviado, e que afirmam que não haverá nessa terra espada nem fome, pela espada e pela fome perecerão esses profetas!",
+      "reference": "Jr 14:15"
+    },
+    "16": {
+      "text": "Quanto ao povo, ao qual eles profetizaram, será lançado nas ruas de Jerusalém, vítima da fome e da espada; não haverá ninguém para enterrá-los, nem a eles nem às suas mulheres, nem aos seus filhos, nem às suas filhas. Derramarei sobre eles as suas perversidades!” \\par",
+      "reference": "Jr 14:16"
+    },
+    "17": {
+      "text": "E lhes dirás esta palavra: \\par Que os meus olhos derramem lágrimas, \\par noite e dia, e não se tranqüilizem, \\par porque a virgem, filha do meu povo, foi ferida \\par com um ferimento grave, \\par com uma ferida incurável. \\par",
+      "reference": "Jr 14:17"
+    },
+    "18": {
+      "text": "Se saio para o campo, \\par eis os feridos pela espada; \\par se entro na cidade, \\par eis as vítimas da fome; \\par pois até o profeta e o sacerdote \\par atravessam a terra e não compreendem! \\par",
+      "reference": "Jr 14:18"
+    },
+    "19": {
+      "text": "– Rejeitaste, deveras, a Judá? \\par Por acaso te desgostaste de Sião? \\par Por que nos feriste de tal modo que não há cura para nós? \\par Esperava-se a paz: nada de bom! \\par O tempo de cura: e eis o pavor! \\par",
+      "reference": "Jr 14:19"
+    },
+    "20": {
+      "text": "Nós reconhecemos, Iahweh, nossa maldade, \\par a falta de nossos pais: \\par porque pecamos contra ti. \\par",
+      "reference": "Jr 14:20"
+    },
+    "21": {
+      "text": "Não nos desprezes por causa do teu Nome. \\par Não desonres o trono de tua glória. \\par Lembra-te! Não rompas a tua aliança conosco. \\par",
+      "reference": "Jr 14:21"
+    },
+    "22": {
+      "text": "Há entre os ídolos das nações quem faça chover? \\par Ou é o céu que nos dá os aguaceiros? \\par Não és tu Iahweh, nosso Deus? \\par Em ti nós esperamos, \\par porque fazes todas estas coisas. \\par",
+      "reference": "Jr 14:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

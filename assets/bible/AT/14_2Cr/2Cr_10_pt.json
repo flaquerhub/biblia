@@ -1,0 +1,89 @@
+{
+  "book": 14,
+  "book_name": "2Crônicas",
+  "book_abbr": "2Cr",
+  "book_category": "Histórico",
+  "book_english": "2 Chronicles",
+  "testament": "AT",
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i IV. As primeiras reformas da monarquia}\\par 1. ROBOÃO E O REAGRUPAMENTO DOS LEVITAS\\par }{\\qc\\b\\i O cisma\\par }Roboão foi a Siquém, pois foi em Siquém que todo o Israel se tinha congregado para proclamá-lo rei.",
+      "reference": "2Cr 10:1"
+    },
+    "2": {
+      "text": "Sabendo disso, Jeroboão, filho de Nabat, que se encontrava no Egito, para onde fugira do rei Salomão, regressou do Egito.",
+      "reference": "2Cr 10:2"
+    },
+    "3": {
+      "text": "Mandaram-no chamar e ele veio com todo o Israel. \\par Disseram assim a Roboão:",
+      "reference": "2Cr 10:3"
+    },
+    "4": {
+      "text": "“Teu pai tornou pesado o nosso jugo; agora, alivia a dura servidão de teu pai e o jugo pesado que ele nos impôs e nós te serviremos”.",
+      "reference": "2Cr 10:4"
+    },
+    "5": {
+      "text": "Ele respondeu: “Esperai três dias e depois voltai a mim”. E o povo foi-se embora.",
+      "reference": "2Cr 10:5"
+    },
+    "6": {
+      "text": "O rei Roboão consultou os anciãos, que haviam auxiliado seu pai Salomão durante sua vida, e perguntou: “Que me aconselhais a responder a este povo?”",
+      "reference": "2Cr 10:6"
+    },
+    "7": {
+      "text": "Eles lhe responderam: “Se te mostrares bom para com este povo, se usares benevolência e lhes dirigires boas palavras, então eles serão para sempre teus servidores”.",
+      "reference": "2Cr 10:7"
+    },
+    "8": {
+      "text": "Mas ele rejeitou o conselho que os anciãos lhe deram e consultou os jovens que haviam crescido com ele e estavam a seu serviço.",
+      "reference": "2Cr 10:8"
+    },
+    "9": {
+      "text": "Perguntou-lhes: “Que aconselhais que se responda a esse povo, que me falou assim: ‘Alivia o jugo que teu pai nos impôs?’”",
+      "reference": "2Cr 10:9"
+    },
+    "10": {
+      "text": "Os jovens, seus companheiros de infância, responderam: “Eis o que dirás ao povo que te disse: ‘Teu pai tornou pesado o nosso jugo, mas tu, alivia o nosso jugo’, eis o que responderás: ‘Meu dedo mínimo é mais grosso que os rins de meu pai!",
+      "reference": "2Cr 10:10"
+    },
+    "11": {
+      "text": "Meu pai vos sobrecarregou com um jugo pesado, mas eu aumentarei ainda o vosso jugo; meu pai vos castigou com açoites, e eu vos açoitarei com escorpiões!’” \\par",
+      "reference": "2Cr 10:11"
+    },
+    "12": {
+      "text": "Jeroboão e todo o povo vieram para junto de Roboão, no terceiro dia, de acordo com a ordem que ele dera: “Voltai a mim daqui a três dias”.",
+      "reference": "2Cr 10:12"
+    },
+    "13": {
+      "text": "O rei respondeu-lhes duramente. O rei Roboão rejeitou o conselho dos anciãos",
+      "reference": "2Cr 10:13"
+    },
+    "14": {
+      "text": "e, seguindo o conselho dos jovens, falou-lhes assim: “Meu pai tornou vossos jugo pesado, eu o aumentarei ainda; meu pai vos castigou com açoites e eu, com escorpiões”.",
+      "reference": "2Cr 10:14"
+    },
+    "15": {
+      "text": "Assim, o rei não ouviu o povo: era uma disposição de Deus, para cumprir a palavra que Iahweh dissera Jeroboão, filho de Nabat, por intermédio de Aías de Silo;",
+      "reference": "2Cr 10:15"
+    },
+    "16": {
+      "text": "e a todos os filhos de Israel, a saber: que o rei não os haveria de ouvir. Eles responderam então ao rei: “Que parte temos com Davi? Não temos herança com o filho de Jessé. \\par Cada um para suas tendas, ó Israel! \\par E agora, cuida de tua casa, Davi!” \\par E todo Israel voltou para suas tendas. \\par",
+      "reference": "2Cr 10:16"
+    },
+    "17": {
+      "text": "Quanto aos filhos de Israel que moravam nas cidades de Judá, Roboão reinou sobre eles.",
+      "reference": "2Cr 10:17"
+    },
+    "18": {
+      "text": "O rei Roboão enviou Aduram, chefe da corvéia, mas os filhos de Israel o apedrejaram e ele morreu; então o rei Roboão viu-se obrigado a subir a seu carro a fim de fugir para Jerusalém.",
+      "reference": "2Cr 10:18"
+    },
+    "19": {
+      "text": "E Israel se rebelou contra a casa de Davi, até o dia de hoje. \\par",
+      "reference": "2Cr 10:19"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 19
+}

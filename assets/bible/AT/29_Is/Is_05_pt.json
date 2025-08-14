@@ -1,0 +1,133 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O cântico da vinha\\par }Vou cantar ao meu amado \\par o cântico do meu amigo para a sua vinha. \\par O meu amado tinha uma vinha \\par em uma encosta fértil. \\par",
+      "reference": "Is 5:1"
+    },
+    "2": {
+      "text": "Ele cavou-a, removeu a pedra e plantou nela uma vinha de uvas vermelhas. \\par No meio dela construiu uma torre e cavou um lagar. \\par Com isto, esperava que ela produzisse uvas boas, mas só produziu uvas azedas. \\par",
+      "reference": "Is 5:2"
+    },
+    "3": {
+      "text": "Agora, ó moradores de Jerusalém e homens de Judá, \\par servi de juízes entre mim e a minha vinha. \\par",
+      "reference": "Is 5:3"
+    },
+    "4": {
+      "text": "Que me restava ainda fazer à minha vinha que eu não tinha feito? \\par Por que, quando eu esperava que ela desse uvas boas, \\par deu apenas uvas azedas? \\par",
+      "reference": "Is 5:4"
+    },
+    "5": {
+      "text": "Agora vos farei saber o que vou fazer da minha vinha! \\par Arrancarei a sua cerca para que sirva de pasto, \\par derrubarei o seu muro para que seja pisada; \\par",
+      "reference": "Is 5:5"
+    },
+    "6": {
+      "text": "reduzi-la-ei a um matagal: ela não será mais podada nem cavada: \\par espinheiros e ervas daninhas crescerão no meio dela. \\par Quanto às nuvens, ordenar-lhes-ei que não derramem a sua chuva sobre ela. \\par",
+      "reference": "Is 5:6"
+    },
+    "7": {
+      "text": "Pois bem, a vinha de Iahweh dos Exércitos é a casa de Israel, \\par e os homens de Judá são a sua plantação preciosa. \\par Deles esperava o direito, mas o que produziram foi a transgressão; \\par esperava a justiça, mas o que apareceu foram gritos de desespero. \\par",
+      "reference": "Is 5:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Maldições\\par }Ai dos que juntam casa a casa, \\par dos que acrescentam campo a campo até que não haja mais espaço disponível, \\par até serem eles os únicos moradores da terra. \\par",
+      "reference": "Is 5:8"
+    },
+    "9": {
+      "text": "Iahweh dos Exércitos jurou aos meus ouvidos: \\par certamente muitas casas serão reduzidas a uma ruína, \\par grandes e belas, não haverá quem nelas habite. \\par",
+      "reference": "Is 5:9"
+    },
+    "10": {
+      "text": "Dez jeiras de vinha produzirão apenas uma metreta, \\par um coro de semente renderá apenas um almude. \\par",
+      "reference": "Is 5:10"
+    },
+    "11": {
+      "text": "Ai dos que madrugam cedo para correr atrás de bebidas fortes, \\par e à tarde se demoram até que o vinho os aqueça. \\par",
+      "reference": "Is 5:11"
+    },
+    "12": {
+      "text": "Os seus banquetes se reduzem a cítaras e harpas, a tamborins e flautas, \\par e vinho para as suas bebedeiras. \\par Mas para os feitos de Iahweh não têm um olhar sequer, \\par eles não vêem a obra das suas mãos. \\par",
+      "reference": "Is 5:12"
+    },
+    "13": {
+      "text": "Eis por que o meu povo foi exilado: por falta de conhecimento; \\par os seus ilustres são uns homens famintos! \\par Os seus plebeus estão mortos de sede! \\par",
+      "reference": "Is 5:13"
+    },
+    "14": {
+      "text": "Por isto o Xeol alarga a sua goela; a sua boca se abre desmesuradamente. \\par Para lá descem a sua nobreza, a sua plebe e o seu tumulto, \\par e lá eles exultam! \\par",
+      "reference": "Is 5:14"
+    },
+    "15": {
+      "text": "O homem curvou-se, o varão humilhou-se; \\par os olhos dos soberbos estão humilhados. \\par",
+      "reference": "Is 5:15"
+    },
+    "16": {
+      "text": "Iahweh dos Exércitos é exaltado no julgamento \\par e o Deus santo mostra a sua santidade pela justiça. \\par",
+      "reference": "Is 5:16"
+    },
+    "17": {
+      "text": "Os cordeiros pastarão em seus pastos, \\par os cabritos comerão o resto dos pastos devastados pelos cevados. \\par",
+      "reference": "Is 5:17"
+    },
+    "18": {
+      "text": "Ai dos que se apegam à iniqüidade, arrastando-a com as cordas da mentira, \\par e o pecado com os tirantes de um carro; \\par",
+      "reference": "Is 5:18"
+    },
+    "19": {
+      "text": "dos que dizem: “Avie-se ele, faça depressa a sua obra, \\par para que a vejamos; \\par apareça, realize-se o conselho do Santo de Israel, para que o conheçamos!” \\par",
+      "reference": "Is 5:19"
+    },
+    "20": {
+      "text": "Ai dos que ao mal chamam bem e ao bem mal, \\par dos que transformam as trevas em luz e a luz em trevas, \\par dos que mudam o amargo em doce e o doce em amargo! \\par",
+      "reference": "Is 5:20"
+    },
+    "21": {
+      "text": "Ai dos que são sábios a seus próprios olhos \\par e inteligentes na sua própria opinião! \\par",
+      "reference": "Is 5:21"
+    },
+    "22": {
+      "text": "Ai dos que são fortes para beber vinho \\par e dos que são valentes para misturar bebidas, \\par",
+      "reference": "Is 5:22"
+    },
+    "23": {
+      "text": "que absolvem o ímpio mediante suborno \\par e negam ao justo a sua justiça! \\par",
+      "reference": "Is 5:23"
+    },
+    "24": {
+      "text": "Por isto, como a chama devora a palha, \\par como o feno se incendeia e se consome, \\par assim a sua raiz se reduzirá a mofo, \\par a sua flor será levada como o pó. \\par Com efeito, eles rejeitaram a lei de Iahweh dos Exércitos, \\par desprezaram a palavra do Santo de Israel. \\par",
+      "reference": "Is 5:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i A ira de Iahweh\\par }Por esta razão inflamou-se a ira de Iahweh contra o seu povo; \\par ele estendeu a sua mão e o feriu, \\par os montes tremeram \\par e os seus cadáveres jazem no meio das ruas como lixo. \\par Com tudo isto não se amainou a sua ira, \\par a sua mão continua estendida. \\par",
+      "reference": "Is 5:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i Um chamado dirigido aos invasores\\par }Ele deu sinal a um povo distante, \\par assobiou-lhe desde os confins da terra; \\par ei-lo que vem chegando apressado e ligeiro. \\par",
+      "reference": "Is 5:26"
+    },
+    "27": {
+      "text": "No meio dele não há cansados nem claudicantes, \\par não há nenhum sonolento, ninguém que dormite, \\par ninguém que desate o cinto dos seus lombos, \\par ninguém que rompa a correia dos seus sapatos. \\par",
+      "reference": "Is 5:27"
+    },
+    "28": {
+      "text": "As suas flechas estão aguçadas e todos os seus arcos retesados, \\par os cascos dos seus cavalos parecem sílex, \\par as rodas dos seus carros lembram um furacão. \\par",
+      "reference": "Is 5:28"
+    },
+    "29": {
+      "text": "O seu rugido é como o da leoa, \\par ruge como o leão novo: \\par ruge enquanto agarra a sua presa, \\par arrebata-a e não há quem consiga tomar-lha; \\par",
+      "reference": "Is 5:29"
+    },
+    "30": {
+      "text": "naquele dia, rugirá contra ele com um rugido semelhante ao do mar. \\par Olha para a sua terra: eis que tudo são trevas e angústias, \\par a luz se transformou em trevas por efeito das nuvens. \\par",
+      "reference": "Is 5:30"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 30
+}

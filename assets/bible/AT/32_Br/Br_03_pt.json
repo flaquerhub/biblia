@@ -1,0 +1,165 @@
+{
+  "book": 71,
+  "book_name": "Baruc",
+  "book_abbr": "Br",
+  "book_category": "Deuterocanônicos",
+  "book_english": "Baruch",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Senhor todo-poderoso, Deus de Israel, é uma alma angustiada, um espírito perturbado que clama a ti:",
+      "reference": "Br 3:1"
+    },
+    "2": {
+      "text": "Escuta, Senhor, e tem piedade, porque nós pecamos contra ti.",
+      "reference": "Br 3:2"
+    },
+    "3": {
+      "text": "Tu, sim, permaneces eternamente em teu trono; enquanto nós, para sempre estamos perdidos.",
+      "reference": "Br 3:3"
+    },
+    "4": {
+      "text": "Senhor todo-poderoso, Deus de Israel, escuta pois a súplica dos mortos de Israel, dos filhos dos que pecaram contra ti, que não escutaram a voz do Senhor seu Deus: por isso, acompanham-nos as desgraças.",
+      "reference": "Br 3:4"
+    },
+    "5": {
+      "text": "Não te recordes das injustiças de nossos pais; mas sim, nesta hora, lembra-te da tua mão e do teu Nome.",
+      "reference": "Br 3:5"
+    },
+    "6": {
+      "text": "Pois tu és o Senhor nosso Deus e havemos de te louvar, Senhor!",
+      "reference": "Br 3:6"
+    },
+    "7": {
+      "text": "É por isso que infundiste o teu temor em nossos corações: para que invocássemos o teu Nome. E nós te louvaremos, mesmo em nosso exílio, porque removemos de nosso coração toda a injustiça de nossos pais, os quais pecaram contra ti.",
+      "reference": "Br 3:7"
+    },
+    "8": {
+      "text": "Eis-nos hoje em nosso exílio, onde nos dispersaste para sermos um opróbrio, uma maldição e uma condenação, segundo todas as injustiças de nossos pais, que se afastaram do Senhor nossos Deus. \\par",
+      "reference": "Br 3:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b {\\i II. A sabedoria, prerrogativa de Israel}\\par }Escuta, Israel, os mandamentos da vida; \\par presta ouvidos, para conheceres a prudência. \\par",
+      "reference": "Br 3:9"
+    },
+    "10": {
+      "text": "Por que, Israel, por que te encontras na terra dos teus inimigos, \\par envelhecendo em terra estrangeira? \\par",
+      "reference": "Br 3:10"
+    },
+    "11": {
+      "text": "Por que te contaminaste com os mortos, \\par e te puseste no número dos que vão para o Hades? \\par",
+      "reference": "Br 3:11"
+    },
+    "12": {
+      "text": "É porque abandonaste a fonte da Sabedoria! \\par",
+      "reference": "Br 3:12"
+    },
+    "13": {
+      "text": "Se tivesses prosseguido no caminho de Deus, \\par habitarias na paz para sempre. \\par",
+      "reference": "Br 3:13"
+    },
+    "14": {
+      "text": "Aprende, pois, onde está a prudência, onde a força \\par e a inteligência, para conheceres ao mesmo tempo \\par onde se encontra a longevidade e a vida, \\par a luz dos olhos e a paz. \\par",
+      "reference": "Br 3:14"
+    },
+    "15": {
+      "text": "Entretanto, quem é que descobriu seu paradeiro \\par e quem penetrou em seus tesouros? \\par",
+      "reference": "Br 3:15"
+    },
+    "16": {
+      "text": "Onde estão os governantes das nações \\par e os domadores das feras sobre a terra, \\par",
+      "reference": "Br 3:16"
+    },
+    "17": {
+      "text": "os que se divertem com as aves do céu \\par e os que acumulam a prata e o ouro, \\par no qual os homens confiam, \\par e cujas posses são sem limites, \\par",
+      "reference": "Br 3:17"
+    },
+    "18": {
+      "text": "os que trabalham a prata e se afligem, e no entanto suas obras não deixam traço? \\par",
+      "reference": "Br 3:18"
+    },
+    "19": {
+      "text": "Desapareceram e desceram ao Hades, \\par enquanto outros surgiram em seu lugar: \\par",
+      "reference": "Br 3:19"
+    },
+    "20": {
+      "text": "uma nova geração viu a luz e habitou sobre a terra, \\par mas não conheceram o caminho da ciência; \\par",
+      "reference": "Br 3:20"
+    },
+    "21": {
+      "text": "nem sequer entenderam suas veredas, \\par nem mesmo lhe deram atenção: e seus filhos ficaram longe do seu caminho. \\par",
+      "reference": "Br 3:21"
+    },
+    "22": {
+      "text": "Não se ouviu falar dela em Canaã \\par nem alguém a viu em Temã. \\par",
+      "reference": "Br 3:22"
+    },
+    "23": {
+      "text": "Mesmo os filhos de Agar, que procuram a inteligência sobre a terra, \\par os negociantes de Madiã e de Temã, \\par os contadores de fábulas e os desejosos de inteligência \\par não chegaram a conhecer o caminho da sabedoria \\par nem se recordam de suas veredas. \\par",
+      "reference": "Br 3:23"
+    },
+    "24": {
+      "text": "Como é grande, ó Israel, a morada de Deus, \\par e como é vasta a extensão do seu domínio, \\par",
+      "reference": "Br 3:24"
+    },
+    "25": {
+      "text": "grande e sem fim, \\par elevada e sem medidas! \\par",
+      "reference": "Br 3:25"
+    },
+    "26": {
+      "text": "É lá que nasceram os gigantes, famosos desde as origens, \\par descomunais na estatura e adestrados na guerra. \\par",
+      "reference": "Br 3:26"
+    },
+    "27": {
+      "text": "Mas não foi a eles que Deus escolheu, \\par nem a eles indicou o caminho da ciência. \\par",
+      "reference": "Br 3:27"
+    },
+    "28": {
+      "text": "Por isso pereceram, por não terem a prudência; \\par pereceram por sua irreflexão. \\par",
+      "reference": "Br 3:28"
+    },
+    "29": {
+      "text": "Quem subiu ao céu e apoderou-se dela, \\par e a fez descer do alto das nuvens? \\par",
+      "reference": "Br 3:29"
+    },
+    "30": {
+      "text": "Quem atravessou o mar e a encontrou, \\par quem a trará a preço de ouro refinado? \\par",
+      "reference": "Br 3:30"
+    },
+    "31": {
+      "text": "Não há quem conheça o seu caminho, \\par nem quem se dê conta da sua vereda. \\par",
+      "reference": "Br 3:31"
+    },
+    "32": {
+      "text": "Aquele que sabe todas as coisas, porém, a conhece, \\par pois descobriu-a com a sua inteligência; \\par aquele que preparou a terra para uma duração eterna \\par e a encheu de animais quadrúpedes; \\par",
+      "reference": "Br 3:32"
+    },
+    "33": {
+      "text": "aquele que envia a luz e ela parte, \\par que a chama de volta e ela, tremendo, obedece; \\par",
+      "reference": "Br 3:33"
+    },
+    "34": {
+      "text": "brilham em seus postos as estrelas, palpitantes de alegria: \\par",
+      "reference": "Br 3:34"
+    },
+    "35": {
+      "text": "ele as chama e elas respondem: \\par “Aqui estamos”, \\par cintilando com alegria para aquele que as fez. \\par",
+      "reference": "Br 3:35"
+    },
+    "36": {
+      "text": "É ele o nosso Deus, \\par e nenhum outro se contará ao lado dele. \\par",
+      "reference": "Br 3:36"
+    },
+    "37": {
+      "text": "Foi ela que descobriu todo o caminho da ciência \\par e o deu a conhecer a Jacó, seu servo, \\par e a Israel, seu bem-amado. \\par",
+      "reference": "Br 3:37"
+    },
+    "38": {
+      "text": "Depois disso ela apareceu sobre a terra \\par e no meio dos homens viveu. \\par",
+      "reference": "Br 3:38"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 38
+}

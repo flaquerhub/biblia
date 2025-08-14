@@ -1,0 +1,101 @@
+{
+  "book": 21,
+  "book_name": "Eclesiastes",
+  "book_abbr": "Ec",
+  "book_category": "Sapiencial",
+  "book_english": "Ecclesiastes",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A morte\\par }Há um momento para tudo e um tempo para todo propósito debaixo do céu. \\par",
+      "reference": "Ec 3:1"
+    },
+    "2": {
+      "text": "Tempo de nascer, \\par e tempo de morrer; \\par tempo de plantar, \\par e tempo de arrancar a planta. \\par",
+      "reference": "Ec 3:2"
+    },
+    "3": {
+      "text": "Tempo de matar, \\par e tempo de curar; \\par tempo de destruir, \\par e tempo de construir. \\par",
+      "reference": "Ec 3:3"
+    },
+    "4": {
+      "text": "Tempo de chorar, \\par e tempo de rir; \\par tempo de gemer, \\par e tempo de bailar. \\par",
+      "reference": "Ec 3:4"
+    },
+    "5": {
+      "text": "Tempo de atirar pedras, \\par e tempo de recolher pedras; \\par tempo de abraçar, \\par e tempo de separar. \\par",
+      "reference": "Ec 3:5"
+    },
+    "6": {
+      "text": "Tempo de buscar, \\par e tempo de perder; \\par tempo de guardar, \\par e tempo de jogar fora. \\par",
+      "reference": "Ec 3:6"
+    },
+    "7": {
+      "text": "Tempo de rasgar, \\par e tempo de costurar; \\par tempo de calar, \\par e tempo de falar. \\par",
+      "reference": "Ec 3:7"
+    },
+    "8": {
+      "text": "Tempo de amar, \\par e tempo de odiar; \\par tempo de guerra, \\par e tempo de paz. \\par",
+      "reference": "Ec 3:8"
+    },
+    "9": {
+      "text": "Que proveito o trabalhador tira de sua fadiga?",
+      "reference": "Ec 3:9"
+    },
+    "10": {
+      "text": "Observo a tarefa que Deus deu aos homens para que dela se ocupem:",
+      "reference": "Ec 3:10"
+    },
+    "11": {
+      "text": "tudo o que ele fez é apropriado ao seu tempo. Também colocou no coração do homem o conjunto do tempo, sem que o homem possa atinar com a obra que Deus realiza desde o princípio até o fim. \\par",
+      "reference": "Ec 3:11"
+    },
+    "12": {
+      "text": "E compreendi que não há felicidade para o homem a não ser a de alegrar-se e fazer o bem durante sua vida.",
+      "reference": "Ec 3:12"
+    },
+    "13": {
+      "text": "E, que o homem coma e beba, desfrutando do produto de todo o seu trabalho, é dom de Deus. \\par",
+      "reference": "Ec 3:13"
+    },
+    "14": {
+      "text": "Compreendi que tudo o que Deus faz é para sempre. \\par A isso nada se pode acrescentar, \\par e disso nada se pode tirar. \\par Deus assim faz para que o temam. \\par",
+      "reference": "Ec 3:14"
+    },
+    "15": {
+      "text": "O que existe, já havia existido; \\par o que existirá, já existe, \\par pois Deus procura o perseguido. \\par",
+      "reference": "Ec 3:15"
+    },
+    "16": {
+      "text": "Observo outra coisa debaixo do sol: \\par no lugar do direito encontra-se o delito, \\par no lugar do justo encontra-se o ímpio; \\par",
+      "reference": "Ec 3:16"
+    },
+    "17": {
+      "text": "e penso: ao justo e ao ímpio Deus os julgará, porque aqui há um tempo para todo propósito e um lugar para cada ação. \\par",
+      "reference": "Ec 3:17"
+    },
+    "18": {
+      "text": "Quanto aos homens penso assim: Deus os põe à prova para mostrar-lhes que são animais.",
+      "reference": "Ec 3:18"
+    },
+    "19": {
+      "text": "Pois a sorte do homem e a do animal é idêntica: como morre um, assim morre o outro, e ambos têm o mesmo alento; o homem não leva vantagem sobre o animal, porque tudo é vaidade. \\par",
+      "reference": "Ec 3:19"
+    },
+    "20": {
+      "text": "Tudo caminha para um mesmo lugar: \\par tudo vem do pó \\par e tudo volta ao pó. \\par",
+      "reference": "Ec 3:20"
+    },
+    "21": {
+      "text": "Quem sabe se o alento do homem sobe para o alto e se o alento do animal desce para baixo, para a terra? \\par",
+      "reference": "Ec 3:21"
+    },
+    "22": {
+      "text": "Observo que não há felicidade para o homem a não ser alegrar-se com suas obras: essa é a sua porção; pois quem lhe mostrará o que vai acontecer depois dele? \\par",
+      "reference": "Ec 3:22"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 22
+}

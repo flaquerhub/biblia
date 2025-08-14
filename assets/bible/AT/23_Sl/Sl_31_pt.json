@@ -1,0 +1,113 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 31 (30)\\par }{\\qc\\b\\i Súplica na provação\\par }{\\qc\\i Do mestre de canto. Salmo. De Davi.\\par }",
+      "reference": "Sl 31:1"
+    },
+    "2": {
+      "text": "Iahweh, eu me abrigo em ti: \\par que eu nunca fique envergonhado! \\par Salva-me por tua justiça! Liberta-me! \\par",
+      "reference": "Sl 31:2"
+    },
+    "3": {
+      "text": "Inclina depressa teu ouvido para mim! \\par Sê para mim um forte rochedo, \\par uma casa fortificada que me salve; \\par",
+      "reference": "Sl 31:3"
+    },
+    "4": {
+      "text": "pois meu rochedo e muralha és tu: \\par guia-me por teu nome, conduze-me! \\par",
+      "reference": "Sl 31:4"
+    },
+    "5": {
+      "text": "Tira-me da rede estendida contra mim, \\par pois tu és a minha força; \\par",
+      "reference": "Sl 31:5"
+    },
+    "6": {
+      "text": "em tuas mãos eu entrego meu espírito, \\par és tu que me resgatas, Iahweh. \\par Deus verdadeiro,",
+      "reference": "Sl 31:6"
+    },
+    "7": {
+      "text": "tu detestas \\par os que veneram ídolos vazios; \\par quanto a mim, eu confio em Iahweh: \\par",
+      "reference": "Sl 31:7"
+    },
+    "8": {
+      "text": "que eu exulte e me alegre com teu amor! \\par Pois viste minha miséria, \\par conheceste minha opressão; \\par",
+      "reference": "Sl 31:8"
+    },
+    "9": {
+      "text": "não me entregaste à mão do inimigo, \\par firmaste meus pés em lugar espaçoso. \\par",
+      "reference": "Sl 31:9"
+    },
+    "10": {
+      "text": "Tem piedade de mim, Iahweh, \\par pois estou oprimido. \\par A dor me consome os olhos, \\par a garganta e as entranhas. \\par",
+      "reference": "Sl 31:10"
+    },
+    "11": {
+      "text": "Eis que minha vida se consome em tristeza \\par e meus anos em gemidos; \\par meu vigor se enfraquece em miséria \\par e meus ossos se consomem. \\par",
+      "reference": "Sl 31:11"
+    },
+    "12": {
+      "text": "Pelos opressores todos que tenho \\par já me tornei um escândalo; \\par para meus vizinhos, um asco, \\par e terror para meus amigos. \\par Os que me vêem na rua \\par fogem para longe de mim; \\par",
+      "reference": "Sl 31:12"
+    },
+    "13": {
+      "text": "fui esquecido, como um morto aos corações, \\par estou como um objeto perdido. \\par",
+      "reference": "Sl 31:13"
+    },
+    "14": {
+      "text": "Ouço as calúnias de muitos, \\par o terror me envolve! \\par Eles conspiram juntos contra mim, \\par projetando tirar-me a vida. \\par",
+      "reference": "Sl 31:14"
+    },
+    "15": {
+      "text": "Quanto a mim, Iahweh, eu confio em ti, \\par e digo: Tu és o meu Deus! \\par",
+      "reference": "Sl 31:15"
+    },
+    "16": {
+      "text": "Meus tempos estão em tua mão: liberta-me \\par da mão dos meus inimigos e perseguidores! \\par",
+      "reference": "Sl 31:16"
+    },
+    "17": {
+      "text": "Faze brilhar tua face sobre o teu servo, \\par salva-me por teu amor! \\par",
+      "reference": "Sl 31:17"
+    },
+    "18": {
+      "text": "Iahweh, que eu não me envergonhe de te invocar; \\par envergonhados fiquem os ímpios, \\par e silenciem, indo para o Xeol! \\par",
+      "reference": "Sl 31:18"
+    },
+    "19": {
+      "text": "Emudeçam os lábios mentirosos \\par que proferem insolências contra o justo, \\par com soberba e desprezo! \\par",
+      "reference": "Sl 31:19"
+    },
+    "20": {
+      "text": "Iahweh, como é grande a tua bondade! \\par Tu a reservas para os que temem a ti, \\par e a concedes para os que em ti se abrigam, \\par diante dos filhos de Adão. \\par",
+      "reference": "Sl 31:20"
+    },
+    "21": {
+      "text": "Tu os escondes no segredo de tua face, \\par longe das intrigas humanas; \\par tu os ocultas em tua tenda, \\par longe das línguas que discutem. \\par",
+      "reference": "Sl 31:21"
+    },
+    "22": {
+      "text": "Bendito seja Iahweh, que por mim \\par realizou maravilhas de amor \\par (numa cidade fortificada)! \\par",
+      "reference": "Sl 31:22"
+    },
+    "23": {
+      "text": "Quanto a mim, na minha ânsia eu dizia: \\par “Fui excluído para longe de teus olhos!” \\par Tu, porém, ouvias minha voz suplicante, \\par quando eu gritava a ti. \\par",
+      "reference": "Sl 31:23"
+    },
+    "24": {
+      "text": "Amai a Iahweh, seus fiéis todos: \\par Iahweh preserva os leais, \\par mas retribui com usura \\par ao que age com soberba. \\par",
+      "reference": "Sl 31:24"
+    },
+    "25": {
+      "text": "Sede firmes, fortalecei vosso coração, \\par vós todos que esperais em Iahweh! \\par",
+      "reference": "Sl 31:25"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 25
+}

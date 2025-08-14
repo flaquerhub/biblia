@@ -1,0 +1,173 @@
+{
+  "book": 44,
+  "book_name": "Atos",
+  "book_abbr": "At",
+  "book_category": "Histórico NT",
+  "book_english": "Acts",
+  "testament": "NT",
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Alcançou em seguida Derbe, depois Listra. Ora, havia lá um discípulo chamado Timóteo, filho de uma mulher judia, que abraçara a fé, e de pai grego.",
+      "reference": "At 16:1"
+    },
+    "2": {
+      "text": "Dele davam bom testemunho os irmãos de Listra e de Icônio.",
+      "reference": "At 16:2"
+    },
+    "3": {
+      "text": "Querendo Paulo que ele partisse consigo, realizou a sua circuncisão, por causa dos judeus que havia naqueles lugares. É que todos sabiam que seu pai era grego. \\par",
+      "reference": "At 16:3"
+    },
+    "4": {
+      "text": "Ao passarem pelas cidades, transmitiam-lhes, para que as observassem, as decisões sancionadas pelos apóstolos e anciãos de Jerusalém. \\par",
+      "reference": "At 16:4"
+    },
+    "5": {
+      "text": "Assim as Igrejas eram confirmadas na fé e cresciam em número, de dia para dia. \\par",
+      "reference": "At 16:5"
+    },
+    "6": {
+      "text": "\\par {\\qc\\b\\i Travessia da Ásia Menor\\par }Atravessaram depois a Frígia e a região da Galácia, impedidos que foram pelo Espírito Santo de anunciar a palavra na Ásia.",
+      "reference": "At 16:6"
+    },
+    "7": {
+      "text": "Chegando aos confins da Mísia, tentaram penetrar na Bitínia, mas o Espírito de Jesus não lho permitiu.",
+      "reference": "At 16:7"
+    },
+    "8": {
+      "text": "Atravessaram então a Mísia e desceram a Trôade. \\par",
+      "reference": "At 16:8"
+    },
+    "9": {
+      "text": "Ora, durante a noite, sobreveio a Paulo uma visão. Um macedônio, de pé diante dele, fazia-lhe este pedido: “Vem para a Macedônia, e ajuda-nos!”",
+      "reference": "At 16:9"
+    },
+    "10": {
+      "text": "Logo após a visão, procuramos partir para a Macedônia, persuadidos de que Deus nos chamava para anunciar-lhes a Boa Nova. \\par",
+      "reference": "At 16:10"
+    },
+    "11": {
+      "text": "\\par {\\qc\\b\\i Chegada a Filipos\\par }Tendo embarcado em Trôade, seguimos em linha reta para Samotrácia. De lá, no dia seguinte, para Neápolis,",
+      "reference": "At 16:11"
+    },
+    "12": {
+      "text": "de onde partimos para Filipos, cidade principal daquela região da Macedônia, e também colônia romana. Passamos nesta cidade alguns dias.",
+      "reference": "At 16:12"
+    },
+    "13": {
+      "text": "Quando chegou o sábado, saímos fora da porta, a um lugar junto ao rio, onde parecia-nos haver oração. Sentados, começamos a falar às mulheres que se tinham reunido.",
+      "reference": "At 16:13"
+    },
+    "14": {
+      "text": "Uma delas, chamada Lídia, negociante de púrpura da cidade de Tiatira, e adoradora de Deus, escutava-nos. O Senhor lhe abrira o coração, para que ela atendesse ao que Paulo dizia.",
+      "reference": "At 16:14"
+    },
+    "15": {
+      "text": "Tendo sido batizada, ela e os de sua casa, fez-nos este pedido: “Se me considerais fiel ao Senhor, vinde hospedar-vos em minha casa”. E forçou-nos a aceitar. \\par",
+      "reference": "At 16:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Prisão de Paulo e Silas\\par }Certo dia, quando íamos para a oração, veio ao nosso encontro uma jovem escrava que tinha um espírito de adivinhação; ela obtinha para seus amos muito lucro, por seus oráculos.",
+      "reference": "At 16:16"
+    },
+    "17": {
+      "text": "Começou a seguir-nos, a Paulo e a nós, clamando: “Estes homens são servos do Deus altíssimo, que vos anunciam o caminho da salvação”.",
+      "reference": "At 16:17"
+    },
+    "18": {
+      "text": "Isto ela o fez por vários dias. Fatigado com aquilo, Paulo voltou-se para o espírito, dizendo: “Em nome de Jesus Cristo, eu te ordeno que te retires dela!” E na mesma hora saiu. \\par",
+      "reference": "At 16:18"
+    },
+    "19": {
+      "text": "Vendo seus amos que findara a esperança de seus lucros, agarraram Paulo e Silas e os arrastaram à ágora, à presença dos magistrados.",
+      "reference": "At 16:19"
+    },
+    "20": {
+      "text": "Apresentando-os aos estrategos, disseram: “Estes homens estão perturbando nossa cidade. São judeus,",
+      "reference": "At 16:20"
+    },
+    "21": {
+      "text": "e propagam costumes que não nos é lícito acolher nem praticar, porque somos romanos”.",
+      "reference": "At 16:21"
+    },
+    "22": {
+      "text": "Amotinando-se a multidão contra eles, os estrategos, depois de mandarem arrancar-lhes as vestes, ordenaram que fossem batidos com varas.",
+      "reference": "At 16:22"
+    },
+    "23": {
+      "text": "Depois de lhes infligirem muitos golpes, lançaram-nos à prisão, recomendando ao carcereiro que os vigiasse com cuidado.",
+      "reference": "At 16:23"
+    },
+    "24": {
+      "text": "Recebida a ordem, este os lançou à parte mais interna da prisão e prendeu-lhes os pés no cepo. \\par",
+      "reference": "At 16:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Libertação maravilhosa dos missionários\\par }Pela meia noite, Paulo e Silas, em oração, cantavam os louvores de Deus, enquanto os outros presos os ouviam.",
+      "reference": "At 16:25"
+    },
+    "26": {
+      "text": "De repente, sobreveio um terremoto de tal intensidade que se abalaram os alicerces do cárcere. Imediatamente abriram-se todas as portas, e os grilhões de todos soltaram-se.",
+      "reference": "At 16:26"
+    },
+    "27": {
+      "text": "Acordado, e vendo abertas as portas da prisão, o carcereiro puxou a espada e queria matar-se; pensava que os presos tivessem fugido.",
+      "reference": "At 16:27"
+    },
+    "28": {
+      "text": "Paulo, porém, com voz forte gritou: “Não te faças mal algum, pois estamos todos aqui”. \\par",
+      "reference": "At 16:28"
+    },
+    "29": {
+      "text": "Então o carcereiro pediu uma luz, entrou para dentro e, todo trêmulo, caiu aos pés de Paulo e de Silas.",
+      "reference": "At 16:29"
+    },
+    "30": {
+      "text": "Conduzindo-os para fora, disse-lhes: “Senhores, que preciso fazer para ser salvo?”",
+      "reference": "At 16:30"
+    },
+    "31": {
+      "text": "Eles responderam: “Crê no Senhor e serás salvo, tu e a tua casa”.",
+      "reference": "At 16:31"
+    },
+    "32": {
+      "text": "E anunciaram-lhe a palavra do Senhor, bem como a todos os que estavam em sua casa.",
+      "reference": "At 16:32"
+    },
+    "33": {
+      "text": "Acolhendo-os, então, naquela mesma hora da noite lavou-lhes as feridas, e imediatamente recebeu o batismo, ele e todos os seus.",
+      "reference": "At 16:33"
+    },
+    "34": {
+      "text": "Fê-los, então, subir à sua casa, pôs-lhes a mesa, e rejubilou-se com todos os seus por ter crido em Deus. \\par",
+      "reference": "At 16:34"
+    },
+    "35": {
+      "text": "Fazendo-se dia, os estrategos enviaram os litores com a seguinte ordem: “Solta esses homens”.",
+      "reference": "At 16:35"
+    },
+    "36": {
+      "text": "O carcereiro transmitiu tais palavras a Paulo: “Os estrategos mandam dizer que sejais soltos. Agora, pois, saí e prossegui vosso caminho”.",
+      "reference": "At 16:36"
+    },
+    "37": {
+      "text": "Paulo, porém, replicou-lhes: “Vergastaram-nos em público sem julgamento, a nós que somos cidadãos romanos, e lançaram-nos à prisão. Agora, é furtivamente que nos mandam sair? Não será assim: eles mesmos venham retirar-nos daqui”. \\par",
+      "reference": "At 16:37"
+    },
+    "38": {
+      "text": "Os litores transmitiram aos estrategos essas palavras. Ouvindo dizer que eram cidadãos romanos, ficaram com medo",
+      "reference": "At 16:38"
+    },
+    "39": {
+      "text": "e vieram pessoalmente insistir com eles para que se afastassem da cidade.",
+      "reference": "At 16:39"
+    },
+    "40": {
+      "text": "Ao saírem da prisão, dirigiram-se à casa de Lídia e, vendo os irmãos, confortaram-nos. Depois, partiram. \\par",
+      "reference": "At 16:40"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 40
+}

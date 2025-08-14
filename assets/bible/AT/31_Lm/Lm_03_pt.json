@@ -1,0 +1,277 @@
+{
+  "book": 25,
+  "book_name": "Lamentações",
+  "book_abbr": "Lm",
+  "book_category": "Profético",
+  "book_english": "Lamentations",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Terceira lamentação}\\par }{\\qc\\b\\i Alef\\par }Eu sou o homem que conheceu a miséria \\par sob a vara de seu furor. \\par",
+      "reference": "Lm 3:1"
+    },
+    "2": {
+      "text": "Ele me guiou e me fez andar \\par na treva e não na luz; \\par",
+      "reference": "Lm 3:2"
+    },
+    "3": {
+      "text": "só contra mim está ele volvendo e revolvendo \\par sua mão todo o dia. \\par",
+      "reference": "Lm 3:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Bet\\par }Consumiu minha carne e minha pele, \\par despedaçou os meus ossos. \\par",
+      "reference": "Lm 3:4"
+    },
+    "5": {
+      "text": "Edificou contra mim e envolveu \\par minha cabeça de tormento. \\par",
+      "reference": "Lm 3:5"
+    },
+    "6": {
+      "text": "Fez-me habitar nas trevas \\par como os que estão mortos para sempre. \\par",
+      "reference": "Lm 3:6"
+    },
+    "7": {
+      "text": "\\par {\\qc\\b\\i Guimel\\par }Cercou-me com um muro, não posso sair; \\par tornou pesadas minhas cadeias. \\par",
+      "reference": "Lm 3:7"
+    },
+    "8": {
+      "text": "Por mais que eu grite por socorro \\par ele abafa minha oração. \\par",
+      "reference": "Lm 3:8"
+    },
+    "9": {
+      "text": "Murou meus caminhos com pedras lavradas, \\par obstruiu minhas veredas. \\par",
+      "reference": "Lm 3:9"
+    },
+    "10": {
+      "text": "\\par {\\qc\\b\\i Dalet\\par }Ele foi para mim como um urso à espreita, \\par como um leão de emboscada. \\par",
+      "reference": "Lm 3:10"
+    },
+    "11": {
+      "text": "Afastou-me de meu caminho, despedaçou-me, \\par fez de mim um horror. \\par",
+      "reference": "Lm 3:11"
+    },
+    "12": {
+      "text": "Retesou seu arco e me colocou \\par como um alvo para a flecha. \\par",
+      "reference": "Lm 3:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Hê\\par }Cravou em meus rins \\par as flechas de sua aljava. \\par",
+      "reference": "Lm 3:13"
+    },
+    "14": {
+      "text": "Tornei-me a irrisão de todo o meu povo, \\par sua canção todo o dia. \\par",
+      "reference": "Lm 3:14"
+    },
+    "15": {
+      "text": "Saciou-me de amarguras, \\par inebriou-me de absinto. \\par",
+      "reference": "Lm 3:15"
+    },
+    "16": {
+      "text": "\\par {\\qc\\b\\i Waw\\par }Ele quebrou meus dentes com cascalho, \\par alimentou-me de cinza. \\par",
+      "reference": "Lm 3:16"
+    },
+    "17": {
+      "text": "Excluíste a paz de minha vida, \\par esqueci a felicidade! \\par",
+      "reference": "Lm 3:17"
+    },
+    "18": {
+      "text": "Eu disse: desfaleceu o meu vigor \\par e minha esperança em Iahweh. \\par",
+      "reference": "Lm 3:18"
+    },
+    "19": {
+      "text": "\\par {\\qc\\b\\i Záin\\par }Lembra-te de minha miséria e de minha angústia: \\par absinto e veneno! \\par",
+      "reference": "Lm 3:19"
+    },
+    "20": {
+      "text": "Eu me lembro, sempre me lembro, \\par transido dentro de mim. \\par",
+      "reference": "Lm 3:20"
+    },
+    "21": {
+      "text": "Esi o que recordarei a meu coração \\par e por que eu espero: \\par",
+      "reference": "Lm 3:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Het\\par }Os favores de Iahweh não terminaram, \\par suas compaixões não se esgotaram; \\par",
+      "reference": "Lm 3:22"
+    },
+    "23": {
+      "text": "elas se renovam todas as manhãs, \\par grande é a sua fidelidade! \\par",
+      "reference": "Lm 3:23"
+    },
+    "24": {
+      "text": "Eu digo: minha porção é Iahweh! \\par Eis por que nele espero. \\par",
+      "reference": "Lm 3:24"
+    },
+    "25": {
+      "text": "\\par {\\qc\\b\\i Tet\\par }Iahweh é bom para quem nele confia, \\par para aquele que o busca. \\par",
+      "reference": "Lm 3:25"
+    },
+    "26": {
+      "text": "É bom esperar em silêncio \\par a salvação de Iahweh. \\par",
+      "reference": "Lm 3:26"
+    },
+    "27": {
+      "text": "É bom para o homem suportar \\par o jugo desde sua juventude. \\par",
+      "reference": "Lm 3:27"
+    },
+    "28": {
+      "text": "\\par {\\qc\\b\\i Yod\\par }Que esteja solitário e silencioso \\par quando o Senhor o impuser sobre ele; \\par",
+      "reference": "Lm 3:28"
+    },
+    "29": {
+      "text": "que ponha sua boca no pó: \\par talvez haja esperança! \\par",
+      "reference": "Lm 3:29"
+    },
+    "30": {
+      "text": "Que dê sua face a quem o fere \\par e se sacie de opróbrios. \\par",
+      "reference": "Lm 3:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Kaf\\par }Pois o Senhor \\par não rejeita para sempre: \\par",
+      "reference": "Lm 3:31"
+    },
+    "32": {
+      "text": "se ele aflige, ele se compadece \\par segundo sua grande bondade. \\par",
+      "reference": "Lm 3:32"
+    },
+    "33": {
+      "text": "Pois não é de bom grado que ele humilha \\par e que aflige os filhos do homem! \\par",
+      "reference": "Lm 3:33"
+    },
+    "34": {
+      "text": "\\par {\\qc\\b\\i Lamed\\par }Quando se esmagam debaixo dos pés \\par todos os prisioneiros de um país, \\par",
+      "reference": "Lm 3:34"
+    },
+    "35": {
+      "text": "quando se desvia o direito de um homem \\par diante da face do Altíssimo, \\par",
+      "reference": "Lm 3:35"
+    },
+    "36": {
+      "text": "quando se lesa um homem em seu processo, \\par não o veria o Senhor? \\par",
+      "reference": "Lm 3:36"
+    },
+    "37": {
+      "text": "\\par {\\qc\\b\\i Mem\\par }Quem fala, e as coisas acontecem? \\par Não é o Senhor quem decide? \\par",
+      "reference": "Lm 3:37"
+    },
+    "38": {
+      "text": "Não é da boca do Altíssimo que saem \\par os males e a felicidade? \\par",
+      "reference": "Lm 3:38"
+    },
+    "39": {
+      "text": "Por que se queixa o homem, \\par o homem que vive apesar de seus pecados? \\par",
+      "reference": "Lm 3:39"
+    },
+    "40": {
+      "text": "\\par {\\qc\\b\\i Nun\\par }Examinemos nossos caminhos, exploremo-los \\par e voltemos a Iahweh. \\par",
+      "reference": "Lm 3:40"
+    },
+    "41": {
+      "text": "Elevemos nosso coração e nossas mãos \\par para o Deus que está nos céus. \\par",
+      "reference": "Lm 3:41"
+    },
+    "42": {
+      "text": "Nós pecamos, fomos rebeldes \\par e tu não nos perdoaste. \\par",
+      "reference": "Lm 3:42"
+    },
+    "43": {
+      "text": "\\par {\\qc\\b\\i Samec\\par }Envolto em ira, tu nos perseguiste, \\par mataste sem piedade. \\par",
+      "reference": "Lm 3:43"
+    },
+    "44": {
+      "text": "Tu te envolveste com tua nuvem \\par para que não passe a oração. \\par",
+      "reference": "Lm 3:44"
+    },
+    "45": {
+      "text": "Fazes de nós uma imundície, um refugo \\par no meio dos povos. \\par",
+      "reference": "Lm 3:45"
+    },
+    "46": {
+      "text": "\\par {\\qc\\b\\i Pê\\par }Abriram sua boca contra nós \\par todos os nossos inimigos. \\par",
+      "reference": "Lm 3:46"
+    },
+    "47": {
+      "text": "Terrores e espanto foram para nós, \\par ruína e desastre! \\par",
+      "reference": "Lm 3:47"
+    },
+    "48": {
+      "text": "Meu olho derrama torrentes de lágrimas \\par por causa da destruição da filha de meu povo. \\par",
+      "reference": "Lm 3:48"
+    },
+    "49": {
+      "text": "\\par {\\qc\\b\\i Áin\\par }Meu olho chora e não se estanca, \\par não há sossego, \\par",
+      "reference": "Lm 3:49"
+    },
+    "50": {
+      "text": "até que Iahweh olhe \\par e veja do alto dos céus. \\par",
+      "reference": "Lm 3:50"
+    },
+    "51": {
+      "text": "Meus olhos doem-me \\par por causa de todas as filhas de minha Cidade. \\par",
+      "reference": "Lm 3:51"
+    },
+    "52": {
+      "text": "\\par {\\qc\\b\\i Çade\\par }Caçaram-me como seu eu fosse ave, \\par meus inimigos, sem razão. \\par",
+      "reference": "Lm 3:52"
+    },
+    "53": {
+      "text": "No fosso precipitaram minha vida \\par e atiraram pedras sobre mim. \\par",
+      "reference": "Lm 3:53"
+    },
+    "54": {
+      "text": "As águas submergiram minha cabeça; \\par eu dizia: “Estou perdido!” \\par",
+      "reference": "Lm 3:54"
+    },
+    "55": {
+      "text": "\\par {\\qc\\b\\i Qof\\par }Eu invoquei teu nome, Iahweh, \\par do mais profundo do fosso. \\par",
+      "reference": "Lm 3:55"
+    },
+    "56": {
+      "text": "Ouviste o meu grito, não feches teus ouvidos \\par à minha oração, a meu apelo. \\par",
+      "reference": "Lm 3:56"
+    },
+    "57": {
+      "text": "Aproximaste-te no dia em que te invoquei, \\par disseste: “Não temas!” \\par",
+      "reference": "Lm 3:57"
+    },
+    "58": {
+      "text": "\\par {\\qc\\b\\i Resh\\par }Defendeste, Senhor, a minha causa, \\par redimiste a minha vida. \\par",
+      "reference": "Lm 3:58"
+    },
+    "59": {
+      "text": "Viste, Iahweh, o dano que me é feito: \\par julga o meu direito! \\par",
+      "reference": "Lm 3:59"
+    },
+    "60": {
+      "text": "Viste toda a sua vingança, \\par todas as suas maquinações contra mim. \\par",
+      "reference": "Lm 3:60"
+    },
+    "61": {
+      "text": "\\par {\\qc\\b\\i Shin\\par }Ouviste seus insultos, Iahweh, \\par todas as suas maquinações contra mim, \\par",
+      "reference": "Lm 3:61"
+    },
+    "62": {
+      "text": "os lábios de meus adversários e seus cochichos \\par contra mim o dia todo. \\par",
+      "reference": "Lm 3:62"
+    },
+    "63": {
+      "text": "Olha-os, sentados ou de pé: \\par eu sou a sua cantilena... \\par",
+      "reference": "Lm 3:63"
+    },
+    "64": {
+      "text": "\\par {\\qc\\b\\i Taw\\par }Retribui-lhes, Iahweh, \\par segundo a obra de suas mãos. \\par",
+      "reference": "Lm 3:64"
+    },
+    "65": {
+      "text": "Dá-lhes um coração endurecido, \\par sobre eles a tua maldição. \\par",
+      "reference": "Lm 3:65"
+    },
+    "66": {
+      "text": "Persegue-os com ira, extirpa-os \\par de debaixo de teus céus! \\par",
+      "reference": "Lm 3:66"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 66
+}

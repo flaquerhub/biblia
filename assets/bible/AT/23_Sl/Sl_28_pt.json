@@ -1,0 +1,49 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 28 (27)\\par }{\\qc\\b\\i Súplica e ação de graças\\par }{\\qc\\i De Davi.\\par } A ti, Iahweh, eu clamo, \\par rocha minha, não me sejas surdo; \\par que eu não seja, frente ao teu silêncio, \\par como os que descem à cova! \\par",
+      "reference": "Sl 28:1"
+    },
+    "2": {
+      "text": "Ouve minha voz suplicante \\par quando eu grito a ti, \\par quando eu levanto as mãos, Iahweh, \\par para o teu santo dos santos. \\par",
+      "reference": "Sl 28:2"
+    },
+    "3": {
+      "text": "Não me arrastes com os ímpios, \\par nem com os malfeitores; \\par eles falam de paz com seu próximo, \\par mas têm o mal no coração. \\par",
+      "reference": "Sl 28:3"
+    },
+    "4": {
+      "text": "Dá-lhes, Iahweh, conforme suas obras, \\par segundo a malícia de seus atos! \\par Dá-lhes conforme a obra de suas mãos, \\par paga-lhes o devido salário! \\par",
+      "reference": "Sl 28:4"
+    },
+    "5": {
+      "text": "Eles não entendem as obras de Iahweh, \\par a obra de suas mãos; \\par que ele os arrase e não os reconstrua! \\par",
+      "reference": "Sl 28:5"
+    },
+    "6": {
+      "text": "Bendito seja Iahweh, pois ele ouve \\par a minha voz suplicante! \\par",
+      "reference": "Sl 28:6"
+    },
+    "7": {
+      "text": "Iahweh é minha força e meu escudo, \\par é nele que meu coração confia; \\par eu fui socorrido, minha carne refloresceu, \\par de todo o coração eu agradeço. \\par",
+      "reference": "Sl 28:7"
+    },
+    "8": {
+      "text": "Iahweh é a força do seu povo, \\par a fortaleza que salva o seu messias. \\par",
+      "reference": "Sl 28:8"
+    },
+    "9": {
+      "text": "Salva o teu povo, abençoa a tua herança! \\par Apascenta-os e conduze-os para sempre! \\par",
+      "reference": "Sl 28:9"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 9
+}

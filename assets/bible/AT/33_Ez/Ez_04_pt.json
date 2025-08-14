@@ -1,0 +1,81 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Anúncio do cerco de Jerusalém\\par }“Mas tu, filho do homem, toma um tijolo, coloca-o na tua frente e grava nele uma cidade, a saber, Jerusalém.",
+      "reference": "Ez 4:1"
+    },
+    "2": {
+      "text": "Põe cerco a ela, constrói contra ela trincheiras, levanta um aterro, forma um acampamento e rodeia-a de aríetes.",
+      "reference": "Ez 4:2"
+    },
+    "3": {
+      "text": "Em seguida, toma uma panela de ferro, fazendo dela uma muralha de ferro entre ti e a cidade. Depois, fixa o teu olhar sobre ela e ela ficará cercada. Com efeito, tu a terás cercado. Isto será um sinal para a casa de Israel. \\par",
+      "reference": "Ez 4:3"
+    },
+    "4": {
+      "text": "Deita-te sobre o teu lado esquerdo e toma sobre ti a culpa da casa de Israel. Levarás a culpa de Israel durante todos os dias em que ficares deitado sobre o teu lado.",
+      "reference": "Ez 4:4"
+    },
+    "5": {
+      "text": "Eu mesmo indiquei os anos da sua culpa, de acordo com os dias – isto é, trezentos e noventa dias – em que levarás a culpa da casa de Israel.",
+      "reference": "Ez 4:5"
+    },
+    "6": {
+      "text": "Ao terminá-los, tornarás a deitar-te, mas agora sobre o lado direito, levando a culpa da casa de Judá por quarenta dias, como te indiquei, isto é, um dia para cada ano.",
+      "reference": "Ez 4:6"
+    },
+    "7": {
+      "text": "Em seguida fixa o teu olhar sobre o cerco de Jerusalém; erguerás o teu braço descoberto e profetizarás contra ela.",
+      "reference": "Ez 4:7"
+    },
+    "8": {
+      "text": "Eis que te atei com cordas, de modo que não possas voltar-te de um lado para outro até cumprires os dias da tua reclusão. \\par",
+      "reference": "Ez 4:8"
+    },
+    "9": {
+      "text": "Toma, pois, trigo, cevada, favas, lentilhas, painço e espelta: põe-nos todos em uma mesma vasilha e faze-te pães com eles, de acordo com o número de dias em que houveres de estar deitado sobre o teu lado e os comerás durante os trezentos e noventa dias.",
+      "reference": "Ez 4:9"
+    },
+    "10": {
+      "text": "A porção que deverás comer cada dia terá o peso de vinte siclos. Tomá-la-ás em várias porções por dia.",
+      "reference": "Ez 4:10"
+    },
+    "11": {
+      "text": "Mede também a água que deves beber, isto é, beberás um sexto de um hin, de tempo em tempo.",
+      "reference": "Ez 4:11"
+    },
+    "12": {
+      "text": "Este alimento tu o comerás sob a forma de pães de cevada, assados à vista deles com excrementos humanos secos”.",
+      "reference": "Ez 4:12"
+    },
+    "13": {
+      "text": "E Iahweh acrescentou: “É assim que os filhos de Israel comerão o seu pão impuro entre as nações pelas quais vou espalhá-los”.",
+      "reference": "Ez 4:13"
+    },
+    "14": {
+      "text": "Então eu disse: “Ah!, Senhor Iahweh, a minha alma não é impura. Desde a minha infância até agora não comi animal morto por acaso ou despedaçado por uma fera, nem jamais carne avariada entrou na minha boca”.",
+      "reference": "Ez 4:14"
+    },
+    "15": {
+      "text": "Ao que me respondeu: “Está bem, dar-te-ei excremento de boi em lugar de excremento humano e cozerás os teus pães com eles”.",
+      "reference": "Ez 4:15"
+    },
+    "16": {
+      "text": "Em seguida, disse-me: “Filho do homem, eis que vou acabar com a reserva do pão em Jerusalém; o povo comerá com angústia o pão minguado e beberá apavorado a sua água medida.",
+      "reference": "Ez 4:16"
+    },
+    "17": {
+      "text": "Com efeito, o pão e a água faltarão; todos ficarão pasmados na presença uns dos outros e definharão em virtude da sua culpa. \\par",
+      "reference": "Ez 4:17"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 17
+}

@@ -1,0 +1,137 @@
+{
+  "book": 20,
+  "book_name": "Provérbios",
+  "book_abbr": "Pv",
+  "book_category": "Sapiencial",
+  "book_english": "Proverbs",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Balança falsa é abominação para Iahweh, \\par mas o peso justo tem o seu favor. \\par",
+      "reference": "Pv 11:1"
+    },
+    "2": {
+      "text": "Onde entra a insolência, entra a ignomínia, \\par mas com os humildes está a sabedoria. \\par",
+      "reference": "Pv 11:2"
+    },
+    "3": {
+      "text": "A integridade guia os homens retos, \\par e a maldade destrói os traidores. \\par",
+      "reference": "Pv 11:3"
+    },
+    "4": {
+      "text": "No dia da ira, a riqueza será inútil, \\par mas a justiça liberta da morte. \\par",
+      "reference": "Pv 11:4"
+    },
+    "5": {
+      "text": "A justiça dos íntegros endireita o seu caminho, \\par e o ímpio cai por sua impiedade. \\par",
+      "reference": "Pv 11:5"
+    },
+    "6": {
+      "text": "A justiça dos retos os salva, \\par e os traidores são colhidos em sua cobiça. \\par",
+      "reference": "Pv 11:6"
+    },
+    "7": {
+      "text": "Quando morre o ímpio, acaba seu anseio, \\par e a esperança nas riquezas perece. \\par",
+      "reference": "Pv 11:7"
+    },
+    "8": {
+      "text": "O justo escapa da angústia, \\par o ímpio ocupa o seu lugar. \\par",
+      "reference": "Pv 11:8"
+    },
+    "9": {
+      "text": "O ímpio arruína o próximo com a boca, \\par os justos se salvam com seu conhecimento. \\par",
+      "reference": "Pv 11:9"
+    },
+    "10": {
+      "text": "A cidade se alegra com a felicidade dos justos, \\par e quando perecem os ímpios há um grito de alegria. \\par",
+      "reference": "Pv 11:10"
+    },
+    "11": {
+      "text": "Com a bênção dos retos prospera a cidade, \\par pela boca dos ímpios ela se destrói. \\par",
+      "reference": "Pv 11:11"
+    },
+    "12": {
+      "text": "O sem juízo despreza o seu próximo, \\par o homem inteligente se cala. \\par",
+      "reference": "Pv 11:12"
+    },
+    "13": {
+      "text": "Quem anda tagarelando revela o segredo, \\par é um espírito seguro o que retém o assunto. \\par",
+      "reference": "Pv 11:13"
+    },
+    "14": {
+      "text": "Por falta de direção um povo se arruína, \\par e se salva por muitos conselheiros. \\par",
+      "reference": "Pv 11:14"
+    },
+    "15": {
+      "text": "Quem é fiador de um estrangeiro se prejudica, \\par quem não se compromete está tranqüilo. \\par",
+      "reference": "Pv 11:15"
+    },
+    "16": {
+      "text": "A mulher graciosa adquire honra, \\par os violentos adquirem a riqueza. \\par",
+      "reference": "Pv 11:16"
+    },
+    "17": {
+      "text": "O homem misericordioso faz bem a si mesmo, \\par o homem cruel destrói sua própria carne. \\par",
+      "reference": "Pv 11:17"
+    },
+    "18": {
+      "text": "O ímpio faz um trabalho enganador, \\par o que semeia justiça tem paga segura. \\par",
+      "reference": "Pv 11:18"
+    },
+    "19": {
+      "text": "Quem estabelece a justiça viverá, \\par Quem procura o mal morrerá. \\par",
+      "reference": "Pv 11:19"
+    },
+    "20": {
+      "text": "Abominação para Iahweh: os corações tortuosos; \\par o seu favor é o caminho dos íntegros. \\par",
+      "reference": "Pv 11:20"
+    },
+    "21": {
+      "text": "Certamente o mau não ficará impune, \\par mas a descendência dos justos será salva. \\par",
+      "reference": "Pv 11:21"
+    },
+    "22": {
+      "text": "Um anel de ouro no focinho de um porco \\par é a mulher formosa sem bom senso. \\par",
+      "reference": "Pv 11:22"
+    },
+    "23": {
+      "text": "O desejo dos justos é somente o bem, \\par a esperança dos ímpios é a cólera. \\par",
+      "reference": "Pv 11:23"
+    },
+    "24": {
+      "text": "Há quem seja pródigo e aumente sua riqueza, \\par e há quem guarde sem medida e se empobreça. \\par",
+      "reference": "Pv 11:24"
+    },
+    "25": {
+      "text": "A alma que abençoa prosperará, \\par e o que rega será também regado. \\par",
+      "reference": "Pv 11:25"
+    },
+    "26": {
+      "text": "O povo maldiz o que retém o trigo, \\par e há bênção para quem o vende. \\par",
+      "reference": "Pv 11:26"
+    },
+    "27": {
+      "text": "Quem visa o bem terá o favor, \\par quem procura o mal, este o atingirá. \\par",
+      "reference": "Pv 11:27"
+    },
+    "28": {
+      "text": "Quem confia na riqueza cairá, \\par mas os justos germinarão como a folhagem. \\par",
+      "reference": "Pv 11:28"
+    },
+    "29": {
+      "text": "Quem deixa a casa em desordem herdará vento, \\par e o estulto torna-se escravo do sábio de coração. \\par",
+      "reference": "Pv 11:29"
+    },
+    "30": {
+      "text": "O fruto do justo é uma árvore de vida; \\par o sábio conquista as pessoas. \\par",
+      "reference": "Pv 11:30"
+    },
+    "31": {
+      "text": "Se o justo aqui na terra recebe o seu salário, \\par quanto mais o ímpio e o pecador! \\par",
+      "reference": "Pv 11:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

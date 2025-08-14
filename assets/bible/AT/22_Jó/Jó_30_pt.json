@@ -1,0 +1,137 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i B. A tribulação presente\\par }Mas agora zombam de mim \\par moços mais jovens que eu, \\par a cujos pais teria recusado \\par deixar com os cães do meu rebanho. \\par",
+      "reference": "Jó 30:1"
+    },
+    "2": {
+      "text": "Para que me serviriam seus braços, \\par se suas forças se consumiram? \\par",
+      "reference": "Jó 30:2"
+    },
+    "3": {
+      "text": "Mirrados pela penúria e pela fome, \\par ruminavam as raízes da estepe, \\par lugar sombrio de ruína e desolação; \\par",
+      "reference": "Jó 30:3"
+    },
+    "4": {
+      "text": "colhendo malvas entre os arbustos, \\par fazendo pão com raízes de giesta; \\par",
+      "reference": "Jó 30:4"
+    },
+    "5": {
+      "text": "banidos da sociedade dos homens, \\par a gritos, como a ladrões, \\par",
+      "reference": "Jó 30:5"
+    },
+    "6": {
+      "text": "morando em barrancos escarpados, \\par em covas e grutas do rochedo. \\par",
+      "reference": "Jó 30:6"
+    },
+    "7": {
+      "text": "Ouvem-se os seus rugidos entre as moitas, \\par acocorados nas urtigas: \\par",
+      "reference": "Jó 30:7"
+    },
+    "8": {
+      "text": "gente vil, homens sem nome, \\par são rejeitados pela terra! \\par",
+      "reference": "Jó 30:8"
+    },
+    "9": {
+      "text": "E agora sou alvo de suas zombarias, \\par o tema de seus escárnios. \\par",
+      "reference": "Jó 30:9"
+    },
+    "10": {
+      "text": "Cheios de medo, ficam a distância \\par e atrevem-se a cuspir-me no rosto. \\par",
+      "reference": "Jó 30:10"
+    },
+    "11": {
+      "text": "Porque ele deteve meu arco e me abateu, \\par perdem toda a compostura diante de mim. \\par",
+      "reference": "Jó 30:11"
+    },
+    "12": {
+      "text": "À minha direita levanta-se a canalha, \\par olham se estou tranqüilo \\par e abrem contra mim caminhos sinistros; \\par",
+      "reference": "Jó 30:12"
+    },
+    "13": {
+      "text": "desfazem minha senda, \\par trabalham para minha ruína \\par e não há quem os detenha. \\par",
+      "reference": "Jó 30:13"
+    },
+    "14": {
+      "text": "Irrompem por uma larga brecha \\par e sou jogado sob os escombros. \\par",
+      "reference": "Jó 30:14"
+    },
+    "15": {
+      "text": "Os terrores estão soltos contra mim, \\par minha segurança se dissipa como vento, \\par minha esperança varrida como nuvem. \\par",
+      "reference": "Jó 30:15"
+    },
+    "16": {
+      "text": "A minha alma agora se dissolve: \\par os dias de aflição apoderam-se de mim. \\par",
+      "reference": "Jó 30:16"
+    },
+    "17": {
+      "text": "De noite um mal penetra nos meus ossos, \\par não dormem as chagas que me corroem. \\par",
+      "reference": "Jó 30:17"
+    },
+    "18": {
+      "text": "Ele me agarra com violência pela roupa, \\par segura-me pela orla da túnica. \\par",
+      "reference": "Jó 30:18"
+    },
+    "19": {
+      "text": "Joga-me para dentro do lodo \\par e confundo-me com o pó e a cinza. \\par",
+      "reference": "Jó 30:19"
+    },
+    "20": {
+      "text": "Clamo por Ti, e não me respondes; \\par insisto, e não te importas comigo. \\par",
+      "reference": "Jó 30:20"
+    },
+    "21": {
+      "text": "Tu te tornaste meu verdugo \\par e me atacas com teu braço musculoso. \\par",
+      "reference": "Jó 30:21"
+    },
+    "22": {
+      "text": "Levantas-me e me fazes cavalgar o vento \\par e me sacodes com a tempestade. \\par",
+      "reference": "Jó 30:22"
+    },
+    "23": {
+      "text": "Bem vejo que me devolves à morte, \\par ao lugar de encontro de todos os mortais. \\par",
+      "reference": "Jó 30:23"
+    },
+    "24": {
+      "text": "Levantei por acaso a mão contra o pobre, \\par que na penúria clamava por justiça? \\par",
+      "reference": "Jó 30:24"
+    },
+    "25": {
+      "text": "Não chorei com o oprimido, \\par não tive compaixão do indigente? \\par",
+      "reference": "Jó 30:25"
+    },
+    "26": {
+      "text": "Esperei felicidade, veio-me a desgraça; \\par esperei luz, veio-me a escuridão. \\par",
+      "reference": "Jó 30:26"
+    },
+    "27": {
+      "text": "Fervem dentro de mim as entranhas sem parar, \\par dias de aflição vêm ao meu encontro. \\par",
+      "reference": "Jó 30:27"
+    },
+    "28": {
+      "text": "Caminho no luto, sem consolação, \\par e na assembléia levanto-me a pedir auxílio. \\par",
+      "reference": "Jó 30:28"
+    },
+    "29": {
+      "text": "Tornei-me irmão dos chacais \\par e companheiro dos avestruzes. \\par",
+      "reference": "Jó 30:29"
+    },
+    "30": {
+      "text": "Minha pele se enegrece e cai, \\par meus ossos são consumidos pela febre. \\par",
+      "reference": "Jó 30:30"
+    },
+    "31": {
+      "text": "Minha cítara está de luto \\par e minha flauta acompanha o pranto. \\par",
+      "reference": "Jó 30:31"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 31
+}

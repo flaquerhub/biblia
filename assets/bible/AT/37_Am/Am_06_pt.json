@@ -1,0 +1,69 @@
+{
+  "book": 30,
+  "book_name": "Amós",
+  "book_abbr": "Am",
+  "book_category": "Profético",
+  "book_english": "Amos",
+  "testament": "AT",
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Contra a falsa segurança dos grandes\\par }Ai daqueles que estão tranqüilos em Sião, \\par e daqueles que se sentem seguros na montanha da Samaria, \\par os nobres da primeira das nações, \\par a quem a casa de Israel recorre. \\par",
+      "reference": "Am 6:1"
+    },
+    "2": {
+      "text": "Passai em Calane e vede, \\par de lá ide a Emat, a grande, \\par depois descei a Gat dos filisteus: \\par serão eles melhores do que estes reinos? \\par Será o seu território maior do que o vosso território? \\par",
+      "reference": "Am 6:2"
+    },
+    "3": {
+      "text": "Quereis afastar o dia da desgraça, \\par mas apressais o domínio da violência! \\par",
+      "reference": "Am 6:3"
+    },
+    "4": {
+      "text": "Eles estão deitados em leitos de marfim, \\par estendidos em seus divãs, \\par comem cordeiros do rebanho \\par e novilhos do curral, \\par",
+      "reference": "Am 6:4"
+    },
+    "5": {
+      "text": "improvisam ao som da harpa, \\par como Davi, inventam para si instrumentos de música, \\par",
+      "reference": "Am 6:5"
+    },
+    "6": {
+      "text": "bebem crateras de vinho \\par e se ungem com o melhor dos óleos, \\par mas não se preocupam com a ruína de José. \\par",
+      "reference": "Am 6:6"
+    },
+    "7": {
+      "text": "Por isso, agora, eles serão exilados à frente dos deportados, \\par e terminará a orgia daqueles que estão estendidos. \\par",
+      "reference": "Am 6:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i O castigo será terrível\\par }O Senhor Iahweh jurou por si mesmo \\par – oráculo de Iahweh, Deus dos Exércitos – \\par Eu detesto o orgulho de Jacó, \\par odeio seus palácios: \\par entregarei a cidade e o que nela se encontra. \\par",
+      "reference": "Am 6:8"
+    },
+    "9": {
+      "text": "E acontecerá que, se dez homens restarem em uma casa, eles morrerão! \\par",
+      "reference": "Am 6:9"
+    },
+    "10": {
+      "text": "Só restará um pequeno número \\par para tirar os ossos da casa; \\par e dirá ao que está no interior da casa: \\par “Há alguém contigo?” \\par E ele dirá: “Fim”. E dirá: “Silêncio”! \\par Porque não se deve pronunciar o nome de Iahweh! \\par",
+      "reference": "Am 6:10"
+    },
+    "11": {
+      "text": "Porque eis que Iahweh ordena: \\par ele fará cair em ruínas a casa grande, \\par e em pedaços a casa pequena! \\par",
+      "reference": "Am 6:11"
+    },
+    "12": {
+      "text": "Correm, por acaso, cavalos sobre a rocha, \\par ou ara-se o mar com bois? \\par Vós, porém, transformastes o direito em veneno \\par e o fruto da justiça em absinto! \\par",
+      "reference": "Am 6:12"
+    },
+    "13": {
+      "text": "Aqueles que se alegram a respeito de Lo-Dabar \\par dizem: “Não foi por nossa força que tomamos Carnaim?” \\par",
+      "reference": "Am 6:13"
+    },
+    "14": {
+      "text": "Sim, eis que vou suscitar contra vós, casa de Israel, \\par – oráculo de Iahweh, Deus dos Exércitos – \\par uma nação que vos oprimirá \\par desde a entrada de Emat até a torrente da Arabá. \\par",
+      "reference": "Am 6:14"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 14
+}

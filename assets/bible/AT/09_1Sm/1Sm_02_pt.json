@@ -1,0 +1,157 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Cântico de Ana\\par }Então Ana proferiu esta oração: \\par “O meu coração exulta em Iahweh, \\par a minha força se exalta em meu Deus, \\par a minha boca se escancara contra os meus inimigos, \\par porque me alegro em tua salvação. \\par",
+      "reference": "1Sm 2:1"
+    },
+    "2": {
+      "text": "Não há Santo como Iahweh \\par (porque outro não há além de ti), \\par e Rocha alguma existe como o nosso Deus. \\par",
+      "reference": "1Sm 2:2"
+    },
+    "3": {
+      "text": "Não multipliqueis palavras altivas, \\par nem brote dos vossos lábios a arrogância, \\par pois Iahweh é Deus sapientíssimo: \\par cabe a ele pesar as ações. \\par",
+      "reference": "1Sm 2:3"
+    },
+    "4": {
+      "text": "O arco dos poderosos é quebrado, \\par os debilitados são cingidos de força. \\par",
+      "reference": "1Sm 2:4"
+    },
+    "5": {
+      "text": "Os que viviam na fartura se empregam por comida, \\par e os que tinham fome não precisam trabalhar. \\par A mulher estéril dá à luz sete vezes, \\par e a mãe de muitos filhos se exaure. \\par",
+      "reference": "1Sm 2:5"
+    },
+    "6": {
+      "text": "É Iahweh quem faz morrer e viver, \\par faz descer ao Xeol e dele subir. \\par",
+      "reference": "1Sm 2:6"
+    },
+    "7": {
+      "text": "É Iahweh quem empobrece e enriquece, \\par quem humilha e quem exalta. \\par",
+      "reference": "1Sm 2:7"
+    },
+    "8": {
+      "text": "Levanta do pó o fraco \\par e do monturo o indigente, \\par para os fazer assentarem-se com os nobres \\par e colocá-los num lugar de honra, \\par porque a Iahweh pertencem os fundamentos da terra, \\par e sobre eles colocou o mundo. \\par",
+      "reference": "1Sm 2:8"
+    },
+    "9": {
+      "text": "Ele guarda o passo dos que lhe são fiéis, \\par mas os ímpios desaparecem nas trevas \\par (porque não é pela força que o homem triunfa). \\par",
+      "reference": "1Sm 2:9"
+    },
+    "10": {
+      "text": "Iahweh, os seus inimigos são destruídos, \\par o Altíssimo troveja contra eles. \\par Iahweh julga os confins da terra, \\par dá a força ao seu Rei \\par e exalta o poder do seu Ungido”. \\par",
+      "reference": "1Sm 2:10"
+    },
+    "11": {
+      "text": "Elcana partiu para sua casa em Ramá; o menino, porém, ficou servindo a Iahweh, na presença do sacerdote Eli. \\par",
+      "reference": "1Sm 2:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Os filhos de Eli\\par }Ora, os filhos de Eli eram homens desonestos, que não se preocupavam com Iahweh,",
+      "reference": "1Sm 2:12"
+    },
+    "13": {
+      "text": "nem com o direito dos sacerdotes em relação ao povo. Toda vez que alguém oferecia um sacrifício, enquanto se cozinhava a carne, o servo do sacerdote vinha com um garfo de três dentes,",
+      "reference": "1Sm 2:13"
+    },
+    "14": {
+      "text": "metia-o no caldeirão, ou na panela, ou no tacho, ou na travessa, e tudo quanto o garfo trazia preso, o sacerdote retinha como seu; assim se fazia com todo o Israel que ia a Silo.",
+      "reference": "1Sm 2:14"
+    },
+    "15": {
+      "text": "E também, antes de se queimar a gordura, vinha o servo do sacerdote e dizia ao que realizava o sacrifício: “Dá essa carne que deve ser assada ao sacerdote, porque ele não aceitará de ti a carne cozida, mas sim a crua”.",
+      "reference": "1Sm 2:15"
+    },
+    "16": {
+      "text": "E se aquele homem respondia: “Primeiro queime-se a gordura, e depois tira o que quiseres”, ele dizia: “Não, ou me dás agora mesmo como disse, ou tomarei à força”.",
+      "reference": "1Sm 2:16"
+    },
+    "17": {
+      "text": "O pecado daqueles moços foi grande perante Iahweh, porque tratavam com descaso a oferenda feita a Iahweh. \\par",
+      "reference": "1Sm 2:17"
+    },
+    "18": {
+      "text": "\\par {\\qc\\b\\i Samuel em Silo\\par }Entretanto, Samuel, ainda rapaz cingido com um efod de linho, estava a serviço de Iahweh.",
+      "reference": "1Sm 2:18"
+    },
+    "19": {
+      "text": "Sua mãe fazia uma pequena túnica, que lhe trazia a cada ano, quando vinha com seu marido oferecer o sacrifício anual.",
+      "reference": "1Sm 2:19"
+    },
+    "20": {
+      "text": "Eli abençoava Elcana e sua esposa e dizia: “Que Iahweh te dê descendência por meio desta mulher, em pagamento do empréstimo que ela fez a Iahweh”, e eles voltavam para sua casa.",
+      "reference": "1Sm 2:20"
+    },
+    "21": {
+      "text": "Iahweh visitou Ana, e ela concebeu e deu à luz três filhos e duas filhas. E o jovem Samuel crescia diante de Iahweh. \\par",
+      "reference": "1Sm 2:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i Ainda os filhos de Eli\\par }Apesar de Eli ser já muito velho, ele era informado de tudo o que os seus filhos faziam a todo Israel.",
+      "reference": "1Sm 2:22"
+    },
+    "23": {
+      "text": "E ele lhes dizia: “Por que procedeis do modo como ouço todo o povo contar?",
+      "reference": "1Sm 2:23"
+    },
+    "24": {
+      "text": "Não, meus filhos, não é boa a fama que ouço o povo de Iahweh espalhar.",
+      "reference": "1Sm 2:24"
+    },
+    "25": {
+      "text": "Se um homem comete uma falta contra outro homem, Deus o julgará; mas se pecar contra Iahweh, quem intercederá por ele?” Mas não escutaram a voz de seu pai. É que aprouvera a Iahweh tirar-lhes a vida. \\par",
+      "reference": "1Sm 2:25"
+    },
+    "26": {
+      "text": "Entretanto, o jovem Samuel ia crescendo em estatura e em graça, diante de Iahweh e diante dos homens. \\par",
+      "reference": "1Sm 2:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Anúncio do castigo\\par }Um homem de Deus veio a Eli e lhe disse: “Assim diz Iahweh. Eis que me revelei à casa de teu pai quando eles estavam no Egito, escravos da casa do Faraó.",
+      "reference": "1Sm 2:27"
+    },
+    "28": {
+      "text": "Eu a escolhi dentre todas as tribos de Israel, para exercer o meu sacerdócio, para subir ao meu altar, para fazer queimar a oferenda, para trazer o efod perante mim, e concedi à casa de teu pai toda a carne oferecida a Iahweh pelos filhos de Israel.",
+      "reference": "1Sm 2:28"
+    },
+    "29": {
+      "text": "Por que pisais a oferenda e o sacrifício que ordenei para a minha Habitação, honras os teus filhos mais do que a mim, engordando-vos com todas as oferendas de Israel, meu povo?",
+      "reference": "1Sm 2:29"
+    },
+    "30": {
+      "text": "Por isso é que – oráculo de Iahweh, Deus de Israel – eu disse que a tua casa e a casa de teu pai andariam na minha presença para sempre, mas agora – oráculo de Iahweh – longe de mim tal coisa! Porque eu honro aqueles que me honram, e os que me desprezam serão tratados como nada.",
+      "reference": "1Sm 2:30"
+    },
+    "31": {
+      "text": "Dias virão em que cortarei o teu braço e o braço da casa de teu pai, para que não haja mais velho algum na tua casa.",
+      "reference": "1Sm 2:31"
+    },
+    "32": {
+      "text": "E observarás, ao lado da Habitação, todo o bem que farei a Israel, e nunca mais haverá velho na tua casa.",
+      "reference": "1Sm 2:32"
+    },
+    "33": {
+      "text": "Conservarei perto do meu altar algum dentre os teus, para que os seus olhos se consumam e a sua alma se estiole, mas todos os da tua casa morrerão pela espada dos homens. \\par",
+      "reference": "1Sm 2:33"
+    },
+    "34": {
+      "text": "O que acontecerá aos teus dois filhos Hofni e Finéias será para ti o sinal destas coisas: morrerão ambos no mesmo dia.",
+      "reference": "1Sm 2:34"
+    },
+    "35": {
+      "text": "Farei surgir um sacerdote fiel, que procederá conforme o meu coração e o meu desejo, e lhe consolidarei uma casa que permaneça, a qual andará sempre na presença do meu ungido.",
+      "reference": "1Sm 2:35"
+    },
+    "36": {
+      "text": "E todo aquele que sobreviver da tua família virá se prostrar diante dele para conseguir uma moedinha de prata ou um naco de pão, e dirá: ‘Rogo-te que me dês qualquer função sacerdotal, para que eu possa ter um pouco de pão para comer’”. \\par",
+      "reference": "1Sm 2:36"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 36
+}

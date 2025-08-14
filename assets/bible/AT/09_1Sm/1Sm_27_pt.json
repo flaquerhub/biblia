@@ -1,0 +1,61 @@
+{
+  "book": 9,
+  "book_name": "1Samuel",
+  "book_abbr": "1Sm",
+  "book_category": "Histórico",
+  "book_english": "1 Samuel",
+  "testament": "AT",
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b 4. DAVI ENTRE OS FILISTEUS\\par }{\\qc\\b\\i Davi refugia-se em Gat\\par }Disse Davi no seu coração: “Qualquer dia perecerei pelas mãos de Saul, e o melhor que devo fazer é salvar-me na terra dos filisteus. Saul desistirá de me perseguir em todo o território de Israel, e assim escaparei das suas mãos”.",
+      "reference": "1Sm 27:1"
+    },
+    "2": {
+      "text": "Então Davi se levantou e se pôs a caminho com os seus seiscentos homens, e foi ter com Aquis, filho de Maoc, rei de Gat.",
+      "reference": "1Sm 27:2"
+    },
+    "3": {
+      "text": "E Davi habitou junto de Aquis, em Gat ele e os seus homens, cada qual com a sua família, Davi com as suas duas mulheres, Aquinoam de Jezrael e Abigail, que fora mulher de Nabal de Carmel.",
+      "reference": "1Sm 27:3"
+    },
+    "4": {
+      "text": "Saul foi informado de que Davi se refugiara em Gat, e cessou de persegui-lo. \\par",
+      "reference": "1Sm 27:4"
+    },
+    "5": {
+      "text": "\\par {\\qc\\b\\i Davi, vassalo dos filisteus\\par }Davi disse a Aquis: “Rogo-te que, se encontrei graça aos teus olhos, seja-me concedido um lugar numa das cidades dos arredores, onde possa morar. Por que continuaria o teu servo morando contigo na cidade real?”",
+      "reference": "1Sm 27:5"
+    },
+    "6": {
+      "text": "No mesmo dia, Aquis lhe ofereceu Siceleg. É por isso que Siceleg pertence aos reis de Judá até os dias de hoje.",
+      "reference": "1Sm 27:6"
+    },
+    "7": {
+      "text": "O tempo em que Davi permaneceu no território dos filisteus foi um ano e quatro meses. \\par",
+      "reference": "1Sm 27:7"
+    },
+    "8": {
+      "text": "Davi e os seus homens faziam incursões contra os gessuritas, os gersitas e os amalecitas, tribos que habitavam a região que vai de Telém, na direção de Sur, até a terra do Egito.",
+      "reference": "1Sm 27:8"
+    },
+    "9": {
+      "text": "Davi devastava a terra, não deixava com vida nem homem nem mulher, arrebatava ovelhas e vacas, jumentos e camelos, e roupa, e retornava com tudo a Aquis.",
+      "reference": "1Sm 27:9"
+    },
+    "10": {
+      "text": "Quando Aquis perguntava: “Onde foi a incursão hoje?”, Davi respondia que tinha sido contra o Negueb de Judá ou o Negueb de Jerameel ou o Negueb dos quenitas.",
+      "reference": "1Sm 27:10"
+    },
+    "11": {
+      "text": "Davi não deixava com vida nem homem nem mulher que trouxesse a Gat, para que ninguém ficasse para acusá-lo dizendo: “Aí está o que fez Davi!” Assim foi o comportamento dele, todo o tempo em que esteve no território dos filisteus.",
+      "reference": "1Sm 27:11"
+    },
+    "12": {
+      "text": "Aquis confiava em Davi e dizia: “Ele se tornou odioso a todo o Israel, seu próprio povo, e por isso continuará para sempre meu servo”. \\par",
+      "reference": "1Sm 27:12"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 12
+}

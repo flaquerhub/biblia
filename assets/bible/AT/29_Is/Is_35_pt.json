@@ -1,0 +1,53 @@
+{
+  "book": 23,
+  "book_name": "Isaías",
+  "book_abbr": "Is",
+  "book_category": "Profético",
+  "book_english": "Isaiah",
+  "testament": "AT",
+  "chapter": 35,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O triunfo de Jerusalém\\par }Alegrem-se o deserto e a terra seca, \\par rejubile-se a estepe e floresça; \\par como o narciso,",
+      "reference": "Is 35:1"
+    },
+    "2": {
+      "text": "cubra-se de flores, \\par sim, rejubile-se com grande júbilo e exulte. \\par A glória do Líbano lhe será dada, \\par bem como a beleza do Carmelo e do Saron. \\par Eles verão a glória de Iahweh, \\par o esplendor do nosso Deus. \\par",
+      "reference": "Is 35:2"
+    },
+    "3": {
+      "text": "Fortalecei as mãos abatidas, \\par revigorai os joelhos cambaleantes. \\par",
+      "reference": "Is 35:3"
+    },
+    "4": {
+      "text": "Dizei aos corações conturbados: \\par “Sede fortes, não temais. \\par Eis que o vosso Deus \\par vem para vingar-vos, \\par trazendo a recompensa divina. \\par Ele vem para salvar-vos”. \\par",
+      "reference": "Is 35:4"
+    },
+    "5": {
+      "text": "Então se abrirão os olhos dos cegos, \\par e os ouvidos dos surdos se desobstruirão. \\par",
+      "reference": "Is 35:5"
+    },
+    "6": {
+      "text": "Então o coxo saltará como o cervo, \\par e a língua do mudo cantará canções alegres, \\par porque a água jorrará do deserto, e rios, da estepe. \\par",
+      "reference": "Is 35:6"
+    },
+    "7": {
+      "text": "A terra seca se transformará em brejo, \\par e a terra árida em mananciais de água. \\par Onde repousavam os chacais \\par surgirá um campo de juncos e de papiros. \\par",
+      "reference": "Is 35:7"
+    },
+    "8": {
+      "text": "Ali haverá uma estrada – um caminho \\par que será chamado caminho sagrado. \\par O impuro não passará por ele. \\par Ele mesmo andará por esse caminho, \\par de modo que até os estultos não se desgarrarão. \\par",
+      "reference": "Is 35:8"
+    },
+    "9": {
+      "text": "Ali não haverá leão; \\par o mais feroz dos animais selvagens não o trilhará, \\par nele não será encontrado. \\par Antes, por ele trilharão os redimidos. \\par",
+      "reference": "Is 35:9"
+    },
+    "10": {
+      "text": "Assim voltarão os que foram libertados por Iahweh, \\par chegarão a Sião gritando de alegria, \\par trazendo consigo uma alegria eterna; \\par o gozo e a alegria os acompanharão, \\par a dor e os gemidos cessarão. \\par",
+      "reference": "Is 35:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

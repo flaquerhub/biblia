@@ -1,0 +1,77 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i IV. Lei de santidade}\\par }{\\qc\\b\\i Imolações e sacrifícios\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 17:1"
+    },
+    "2": {
+      "text": "“Fala a Aarão, a seus filhos e a todos os filhos de Israel. Tu lhes dirás: \\par Isto é o que ordena Iahweh: \\par",
+      "reference": "Lv 17:2"
+    },
+    "3": {
+      "text": "Todo homem da casa de Israel que, no acampamento ou fora dele, imolar novilho, cordeiro ou cabra,",
+      "reference": "Lv 17:3"
+    },
+    "4": {
+      "text": "sem o trazer à entrada da Tenda da Reunião, para fazer dele uma oferenda a Iahweh, diante do seu tabernáculo, tal homem responderá pelo sangue derramado e será eliminado do meio do seu povo.",
+      "reference": "Lv 17:4"
+    },
+    "5": {
+      "text": "Deste modo os filhos de Israel trarão ao sacerdote, para Iahweh, à entrada da Tenda da Reunião, os sacrifícios que desejarem fazer no campo, e os farão para Iahweh, como sacrifícios de comunhão.",
+      "reference": "Lv 17:5"
+    },
+    "6": {
+      "text": "O sacerdote derramará o sangue sobre o altar de Iahweh que se encontra à entrada da Tenda da Reunião, e queimará a gordura em perfume de agradável odor a Iahweh.",
+      "reference": "Lv 17:6"
+    },
+    "7": {
+      "text": "Não mais oferecerão os seus sacrifícios aos sátiros, com os quais se prostituem. Isto é uma lei perpétua para eles e para os seus descendentes. \\par",
+      "reference": "Lv 17:7"
+    },
+    "8": {
+      "text": "E dir-lhes-ás ainda: Todo homem da casa de Israel, ou todo estrangeiro residente no meio de vós, que oferecer um holocausto ou um sacrifício",
+      "reference": "Lv 17:8"
+    },
+    "9": {
+      "text": "sem o trazer à entrada da Tenda da Reunião, para o oferecer a Iahweh, esse homem será exterminado do seu povo. \\par",
+      "reference": "Lv 17:9"
+    },
+    "10": {
+      "text": "Todo homem da casa de Israel ou todo estrangeiro residente entre vós que comer sangue, qualquer que seja a espécie de sangue, voltar-me-ei contra esse que comeu sangue e o exterminarei do meio do seu povo.",
+      "reference": "Lv 17:10"
+    },
+    "11": {
+      "text": "Porque a vida da carne está no sangue. E este sangue eu vo-lo tenho dado para fazer o rito de expiação sobre o altar, pelas vossas vidas; pois é o sangue que faz expiação pela vida.",
+      "reference": "Lv 17:11"
+    },
+    "12": {
+      "text": "Esta é a razão pela qual eu disse aos filhos de Israel: ‘Nenhum dentre vós comerá sangue e o estrangeiro que habita no meio de vós também não comerá sangue’. \\par",
+      "reference": "Lv 17:12"
+    },
+    "13": {
+      "text": "Qualquer pessoa, filho de Israel ou estrangeiro residente entre vós, que caçar um animal ou ave que é permitido comer, deverá derramar o seu sangue e recobri-lo com terra.",
+      "reference": "Lv 17:13"
+    },
+    "14": {
+      "text": "Pois a vida de toda carne é o sangue, e eu disse aos filhos de Israel: ‘Não comereis o sangue de carne alguma, pois a vida de toda carne é o sangue, e todo aquele que o comer será exterminado’. \\par",
+      "reference": "Lv 17:14"
+    },
+    "15": {
+      "text": "Toda pessoa, cidadão ou estrangeiro, que comer um animal morto ou dilacerado, deverá lavar suas vestes e banhar-se com água; ficará impuro até à tarde, e depois ficará puro.",
+      "reference": "Lv 17:15"
+    },
+    "16": {
+      "text": "Mas se ele não as lavar e não banhar o seu corpo, levará o peso da sua falta”. \\par",
+      "reference": "Lv 17:16"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 16
+}

@@ -1,0 +1,165 @@
+{
+  "book": 26,
+  "book_name": "Ezequiel",
+  "book_abbr": "Ez",
+  "book_category": "Profético",
+  "book_english": "Ezekiel",
+  "testament": "AT",
+  "chapter": 36,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Oráculo sobre os montes de Israel\\par }Tu, filho do homem, profetiza aos montes de Israel e dize: Montes de Israel, ouvi a palavra de Iahweh:",
+      "reference": "Ez 36:1"
+    },
+    "2": {
+      "text": "Assim diz o Senhor Iahweh: Pois que o inimigo disse, referindo-se a vós: “Viva! Estes lugares altos eternos nos são dados como possessão”.",
+      "reference": "Ez 36:2"
+    },
+    "3": {
+      "text": "Profetiza e dize: Assim diz o Senhor Iahweh: Visto que vos devastaram e vos apanharam de todos os lados, a fim de que viésseis a ser possessão do resto das nações, expostos ao falatório e à difamação dos povos,",
+      "reference": "Ez 36:3"
+    },
+    "4": {
+      "text": "por esta razão, montes de Israel, ouvi a palavra do Senhor Iahweh. Assim diz o Senhor Iahweh aos montes, aos outeiros, aos despenhadeiros e aos vales, às ruínas em desolação e às cidades abandonadas, entregues ao saque e à zombaria das demais nações ao redor de vós.",
+      "reference": "Ez 36:4"
+    },
+    "5": {
+      "text": "Pois bem, assim fala o Senhor Iahweh. Certamente no ardor do meu ciúme falei a respeito do resto das nações e a respeito de todo o Edom, que distribuíram entre si a minha terra como possessão, com alegria de coração e desprezo da alma, a fim de saquearem os seus pastos. \\par",
+      "reference": "Ez 36:5"
+    },
+    "6": {
+      "text": "Portanto, profetiza a respeito da terra de Israel e dize às montanhas, aos outeiros, aos despenhadeiros e aos vales: Assim diz o Senhor Iahweh: Eis que falo no meu ciúme e na minha cólera: pois que suportais o opróbrio das nações,",
+      "reference": "Ez 36:6"
+    },
+    "7": {
+      "text": "assim diz o Senhor Iahweh: Estendi a minha mão e asseguro solenemente que as nações que vos cercam terão de suportar – elas mesmas – o seu opróbrio. \\par",
+      "reference": "Ez 36:7"
+    },
+    "8": {
+      "text": "E vós, montes de Israel, produzireis para o meu povo de Israel os vossos ramos e os vossos frutos, pois que ele há de voltar em breve.",
+      "reference": "Ez 36:8"
+    },
+    "9": {
+      "text": "Com efeito, eu venho ter convosco, volto para vós e vós sereis lavrados e semeados.",
+      "reference": "Ez 36:9"
+    },
+    "10": {
+      "text": "Multiplicarei os homens que hão de habitar sobre vós, a saber, toda a casa de Israel. As cidades serão habitadas e as ruínas, reedificadas.",
+      "reference": "Ez 36:10"
+    },
+    "11": {
+      "text": "Multiplicarei sobre vós os homens e o gado: eles se multiplicarão e frutificarão. Farei com que sejais habitados como antes e vos assegurarei condições melhores do que as de outrora, e sabereis que eu sou Iahweh.",
+      "reference": "Ez 36:11"
+    },
+    "12": {
+      "text": "Farei com que os homens tomem posse de vós, ó meu povo, Israel. Eles te possuirão e tu serás a sua herança e não tornarás a privá-los dos seus filhos. \\par",
+      "reference": "Ez 36:12"
+    },
+    "13": {
+      "text": "Assim diz o Senhor Iahweh: Dizem de ti: “Tu és uma devoradora de homens, tu privas de filhos a tua nação”.",
+      "reference": "Ez 36:13"
+    },
+    "14": {
+      "text": "Pois bem, não voltarás a devorar os homens e não tornarás a desfilhar a tua nação, oráculo do Senhor Iahweh.",
+      "reference": "Ez 36:14"
+    },
+    "15": {
+      "text": "Farei com que não voltes a ouvir os insultos das nações, não tornarás a suportar a zombaria dos povos, nem voltarás a privar a nação dos seus filhos, oráculo do Senhor Iahweh. \\par",
+      "reference": "Ez 36:15"
+    },
+    "16": {
+      "text": "A palavra de Iahweh me foi dirigida nestes termos:",
+      "reference": "Ez 36:16"
+    },
+    "17": {
+      "text": "Filho do homem, a casa de Israel, que habitava a sua terra, contaminou-a com o seu comportamento e com as suas ações, como a impureza de uma mulher no seu incômodo. Tal foi o seu comportamento diante de mim.",
+      "reference": "Ez 36:17"
+    },
+    "18": {
+      "text": "Então, derramei sobre eles a minha cólera, em virtude do sangue que derramaram na terra e em virtude dos ídolos imundos com os quais a contaminaram.",
+      "reference": "Ez 36:18"
+    },
+    "19": {
+      "text": "Espalhei-os por entre as nações e eles foram dispersos por terras estrangeiras. Puni-os de acordo com o seu comportamento e com as suas ações.",
+      "reference": "Ez 36:19"
+    },
+    "20": {
+      "text": "E nas nações para onde se dirigiram, profanaram o meu santo nome, pois se dizia deles: “Este é o povo de Iahweh. Eles tiveram que sair da sua terra”.",
+      "reference": "Ez 36:20"
+    },
+    "21": {
+      "text": "Mas eu tive consideração com o meu santo nome, que a casa de Israel profanou entre as nações para as quais se dirigiram.",
+      "reference": "Ez 36:21"
+    },
+    "22": {
+      "text": "Por isso dirás à casa de Israel: Assim diz o Senhor Iahweh: Não é em consideração a vós que estou agindo assim, ó casa de Israel, mas sim por causa do meu santo nome, que vós profanastes entre as nações para as quais vos dirigistes.",
+      "reference": "Ez 36:22"
+    },
+    "23": {
+      "text": "Santificarei o meu grande nome, que foi profanado entre as nações, no meio das quais vós o profanastes, e saberão as nações que eu sou Iahweh – oráculo do Senhor Iahweh, – quando eu for santificado em vós aos seus olhos,",
+      "reference": "Ez 36:23"
+    },
+    "24": {
+      "text": "quando eu vos tomar dentre as nações e vos reunir de todas as terras, reconduzindo-vos à vossa terra.",
+      "reference": "Ez 36:24"
+    },
+    "25": {
+      "text": "Borrifarei água sobre vós e ficareis puros; sim, purificar-vos-ei de todas as vossas imundícies e de todos os vossos ídolos imundos.",
+      "reference": "Ez 36:25"
+    },
+    "26": {
+      "text": "Dar-vos-ei um coração novo, porei no vosso íntimo um espírito novo, tirarei do vosso peito o coração de pedra e vos darei um coração de carne.",
+      "reference": "Ez 36:26"
+    },
+    "27": {
+      "text": "Porei no vosso íntimo o meu espírito e farei com que andeis de acordo com os meus estatutos e guardeis as minhas normas e as pratiqueis.",
+      "reference": "Ez 36:27"
+    },
+    "28": {
+      "text": "Então habitareis na terra que dei a vossos pais: sereis o meu povo e eu serei o vosso Deus;",
+      "reference": "Ez 36:28"
+    },
+    "29": {
+      "text": "libertar-vos-ei de todas as vossas impurezas. Chamarei o trigo e o multiplicarei e já não vos entregarei à fome.",
+      "reference": "Ez 36:29"
+    },
+    "30": {
+      "text": "Multiplicarei os frutos das árvores e o produto do campo, a fim de não voltardes a sofrer o opróbrio da fome entre as nações.",
+      "reference": "Ez 36:30"
+    },
+    "31": {
+      "text": "Então vos lembrareis dos vossos maus caminhos e das vossas ações que não eram boas e sentireis asco de vós mesmos em virtude das vossas maldades e abominações.",
+      "reference": "Ez 36:31"
+    },
+    "32": {
+      "text": "Agirei assim, não por consideração para convosco – oráculo do Senhor Iahweh – sabei-o bem e envergonhai-vos. Deveis sentir pejo do vosso mau caminho, ó casa de Israel. \\par",
+      "reference": "Ez 36:32"
+    },
+    "33": {
+      "text": "Assim diz o Senhor Iahweh: No dia em que eu vos purificar de todas as iniqüidades, farei com que sejam habitadas as vossas cidades e reconstruídas as vossas ruínas.",
+      "reference": "Ez 36:33"
+    },
+    "34": {
+      "text": "E a terra desolada voltará a ser cultivada, em lugar da solidão que havia antes aos olhos de todos os que passavam.",
+      "reference": "Ez 36:34"
+    },
+    "35": {
+      "text": "Então dirão: “Esta terra que era uma desolação está agora como o jardim do Éden, e as suas cidades, antes em ruína, desoladas e arrasadas, constituem agora fortalezas habitadas”.",
+      "reference": "Ez 36:35"
+    },
+    "36": {
+      "text": "As nações que sobrarem em torno de vós saberão que eu, Iahweh, reconstruí estas cidades arrasadas e replantei estes desertos. Eu, Iahweh, o disse e o faço. \\par",
+      "reference": "Ez 36:36"
+    },
+    "37": {
+      "text": "Assim diz o Senhor Iahweh: Ainda isto farei por eles: consentirei em ser procurado pela casa de Israel e os multiplicarei como um rebanho humano.",
+      "reference": "Ez 36:37"
+    },
+    "38": {
+      "text": "Como um rebanho consagrado, como rebanho em Jerusalém por ocasião das assembléias solenes, tais serão as cidades arrasadas, cheias de um rebanho humano, e saberão que eu sou Iahweh. \\par",
+      "reference": "Ez 36:38"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 38
+}

@@ -1,0 +1,93 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 72,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 72 (71)\\par }{\\qc\\b\\i O rei prometido\\par }{\\qc\\i De Salomão.\\par } Ó Deus, concede ao rei teu julgamento \\par e a tua justiça ao filho do rei; \\par",
+      "reference": "Sl 72:1"
+    },
+    "2": {
+      "text": "que ele governe teu povo com justiça, \\par e teus pobres conforme o direito. \\par",
+      "reference": "Sl 72:2"
+    },
+    "3": {
+      "text": "Montanhas e colinas, trazei \\par a paz ao povo. \\par Com justiça",
+      "reference": "Sl 72:3"
+    },
+    "4": {
+      "text": "ele julgue os pobres do povo, \\par salve os filhos do indigente \\par e esmague seus opressores. \\par",
+      "reference": "Sl 72:4"
+    },
+    "5": {
+      "text": "Que ele dure sob o sol e a lua, \\par por geração de gerações; \\par",
+      "reference": "Sl 72:5"
+    },
+    "6": {
+      "text": "que ele desça como chuva sobre a erva roçada, \\par como chuvisco que irriga a terra. \\par",
+      "reference": "Sl 72:6"
+    },
+    "7": {
+      "text": "Que em seus dias floresça a justiça \\par e muita paz até ao fim das luas; \\par",
+      "reference": "Sl 72:7"
+    },
+    "8": {
+      "text": "que ele domine de mar a mar, \\par desde o rio até aos confins da terra. \\par",
+      "reference": "Sl 72:8"
+    },
+    "9": {
+      "text": "Diante dele a Fera se curvará \\par e seus inimigos lamberão o pó; \\par",
+      "reference": "Sl 72:9"
+    },
+    "10": {
+      "text": "os reis de Társis e das ilhas \\par vão trazer-lhe ofertas. \\par Os reis de Sabá e Seba \\par vão pagar-lhe tributo; \\par",
+      "reference": "Sl 72:10"
+    },
+    "11": {
+      "text": "todos os reis se prostrarão diante dele, \\par as nações todas o servirão. \\par",
+      "reference": "Sl 72:11"
+    },
+    "12": {
+      "text": "Pois ele liberta o indigente que clama \\par e o pobre que não tem protetor; \\par",
+      "reference": "Sl 72:12"
+    },
+    "13": {
+      "text": "tem compaixão do fraco e do indigente, \\par e salva a vida dos indigentes. \\par",
+      "reference": "Sl 72:13"
+    },
+    "14": {
+      "text": "Ele os redime da astúcia e da violência, \\par o sangue deles é valioso aos seus olhos. \\par",
+      "reference": "Sl 72:14"
+    },
+    "15": {
+      "text": "(Que ele viva e lhe seja dado o ouro de Sabá!) \\par Que orem por ele continuamente! \\par Que o bendigam todo o dia! \\par",
+      "reference": "Sl 72:15"
+    },
+    "16": {
+      "text": "Haja abundância de trigo pelo campo \\par e tremulem sobre o topo das montanhas, \\par como o Líbano com suas flores e frutos, \\par como a erva da terra. \\par",
+      "reference": "Sl 72:16"
+    },
+    "17": {
+      "text": "Que seu nome permaneça para sempre, \\par e sua fama dure sob o sol! \\par Nele sejam abençoadas as raças todas da terra, \\par e todas as nações o proclamem feliz! \\par",
+      "reference": "Sl 72:17"
+    },
+    "18": {
+      "text": "Bendito seja Iahweh, o Deus de Israel, \\par porque só ele realiza maravilhas! \\par",
+      "reference": "Sl 72:18"
+    },
+    "19": {
+      "text": "Para sempre seja bendito o seu nome glorioso! \\par Que toda a terra se encha com sua glória! \\par Amém! Amém! \\par",
+      "reference": "Sl 72:19"
+    },
+    "20": {
+      "text": "Fim das orações de Davi, filho de Jessé. \\par",
+      "reference": "Sl 72:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

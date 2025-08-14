@@ -1,0 +1,173 @@
+{
+  "book": 18,
+  "book_name": "Jó",
+  "book_abbr": "Jó",
+  "book_category": "Poético",
+  "book_english": "Job",
+  "testament": "AT",
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Apologia de Jó\\par }Eu fiz um pacto com meus olhos: \\par para não olhar para uma virgem. \\par",
+      "reference": "Jó 31:1"
+    },
+    "2": {
+      "text": "Que galardão me reserva Deus lá do alto, \\par que herança o Shaddai lá dos céus? \\par",
+      "reference": "Jó 31:2"
+    },
+    "3": {
+      "text": "Acaso não é a desgraça para o criminoso, \\par e o infortúnio para os malfeitores? \\par",
+      "reference": "Jó 31:3"
+    },
+    "4": {
+      "text": "Não vê ele os meus caminhos, \\par não conta todos os meus passos? \\par",
+      "reference": "Jó 31:4"
+    },
+    "5": {
+      "text": "Caminhei com a mentira, \\par acertei passo com a falsidade? \\par",
+      "reference": "Jó 31:5"
+    },
+    "6": {
+      "text": "Que Deus me pese numa balança exata \\par e reconhecerá minha integridade. \\par",
+      "reference": "Jó 31:6"
+    },
+    "7": {
+      "text": "Se se desviaram do caminho os meus passos \\par e o meu coração seguiu as atrações dos olhos, \\par se se apegou alguma mancha às minhas mãos, \\par",
+      "reference": "Jó 31:7"
+    },
+    "8": {
+      "text": "que outro coma o que semeei, \\par e que arranquem as minhas plantações! \\par",
+      "reference": "Jó 31:8"
+    },
+    "9": {
+      "text": "Se o meu coração se deixou seduzir por mulher \\par e estive à espreita à porta do vizinho, \\par",
+      "reference": "Jó 31:9"
+    },
+    "10": {
+      "text": "que minha mulher gire a mó para outrem \\par e outros se debrucem sobre ela! \\par",
+      "reference": "Jó 31:10"
+    },
+    "11": {
+      "text": "Pois isso seria uma infâmia, \\par um crime digno de castigo, \\par",
+      "reference": "Jó 31:11"
+    },
+    "12": {
+      "text": "um fogo que devoraria até à perdição total, \\par destruindo todos os meus bens. \\par",
+      "reference": "Jó 31:12"
+    },
+    "13": {
+      "text": "Se deneguei seu direito ao escravo ou à escrava, \\par quando pleiteavam comigo, \\par",
+      "reference": "Jó 31:13"
+    },
+    "14": {
+      "text": "que farei quando Deus se levantar, \\par que lhe responderei quando me interrogar? \\par",
+      "reference": "Jó 31:14"
+    },
+    "15": {
+      "text": "Quem me fez a mim no ventre não o fez também a ele? \\par Quem nos formou a ambos não é um só? \\par {\\super (38)} Se minha terra pede vingança contra mim, \\par e os seus sulcos choram com ela; \\par {\\super (39)} se comi o seu produto sem ter pago por ele, \\par asfixiando aquele que o cultivou, \\par {\\super (40a)} que nasçam cardos em vez de trigo, \\par no lugar de cevada, a erva fétida! \\par",
+      "reference": "Jó 31:15"
+    },
+    "16": {
+      "text": "Se fui insensível às necessidades dos fracos, \\par se deixei tristes os olhos da viúva, \\par",
+      "reference": "Jó 31:16"
+    },
+    "17": {
+      "text": "enquanto comi meu bocado sozinho, \\par sem reparti-lo com o órfão; \\par",
+      "reference": "Jó 31:17"
+    },
+    "18": {
+      "text": "– na verdade, desde a minha infância Deus criou-me como um pai, \\par e desde o seio de minha mãe guiou-me; – \\par",
+      "reference": "Jó 31:18"
+    },
+    "19": {
+      "text": "se vi um miserável sem roupas, \\par um pobre sem cobertor, \\par",
+      "reference": "Jó 31:19"
+    },
+    "20": {
+      "text": "e não me agradeceram os seus flancos, \\par aquecidos com a lã de minhas ovelhas; \\par",
+      "reference": "Jó 31:20"
+    },
+    "21": {
+      "text": "se levantei a mão contra o órfão, \\par sabendo-me importante na Porta, \\par",
+      "reference": "Jó 31:21"
+    },
+    "22": {
+      "text": "que se desprenda da espádua meu ombro, \\par e que meu braço se quebre no cotovelo! \\par",
+      "reference": "Jó 31:22"
+    },
+    "23": {
+      "text": "Porque o terror de Deus caiu sobre mim, \\par não subsistirei diante da sua majestade. \\par",
+      "reference": "Jó 31:23"
+    },
+    "24": {
+      "text": "Se pus no ouro minha confiança \\par e disse ao ouro mais puro: “És minha segurança”; \\par",
+      "reference": "Jó 31:24"
+    },
+    "25": {
+      "text": "se me comprouve com minhas grandes riquezas, \\par com a fortuna amontoada por minhas mãos; \\par",
+      "reference": "Jó 31:25"
+    },
+    "26": {
+      "text": "se olhei para o sol resplandecente \\par ou para a lua que caminha com esplendor, \\par",
+      "reference": "Jó 31:26"
+    },
+    "27": {
+      "text": "e meu coração se deixou seduzir secretamente, \\par e minha mão lhes enviou um beijo; \\par",
+      "reference": "Jó 31:27"
+    },
+    "28": {
+      "text": "também isto seria um crime digno de castigo, \\par pois teria renegado ao Deus do alto. \\par",
+      "reference": "Jó 31:28"
+    },
+    "29": {
+      "text": "Se me alegrei com a desgraça do meu inimigo \\par e exultei com a infelicidade que lhe sobreveio, \\par",
+      "reference": "Jó 31:29"
+    },
+    "30": {
+      "text": "ou permiti que minha boca pecasse, \\par e reclamasse a sua vida com uma maldição; \\par",
+      "reference": "Jó 31:30"
+    },
+    "31": {
+      "text": "se homens de minha tenda disseram: \\par “Oxalá nos deixassem saciar-nos de sua carne!” \\par",
+      "reference": "Jó 31:31"
+    },
+    "32": {
+      "text": "– Na verdade, o estrangeiro nunca pernoitou à intempérie, \\par abri sempre minha porta ao viandante. – \\par",
+      "reference": "Jó 31:32"
+    },
+    "33": {
+      "text": "Se ocultei meu delito aos homens \\par escondendo no peito minha culpa, \\par",
+      "reference": "Jó 31:33"
+    },
+    "34": {
+      "text": "por temor diante da gritaria da multidão \\par e por medo do desprezo dos parentes, \\par a ponto de me manter calado sem pôr os pés fora da porta, \\par",
+      "reference": "Jó 31:34"
+    },
+    "35": {
+      "text": "oxalá houvesse quem me ouvisse! \\par Esta é minha última palavra: que me responda Shaddai! \\par O libelo redigido por meu adversário \\par",
+      "reference": "Jó 31:35"
+    },
+    "36": {
+      "text": "levá-lo-ia sobre meus ombros, \\par atá-lo-ia como um diadema. \\par",
+      "reference": "Jó 31:36"
+    },
+    "37": {
+      "text": "Dar-lhe-ia conta de meus passos \\par e aproximar-me-ia dele, como um príncipe. \\par",
+      "reference": "Jó 31:37"
+    },
+    "38": {
+      "text": "<GREY>[Veja v. 15]</GREY>",
+      "reference": "Jó 31:38"
+    },
+    "39": {
+      "text": "<GREY>[Veja v. 15]</GREY>",
+      "reference": "Jó 31:39"
+    },
+    "40": {
+      "text": "{\\super (40b)} Fim das palavras de Jó. \\par",
+      "reference": "Jó 31:40"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 40
+}

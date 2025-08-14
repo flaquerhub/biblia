@@ -1,0 +1,265 @@
+{
+  "book": 6,
+  "book_name": "Josué",
+  "book_abbr": "Js",
+  "book_category": "Histórico",
+  "book_english": "Joshua",
+  "testament": "AT",
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i A tribo de Judá\\par }A sorte da tribo dos filhos de Judá, segundo suas famílias, caiu em direção à fronteira de Edom, desde o deserto de Sin, em direção ao sul, até Cades ao sul.",
+      "reference": "Js 15:1"
+    },
+    "2": {
+      "text": "Sua fronteira meridional partia da extremidade do mar Salgado, desde a baía que olha para o sul,",
+      "reference": "Js 15:2"
+    },
+    "3": {
+      "text": "e se dirigia para o sul da subida dos Escorpiões, atravessava Sin e subia ao sul de Cades Barne; passando por Hesron, subia a Adar e voltava em direção a Carca;",
+      "reference": "Js 15:3"
+    },
+    "4": {
+      "text": "depois a fronteira passava por Asemona e desembocava na torrente do Egito, para terminar no mar. Essa será vossa fronteira meridional.",
+      "reference": "Js 15:4"
+    },
+    "5": {
+      "text": "Ao oriente, a fronteira era o mar Salgado até a foz do Jordão. A fronteira do lado norte partia da baía, à foz do Jordão.",
+      "reference": "Js 15:5"
+    },
+    "6": {
+      "text": "A fronteira subia a Bet-Hogla, passava ao norte de Bet-Arabá e subia à Pedra de Boen, filho de Rúben.",
+      "reference": "Js 15:6"
+    },
+    "7": {
+      "text": "Depois a fronteira subia a Dabir, desde o vale de Acor, e voltava ao norte, em direção ao círculo de pedras que está diante da subida de Adomim, que está ao sul da Torrente. A fronteira passava pelas águas de En-Sames e ia terminar em En-Roguel.",
+      "reference": "Js 15:7"
+    },
+    "8": {
+      "text": "Daqui ela subia o vale de Ben-Enom que vem do sul, na encosta do jebuseu – que é Jerusalém –; subia ao cume da montanha que fecha o vale de Enom do lado oeste, na extremidade setentrional da planície dos rafaim.",
+      "reference": "Js 15:8"
+    },
+    "9": {
+      "text": "Do cume da montanha, a fronteira se dobrava em direção à fonte das águas de Neftoa e se dirigia às cidades do monte Efron, para voltar-se em direção a Baala – que é Cariat-Iarim.",
+      "reference": "Js 15:9"
+    },
+    "10": {
+      "text": "De Baala, a fronteira dava volta ao ocidente, em direção à montanha de Seir, e passando a encosta do monte Jearim em direção ao norte – que é Queslon – descia a Bet-Sames, atravessava Tamna,",
+      "reference": "Js 15:10"
+    },
+    "11": {
+      "text": "chegava à encosta de Acaron em direção ao norte, voltava em direção de Secron e passava pela montanha de Baala, para chegar a Jebneel. O mar era o terreno da fronteira. \\par",
+      "reference": "Js 15:11"
+    },
+    "12": {
+      "text": "A fronteira ocidental era formada pelo Grande Mar. Essa fronteira era, nos seus limites, a dos filhos de Judá segundo seus clãs. \\par",
+      "reference": "Js 15:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Os calebitas ocupam o território de Hebron\\par }A Caleb, filho de Jefoné, foi dada uma parte no meio dos filhos de Judá, segundo a ordem de Iahweh a Josué: Cariat-Arbe, a cidade do pai de Enac – que é Hebron.",
+      "reference": "Js 15:13"
+    },
+    "14": {
+      "text": "Caleb expulsou dela os três filhos de Enac: Sesai, Aimã e Tolmai, descendentes de Enac.",
+      "reference": "Js 15:14"
+    },
+    "15": {
+      "text": "De lá marchou contra os habitantes de Dabir; Dabir se chamava então Cariat-Séfer.",
+      "reference": "Js 15:15"
+    },
+    "16": {
+      "text": "Disse então Caleb: “Aquele que derrotar Cariat-Séfer e a tomar, dar-lhe-ei por esposa minha filha Acsa”.",
+      "reference": "Js 15:16"
+    },
+    "17": {
+      "text": "Tomou-a Otoniel, filho de Cenez, irmão de Caleb, e este lhe deu sua filha Acsa por esposa.",
+      "reference": "Js 15:17"
+    },
+    "18": {
+      "text": "Quando ela chegou perto de seu marido, este lhe sugeriu que pedisse um campo a seu pai. Então ela saltou do jumento e Caleb lhe perguntou: “Que queres?”",
+      "reference": "Js 15:18"
+    },
+    "19": {
+      "text": "Ela respondeu: “Dá-me um presente. Visto que me destinaste a terra do Negueb, dá-me, pois, fontes de água”. E ele lhe deu as fontes superiores e as fontes inferiores. \\par",
+      "reference": "Js 15:19"
+    },
+    "20": {
+      "text": "Essa foi a herança dos filhos de Judá, segundo seus clãs. \\par",
+      "reference": "Js 15:20"
+    },
+    "21": {
+      "text": "\\par {\\qc\\b\\i Nomenclatura das localidades de Judá\\par }Cidades na extremidade da tribo dos filhos de Judá, em direção à fronteira de Edom, no Negueb: \\par Cabseel, Arad, Jagur,",
+      "reference": "Js 15:21"
+    },
+    "22": {
+      "text": "Cina, Dimona, Aroer,",
+      "reference": "Js 15:22"
+    },
+    "23": {
+      "text": "Cades, Hasor-Jetnã,",
+      "reference": "Js 15:23"
+    },
+    "24": {
+      "text": "Zif, Telém, Balot,",
+      "reference": "Js 15:24"
+    },
+    "25": {
+      "text": "Hasor-Adata, Cariot-Hesron – que é Hasor –,",
+      "reference": "Js 15:25"
+    },
+    "26": {
+      "text": "Amam, Sama, Molada,",
+      "reference": "Js 15:26"
+    },
+    "27": {
+      "text": "Haser-Gada, Hasemon, Bet-Félet,",
+      "reference": "Js 15:27"
+    },
+    "28": {
+      "text": "Hasor-Sual, Bersabéia e seus arredores,",
+      "reference": "Js 15:28"
+    },
+    "29": {
+      "text": "Baala, Jim, Esem,",
+      "reference": "Js 15:29"
+    },
+    "30": {
+      "text": "Eltolad, Cesil, Horma,",
+      "reference": "Js 15:30"
+    },
+    "31": {
+      "text": "Siceleg, Madmana, Sensena,",
+      "reference": "Js 15:31"
+    },
+    "32": {
+      "text": "Lebaot, Selim, Ain e Remon: ao todo vinte e nove cidades com suas aldeias. \\par",
+      "reference": "Js 15:32"
+    },
+    "33": {
+      "text": "Nas planícies: \\par Estaol, Saraá, Asena,",
+      "reference": "Js 15:33"
+    },
+    "34": {
+      "text": "Zanoe, Aen-Ganim, Tafua, Enaim,",
+      "reference": "Js 15:34"
+    },
+    "35": {
+      "text": "Jarmut, Odolam, Soco, Azeca,",
+      "reference": "Js 15:35"
+    },
+    "36": {
+      "text": "Saraim, Aditaim, Gedera e Gederotaim: quatorze cidades com suas aldeias. \\par",
+      "reference": "Js 15:36"
+    },
+    "37": {
+      "text": "Sanã, Hadasa, Magdol-Gad,",
+      "reference": "Js 15:37"
+    },
+    "38": {
+      "text": "Deleã, Masfa, Jecetel,",
+      "reference": "Js 15:38"
+    },
+    "39": {
+      "text": "Laquis, Bascat, Eglon,",
+      "reference": "Js 15:39"
+    },
+    "40": {
+      "text": "Quebon, Leemas, Cetlis,",
+      "reference": "Js 15:40"
+    },
+    "41": {
+      "text": "Gederot, Bet-Dagon, Naama e Maceda: dezesseis cidades com suas aldeias. \\par",
+      "reference": "Js 15:41"
+    },
+    "42": {
+      "text": "Lebna, Éter, Asã,",
+      "reference": "Js 15:42"
+    },
+    "43": {
+      "text": "Jefta-Esna, Nesib,",
+      "reference": "Js 15:43"
+    },
+    "44": {
+      "text": "Ceila, Aczib e Maresa: nove cidades com suas aldeias. \\par",
+      "reference": "Js 15:44"
+    },
+    "45": {
+      "text": "Acaron com suas cidades dependentes e suas aldeias.",
+      "reference": "Js 15:45"
+    },
+    "46": {
+      "text": "De Acaron até ao mar, tudo o que se encontra do lado de Azoto com suas aldeias.",
+      "reference": "Js 15:46"
+    },
+    "47": {
+      "text": "Azoto com suas cidades dependentes e suas aldeias, Gaza com suas cidades dependentes e suas aldeias até à Torrente do Egito, sendo o Grande Mar a sua fronteira. \\par",
+      "reference": "Js 15:47"
+    },
+    "48": {
+      "text": "Na montanha: \\par Saamir, Jeter, Soco,",
+      "reference": "Js 15:48"
+    },
+    "49": {
+      "text": "Dana, Cariat-Séfer, hoje Dabir,",
+      "reference": "Js 15:49"
+    },
+    "50": {
+      "text": "Anab, Estemo, Anim,",
+      "reference": "Js 15:50"
+    },
+    "51": {
+      "text": "Gósen, Holon e Gilo: onze cidades com suas aldeias. \\par",
+      "reference": "Js 15:51"
+    },
+    "52": {
+      "text": "Arab, Duma, Esaã,",
+      "reference": "Js 15:52"
+    },
+    "53": {
+      "text": "Janum, Bet-Tafua, Afeca,",
+      "reference": "Js 15:53"
+    },
+    "54": {
+      "text": "Hamata, Cariat-Arbe, hoje, Hebron, e Sior: nove cidades com suas aldeias. \\par",
+      "reference": "Js 15:54"
+    },
+    "55": {
+      "text": "Maon, Carmel, Zif, Jota,",
+      "reference": "Js 15:55"
+    },
+    "56": {
+      "text": "Jezrael, Jucadam, Zanoe,",
+      "reference": "Js 15:56"
+    },
+    "57": {
+      "text": "Acain, Gabaá e Tamna: dez cidades com suas aldeias. \\par",
+      "reference": "Js 15:57"
+    },
+    "58": {
+      "text": "Halul, Bet-Sur, Gedor,",
+      "reference": "Js 15:58"
+    },
+    "59": {
+      "text": "Maret, Bet-Anot e Eltecon: seis cidades com suas aldeias. \\par Técua, Éfrata, hoje Belém, Fegor, Etam, Culon, Tatam, Sores, Carem, Galim, Beter e Manaat: onze cidades com suas aldeias. \\par",
+      "reference": "Js 15:59"
+    },
+    "60": {
+      "text": "Cariat-Baal – que é Cariat-Iarim – e Areba: duas cidades com suas aldeias. \\par",
+      "reference": "Js 15:60"
+    },
+    "61": {
+      "text": "No deserto: \\par Bet-Arabá, Medin, Sacaca,",
+      "reference": "Js 15:61"
+    },
+    "62": {
+      "text": "Nebsã, a Cidade do Sal e Engadi: seis cidades com suas aldeias. \\par",
+      "reference": "Js 15:62"
+    },
+    "63": {
+      "text": "Mas os jebuseus que habitavam em Jerusalém, os filhos de Judá não puderam expulsá-los; assim os jebuseus ainda hoje habitam em Jerusalém, ao lado dos filhos de Judá. \\par",
+      "reference": "Js 15:63"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 63
+}

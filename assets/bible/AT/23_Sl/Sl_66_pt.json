@@ -1,0 +1,93 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 66,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 66 (65)\\par }{\\qc\\b\\i Ação de graças pública\\par }{\\qc\\i Do mestre de canto. Cântico. Salmo. \\par } Aclamai a Deus, terra inteira, \\par",
+      "reference": "Sl 66:1"
+    },
+    "2": {
+      "text": "cantai a glória do seu nome, \\par dai glória ao seu louvor. \\par",
+      "reference": "Sl 66:2"
+    },
+    "3": {
+      "text": "Dizei a Deus: “Quão terríveis são tuas obras! \\par Por causa do teu imenso poder \\par teus inimigos te adulam; \\par",
+      "reference": "Sl 66:3"
+    },
+    "4": {
+      "text": "a terra toda se prostra à tua frente, \\par cantando salmos a ti, cantando ao teu nome!” {\\i Pausa} \\par",
+      "reference": "Sl 66:4"
+    },
+    "5": {
+      "text": "Vinde ver os atos de Deus, \\par seus atos terríveis pelos filhos de Adão: \\par",
+      "reference": "Sl 66:5"
+    },
+    "6": {
+      "text": "transformou o mar em terra seca, \\par atravessaram o rio a pé enxuto. \\par Ali alegramo-nos com ele, \\par",
+      "reference": "Sl 66:6"
+    },
+    "7": {
+      "text": "que governa com seu poder para sempre! \\par Seus olhos vigiam as nações, \\par para que os rebeldes não se exaltem. {\\i Pausa} \\par",
+      "reference": "Sl 66:7"
+    },
+    "8": {
+      "text": "Povos, bendizei o nosso Deus, \\par fazei ouvir a voz do seu louvor; \\par",
+      "reference": "Sl 66:8"
+    },
+    "9": {
+      "text": "é ele que nos mantém vivos \\par e não deixa tropeçarem nossos pés. \\par",
+      "reference": "Sl 66:9"
+    },
+    "10": {
+      "text": "Sim, ó Deus, tu nos provaste, \\par nos refinaste como se refina a prata; \\par",
+      "reference": "Sl 66:10"
+    },
+    "11": {
+      "text": "fizeste-nos cair na rede, \\par puseste um peso em nossos rins: \\par",
+      "reference": "Sl 66:11"
+    },
+    "12": {
+      "text": "deixaste um mortal cavalgar nossas cabeças; \\par passamos pelo fogo e pela água, \\par mas fizeste-nos retomar o fôlego. \\par",
+      "reference": "Sl 66:12"
+    },
+    "13": {
+      "text": "Entro em tua casa com holocaustos, \\par cumpro meus votos feitos a ti, \\par",
+      "reference": "Sl 66:13"
+    },
+    "14": {
+      "text": "os votos que meus lábios pronunciaram \\par e minha boca prometeu, na minha angústia. \\par",
+      "reference": "Sl 66:14"
+    },
+    "15": {
+      "text": "Vou oferecer-te gordos holocaustos \\par com a fumaça de carneiros, \\par imolarei bois com cabritos. {\\i Pausa} \\par",
+      "reference": "Sl 66:15"
+    },
+    "16": {
+      "text": "Vós todos que temeis a Deus, \\par vinde ouvir, e eu contarei \\par o que ele por mim realizou. \\par",
+      "reference": "Sl 66:16"
+    },
+    "17": {
+      "text": "A ele gritou minha boca \\par e minha língua o exaltou. \\par",
+      "reference": "Sl 66:17"
+    },
+    "18": {
+      "text": "Se eu visasse ao mal no meu coração, \\par o Senhor não me teria ouvido. \\par",
+      "reference": "Sl 66:18"
+    },
+    "19": {
+      "text": "Todavia, Deus me escutou, \\par considerou meu grito suplicante. \\par",
+      "reference": "Sl 66:19"
+    },
+    "20": {
+      "text": "Bendito seja Deus \\par que não afastou minha súplica, \\par nem de mim apartou seu amor. \\par",
+      "reference": "Sl 66:20"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 20
+}

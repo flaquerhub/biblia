@@ -1,0 +1,169 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i Vocação dos quatro primeiros discípulos\\par }Certa vez em que a multidão se comprimia ao redor dele para ouvir a palavra de Deus, à margem do lago de Genesaré,",
+      "reference": "Lc 5:1"
+    },
+    "2": {
+      "text": "viu dois pequenos barcos parados à margem do lago; os pescadores haviam desembarcado e lavavam as redes.",
+      "reference": "Lc 5:2"
+    },
+    "3": {
+      "text": "Subindo num dos barcos, o de Simão, pediu-lhe que se afastasse um pouco da terra; depois, sentando-se ensinava do barco às multidões. \\par",
+      "reference": "Lc 5:3"
+    },
+    "4": {
+      "text": "Quando acabou de falar, disse a Simão: “Faze-te ao largo; lançai vossas redes para a pesca”.",
+      "reference": "Lc 5:4"
+    },
+    "5": {
+      "text": "Simão respondeu: “Mestre, trabalhamos a noite inteira sem nada apanhar; mas, porque mandas, lançarei as redes”.",
+      "reference": "Lc 5:5"
+    },
+    "6": {
+      "text": "Fizeram isso e apanharam tamanha quantidade de peixes que suas redes se rompiam.",
+      "reference": "Lc 5:6"
+    },
+    "7": {
+      "text": "Fizeram então sinais aos sócios do outro barco para virem em seu auxílio. Eles vieram e encheram os dois barcos, a ponto de quase afundarem. \\par",
+      "reference": "Lc 5:7"
+    },
+    "8": {
+      "text": "À vista disso, Simão Pedro atirou-se aos pés de Jesus, dizendo: “Afasta-te de mim, Senhor, porque sou um pecador!”",
+      "reference": "Lc 5:8"
+    },
+    "9": {
+      "text": "O espanto, com efeito, se apoderara dele e de todos os que estavam em sua companhia, por causa da pesca que haviam acabado de fazer;",
+      "reference": "Lc 5:9"
+    },
+    "10": {
+      "text": "e também de Tiago e João, filhos de Zebedeu, que eram companheiros de Simão. Jesus, porém, disse a Simão: “Não tenhas medo! Doravante serás pescador de homens”.",
+      "reference": "Lc 5:10"
+    },
+    "11": {
+      "text": "Então, reconduzindo os barcos à terra e deixando tudo, eles o seguiram. \\par",
+      "reference": "Lc 5:11"
+    },
+    "12": {
+      "text": "\\par {\\qc\\b\\i Cura de um leproso\\par }Estava ele numa cidade, quando apareceu um homem cheio de lepra. Vendo a Jesus, caiu com o rosto por terra e suplicou-lhe: “Senhor, se queres, tens poder para purificar-me”.",
+      "reference": "Lc 5:12"
+    },
+    "13": {
+      "text": "Ele estendeu a mão e, tocando-o, disse: “Eu quero. Sê purificado!” E imediatamente a lepra o deixou.",
+      "reference": "Lc 5:13"
+    },
+    "14": {
+      "text": "E ordenou-lhe que a ninguém o dissesse: “Vai, porém, {\\i mostrar-te ao sacerdote,} e oferece por tua purificação conforme prescreveu Moisés, para que lhes sirva de prova”. \\par",
+      "reference": "Lc 5:14"
+    },
+    "15": {
+      "text": "A notícia a seu respeito, porém, difundia-se cada vez mais, e acorriam numerosas multidões para ouvi-lo e serem curadas de suas enfermidades.",
+      "reference": "Lc 5:15"
+    },
+    "16": {
+      "text": "Ele, porém, permanecia retirado em lugares desertos e orava. \\par",
+      "reference": "Lc 5:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i Cura de um paralítico\\par }Certo dia, enquanto ensinava, achavam-se ali sentados fariseus e doutores da Lei, vindos de todos os povoados da Galiléia, da Judéia e de Jerusalém; e ele tinha um poder do Senhor para operar curas.",
+      "reference": "Lc 5:17"
+    },
+    "18": {
+      "text": "Vieram então alguns homens carregando um paralítico numa maca; tentavam levá-lo para dentro e colocá-lo diante dele.",
+      "reference": "Lc 5:18"
+    },
+    "19": {
+      "text": "E como não encontravam um jeito de introduzi-lo, por causa da multidão, subiram ao terraço e, através das telhas, desceram-no com a maca no meio dos assistentes, diante de Jesus.",
+      "reference": "Lc 5:19"
+    },
+    "20": {
+      "text": "Vendo-lhes a fé, ele disse: “Homem, teus pecados estão perdoados”. \\par",
+      "reference": "Lc 5:20"
+    },
+    "21": {
+      "text": "Os escribas e os fariseus começaram a raciocinar: “Quem é este que diz blasfêmias? Não é só Deus que pode perdoar pecados?”",
+      "reference": "Lc 5:21"
+    },
+    "22": {
+      "text": "Jesus, porém, percebeu seus raciocínios e respondeu-lhes: “Por que raciocinais em vossos corações?",
+      "reference": "Lc 5:22"
+    },
+    "23": {
+      "text": "Que é mais fácil dizer: Teus pecados estão perdoados, ou: Levanta-te e anda?",
+      "reference": "Lc 5:23"
+    },
+    "24": {
+      "text": "Pois bem! Para que saibais que o Filho do Homem tem o poder de perdoar pecados na terra, eu te ordeno – disse ao paralítico – levanta-te, toma tua maca e vai para tua casa”.",
+      "reference": "Lc 5:24"
+    },
+    "25": {
+      "text": "E no mesmo instante, levantando-se diante deles, tomou a maca onde estivera deitado e foi para casa, glorificando a Deus. \\par",
+      "reference": "Lc 5:25"
+    },
+    "26": {
+      "text": "O espanto apoderou-se de todos e glorificavam a Deus. Ficaram cheios de medo e diziam: “Hoje vimos coisas estranhas!” \\par",
+      "reference": "Lc 5:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i Vocação de Levi\\par }Depois disso, saiu, viu um publicano, chamado Levi, sentado na coletoria de impostos e disse-lhe: “Segue-me!”",
+      "reference": "Lc 5:27"
+    },
+    "28": {
+      "text": "E, levantando-se ele deixou tudo e o seguia. \\par",
+      "reference": "Lc 5:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i Refeição com os pecadores na casa de Levi\\par }Levi ofereceu-lhe então uma grande festa em sua casa, e com eles estava à mesa numerosa multidão de publicanos e outras pessoas.",
+      "reference": "Lc 5:29"
+    },
+    "30": {
+      "text": "Os fariseus e seus escribas murmuravam e diziam aos discípulos dele: “Por que comeis e bebeis com os publicanos e com os pecadores?”",
+      "reference": "Lc 5:30"
+    },
+    "31": {
+      "text": "Jesus, porém, tomando a palavra, disse-lhes: “Os sãos não têm necessidade de médico e sim os doentes;",
+      "reference": "Lc 5:31"
+    },
+    "32": {
+      "text": "não vim chamar os justos, mas sim os pecadores, ao arrependimento”. \\par",
+      "reference": "Lc 5:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i Discussão sobre o jejum\\par }Disseram-lhe então: “Os discípulos de João jejuam freqüentemente e recitam orações, os dos fariseus também, ao passo que os teus comem e bebem!”",
+      "reference": "Lc 5:33"
+    },
+    "34": {
+      "text": "Jesus respondeu-lhes: “Acaso podeis fazer que os amigos do noivo jejuem enquanto o noivo está com eles?",
+      "reference": "Lc 5:34"
+    },
+    "35": {
+      "text": "Dias virão, porém, em que o noivo lhes será tirado; e naqueles dias jejuarão”. \\par",
+      "reference": "Lc 5:35"
+    },
+    "36": {
+      "text": "Dizia-lhes ainda uma parábola: “Ninguém rasga um retalho de uma roupa nova para colocá-lo numa roupa velha; do contrário, rasgará a nova e o remendo tirado da nova ficará desajustado na roupa velha. \\par",
+      "reference": "Lc 5:36"
+    },
+    "37": {
+      "text": "Ninguém põe vinho novo em odres velhos; caso contrário, o vinho novo estourará os odres, derramar-se-á, e os odres ficarão inutilizados.",
+      "reference": "Lc 5:37"
+    },
+    "38": {
+      "text": "Coloque-se, antes, vinho novo em odres novos.",
+      "reference": "Lc 5:38"
+    },
+    "39": {
+      "text": "Não há quem, após ter bebido vinho velho, queira do novo. Pois diz: O velho é que é bom!” \\par",
+      "reference": "Lc 5:39"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 39
+}

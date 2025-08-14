@@ -1,0 +1,85 @@
+{
+  "book": 8,
+  "book_name": "Rute",
+  "book_abbr": "Rt",
+  "book_category": "Histórico",
+  "book_english": "Ruth",
+  "testament": "AT",
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b A NOITE NA EIRA\\par }Noemi, sua sogra, disse-lhe: “Minha filha, não devo eu buscar-te repouso, para que sejas feliz?",
+      "reference": "Rt 3:1"
+    },
+    "2": {
+      "text": "Ora, esse Booz, com cujas servas estavas, não é nosso parente? Esta noite, ele vai joeirar a cevada na eira.",
+      "reference": "Rt 3:2"
+    },
+    "3": {
+      "text": "Lava-te, pois, e perfuma-te, põe teu manto e desce à eira, mas não te deixes reconhecer por ele, até que ele tenha acabado de comer e beber.",
+      "reference": "Rt 3:3"
+    },
+    "4": {
+      "text": "Quando ele for dormir, observa o lugar em que está deitado; então entra, descobre seus pés e deita-te; e ele te dirá o que deves fazer”.",
+      "reference": "Rt 3:4"
+    },
+    "5": {
+      "text": "Rute retrucou-lhe: “Farei tudo o que disseste”. \\par",
+      "reference": "Rt 3:5"
+    },
+    "6": {
+      "text": "Ela desceu à eira e fez tudo o que sua sogra lhe havia mandado.",
+      "reference": "Rt 3:6"
+    },
+    "7": {
+      "text": "Booz comeu, bebeu, seu coração se alegrou, e ele foi deitar-se junto de um monte de cevada; então ela veio de mansinho, descobriu seus pés e deitou-se.",
+      "reference": "Rt 3:7"
+    },
+    "8": {
+      "text": "Alta noite, o homem estremeceu; voltou-se e viu uma mulher deitada a seus pés.",
+      "reference": "Rt 3:8"
+    },
+    "9": {
+      "text": "Disse ele: “Quem és tu?” Ela respondeu: “Eu sou Rute, tua serva. Estende teu manto sobre tua serva, pois tens o direito de resgate”.",
+      "reference": "Rt 3:9"
+    },
+    "10": {
+      "text": "E disse ele: “Bendita sejas por Deus, minha filha; este teu novo ato de piedade excede o primeiro, pois não procuraste jovens, pobres ou ricos.",
+      "reference": "Rt 3:10"
+    },
+    "11": {
+      "text": "E agora, minha filha, não tenhas medo: far-te-ei tudo quanto disseres, pois toda a população desta cidade sabe que és uma mulher virtuosa.",
+      "reference": "Rt 3:11"
+    },
+    "12": {
+      "text": "Ora, realmente tenho o direito de resgate, mas há um outro parente mais próximo que eu.",
+      "reference": "Rt 3:12"
+    },
+    "13": {
+      "text": "Passa a noite aqui e amanhã cedo, se ele quiser exercer seu direito de resgate sobre ti, está bem, que ele te resgate: se, pelo contrário, não quiser te resgatar, eu te resgatarei; juro pela vida de Iahweh! Fica deitada até de manhã”.",
+      "reference": "Rt 3:13"
+    },
+    "14": {
+      "text": "Ela ficou deitada a seus pés até de manhã e levantou-se antes que uma pessoa pudesse reconhecer a outra; ele pensou consigo: “Não convém que se saiba que esta mulher veio à eira”.",
+      "reference": "Rt 3:14"
+    },
+    "15": {
+      "text": "Disse então Booz: “Estende o manto que te cobre e segura-o”. Ela segurou-o e ele mediu seis medidas de cevada, que lhe pôs às costas. E ela voltou para a cidade. \\par",
+      "reference": "Rt 3:15"
+    },
+    "16": {
+      "text": "Quando Rute chegou à casa de sua sogra esta lhe perguntou: “Como estás, minha filha?” Rute contou-lhe então tudo o que aquele homem tinha feito por ela.",
+      "reference": "Rt 3:16"
+    },
+    "17": {
+      "text": "E acrescentou: “Estas seis medidas de cevada, foi ele que me deu, dizendo-me: Não voltarás de mãos vazias para junto de tua sogra”.",
+      "reference": "Rt 3:17"
+    },
+    "18": {
+      "text": "Noemi lhe disse: “Fica tranqüila, minha filha, até saberes como terminará tudo isso; com certeza este homem não descansará enquanto não resolver hoje mesmo esta questão”. \\par",
+      "reference": "Rt 3:18"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 18
+}

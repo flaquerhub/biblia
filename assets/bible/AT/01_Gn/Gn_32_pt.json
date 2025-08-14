@@ -1,0 +1,145 @@
+{
+  "book": 1,
+  "book_name": "Gênesis",
+  "book_abbr": "Gn",
+  "book_category": "Lei",
+  "book_english": "Genesis",
+  "testament": "AT",
+  "chapter": 32,
+  "verses": {
+    "1": {
+      "text": "Labão levantou-se de madrugada, beijou seus netos e suas filhas e os abençoou. Depois Labão partiu e voltou para sua casa.",
+      "reference": "Gn 32:1"
+    },
+    "2": {
+      "text": "Como Jacó seguisse seu caminho, anjos de Deus o afrontaram.",
+      "reference": "Gn 32:2"
+    },
+    "3": {
+      "text": "Vendo-os, disse Jacó: “É o campo de Deus!” E deu a esse lugar o nome de Maanaim. \\par",
+      "reference": "Gn 32:3"
+    },
+    "4": {
+      "text": "\\par {\\qc\\b\\i Jacó prepara seu reencontro com Esaú\\par }Jacó enviou adiante dele mensageiros a seu irmão Esaú, na terra de Seir, a estepe de Edom.",
+      "reference": "Gn 32:4"
+    },
+    "5": {
+      "text": "Deu-lhes esta ordem: “Assim falareis a Esaú, meu senhor: Eis a mensagem de teu servo Jacó: Habitei junto a Labão e ali fiquei até agora.",
+      "reference": "Gn 32:5"
+    },
+    "6": {
+      "text": "Adquiri bois e jumentos, ovelhas, servos e servas. Quero dar a notícia a meu senhor, para encontrar graça a seus olhos”. \\par",
+      "reference": "Gn 32:6"
+    },
+    "7": {
+      "text": "Os mensageiros voltaram a Jacó, dizendo: “Fomos a teu irmão Esaú. Ele mesmo vem agora ao teu encontro e há quatrocentos homens com ele”. \\par",
+      "reference": "Gn 32:7"
+    },
+    "8": {
+      "text": "Jacó teve grande medo e sentiu-se angustiado. Então dividiu em dois grupos os homens que estavam com ele, as ovelhas e os bois.",
+      "reference": "Gn 32:8"
+    },
+    "9": {
+      "text": "Disse para consigo: “Se Esaú se dirigir para um dos bandos e o atacar, o outro bando poderá se salvar”.",
+      "reference": "Gn 32:9"
+    },
+    "10": {
+      "text": "Disse Jacó: “Deus de meu pai Abraão e Deus de meu pai Isaac, Iahweh, que me ordenaste: ‘Retorna à tua terra e à tua pátria e te farei bem’,",
+      "reference": "Gn 32:10"
+    },
+    "11": {
+      "text": "eu sou indigno de todos os favores e de toda a bondade que tiveste para com teu servo. Eu não tinha senão meu cajado para atravessar este Jordão, e agora posso formar dois bandos.",
+      "reference": "Gn 32:11"
+    },
+    "12": {
+      "text": "Livra-me da mão de meu irmão Esaú, pois tenho medo dele, para que não venha matar-nos, a mãe com os filhos.",
+      "reference": "Gn 32:12"
+    },
+    "13": {
+      "text": "Foste tu, com efeito, que disseste: ‘Eu te cumularei de favores e tornarei a tua descendência como a areia do mar, que não se pode contar, de tão numerosa’”.",
+      "reference": "Gn 32:13"
+    },
+    "14": {
+      "text": "E Jacó passou a noite naquele lugar. \\par De tudo o que tinha, separou um presente para seu irmão Esaú:",
+      "reference": "Gn 32:14"
+    },
+    "15": {
+      "text": "duzentas cabras e vinte bodes, duzentas ovelhas e vinte cordeiros,",
+      "reference": "Gn 32:15"
+    },
+    "16": {
+      "text": "trinta camelas de leite, com seus filhotes, quarenta vacas e dez touros, vinte jumentas e dez jumentinhos.",
+      "reference": "Gn 32:16"
+    },
+    "17": {
+      "text": "Ele os confiou a seus servos, cada rebanho à parte, e disse a seus servos: “Ide adiante de mim e deixai espaço entre os rebanhos”.",
+      "reference": "Gn 32:17"
+    },
+    "18": {
+      "text": "Ao primeiro deu esta ordem: “Quando meu irmão Esaú te encontrar e te disser: ‘De quem és? Para onde vais? A quem pertence o que está adiante de ti?’,",
+      "reference": "Gn 32:18"
+    },
+    "19": {
+      "text": "responderás: ‘É de teu servo Jacó, é um presente enviado a Esaú, meu senhor, e ele mesmo chegará atrás de nós’”.",
+      "reference": "Gn 32:19"
+    },
+    "20": {
+      "text": "Ele deu a mesma ordem ao segundo e ao terceiro e a todos os que caminhavam atrás dos rebanhos: “Eis”, disse ele, “como falareis a Esaú quando o encontrardes,",
+      "reference": "Gn 32:20"
+    },
+    "21": {
+      "text": "e direis: ‘Teu servo Jacó, ele mesmo, chegará atrás de nós’”. Com efeito, dizia ele para si mesmo: “Eu o aplacarei com o presente que me antecede, em seguida me apresentarei a ele, e talvez me conceda graça”.",
+      "reference": "Gn 32:21"
+    },
+    "22": {
+      "text": "O presente seguiu adiante e ele ficou aquela noite no campo. \\par",
+      "reference": "Gn 32:22"
+    },
+    "23": {
+      "text": "\\par {\\qc\\b\\i A luta com Deus\\par }Naquela mesma noite, ele se levantou, tomou suas duas mulheres, suas duas servas, seus onze filhos e passou o vau do Jaboc.",
+      "reference": "Gn 32:23"
+    },
+    "24": {
+      "text": "Ele os tomou e os fez passar a torrente e fez passar também tudo o que possuía.",
+      "reference": "Gn 32:24"
+    },
+    "25": {
+      "text": "E Jacó ficou só. \\par E alguém lutou com ele até surgir a aurora.",
+      "reference": "Gn 32:25"
+    },
+    "26": {
+      "text": "Vendo que não o dominava, tocou-lhe na articulação da coxa, e a coxa de Jacó se deslocou enquanto lutava com ele.",
+      "reference": "Gn 32:26"
+    },
+    "27": {
+      "text": "Ele disse: “Deixa-me ir, pois já rompeu o dia”. Mas Jacó respondeu: “Eu não te deixarei se não me abençoares”.",
+      "reference": "Gn 32:27"
+    },
+    "28": {
+      "text": "Ele lhe perguntou: “Qual é o teu nome?” – “Jacó”, respondeu ele.",
+      "reference": "Gn 32:28"
+    },
+    "29": {
+      "text": "Ele retomou: “Não te chamarás mais Jacó, mas Israel, porque foste forte contra Deus e contra os homens, e tu prevaleceste”.",
+      "reference": "Gn 32:29"
+    },
+    "30": {
+      "text": "Jacó fez esta pergunta: “Revela-me teu nome, por favor”. Mas ele respondeu: “Por que perguntas pelo meu nome?” E ali mesmo o abençoou. \\par",
+      "reference": "Gn 32:30"
+    },
+    "31": {
+      "text": "Jacó deu a este lugar o nome de Fanuel, “porque”, disse ele, “eu vi a Deus face a face e a minha vida foi salva”.",
+      "reference": "Gn 32:31"
+    },
+    "32": {
+      "text": "Nascendo o sol, ele tinha passado Fanuel e manquejava de uma coxa.",
+      "reference": "Gn 32:32"
+    },
+    "33": {
+      "text": "Por isso os israelitas, até hoje, não comem o nervo ciático que está na articulação da coxa, porque ele feriu a Jacó na articulação da coxa, no nervo ciático. \\par",
+      "reference": "Gn 32:33"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 33
+}

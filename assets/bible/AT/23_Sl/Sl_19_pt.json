@@ -1,0 +1,73 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b SALMO 19 (18)\\par }{\\qc\\b\\i Iahweh, sol de justiça\\par }{\\qc\\i Do mestre de canto. Salmo. De Davi.\\par }",
+      "reference": "Sl 19:1"
+    },
+    "2": {
+      "text": "Os céus contam a glória de Deus, \\par e o firmamento proclama a obra de suas mãos. \\par",
+      "reference": "Sl 19:2"
+    },
+    "3": {
+      "text": "O dia entrega a mensagem a outro dia, \\par e a noite a faz conhecer a outra noite. \\par",
+      "reference": "Sl 19:3"
+    },
+    "4": {
+      "text": "Não há termos, não há palavras, \\par nenhuma voz que deles se ouça; \\par",
+      "reference": "Sl 19:4"
+    },
+    "5": {
+      "text": "e por toda a terra sua linha aparece, \\par e até aos confins do mundo a sua linguagem. \\par Ali pôs uma tenda para o sol, \\par",
+      "reference": "Sl 19:5"
+    },
+    "6": {
+      "text": "e ele sai, qual esposo da alcova, \\par como alegre herói, percorrendo o caminho. \\par",
+      "reference": "Sl 19:6"
+    },
+    "7": {
+      "text": "Ele sai de um extremo dos céus \\par e até o outro extremo vai seu percurso; \\par e nada escapa ao seu calor. \\par",
+      "reference": "Sl 19:7"
+    },
+    "8": {
+      "text": "A lei de Iahweh é perfeita, \\par faz a vida voltar; \\par o testemunho de Iahweh é firme, \\par torna sábio o simples. \\par",
+      "reference": "Sl 19:8"
+    },
+    "9": {
+      "text": "Os preceitos de Iahweh são retos, \\par alegram o coração; \\par o mandamento de Iahweh é claro, \\par ilumina os olhos. \\par",
+      "reference": "Sl 19:9"
+    },
+    "10": {
+      "text": "O temor de Iahweh é puro, \\par estável para sempre; \\par as decisões de Iahweh são verdadeiras, \\par e justas igualmente; \\par",
+      "reference": "Sl 19:10"
+    },
+    "11": {
+      "text": "são mais desejáveis do que o ouro, \\par muito ouro refinado; \\par suas palavras são mais doces do que o mel \\par escorrendo dos favos. \\par",
+      "reference": "Sl 19:11"
+    },
+    "12": {
+      "text": "Com elas também teu servo se esclarece, \\par e observá-las traz grande proveito. \\par",
+      "reference": "Sl 19:12"
+    },
+    "13": {
+      "text": "Quem pode discernir os próprios erros? \\par Purifica-me das faltas escondidas! \\par",
+      "reference": "Sl 19:13"
+    },
+    "14": {
+      "text": "Preserva também o teu servo do orgulho, \\par para que ele nunca me domine; \\par então eu serei íntegro \\par e inocente de uma grande transgressão. \\par",
+      "reference": "Sl 19:14"
+    },
+    "15": {
+      "text": "Que te agradem as palavras de minha boca \\par e o meditar do meu coração, \\par sem treva em tua presença, \\par Iahweh, meu rochedo, redentor meu! \\par",
+      "reference": "Sl 19:15"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 15
+}

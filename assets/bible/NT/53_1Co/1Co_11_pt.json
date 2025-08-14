@@ -1,0 +1,149 @@
+{
+  "book": 46,
+  "book_name": "1Coríntios",
+  "book_abbr": "1Co",
+  "book_category": "Epístolas Paulinas",
+  "book_english": "1 Corinthians",
+  "testament": "NT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Sede meus imitadores, como eu mesmo o sou de Cristo. \\par",
+      "reference": "1Co 11:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b 3. A BOA ORDEM NAS ASSEMBLÉIAS\\par }{\\qc\\b\\i O véu das mulheres\\par }Eu vos louvo por vos recordardes de mim em todas as ocasiões e por conservardes as tradições tais como vo-las transmiti.",
+      "reference": "1Co 11:2"
+    },
+    "3": {
+      "text": "Quero, porém, que saibais que a cabeça de todo homem é Cristo, a cabeça da mulher é o homem, e a cabeça de Cristo é Deus.",
+      "reference": "1Co 11:3"
+    },
+    "4": {
+      "text": "Todo homem que ore ou profetize com a cabeça coberta desonra a sua cabeça.",
+      "reference": "1Co 11:4"
+    },
+    "5": {
+      "text": "Mas toda mulher que ore ou profetize com a cabeça descoberta desonra a sua cabeça; é o mesmo que ter a cabeça raspada.",
+      "reference": "1Co 11:5"
+    },
+    "6": {
+      "text": "Se a mulher não se cobre com véu, mande cortar os cabelos! Mas, se é vergonhoso para uma mulher ter os cabelos cortados ou raspados, cubra a cabeça! \\par",
+      "reference": "1Co 11:6"
+    },
+    "7": {
+      "text": "Quanto ao homem, não deve cobrir a cabeça, porque é a imagem e a glória de Deus; mas a mulher é a glória do homem.",
+      "reference": "1Co 11:7"
+    },
+    "8": {
+      "text": "Pois o homem não foi tirado da mulher, mas a mulher, do homem.",
+      "reference": "1Co 11:8"
+    },
+    "9": {
+      "text": "E o homem não foi criado para a mulher, mas a mulher para o homem.",
+      "reference": "1Co 11:9"
+    },
+    "10": {
+      "text": "Sendo assim, a mulher deve trazer sobre a cabeça o sinal da sua dependência, por causa dos anjos.",
+      "reference": "1Co 11:10"
+    },
+    "11": {
+      "text": "Por conseguinte, a mulher é inseparável do homem e o homem da mulher, diante do Senhor.",
+      "reference": "1Co 11:11"
+    },
+    "12": {
+      "text": "Pois, se a mulher foi tirada do homem, o homem nasce da mulher, e tudo vem de Deus. \\par",
+      "reference": "1Co 11:12"
+    },
+    "13": {
+      "text": "Julgai por vós mesmos: será conveniente que uma mulher ore a Deus sem estar coberta de véu?",
+      "reference": "1Co 11:13"
+    },
+    "14": {
+      "text": "A natureza mesma não vos ensina que é desonroso para o homem trazer cabelos compridos,",
+      "reference": "1Co 11:14"
+    },
+    "15": {
+      "text": "ao passo que, para a mulher, é glória ter longa cabeleira, porque a cabeleira lhe foi dada como véu? \\par",
+      "reference": "1Co 11:15"
+    },
+    "16": {
+      "text": "Se, no entanto, alguém quiser contestar, não temos este costume, nem tampouco as Igrejas de Deus. \\par",
+      "reference": "1Co 11:16"
+    },
+    "17": {
+      "text": "\\par {\\qc\\b\\i A “Ceia do Senhor”\\par }Dito isto, não posso louvar-vos: vossas assembléias, longe de vos levar ao melhor, vos prejudicam.",
+      "reference": "1Co 11:17"
+    },
+    "18": {
+      "text": "Em primeiro lugar, ouço dizer que, quando vos reunis em assembléia, há entre vós divisões, e, em parte, o creio.",
+      "reference": "1Co 11:18"
+    },
+    "19": {
+      "text": "É preciso que haja até mesmo cisões entre vós, a fim de que se tornem manifestos entre vós aqueles que são comprovados.",
+      "reference": "1Co 11:19"
+    },
+    "20": {
+      "text": "Quando, pois, vos reunis, o que fazeis não é comer a Ceia do Senhor;",
+      "reference": "1Co 11:20"
+    },
+    "21": {
+      "text": "cada um se apressa por comer a sua própria ceia; e, enquanto um passa fome, o outro fica embriagado.",
+      "reference": "1Co 11:21"
+    },
+    "22": {
+      "text": "Não tendes casas para comer e beber? Ou desprezais a Igreja de Deus e quereis envergonhar aqueles que nada têm? Que vos direi? Hei de louvar-vos? Não, neste ponto não vos louvo. \\par",
+      "reference": "1Co 11:22"
+    },
+    "23": {
+      "text": "Com efeito, eu mesmo recebi do Senhor o que vos transmiti: na noite em que foi entregue, o Senhor Jesus tomou o pão",
+      "reference": "1Co 11:23"
+    },
+    "24": {
+      "text": "e, depois de dar graças, partiu-o e disse: “Isto é o meu corpo, que é para vós; fazei isto em memória de mim”.",
+      "reference": "1Co 11:24"
+    },
+    "25": {
+      "text": "Do mesmo modo, após a ceia, também tomou o cálice, dizendo: “Este cálice é a nova Aliança em meu sangue; todas as vezes que dele beberdes, fazei-o em memória de mim”.",
+      "reference": "1Co 11:25"
+    },
+    "26": {
+      "text": "Todas as vezes, pois, que comeis desse pão e bebeis desse cálice, anunciais a morte do Senhor até que ele venha.",
+      "reference": "1Co 11:26"
+    },
+    "27": {
+      "text": "Eis porque todo aquele que comer do pão ou beber do cálice do Senhor indignamente será réu do corpo e do sangue do Senhor. \\par",
+      "reference": "1Co 11:27"
+    },
+    "28": {
+      "text": "Por conseguinte, que cada um examine a si mesmo antes de comer desse pão e beber desse cálice,",
+      "reference": "1Co 11:28"
+    },
+    "29": {
+      "text": "pois aquele que come e bebe sem discernir o Corpo, come e bebe a própria condenação.",
+      "reference": "1Co 11:29"
+    },
+    "30": {
+      "text": "Eis porque há entre vós tantos débeis e enfermos e muitos morreram.",
+      "reference": "1Co 11:30"
+    },
+    "31": {
+      "text": "Se nos examinássemos a nós mesmos, não seríamos julgados.",
+      "reference": "1Co 11:31"
+    },
+    "32": {
+      "text": "Mas por seus julgamentos o Senhor nos corrige, para que não sejamos condenados com o mundo. \\par",
+      "reference": "1Co 11:32"
+    },
+    "33": {
+      "text": "Portanto, meus irmãos, quando vos reunirdes para a Ceia, esperai uns aos outros.",
+      "reference": "1Co 11:33"
+    },
+    "34": {
+      "text": "Se alguém tem fome, coma em sua casa, a fim de que não vos reunais para a vossa condenação. Quanto ao mais eu o determinarei quando aí chegar. \\par",
+      "reference": "1Co 11:34"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 34
+}

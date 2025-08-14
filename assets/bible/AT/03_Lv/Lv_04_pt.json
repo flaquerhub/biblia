@@ -1,0 +1,153 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b\\i O sacrifício pelo pecado: a) do sumo sacerdote\\par }Iahweh falou a Moisés e disse: \\par",
+      "reference": "Lv 4:1"
+    },
+    "2": {
+      "text": "“Fala aos filhos de Israel e dize-lhes: \\par Se alguém pecar por inadvertência contra qualquer um dos mandamentos de Iahweh e cometer uma destas ações que não são permitidas,",
+      "reference": "Lv 4:2"
+    },
+    "3": {
+      "text": "se for o sacerdote consagrado pela unção que pecar e tornar assim o povo culpado, oferecerá a Iahweh, pelo pecado que cometeu, um novilho, animal grande, sem defeito, como sacrifício pelo pecado.",
+      "reference": "Lv 4:3"
+    },
+    "4": {
+      "text": "Levará o novilho diante de Iahweh, à entrada da Tenda da Reunião, porá a mão sobre a cabeça dele e o imolará diante de Iahweh.",
+      "reference": "Lv 4:4"
+    },
+    "5": {
+      "text": "Depois o sacerdote consagrado pela unção tomará um pouco do sangue deste novilho e o levará à Tenda da Reunião.",
+      "reference": "Lv 4:5"
+    },
+    "6": {
+      "text": "E molhará o dedo no sangue e fará sete aspersões diante do véu do santuário, diante de Iahweh.",
+      "reference": "Lv 4:6"
+    },
+    "7": {
+      "text": "O sacerdote colocará então um pouco deste sangue sobre os chifres do altar do incenso que é queimado diante de Iahweh na Tenda da Reunião, e derramará todo o sangue do novilho na base do altar dos holocaustos que se encontra na entrada da Tenda da Reunião. \\par",
+      "reference": "Lv 4:7"
+    },
+    "8": {
+      "text": "De toda a gordura deste novilho oferecido em sacrifício pelo pecado eis o que ele reservará: a gordura que cobre as entranhas, toda a gordura que está sobre as entranhas,",
+      "reference": "Lv 4:8"
+    },
+    "9": {
+      "text": "os dois rins, a gordura aderente a eles e aos lombos, e a massa gordurosa que destacará do fígado e dos rins –",
+      "reference": "Lv 4:9"
+    },
+    "10": {
+      "text": "tudo conforme a parte reservada no sacrifício de comunhão –, e o sacerdote queimará esses pedaços sobre o altar dos holocaustos. \\par",
+      "reference": "Lv 4:10"
+    },
+    "11": {
+      "text": "O couro do novilho e toda a sua carne, sua cabeça, suas patas, suas entranhas e o seu excremento,",
+      "reference": "Lv 4:11"
+    },
+    "12": {
+      "text": "isto é, o touro todo será levado para fora do acampamento, para um lugar puro, lugar do resíduo das cinzas gordurosas. Ali o queimará sobre um fogo de lenha; é no lugar do resíduo das cinzas gordurosas que o novilho será queimado. \\par",
+      "reference": "Lv 4:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i b) da Assembléia de Israel\\par }Se for toda a comunidade de Israel que pecar por inadvertência e cometer uma das coisas não permitidas pelos mandamentos de Iahweh, sem que a comunidade esteja apercebida do fato,",
+      "reference": "Lv 4:13"
+    },
+    "14": {
+      "text": "a comunidade oferecerá em sacrifício pelo pecado um novilho, animal grande, sem defeito, logo que for conhecido o pecado do qual é responsável. Será levado diante da Tenda da Reunião;",
+      "reference": "Lv 4:14"
+    },
+    "15": {
+      "text": "diante de Iahweh os anciãos da comunidade colocarão as mãos sobre a cabeça do novilho, e será imolado diante de Iahweh. \\par",
+      "reference": "Lv 4:15"
+    },
+    "16": {
+      "text": "Em seguida o sacerdote consagrado pela unção levará à Tenda da Reunião um pouco do sangue do novilho.",
+      "reference": "Lv 4:16"
+    },
+    "17": {
+      "text": "Molhará o dedo no sangue e fará sete aspersões diante do véu, perante Iahweh.",
+      "reference": "Lv 4:17"
+    },
+    "18": {
+      "text": "Depositará então um pouco do sangue sobre os chifres do altar que se encontra diante de Iahweh na Tenda da Reunião, e depois derramará todo o sangue na base do altar dos holocaustos que está na entrada da Tenda da Reunião. \\par",
+      "reference": "Lv 4:18"
+    },
+    "19": {
+      "text": "Tirará então do animal toda a gordura e a queimará no altar.",
+      "reference": "Lv 4:19"
+    },
+    "20": {
+      "text": "Fará com este novilho como fez com o novilho do sacrifício pelo pecado. Assim se fará com ele, e, tendo o sacerdote feito o rito de expiação pelos membros da comunidade, serão eles perdoados. \\par",
+      "reference": "Lv 4:20"
+    },
+    "21": {
+      "text": "Mandará levar o novilho para fora do acampamento e o queimará como queimou o novilho anterior. Este é o sacrifício pelo pecado da comunidade. \\par",
+      "reference": "Lv 4:21"
+    },
+    "22": {
+      "text": "\\par {\\qc\\b\\i c) de um chefe\\par }Supondo-se que um chefe peque e faça por inadvertência alguma coisa proibida pelos mandamentos de Iahweh seu Deus e se torne assim culpado,",
+      "reference": "Lv 4:22"
+    },
+    "23": {
+      "text": "(ou se for advertido a respeito do pecado cometido), trará como oferenda um bode, macho, sem defeito.",
+      "reference": "Lv 4:23"
+    },
+    "24": {
+      "text": "Colocará a mão sobre a cabeça do bode e o imolará no lugar onde se imolam os holocaustos diante de Iahweh. É um sacrifício pelo pecado:",
+      "reference": "Lv 4:24"
+    },
+    "25": {
+      "text": "o sacerdote tomará com o dedo um pouco do sangue da vítima e o depositará nos chifres do altar dos holocaustos. Depois derramará o sangue na base do altar dos holocaustos",
+      "reference": "Lv 4:25"
+    },
+    "26": {
+      "text": "e fará queimar toda a gordura no altar, como a gordura do sacrifício de comunhão. O sacerdote fará assim o rito de expiação pelo chefe, para livrá-lo do seu pecado, e ser-lhe-á perdoado. \\par",
+      "reference": "Lv 4:26"
+    },
+    "27": {
+      "text": "\\par {\\qc\\b\\i d) de um homem do povo\\par }Se for um homem do povo da terra que pecar por inadvertência e se tornar culpado ao praticar algumas das coisas proibidas pelos mandamentos de Iahweh,",
+      "reference": "Lv 4:27"
+    },
+    "28": {
+      "text": "(ou se alguém o advertir do pecado cometido), levará, como oferenda pelo pecado que cometeu, uma cabra, fêmea, sem defeito.",
+      "reference": "Lv 4:28"
+    },
+    "29": {
+      "text": "Porá a mão sobre a cabeça da vítima e a imolará no lugar onde se imolam os holocaustos.",
+      "reference": "Lv 4:29"
+    },
+    "30": {
+      "text": "O sacerdote tomará com o dedo um pouco do sangue dela e o depositará nos chifres do altar dos holocaustos. Depois derramará todo o sangue na base do altar.",
+      "reference": "Lv 4:30"
+    },
+    "31": {
+      "text": "Em seguida tirará toda a gordura, como se tira a gordura de um sacrifício de comunhão, e o sacerdote a queimará no altar em odor agradável a Iahweh. O sacerdote fará assim o rito de expiação para esse homem, e ele será perdoado. \\par",
+      "reference": "Lv 4:31"
+    },
+    "32": {
+      "text": "Se for uma ovelha que desejar trazer como oferenda para o sacrifício, trará uma fêmea sem defeito.",
+      "reference": "Lv 4:32"
+    },
+    "33": {
+      "text": "Porá a mão sobre a cabeça da vítima e a imolará em sacrifício pelo pecado, no lugar onde se imolam os holocaustos.",
+      "reference": "Lv 4:33"
+    },
+    "34": {
+      "text": "O sacerdote tomará com o dedo um pouco do sangue do sacrifício e o depositará nos chifres do altar dos holocaustos. Depois derramará todo o sangue na base do altar.",
+      "reference": "Lv 4:34"
+    },
+    "35": {
+      "text": "Tirará toda a gordura, como se tira a do carneiro de um sacrifício de comunhão, e o sacerdote queimará esses pedaços no altar, em cima das oferendas queimadas para Iahweh. O sacerdote fará, assim, o rito de expiação pelo homem, pelo pecado que cometeu, e lhe será perdoado. \\par",
+      "reference": "Lv 4:35"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 35
+}

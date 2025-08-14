@@ -1,0 +1,201 @@
+{
+  "book": 3,
+  "book_name": "Levítico",
+  "book_abbr": "Lv",
+  "book_category": "Lei",
+  "book_english": "Leviticus",
+  "testament": "AT",
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i III. Regras referentes ao puro e ao impuro}\\par }{\\qc\\b\\i Animais puros e impuros. A. Animais terrestres\\par }Iahweh falou a Moisés e a Aarão, e disse-lhes:",
+      "reference": "Lv 11:1"
+    },
+    "2": {
+      "text": "“Falai aos filhos de Israel e dizei-lhes: \\par Estes são os quadrúpedes que podereis comer, dentre todos os animais terrestres: \\par",
+      "reference": "Lv 11:2"
+    },
+    "3": {
+      "text": "Todo animal que tem o casco fendido, partido em duas unhas, e que rumina, podereis comê-lo.",
+      "reference": "Lv 11:3"
+    },
+    "4": {
+      "text": "São as seguintes as espécies que não podereis comer, dentre aqueles que ruminam ou que têm o casco fendido: Tereis como impuro o camelo porque, embora sendo ruminante não tem o casco fendido;",
+      "reference": "Lv 11:4"
+    },
+    "5": {
+      "text": "tereis como impuro o coelho porque, embora sendo ruminante, não tem o casco fendido;",
+      "reference": "Lv 11:5"
+    },
+    "6": {
+      "text": "tereis como impura a lebre porque, embora sendo ruminante, não tem o casco fendido;",
+      "reference": "Lv 11:6"
+    },
+    "7": {
+      "text": "tereis como impuro o porco porque, apesar de ter o casco fendido, partido em duas unhas, não rumina.",
+      "reference": "Lv 11:7"
+    },
+    "8": {
+      "text": "Não comereis da carne deles nem tocareis o seu cadáver, e vós os tereis como impuros. \\par",
+      "reference": "Lv 11:8"
+    },
+    "9": {
+      "text": "\\par {\\qc\\b\\i B. Animais aquáticos\\par }Dentre tudo aquilo que vive na água, podereis comer o seguinte: \\par Tudo o que tem barbatanas e escamas e vive na água dos mares e dos rios, podereis comer.",
+      "reference": "Lv 11:9"
+    },
+    "10": {
+      "text": "Mas tudo o que não tem barbatanas e escamas, nos mares ou nos rios, todos os animaizinhos que infestam as águas e todos os seres viventes que nela se encontram, tê-los-eis como imundos.",
+      "reference": "Lv 11:10"
+    },
+    "11": {
+      "text": "Serão para vós imundos, não comereis a sua carne de modo algum e abominareis os seus cadáveres.",
+      "reference": "Lv 11:11"
+    },
+    "12": {
+      "text": "Tudo o que vive na água sem ter barbatanas e escamas será para vós imundo. \\par",
+      "reference": "Lv 11:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i C. Aves\\par }Dentre as aves, tereis por imundas, e não se comerão, pois que são imundas, as seguintes: \\par o abutre, o gipaeto, o xofrango,",
+      "reference": "Lv 11:13"
+    },
+    "14": {
+      "text": "o milhafre negro, as diferentes espécies de milhafre vermelho,",
+      "reference": "Lv 11:14"
+    },
+    "15": {
+      "text": "todas as espécies de corvo,",
+      "reference": "Lv 11:15"
+    },
+    "16": {
+      "text": "o avestruz, a coruja, a gaivota e as diferentes espécies de gavião,",
+      "reference": "Lv 11:16"
+    },
+    "17": {
+      "text": "o mocho, o alcatraz, o íbis,",
+      "reference": "Lv 11:17"
+    },
+    "18": {
+      "text": "o grão-duque, o pelicano, o abutre branco,",
+      "reference": "Lv 11:18"
+    },
+    "19": {
+      "text": "a cegonha e as diferentes espécies de garça, a poupa e o morcego. \\par",
+      "reference": "Lv 11:19"
+    },
+    "20": {
+      "text": "\\par {\\qc\\b\\i D. Insetos alados\\par }Todos os insetos alados que caminham sobre quatro pés serão para vós imundos.",
+      "reference": "Lv 11:20"
+    },
+    "21": {
+      "text": "De todos os insetos alados que caminham sobre quatro pés, não podereis comer a não ser os seguintes: aqueles que têm patas além dos pés, para saltarem sobre a terra.",
+      "reference": "Lv 11:21"
+    },
+    "22": {
+      "text": "Dentre eles podereis comer os seguintes: as diferentes espécies de locustídeos, de gafanhotos, de acrídios e de grilos.",
+      "reference": "Lv 11:22"
+    },
+    "23": {
+      "text": "Contudo, todos os insetos alados de quatro pés, tê-lo-eis como imundos. \\par",
+      "reference": "Lv 11:23"
+    },
+    "24": {
+      "text": "\\par {\\qc\\b\\i O contato com animais impuros\\par }Contraireis impureza deles; todo aquele que tocar o seu cadáver ficará impuro até à tarde.",
+      "reference": "Lv 11:24"
+    },
+    "25": {
+      "text": "Todo aquele que transportar o seu cadáver deverá lavar as suas vestes e ficará impuro até à tarde.",
+      "reference": "Lv 11:25"
+    },
+    "26": {
+      "text": "Quanto aos animais que têm casco, porém não dividido, e que não ruminam, considerá-los-eis impuros; todo aquele que os tocar ficará impuro.",
+      "reference": "Lv 11:26"
+    },
+    "27": {
+      "text": "Todos os animais de quatro patas que caminham sobre a planta dos pés serão para vós impuros; todo aquele que tocar o seu cadáver ficará impuro até à tarde,",
+      "reference": "Lv 11:27"
+    },
+    "28": {
+      "text": "e todo aquele que transportar o seu cadáver deverá lavar as suas vestes e ficará impuro até à tarde. Eles serão impuros para vós. \\par",
+      "reference": "Lv 11:28"
+    },
+    "29": {
+      "text": "\\par {\\qc\\b\\i E. Animais que vivem na terra\\par }Dentre os animais que rastejam pela terra, são os seguintes os que considerareis impuros: a toupeira, o rato e as diferentes espécies de lagartos:",
+      "reference": "Lv 11:29"
+    },
+    "30": {
+      "text": "geco, crocodilo da terra, lagarto, lagarto da areia e camaleão. \\par",
+      "reference": "Lv 11:30"
+    },
+    "31": {
+      "text": "\\par {\\qc\\b\\i Outras regras sobre os contatos impuros\\par }Dentre todos os répteis, estes são aqueles que considerareis impuros. Todo aquele que os tocar quando estiverem mortos ficará impuro até à tarde. \\par",
+      "reference": "Lv 11:31"
+    },
+    "32": {
+      "text": "Todo objeto sobre o qual cair um deles, estando morto, se torna impuro: todo utensílio de madeira, veste, couro, saco, enfim, qualquer utensílio. Será lavado em água e ficará impuro até à tarde; depois ficará puro.",
+      "reference": "Lv 11:32"
+    },
+    "33": {
+      "text": "Todo vaso de argila no qual cair um deles será quebrado; o seu conteúdo é impuro.",
+      "reference": "Lv 11:33"
+    },
+    "34": {
+      "text": "Todo alimento que se come será impuro, ainda que seja só umedecido com água; e toda bebida que se bebe será impura, qualquer que seja o recipiente.",
+      "reference": "Lv 11:34"
+    },
+    "35": {
+      "text": "Tudo aquilo sobre o que cair um dos seus cadáveres será impuro; forno e estufa serão destruídos, pois se tornam impuros e serão impuros para vós",
+      "reference": "Lv 11:35"
+    },
+    "36": {
+      "text": "(contudo, fontes, cisternas e lagos permanecerão puros); todo aquele que tocar nos seus cadáveres ficará impuro.",
+      "reference": "Lv 11:36"
+    },
+    "37": {
+      "text": "Se algum dos seus cadáveres cair sobre uma semente qualquer, permanecerá pura;",
+      "reference": "Lv 11:37"
+    },
+    "38": {
+      "text": "porém, se o grão foi umedecido com água e um dos seus cadáveres cair sobre ele, tê-lo-eis por impuro.",
+      "reference": "Lv 11:38"
+    },
+    "39": {
+      "text": "Se morrer um dos animais que vos servem de alimento, quem tocar o seu cadáver ficará impuro até à tarde;",
+      "reference": "Lv 11:39"
+    },
+    "40": {
+      "text": "quem comer da sua carne deverá lavar as suas vestes e ficará impuro até à tarde; quem transportar o seu cadáver deverá lavar as suas vestes e ficará impuro até à tarde. \\par",
+      "reference": "Lv 11:40"
+    },
+    "41": {
+      "text": "\\par {\\qc\\b\\i Considerações doutrinais\\par }Todo réptil que anda de rasto sobre a terra é imundo; não se comerá.",
+      "reference": "Lv 11:41"
+    },
+    "42": {
+      "text": "Tudo que se arrasta sobre o ventre, tudo que caminha sobre quatro ou mais patas, enfim, todos os répteis que se arrastam sobre a terra, não comereis deles, pois que são imundos.",
+      "reference": "Lv 11:42"
+    },
+    "43": {
+      "text": "Não vos torneis, vós mesmos, imundos, com todos estes répteis que andam de rasto, não vos contamineis com eles e não sejais contaminados por eles.",
+      "reference": "Lv 11:43"
+    },
+    "44": {
+      "text": "Pois sou eu, Iahweh, o vosso Deus. Fostes santificados e vos tornastes santos, pois que eu sou santo; não vos torneis, portanto, impuros com todos esses répteis que rastejam sobre a terra.",
+      "reference": "Lv 11:44"
+    },
+    "45": {
+      "text": "Sou eu, Iahweh, que vos fiz subir da terra do Egito para ser o vosso Deus: sereis santos, porque eu sou santo. \\par",
+      "reference": "Lv 11:45"
+    },
+    "46": {
+      "text": "\\par {\\qc\\b\\i Conclusão\\par }Essa é a lei referente aos animais, às aves, a todo ser vivente que se move na água e a todo ser que rasteja sobre a terra.",
+      "reference": "Lv 11:46"
+    },
+    "47": {
+      "text": "Tem por finalidade separar o puro e o impuro, os animais que se podem comer e aqueles que não se devem comer”. \\par",
+      "reference": "Lv 11:47"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 47
+}

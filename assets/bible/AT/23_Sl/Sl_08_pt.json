@@ -1,0 +1,53 @@
+{
+  "book": 19,
+  "book_name": "Salmos",
+  "book_abbr": "Sl",
+  "book_category": "Poético",
+  "book_english": "Psalms",
+  "testament": "AT",
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "\\par {\\qc\\b {\\i Poder do nome divino}\\par }{\\qc\\i Do mestre de canto. Sobre a... de Gat. Salmo. De Davi. \\par }",
+      "reference": "Sl 8:1"
+    },
+    "2": {
+      "text": "Iahweh, Senhor nosso, \\par quão poderoso é teu nome \\par em toda a terra! \\par Ele divulga tua majestade sobre o céu. \\par",
+      "reference": "Sl 8:2"
+    },
+    "3": {
+      "text": "Pela boca das crianças e bebês \\par tu o firmaste, qual fortaleza, \\par contra os teus adversários, \\par para reprimir o inimigo e o vingador. \\par",
+      "reference": "Sl 8:3"
+    },
+    "4": {
+      "text": "Quando vejo o céu, obra dos teus dedos, \\par a lua e as estrelas que fixaste, \\par",
+      "reference": "Sl 8:4"
+    },
+    "5": {
+      "text": "que é um mortal, para dele te lembrares, \\par e um filho de Adão, que venhas visitá-lo? \\par",
+      "reference": "Sl 8:5"
+    },
+    "6": {
+      "text": "E o fizeste pouco menos do que um deus, \\par coroando-o de glória e beleza. \\par",
+      "reference": "Sl 8:6"
+    },
+    "7": {
+      "text": "Para que domine as obras de tuas mãos \\par sob seus pés tudo colocaste: \\par",
+      "reference": "Sl 8:7"
+    },
+    "8": {
+      "text": "ovelhas e bois, todos eles, \\par e as feras do campo também; \\par",
+      "reference": "Sl 8:8"
+    },
+    "9": {
+      "text": "a ave do céu e os peixes do oceano \\par que percorrem as sendas dos mares. \\par",
+      "reference": "Sl 8:9"
+    },
+    "10": {
+      "text": "Iahweh, Senhor nosso,\\par quão poderoso é teu nome \\par em toda a terra! \\par",
+      "reference": "Sl 8:10"
+    }
+  },
+  "source": "Text_AT",
+  "verse_count": 10
+}

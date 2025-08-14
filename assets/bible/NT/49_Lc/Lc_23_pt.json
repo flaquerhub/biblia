@@ -1,0 +1,237 @@
+{
+  "book": 42,
+  "book_name": "Lucas",
+  "book_abbr": "Lc",
+  "book_category": "Evangelhos",
+  "book_english": "Luke",
+  "testament": "NT",
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "Toda a multidão se levantou; e conduziram-no a Pilatos. \\par",
+      "reference": "Lc 23:1"
+    },
+    "2": {
+      "text": "\\par {\\qc\\b\\i Jesus perante Pilatos\\par }Começaram então a acusá-lo, dizendo: “Encontramos este homem subvertendo nossa nação, impedindo que se paguem os impostos a César e pretendendo ser Cristo Rei”.",
+      "reference": "Lc 23:2"
+    },
+    "3": {
+      "text": "Pilatos o interrogou: “És tu o rei dos judeus?” Respondendo, ele declarou: “Tu o dizes”.",
+      "reference": "Lc 23:3"
+    },
+    "4": {
+      "text": "Pilatos disse, então, aos chefes dos sacerdotes e às multidões: “Não encontro nesse homem motivo algum de condenação”.",
+      "reference": "Lc 23:4"
+    },
+    "5": {
+      "text": "Eles, porém, insistiam: “Ele subleva o povo, ensinando por toda a Judéia, desde a Galiléia, onde começou, até aqui”.",
+      "reference": "Lc 23:5"
+    },
+    "6": {
+      "text": "A essas palavras, Pilatos perguntou se ele era galileu.",
+      "reference": "Lc 23:6"
+    },
+    "7": {
+      "text": "E certificando-se de que pertencia à jurisdição de Herodes, transferiu-o a Herodes que, naqueles dias, também se encontrava em Jerusalém. \\par",
+      "reference": "Lc 23:7"
+    },
+    "8": {
+      "text": "\\par {\\qc\\b\\i Jesus perante Herodes\\par }Vendo a Jesus, Herodes ficou muito contente; havia muito tempo que queria vê-lo, pelo que ouvia dizer dele; e esperava ver algum milagre feito por ele.",
+      "reference": "Lc 23:8"
+    },
+    "9": {
+      "text": "Interrogou-o com muitas perguntas; ele, porém, nada lhe respondeu.",
+      "reference": "Lc 23:9"
+    },
+    "10": {
+      "text": "Entretanto, os chefes dos sacerdotes e os escribas lá se achavam, e acusavam-no com veemência.",
+      "reference": "Lc 23:10"
+    },
+    "11": {
+      "text": "Herodes, juntamente com a sua escolta, tratou-o com desprezo e escárnio; e, vestindo-o com uma veste brilhante, remeteu-o a Pilatos.",
+      "reference": "Lc 23:11"
+    },
+    "12": {
+      "text": "E nesse mesmo dia Herodes e Pilatos ficaram amigos entre si, pois antes eram inimigos. \\par",
+      "reference": "Lc 23:12"
+    },
+    "13": {
+      "text": "\\par {\\qc\\b\\i Jesus novamente diante de Pilatos\\par }Depois de convocar os chefes dos sacerdotes, os chefes e o povo, Pilatos",
+      "reference": "Lc 23:13"
+    },
+    "14": {
+      "text": "disse-lhes: “Vós me apresentastes este homem como um agitador do povo; ora, eu o interroguei diante de vós e não encontrei neste homem motivo algum de condenação, como o acusais.",
+      "reference": "Lc 23:14"
+    },
+    "15": {
+      "text": "Tampouco Herodes, uma vez que ele o enviou novamente a nós. Como vedes, este homem nada fez que mereça a morte.",
+      "reference": "Lc 23:15"
+    },
+    "16": {
+      "text": "Por isso eu vou soltá-lo, depois de o castigar”. [",
+      "reference": "Lc 23:16"
+    },
+    "17": {
+      "text": "]",
+      "reference": "Lc 23:17"
+    },
+    "18": {
+      "text": "Eles, porém, vociferaram todos juntos: “Morra esse homem! Solta-nos Barrabás!”",
+      "reference": "Lc 23:18"
+    },
+    "19": {
+      "text": "Este último havia sido preso por um motim na cidade e por homicídio. \\par",
+      "reference": "Lc 23:19"
+    },
+    "20": {
+      "text": "Pilatos, querendo soltar Jesus, dirigiu-lhes de novo a palavra.",
+      "reference": "Lc 23:20"
+    },
+    "21": {
+      "text": "Mas eles gritavam: “Crucifica-o! Crucifica-o!”",
+      "reference": "Lc 23:21"
+    },
+    "22": {
+      "text": "Pela terceira vez, disse-lhes: “Que mal fez este homem? Nenhum motivo de morte encontrei nele! Por isso vou soltá-lo depois de o castigar”.",
+      "reference": "Lc 23:22"
+    },
+    "23": {
+      "text": "Eles, porém, insistiam com grandes gritos, pedindo que fosse crucificado; e seus clamores aumentavam. \\par",
+      "reference": "Lc 23:23"
+    },
+    "24": {
+      "text": "Então Pilatos sentenciou que se atendesse ao pedido deles.",
+      "reference": "Lc 23:24"
+    },
+    "25": {
+      "text": "Soltou aquele que fora posto na prisão por motim e homicídio, e que eles reclamavam. Quanto a Jesus, entregou-o ao arbítrio deles. \\par",
+      "reference": "Lc 23:25"
+    },
+    "26": {
+      "text": "\\par {\\qc\\b\\i A caminho do Calvário\\par }Enquanto o levavam, tomaram um certo Simão de Cirene, que vinha do campo, e impuseram-lhe a cruz para levá-la atrás de Jesus.",
+      "reference": "Lc 23:26"
+    },
+    "27": {
+      "text": "Grande multidão do povo o seguia, como também mulheres que batiam no peito e se lamentavam por causa dele.",
+      "reference": "Lc 23:27"
+    },
+    "28": {
+      "text": "Jesus, porém, voltou-se para elas e disse: “Filhas de Jerusalém, não choreis por mim; chorai, antes, por vós mesmas e por vossos filhos!",
+      "reference": "Lc 23:28"
+    },
+    "29": {
+      "text": "Pois, eis que virão dias em que se dirá: Felizes as estéreis, as entranhas que não conceberam e os seios que não amamentaram!",
+      "reference": "Lc 23:29"
+    },
+    "30": {
+      "text": "Então começarão a {\\i dizer às montanhas: Caí sobre nós! E às colinas: Cobri-nos!}",
+      "reference": "Lc 23:30"
+    },
+    "31": {
+      "text": "Porque se fazem assim com o lenho verde, o que acontecerá com o seco?”",
+      "reference": "Lc 23:31"
+    },
+    "32": {
+      "text": "Eram conduzidos também dois malfeitores para serem executados com ele. \\par",
+      "reference": "Lc 23:32"
+    },
+    "33": {
+      "text": "\\par {\\qc\\b\\i A crucifixão\\par }Chegando ao lugar chamado Caveira, lá o crucificaram, bem como aos malfeitores, um à direita e outro à esquerda.",
+      "reference": "Lc 23:33"
+    },
+    "34": {
+      "text": "Jesus dizia: “Pai, perdoa-lhes: não sabem o que fazem”. Depois, {\\i repartindo suas vestes, sorteavam-nas.} \\par",
+      "reference": "Lc 23:34"
+    },
+    "35": {
+      "text": "\\par {\\qc\\b\\i Jesus na cruz, sujeito à zombaria e ultrajes\\par }O povo permanecia lá, a olhar. Os chefes, porém, {\\i zombavam} e diziam: “A outros salvou, que salve a si mesmo, se é o Cristo de Deus, o Eleito!”",
+      "reference": "Lc 23:35"
+    },
+    "36": {
+      "text": "Os soldados também caçoavam dele; aproximando-se, traziam-lhe {\\i vinagre},",
+      "reference": "Lc 23:36"
+    },
+    "37": {
+      "text": "e diziam: “Se és o rei dos judeus, salva-te a ti mesmo”.",
+      "reference": "Lc 23:37"
+    },
+    "38": {
+      "text": "E havia uma inscrição acima dele: “Este é o Rei dos judeus”. \\par",
+      "reference": "Lc 23:38"
+    },
+    "39": {
+      "text": "\\par {\\qc\\b\\i O “bom ladrão”\\par }Um dos malfeitores suspensos à cruz o insultava, dizendo: “Não és tu o Cristo? Salva-te a ti mesmo e a nós”.",
+      "reference": "Lc 23:39"
+    },
+    "40": {
+      "text": "Mas o outro, tomando a palavra, o repreendia: “Nem sequer temes a Deus, estando na mesma condenação?",
+      "reference": "Lc 23:40"
+    },
+    "41": {
+      "text": "Quanto a nós, é de justiça; estamos pagando por nossos atos; mas ele não fez nenhum mal”.",
+      "reference": "Lc 23:41"
+    },
+    "42": {
+      "text": "E acrescentou: “Jesus, lembra-te de mim, quando vieres com teu reino”.",
+      "reference": "Lc 23:42"
+    },
+    "43": {
+      "text": "Ele respondeu: “Em verdade, eu te digo, hoje estarás comigo no Paraíso”. \\par",
+      "reference": "Lc 23:43"
+    },
+    "44": {
+      "text": "\\par {\\qc\\b\\i A morte de Jesus\\par }Era já mais ou menos a hora sexta quando houve treva sobre a terra inteira até à hora nona,",
+      "reference": "Lc 23:44"
+    },
+    "45": {
+      "text": "tendo desaparecido o sol. O véu do Santuário rasgou-se ao meio,",
+      "reference": "Lc 23:45"
+    },
+    "46": {
+      "text": "e Jesus deu um grande grito: “Pai, {\\i em tuas mãos entrego o meu espírito}”. Dizendo isso, expirou. \\par",
+      "reference": "Lc 23:46"
+    },
+    "47": {
+      "text": "\\par {\\qc\\b\\i Após a morte de Jesus\\par }O centurião, vendo o que acontecera, glorificava a Deus, dizendo: “Realmente, este homem era um justo!”",
+      "reference": "Lc 23:47"
+    },
+    "48": {
+      "text": "E toda a multidão que havia acorrido para o espetáculo, vendo o que havia acontecido, voltou, batendo no peito. \\par",
+      "reference": "Lc 23:48"
+    },
+    "49": {
+      "text": "Todos os seus {\\i amigos}, bem como as mulheres que o haviam acompanhado desde a Galiléia, {\\i permaneciam à distância}, observando essas coisas. \\par",
+      "reference": "Lc 23:49"
+    },
+    "50": {
+      "text": "\\par {\\qc\\b\\i O sepultamento\\par }Eis que havia um homem chamado José, membro do Conselho, homem bom e justo,",
+      "reference": "Lc 23:50"
+    },
+    "51": {
+      "text": "que não concordara nem com o desígnio, nem com a ação deles. Era de Arimatéia, cidade dos judeus, e esperava o Reino de Deus.",
+      "reference": "Lc 23:51"
+    },
+    "52": {
+      "text": "Indo procurar Pilatos, pediu o corpo de Jesus.",
+      "reference": "Lc 23:52"
+    },
+    "53": {
+      "text": "E, descendo-o, envolveu-o num lençol e colocou-o numa tumba talhada na pedra, onde ninguém ainda havia sido posto.",
+      "reference": "Lc 23:53"
+    },
+    "54": {
+      "text": "Era o dia da Preparação, e o sábado começava a luzir. \\par",
+      "reference": "Lc 23:54"
+    },
+    "55": {
+      "text": "As mulheres, porém, que tinham vindo da Galiléia com Jesus, haviam seguido a José; observaram o túmulo e como o corpo de Jesus fora ali depositado. \\par",
+      "reference": "Lc 23:55"
+    },
+    "56": {
+      "text": "Em seguida, voltaram e prepararam aromas e perfumes. E, no sábado, observaram o repouso prescrito. \\par",
+      "reference": "Lc 23:56"
+    }
+  },
+  "source": "Text_NT",
+  "verse_count": 56
+}
