@@ -1,0 +1,414 @@
+{
+  "temas": [
+    {
+      "id": "jo_sofrimento",
+      "titulo": "Orando com Jó",
+      "subtitulo": "Fé em tempos difíceis",
+      "descricao": "Encontre esperança e força na fé inabalável de Jó durante os momentos mais desafiadores da vida",
+      "versiculo_chave": "Jó 19:25",
+      "texto_versiculo": "Porque eu sei que o meu Redentor vive, e que por fim se levantará sobre a terra.",
+      "cor_principal": "#8B4513",
+      "cor_secundaria": "#D2691E",
+      "background": "montanha_tempestade",
+      "icone": "thunderstorm-outline",
+      "duracao_estimada": "20-30 minutos",
+      "categoria": "sofrimento",
+      "etapas": [
+        {
+          "numero": 1,
+          "titulo": "Adoração na Dor",
+          "tempo_sugerido": "5 minutos",
+          "texto": "Mesmo no vale mais profundo, Jó escolheu adorar a Deus. Como você pode encontrar motivos para adorar mesmo nas suas dificuldades atuais?",
+          "versiculo": "Jó 1:21",
+          "texto_versiculo": "Nu saí do ventre de minha mãe e nu tornarei para lá; o SENHOR o deu e o SENHOR o tomou; bendito seja o nome do SENHOR.",
+          "reflexao": "Reflita sobre a grandeza de Deus que merece nossa adoração independente das circunstâncias.",
+          "oracao_guiada": "Senhor, mesmo não entendendo tudo o que está acontecendo, eu Te adoro porque Tu és digno..."
+        },
+        {
+          "numero": 2,
+          "titulo": "Transparência com Deus",
+          "tempo_sugerido": "7 minutos",
+          "texto": "Jó foi completamente honesto com Deus sobre seus sentimentos, dores e questionamentos. Deus deseja sua transparência também.",
+          "versiculo": "Jó 7:11",
+          "texto_versiculo": "Pelo que não refrearia a minha boca; falarei na angústia do meu espírito e me queixarei na amargura da minha alma.",
+          "reflexao": "Confesse seus medos, dúvidas e dores a Deus com total sinceridade.",
+          "oracao_guiada": "Deus, eu sinto... eu não entendo... mas confio que Tu me ouves..."
+        },
+        {
+          "numero": 3,
+          "titulo": "Súplica com Fé",
+          "tempo_sugerido": "8 minutos", 
+          "texto": "Apresente suas necessidades mais profundas a Deus, confiando em Sua soberania e amor, mesmo quando não vê uma saída.",
+          "versiculo": "Jó 14:14",
+          "texto_versiculo": "Morrendo o homem, porventura tornará a viver? Todos os dias da minha luta esperaria, até que viesse a minha mudança.",
+          "reflexao": "Peça a Deus força para perseverar e sabedoria para compreender Seus caminhos.",
+          "oracao_guiada": "Senhor, eu preciso de... me dá forças para... me ajuda a confiar..."
+        },
+        {
+          "numero": 4,
+          "titulo": "Entrega Total", 
+          "tempo_sugerido": "10 minutos",
+          "texto": "Como Jó, entregue completamente seus caminhos nas mãos do Senhor, confiando que Ele tem o melhor para você.",
+          "versiculo": "Jó 13:15",
+          "texto_versiculo": "Ainda que ele me mate, nele esperarei; contudo os meus caminhos defenderei diante dele.",
+          "reflexao": "Entregue todos os seus planos, sonhos e preocupações ao controle amoroso de Deus.",
+          "oracao_guiada": "Pai, eu entrego tudo em Tuas mãos... Tua vontade seja feita na minha vida..."
+        }
+      ],
+      "recursos_extras": {
+        "musicas_sugeridas": ["It Is Well With My Soul", "Blessed Be Your Name", "Águas Profundas"],
+        "leituras_complementares": ["Jó 1-2", "Jó 38-42", "Romanos 8:28"],
+        "santos_relacionados": ["São Jó", "Santa Mônica", "São João da Cruz"]
+      }
+    },
+    {
+      "id": "josue_conquista",
+      "titulo": "Orando com Josué", 
+      "subtitulo": "Coragem para conquistar",
+      "descricao": "Desenvolva coragem sobrenatural e determinação inabalável para enfrentar os desafios e conquistar as promessas de Deus",
+      "versiculo_chave": "Josué 1:9",
+      "texto_versiculo": "Não to mandei eu? Esforça-te, e tem bom ânimo; não pasmes, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares.",
+      "cor_principal": "#DAA520", 
+      "cor_secundaria": "#FFD700",
+      "background": "terra_prometida",
+      "icone": "flag-outline",
+      "duracao_estimada": "25-35 minutos",
+      "categoria": "fe_e_coragem",
+      "etapas": [
+        {
+          "numero": 1,
+          "titulo": "Preparação Espiritual",
+          "tempo_sugerido": "8 minutos",
+          "texto": "Josué dedicou tempo para se fortalecer espiritualmente antes das batalhas. Como você está se preparando para os desafios à frente?",
+          "versiculo": "Josué 1:8",
+          "texto_versiculo": "Não se aparte da tua boca o livro desta lei; antes medita nele de dia e de noite, para que tenhas cuidado de fazer conforme a tudo quanto nele está escrito; porque então farás prosperar o teu caminho, e serás bem sucedido.",
+          "reflexao": "Prepare seu coração através da oração, meditação na Palavra e busca pela presença de Deus.",
+          "oracao_guiada": "Senhor, prepara meu coração para os desafios... fortalece-me em Ti..."
+        },
+        {
+          "numero": 2,
+          "titulo": "Confiança nas Promessas",
+          "tempo_sugerido": "7 minutos",
+          "texto": "Desenvolva uma confiança inabalável nas promessas específicas que Deus fez para sua vida e situação atual.",
+          "versiculo": "Josué 21:45", 
+          "texto_versiculo": "Palavra alguma falhou de todas as boas palavras que o SENHOR falara à casa de Israel; tudo se cumpriu.",
+          "reflexao": "Lembre-se das promessas bíblicas e das promessas específicas que Deus já cumpriu em sua vida.",
+          "oracao_guiada": "Deus fiel, eu confio nas Tuas promessas... Tu és fiel para cumprir..."
+        },
+        {
+          "numero": 3, 
+          "titulo": "Passos de Fé",
+          "tempo_sugerido": "10 minutos",
+          "texto": "Josué teve que tomar decisões corajosas baseadas na fé. Que passos específicos de fé Deus está pedindo que você dê?",
+          "versiculo": "Josué 6:20",
+          "texto_versiculo": "Gritou, pois, o povo, tocando os sacerdotes as buzinas; e sucedeu que, ouvindo o povo o som da buzina, gritou o povo com grande gritaria; e o muro caiu abaixo, e o povo subiu à cidade, cada um em frente de si, e tomaram a cidade.",
+          "reflexao": "Peça direção divina para saber quais ações práticas tomar com fé e sabedoria.",
+          "oracao_guiada": "Senhor, mostra-me que passos devo dar... dá-me coragem para obedecer..."
+        },
+        {
+          "numero": 4,
+          "titulo": "Gratidão pelas Vitórias",
+          "tempo_sugerido": "10 minutos", 
+          "texto": "Celebre e agradeça pelas vitórias que Deus já lhe deu, e renove seu compromisso de fidelidade a Ele.",
+          "versiculo": "Josué 24:15",
+          "texto_versiculo": "Porém, se vos parece mal aos vossos olhos servir ao SENHOR, escolhei hoje a quem sirvais; se aos deuses a quem serviram vossos pais, que estavam além do rio, ou aos deuses dos amorreus, em cuja terra habitais; porém eu e a minha casa serviremos ao SENHOR.",
+          "reflexao": "Agradeça pela fidelidade de Deus e faça um novo compromisso de servir somente a Ele.",
+          "oracao_guiada": "Obrigado(a) Senhor pelas vitórias... eu e minha família Te serviremos..."
+        }
+      ],
+      "recursos_extras": {
+        "musicas_sugeridas": ["Mighty to Save", "Oceans", "Grande é o Senhor"],
+        "leituras_complementares": ["Josué 1", "Josué 6", "Hebreus 11:30"],
+        "santos_relacionados": ["São Josué", "São Miguel Arcanjo", "Santa Joana d'Arc"]
+      }
+    },
+    {
+      "id": "davi_adoracao",
+      "titulo": "Orando com Davi",
+      "subtitulo": "Coração segundo Deus", 
+      "descricao": "Cultive um coração adorador que busca intimidade genuína com Deus em todas as circunstâncias da vida",
+      "versiculo_chave": "Salmos 63:1",
+      "texto_versiculo": "Ó Deus, tu és o meu Deus, de madrugada te buscarei; a minha alma tem sede de ti; a minha carne te deseja muito em uma terra seca e cansada, onde não há água.",
+      "cor_principal": "#4682B4",
+      "cor_secundaria": "#87CEEB", 
+      "background": "campo_pastoreio",
+      "icone": "musical-notes-outline",
+      "duracao_estimada": "30-40 minutos",
+      "categoria": "adoracao_e_intimidade",
+      "etapas": [
+        {
+          "numero": 1,
+          "titulo": "Buscando Intimidade",
+          "tempo_sugerido": "10 minutos",
+          "texto": "Davi ansiava por intimidade com Deus acima de tudo. Como está sua sede pela presença divina?",
+          "versiculo": "Salmos 27:8", 
+          "texto_versiculo": "A ti disse o meu coração: Buscai o meu rosto. O teu rosto buscarei, ó SENHOR.",
+          "reflexao": "Busque a face de Deus em oração íntima, deixando de lado distrações e ansiedades.",
+          "oracao_guiada": "Senhor, minha alma tem sede de Ti... busco Tua face... encontra-Te comigo aqui..."
+        },
+        {
+          "numero": 2,
+          "titulo": "Transparência Total",
+          "tempo_sugerido": "8 minutos",
+          "texto": "Davi era completamente transparente com Deus, compartilhando alegrias, medos, decepções e esperanças.",
+          "versiculo": "Salmos 62:8",
+          "texto_versiculo": "Confiai nele, ó povo, em todo o tempo; derramai perante ele o vosso coração; Deus é o nosso refúgio.",
+          "reflexao": "Derrame seu coração diante de Deus sem reservas, sabendo que Ele te ama incondicionalmente.",
+          "oracao_guiada": "Pai, eu abro meu coração completamente... recebe meus pensamentos e sentimentos..."
+        },
+        {
+          "numero": 3,
+          "titulo": "Louvor em Toda Situação",
+          "tempo_sugerido": "12 minutos",
+          "texto": "Mesmo enfrentando perseguições e dificuldades, Davi escolhia conscientemente louvar e exaltar a Deus.",
+          "versiculo": "Salmos 34:1",
+          "texto_versiculo": "Bendirei ao SENHOR em todo o tempo; o seu louvor estará continuamente na minha boca.",
+          "reflexao": "Louve a Deus por quem Ele é (Seus atributos) e não apenas pelo que Ele faz.",
+          "oracao_guiada": "Bendito seja Teu nome, Senhor... Tu és santo, fiel, amoroso... Te exalto..."
+        },
+        {
+          "numero": 4,
+          "titulo": "Descanso no Pastor",
+          "tempo_sugerido": "10 minutos",
+          "texto": "Davi encontrou paz e segurança sabendo que o Senhor era seu pastor pessoal e cuidadoso.",
+          "versiculo": "Salmos 23:1",
+          "texto_versiculo": "O SENHOR é o meu pastor; nada me faltará.",
+          "reflexao": "Descanse na certeza de que Deus cuida pessoalmente de você como um pastor amoroso.",
+          "oracao_guiada": "Senhor, Tu és meu pastor... eu descanso em Teus cuidados... nada me faltará..."
+        }
+      ],
+      "recursos_extras": {
+        "musicas_sugeridas": ["Como o Cervo", "Quão Grande é o Meu Deus", "Bom Pastor"], 
+        "leituras_complementares": ["Salmos 23", "Salmos 51", "Salmos 139"],
+        "santos_relacionados": ["São Davi", "Santa Teresa d'Ávila", "São João da Cruz"]
+      }
+    },
+    {
+      "id": "maria_entrega", 
+      "titulo": "Orando com Maria",
+      "subtitulo": "Fiat - 'Faça-se'",
+      "descricao": "Aprenda a dizer um 'sim' confiante aos planos de Deus, seguindo o exemplo de fé e entrega de Nossa Senhora",
+      "versiculo_chave": "Lucas 1:38",
+      "texto_versiculo": "Disse então Maria: Eis aqui a serva do Senhor; cumpra-se em mim segundo a tua palavra.",
+      "cor_principal": "#9370DB",
+      "cor_secundaria": "#DDA0DD",
+      "background": "nazare_galileia", 
+      "icone": "rose-outline",
+      "duracao_estimada": "25-35 minutos",
+      "categoria": "entrega_e_obediencia",
+      "etapas": [
+        {
+          "numero": 1,
+          "titulo": "Cultivando a Escuta",
+          "tempo_sugerido": "8 minutos",
+          "texto": "Maria sabia escutar a voz de Deus em meio ao cotidiano. Como você pode desenvolver um coração que ouve?",
+          "versiculo": "Lucas 2:19",
+          "texto_versiculo": "Mas Maria guardava todas estas coisas, conferindo-as em seu coração.",
+          "reflexao": "Pratique o silêncio interior e a atenção constante à voz suave de Deus.",
+          "oracao_guiada": "Senhor, cala os ruídos em mim... ensina-me a ouvir Tua voz..."
+        },
+        {
+          "numero": 2,
+          "titulo": "Aceitação Confiante",
+          "tempo_sugerido": "9 minutos", 
+          "texto": "Maria aceitou a vontade de Deus mesmo sem compreender completamente como tudo aconteceria.",
+          "versiculo": "Lucas 1:45",
+          "texto_versiculo": "E bem-aventurada a que creu, pois hão de cumprir-se as coisas que da parte do Senhor lhe foram ditas.",
+          "reflexao": "Aceite os planos de Deus mesmo quando sua mente não consegue entender todos os detalhes.",
+          "oracao_guiada": "Pai, mesmo sem entender tudo, eu aceito Teus planos... eu creio em Ti..."
+        },
+        {
+          "numero": 3,
+          "titulo": "O 'Fiat' da Entrega",
+          "tempo_sugerido": "10 minutos",
+          "texto": "O 'faça-se' de Maria é o modelo perfeito de entrega total da própria vontade à vontade divina.",
+          "versiculo": "João 2:5", 
+          "texto_versiculo": "Sua mãe disse aos serventes: Fazei tudo quanto ele vos disser.",
+          "reflexao": "Entregue seus planos, sonhos e vontades, permitindo que Deus trabalhe através de você.",
+          "oracao_guiada": "Faça-se em mim segundo Tua palavra... disponho minha vida para Teus propósitos..."
+        },
+        {
+          "numero": 4,
+          "titulo": "Perseverança na Fé",
+          "tempo_sugerido": "8 minutos",
+          "texto": "Maria perseverou na fé mesmo nos momentos mais difíceis, incluindo a cruz de seu Filho.",
+          "versiculo": "João 19:25",
+          "texto_versiculo": "E junto à cruz de Jesus estava sua mãe, e a irmã de sua mãe, Maria, mulher de Clopas, e Maria Madalena.",
+          "reflexao": "Persevere na fé e na obediência mesmo quando o caminho parecer doloroso ou incerto.", 
+          "oracao_guiada": "Maria, ensina-me a permanecer firme... a perseverar como tu perseveraste..."
+        }
+      ],
+      "recursos_extras": {
+        "musicas_sugeridas": ["Ave Maria", "Magnificat", "Eis-me Aqui"],
+        "leituras_complementares": ["Lucas 1:26-56", "João 2:1-11", "Atos 1:14"],
+        "santos_relacionados": ["Nossa Senhora", "São José", "Santa Isabel"]
+      }
+    },
+    {
+      "id": "abraao_fe",
+      "titulo": "Orando com Abraão",
+      "subtitulo": "Caminhada de fé",
+      "descricao": "Desenvolva uma fé madura que confia completamente nas promessas de Deus, mesmo diante do impossível",
+      "versiculo_chave": "Hebreus 11:8",
+      "texto_versiculo": "Pela fé Abraão, sendo chamado, obedeceu, indo para um lugar que havia de receber por herança; e saiu, sem saber para onde ia.",
+      "cor_principal": "#CD853F",
+      "cor_secundaria": "#DEB887",
+      "background": "deserto_estrelas", 
+      "icone": "star-outline",
+      "duracao_estimada": "35-45 minutos",
+      "categoria": "fe_e_promessas",
+      "etapas": [
+        {
+          "numero": 1,
+          "titulo": "Respondendo ao Chamado",
+          "tempo_sugerido": "10 minutos",
+          "texto": "Abraão respondeu prontamente ao chamado divino. Como você está respondendo ao que Deus tem falado com você?",
+          "versiculo": "Gênesis 12:1",
+          "texto_versiculo": "Ora, o SENHOR disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei.",
+          "reflexao": "Reflita sobre como Deus pode estar chamando você para novos níveis de fé e obediência.",
+          "oracao_guiada": "Senhor, como Abraão, eu quero responder ao Teu chamado... mostra-me o caminho..."
+        },
+        {
+          "numero": 2, 
+          "titulo": "Obediência que Abençoa",
+          "tempo_sugerido": "12 minutos",
+          "texto": "A obediência radical de Abraão abriu as portas para bênçãos que impactaram gerações inteiras.",
+          "versiculo": "Gênesis 22:18",
+          "texto_versiculo": "E em tua descendência serão benditas todas as nações da terra; porquanto obedeceste à minha voz.",
+          "reflexao": "Busque graça para obedecer a Deus mesmo quando não entende completamente Seus caminhos.",
+          "oracao_guiada": "Pai, dá-me um coração obediente... ajuda-me a confiar em Teus planos..."
+        },
+        {
+          "numero": 3,
+          "titulo": "Esperança Contra Esperança", 
+          "tempo_sugerido": "10 minutos",
+          "texto": "Abraão manteve viva a esperança nas promessas de Deus mesmo quando tudo parecia humanamente impossível.",
+          "versiculo": "Romanos 4:18",
+          "texto_versiculo": "O qual, em esperança, creu contra a esperança, para que se tornasse pai de muitas nações, conforme o que lhe fora dito: Assim será a tua descendência.",
+          "reflexao": "Mantenha a esperança viva mesmo em situações que parecem impossíveis aos olhos humanos.",
+          "oracao_guiada": "Deus das impossibilidades, eu creio contra toda esperança humana..."
+        },
+        {
+          "numero": 4,
+          "titulo": "Fidelidade de Deus",
+          "tempo_sugerido": "13 minutos",
+          "texto": "Deus cumpriu fielmente cada uma das promessas feitas a Abraão, no tempo perfeito da Sua vontade.",
+          "versiculo": "Gênesis 21:1",
+          "texto_versiculo": "E o SENHOR visitou a Sara, como tinha dito; e fez o SENHOR a Sara como tinha prometido.",
+          "reflexao": "Confie na fidelidade absoluta de Deus para cumprir Suas promessas em sua vida.",
+          "oracao_guiada": "Deus fiel, eu confio em Tuas promessas... Tu és fiel para cumprir..."
+        }
+      ],
+      "recursos_extras": {
+        "musicas_sugeridas": ["Faithful One", "Great is Thy Faithfulness", "Fiel é o Senhor"],
+        "leituras_complementares": ["Gênesis 12-22", "Romanos 4", "Hebreus 11:8-19"], 
+        "santos_relacionados": ["São Abraão", "Santa Sara", "São Isaac"]
+      }
+    },
+    {
+      "id": "jesus_pai_nosso",
+      "titulo": "Orando com Jesus",
+      "subtitulo": "O Pai Nosso",
+      "descricao": "Mergulhe na oração que Jesus ensinou, descobrindo a estrutura perfeita para se comunicar com o Pai Celestial",
+      "versiculo_chave": "Mateus 6:9",
+      "texto_versiculo": "Portanto, vós orareis assim: Pai nosso, que estás nos céus, santificado seja o teu nome.",
+      "cor_principal": "#B22222", 
+      "cor_secundaria": "#FA8072",
+      "background": "monte_oliveiras",
+      "icone": "praying-hands",
+      "duracao_estimada": "40-50 minutos",
+      "categoria": "oracao_e_ensino",
+      "etapas": [
+        {
+          "numero": 1,
+          "titulo": "Pai Nosso - Intimidade",
+          "tempo_sugerido": "12 minutos",
+          "texto": "Jesus nos ensina a nos aproximarmos de Deus como 'Pai', estabelecendo intimidade e confiança filial.",
+          "versiculo": "Mateus 6:9",
+          "texto_versiculo": "Vós, pois, orareis assim: Pai nosso, que estás nos céus...",
+          "reflexao": "Aproxime-se de Deus como um filho amado se aproxima de um pai amoroso e cuidadoso.",
+          "oracao_guiada": "Pai nosso, que alegria saber que sou Teu filho(a)... obrigado(a) por me amar..."
+        },
+        {
+          "numero": 2,
+          "titulo": "Santificado Seja - Adoração",
+          "tempo_sugerido": "10 minutos",
+          "texto": "Começamos sempre reconhecendo a santidade, majestade e perfeição absoluta do caráter de Deus.",
+          "versiculo": "Mateus 6:9",
+          "texto_versiculo": "...santificado seja o teu nome.",
+          "reflexao": "Reconheça e exalte a santidade, pureza e perfeição moral de Deus.",
+          "oracao_guiada": "Santo, santo, santo é Teu nome... Tu és perfeito em todos os Teus caminhos..."
+        },
+        {
+          "numero": 3,
+          "titulo": "Seja Feita - Submissão",
+          "tempo_sugerido": "13 minutos",
+          "texto": "Submetemos nossa vontade à vontade perfeita de Deus, confiando em Sua sabedoria superior.",
+          "versiculo": "Mateus 6:10", 
+          "texto_versiculo": "Venha o teu reino. Seja feita a tua vontade, tanto na terra como no céu.",
+          "reflexao": "Busque alinhar completamente sua vontade com a vontade perfeita e amorosa de Deus.",
+          "oracao_guiada": "Não seja feita minha vontade, mas a Tua... Teu reino venha em mim..."
+        },
+        {
+          "numero": 4,
+          "titulo": "Dependência Total",
+          "tempo_sugerido": "15 minutos",
+          "texto": "Reconhecemos nossa dependência total de Deus para todas as necessidades físicas, emocionais e espirituais.",
+          "versiculo": "Mateus 6:11-13",
+          "texto_versiculo": "O pão nosso de cada dia nos dá hoje. E perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores. E não nos induzas à tentação, mas livra-nos do mal; porque teu é o reino, e o poder, e a glória, para sempre. Amém.",
+          "reflexao": "Peça a Deus tudo o que você precisa, sempre com gratidão e reconhecimento.",
+          "oracao_guiada": "Senhor, eu dependo completamente de Ti... supre todas as minhas necessidades..."
+        }
+      ],
+      "recursos_extras": {
+        "musicas_sugeridas": ["Our Father", "Pai Nosso", "The Lord's Prayer"],
+        "leituras_complementares": ["Mateus 6:5-15", "Lucas 11:1-13", "João 17"],
+        "santos_relacionados": ["Jesus Cristo", "São Francisco de Assis", "Santa Teresa do Menino Jesus"]
+      }
+    }
+  ],
+  "categorias": [
+    {
+      "id": "sofrimento",
+      "name": "Momentos Difíceis",
+      "description": "Para quando você está enfrentando dificuldades, dores ou perdas",
+      "color": "#8B4513",
+      "temas": ["jo_sofrimento"]
+    },
+    {
+      "id": "fe_e_coragem", 
+      "name": "Fé e Coragem",
+      "description": "Para desenvolver coragem e enfrentar desafios com fé",
+      "color": "#DAA520",
+      "temas": ["josue_conquista", "abraao_fe"]
+    },
+    {
+      "id": "adoracao_e_intimidade",
+      "name": "Adoração e Intimidade", 
+      "description": "Para momentos de louvor e busca por intimidade com Deus",
+      "color": "#4682B4",
+      "temas": ["davi_adoracao", "jesus_pai_nosso"]
+    },
+    {
+      "id": "entrega_e_obediencia",
+      "name": "Entrega e Obediência",
+      "description": "Para aprender a entregar seus caminhos e obedecer a Deus",
+      "color": "#9370DB", 
+      "temas": ["maria_entrega"]
+    },
+    {
+      "id": "fe_e_promessas",
+      "name": "Fé nas Promessas",
+      "description": "Para fortalecer a fé nas promessas de Deus",
+      "color": "#CD853F",
+      "temas": ["abraao_fe"]
+    },
+    {
+      "id": "oracao_e_ensino",
+      "name": "Escola de Oração", 
+      "description": "Para aprender e aprofundar a vida de oração",
+      "color": "#B22222",
+      "temas": ["jesus_pai_nosso"]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "templates": [
+    {
+      "id": "lectio_divina",
+      "name": "Lectio Divina",
+      "description": "Método tradicional de oração com as Escrituras em quatro etapas",
+      "color": "#8B4513",
+      "icon": "book-outline",
+      "fields": [
+        {
+          "key": "reading",
+          "label": "Leitura (Lectio)",
+          "placeholder": "Qual passagem li hoje?",
+          "type": "text",
+          "required": true
+        },
+        {
+          "key": "meditation",
+          "label": "Meditação (Meditatio)",
+          "placeholder": "O que Deus me fala através desta passagem?",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "key": "prayer",
+          "label": "Oração (Oratio)",
+          "placeholder": "Minha resposta a Deus em oração...",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "key": "contemplation",
+          "label": "Contemplação (Contemplatio)",
+          "placeholder": "Como vou viver isso no meu dia a dia?",
+          "type": "textarea",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "daily_reflection",
+      "name": "Reflexão Diária",
+      "description": "Reflexão estruturada para aplicação prática da Palavra",
+      "color": "#4A90E2",
+      "icon": "sunny-outline",
+      "fields": [
+        {
+          "key": "verse",
+          "label": "Versículo do Dia",
+          "placeholder": "Qual versículo mais me tocou hoje?",
+          "type": "text",
+          "required": true
+        },
+        {
+          "key": "message",
+          "label": "O que Deus me fala",
+          "placeholder": "Que mensagem recebi de Deus?",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "key": "application",
+          "label": "Como aplicar",
+          "placeholder": "Como vou aplicar isso na minha vida hoje?",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "key": "prayer",
+          "label": "Oração",
+          "placeholder": "Minha oração pessoal...",
+          "type": "textarea",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gratitude",
+      "name": "Diário de Gratidão",
+      "description": "Cultive um coração grato reconhecendo as bênçãos de Deus",
+      "color": "#27AE60",
+      "icon": "heart-outline",
+      "fields": [
+        {
+          "key": "thanks",
+          "label": "Pelo que agradeço hoje",
+          "placeholder": "Minhas gratidões de hoje...",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "key": "verse",
+          "label": "Versículo de Gratidão",
+          "placeholder": "Versículo que expressa minha gratidão",
+          "type": "text",
+          "required": false
+        },
+        {
+          "key": "prayer",
+          "label": "Oração de Gratidão",
+          "placeholder": "Obrigado(a) Senhor por...",
+          "type": "textarea",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "examination",
+      "name": "Exame de Consciência",
+      "description": "Reflexão noturna inspirada na espiritualidade inaciana",
+      "color": "#9B59B6",
+      "icon": "moon-outline",
+      "fields": [
+        {
+          "key": "presence",
+          "label": "Presença de Deus",
+          "placeholder": "Como senti a presença de Deus hoje?",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "key": "gratitude",
+          "label": "Gratidão",
+          "placeholder": "Pelo que mais agradeço hoje?",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "key": "review",
+          "label": "Revisão do Dia",
+          "placeholder": "Como foi meu dia? Momentos altos e baixos...",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "key": "forgiveness",
+          "label": "Perdão",
+          "placeholder": "Do que preciso pedir perdão?",
+          "type": "textarea",
+          "required": false
+        },
+        {
+          "key": "grace",
+          "label": "Graça para Amanhã",
+          "placeholder": "O que peço a Deus para amanhã?",
+          "type": "textarea",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "rhema_word",
+      "name": "Palavra Rhema",
+      "description": "Registro de palavras específicas que Deus fala ao seu coração",
+      "color": "#E67E22",
+      "icon": "chatbubble-ellipses-outline",
+      "fields": [
+        {
+          "key": "word",
+          "label": "Palavra Recebida",
+          "placeholder": "Que palavra específica Deus me deu?",
+          "type": "text",
+          "required": true
+        },
+        {
+          "key": "context",
+          "label": "Contexto/Situação",
+          "placeholder": "Em que contexto ou situação recebi esta palavra?",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "key": "confirmation",
+          "label": "Confirmação",
+          "placeholder": "Como esta palavra foi confirmada?",
+          "type": "textarea",
+          "required": false
+        },
+        {
+          "key": "action",
+          "label": "Ação a Tomar",
+          "placeholder": "O que devo fazer com esta palavra?",
+          "type": "textarea",
+          "required": true
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "morning",
+      "name": "Devocionais Matinais",
+      "templates": ["daily_reflection", "lectio_divina"]
+    },
+    {
+      "id": "evening",
+      "name": "Reflexões Noturnas", 
+      "templates": ["examination", "gratitude"]
+    },
+    {
+      "id": "special",
+      "name": "Momentos Especiais",
+      "templates": ["rhema_word"]
+    }
+  ]
+}

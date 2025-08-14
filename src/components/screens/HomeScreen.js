@@ -1,400 +1,279 @@
-// src/components/screens/HomeScreen.js
 import React from 'react';
-import { View, Text, TouchableOpacity, StyleSheet, ScrollView, StatusBar } from 'react-native';
+import {
+  View,
+  Text,
+  StyleSheet,
+  TouchableOpacity,
+  ScrollView,
+  Dimensions,
+} from 'react-native';
+import { Ionicons } from '@expo/vector-icons';
 
-export default function HomeScreen({ navigation }) {
-  const currentDate = new Date().toLocaleDateString('pt-BR', { 
-    weekday: 'long', 
-    day: 'numeric',
-    month: 'long'
-  });
+const { width } = Dimensions.get('window');
+
+const HomeScreen = ({ navigation }) => {
+  const mainFeatures = [
+    {
+      id: 'read',
+      title: 'Ler a Bíblia',
+      subtitle: '73 livros católicos',
+      icon: 'book-outline',
+      color: '#4A90E2',
+      onPress: () => navigation.navigate('Books')
+    },
+    {
+      id: 'search',
+      title: 'Pesquisar',
+      subtitle: 'Encontre versículos',
+      icon: 'search-outline',
+      color: '#27AE60',
+      onPress: () => navigation.navigate('Search')
+    }
+  ];
+
+  const spiritualFeatures = [
+    {
+      id: 'favorites',
+      title: 'Favoritos',
+      subtitle: 'Versículos salvos',
+      icon: 'heart-outline',
+      color: '#E74C3C',
+      onPress: () => navigation.navigate('Favoritos')
+    },
+    {
+      id: 'diary',
+      title: 'Diário Espiritual',
+      subtitle: 'Reflexões pessoais',
+      icon: 'journal-outline',
+      color: '#9B59B6',
+      onPress: () => navigation.navigate('DiarioEspiritual')
+    },
+    {
+      id: 'prayer',
+      title: 'Orando com a Bíblia',
+      subtitle: 'Jornadas de oração',
+      icon: 'praying-hands',
+      color: '#E67E22',
+      onPress: () => navigation.navigate('OrandoComBiblia')
+    }
+  ];
+
+  const renderFeatureCard = (feature, isLarge = false) => {
+    const cardWidth = isLarge ? width - 40 : (width - 60) / 2;
+    
+    return (
+      <TouchableOpacity
+        key={feature.id}
+        style={[
+          styles.featureCard,
+          {
+            width: cardWidth,
+            backgroundColor: feature.color,
+            height: isLarge ? 120 : 100,
+          }
+        ]}
+        onPress={feature.onPress}
+        activeOpacity={0.8}
+      >
+        <View style={styles.cardContent}>
+          <Ionicons 
+            name={feature.icon} 
+            size={isLarge ? 32 : 28} 
+            color="#FFFFFF" 
+          />
+          <Text style={[
+            styles.cardTitle,
+            { fontSize: isLarge ? 18 : 16 }
+          ]}>
+            {feature.title}
+          </Text>
+          <Text style={[
+            styles.cardSubtitle,
+            { fontSize: isLarge ? 14 : 12 }
+          ]}>
+            {feature.subtitle}
+          </Text>
+        </View>
+      </TouchableOpacity>
+    );
+  };
 
   return (
-    <View style={styles.container}>
-      <StatusBar barStyle="light-content" backgroundColor="#1A1A2E" />
-      
-      <ScrollView style={styles.scrollView} showsVerticalScrollIndicator={false}>
-        {/* Header Principal */}
-        <View style={styles.headerSection}>
-          <View style={styles.headerTop}>
-            <View>
-              <Text style={styles.greeting}>Boa leitura!</Text>
-              <Text style={styles.date}>{currentDate}</Text>
-            </View>
-            <TouchableOpacity 
-              style={styles.profileButton}
-              onPress={() => navigation.navigate('Settings')}
-            >
-              <Text style={styles.profileIcon}>👤</Text>
-            </TouchableOpacity>
-          </View>
-          
-          {/* Versículo do Dia */}
-          <View style={styles.verseCard}>
-            <Text style={styles.verseLabel}>VERSÍCULO DO DIA</Text>
-            <Text style={styles.verseText}>
-              "Porque Deus tanto amou o mundo que deu o seu Filho unigênito..."
-            </Text>
-            <Text style={styles.verseReference}>João 3:16</Text>
-          </View>
-        </View>
+    <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
+      <View style={styles.header}>
+        <Text style={styles.welcomeText}>Bíblia Católica</Text>
+        <Text style={styles.subtitleText}>
+          "Toda a Escritura divinamente inspirada é proveitosa" - 2 Timóteo 3:16
+        </Text>
+      </View>
 
-        {/* Ações Rápidas */}
-        <View style={styles.quickActions}>
-          <Text style={styles.sectionTitle}>Continuar lendo</Text>
-          
-          <TouchableOpacity 
-            style={styles.continueCard}
-            onPress={() => navigation.navigate('Books')}
-          >
-            <View style={styles.continueContent}>
-              <View style={styles.continueText}>
-                <Text style={styles.continueTitle}>Evangelho de Marcos</Text>
-                <Text style={styles.continueSubtitle}>Capítulo 3 • Último acesso ontem</Text>
-              </View>
-              <View style={styles.continueProgress}>
-                <View style={styles.progressBar}>
-                  <View style={[styles.progressFill, { width: '35%' }]} />
-                </View>
-                <Text style={styles.progressText}>35%</Text>
-              </View>
+      <View style={styles.section}>
+        <Text style={styles.sectionTitle}>Leitura da Palavra</Text>
+        <View style={styles.mainFeaturesContainer}>
+          {mainFeatures.map(feature => renderFeatureCard(feature, true))}
+        </View>
+      </View>
+
+      <View style={styles.section}>
+        <Text style={styles.sectionTitle}>Vida Espiritual</Text>
+        <View style={styles.featuresGrid}>
+          {spiritualFeatures.map(feature => renderFeatureCard(feature))}
+        </View>
+      </View>
+
+      <View style={styles.section}>
+        <Text style={styles.sectionTitle}>Recursos Extras</Text>
+        <View style={styles.extraFeatures}>
+          <TouchableOpacity style={styles.extraFeatureItem}>
+            <Ionicons name="notifications-outline" size={24} color="#666" />
+            <View style={styles.extraFeatureText}>
+              <Text style={styles.extraFeatureTitle}>Palavra do Dia</Text>
+              <Text style={styles.extraFeatureSubtitle}>Notificações personalizadas</Text>
             </View>
+            <Ionicons name="chevron-forward" size={20} color="#CCC" />
+          </TouchableOpacity>
+
+          <TouchableOpacity style={styles.extraFeatureItem}>
+            <Ionicons name="color-palette-outline" size={24} color="#666" />
+            <View style={styles.extraFeatureText}>
+              <Text style={styles.extraFeatureTitle}>Temas e Fundos</Text>
+              <Text style={styles.extraFeatureSubtitle}>Personalize sua leitura</Text>
+            </View>
+            <Ionicons name="chevron-forward" size={20} color="#CCC" />
+          </TouchableOpacity>
+
+          <TouchableOpacity style={styles.extraFeatureItem}>
+            <Ionicons name="cloud-download-outline" size={24} color="#666" />
+            <View style={styles.extraFeatureText}>
+              <Text style={styles.extraFeatureTitle}>Backup & Restauração</Text>
+              <Text style={styles.extraFeatureSubtitle}>Sincronize seus dados</Text>
+            </View>
+            <Ionicons name="chevron-forward" size={20} color="#CCC" />
           </TouchableOpacity>
         </View>
+      </View>
 
-        {/* Menu Principal */}
-        <View style={styles.mainMenu}>
-          <Text style={styles.sectionTitle}>Explorar</Text>
-          
-          <View style={styles.menuGrid}>
-            {/* Linha 1 */}
-            <View style={styles.menuRow}>
-              <TouchableOpacity 
-                style={[styles.menuCard, styles.menuCardLarge]}
-                onPress={() => navigation.navigate('Books')}
-              >
-                <View style={styles.menuIconContainer}>
-                  <Text style={styles.menuIcon}>📖</Text>
-                </View>
-                <Text style={styles.menuTitle}>Escrituras</Text>
-                <Text style={styles.menuSubtitle}>Ler a Bíblia</Text>
-              </TouchableOpacity>
-
-              <TouchableOpacity 
-                style={styles.menuCard}
-                onPress={() => navigation.navigate('Liturgy')}
-              >
-                <View style={[styles.menuIconContainer, styles.iconLiturgy]}>
-                  <Text style={styles.menuIcon}>⛪</Text>
-                </View>
-                <Text style={styles.menuTitle}>Liturgia</Text>
-              </TouchableOpacity>
-            </View>
-
-            {/* Linha 2 */}
-            <View style={styles.menuRow}>
-              <TouchableOpacity 
-                style={styles.menuCard}
-                onPress={() => navigation.navigate('Search')}
-              >
-                <View style={[styles.menuIconContainer, styles.iconSearch]}>
-                  <Text style={styles.menuIcon}>🔍</Text>
-                </View>
-                <Text style={styles.menuTitle}>Buscar</Text>
-              </TouchableOpacity>
-
-              <TouchableOpacity 
-                style={styles.menuCard}
-                onPress={() => navigation.navigate('Favorites')}
-              >
-                <View style={[styles.menuIconContainer, styles.iconFavorites]}>
-                  <Text style={styles.menuIcon}>💝</Text>
-                </View>
-                <Text style={styles.menuTitle}>Favoritos</Text>
-              </TouchableOpacity>
-
-              <TouchableOpacity 
-                style={styles.menuCard}
-                onPress={() => navigation.navigate('Settings')}
-              >
-                <View style={[styles.menuIconContainer, styles.iconPlans]}>
-                  <Text style={styles.menuIcon}>📚</Text>
-                </View>
-                <Text style={styles.menuTitle}>Planos</Text>
-              </TouchableOpacity>
-            </View>
-          </View>
-        </View>
-
-        {/* Seção de Descoberta */}
-        <View style={styles.discoverySection}>
-          <Text style={styles.sectionTitle}>Descobrir</Text>
-          
-          <ScrollView horizontal showsHorizontalScrollIndicator={false}>
-            <TouchableOpacity style={styles.discoveryCard}>
-              <View style={styles.discoveryImage}>
-                <Text style={styles.discoveryEmoji}>🌅</Text>
-              </View>
-              <Text style={styles.discoveryTitle}>Oração da Manhã</Text>
-              <Text style={styles.discoverySubtitle}>5 min</Text>
-            </TouchableOpacity>
-
-            <TouchableOpacity style={styles.discoveryCard}>
-              <View style={styles.discoveryImage}>
-                <Text style={styles.discoveryEmoji}>🕊️</Text>
-              </View>
-              <Text style={styles.discoveryTitle}>Paz Interior</Text>
-              <Text style={styles.discoverySubtitle}>Reflexão</Text>
-            </TouchableOpacity>
-
-            <TouchableOpacity style={styles.discoveryCard}>
-              <View style={styles.discoveryImage}>
-                <Text style={styles.discoveryEmoji}>💫</Text>
-              </View>
-              <Text style={styles.discoveryTitle}>Esperança</Text>
-              <Text style={styles.discoverySubtitle}>Meditação</Text>
-            </TouchableOpacity>
-          </ScrollView>
-        </View>
-      </ScrollView>
-    </View>
+      <View style={styles.footer}>
+        <Text style={styles.footerText}>
+          "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho" - Salmos 119:105
+        </Text>
+      </View>
+    </ScrollView>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#F8F9FA',
+    backgroundColor: '#F5F5F5',
   },
-  scrollView: {
-    flex: 1,
+  header: {
+    paddingHorizontal: 20,
+    paddingVertical: 30,
+    alignItems: 'center',
   },
-
-  // Header
-  headerSection: {
-    backgroundColor: '#1A1A2E',
-    borderBottomLeftRadius: 24,
-    borderBottomRightRadius: 24,
-    paddingTop: 60,
-    paddingBottom: 24,
+  welcomeText: {
+    fontSize: 28,
+    fontWeight: '700',
+    color: '#1A1A2E',
+    marginBottom: 8,
+  },
+  subtitleText: {
+    fontSize: 14,
+    color: '#666',
+    textAlign: 'center',
+    fontStyle: 'italic',
     paddingHorizontal: 20,
   },
-  headerTop: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'flex-start',
-    marginBottom: 24,
+  section: {
+    paddingHorizontal: 20,
+    marginBottom: 30,
   },
-  greeting: {
-    fontSize: 28,
-    fontWeight: 'bold',
-    color: '#FFFFFF',
-    marginBottom: 4,
-  },
-  date: {
-    fontSize: 16,
-    color: '#A0A0A0',
-    textTransform: 'capitalize',
-  },
-  profileButton: {
-    width: 44,
-    height: 44,
-    backgroundColor: 'rgba(255, 255, 255, 0.1)',
-    borderRadius: 22,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  profileIcon: {
-    fontSize: 20,
-  },
-
-  // Versículo do Dia
-  verseCard: {
-    backgroundColor: 'rgba(255, 255, 255, 0.05)',
-    borderRadius: 16,
-    padding: 20,
-    borderLeftWidth: 4,
-    borderLeftColor: '#6C63FF',
-  },
-  verseLabel: {
-    fontSize: 12,
-    fontWeight: '600',
-    color: '#6C63FF',
-    letterSpacing: 1,
-    marginBottom: 12,
-  },
-  verseText: {
-    fontSize: 16,
-    color: '#FFFFFF',
-    lineHeight: 24,
-    marginBottom: 12,
-  },
-  verseReference: {
-    fontSize: 14,
-    color: '#A0A0A0',
-    fontWeight: '500',
-  },
-
-  // Seções
   sectionTitle: {
-    fontSize: 22,
-    fontWeight: 'bold',
+    fontSize: 20,
+    fontWeight: '600',
     color: '#1A1A2E',
-    marginBottom: 16,
+    marginBottom: 15,
   },
-
-  // Ações Rápidas
-  quickActions: {
-    padding: 20,
-    paddingTop: 32,
+  mainFeaturesContainer: {
+    gap: 15,
   },
-  continueCard: {
-    backgroundColor: '#FFFFFF',
-    borderRadius: 16,
-    padding: 20,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.1,
-    shadowRadius: 8,
-    elevation: 4,
-  },
-  continueContent: {
+  featuresGrid: {
     flexDirection: 'row',
+    flexWrap: 'wrap',
     justifyContent: 'space-between',
-    alignItems: 'center',
+    gap: 15,
   },
-  continueText: {
-    flex: 1,
-  },
-  continueTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
-    color: '#1A1A2E',
-    marginBottom: 4,
-  },
-  continueSubtitle: {
-    fontSize: 14,
-    color: '#6B7280',
-  },
-  continueProgress: {
-    alignItems: 'flex-end',
-  },
-  progressBar: {
-    width: 60,
-    height: 4,
-    backgroundColor: '#E5E7EB',
-    borderRadius: 2,
-    marginBottom: 4,
-  },
-  progressFill: {
-    height: '100%',
-    backgroundColor: '#6C63FF',
-    borderRadius: 2,
-  },
-  progressText: {
-    fontSize: 12,
-    color: '#6B7280',
-    fontWeight: '500',
-  },
-
-  // Menu Principal
-  mainMenu: {
-    padding: 20,
-  },
-  menuGrid: {
-    gap: 12,
-  },
-  menuRow: {
-    flexDirection: 'row',
-    gap: 12,
-  },
-  menuCard: {
-    flex: 1,
-    backgroundColor: '#FFFFFF',
-    borderRadius: 16,
+  featureCard: {
+    borderRadius: 15,
     padding: 20,
     shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
+    shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.1,
-    shadowRadius: 8,
+    shadowRadius: 6,
     elevation: 4,
-    minHeight: 100,
   },
-  menuCardLarge: {
-    flex: 2,
-  },
-  menuIconContainer: {
-    width: 48,
-    height: 48,
-    backgroundColor: '#F3F4F6',
-    borderRadius: 12,
-    justifyContent: 'center',
+  cardContent: {
     alignItems: 'center',
-    marginBottom: 12,
+    justifyContent: 'center',
+    flex: 1,
   },
-  iconLiturgy: {
-    backgroundColor: '#FEF3C7',
+  cardTitle: {
+    fontWeight: '600',
+    color: '#FFFFFF',
+    marginTop: 8,
+    marginBottom: 4,
+    textAlign: 'center',
   },
-  iconSearch: {
-    backgroundColor: '#DBEAFE',
+  cardSubtitle: {
+    color: '#FFFFFF',
+    opacity: 0.9,
+    textAlign: 'center',
   },
-  iconFavorites: {
-    backgroundColor: '#FCE7F3',
-  },
-  iconPlans: {
-    backgroundColor: '#D1FAE5',
-  },
-  menuIcon: {
-    fontSize: 24,
-  },
-  menuTitle: {
-    fontSize: 16,
-    fontWeight: 'bold',
-    color: '#1A1A2E',
-    marginBottom: 2,
-  },
-  menuSubtitle: {
-    fontSize: 14,
-    color: '#6B7280',
-  },
-
-  // Descoberta
-  discoverySection: {
-    padding: 20,
-    paddingBottom: 40,
-  },
-  discoveryCard: {
-    width: 140,
-    marginRight: 16,
+  extraFeatures: {
     backgroundColor: '#FFFFFF',
     borderRadius: 12,
-    padding: 16,
+    overflow: 'hidden',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.1,
+    shadowOpacity: 0.05,
     shadowRadius: 4,
     elevation: 2,
   },
-  discoveryImage: {
-    width: '100%',
-    height: 80,
-    backgroundColor: '#F3F4F6',
-    borderRadius: 8,
-    justifyContent: 'center',
+  extraFeatureItem: {
+    flexDirection: 'row',
     alignItems: 'center',
-    marginBottom: 12,
+    paddingHorizontal: 20,
+    paddingVertical: 16,
+    borderBottomWidth: 1,
+    borderBottomColor: '#F0F0F0',
   },
-  discoveryEmoji: {
-    fontSize: 32,
+  extraFeatureText: {
+    flex: 1,
+    marginLeft: 15,
   },
-  discoveryTitle: {
-    fontSize: 14,
-    fontWeight: 'bold',
+  extraFeatureTitle: {
+    fontSize: 16,
+    fontWeight: '500',
     color: '#1A1A2E',
-    marginBottom: 4,
   },
-  discoverySubtitle: {
-    fontSize: 12,
-    color: '#6B7280',
+  extraFeatureSubtitle: {
+    fontSize: 14,
+    color: '#666',
+    marginTop: 2,
+  },
+  footer: {
+    paddingHorizontal: 20,
+    paddingVertical: 30,
+    alignItems: 'center',
+  },
+  footerText: {
+    fontSize: 14,
+    color: '#666',
+    textAlign: 'center',
+    fontStyle: 'italic',
+    paddingHorizontal: 20,
   },
 });
+
+export default HomeScreen;

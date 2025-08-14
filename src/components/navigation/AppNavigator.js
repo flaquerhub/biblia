@@ -1,148 +1,114 @@
-// src/components/navigation/AppNavigator.js
 import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-// Importa as telas
+// ===== IMPORTS DAS TELAS EXISTENTES =====
 import HomeScreen from '../screens/HomeScreen';
 import BooksScreen from '../screens/BooksScreen';
 import ChaptersScreen from '../screens/ChaptersScreen';
 import ReadingScreen from '../screens/ReadingScreen';
 import SearchScreen from '../screens/SearchScreen';
-import LiturgyScreen from '../screens/LiturgyScreen';
-import SettingsScreen from '../screens/SettingsScreen';
-import FavoritesScreen from '../screens/FavoritesScreen';
+
+// ===== IMPORTS DAS NOVAS TELAS =====
+import FavoritosScreen from '../screens/FavoritosScreen';
+import DiarioEspiritualScreen from '../screens/DiarioEspiritualScreen';
+import OrandoComBibliaScreen from '../screens/OrandoComBibliaScreen';
 
 const Stack = createStackNavigator();
 
 const AppNavigator = () => {
   return (
-    <Stack.Navigator
-      initialRouteName="Home"
-      screenOptions={{
-        headerStyle: {
-          backgroundColor: '#1A1A2E', // Cor moderna escura
-          elevation: 0, // Remove sombra no Android
-          shadowOpacity: 0, // Remove sombra no iOS
-          borderBottomWidth: 0, // Remove linha inferior
-        },
-        headerTintColor: '#FFFFFF', // Texto branco
-        headerTitleStyle: {
-          fontWeight: 'bold',
-          fontSize: 18,
-        },
-        headerBackTitleVisible: false, // Remove "Back" no iOS
-        headerLeftContainerStyle: {
-          paddingLeft: 16,
-        },
-        headerRightContainerStyle: {
-          paddingRight: 16,
-        },
-      }}
-    >
-      <Stack.Screen 
-        name="Home" 
-        component={HomeScreen}
-        options={{ 
-          headerShown: false // Esconde header na home
-        }}
-      />
-      
-      <Stack.Screen 
-        name="Books" 
-        component={BooksScreen}
-        options={{ 
-          headerShown: false // Esconde header - usa header customizado
-        }}
-      />
-      
-      <Stack.Screen 
-        name="Chapters" 
-        component={ChaptersScreen}
-        options={{ 
-          headerShown: false // Esconde header - usa header customizado
-        }}
-      />
-      
-      <Stack.Screen 
-        name="Reading" 
-        component={ReadingScreen}
-        options={{ 
-          headerShown: false // Esconde header - usa header customizado
-        }}
-      />
-      
-      <Stack.Screen 
-        name="Search" 
-        component={SearchScreen}
-        options={{ 
-          title: 'Buscar',
+    <NavigationContainer>
+      <Stack.Navigator
+        initialRouteName="Home"
+        screenOptions={{
           headerStyle: {
             backgroundColor: '#1A1A2E',
-            elevation: 0,
-            shadowOpacity: 0,
           },
           headerTintColor: '#FFFFFF',
           headerTitleStyle: {
-            fontWeight: 'bold',
-            fontSize: 18,
+            fontWeight: '600',
+          },
+          cardStyle: {
+            backgroundColor: '#F5F5F5',
           },
         }}
-      />
-      
-      <Stack.Screen 
-        name="Liturgy" 
-        component={LiturgyScreen}
-        options={{ 
-          title: 'Liturgia do Dia',
-          headerStyle: {
-            backgroundColor: '#1A1A2E',
-            elevation: 0,
-            shadowOpacity: 0,
-          },
-          headerTintColor: '#FFFFFF',
-          headerTitleStyle: {
-            fontWeight: 'bold',
-            fontSize: 18,
-          },
-        }}
-      />
-      
-      <Stack.Screen 
-        name="Favorites" 
-        component={FavoritesScreen}
-        options={{ 
-          title: 'Favoritos',
-          headerStyle: {
-            backgroundColor: '#1A1A2E',
-            elevation: 0,
-            shadowOpacity: 0,
-          },
-          headerTintColor: '#FFFFFF',
-          headerTitleStyle: {
-            fontWeight: 'bold',
-            fontSize: 18,
-          },
-        }}
-      />
-      
-      <Stack.Screen 
-        name="Settings" 
-        component={SettingsScreen}
-        options={{ 
-          title: 'Configurações',
-          headerStyle: {
-            backgroundColor: '#1A1A2E',
-            elevation: 0,
-            shadowOpacity: 0,
-          },
-          headerTintColor: '#FFFFFF',
-          headerTitleStyle: {
-            fontWeight: 'bold',
-            fontSize: 18,
-          },
-        }}
-      />
-    </Stack.Navigator>
+      >
+        <Stack.Screen 
+          name="Home" 
+          component={HomeScreen}
+          options={{
+            title: 'Bíblia Católica',
+            headerStyle: {
+              backgroundColor: '#1A1A2E',
+            },
+          }}
+        />
+        
+        <Stack.Screen 
+          name="Books" 
+          component={BooksScreen}
+          options={{
+            title: 'Livros da Bíblia',
+          }}
+        />
+        
+        <Stack.Screen 
+          name="Chapters" 
+          component={ChaptersScreen}
+          options={({ route }) => ({
+            title: route.params?.bookName || 'Capítulos',
+          })}
+        />
+        
+        <Stack.Screen 
+          name="Reading" 
+          component={ReadingScreen}
+          options={({ route }) => ({
+            title: `${route.params?.bookName || 'Livro'} ${route.params?.chapter || ''}`,
+            headerStyle: {
+              backgroundColor: '#1A1A2E',
+            },
+          })}
+        />
+        
+        <Stack.Screen 
+          name="Search" 
+          component={SearchScreen}
+          options={{
+            title: 'Pesquisar',
+          }}
+        />
+
+        {/* ===== NOVAS TELAS ===== */}
+        <Stack.Screen 
+          name="Favoritos" 
+          component={FavoritosScreen}
+          options={{
+            title: 'Meus Favoritos',
+            headerShown: false, // Usando header personalizado
+          }}
+        />
+
+        <Stack.Screen 
+          name="DiarioEspiritual" 
+          component={DiarioEspiritualScreen}
+          options={{
+            title: 'Diário Espiritual',
+            headerShown: false, // Usando header personalizado
+          }}
+        />
+
+        <Stack.Screen 
+          name="OrandoComBiblia" 
+          component={OrandoComBibliaScreen}
+          options={{
+            title: 'Orando com a Bíblia',
+            headerShown: false, // Usando header personalizado
+          }}
+        />
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 };
 

@@ -1,0 +1,258 @@
+{
+  "backgrounds": {
+    "catolicos": [
+      {
+        "id": "cruz_por_do_sol",
+        "name": "Cruz ao Pôr do Sol",
+        "description": "Cruz majestosa contra um céu dourado",
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+        "category": "simbolos",
+        "colors": ["#FFD700", "#FF6347"]
+      },
+      {
+        "id": "catedral_gotica",
+        "name": "Catedral Gótica",
+        "description": "Interior majestoso de catedral com vitrais coloridos",
+        "url": "https://images.unsplash.com/photo-1520637836862-4d197d17c93a?w=800",
+        "category": "igrejas",
+        "colors": ["#4169E1", "#8A2BE2"]
+      },
+      {
+        "id": "santo_rosario",
+        "name": "Santo Rosário",
+        "description": "Rosário sobre fundo suave com luz dourada",
+        "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+        "category": "simbolos",
+        "colors": ["#DAA520", "#F0E68C"]
+      },
+      {
+        "id": "anjo_oracao",
+        "name": "Anjo em Oração",
+        "description": "Estátua de anjo em posição de oração",
+        "url": "https://images.unsplash.com/photo-1519904981063-b0cf5ba6c7e2?w=800",
+        "category": "santos",
+        "colors": ["#F5F5DC", "#CD853F"]
+      },
+      {
+        "id": "sagrado_coracao",
+        "name": "Sagrado Coração",
+        "description": "Imagem do Sagrado Coração de Jesus",
+        "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+        "category": "santos",
+        "colors": ["#DC143C", "#FFD700"]
+      },
+      {
+        "id": "nossa_senhora",
+        "name": "Nossa Senhora",
+        "description": "Imagem suave de Nossa Senhora",
+        "url": "https://images.unsplash.com/photo-1519904981063-b0cf5ba6c7e2?w=800",
+        "category": "santos",
+        "colors": ["#4169E1", "#FFFFFF"]
+      },
+      {
+        "id": "velas_oracao",
+        "name": "Velas de Oração",
+        "description": "Velas acesas em ambiente de oração",
+        "url": "https://images.unsplash.com/photo-1544152/photo-1544152.jpg?w=800",
+        "category": "simbolos",
+        "colors": ["#FFD700", "#FF4500"]
+      },
+      {
+        "id": "pomba_espirito_santo",
+        "name": "Pomba do Espírito Santo",
+        "description": "Pomba branca com raios de luz dourada",
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+        "category": "simbolos",
+        "colors": ["#FFFFFF", "#FFD700"]
+      }
+    ],
+    "natureza_biblica": [
+      {
+        "id": "jardim_eden",
+        "name": "Jardim do Éden",
+        "description": "Jardim exuberante com flores e árvores",
+        "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800",
+        "category": "jardins",
+        "colors": ["#228B22", "#32CD32"],
+        "referencias_biblicas": ["Gênesis 2:8", "Ezequiel 36:35"]
+      },
+      {
+        "id": "monte_sinai",
+        "name": "Monte Sinai",
+        "description": "Montanha majestosa contra céu azul",
+        "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+        "category": "montanhas",
+        "colors": ["#8B4513", "#87CEEB"],
+        "referencias_biblicas": ["Êxodo 19:20", "Deuteronômio 33:2"]
+      },
+      {
+        "id": "mar_galileia",
+        "name": "Mar da Galileia",
+        "description": "Águas calmas ao nascer do sol",
+        "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800",
+        "category": "mares",
+        "colors": ["#4682B4", "#FFD700"],
+        "referencias_biblicas": ["Mateus 4:18", "João 6:1"]
+      },
+      {
+        "id": "campo_trigo",
+        "name": "Campo de Trigo",
+        "description": "Campo dourado de trigo balançando ao vento",
+        "url": "https://images.unsplash.com/photo-1574943400292-e8d48c3a3fd3?w=800",
+        "category": "campos",
+        "colors": ["#DAA520", "#F0E68C"],
+        "referencias_biblicas": ["Mateus 13:24", "João 12:24"]
+      },
+      {
+        "id": "deserto_estrelas",
+        "name": "Deserto Estrelado",
+        "description": "Céu estrelado sobre paisagem desértica",
+        "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=800",
+        "category": "desertos",
+        "colors": ["#191970", "#FFD700"],
+        "referencias_biblicas": ["Gênesis 15:5", "Deuteronômio 8:15"]
+      },
+      {
+        "id": "oasis",
+        "name": "Oásis no Deserto",
+        "description": "Palmeiras e água cristalina no deserto",
+        "url": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800",
+        "category": "desertos",
+        "colors": ["#228B22", "#87CEEB"],
+        "referencias_biblicas": ["Isaías 35:1", "Salmos 1:3"]
+      },
+      {
+        "id": "getsemani",
+        "name": "Jardim do Getsêmani",
+        "description": "Oliveiras antigas em jardim tranquilo",
+        "url": "https://images.unsplash.com/photo-1545063328-74/getsemani.jpg?w=800",
+        "category": "jardins",
+        "colors": ["#556B2F", "#8FBC8F"],
+        "referencias_biblicas": ["Mateus 26:36", "Marcos 14:32"]
+      },
+      {
+        "id": "rio_jordao",
+        "name": "Rio Jordão",
+        "description": "Rio serpenteando entre vegetação",
+        "url": "https://images.unsplash.com/photo-1520637736862-4d197d17c93a?w=800",
+        "category": "rios",
+        "colors": ["#4682B4", "#228B22"],
+        "referencias_biblicas": ["Mateus 3:13", "2 Reis 2:8"]
+      },
+      {
+        "id": "cedros_libano",
+        "name": "Cedros do Líbano",
+        "description": "Majestosos cedros contra o céu azul",
+        "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800",
+        "category": "arvores",
+        "colors": ["#228B22", "#87CEEB"],
+        "referencias_biblicas": ["1 Reis 5:6", "Salmos 92:12"]
+      },
+      {
+        "id": "vale_sombra",
+        "name": "Vale da Sombra da Morte",
+        "description": "Vale sereno com luz suave",
+        "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+        "category": "vales",
+        "colors": ["#2F4F4F", "#B0C4DE"],
+        "referencias_biblicas": ["Salmos 23:4"]
+      }
+    ],
+    "minimalistas": [
+      {
+        "id": "gradiente_azul",
+        "name": "Gradiente Azul Celestial",
+        "description": "Gradiente suave do azul claro ao escuro",
+        "colors": ["#87CEEB", "#4682B4"],
+        "category": "gradientes"
+      },
+      {
+        "id": "gradiente_dourado",
+        "name": "Gradiente Dourado",
+        "description": "Gradiente dourado inspirador",
+        "colors": ["#FFD700", "#FF8C00"],
+        "category": "gradientes"
+      },
+      {
+        "id": "gradiente_roxo",
+        "name": "Gradiente Roxo Espiritual",
+        "description": "Gradiente roxo para momentos de adoração",
+        "colors": ["#9370DB", "#6A5ACD"],
+        "category": "gradientes"
+      },
+      {
+        "id": "gradiente_verde",
+        "name": "Gradiente Verde Esperança",
+        "description": "Gradiente verde representando vida nova",
+        "colors": ["#32CD32", "#228B22"],
+        "category": "gradientes"
+      },
+      {
+        "id": "papel_pergaminho",
+        "name": "Papel Pergaminho",
+        "description": "Textura suave de pergaminho antigo",
+        "colors": ["#F5F5DC", "#DEB887"],
+        "category": "texturas"
+      },
+      {
+        "id": "marmore_branco",
+        "name": "Mármore Branco",
+        "description": "Textura suave de mármore branco",
+        "colors": ["#FFFFFF", "#F8F8FF"],
+        "category": "texturas"
+      }
+    ]
+  },
+  "categorias": [
+    {
+      "id": "simbolos",
+      "name": "Símbolos Católicos",
+      "description": "Cruzes, rosários e símbolos da fé"
+    },
+    {
+      "id": "igrejas",
+      "name": "Igrejas e Catedrais",
+      "description": "Ambientes sacros e arquitetura religiosa"
+    },
+    {
+      "id": "santos",
+      "name": "Santos e Santas",
+      "description": "Imagens devotas para inspiração"
+    },
+    {
+      "id": "jardins",
+      "name": "Jardins Bíblicos",
+      "description": "Jardins mencionados nas Escrituras"
+    },
+    {
+      "id": "montanhas",
+      "name": "Montanhas Sagradas",
+      "description": "Montes onde Deus se revelou"
+    },
+    {
+      "id": "mares",
+      "name": "Mares e Lagos",
+      "description": "Águas onde Jesus ministrou"
+    },
+    {
+      "id": "campos",
+      "name": "Campos e Plantações",
+      "description": "Cenários das parábolas de Jesus"
+    },
+    {
+      "id": "desertos",
+      "name": "Desertos",
+      "description": "Lugares de encontro com Deus"
+    },
+    {
+      "id": "gradientes",
+      "name": "Gradientes Minimalistas",
+      "description": "Fundos suaves e elegantes"
+    },
+    {
+      "id": "texturas",
+      "name": "Texturas Clássicas", 
+      "description": "Texturas inspiradas em manuscritos antigos"
+    }
+  ]
+}
